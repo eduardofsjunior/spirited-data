@@ -1,0 +1,108 @@
+# SpiritedData - Git Ignore File
+
+# Environment Variables & Secrets
+.env
+.env.local
+.streamlit/secrets.toml
+*.key
+*.pem
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+venv/
+.venv/
+env/
+ENV/
+virtualenv/
+
+# Jupyter Notebook
+notebooks/
+*.ipynb_checkpoints/
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Data Files (too large for git)
+data/raw/
+data/processed/*.csv
+data/processed/*.json
+*.duckdb
+*.duckdb.wal
+data/vectors/
+
+# Go
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+bin/
+*.test
+*.out
+go.work
+
+# dbt
+dbt_packages/
+logs/
+target/
+dbt_modules/
+
+# IDE & Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Tableau
+*.twb~
+*.hyper
+
+# LangChain/ChromaDB
+chroma_data/
+.chroma/
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Personal workflow tools (BMAD, etc.)
+.bmad-core/
+.claude/
+.cursor/
+
+# Documentation (local development only)
+docs/

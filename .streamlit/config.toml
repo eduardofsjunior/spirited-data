@@ -1,0 +1,15 @@
+[theme]
+primaryColor = "#6B9A8A"        # Ghibli green
+backgroundColor = "#F5F2E8"     # Warm beige
+secondaryBackgroundColor = "#E8DCC4"
+textColor = "#2C3E50"
+font = "sans serif"
+
+[server]
+port = 8501
+headless = true
+enableCORS = false
+enableXsrfProtection = true
+
+[browser]
+gatherUsageStats = false
