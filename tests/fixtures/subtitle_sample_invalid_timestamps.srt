@@ -1,0 +1,11 @@
+1
+00:00:20,000 -> 00:00:24,400
+Missing arrow in timestamp
+
+2
+00:00:24,600 --> 00:00:27,800
+Valid subtitle after invalid one.
+
+3
+invalid timestamp format
+Text without proper timestamp.
