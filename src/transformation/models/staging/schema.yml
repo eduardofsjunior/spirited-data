@@ -1,0 +1,163 @@
+version: 2
+
+models:
+  - name: stg_films
+    description: "Cleaned and typed film data from Ghibli API with standardized column names and types"
+    columns:
+      - name: id
+        description: "Unique Ghibli API film identifier (UUID)"
+        tests:
+          - not_null
+          - unique
+      
+      - name: title
+        description: "English film title"
+        tests:
+          - not_null
+      
+      - name: release_year
+        description: "Film release year (type cast from string to integer)"
+        tests:
+          - not_null
+      
+      - name: rt_score
+        description: "Rotten Tomatoes score (0-100, type cast to integer)"
+      
+      - name: running_time
+        description: "Film duration in minutes (type cast to integer)"
+      
+      - name: director
+        description: "Film director name"
+      
+      - name: producer
+        description: "Film producer name"
+      
+      - name: description
+        description: "Film synopsis/description"
+      
+      - name: image
+        description: "URL to film poster image"
+      
+      - name: movie_banner
+        description: "URL to film banner image"
+
+  - name: stg_people
+    description: "Cleaned character data from Ghibli API with standardized gender values and species relationships"
+    columns:
+      - name: id
+        description: "Unique character identifier (UUID)"
+        tests:
+          - not_null
+          - unique
+      
+      - name: name
+        description: "Character name"
+        tests:
+          - not_null
+      
+      - name: gender
+        description: "Character gender (Male/Female/NULL, standardized from raw 'NA' values)"
+      
+      - name: age
+        description: "Character age (string, contains mixed values: numbers, 'Adult', 'unknown')"
+      
+      - name: eye_color
+        description: "Character eye color"
+      
+      - name: hair_color
+        description: "Character hair color"
+      
+      - name: species_id
+        description: "Foreign key to species (extracted UUID from species URL)"
+
+  - name: stg_locations
+    description: "Cleaned location data from Ghibli API with type-safe numeric fields"
+    columns:
+      - name: id
+        description: "Unique location identifier (UUID)"
+        tests:
+          - not_null
+          - unique
+      
+      - name: name
+        description: "Location name"
+        tests:
+          - not_null
+      
+      - name: climate
+        description: "Location climate type"
+      
+      - name: terrain
+        description: "Location terrain type"
+      
+      - name: surface_water_pct
+        description: "Percentage of surface water coverage (converted from '40%' string to 40.0 double)"
+
+  - name: stg_species
+    description: "Cleaned species/creature classification data from Ghibli API"
+    columns:
+      - name: id
+        description: "Unique species identifier (UUID)"
+        tests:
+          - not_null
+          - unique
+      
+      - name: name
+        description: "Species name (e.g., 'Human', 'Cat', 'Spirit')"
+        tests:
+          - not_null
+      
+      - name: classification
+        description: "Species classification (e.g., 'Mammal', 'Bird', 'Supernatural')"
+      
+      - name: eye_colors
+        description: "Comma-separated list of possible eye colors for this species"
+      
+      - name: hair_colors
+        description: "Comma-separated list of possible hair colors for this species"
+
+  - name: stg_kaggle_films
+    description: "Kaggle CSV film data enriched with Ghibli API film IDs via fuzzy title matching (LOWER/TRIM comparison). Expected: 22 matched films, possibly 1 unmatched (Grave of the Fireflies)"
+    columns:
+      - name: film_id
+        description: "Foreign key to stg_films.id (fuzzy matched by title)"
+        tests:
+          - relationships:
+              arguments:
+                to: ref('stg_films')
+                field: id
+      
+      - name: title
+        description: "Film title from Kaggle dataset (renamed from 'name')"
+        tests:
+          - not_null
+      
+      - name: release_year
+        description: "Film release year (from 'year' column)"
+      
+      - name: director
+        description: "Film director name"
+      
+      - name: screenplay
+        description: "Screenplay writer name"
+      
+      - name: category
+        description: "Film category classification"
+      
+      - name: genre_1
+        description: "Primary genre classification"
+      
+      - name: genre_2
+        description: "Secondary genre classification"
+      
+      - name: genre_3
+        description: "Tertiary genre classification"
+      
+      - name: duration
+        description: "Film duration in minutes (type cast to integer from varchar)"
+      
+      - name: budget
+        description: "Production budget (double)"
+      
+      - name: revenue
+        description: "Box office revenue (double)"
