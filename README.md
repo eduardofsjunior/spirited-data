@@ -70,6 +70,54 @@ pip install "dbt-core>=1.6.0" "dbt-duckdb>=1.6.0"
 - `dbt docs generate` - Generate documentation
 - `dbt docs serve` - Launch documentation site (http://localhost:8080)
 
+### Viewing dbt Documentation
+
+The dbt documentation site provides interactive browsing of all models, sources, tests, and data lineage.
+
+**Generate Documentation:**
+
+```bash
+cd src/transformation
+export DUCKDB_PATH=$(pwd)/../../data/ghibli.duckdb  # Use absolute path or set in .env
+dbt docs generate
+```
+
+**Launch Documentation Site:**
+
+```bash
+cd src/transformation
+dbt docs serve
+```
+
+The documentation site will be available at `http://localhost:8080` (default port).
+
+**What You'll See:**
+
+- **Model Documentation**: Browse all staging, intermediate, and mart models with descriptions and column documentation
+- **DAG Visualization**: Interactive lineage graph showing data flow: sources → staging → intermediate → marts
+- **Data Lineage**: Click any model to see upstream dependencies (sources and parent models) and downstream consumers
+- **Column Details**: Detailed descriptions for each column including data types, business logic, and transformations
+- **Test Results**: View all data quality tests and their results
+
+**DAG Flow:**
+
+The lineage graph shows clear data flow:
+- **Sources** (bottom): `raw.films`, `raw.people`, `raw.locations`, `raw.species`, `raw.kaggle_films`
+- **Staging** (middle): `stg_films`, `stg_people`, `stg_locations`, `stg_species`, `stg_kaggle_films`
+- **Intermediate** (above staging): `int_film_character_edges`, `int_film_location_edges`, `int_character_species_edges`, `int_director_film_edges`
+- **Marts** (top): `mart_graph_nodes`, `mart_graph_edges`
+
+**Troubleshooting:**
+
+| Issue | Solution |
+|-------|----------|
+| Port 8080 already in use | Use custom port: `dbt docs serve --port 8081` |
+| "Cannot open file" error | Ensure `DUCKDB_PATH` points to existing database file (use absolute path) |
+| Catalog.json not generated | Database connection may have failed - check `dbt debug` output |
+| Models not appearing | Run `dbt compile` or `dbt run` first to ensure models are compiled |
+| Lineage shows "No resources" | Known dbt docs UI limitation: Individual model pages may show "No resources" in Depends On/Referenced By sections, but DAG visualization (View Lineage Graph) works correctly and shows all dependencies. Dependencies exist in manifest.json. Use DAG for lineage exploration. |
+| Description shows "not documented" | Ensure schema.yml files have model descriptions and regenerate docs: `dbt docs generate` |
+
 ### Troubleshooting
 
 | Error | Solution |

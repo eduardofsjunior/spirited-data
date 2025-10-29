@@ -2,23 +2,36 @@ version: 2
 
 models:
   - name: stg_films
-    description: "Cleaned and typed film data from Ghibli API with standardized column names and types"
+    description: |
+      Cleaned and typed film data from Ghibli API with standardized column names and types.
+      
+      Transformations applied:
+      - release_date (string) → release_year (integer): Extracts year from ISO date string
+      - rt_score (string) → rt_score (integer): Type casts Rotten Tomatoes score to integer
+      - running_time (string) → running_time (integer): Type casts duration in minutes to integer
+      
+      Source: raw.films (Ghibli API /films endpoint)
+      Expected row count: ~22 films
     columns:
       - name: id
         description: "Unique Ghibli API film identifier (UUID)"
         tests:
-          - not_null
-          - unique
+          - not_null:
+              description: "Ensures film ID is never NULL - required for all film records"
+          - unique:
+              description: "Ensures each film has a unique identifier - prevents duplicate films"
       
       - name: title
         description: "English film title"
         tests:
-          - not_null
+          - not_null:
+              description: "Ensures film title is never NULL - required field for all films"
       
       - name: release_year
         description: "Film release year (type cast from string to integer)"
         tests:
-          - not_null
+          - not_null:
+              description: "Ensures release year is never NULL - required for temporal analysis"
       
       - name: rt_score
         description: "Rotten Tomatoes score (0-100, type cast to integer)"
@@ -41,22 +54,53 @@ models:
       - name: movie_banner
         description: "URL to film banner image"
 
+      - name: people
+        description: "Array of character resource URLs from Ghibli API (used to derive character→film graph edges)"
+
+      - name: species
+        description: "Array of species resource URLs associated with the film (supports graph lineage)"
+
+      - name: locations
+        description: "Array of location resource URLs where the film takes place"
+
+      - name: vehicles
+        description: "Array of vehicle resource URLs appearing in the film"
+
+      - name: loaded_at
+        description: "Timestamp captured by ingestion pipeline indicating when the raw record was loaded"
+
+      - name: source
+        description: "Source system identifier for lineage auditing (e.g., ghibli_api)"
+
   - name: stg_people
-    description: "Cleaned character data from Ghibli API with standardized gender values and species relationships"
+    description: |
+      Cleaned character data from Ghibli API with standardized gender values and species relationships.
+      
+      Transformations applied:
+      - Gender standardization: 'NA' values converted to NULL, only 'Male' and 'Female' values preserved
+      - Species ID extraction: Extracts UUID from species URL field using SPLIT_PART on '/' delimiter
+      - Standardized column names: Uses 'name' instead of source 'name' field (preserved as-is)
+      
+      Source: raw.people (Ghibli API /people endpoint)
+      Note: API calls them "people" but they represent characters in films
+      Expected row count: ~87+ characters
     columns:
       - name: id
-        description: "Unique character identifier (UUID)"
+        description: "Unique character identifier (UUID from Ghibli API)"
         tests:
-          - not_null
-          - unique
+          - not_null:
+              description: "Ensures character ID is never NULL - required for all character records"
+          - unique:
+              description: "Ensures each character has a unique identifier - prevents duplicate characters"
       
       - name: name
         description: "Character name"
         tests:
-          - not_null
+          - not_null:
+              description: "Ensures character name is never NULL - required field for all characters"
       
       - name: gender
-        description: "Character gender (Male/Female/NULL, standardized from raw 'NA' values)"
+        description: "Character gender (Male/Female/NULL). Standardized from raw 'NA' values to NULL, preserving only valid 'Male' and 'Female' values"
       
       - name: age
         description: "Character age (string, contains mixed values: numbers, 'Adult', 'unknown')"
@@ -70,42 +114,85 @@ models:
       - name: species_id
         description: "Foreign key to species (extracted UUID from species URL)"
 
+      - name: films
+        description: "Array of film resource URLs the character appears in (preserved from source for lineage validation)"
+
+      - name: loaded_at
+        description: "Timestamp captured by ingestion pipeline indicating when character record was ingested"
+
+      - name: source
+        description: "Source system identifier for the character record"
+
   - name: stg_locations
-    description: "Cleaned location data from Ghibli API with type-safe numeric fields"
+    description: |
+      Cleaned location data from Ghibli API with type-safe numeric fields.
+      
+      Transformations applied:
+      - Surface water conversion: Converts string values like '40%' to double 40.0 by removing '%' and casting
+      - Climate/Terrain standardization: NULL values replaced with empty string '' using COALESCE
+      - Standardized column names: Preserves original names but ensures type safety
+      
+      Source: raw.locations (Ghibli API /locations endpoint)
+      Expected row count: ~13+ locations
     columns:
       - name: id
-        description: "Unique location identifier (UUID)"
+        description: "Unique location identifier (UUID from Ghibli API)"
         tests:
-          - not_null
-          - unique
+          - not_null:
+              description: "Ensures location ID is never NULL - required for all location records"
+          - unique:
+              description: "Ensures each location has a unique identifier - prevents duplicate locations"
       
       - name: name
         description: "Location name"
         tests:
-          - not_null
+          - not_null:
+              description: "Ensures location name is never NULL - required field for all locations"
       
       - name: climate
-        description: "Location climate type"
+        description: "Location climate type (NULL values standardized to empty string)"
       
       - name: terrain
-        description: "Location terrain type"
+        description: "Location terrain type (NULL values standardized to empty string)"
       
       - name: surface_water_pct
-        description: "Percentage of surface water coverage (converted from '40%' string to 40.0 double)"
+        description: "Percentage of surface water coverage (double). Converted from source string format like '40%' by removing '%' symbol and casting to DOUBLE. NULL if source value is missing or empty"
+
+      - name: residents
+        description: "Array of character resource URLs residing in this location (retained for downstream lineage checks)"
+
+      - name: films
+        description: "Array of film resource URLs associated with the location"
+
+      - name: loaded_at
+        description: "Timestamp captured by ingestion pipeline indicating when location record was ingested"
+
+      - name: source
+        description: "Source system identifier for the location record"
 
   - name: stg_species
-    description: "Cleaned species/creature classification data from Ghibli API"
+    description: |
+      Cleaned species/creature classification data from Ghibli API.
+      
+      Contains classification information for all creature types appearing in Studio Ghibli films.
+      Includes taxonomic information, physical characteristics (eye colors, hair colors), and relationships.
+      
+      Source: raw.species (Ghibli API /species endpoint)
+      Expected row count: ~14+ species
     columns:
       - name: id
         description: "Unique species identifier (UUID)"
         tests:
-          - not_null
-          - unique
+          - not_null:
+              description: "Ensures species ID is never NULL - required for all species records"
+          - unique:
+              description: "Ensures each species has a unique identifier - prevents duplicate species"
       
       - name: name
         description: "Species name (e.g., 'Human', 'Cat', 'Spirit')"
         tests:
-          - not_null
+          - not_null:
+              description: "Ensures species name is never NULL - required field for all species"
       
       - name: classification
         description: "Species classification (e.g., 'Mammal', 'Bird', 'Supernatural')"
@@ -116,13 +203,37 @@ models:
       - name: hair_colors
         description: "Comma-separated list of possible hair colors for this species"
 
+      - name: people
+        description: "Array of character resource URLs that belong to this species (retained for lineage navigation)"
+
+      - name: films
+        description: "Array of film resource URLs where this species appears"
+
+      - name: loaded_at
+        description: "Timestamp captured by ingestion pipeline indicating when species record was ingested"
+
+      - name: source
+        description: "Source system identifier for the species record"
+
   - name: stg_kaggle_films
-    description: "Kaggle CSV film data enriched with Ghibli API film IDs via fuzzy title matching (LOWER/TRIM comparison). Expected: 22 matched films, possibly 1 unmatched (Grave of the Fireflies)"
+    description: |
+      Kaggle CSV film data enriched with Ghibli API film IDs via fuzzy title matching.
+      
+      Fuzzy matching logic:
+      - Title cleaning: Removes newlines, extra spaces, and years in parentheses from Kaggle titles
+      - Matching method: Case-insensitive comparison using LOWER(TRIM(title)) between Kaggle and Ghibli API titles
+      - Left join: Preserves all Kaggle films, unmatched films will have NULL film_id
+      
+      Expected results: 22 matched films, possibly 1 unmatched (Grave of the Fireflies)
+      
+      Source: raw.kaggle_films (Kaggle CSV dataset)
+      Joined with: stg_films on cleaned title match
     columns:
       - name: film_id
-        description: "Foreign key to stg_films.id (fuzzy matched by title)"
+        description: "Foreign key to stg_films.id. Fuzzy matched by title using LOWER(TRIM(title)) comparison. NULL if no match found (e.g., Grave of the Fireflies)"
         tests:
           - relationships:
+              description: "Ensures film_id references a valid film in stg_films - validates fuzzy matching integrity"
               arguments:
                 to: ref('stg_films')
                 field: id
@@ -130,7 +241,8 @@ models:
       - name: title
         description: "Film title from Kaggle dataset (renamed from 'name')"
         tests:
-          - not_null
+          - not_null:
+              description: "Ensures film title is never NULL - required field for Kaggle film records"
       
       - name: release_year
         description: "Film release year (from 'year' column)"
@@ -161,3 +273,9 @@ models:
       
       - name: revenue
         description: "Box office revenue (double)"
+
+      - name: loaded_at
+        description: "Timestamp captured by ingestion pipeline indicating when Kaggle record was ingested"
+
+      - name: source
+        description: "Source identifier for the Kaggle record (e.g., kaggle_csv)"

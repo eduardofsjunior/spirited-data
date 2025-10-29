@@ -1,0 +1,163 @@
+version: 2
+
+models:
+  - name: int_film_character_edges
+    description: |
+      Intermediate model extracting character-film relationships (appears_in edge type).
+      
+      Extracts relationships by unnesting the people[] array from raw.films and joining
+      with raw.people on person URLs. Each edge represents a character appearing in a film.
+      
+      Edge direction: Character → Film (source_node_id = character, target_node_id = film)
+      Expected edge count: ~34 edges (characters appearing in films)
+      
+      This model is ephemeral (not materialized) and is consumed by mart_graph_edges.
+    columns:
+      - name: edge_id
+        description: "Unique edge identifier (format: edge_char_film_{row_number})"
+      
+      - name: source_node_id
+        description: "Source node ID (format: character_{uuid}) - represents the character"
+      
+      - name: target_node_id
+        description: "Target node ID (format: film_{uuid}) - represents the film"
+      
+      - name: edge_type
+        description: "Edge type: 'appears_in' (character appears in film)"
+      
+      - name: source_node_type
+        description: "Source node type: 'character'"
+      
+      - name: target_node_type
+        description: "Target node type: 'film'"
+      
+      - name: source_node_name
+        description: "Character name (for debugging/documentation)"
+      
+      - name: target_node_name
+        description: "Film title (for debugging/documentation)"
+      
+      - name: created_at
+        description: "Timestamp when edge was created (CURRENT_TIMESTAMP)"
+
+  - name: int_film_location_edges
+    description: |
+      Intermediate model extracting film-location relationships (filmed_at edge type).
+      
+      Uses reverse direction extraction: unnests films[] array from raw.locations (not
+      locations[] from raw.films) because locations.films[] contains full URLs with UUIDs,
+      while films.locations[] contains base URLs only (data quality issue in source API).
+      
+      Edge direction: Location → Film (source_node_id = location, target_node_id = film)
+      Expected edge count: ~26 edges (films filmed at locations)
+      
+      This model is ephemeral (not materialized) and is consumed by mart_graph_edges.
+    columns:
+      - name: edge_id
+        description: "Unique edge identifier (format: edge_loc_film_{row_number})"
+      
+      - name: source_node_id
+        description: "Source node ID (format: location_{uuid}) - represents the location"
+      
+      - name: target_node_id
+        description: "Target node ID (format: film_{uuid}) - represents the film"
+      
+      - name: edge_type
+        description: "Edge type: 'filmed_at' (film was filmed at location)"
+      
+      - name: source_node_type
+        description: "Source node type: 'location'"
+      
+      - name: target_node_type
+        description: "Target node type: 'film'"
+      
+      - name: source_node_name
+        description: "Location name (for debugging/documentation)"
+      
+      - name: target_node_name
+        description: "Film title (for debugging/documentation)"
+      
+      - name: created_at
+        description: "Timestamp when edge was created (CURRENT_TIMESTAMP)"
+
+  - name: int_character_species_edges
+    description: |
+      Intermediate model extracting character-species relationships (is_species edge type).
+      
+      Extracts relationships by joining raw.people.species (single VARCHAR URL field) with
+      raw.species on species URLs. Unlike films.people[] which is an array, people.species
+      is a single field, so no unnesting is required.
+      
+      Edge direction: Character → Species (source_node_id = character, target_node_id = species)
+      Expected edge count: ~56 edges (characters belonging to species)
+      
+      This model is ephemeral (not materialized) and is consumed by mart_graph_edges.
+    columns:
+      - name: edge_id
+        description: "Unique edge identifier (format: edge_char_species_{row_number})"
+      
+      - name: source_node_id
+        description: "Source node ID (format: character_{uuid}) - represents the character"
+      
+      - name: target_node_id
+        description: "Target node ID (format: species_{uuid}) - represents the species"
+      
+      - name: edge_type
+        description: "Edge type: 'is_species' (character belongs to species)"
+      
+      - name: source_node_type
+        description: "Source node type: 'character'"
+      
+      - name: target_node_type
+        description: "Target node type: 'species'"
+      
+      - name: source_node_name
+        description: "Character name (for debugging/documentation)"
+      
+      - name: target_node_name
+        description: "Species name (for debugging/documentation)"
+      
+      - name: created_at
+        description: "Timestamp when edge was created (CURRENT_TIMESTAMP)"
+
+  - name: int_director_film_edges
+    description: |
+      Intermediate model extracting director-film relationships (directed edge type).
+      
+      Extracts relationships from stg_films by reading the director field. Since directors
+      don't have natural UUIDs in source data (only name strings), uses MD5 hash of director
+      name to create stable, consistent director IDs. This ensures the same director always
+      gets the same ID across runs.
+      
+      Edge direction: Director → Film (source_node_id = director, target_node_id = film)
+      Expected edge count: ~22 edges (directors directing films, one per film)
+      
+      This model is ephemeral (not materialized) and is consumed by mart_graph_edges.
+    columns:
+      - name: edge_id
+        description: "Unique edge identifier (format: edge_dir_film_{row_number})"
+      
+      - name: source_node_id
+        description: "Source node ID (format: director_{md5_hash}) - MD5 hash of director name for stable IDs"
+      
+      - name: target_node_id
+        description: "Target node ID (format: film_{uuid}) - represents the film"
+      
+      - name: edge_type
+        description: "Edge type: 'directed' (director directed film)"
+      
+      - name: source_node_type
+        description: "Source node type: 'director'"
+      
+      - name: target_node_type
+        description: "Target node type: 'film'"
+      
+      - name: source_node_name
+        description: "Director name (for debugging/documentation)"
+      
+      - name: target_node_name
+        description: "Film title (for debugging/documentation)"
+      
+      - name: created_at
+        description: "Timestamp when edge was created (CURRENT_TIMESTAMP)"
+

@@ -6,32 +6,139 @@ models:
       Unified graph nodes table containing all entity types (films, characters, 
       locations, species, directors) for knowledge graph construction.
       
+      Structure: UNION ALL of 5 CTEs (film_nodes, character_nodes, location_nodes, species_nodes, director_nodes)
+      Each CTE represents a different node type with type-specific properties.
+      
+      Node ID Format: {node_type}_{source_id}
+      - Films: film_{ghibli_uuid}
+      - Characters: character_{ghibli_uuid}
+      - Locations: location_{ghibli_uuid}
+      - Species: species_{ghibli_uuid}
+      - Directors: director_{MD5_hash_of_director_name}
+      
       Expected node counts:
       - Films: ~22
       - Characters: ~87+
       - Locations: ~13+
       - Species: ~14+
       - Directors: ~3-5
+      
+      Source: staging models (stg_films, stg_people, stg_locations, stg_species, stg_kaggle_films)
+      Consumed by: Story 2.6 (NetworkX graph construction), Epic 4 (RAG system queries)
     columns:
       - name: node_id
-        description: "Globally unique node identifier (format: {type}_{source_id})"
+        description: "Globally unique node identifier (format: {type}_{source_id}). Examples: 'film_2baf70d1-...', 'character_123e4567-...', 'director_md5hash123'"
         tests:
-          - not_null
-          - unique
+          - not_null:
+              description: "Ensures node_id is never NULL - required for all graph nodes"
+          - unique:
+              description: "Ensures each node has a unique identifier - prevents duplicate nodes in graph"
       
       - name: node_type
-        description: "Node type: film, character, location, species, or director"
+        description: "Node type: film, character, location, species, or director. Determines which properties are available in the properties JSON field"
         tests:
-          - not_null
+          - not_null:
+              description: "Ensures node_type is never NULL - required to determine node category"
           - accepted_values:
+              description: "Ensures node_type is one of: film, character, location, species, or director - validates node categorization"
               arguments:
                 values: ['film', 'character', 'location', 'species', 'director']
       
       - name: name
-        description: "Human-readable name of the node"
+        description: "Human-readable name of the node (film title, character name, location name, species name, or director name)"
         tests:
-          - not_null
+          - not_null:
+              description: "Ensures node name is never NULL - required for human-readable identification"
       
       - name: properties
-        description: "JSON object containing type-specific attributes"
+        description: |
+          JSON object containing type-specific attributes. Structure varies by node_type:
+          
+          Film properties: {release_year, director, running_time, rt_score, description, box_office}
+          Character properties: {gender, age, eye_color, hair_color, species_id}
+          Location properties: {climate, terrain, surface_water_pct}
+          Species properties: {classification, eye_colors, hair_colors}
+          Director properties: {film_count, total_box_office}
+          
+          Example film properties: {"release_year": 2001, "director": "Hayao Miyazaki", "rt_score": 97, "box_office": 355000000}
+
+  - name: mart_graph_edges
+    description: |
+      Unified graph edges table containing all relationship types (appears_in, 
+      filmed_at, is_species, directed) for knowledge graph construction.
+      
+      Structure: UNION ALL of 4 edge types from intermediate models:
+      - appears_in: Character → Film (character appears in film)
+      - filmed_at: Location → Film (film was filmed at location)
+      - is_species: Character → Species (character belongs to species)
+      - directed: Director → Film (director directed film)
+      
+      Edge ID Format: edge_{type}_{row_number} (generated in intermediate models)
+      Examples: 'edge_char_film_1', 'edge_loc_film_1', 'edge_char_species_1', 'edge_dir_film_1'
+      
+      Expected edge counts:
+      - appears_in: ~87+ (character → film relationships)
+      - filmed_at: ~26+ (location → film relationships)
+      - is_species: ~60+ (character → species relationships)
+      - directed: ~22 (director → film relationships)
+      
+      Source: intermediate models (int_film_character_edges, int_film_location_edges, int_character_species_edges, int_director_film_edges)
+      Consumed by: Story 2.6 (NetworkX graph construction), Epic 4 (RAG system queries)
+      
+      Referential integrity: All source_node_id and target_node_id values must exist in mart_graph_nodes.node_id
+    columns:
+      - name: edge_id
+        description: "Unique edge identifier (format: edge_{type}_{row_number}). Generated in intermediate models, format varies by edge type: edge_char_film_N, edge_loc_film_N, edge_char_species_N, edge_dir_film_N"
+        tests:
+          - not_null:
+              description: "Ensures edge_id is never NULL - required for all graph edges"
+          - unique:
+              description: "Ensures each edge has a unique identifier - prevents duplicate edges in graph"
+      
+      - name: source_node_id
+        description: "Foreign key to mart_graph_nodes.node_id (source of edge). Format matches node_id format (e.g., 'character_123e4567-...', 'location_abc123...', 'director_md5hash')"
+        tests:
+          - not_null:
+              description: "Ensures source_node_id is never NULL - required to define edge source"
+          - relationships:
+              description: "Ensures source_node_id references a valid node in mart_graph_nodes - validates referential integrity"
+              arguments:
+                to: ref('mart_graph_nodes')
+                field: node_id
+      
+      - name: target_node_id
+        description: "Foreign key to mart_graph_nodes.node_id (target of edge). Format matches node_id format (e.g., 'film_2baf70d1-...', 'species_xyz789...')"
+        tests:
+          - not_null:
+              description: "Ensures target_node_id is never NULL - required to define edge target"
+          - relationships:
+              description: "Ensures target_node_id references a valid node in mart_graph_nodes - validates referential integrity"
+              arguments:
+                to: ref('mart_graph_nodes')
+                field: node_id
+      
+      - name: edge_type
+        description: |
+          Edge type defining the relationship between source and target nodes:
+          - 'appears_in': Character appears in Film (source: character, target: film)
+          - 'filmed_at': Film was filmed at Location (source: location, target: film)
+          - 'is_species': Character belongs to Species (source: character, target: species)
+          - 'directed': Director directed Film (source: director, target: film)
+        tests:
+          - not_null:
+              description: "Ensures edge_type is never NULL - required to define relationship type"
+          - accepted_values:
+              description: "Ensures edge_type is one of: appears_in, filmed_at, is_species, or directed - validates relationship categorization"
+              arguments:
+                values: ['appears_in', 'filmed_at', 'is_species', 'directed']
+      
+      - name: properties
+        description: |
+          JSON object containing relationship metadata. Structure:
+          {
+            "relationship_strength": 1.0 (default value, can be used for weighted graph analysis),
+            "created_at": "YYYY-MM-DD HH:MM:SS" (timestamp when edge was created)
+          }
+          
+          Example: {"relationship_strength": 1.0, "created_at": "2025-01-27 10:30:00"}
 

@@ -129,16 +129,17 @@ Intermediate models extract entity relationships from nested data structures (ar
    - Expected edge count: ~150 edges (57 characters across 22 films)
 
 2. **int_film_location_edges** - Film-Location Relationships
-   - Source: `raw.films.locations[]` (TEXT[] array) joined with `raw.locations`
+   - Source: `raw.locations.films[]` (TEXT[] array) joined with `raw.films` (reverse direction extraction)
    - Purpose: Extract "filmed_at" relationships between films and locations
    - Process:
-     - Unnest locations array from films table
-     - Join on location_url to match URLs to location records
+     - Unnest films array from locations table (reverse direction due to data quality issue)
+     - Join on film_url to match URLs to film records
      - Generate edge_id: `edge_loc_film_<row_number>`
      - Generate source_node_id: `location_<location_uuid>`
      - Generate target_node_id: `film_<film_uuid>`
    - Edge type: `filmed_at`
-   - Expected edge count: ~50 edges (25 locations across 22 films)
+   - Expected edge count: ~26 edges
+   - **Note**: Uses reverse direction (`locations.films[]` → `films.url`) because `films.locations[]` contains base URLs only (no UUIDs), while `locations.films[]` contains full URLs with UUIDs that match properly.
 
 3. **int_character_species_edges** - Character-Species Relationships
    - Source: `raw.people.species` (VARCHAR, single URL) joined with `raw.species`

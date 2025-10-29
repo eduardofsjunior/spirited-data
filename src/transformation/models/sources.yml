@@ -2,7 +2,17 @@ version: 2
 
 sources:
   - name: raw
-    description: "Raw data ingested from Ghibli API, Kaggle CSV, and subtitle files (Epic 1)"
+    description: |
+      Raw data ingested from Ghibli API, Kaggle CSV, and subtitle files (Epic 1).
+      
+      Data ingestion process:
+      - 24-hour caching: API responses cached locally to minimize API calls
+      - Idempotent loading: Scripts can be run multiple times safely (duplicate prevention)
+      - Timestamp tracking: All tables include loaded_at field tracking when data was ingested
+      - Source tracking: All tables include source field identifying data origin (API, CSV, etc.)
+      
+      Freshness checks: warn_after 48 hours indicates data should be refreshed daily
+      loaded_at_field: Used by dbt freshness checks to determine data staleness
     schema: raw
     tables:
       - name: films
@@ -54,7 +64,7 @@ sources:
         loaded_at_field: loaded_at
 
       - name: vehicles
-        description: "Ghibli API /vehicles endpoint data - vehicles appearing in films"
+        description: "Ghibli API /vehicles endpoint data - vehicles appearing in films. Note: Currently not used in downstream models but retained for future use"
         columns:
           - name: id
             description: "Unique vehicle identifier (UUID format)"
