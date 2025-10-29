@@ -80,6 +80,31 @@ pip install "dbt-core>=1.6.0" "dbt-duckdb>=1.6.0"
 
 For more details, see [architecture documentation](docs/architecture/unified-project-structure.md).
 
+## Graph Construction
+
+After running dbt transformations, build the NetworkX knowledge graph:
+
+```bash
+python src/graph/build_graph.py
+```
+
+This script:
+- Loads nodes and edges from `marts.mart_graph_nodes` and `marts.mart_graph_edges`
+- Constructs a NetworkX `MultiDiGraph` object
+- Calculates graph metrics (node count, edge count, average degree, connected components)
+- Generates a summary report with top nodes by degree centrality
+- Saves the graph as `data/processed/ghibli_graph.pkl`
+- Exports a text report to `data/processed/graph_summary_report.txt`
+
+**Expected Output:**
+- Graph file: `data/processed/ghibli_graph.pkl` (~5 MB)
+- Summary report: `data/processed/graph_summary_report.txt`
+- Expected graph size: ~150+ nodes, ~130+ edges
+
+**Prerequisites:**
+- dbt models must be run first (`dbt run` in `src/transformation/`)
+- DuckDB database must exist at `DUCKDB_PATH` (default: `data/ghibli.duckdb`)
+
 ## Subtitle Data Acquisition
 
 Subtitle files are **not included** in this repository due to copyright considerations.
