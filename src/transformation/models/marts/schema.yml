@@ -1,0 +1,37 @@
+version: 2
+
+models:
+  - name: mart_graph_nodes
+    description: |
+      Unified graph nodes table containing all entity types (films, characters, 
+      locations, species, directors) for knowledge graph construction.
+      
+      Expected node counts:
+      - Films: ~22
+      - Characters: ~87+
+      - Locations: ~13+
+      - Species: ~14+
+      - Directors: ~3-5
+    columns:
+      - name: node_id
+        description: "Globally unique node identifier (format: {type}_{source_id})"
+        tests:
+          - not_null
+          - unique
+      
+      - name: node_type
+        description: "Node type: film, character, location, species, or director"
+        tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: ['film', 'character', 'location', 'species', 'director']
+      
+      - name: name
+        description: "Human-readable name of the node"
+        tests:
+          - not_null
+      
+      - name: properties
+        description: "JSON object containing type-specific attributes"
+
