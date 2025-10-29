@@ -64,11 +64,11 @@ bin/
 *.out
 go.work
 
-# dbt
-dbt_packages/
-logs/
-target/
-dbt_modules/
+# dbt (transformation layer)
+src/transformation/target/
+src/transformation/dbt_modules/
+src/transformation/dbt_packages/
+src/transformation/logs/
 
 # IDE & Editors
 .vscode/

@@ -1,0 +1,12 @@
+# File: src/transformation/profiles.yml.example (committed to git)
+# Usage: Copy to ~/.dbt/profiles.yml for local development
+#        cp src/transformation/profiles.yml.example ~/.dbt/profiles.yml
+
+ghibli:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb  # DuckDB adapter
+      path: "{{ env_var('DUCKDB_PATH', 'data/ghibli.duckdb') }}"  # Use environment variable
+      schema: main  # DuckDB default schema
+      threads: 4  # Appropriate for local development

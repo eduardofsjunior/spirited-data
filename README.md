@@ -30,6 +30,56 @@ ghibli_pipeline/
 - **AI/RAG**: LangChain, OpenAI, ChromaDB
 - **Frontend**: Streamlit
 
+## dbt Transformation Layer
+
+### Installation
+
+Install dbt with DuckDB adapter:
+
+```bash
+pip install "dbt-core>=1.6.0" "dbt-duckdb>=1.6.0"
+```
+
+### Setup
+
+1. Create `~/.dbt/` directory:
+   ```bash
+   mkdir -p ~/.dbt
+   ```
+
+2. Copy profiles example:
+   ```bash
+   cp src/transformation/profiles.yml.example ~/.dbt/profiles.yml
+   ```
+
+3. Ensure `DUCKDB_PATH` is set in `.env`:
+   ```bash
+   DUCKDB_PATH=data/ghibli.duckdb
+   ```
+
+4. Verify connection:
+   ```bash
+   cd src/transformation
+   dbt debug
+   ```
+
+### Common dbt Commands
+
+- `dbt run` - Run all transformation models
+- `dbt test` - Run all data quality tests
+- `dbt docs generate` - Generate documentation
+- `dbt docs serve` - Launch documentation site (http://localhost:8080)
+
+### Troubleshooting
+
+| Error | Solution |
+|-------|----------|
+| "Connection failed" | Check `DUCKDB_PATH` in `.env` file |
+| "Adapter not found" | Reinstall: `pip install dbt-duckdb` |
+| "Database locked" | Close other DuckDB connections |
+
+For more details, see [architecture documentation](docs/architecture/unified-project-structure.md).
+
 ## Subtitle Data Acquisition
 
 Subtitle files are **not included** in this repository due to copyright considerations.

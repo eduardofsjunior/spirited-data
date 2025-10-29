@@ -1,0 +1,80 @@
+version: 2
+
+sources:
+  - name: raw
+    description: "Raw data ingested from Ghibli API, Kaggle CSV, and subtitle files (Epic 1)"
+    schema: raw
+    tables:
+      - name: films
+        description: "Ghibli API /films endpoint data - core film information"
+        columns:
+          - name: id
+            description: "Unique Ghibli API film identifier (UUID format)"
+          - name: title
+            description: "English film title"
+          - name: release_date
+            description: "Film release year as string"
+          - name: rt_score
+            description: "Rotten Tomatoes score"
+        freshness:
+          warn_after: {count: 48, period: hour}
+        loaded_at_field: loaded_at
+
+      - name: people
+        description: "Ghibli API /people endpoint data - characters across all films"
+        columns:
+          - name: id
+            description: "Unique character identifier (UUID format)"
+          - name: name
+            description: "Character name"
+        freshness:
+          warn_after: {count: 48, period: hour}
+        loaded_at_field: loaded_at
+
+      - name: locations
+        description: "Ghibli API /locations endpoint data - settings and places in films"
+        columns:
+          - name: id
+            description: "Unique location identifier (UUID format)"
+          - name: name
+            description: "Location name"
+        freshness:
+          warn_after: {count: 48, period: hour}
+        loaded_at_field: loaded_at
+
+      - name: species
+        description: "Ghibli API /species endpoint data - species/creature types"
+        columns:
+          - name: id
+            description: "Unique species identifier (UUID format)"
+          - name: name
+            description: "Species name (e.g., 'Human', 'Cat', 'Spirit')"
+        freshness:
+          warn_after: {count: 48, period: hour}
+        loaded_at_field: loaded_at
+
+      - name: vehicles
+        description: "Ghibli API /vehicles endpoint data - vehicles appearing in films"
+        columns:
+          - name: id
+            description: "Unique vehicle identifier (UUID format)"
+          - name: name
+            description: "Vehicle name"
+        freshness:
+          warn_after: {count: 48, period: hour}
+        loaded_at_field: loaded_at
+
+      - name: kaggle_films
+        description: "Kaggle CSV dataset with financial and genre data for Ghibli films"
+        columns:
+          - name: title
+            description: "Film title (used for fuzzy matching with raw.films)"
+          - name: box_office
+            description: "Box office revenue"
+          - name: imdb_score
+            description: "IMDb rating score"
+          - name: genre
+            description: "Film genre classification"
+        freshness:
+          warn_after: {count: 48, period: hour}
+        loaded_at_field: loaded_at
