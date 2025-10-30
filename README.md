@@ -190,6 +190,80 @@ To reproduce this project, you need to acquire English and Japanese subtitle fil
 - OpenSubtitles.org (requires free registration)
 - Subscene.com
 
+## Subtitle File Parsing
+
+After acquiring subtitle files, parse them into structured JSON format for text analysis:
+
+```bash
+python -m src.nlp.parse_subtitles
+```
+
+This script processes all English subtitle files (`*_en.srt`) in `data/raw/subtitles/` and saves parsed JSON files to `data/processed/subtitles/`.
+
+### Usage
+
+**Process all English subtitle files:**
+```bash
+python -m src.nlp.parse_subtitles
+```
+
+**Process specific films:**
+```bash
+python -m src.nlp.parse_subtitles --films spirited_away_en princess_mononoke_en
+```
+
+**Enable validation (recommended):**
+```bash
+python -m src.nlp.parse_subtitles --validate
+```
+
+**Custom directory:**
+```bash
+python -m src.nlp.parse_subtitles --directory data/raw/subtitles
+```
+
+### Output Format
+
+Parsed subtitle files are saved as JSON with the following structure:
+
+```json
+{
+  "metadata": {
+    "film_name": "Spirited Away",
+    "film_slug": "spirited_away_en",
+    "total_subtitles": 1158,
+    "total_duration": 7480.5,
+    "parse_timestamp": "2025-01-27T10:30:00"
+  },
+  "subtitles": [
+    {
+      "subtitle_index": 1,
+      "start_time": 12.5,
+      "end_time": 15.2,
+      "duration": 2.7,
+      "dialogue_text": "Chihiro, stay close!"
+    },
+    ...
+  ]
+}
+```
+
+### Features
+
+- **Encoding Detection**: Automatically detects UTF-8 or Latin-1 encoding
+- **Error Handling**: Gracefully handles malformed timestamps and skips problematic entries
+- **Text Cleaning**: Removes HTML tags (`<i>`, `<b>`, etc.) and normalizes whitespace
+- **Validation**: Compare parsed JSON with original .srt files to verify accuracy
+
+### Output Files
+
+Parsed JSON files are saved to:
+- Location: `data/processed/subtitles/`
+- Pattern: `{film_slug}_parsed.json`
+- Examples: `spirited_away_en_parsed.json`, `princess_mononoke_en_parsed.json`
+
+**Note**: Only English subtitle files (`*_en.srt`) are processed. Japanese files (`*_ja.srt`) are excluded.
+
 ## Documentation
 
 Full documentation available in [docs/](docs/README.md).

@@ -44,6 +44,9 @@ notebooks/
 .coverage
 htmlcov/
 
+# Playwright (MCP)
+.playwright-mcp/
+
 # Data Files (too large for git)
 data/raw/
 data/processed/*.csv
