@@ -30,15 +30,19 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 
-def _open_srt_with_encoding_detection(filepath: str) -> Tuple[pysrt.SubRipFile, str]:
+def _open_srt_with_encoding_detection(
+    filepath: str, expected_language: Optional[str] = None
+) -> Tuple[pysrt.SubRipFile, str]:
     """
     Open .srt file with automatic encoding detection.
 
-    Tries UTF-8 first, falls back to Latin-1 if UTF-8 fails.
+    Tries UTF-8 first, falls back to Latin-1 if UTF-8 fails (for English files only).
+    For Japanese files, UTF-8 is required (no fallback to Latin-1).
     Logs the encoding used for audit trail.
 
     Args:
         filepath: Path to .srt subtitle file
+        expected_language: Optional language code ('en' or 'ja') for encoding preference
 
     Returns:
         Tuple of (SubRipFile object, encoding_used)
@@ -49,10 +53,30 @@ def _open_srt_with_encoding_detection(filepath: str) -> Tuple[pysrt.SubRipFile, 
     encoding_used = "utf-8"
     subtitles: Optional[pysrt.SubRipFile] = None
 
+    # Detect language from filename if not provided
+    if expected_language is None:
+        if filepath.endswith("_ja.srt"):
+            expected_language = "ja"
+        elif filepath.endswith("_en.srt"):
+            expected_language = "en"
+        elif filepath.endswith("_fr.srt"):
+            expected_language = "fr"
+        elif filepath.endswith("_es.srt"):
+            expected_language = "es"
+        elif filepath.endswith("_nl.srt"):
+            expected_language = "nl"
+        elif filepath.endswith("_ar.srt"):
+            expected_language = "ar"
+
     try:
         subtitles = pysrt.open(filepath, encoding="utf-8")
     except UnicodeDecodeError:
-        logger.warning(f"UTF-8 encoding failed for {filepath}, trying Latin-1")
+        # For Japanese files, UTF-8 is required - don't fallback to Latin-1
+        if expected_language == "ja":
+            logger.error(f"UTF-8 encoding failed for Japanese file {filepath}. Japanese files must be UTF-8 encoded.")
+            raise
+        # For all other languages (EN, FR, ES, NL, AR), try Latin-1 fallback
+        logger.warning(f"UTF-8 encoding failed for {filepath} (language: {expected_language}), trying Latin-1")
         try:
             encoding_used = "latin-1"
             subtitles = pysrt.open(filepath, encoding="latin-1")
@@ -63,11 +87,12 @@ def _open_srt_with_encoding_detection(filepath: str) -> Tuple[pysrt.SubRipFile, 
     if subtitles is None:
         raise ValueError(f"Failed to open subtitle file: {filepath}")
 
-    logger.info(f"Parsing {filepath} with encoding: {encoding_used}")
+    language_info = f" (language: {expected_language})" if expected_language else ""
+    logger.info(f"Parsing {filepath}{language_info} with encoding: {encoding_used}")
     return subtitles, encoding_used
 
 
-def parse_srt_file(filepath: str) -> Tuple[List[Dict[str, Any]], int]:
+def parse_srt_file(filepath: str, expected_language: Optional[str] = None) -> Tuple[List[Dict[str, Any]], int]:
     """
     Parse .srt subtitle file and extract structured data.
 
@@ -81,6 +106,7 @@ def parse_srt_file(filepath: str) -> Tuple[List[Dict[str, Any]], int]:
 
     Args:
         filepath: Path to .srt subtitle file
+        expected_language: Optional language code ('en' or 'ja') for encoding detection
 
     Returns:
         Tuple of:
@@ -94,7 +120,7 @@ def parse_srt_file(filepath: str) -> Tuple[List[Dict[str, Any]], int]:
     logger.info(f"Parsing subtitle file: {filepath}")
 
     # Open file with encoding detection
-    subtitles, encoding_used = _open_srt_with_encoding_detection(filepath)
+    subtitles, encoding_used = _open_srt_with_encoding_detection(filepath, expected_language)
 
     result: List[Dict[str, Any]] = []
     skipped_count = 0
@@ -143,33 +169,52 @@ def parse_srt_file(filepath: str) -> Tuple[List[Dict[str, Any]], int]:
     return result, skipped_count
 
 
-def extract_film_metadata(filepath: str, subtitles: List[Dict[str, Any]]) -> Dict[str, Any]:
+def extract_film_metadata(
+    filepath: str, subtitles: List[Dict[str, Any]], language_code: Optional[str] = None
+) -> Dict[str, Any]:
     """
     Extract film metadata from filepath and subtitle data.
 
-    Extracts film_slug from filename, converts to film_name, and calculates
-    statistics about the subtitle file.
+    Extracts film_slug from filename, converts to film_name, detects language code,
+    and calculates statistics about the subtitle file.
 
     Args:
         filepath: Path to .srt subtitle file
         subtitles: List of parsed subtitle dictionaries
+        language_code: Optional language code ('en' or 'ja'). If not provided, auto-detected from film_slug
 
     Returns:
         Dictionary containing metadata:
         {
             "film_name": str,  # Human-readable film name (e.g., "Spirited Away")
-            "film_slug": str,  # File slug (e.g., "spirited_away_en")
+            "film_slug": str,  # File slug (e.g., "spirited_away_ja")
+            "language_code": str,  # Language code ('en' or 'ja')
             "total_subtitles": int,  # Count of subtitle entries
             "total_duration": float,  # Total duration in seconds
             "parse_timestamp": str  # ISO 8601 timestamp
         }
     """
-    # Extract film_slug from file name: Path(filepath).stem (e.g., "spirited_away_en")
+    # Extract film_slug from file name: Path(filepath).stem (e.g., "spirited_away_ja")
     film_slug = Path(filepath).stem
 
+    # Auto-detect language from film_slug if not provided
+    if language_code is None:
+        if film_slug.endswith("_ja"):
+            language_code = "ja"
+        elif film_slug.endswith("_fr"):
+            language_code = "fr"
+        elif film_slug.endswith("_es"):
+            language_code = "es"
+        elif film_slug.endswith("_nl"):
+            language_code = "nl"
+        elif film_slug.endswith("_ar"):
+            language_code = "ar"
+        else:
+            language_code = "en"  # Default to 'en' if no language suffix detected
+
     # Extract film_name from slug: convert underscores to spaces, capitalize words
-    # Remove language suffix (_en) before processing
-    name_part = film_slug.replace("_en", "").replace("_ja", "")
+    # Remove language suffix (_en, _ja, _fr, _es, _nl, _ar) before processing
+    name_part = film_slug.replace("_en", "").replace("_ja", "").replace("_fr", "").replace("_es", "").replace("_nl", "").replace("_ar", "")
     film_name = " ".join(word.capitalize() for word in name_part.split("_"))
 
     # Calculate total_subtitles: count of parsed subtitle entries
@@ -189,6 +234,7 @@ def extract_film_metadata(filepath: str, subtitles: List[Dict[str, Any]]) -> Dic
     return {
         "film_name": film_name,
         "film_slug": film_slug,
+        "language_code": language_code,
         "total_subtitles": total_subtitles,
         "total_duration": total_duration,
         "parse_timestamp": parse_timestamp,
@@ -262,17 +308,18 @@ def save_parsed_subtitles(
 
 
 def process_all_subtitles(
-    subtitle_dir: Path, film_filter: Optional[List[str]] = None
+    subtitle_dir: Path, film_filter: Optional[List[str]] = None, language: str = "en"
 ) -> List[Dict[str, Any]]:
     """
     Process all .srt subtitle files in directory.
 
-    Discovers all English subtitle files (*_en.srt) and processes each one,
+    Discovers subtitle files based on language filter and processes each one,
     saving parsed JSON output.
 
     Args:
         subtitle_dir: Directory containing .srt subtitle files
         film_filter: Optional list of film slugs to process (if None, process all)
+        language: Language to process: 'en' (English), 'ja' (Japanese), or 'all' (both)
 
     Returns:
         List of processing results:
@@ -291,28 +338,71 @@ def process_all_subtitles(
     # Discover all .srt files in directory
     all_srt_files = list(subtitle_dir.glob("*.srt"))
 
-    # Filter for English files only: *_en.srt pattern (exclude *_ja.srt files)
-    english_files = [f for f in all_srt_files if f.name.endswith("_en.srt")]
+    # Filter files based on language parameter
+    if language == "en":
+        # Filter for English files only: *_en.srt pattern
+        filtered_files = [f for f in all_srt_files if f.name.endswith("_en.srt")]
+    elif language == "ja":
+        # Filter for Japanese files only: *_ja.srt pattern
+        filtered_files = [f for f in all_srt_files if f.name.endswith("_ja.srt")]
+    elif language == "fr":
+        # Filter for French files only: *_fr.srt pattern
+        filtered_files = [f for f in all_srt_files if f.name.endswith("_fr.srt")]
+    elif language == "es":
+        # Filter for Spanish files only: *_es.srt pattern
+        filtered_files = [f for f in all_srt_files if f.name.endswith("_es.srt")]
+    elif language == "nl":
+        # Filter for Dutch files only: *_nl.srt pattern
+        filtered_files = [f for f in all_srt_files if f.name.endswith("_nl.srt")]
+    elif language == "ar":
+        # Filter for Arabic files only: *_ar.srt pattern
+        filtered_files = [f for f in all_srt_files if f.name.endswith("_ar.srt")]
+    elif language == "all":
+        # Filter for all six languages
+        filtered_files = [
+            f for f in all_srt_files
+            if f.name.endswith(("_en.srt", "_ja.srt", "_fr.srt", "_es.srt", "_nl.srt", "_ar.srt"))
+        ]
+    else:
+        logger.error(f"Invalid language parameter: {language}. Must be 'en', 'ja', 'fr', 'es', 'nl', 'ar', or 'all'")
+        return results
 
     # Apply film filter if provided
     if film_filter:
-        english_files = [
-            f for f in english_files if Path(f).stem in film_filter
+        filtered_files = [
+            f for f in filtered_files if Path(f).stem in film_filter
         ]
 
-    total_files = len(english_files)
-    logger.info(f"Found {total_files} English subtitle files to process")
+    total_files = len(filtered_files)
+    logger.info(f"Found {total_files} {language} subtitle files to process")
 
-    for count, filepath in enumerate(english_files, 1):
+    # Determine language for each file (needed for processing)
+    # If language == 'all', we need to detect from filename
+    for count, filepath in enumerate(filtered_files, 1):
         film_slug = Path(filepath).stem
-        logger.info(f"Processing {count}/{total_files}: {film_slug}")
+        
+        # Detect file language from filename
+        if filepath.name.endswith("_ja.srt"):
+            file_language = "ja"
+        elif filepath.name.endswith("_fr.srt"):
+            file_language = "fr"
+        elif filepath.name.endswith("_es.srt"):
+            file_language = "es"
+        elif filepath.name.endswith("_nl.srt"):
+            file_language = "nl"
+        elif filepath.name.endswith("_ar.srt"):
+            file_language = "ar"
+        else:
+            file_language = "en"
+        
+        logger.info(f"Processing {count}/{total_files}: {film_slug} ({file_language})")
 
         try:
-            # Parse subtitle file
-            subtitles, skipped_count = parse_srt_file(str(filepath))
+            # Parse subtitle file with language detection
+            subtitles, skipped_count = parse_srt_file(str(filepath), expected_language=file_language)
 
-            # Extract metadata
-            metadata = extract_film_metadata(str(filepath), subtitles)
+            # Extract metadata with language code
+            metadata = extract_film_metadata(str(filepath), subtitles, language_code=file_language)
 
             # Build output path: data/processed/subtitles/{film_slug}_parsed.json
             output_path = f"data/processed/subtitles/{film_slug}_parsed.json"
@@ -352,7 +442,8 @@ def validate_parsed_subtitles(
     Validate parsed subtitles by comparing .srt file with JSON output.
 
     Compares subtitle counts and performs spot-check on random entries
-    to verify parsing accuracy.
+    to verify parsing accuracy. Detects language from JSON metadata for
+    language-aware encoding detection.
 
     Args:
         srt_filepath: Path to original .srt subtitle file
@@ -367,16 +458,20 @@ def validate_parsed_subtitles(
             "spot_check_results": List[Dict]  # Results of 5 random spot-checks
         }
     """
-    logger.info(f"Validating parsed subtitles: {srt_filepath} vs {json_filepath}")
+    # Load JSON to detect language from metadata
+    with open(json_filepath, "r", encoding="utf-8") as f:
+        json_data = json.load(f)
+    
+    language = json_data.get("metadata", {}).get("language_code", "en")
+    
+    logger.info(f"Validating {language} subtitles: {srt_filepath} vs {json_filepath}")
 
-    # Count subtitle entries in original .srt file (with encoding detection)
-    srt_subtitles, _ = _open_srt_with_encoding_detection(srt_filepath)
+    # Count subtitle entries in original .srt file (with language-aware encoding detection)
+    srt_subtitles, _ = _open_srt_with_encoding_detection(srt_filepath, expected_language=language)
 
     srt_count = len(srt_subtitles)
 
-    # Count subtitle entries in parsed JSON file
-    with open(json_filepath, "r", encoding="utf-8") as f:
-        json_data = json.load(f)
+    # Count subtitle entries in parsed JSON file (already loaded above)
     json_count = json_data["metadata"]["total_subtitles"]
 
     # Compare counts: should match
@@ -480,8 +575,22 @@ def main() -> None:
         action="store_true",
         help="Enable validation after parsing (compare .srt vs JSON)",
     )
+    parser.add_argument(
+        "--language",
+        type=str,
+        choices=["en", "ja", "fr", "es", "nl", "ar", "all"],
+        default="en",
+        help="Language to process: 'en' (English, default), 'ja' (Japanese), 'fr' (French), 'es' (Spanish), 'nl' (Dutch), 'ar' (Arabic), or 'all' (all six languages)",
+    )
 
     args = parser.parse_args()
+
+    # Validate language parameter value (should be handled by choices, but double-check)
+    if args.language not in ["en", "ja", "fr", "es", "nl", "ar", "all"]:
+        logger.error(f"Invalid language parameter: {args.language}. Must be 'en', 'ja', 'fr', 'es', 'nl', 'ar', or 'all'")
+        sys.exit(1)
+
+    logger.info(f"Processing language: {args.language}")
 
     subtitle_dir = Path(args.directory)
 
@@ -495,8 +604,8 @@ def main() -> None:
         sys.exit(1)
 
     try:
-        # Process all subtitle files
-        results = process_all_subtitles(subtitle_dir, args.films)
+        # Process all subtitle files with language parameter
+        results = process_all_subtitles(subtitle_dir, args.films, language=args.language)
 
         # Print summary
         successful = [r for r in results if r["success"]]

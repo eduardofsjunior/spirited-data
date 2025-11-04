@@ -5,7 +5,8 @@ dbt-core>=1.7.0
 dbt-duckdb>=1.7.0
 
 # NLP
-vaderSentiment>=3.3.2
+transformers>=4.35.0
+torch>=2.0.0
 pysrt>=1.1.2
 
 # Graph analysis

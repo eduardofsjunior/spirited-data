@@ -57,6 +57,14 @@ LANGUAGE_TARGETS = {
     "ja": ["ja", "jpn"],           # Japanese
 }
 
+# Additional languages for coverage assessment
+ASSESSMENT_LANGUAGES = {
+    "fr": ["fr", "fre"],           # French
+    "es": ["es", "spa"],           # Spanish
+    "nl": ["nl", "dut"],           # Dutch
+    "ar": ["ar", "ara"],           # Arabic
+}
+
 
 def get_api_key() -> str:
     """Get API key from environment."""
@@ -452,13 +460,150 @@ def fetch_subtitle_for_language(
     return None
 
 
+def assess_coverage(api_key: str, token: str, languages: Dict[str, List[str]]) -> Dict[str, Any]:
+    """
+    Assess subtitle availability for target languages without downloading.
+
+    Args:
+        api_key: OpenSubtitles API key
+        token: JWT authentication token
+        languages: Dictionary of language_key -> [language_codes]
+
+    Returns:
+        Coverage report dictionary
+    """
+    print("\n" + "="*60)
+    print("COVERAGE ASSESSMENT MODE")
+    print("="*60)
+    print(f"Films: {len(FILMS)}")
+    print(f"Languages to assess: {', '.join(languages.keys()).upper()}")
+    print("="*60)
+
+    coverage_data = {lang: {"available": [], "missing": []} for lang in languages.keys()}
+
+    for film in FILMS:
+        print(f"\n📽️  {film['title']} ({film['year']})")
+
+        for lang_key, lang_codes in languages.items():
+            # Search for subtitles
+            found = False
+            for lang_code in lang_codes:
+                results = search_subs(api_key, token, film['title'], film['year'], [lang_code])
+
+                if results:
+                    # Check if we can find a valid subtitle
+                    best = pick_best(results, lang_code)
+                    if best:
+                        coverage_data[lang_key]["available"].append(film['title'])
+                        print(f"  ✓ {lang_key.upper()}: Available")
+                        found = True
+                        break
+
+                # Small delay to avoid rate limiting
+                time.sleep(0.5)
+
+            if not found:
+                coverage_data[lang_key]["missing"].append(film['title'])
+                print(f"  ✗ {lang_key.upper()}: Not found")
+
+    # Print summary
+    print("\n" + "="*60)
+    print("COVERAGE ASSESSMENT SUMMARY")
+    print("="*60)
+
+    print(f"\n📊 Coverage by Language:")
+    print(f"   Total films: {len(FILMS)}\n")
+
+    # Sort languages by coverage percentage (descending)
+    lang_coverage = []
+    for lang_key, data in coverage_data.items():
+        available_count = len(data["available"])
+        percentage = (available_count / len(FILMS)) * 100
+        lang_coverage.append((lang_key, available_count, percentage, data))
+
+    lang_coverage.sort(key=lambda x: x[2], reverse=True)
+
+    for lang_key, count, percentage, data in lang_coverage:
+        status = "🟢" if percentage >= 90 else "🟡" if percentage >= 70 else "🔴"
+        print(f"   {status} {lang_key.upper()}: {count}/{len(FILMS)} films ({percentage:.1f}%)")
+
+    # Show missing films for each language
+    print(f"\n❌ Missing Films by Language:")
+    for lang_key, _, percentage, data in lang_coverage:
+        if data["missing"]:
+            print(f"\n   {lang_key.upper()} - Missing {len(data['missing'])} films:")
+            for title in data["missing"][:5]:  # Show first 5
+                print(f"      - {title}")
+            if len(data["missing"]) > 5:
+                print(f"      ... and {len(data['missing']) - 5} more")
+
+    # Recommendations
+    print(f"\n💡 Recommendations:")
+    tier1 = [lang for lang, _, pct, _ in lang_coverage if pct >= 90]
+    tier2 = [lang for lang, _, pct, _ in lang_coverage if 70 <= pct < 90]
+    tier3 = [lang for lang, _, pct, _ in lang_coverage if pct < 70]
+
+    if tier1:
+        print(f"   ✅ Tier 1 (≥90% coverage): {', '.join([l.upper() for l in tier1])}")
+        print(f"      → Recommended for acquisition")
+    if tier2:
+        print(f"   ⚠️  Tier 2 (70-90% coverage): {', '.join([l.upper() for l in tier2])}")
+        print(f"      → Acceptable with documented gaps")
+    if tier3:
+        print(f"   ❌ Tier 3 (<70% coverage): {', '.join([l.upper() for l in tier3])}")
+        print(f"      → Consider alternative sources or drop")
+
+    print("\n" + "="*60)
+
+    return coverage_data
+
+
 def main():
     """Main execution flow."""
+    import argparse
+
+    parser = argparse.ArgumentParser(description="OpenSubtitles subtitle fetcher and coverage assessor")
+    parser.add_argument(
+        "--assess-coverage",
+        action="store_true",
+        help="Assess subtitle availability without downloading (for FR, ES, NL, AR)"
+    )
+    parser.add_argument(
+        "--languages",
+        nargs="+",
+        choices=list(LANGUAGE_TARGETS.keys()) + list(ASSESSMENT_LANGUAGES.keys()),
+        help="Specific languages to fetch (default: all in LANGUAGE_TARGETS)"
+    )
+
+    args = parser.parse_args()
+
     print("\n" + "="*60)
     print("OpenSubtitles Subtitle Fetcher")
     print("="*60)
     print(f"Films: {len(FILMS)}")
-    print(f"Languages: {', '.join(LANGUAGE_TARGETS.keys()).upper()}")
+
+    # Determine which languages to process
+    if args.assess_coverage:
+        # Assessment mode - check new languages only
+        languages_to_process = ASSESSMENT_LANGUAGES
+        print(f"Mode: COVERAGE ASSESSMENT")
+        print(f"Languages: {', '.join(languages_to_process.keys()).upper()}")
+    elif args.languages:
+        # User specified languages
+        languages_to_process = {}
+        for lang in args.languages:
+            if lang in LANGUAGE_TARGETS:
+                languages_to_process[lang] = LANGUAGE_TARGETS[lang]
+            elif lang in ASSESSMENT_LANGUAGES:
+                languages_to_process[lang] = ASSESSMENT_LANGUAGES[lang]
+        print(f"Mode: DOWNLOAD")
+        print(f"Languages: {', '.join(languages_to_process.keys()).upper()}")
+    else:
+        # Default: use original LANGUAGE_TARGETS
+        languages_to_process = LANGUAGE_TARGETS
+        print(f"Mode: DOWNLOAD")
+        print(f"Languages: {', '.join(languages_to_process.keys()).upper()}")
+
     print(f"Output: {OUTPUT_DIR}")
     print("="*60)
 
@@ -469,6 +614,12 @@ def main():
     # Note: OpenSubtitles API allows downloads with just API key (no login token needed)
     token = ""  # Empty token, API key in header is sufficient
 
+    # Assessment mode - check availability without downloading
+    if args.assess_coverage:
+        assess_coverage(api_key, token, languages_to_process)
+        return
+
+    # Download mode
     # Create output directory
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     print(f"✓ Output directory ready: {OUTPUT_DIR}")
@@ -482,7 +633,7 @@ def main():
         print(f"{'#'*60}")
 
         film_results = []
-        for lang_key, lang_codes in LANGUAGE_TARGETS.items():
+        for lang_key, lang_codes in languages_to_process.items():
             result = fetch_subtitle_for_language(
                 api_key,
                 token,
@@ -496,18 +647,18 @@ def main():
                 film_results.append(result)
                 all_results.append(result)
 
-        print(f"\n→ {film['title']}: {len(film_results)}/{len(LANGUAGE_TARGETS)} languages downloaded")
+        print(f"\n→ {film['title']}: {len(film_results)}/{len(languages_to_process)} languages downloaded")
 
     # Print summary
     print("\n" + "="*60)
     print("DOWNLOAD SUMMARY")
     print("="*60)
 
-    total_expected = len(FILMS) * len(LANGUAGE_TARGETS)
+    total_expected = len(FILMS) * len(languages_to_process)
 
     # Calculate coverage statistics
     coverage_by_lang = {}
-    for lang_key in LANGUAGE_TARGETS.keys():
+    for lang_key in languages_to_process.keys():
         lang_results = [r for r in all_results if r['lang'] == lang_key]
         coverage_by_lang[lang_key] = len(lang_results)
 
@@ -527,7 +678,7 @@ def main():
 
     for film in FILMS:
         film_subs = [r for r in all_results if r['film'] == film['title']]
-        if len(film_subs) == len(LANGUAGE_TARGETS):
+        if len(film_subs) == len(languages_to_process):
             complete_films.append(film)
         elif len(film_subs) > 0:
             partial_films.append((film, film_subs))
@@ -535,7 +686,7 @@ def main():
             missing_films.append(film)
 
     if complete_films:
-        print(f"\n✅ Complete coverage ({len(LANGUAGE_TARGETS)} languages): {len(complete_films)} films")
+        print(f"\n✅ Complete coverage ({len(languages_to_process)} languages): {len(complete_films)} films")
         for film in complete_films[:5]:  # Show first 5
             print(f"   - {film['title']} ({film['year']})")
         if len(complete_films) > 5:

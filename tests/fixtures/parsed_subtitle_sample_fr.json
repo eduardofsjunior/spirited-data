@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "film_name": "Spirited Away",
+    "film_slug": "spirited_away_fr",
+    "language_code": "fr",
+    "total_subtitles": 5,
+    "total_duration": 60.0,
+    "parse_timestamp": "2025-01-01T00:00:00Z"
+  },
+  "subtitles": [
+    {
+      "subtitle_index": 1,
+      "start_time": 20.0,
+      "end_time": 24.4,
+      "duration": 4.4,
+      "dialogue_text": "Je suis si heureux et excité d'être ici!"
+    },
+    {
+      "subtitle_index": 2,
+      "start_time": 60.0,
+      "end_time": 64.0,
+      "duration": 4.0,
+      "dialogue_text": "J'ai peur et je suis nerveux."
+    },
+    {
+      "subtitle_index": 3,
+      "start_time": 120.0,
+      "end_time": 124.0,
+      "duration": 4.0,
+      "dialogue_text": "Merci beaucoup pour votre aide!"
+    },
+    {
+      "subtitle_index": 4,
+      "start_time": 180.0,
+      "end_time": 184.0,
+      "duration": 4.0,
+      "dialogue_text": "Je suis curieux de cet endroit."
+    },
+    {
+      "subtitle_index": 5,
+      "start_time": 240.0,
+      "end_time": 244.0,
+      "duration": 4.0,
+      "dialogue_text": "C'est confus et étrange."
+    }
+  ]
+}
+
+
