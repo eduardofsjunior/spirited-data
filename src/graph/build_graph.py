@@ -44,7 +44,7 @@ def load_nodes_from_duckdb(conn: duckdb.DuckDBPyConnection) -> Dict[str, Dict[st
 
     query = """
         SELECT node_id, node_type, name, properties
-        FROM marts.mart_graph_nodes
+        FROM main_marts.mart_graph_nodes
     """
 
     try:
@@ -92,9 +92,20 @@ def load_edges_from_duckdb(conn: duckdb.DuckDBPyConnection) -> List[Dict[str, An
     """
     logger.info("Loading edges from mart_graph_edges...")
 
+    # First check if table exists and has data
+    try:
+        count_result = conn.execute(
+            "SELECT COUNT(*) FROM main_marts.mart_graph_edges"
+        ).fetchone()
+        edge_count = count_result[0] if count_result else 0
+        logger.debug(f"Found {edge_count} edges in mart_graph_edges table")
+    except duckdb.Error as e:
+        logger.warning(f"Could not check edge count: {e}")
+        edge_count = None
+
     query = """
         SELECT edge_id, source_node_id, target_node_id, edge_type, properties
-        FROM marts.mart_graph_edges
+        FROM main_marts.mart_graph_edges
     """
 
     try:

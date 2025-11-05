@@ -5,11 +5,15 @@ models:
     description: |
       Intermediate model extracting character-film relationships (appears_in edge type).
       
-      Extracts relationships by unnesting the people[] array from raw.films and joining
-      with raw.people on person URLs. Each edge represents a character appearing in a film.
+      Uses REVERSE direction extraction: unnests the films[] array from raw.people (not raw.films.people[])
+      and joins with raw.films on film URLs. This approach is used because many films in the API
+      have incomplete people URLs ('https://ghibliapi.vercel.app/people/' without UUIDs).
+      
+      By using people.films[] → films.url (reverse direction), we capture 59 edges across 11 films
+      instead of only 34 edges across 5 films with the forward direction.
       
       Edge direction: Character → Film (source_node_id = character, target_node_id = film)
-      Expected edge count: ~34 edges (characters appearing in films)
+      Expected edge count: ~59 edges (characters appearing in films)
       
       This model is ephemeral (not materialized) and is consumed by mart_graph_edges.
     columns:
