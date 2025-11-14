@@ -14,7 +14,13 @@ else
     exit 1
 fi
 
+# Set PYTHONPATH to project root for absolute imports
+export PYTHONPATH="$PROJECT_DIR:$PYTHONPATH"
+
 # Run the script with all arguments
 cd "$PROJECT_DIR"
 exec "$@"
+
+
+
 
