@@ -13,9 +13,12 @@ pysrt>=1.1.2
 networkx>=3.2
 
 # AI/RAG
+pydantic>=2.0.0  # Required by langchain-core
 langchain>=0.1.0
 langchain-openai>=0.0.5
 langchain-community>=0.0.10
+langchain-core>=0.1.0
+langgraph==0.0.20  # Pinned exact version for API stability (TECH-001 risk mitigation)
 chromadb>=0.4.22
 openai>=1.12.0
 tiktoken>=0.5.2
@@ -28,6 +31,7 @@ plotly>=5.18.0
 python-dotenv>=1.0.0
 requests>=2.31.0
 pyyaml>=6.0.0
+scipy>=1.11.0
 
 # Testing
 pytest>=7.4.3

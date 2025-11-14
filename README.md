@@ -30,6 +30,75 @@ ghibli_pipeline/
 - **AI/RAG**: LangChain, OpenAI, ChromaDB
 - **Frontend**: Streamlit
 
+## Data Quality: Subtitle Version Validation
+
+One of the key challenges in this project was ensuring that subtitle files matched the exact movie versions being analyzed. Subtitle files can come from different releases (theatrical cuts, Blu-ray, DVD, streaming), and timing mismatches can invalidate emotion analysis timestamps and RAG query results.
+
+### Why This Matters
+
+- **Emotion Analysis Accuracy**: Sentiment timestamps must align with actual film scenes
+- **Cross-Language Consistency**: All language versions should reference the same cut
+- **RAG Query Reliability**: Queries asking for "exact timestamps" depend on validated timing
+- **Portfolio Credibility**: Demonstrates attention to data quality beyond "just load the data"
+
+### Validation Approach
+
+**Film Version Documentation**:
+- All 22 Studio Ghibli films have documented reference runtimes (`data/metadata/film_versions.json`)
+- Runtime sources: IMDB, Blu-ray releases, theatrical versions
+- Each film includes: title, runtime, release year, IMDB ID, reference source
+
+**Validation Metrics**:
+- **Timing Drift**: Compare subtitle duration vs documented film runtime
+  - < 2% drift: ✅ PASS
+  - 2-5% drift: ⚠️ WARN
+  - > 5% drift: ❌ FAIL
+- **Cross-Language Consistency**: All languages for same film should have < 3% drift
+- **Timing Issues**: Detect negative timestamps, large gaps, subtitles past film end
+
+### Validation Results
+
+**Current Status** (as of validation run):
+- **Films Validated**: 23 films (22 official + 1 test film)
+- **Total Subtitle Files**: 134 files (22 films × 6 languages + test data)
+- **Pass Rate**: 41.8% (56/134 files)
+- **Warning Rate**: 20.1% (27/134 files)
+- **Failure Rate**: 38.1% (51/134 files)
+- **Cross-Language Consistency**: 21.7% of films (5/23) have consistent timing across all languages
+
+**Key Findings**:
+- Several films have significant timing drift indicating different cuts or versions
+- Most failures are due to subtitle files from different film versions (extended cuts, different regions)
+- Files marked as PASS have high confidence for emotion timestamp accuracy
+- Validation metadata is stored in DuckDB for downstream use
+
+### Portfolio Value
+
+This validation demonstrates:
+
+1. **Data Engineering Rigor**: Proactive identification and documentation of data quality issues
+2. **Real-World Problem Solving**: Version mismatches are common in subtitle datasets
+3. **Quantifiable Metrics**: Specific pass/warn/fail thresholds with measurable results
+4. **Interview Talking Points**: "I noticed subtitle versions could vary, so I built validation to ensure data integrity"
+5. **Differentiation**: Most portfolio projects ignore this level of data quality validation
+
+### Running Validation
+
+```bash
+# Validate all subtitle files
+PYTHONPATH=/path/to/ghibli_pipeline python3 src/validation/validate_subtitle_timing.py
+
+# View validation report
+cat data/processed/subtitle_validation_report.md
+
+# Update DuckDB with validation metadata
+PYTHONPATH=/path/to/ghibli_pipeline python3 src/validation/add_validation_metadata_to_db.py
+```
+
+**Validation Report Location**: `data/processed/subtitle_validation_report.md`
+
+---
+
 ## dbt Transformation Layer
 
 ### Installation
@@ -467,6 +536,323 @@ LIMIT 10;
 ```bash
 duckdb data/ghibli.duckdb
 ```
+
+## CLI Testing Interface
+
+Before building the Streamlit UI, test the RAG system using the interactive command-line interface.
+
+### Purpose
+
+The CLI interface allows you to:
+- Test RAG queries interactively
+- Validate RAG pipeline functionality
+- Debug query processing with verbose output
+- Save conversation history for review
+- Monitor session statistics (tokens, cost, response time)
+
+### Installation
+
+The CLI uses the same dependencies as the main project. Ensure you have:
+- OpenAI API key configured in `.env`
+- DuckDB database at `data/ghibli.duckdb`
+- ChromaDB vector store at `data/vectors`
+
+### Basic Usage
+
+**Start the CLI:**
+```bash
+# Set PYTHONPATH to include project root
+export PYTHONPATH=/path/to/ghibli_pipeline
+python src/ai/rag_cli.py
+
+# Or run with PYTHONPATH inline
+PYTHONPATH=/path/to/ghibli_pipeline python src/ai/rag_cli.py
+```
+
+**Enable debug mode:**
+```bash
+python src/ai/rag_cli.py --debug
+```
+
+**Custom log level:**
+```bash
+python src/ai/rag_cli.py --log-level DEBUG
+```
+
+**Disable streaming output:**
+```bash
+python src/ai/rag_cli.py --no-streaming
+```
+
+### Special Commands
+
+The CLI supports the following special commands:
+
+- `/exit` - Quit the CLI and save conversation history
+- `/reset` - Clear conversation history and reset session
+- `/stats` - Display session statistics (duration, queries, tokens, cost)
+- `/help` - Show help message with examples
+
+### Example Session
+
+```bash
+$ python src/ai/rag_cli.py
+
+============================================================
+SpiritedData RAG CLI - Interactive Query Testing
+Version 1.0
+============================================================
+
+Try asking:
+  • "Who are the most central characters?"
+  • "What's the emotional arc of Spirited Away?"
+  • "Calculate character centrality for top 5 characters"
+  • "Show sentiment curve for Spirited Away"
+  • "Compare Miyazaki vs non-Miyazaki average sentiment"
+
+Special Commands:
+  /exit  - Quit the CLI
+  /reset - Clear conversation history
+  /stats - Show session statistics
+  /help  - Show this help message
+
+Type your question or command:
+------------------------------------------------------------
+>>> Who are the most central characters?
+
+Based on my graph analysis, the most central characters are:
+1. Chihiro/Sen (Spirited Away) - Degree centrality: 0.45
+2. Pazu (Castle in the Sky) - Degree centrality: 0.38
+3. Ashitaka (Princess Mononoke) - Degree centrality: 0.35
+
+>>> /stats
+
+==============================
+Session Statistics
+==============================
+Duration: 2 minutes 15 seconds
+Total Queries: 1
+Total Tokens: 425
+Total Cost: $0.01
+Average Response Time: 2.3 seconds
+==============================
+
+>>> /exit
+Conversation saved to: logs/rag_conversation_2025-01-08_14-30-45.json
+Goodbye! Session summary:
+  Queries: 1
+  Tokens: 425
+  Cost: $0.01
+```
+
+### Debug Mode
+
+Enable debug mode to see detailed information about query processing:
+
+```bash
+$ python src/ai/rag_cli.py --debug
+
+>>> Who are the most central characters?
+
+[DEBUG] Retrieved Documents:
+  - doc_12: character (score: 0.85)
+  - doc_45: film (score: 0.78)
+  - doc_78: analysis (score: 0.72)
+
+[DEBUG] Function Calls:
+  - calculate_character_centrality(top_n=5)
+
+[DEBUG] Token Usage:
+  Input: 245 tokens
+  Output: 180 tokens
+  Total: 425 tokens
+  Cost: $0.0127
+
+[DEBUG] Response Time: 2.3 seconds
+
+Based on my graph analysis...
+```
+
+### Conversation History
+
+Conversations are automatically saved to `logs/rag_conversation_{timestamp}.json` when you exit the CLI (if `--save-history` is enabled, which is the default).
+
+**History file format:**
+```json
+{
+  "metadata": {
+    "start_time": "2025-01-08T14:30:45",
+    "end_time": "2025-01-08T14:45:17",
+    "total_queries": 12,
+    "total_tokens": 8450,
+    "total_cost": 0.25
+  },
+  "history": [
+    {"role": "user", "content": "Who are the most central characters?"},
+    {"role": "assistant", "content": "Based on graph analysis..."}
+  ],
+  "statistics": {
+    "session_duration_seconds": 892,
+    "average_response_time": 2.1,
+    "queries_per_minute": 0.8
+  }
+}
+```
+
+### Troubleshooting
+
+| Issue | Solution |
+|-------|----------|
+| "Failed to initialize RAG pipeline" | Check that `OPENAI_API_KEY` is set in `.env` |
+| "Database not found" | Ensure DuckDB exists at `data/ghibli.duckdb` (run data pipeline first) |
+| "Rate limit exceeded" | Wait a few minutes before retrying queries |
+| "Connection error" | Check internet connection and OpenAI API status |
+| Empty or missing output | Try `--log-level DEBUG` to see detailed error messages |
+
+### Related Documentation
+
+- [Epic 4: AI & RAG System](docs/prd/epic-4-rag-system.md)
+- [Story 4.5: RAG Pipeline Implementation](docs/stories/4.5.rag-pipeline-implementation.story.md)
+- [Story 4.6: CLI Interface](docs/stories/4.6.cli-interface-for-rag-testing.story.md)
+
+## RAG System Validation
+
+Validate the RAG system with 10 sentiment-focused test queries that demonstrate unique analytical value beyond general LLM knowledge.
+
+### Purpose
+
+The validation script (`src/ai/validate_rag_system.py`) tests:
+- **Data-driven responses**: Citations with table names, IDs, timestamps
+- **Statistical measures**: Correlation coefficients, p-values, z-scores, quartiles
+- **Sentiment metrics**: compound_sentiment, sentiment_variance, emotional_range
+- **Performance**: Response time (<10 sec per query), token usage, API cost
+- **FR17 validation**: Confirms system answers 10 sentiment-driven queries demonstrating unique analytical value
+
+### Prerequisites
+
+Before running validation, ensure:
+1. **dbt models are built** (required mart tables):
+   ```bash
+   cd src/transformation
+   dbt run --models marts.mart_film_sentiment_summary
+   dbt run --models marts.mart_film_success_metrics
+   dbt run --models marts.mart_sentiment_success_correlation
+   ```
+
+2. **OpenAI API key** configured in `.env`:
+   ```bash
+   OPENAI_API_KEY=your_key_here
+   ```
+
+3. **DuckDB database** exists at `data/ghibli.duckdb`
+
+4. **ChromaDB vector store** exists at `data/vectors`
+
+### Usage
+
+**Run full validation suite (all 10 queries):**
+```bash
+python src/ai/validate_rag_system.py
+```
+
+**Run with specific model:**
+```bash
+python src/ai/validate_rag_system.py --model gpt-4
+```
+
+**Run subset of queries (for faster testing):**
+```bash
+python src/ai/validate_rag_system.py --max-queries 3
+```
+
+**Custom output path:**
+```bash
+python src/ai/validate_rag_system.py --output docs/my_validation_report.md
+```
+
+### Test Query Categories
+
+The 10 sentiment-focused queries are categorized as:
+
+1. **sentiment_analysis** (Q1): Sentiment curve with intense moments
+2. **correlation_study** (Q2-Q4): Sentiment-revenue correlations, variance analysis
+3. **trajectory_analysis** (Q5, Q8): Rising/falling sentiment trajectories
+4. **multilingual** (Q6): Cross-language sentiment arc comparison
+5. **success_prediction** (Q7, Q9-Q10): Sentiment-success correlations
+
+### Example Queries
+
+**Q1**: "Show me the sentiment curve for Spirited Away with the 5 most emotionally intense moments and their exact timestamps"
+
+**Q2**: "Calculate the correlation between average sentiment and box office revenue across all films with statistical significance"
+
+**Q6**: "Compare sentiment arcs across English, French, and Spanish for Spirited Away and identify the biggest divergence point"
+
+### Validation Report
+
+The script generates a comprehensive validation report at `docs/rag_validation_report.md` including:
+
+- **Executive Summary**: Pass rate, overall score, total cost, response times
+- **How This Differs from ChatGPT**: Unique analytical capabilities explanation
+- **Per-Category Performance**: Pass rates by query category
+- **Sentiment-Success Correlation Findings**: Key discoveries from query responses
+- **Functional Requirements Validation**: FR17 validation status
+- **Detailed Test Results**: Individual query results with validation scores
+
+### Validation Scoring
+
+Each response is scored on:
+- **Citations (20%)**: Table names, timestamps, IDs
+- **Statistics (30%)**: Correlation coefficients, p-values, quartiles
+- **Sentiment Metrics (30%)**: compound_sentiment, variance, emotional_range
+- **Expected Elements (20%)**: Query-specific keywords
+
+**Pass threshold**: 70% overall score
+
+### Running Tests
+
+**Unit tests** (validation logic only):
+```bash
+pytest tests/unit/test_validate_rag_system.py
+```
+
+**Integration tests** (requires API key + dbt models):
+```bash
+pytest -m integration tests/integration/test_validate_rag_integration.py
+```
+
+**Expected cost**: ~$1.00 for full suite (10 queries × ~400 tokens avg × GPT-3.5 pricing)
+
+### Required dbt Models
+
+The validation queries require these mart models:
+
+1. **`mart_film_sentiment_summary`**: Aggregated emotion metrics per film
+   - `avg_compound_sentiment`, `sentiment_variance`, `sentiment_trajectory`
+   - `beginning_sentiment`, `ending_sentiment`, `emotional_range`
+
+2. **`mart_film_success_metrics`**: Success indicators
+   - `critic_score`, `audience_score`, `box_office_revenue`
+   - `revenue_tier`, `composite_success_score`
+
+3. **`mart_sentiment_success_correlation`**: Analysis-ready view
+   - Joins sentiment + success metrics
+   - Includes correlation-ready flags
+
+### Troubleshooting
+
+| Issue | Solution |
+|-------|----------|
+| "Required dbt models not built" | Run `dbt run --models marts` in `src/transformation/` |
+| "OPENAI_API_KEY not set" | Add API key to `.env` file |
+| "Database not found" | Ensure DuckDB exists at `data/ghibli.duckdb` |
+| Low validation scores | Check that responses cite mart tables and include statistical measures |
+| High API costs | Use `--max-queries` to test subset, or use `gpt-3.5-turbo` instead of `gpt-4` |
+
+### Related Documentation
+
+- [Story 4.7: RAG System Validation](docs/stories/4.7.rag-system-validation.story.md)
+- [Epic 4: AI & RAG System](docs/prd/epic-4-rag-system.md)
 
 ## Documentation
 

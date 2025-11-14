@@ -88,3 +88,19 @@ sources:
         freshness:
           warn_after: {count: 48, period: hour}
         loaded_at_field: loaded_at
+
+      - name: film_emotions
+        description: "Emotion analysis results from subtitle parsing (multilingual)"
+        columns:
+          - name: film_slug
+            description: "Film identifier with language code (e.g., 'spirited_away_en')"
+          - name: language_code
+            description: "ISO 639-1 language code (en, fr, es, nl, ar)"
+          - name: minute_offset
+            description: "Minute timestamp in film"
+          - name: emotion_joy
+            description: "Joy emotion score (0-1)"
+          - name: emotion_sadness
+            description: "Sadness emotion score (0-1)"
+          - name: dialogue_count
+            description: "Number of dialogue lines aggregated"

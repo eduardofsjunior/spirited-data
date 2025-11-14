@@ -1,0 +1,9 @@
+ghibli:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: ../../data/ghibli.duckdb
+      schema: main
+      threads: 4
+
