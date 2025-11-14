@@ -1,0 +1,111 @@
+[
+  {
+    "doc_id": "film_2baf70d1-42bb-4437-b551-e5fed5a87abe",
+    "type": "film",
+    "name": "Spirited Away",
+    "text": "Spirited Away is a 2001 Japanese animated fantasy film written and directed by Hayao Miyazaki. The film tells the story of Chihiro, a ten-year-old girl who enters a world of spirits and must work to free her parents and return to the human world.",
+    "metadata": {
+      "director": "Hayao Miyazaki",
+      "release_year": 2001,
+      "rt_score": 97
+    }
+  },
+  {
+    "doc_id": "film_58611129-2dbc-4a81-a72f-77ddfc1b1b49",
+    "type": "film",
+    "name": "My Neighbor Totoro",
+    "text": "My Neighbor Totoro is a 1988 Japanese animated fantasy film written and directed by Hayao Miyazaki. The film follows two young daughters of a professor and their interactions with friendly wood spirits in postwar rural Japan.",
+    "metadata": {
+      "director": "Hayao Miyazaki",
+      "release_year": 1988,
+      "rt_score": 93
+    }
+  },
+  {
+    "doc_id": "character_ba924631-068e-4436-b6de-f3283fa848f0",
+    "type": "character",
+    "name": "Ashitaka",
+    "text": "Ashitaka is the male protagonist in Princess Mononoke, a young Emishi prince who becomes cursed and must find a cure in the forest.",
+    "metadata": {
+      "gender": "Male",
+      "age": "young adult",
+      "film": "Princess Mononoke"
+    }
+  },
+  {
+    "doc_id": "character_6b3facea-ea33-47b1-96ce-3fc737b119b8",
+    "type": "character",
+    "name": "Chihiro",
+    "text": "Chihiro Ogino is the main character in Spirited Away. She is a ten-year-old girl who enters the spirit world and must work to free her parents.",
+    "metadata": {
+      "gender": "Female",
+      "age": 10,
+      "film": "Spirited Away"
+    }
+  },
+  {
+    "doc_id": "location_11014596-71b0-4b3e-b8c0-1c4b15f28b9a",
+    "type": "location",
+    "name": "Irontown",
+    "text": "Irontown is a fortress-like settlement in Princess Mononoke where Lady Eboshi rules and iron is produced.",
+    "metadata": {
+      "film": "Princess Mononoke",
+      "type": "settlement"
+    }
+  },
+  {
+    "doc_id": "location_42f787d4-1fcb-4d3d-a858-9e5c17e5b3f4",
+    "type": "location",
+    "name": "The Bathhouse",
+    "text": "The Bathhouse is a large bathhouse for spirits in Spirited Away, owned and operated by the witch Yubaba.",
+    "metadata": {
+      "film": "Spirited Away",
+      "type": "building"
+    }
+  },
+  {
+    "doc_id": "species_af3910a6-429f-4c74-9ad5-dfe1c4aa04f2",
+    "type": "species",
+    "name": "Spirit",
+    "text": "Spirits are supernatural beings that inhabit the spirit world in various Ghibli films, including Spirited Away.",
+    "metadata": {
+      "description": "supernatural beings"
+    }
+  },
+  {
+    "doc_id": "quote_spirited-away_en_001",
+    "type": "memorable_quote",
+    "name": "Spirited Away - English - Quote 1",
+    "text": "Once you've met someone you never really forget them. It just takes a while for your memories to return.",
+    "metadata": {
+      "film": "Spirited Away",
+      "language": "en",
+      "quote_index": 1,
+      "source": "subtitle"
+    }
+  },
+  {
+    "doc_id": "quote_spirited-away_fr_001",
+    "type": "memorable_quote",
+    "name": "Spirited Away - French - Quote 1",
+    "text": "Une fois que tu as rencontré quelqu'un, tu ne l'oublies jamais vraiment. Il faut juste du temps pour que tes souvenirs reviennent.",
+    "metadata": {
+      "film": "Spirited Away",
+      "language": "fr",
+      "quote_index": 1,
+      "source": "subtitle"
+    }
+  },
+  {
+    "doc_id": "quote_princess-mononoke_en_001",
+    "type": "memorable_quote",
+    "name": "Princess Mononoke - English - Quote 1",
+    "text": "To see with eyes unclouded by hate.",
+    "metadata": {
+      "film": "Princess Mononoke",
+      "language": "en",
+      "quote_index": 1,
+      "source": "subtitle"
+    }
+  }
+]
