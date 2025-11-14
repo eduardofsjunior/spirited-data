@@ -33,6 +33,7 @@ from src.validation.chart_utils import (
     plot_sentiment_timeline,
     plot_emotion_similarity_heatmap,
     plot_emotion_fingerprint_radar,
+    get_film_duration,
 )
 
 # Configure logging
@@ -184,6 +185,141 @@ def load_films(_conn: duckdb.DuckDBPyConnection) -> pd.DataFrame:
         return pd.DataFrame(columns=["id", "title", "release_year", "director"])
 
 
+def initialize_filter_state() -> None:
+    """
+    Initialize Streamlit session state with default filter values.
+
+    Sets up session state keys for:
+    - selected_film_id: Currently selected film (None = use dropdown default)
+    - time_range_min: Sentiment chart time window start (minutes)
+    - time_range_max: Sentiment chart time window end (minutes, None = max available)
+    - intensity_threshold: Peak filtering threshold (0.0 to 1.0)
+    - centrality_top_n: Number of characters to show in centrality chart
+
+    Called at dashboard startup before any widgets are rendered.
+    Only initializes keys that don't already exist (preserves session state).
+    """
+    if 'selected_film_id' not in st.session_state:
+        st.session_state['selected_film_id'] = None
+    
+    if 'time_range_min' not in st.session_state:
+        st.session_state['time_range_min'] = 0
+    
+    if 'time_range_max' not in st.session_state:
+        st.session_state['time_range_max'] = None
+    
+    if 'intensity_threshold' not in st.session_state:
+        st.session_state['intensity_threshold'] = 0.5
+    
+    if 'centrality_top_n' not in st.session_state:
+        st.session_state['centrality_top_n'] = 10
+
+
+def on_film_change() -> None:
+    """
+    Callback when film selector changes.
+    
+    Resets time range filters to defaults when a different film is selected,
+    since each film has different duration. Other filters (intensity threshold,
+    centrality top N) are preserved across film changes.
+    """
+    # Reset time range to full film duration (will be set by slider later)
+    st.session_state['time_range_min'] = 0
+    st.session_state['time_range_max'] = None
+    
+    logger.info(f"Film changed to: {st.session_state.get('selected_film_id')}")
+
+
+def export_sentiment_data(
+    conn: duckdb.DuckDBPyConnection,
+    film_slug: str,
+    language_code: str,
+    time_range_min: int = 0,
+    time_range_max: int = None
+) -> pd.DataFrame:
+    """
+    Export filtered sentiment data as pandas DataFrame for CSV download.
+    
+    Queries emotion data from DuckDB for the specified film and language,
+    applies time range filter, and calculates compound sentiment scores.
+    Returns DataFrame ready for CSV export.
+    
+    Args:
+        conn: Active DuckDB connection
+        film_slug: URL-safe film identifier (e.g., "spirited_away")
+        language_code: ISO 639-1 language code (e.g., "en")
+        time_range_min: Start minute for time range filter (default: 0)
+        time_range_max: End minute for time range filter (default: None = no limit)
+    
+    Returns:
+        DataFrame with columns: minute_offset, compound_score, top_emotion,
+        and individual emotion scores (emotion_joy, emotion_sadness, etc.)
+    
+    Example:
+        >>> conn = get_duckdb_connection()
+        >>> df = export_sentiment_data(conn, "spirited_away", "en", 0, 60)
+        >>> df.to_csv("spirited_away_sentiment.csv", index=False)
+    """
+    from src.validation.chart_utils import calculate_compound_score, calculate_dominant_emotion
+    
+    try:
+        # Build query with time range filter
+        query = """
+            SELECT 
+                minute_offset,
+                emotion_admiration, emotion_amusement, emotion_anger, emotion_annoyance,
+                emotion_approval, emotion_caring, emotion_confusion, emotion_curiosity,
+                emotion_desire, emotion_disappointment, emotion_disapproval, emotion_disgust,
+                emotion_embarrassment, emotion_excitement, emotion_fear, emotion_gratitude,
+                emotion_grief, emotion_joy, emotion_love, emotion_nervousness,
+                emotion_optimism, emotion_pride, emotion_realization, emotion_relief,
+                emotion_remorse, emotion_sadness, emotion_surprise, emotion_neutral
+            FROM raw.film_emotions
+            WHERE film_slug = ? AND language_code = ?
+        """
+        
+        params = [f"{film_slug}_{language_code}", language_code]
+        
+        if time_range_max is not None:
+            query += " AND minute_offset BETWEEN ? AND ?"
+            params.extend([time_range_min, time_range_max])
+        elif time_range_min > 0:
+            query += " AND minute_offset >= ?"
+            params.append(time_range_min)
+        
+        query += " ORDER BY minute_offset"
+        
+        # Execute query
+        df = conn.execute(query, params).fetch_df()
+        
+        if df.empty:
+            logger.warning(f"No sentiment data found for export: {film_slug} ({language_code})")
+            return pd.DataFrame()
+        
+        # Calculate compound score
+        df['compound_score'] = df.apply(calculate_compound_score, axis=1)
+        
+        # Identify dominant emotion for each minute
+        df['dominant_emotion'] = df.apply(
+            lambda row: calculate_dominant_emotion(row)['emotion'], 
+            axis=1
+        )
+        
+        # Reorder columns for better readability
+        cols = ['minute_offset', 'compound_score', 'dominant_emotion'] + [
+            col for col in df.columns if col.startswith('emotion_')
+        ]
+        df = df[cols]
+        
+        logger.info(f"Exported {len(df)} rows of sentiment data for {film_slug} ({language_code})")
+        
+        return df
+        
+    except Exception as e:
+        logger.error(f"Failed to export sentiment data: {e}")
+        return pd.DataFrame()
+
+
 def main() -> None:
     """
     Main dashboard entry point.
@@ -198,6 +334,9 @@ def main() -> None:
         layout="wide",
         page_icon="📊"
     )
+    
+    # Initialize session state for filters
+    initialize_filter_state()
 
     # Header section
     st.title("Epic 3.5: Analytical Validation Dashboard")
@@ -217,18 +356,36 @@ def main() -> None:
     # Sidebar - Film selector
     st.sidebar.header("🎬 Film Selection")
 
-    # Create film display names (title + year)
+    # Create film display names (title + year) and ID mapping
     films_df["display_name"] = films_df.apply(
         lambda row: f"{row['title']} ({row['release_year']})",
         axis=1
     )
+    
+    # Create mapping from film_id to index for default selection
+    film_id_to_index = {row["id"]: idx for idx, row in films_df.iterrows()}
+    
+    # Determine default index based on session state
+    default_index = 0
+    if st.session_state.get('selected_film_id') and st.session_state['selected_film_id'] in film_id_to_index:
+        default_index = film_id_to_index[st.session_state['selected_film_id']]
 
-    # Film selector dropdown
-    selected_film_display = st.sidebar.selectbox(
+    # Film selector dropdown with session state
+    selected_film_index = st.sidebar.selectbox(
         "Select Film",
-        options=films_df["display_name"].tolist(),
-        index=0
+        options=range(len(films_df)),
+        format_func=lambda i: films_df.iloc[i]["display_name"],
+        index=default_index,
+        key="film_selector"
     )
+    
+    # Get selected film data
+    selected_film_row = films_df.iloc[selected_film_index]
+    
+    # Update session state if film changed
+    if st.session_state['selected_film_id'] != selected_film_row["id"]:
+        st.session_state['selected_film_id'] = selected_film_row["id"]
+        on_film_change()
 
     # Language selector dropdown
     st.sidebar.divider()
@@ -245,20 +402,62 @@ def main() -> None:
         }[x],
         index=0
     )
-
-    # Get selected film data
-    selected_film_row = films_df[films_df["display_name"] == selected_film_display].iloc[0]
-
-    # Store selected film in session state
-    if "selected_film" not in st.session_state:
-        st.session_state["selected_film"] = {}
-
-    st.session_state["selected_film"] = {
-        "id": selected_film_row["id"],
-        "title": selected_film_row["title"],
-        "release_year": selected_film_row["release_year"],
-        "director": selected_film_row["director"]
-    }
+    
+    # Filters section
+    st.sidebar.divider()
+    st.sidebar.header("🎛️ Filters")
+    
+    # Sentiment Chart Filters
+    st.sidebar.subheader("📈 Sentiment Chart")
+    
+    # Time range slider for sentiment chart
+    film_slug = generate_film_slug(selected_film_row["title"])
+    min_minute, max_minute = get_film_duration(conn, film_slug, selected_language)
+    
+    if max_minute > 0:
+        # Create time range slider
+        time_range = st.sidebar.slider(
+            "Time Range (minutes)",
+            min_value=int(min_minute),
+            max_value=int(max_minute),
+            value=(int(min_minute), int(max_minute)),
+            help="Filter sentiment chart to show specific time range"
+        )
+        
+        # Update session state
+        st.session_state['time_range_min'] = time_range[0]
+        st.session_state['time_range_max'] = time_range[1]
+    else:
+        st.sidebar.info("⚠️ No emotion data available for time range filter")
+        st.session_state['time_range_min'] = 0
+        st.session_state['time_range_max'] = None
+    
+    # Intensity threshold slider for peaks
+    intensity_threshold = st.sidebar.slider(
+        "Peak Intensity Threshold",
+        min_value=0.0,
+        max_value=1.0,
+        value=st.session_state['intensity_threshold'],
+        step=0.1,
+        help="Filter peaks to show only high-intensity moments. Higher values = fewer, more intense peaks."
+    )
+    st.session_state['intensity_threshold'] = intensity_threshold
+    
+    # Reset Filters button
+    st.sidebar.divider()
+    if st.sidebar.button("🔄 Reset Filters", use_container_width=True):
+        # Reset all filter values to defaults
+        st.session_state['time_range_min'] = 0
+        st.session_state['time_range_max'] = None
+        st.session_state['intensity_threshold'] = 0.5
+        st.session_state['centrality_top_n'] = 10
+        
+        # Log the reset
+        logger.info("Filters reset to default values")
+        
+        # Show success message and rerun
+        st.success("✅ Filters reset to defaults")
+        st.rerun()
 
     # Display selected film info in sidebar
     st.sidebar.divider()
@@ -283,13 +482,16 @@ def main() -> None:
             # Generate film slug from title
             film_slug = generate_film_slug(selected_film_row["title"])
             
-            # Generate sentiment timeline chart
+            # Generate sentiment timeline chart with time range and intensity filters
             with st.spinner("Loading sentiment data..."):
                 fig = plot_sentiment_timeline(
                     conn=conn,
                     film_slug=film_slug,
                     film_title=selected_film_row["title"],
-                    language_code=selected_language
+                    language_code=selected_language,
+                    time_range_min=st.session_state['time_range_min'],
+                    time_range_max=st.session_state['time_range_max'],
+                    intensity_threshold=st.session_state['intensity_threshold']
                 )
             
             # Display chart or warning
@@ -299,6 +501,25 @@ def main() -> None:
                     f"💡 Use play/pause to animate timeline. "
                     f"Hover over peaks to see dialogue excerpts."
                 )
+                
+                # Export sentiment data button
+                export_df = export_sentiment_data(
+                    conn=conn,
+                    film_slug=film_slug,
+                    language_code=selected_language,
+                    time_range_min=st.session_state['time_range_min'],
+                    time_range_max=st.session_state['time_range_max']
+                )
+                
+                if not export_df.empty:
+                    csv = export_df.to_csv(index=False).encode('utf-8')
+                    st.download_button(
+                        label="📥 Export Sentiment Data",
+                        data=csv,
+                        file_name=f"{film_slug}_{selected_language}_sentiment.csv",
+                        mime="text/csv",
+                        help="Download filtered sentiment data as CSV"
+                    )
             else:
                 st.warning(
                     f"⚠️ No sentiment data available for "
@@ -404,16 +625,18 @@ def main() -> None:
 
     # Chart 1: Emotion Similarity Heatmap
     st.markdown("### 📊 Chart 1: Emotion Similarity Heatmap")
-    st.caption("See which films share similar emotional profiles. Darker colors = higher similarity.")
+    st.caption(f"See which films share similar emotional profiles in {selected_language.upper()}. Darker colors = higher similarity.")
     
     with st.spinner("Calculating emotional similarities..."):
-        heatmap_fig = plot_emotion_similarity_heatmap(conn, selected_film_row["id"])
+        heatmap_fig = plot_emotion_similarity_heatmap(
+            conn, selected_film_row["id"], language_code=selected_language
+        )
     
     if heatmap_fig:
         st.plotly_chart(heatmap_fig, use_container_width=True, config={"responsive": True})
-        st.info("💡 **How to read**: Each cell shows emotional similarity. Higher % = more similar emotional profiles (excluding neutral emotion which dominated at 56%). Look for surprising connections!")
+        st.info(f"💡 **How to read**: Each cell shows emotional similarity in **{selected_language.upper()}** subtitles. Higher % = more similar emotional profiles (excluding neutral emotion which dominated at 56%). Look for surprising connections!")
     else:
-        st.warning("⚠️ No emotion data available yet. Run emotion analysis first.")
+        st.warning(f"⚠️ No emotion data available for {selected_language.upper()}. Try a different language.")
     
     # Chart 2: Emotion Fingerprint Radar
     st.markdown("### 🎯 Chart 2: Emotional Fingerprint Comparison")
@@ -456,13 +679,15 @@ def main() -> None:
     with col2:
         if selected_film_ids:
             with st.spinner("Creating emotional fingerprints..."):
-                radar_fig = plot_emotion_fingerprint_radar(conn, selected_film_ids, top_n_emotions=8)
+                radar_fig = plot_emotion_fingerprint_radar(
+                    conn, selected_film_ids, top_n_emotions=8, language_code=selected_language
+                )
             
             if radar_fig:
                 st.plotly_chart(radar_fig, use_container_width=True, config={"responsive": True})
-                st.info("💡 **How to read**: Each film has a unique 'shape' based on its top emotions (normalized to 100%, neutral excluded). Larger areas = that emotion dominates. Overlaps = shared characteristics.")
+                st.info(f"💡 **How to read**: Each film has a unique 'shape' based on its top emotions in **{selected_language.upper()}** (normalized to 100%, neutral excluded). Larger areas = that emotion dominates. Overlaps = shared characteristics.")
             else:
-                st.warning("⚠️ Could not create radar chart. Try selecting different films.")
+                st.warning(f"⚠️ Could not create radar chart for {selected_language.upper()}. Try selecting different films or language.")
         else:
             st.info("👆 Select films above to compare their emotional profiles.")
 

@@ -146,16 +146,20 @@ def calculate_dominant_emotion(emotion_row: pd.Series) -> Dict[str, Any]:
 
 def identify_peaks(
     emotion_data: pd.DataFrame,
+    threshold: float = 0.0,
 ) -> Dict[str, List[Dict[str, Any]]]:
     """
     Identify top 5 positive and negative sentiment peaks with dominant emotions.
 
     Calculates compound scores and finds highest (positive) and lowest
     (negative) sentiment moments in the film. Also identifies which specific
-    emotions are driving each peak.
+    emotions are driving each peak. Optionally filters peaks by intensity threshold.
 
     Args:
         emotion_data: DataFrame with minute_offset and emotion_* columns
+        threshold: Minimum absolute compound score to qualify as peak (0.0 to 1.0).
+                  Only peaks where |compound_score| > threshold are included.
+                  Default: 0.0 (no filtering)
 
     Returns:
         Dictionary with 'positive' and 'negative' keys, each containing list of
@@ -167,7 +171,7 @@ def identify_peaks(
 
     Example:
         >>> df = pd.DataFrame({'minute_offset': [0, 1, 2], 'emotion_joy': [0.8, 0.2, 0.5]})
-        >>> peaks = identify_peaks(df)
+        >>> peaks = identify_peaks(df, threshold=0.3)
         >>> peaks['positive'][0]['dominant_emotion']
         'joy'
     """
@@ -175,8 +179,14 @@ def identify_peaks(
     emotion_data = emotion_data.copy()
     emotion_data["compound"] = emotion_data.apply(calculate_compound_score, axis=1)
 
-    # Find top 5 positive peaks
-    positive_peak_rows = emotion_data.nlargest(5, "compound")
+    # Apply threshold filter: only keep rows where |compound| > threshold
+    if threshold > 0.0:
+        filtered_data = emotion_data[emotion_data["compound"].abs() > threshold]
+    else:
+        filtered_data = emotion_data
+
+    # Find top 5 positive peaks (only from data that passed threshold)
+    positive_peak_rows = filtered_data.nlargest(5, "compound")
     positive_peaks = []
     
     for _, row in positive_peak_rows.iterrows():
@@ -193,8 +203,8 @@ def identify_peaks(
             "dominant_emotion": top_3[0][0] if top_3 else "unknown",
         })
 
-    # Find top 5 negative peaks
-    negative_peak_rows = emotion_data.nsmallest(5, "compound")
+    # Find top 5 negative peaks (only from data that passed threshold)
+    negative_peak_rows = filtered_data.nsmallest(5, "compound")
     negative_peaks = []
     
     for _, row in negative_peak_rows.iterrows():
@@ -300,11 +310,56 @@ def load_dialogue_excerpts(
         return {}
 
 
+def get_film_duration(
+    conn: duckdb.DuckDBPyConnection,
+    film_slug: str,
+    language_code: str = "en"
+) -> tuple[int, int]:
+    """
+    Get the duration of a film in minutes from emotion data.
+    
+    Queries the min and max minute_offset for the specified film and language
+    to determine the time range available for filtering.
+    
+    Args:
+        conn: Active DuckDB connection
+        film_slug: URL-safe film identifier (e.g., "spirited_away")
+        language_code: ISO 639-1 language code (default: "en")
+    
+    Returns:
+        Tuple of (min_minute, max_minute). Returns (0, 0) if no data found.
+    
+    Example:
+        >>> conn = get_duckdb_connection()
+        >>> min_min, max_min = get_film_duration(conn, "spirited_away", "en")
+        >>> print(f"Film duration: {max_min - min_min + 1} minutes")
+    """
+    query = """
+        SELECT MIN(minute_offset) as min_minute, MAX(minute_offset) as max_minute
+        FROM raw.film_emotions
+        WHERE film_slug = ? || '_' || ? AND language_code = ?
+    """
+    
+    try:
+        result = conn.execute(query, [film_slug, language_code, language_code]).fetchone()
+        if result and result[0] is not None and result[1] is not None:
+            return (int(result[0]), int(result[1]))
+        else:
+            logger.warning(f"No emotion data found for {film_slug} in {language_code}")
+            return (0, 0)
+    except Exception as e:
+        logger.error(f"Failed to get film duration: {e}")
+        return (0, 0)
+
+
 def plot_sentiment_timeline(
     conn: duckdb.DuckDBPyConnection,
     film_slug: str,
     film_title: str,
     language_code: str = "en",
+    time_range_min: int = 0,
+    time_range_max: Optional[int] = None,
+    intensity_threshold: float = 0.0,
 ) -> Optional[go.Figure]:
     """
     Create animated sentiment timeline visualization for a film.
@@ -312,12 +367,19 @@ def plot_sentiment_timeline(
     Queries emotion data from DuckDB, calculates compound sentiment scores,
     and generates interactive Plotly line chart with animation controls,
     peak annotations, shaded sentiment zones, and dialogue excerpts.
+    
+    Supports optional time range filtering to zoom into specific scenes and
+    intensity threshold filtering to show only high-intensity emotion peaks.
 
     Args:
         conn: Active DuckDB connection
         film_slug: URL-safe film identifier (e.g., "spirited_away")
         film_title: Human-readable film title for chart title
         language_code: ISO 639-1 language code (default: "en")
+        time_range_min: Start minute for time range filter (default: 0)
+        time_range_max: End minute for time range filter (default: None = no limit)
+        intensity_threshold: Minimum |compound_score| for peak annotation (0.0 to 1.0).
+                           Only peaks with |score| > threshold are shown. Default: 0.0 (show all)
 
     Returns:
         Plotly Figure object with animated sentiment timeline, or None if
@@ -330,12 +392,17 @@ def plot_sentiment_timeline(
         >>> conn = get_duckdb_connection()
         >>> fig = plot_sentiment_timeline(conn, "spirited_away", "Spirited Away", "en")
         >>> st.plotly_chart(fig, use_container_width=True)
+        >>> 
+        >>> # With time range filter (minutes 10-30)
+        >>> fig = plot_sentiment_timeline(conn, "spirited_away", "Spirited Away", "en", 
+        ...                                time_range_min=10, time_range_max=30)
     """
     logger.info(
-        f"Generating sentiment timeline for {film_slug} ({language_code})..."
+        f"Generating sentiment timeline for {film_slug} ({language_code}) "
+        f"[time range: {time_range_min}-{time_range_max or 'end'}]"
     )
 
-    # Query emotion data
+    # Build query with optional time range filter
     # Note: film_slug in raw.film_emotions includes language suffix (e.g., "spirited_away_en")
     query = """
         SELECT 
@@ -347,12 +414,22 @@ def plot_sentiment_timeline(
             emotion_disgust, emotion_embarrassment, emotion_fear, emotion_grief,
             emotion_nervousness, emotion_remorse, emotion_sadness
         FROM raw.film_emotions
-        WHERE film_slug = ? || '_' || ? AND language_code = ?
-        ORDER BY minute_offset
+        WHERE film_slug = ? || '_' || ? 
+          AND language_code = ?
+          AND minute_offset >= ?
     """
+    
+    params = [film_slug, language_code, language_code, time_range_min]
+    
+    # Add max time filter if specified
+    if time_range_max is not None:
+        query += " AND minute_offset <= ?"
+        params.append(time_range_max)
+    
+    query += " ORDER BY minute_offset"
 
     try:
-        df = conn.execute(query, [film_slug, language_code, language_code]).fetch_df()
+        df = conn.execute(query, params).fetch_df()
 
         # Handle empty results
         if df.empty:
@@ -426,8 +503,15 @@ def plot_sentiment_timeline(
             )
         )
 
-        # Identify and annotate peaks
-        peaks = identify_peaks(df)
+        # Identify and annotate peaks (with optional intensity threshold filter)
+        peaks = identify_peaks(df, threshold=intensity_threshold)
+        
+        # Log warning if no peaks found (threshold too high)
+        if not peaks["positive"] and not peaks["negative"]:
+            logger.warning(
+                f"No peaks found for {film_slug} with threshold={intensity_threshold}. "
+                f"Try lowering the threshold."
+            )
 
         # Load dialogue excerpts for peaks
         all_peak_minutes = [p["minute_offset"] for p in peaks["positive"]] + [
@@ -1120,6 +1204,7 @@ def calculate_emotion_vectors(
     conn: duckdb.DuckDBPyConnection,
     exclude_neutral: bool = True,
     normalize: bool = True,
+    language_code: Optional[str] = None,
 ) -> Dict[str, Dict[str, float]]:
     """
     Calculate average emotion vectors for all films.
@@ -1130,12 +1215,13 @@ def calculate_emotion_vectors(
         conn: Active DuckDB connection
         exclude_neutral: If True, removes neutral emotion (default True)
         normalize: If True, normalizes vectors to sum to 1.0 (default True)
+        language_code: If provided, filters to specific language (e.g., 'en', 'fr')
         
     Returns:
         Dict of {film_id: {emotion_name: score}}
     """
     try:
-        # Get all films with emotion data
+        # Build query with optional language filter
         query = """
         SELECT 
             film_id,
@@ -1169,10 +1255,14 @@ def calculate_emotion_vectors(
             AVG(emotion_neutral) as neutral
         FROM raw.film_emotions
         WHERE film_id IS NOT NULL
-        GROUP BY film_id
         """
         
-        results = conn.execute(query).fetchall()
+        # Add language filter if specified
+        if language_code:
+            query += " AND language_code = ?"
+            results = conn.execute(query + " GROUP BY film_id", [language_code]).fetchall()
+        else:
+            results = conn.execute(query + " GROUP BY film_id").fetchall()
         
         emotion_names = [
             'admiration', 'amusement', 'anger', 'annoyance', 'approval', 'caring',
@@ -1255,6 +1345,7 @@ def distance_to_similarity(distance: float, max_distance: float = 1.0) -> float:
 def plot_emotion_similarity_heatmap(
     conn: duckdb.DuckDBPyConnection,
     selected_film_id: Optional[str] = None,
+    language_code: Optional[str] = None,
 ) -> Optional[go.Figure]:
     """
     Create interactive heatmap showing emotional similarity between films.
@@ -1265,13 +1356,16 @@ def plot_emotion_similarity_heatmap(
     Args:
         conn: Active DuckDB connection
         selected_film_id: Optional film ID to highlight
+        language_code: Optional language code to filter ('en', 'fr', etc.)
         
     Returns:
         Plotly Figure with heatmap, or None on error
     """
     try:
-        # Get emotion vectors (exclude neutral, normalized)
-        emotion_vectors = calculate_emotion_vectors(conn, exclude_neutral=True, normalize=True)
+        # Get emotion vectors (exclude neutral, normalized) for specific language
+        emotion_vectors = calculate_emotion_vectors(
+            conn, exclude_neutral=True, normalize=True, language_code=language_code
+        )
         
         if not emotion_vectors:
             logger.warning("No emotion data available")
@@ -1368,6 +1462,7 @@ def plot_emotion_fingerprint_radar(
     conn: duckdb.DuckDBPyConnection,
     film_ids: List[str],
     top_n_emotions: int = 8,
+    language_code: Optional[str] = None,
 ) -> Optional[go.Figure]:
     """
     Create radar chart comparing emotional fingerprints of selected films.
@@ -1379,13 +1474,16 @@ def plot_emotion_fingerprint_radar(
         conn: Active DuckDB connection
         film_ids: List of film IDs to compare (max 3 recommended)
         top_n_emotions: Number of emotions to show (default 8)
+        language_code: Optional language code to filter ('en', 'fr', etc.)
         
     Returns:
         Plotly Figure with radar chart, or None on error
     """
     try:
-        # Get emotion vectors (exclude neutral, normalized)
-        emotion_vectors = calculate_emotion_vectors(conn, exclude_neutral=True, normalize=True)
+        # Get emotion vectors (exclude neutral, normalized) for specific language
+        emotion_vectors = calculate_emotion_vectors(
+            conn, exclude_neutral=True, normalize=True, language_code=language_code
+        )
         
         if not emotion_vectors:
             logger.warning("No emotion data available")
