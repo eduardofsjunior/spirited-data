@@ -308,7 +308,7 @@ def save_parsed_subtitles(
 
 
 def process_all_subtitles(
-    subtitle_dir: Path, film_filter: Optional[List[str]] = None, language: str = "en"
+    subtitle_dir: Path, film_filter: Optional[List[str]] = None, language: str = "en", output_dir: Optional[Path] = None
 ) -> List[Dict[str, Any]]:
     """
     Process all .srt subtitle files in directory.
@@ -320,6 +320,7 @@ def process_all_subtitles(
         subtitle_dir: Directory containing .srt subtitle files
         film_filter: Optional list of film slugs to process (if None, process all)
         language: Language to process: 'en' (English), 'ja' (Japanese), or 'all' (both)
+        output_dir: Optional output directory path (default: data/processed/subtitles)
 
     Returns:
         List of processing results:
@@ -333,6 +334,9 @@ def process_all_subtitles(
             ...
         ]
     """
+    # Set default output directory
+    if output_dir is None:
+        output_dir = Path("data/processed/subtitles")
     results: List[Dict[str, Any]] = []
 
     # Discover all .srt files in directory
@@ -340,28 +344,29 @@ def process_all_subtitles(
 
     # Filter files based on language parameter
     if language == "en":
-        # Filter for English files only: *_en.srt pattern
-        filtered_files = [f for f in all_srt_files if f.name.endswith("_en.srt")]
+        # Filter for English files only: *_en.srt or *_en_v2.srt pattern
+        filtered_files = [f for f in all_srt_files if f.name.endswith("_en.srt") or f.name.endswith("_en_v2.srt")]
     elif language == "ja":
         # Filter for Japanese files only: *_ja.srt pattern
         filtered_files = [f for f in all_srt_files if f.name.endswith("_ja.srt")]
     elif language == "fr":
-        # Filter for French files only: *_fr.srt pattern
-        filtered_files = [f for f in all_srt_files if f.name.endswith("_fr.srt")]
+        # Filter for French files: *_fr.srt or *_fr_v2.srt pattern
+        filtered_files = [f for f in all_srt_files if f.name.endswith("_fr.srt") or f.name.endswith("_fr_v2.srt")]
     elif language == "es":
-        # Filter for Spanish files only: *_es.srt pattern
-        filtered_files = [f for f in all_srt_files if f.name.endswith("_es.srt")]
+        # Filter for Spanish files: *_es.srt or *_es_v2.srt pattern
+        filtered_files = [f for f in all_srt_files if f.name.endswith("_es.srt") or f.name.endswith("_es_v2.srt")]
     elif language == "nl":
-        # Filter for Dutch files only: *_nl.srt pattern
-        filtered_files = [f for f in all_srt_files if f.name.endswith("_nl.srt")]
+        # Filter for Dutch files: *_nl.srt or *_nl_v2.srt pattern
+        filtered_files = [f for f in all_srt_files if f.name.endswith("_nl.srt") or f.name.endswith("_nl_v2.srt")]
     elif language == "ar":
-        # Filter for Arabic files only: *_ar.srt pattern
-        filtered_files = [f for f in all_srt_files if f.name.endswith("_ar.srt")]
+        # Filter for Arabic files: *_ar.srt or *_ar_v2.srt pattern
+        filtered_files = [f for f in all_srt_files if f.name.endswith("_ar.srt") or f.name.endswith("_ar_v2.srt")]
     elif language == "all":
-        # Filter for all six languages
+        # Filter for all six languages (including v2 versions)
         filtered_files = [
             f for f in all_srt_files
-            if f.name.endswith(("_en.srt", "_ja.srt", "_fr.srt", "_es.srt", "_nl.srt", "_ar.srt"))
+            if f.name.endswith(("_en.srt", "_en_v2.srt", "_ja.srt", "_fr.srt", "_fr_v2.srt", 
+                               "_es.srt", "_es_v2.srt", "_nl.srt", "_nl_v2.srt", "_ar.srt", "_ar_v2.srt"))
         ]
     else:
         logger.error(f"Invalid language parameter: {language}. Must be 'en', 'ja', 'fr', 'es', 'nl', 'ar', or 'all'")
@@ -381,16 +386,16 @@ def process_all_subtitles(
     for count, filepath in enumerate(filtered_files, 1):
         film_slug = Path(filepath).stem
         
-        # Detect file language from filename
-        if filepath.name.endswith("_ja.srt"):
+        # Detect file language from filename (support both standard and v2 patterns)
+        if filepath.name.endswith("_ja.srt") or filepath.name.endswith("_ja_v2.srt"):
             file_language = "ja"
-        elif filepath.name.endswith("_fr.srt"):
+        elif filepath.name.endswith("_fr.srt") or filepath.name.endswith("_fr_v2.srt"):
             file_language = "fr"
-        elif filepath.name.endswith("_es.srt"):
+        elif filepath.name.endswith("_es.srt") or filepath.name.endswith("_es_v2.srt"):
             file_language = "es"
-        elif filepath.name.endswith("_nl.srt"):
+        elif filepath.name.endswith("_nl.srt") or filepath.name.endswith("_nl_v2.srt"):
             file_language = "nl"
-        elif filepath.name.endswith("_ar.srt"):
+        elif filepath.name.endswith("_ar.srt") or filepath.name.endswith("_ar_v2.srt"):
             file_language = "ar"
         else:
             file_language = "en"
@@ -404,8 +409,8 @@ def process_all_subtitles(
             # Extract metadata with language code
             metadata = extract_film_metadata(str(filepath), subtitles, language_code=file_language)
 
-            # Build output path: data/processed/subtitles/{film_slug}_parsed.json
-            output_path = f"data/processed/subtitles/{film_slug}_parsed.json"
+            # Build output path using custom output_dir or default
+            output_path = str(output_dir / f"{film_slug}_parsed.json")
 
             # Save parsed JSON
             save_parsed_subtitles(subtitles, metadata, output_path)
@@ -582,6 +587,12 @@ def main() -> None:
         default="en",
         help="Language to process: 'en' (English, default), 'ja' (Japanese), 'fr' (French), 'es' (Spanish), 'nl' (Dutch), 'ar' (Arabic), or 'all' (all six languages)",
     )
+    parser.add_argument(
+        "--output-dir",
+        type=str,
+        default=None,
+        help="Output directory for parsed JSON files (default: data/processed/subtitles)",
+    )
 
     args = parser.parse_args()
 
@@ -593,6 +604,7 @@ def main() -> None:
     logger.info(f"Processing language: {args.language}")
 
     subtitle_dir = Path(args.directory)
+    output_dir = Path(args.output_dir) if args.output_dir else None
 
     # Validate directory exists
     if not subtitle_dir.exists():
@@ -604,8 +616,8 @@ def main() -> None:
         sys.exit(1)
 
     try:
-        # Process all subtitle files with language parameter
-        results = process_all_subtitles(subtitle_dir, args.films, language=args.language)
+        # Process all subtitle files with language parameter and output directory
+        results = process_all_subtitles(subtitle_dir, args.films, language=args.language, output_dir=output_dir)
 
         # Print summary
         successful = [r for r in results if r["success"]]

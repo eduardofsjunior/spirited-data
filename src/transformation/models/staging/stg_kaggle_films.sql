@@ -26,7 +26,25 @@ WITH kaggle_cleaned AS (
         genre_1,
         genre_2,
         genre_3,
-        CAST(duration AS INTEGER) AS duration,
+        -- Parse duration from '1h 43m' format to integer minutes
+        -- Extract hours and minutes, convert to total minutes
+        CASE
+            WHEN duration ~ '^\d+h\s+\d+m$' THEN
+                -- Format: '1h 43m'
+                CAST(REGEXP_EXTRACT(duration, '^(\d+)h', 1) AS INTEGER) * 60 +
+                CAST(REGEXP_EXTRACT(duration, '(\d+)m$', 1) AS INTEGER)
+            WHEN duration ~ '^\d+h$' THEN
+                -- Format: '1h' (hours only)
+                CAST(REGEXP_EXTRACT(duration, '^(\d+)h', 1) AS INTEGER) * 60
+            WHEN duration ~ '^\d+m$' THEN
+                -- Format: '43m' (minutes only)
+                CAST(REGEXP_EXTRACT(duration, '^(\d+)m', 1) AS INTEGER)
+            WHEN duration ~ '^\d+$' THEN
+                -- Already an integer (minutes)
+                CAST(duration AS INTEGER)
+            ELSE
+                NULL  -- Invalid format
+        END AS duration,
         budget,
         revenue,
         loaded_at,

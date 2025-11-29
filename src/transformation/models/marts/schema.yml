@@ -142,3 +142,983 @@ models:
           
           Example: {"relationship_strength": 1.0, "created_at": "2025-01-27 10:30:00"}
 
+  - name: mart_director_emotion_profile
+    description: |
+      Director-level emotion profile aggregations for cross-director analysis.
+      Aggregates 28 GoEmotions dimensions across all films per director to enable
+      comparative analysis of director "signature" emotional styles.
+
+      Purpose: Powers Epic 5 director profile visualizations comparing emotional
+               styles between directors (e.g., Miyazaki vs Takahata).
+
+      Data Flow:
+      1. Sources per-minute emotion data from raw.film_emotions (28 GoEmotions dimensions)
+      2. Joins with stg_films to get director attribution
+      3. Aggregates emotions by director (weighted average across all film minutes)
+      4. Calculates top 3 emotions per director (excluding neutral)
+      5. Computes emotion_diversity (standard deviation across 28 dimensions)
+
+      Key Metrics:
+      - avg_emotion_*: Average scores for all 28 GoEmotions dimensions (0-1 scale)
+      - top_emotion_1/2/3: Highest ranking emotions per director
+      - emotion_diversity: Standard deviation across emotions (higher = more varied)
+      - career_span_years: Director's career length (earliest to latest film)
+
+      Expected Directors: 5+ (Miyazaki, Takahata, Goro Miyazaki, Kondo, Yonebayashi)
+      Expected film_count range: 1-11 (Miyazaki has most films)
+
+      Business Questions:
+      - What are Miyazaki's signature emotions? (Hypothesis: joy, optimism, wonder)
+      - How does Takahata differ emotionally from Miyazaki?
+      - Which directors have the most emotionally diverse filmography?
+      - Do emotion profiles correlate with critical/commercial success?
+
+      Example Query:
+      ```sql
+      SELECT
+        director,
+        film_count,
+        top_emotion_1,
+        top_emotion_2,
+        top_emotion_3,
+        emotion_diversity,
+        career_span_years
+      FROM main_marts.mart_director_emotion_profile
+      WHERE film_count >= 3  -- Directors with substantial filmography
+      ORDER BY film_count DESC;
+      ```
+
+      Source: raw.film_emotions (via stg_films)
+      Consumed by: Epic 5 Story 5.4 (Director Profiles & Cross-Film Analysis)
+
+    columns:
+      - name: director
+        description: "Director full name (e.g., 'Hayao Miyazaki', 'Isao Takahata')"
+        tests:
+          - not_null:
+              description: "Ensures director is never NULL - required for aggregation"
+          - unique:
+              description: "Ensures one row per director - prevents duplicate aggregations"
+
+      - name: film_count
+        description: "Number of films directed by this director (based on films with emotion data)"
+        tests:
+          - not_null:
+              description: "Ensures film_count is never NULL"
+
+      - name: total_minutes_analyzed
+        description: "Total minutes of emotion data analyzed across all director's films (data quality metric)"
+
+      - name: avg_emotion_admiration
+        description: "Average admiration score across all director's films (0-1 scale, GoEmotions dimension)"
+
+      - name: avg_emotion_amusement
+        description: "Average amusement score across all director's films (0-1 scale, GoEmotions dimension)"
+
+      - name: avg_emotion_joy
+        description: "Average joy score across all director's films (0-1 scale, GoEmotions dimension)"
+
+      - name: avg_emotion_love
+        description: "Average love score across all director's films (0-1 scale, GoEmotions dimension)"
+
+      - name: avg_emotion_sadness
+        description: "Average sadness score across all director's films (0-1 scale, GoEmotions dimension)"
+
+      - name: avg_emotion_fear
+        description: "Average fear score across all director's films (0-1 scale, GoEmotions dimension)"
+
+      - name: top_emotion_1
+        description: "Highest average emotion for this director (excludes neutral)"
+        tests:
+          - not_null:
+              description: "Ensures top_emotion_1 is never NULL - every director should have a top emotion"
+
+      - name: top_emotion_1_score
+        description: "Score for top_emotion_1 (0-1 scale)"
+
+      - name: top_emotion_2
+        description: "Second highest average emotion for this director (excludes neutral)"
+        tests:
+          - not_null:
+              description: "Ensures top_emotion_2 is never NULL"
+
+      - name: top_emotion_2_score
+        description: "Score for top_emotion_2 (0-1 scale)"
+
+      - name: top_emotion_3
+        description: "Third highest average emotion for this director (excludes neutral)"
+        tests:
+          - not_null:
+              description: "Ensures top_emotion_3 is never NULL"
+
+      - name: top_emotion_3_score
+        description: "Score for top_emotion_3 (0-1 scale)"
+
+      - name: emotion_diversity
+        description: |
+          Standard deviation across all 28 emotion dimensions.
+          Higher values indicate more emotionally diverse filmography.
+          Lower values indicate consistent emotional signature.
+
+          Calculation: Manual STDDEV calculation across 28 avg_emotion_* columns
+
+      - name: earliest_film_year
+        description: "Release year of director's first film (in dataset with emotion data)"
+
+      - name: latest_film_year
+        description: "Release year of director's most recent film (in dataset with emotion data)"
+
+      - name: career_span_years
+        description: "Director's career length: latest_film_year - earliest_film_year"
+
+  - name: mart_emotion_peaks_smoothed
+    description: |
+      Top 5 emotion peaks per film×language×emotion using 10-minute rolling average (narrative-level precision).
+
+      Powers Epic 5 Film Explorer smoothed emotion timeline view showing interpretable emotional arcs
+      with reduced noise from short dialogue spikes.
+
+      Methodology: Applies 10-minute rolling average (±5 minutes window) to emotion scores before
+      peak detection. This smooths out transient dialogue-level fluctuations to reveal sustained
+      narrative emotional beats.
+
+      Trade-offs: Smoothing improves interpretability but may miss short emotional spikes.
+      Use mart_emotion_peaks_raw for dialogue-level precision.
+
+      Expected row count: ~15,400 rows (22 films × 5 languages × 28 emotions × 5 peaks)
+
+      Example Query:
+      ```sql
+      SELECT emotion_type, peak_minute_offset, intensity_score, scene_description
+      FROM main_marts.mart_emotion_peaks_smoothed
+      WHERE film_title = 'Spirited Away' AND language_code = 'en'
+        AND emotion_type IN ('joy', 'fear', 'sadness')
+      ORDER BY emotion_type, peak_rank;
+      ```
+    columns:
+      - name: peak_id
+        description: "Unique identifier (film_id + language_code + emotion_type + minute_offset)"
+        tests:
+          - not_null:
+              description: "Ensures peak_id is never NULL - required for unique identification"
+          - unique:
+              description: "Ensures each peak has a unique identifier - prevents duplicates"
+
+      - name: film_id
+        description: "Foreign key to stg_films.id"
+        tests:
+          - not_null:
+              description: "Ensures film_id is never NULL - required for film reference"
+          - relationships:
+              description: "Ensures film_id references a valid film in stg_films - validates referential integrity"
+              to: ref('stg_films')
+              field: id
+
+      - name: film_title
+        description: "Denormalized film title for convenience (from stg_films.title)"
+
+      - name: language_code
+        description: "ISO 639-1 language code (en, fr, es, nl, ar)"
+        tests:
+          - not_null:
+              description: "Ensures language_code is never NULL - required for language filtering"
+          - accepted_values:
+              description: "Ensures language_code is one of the 5 supported languages"
+              values: ['en', 'fr', 'es', 'nl', 'ar']
+
+      - name: emotion_type
+        description: "GoEmotions emotion label (one of 28 emotions)"
+        tests:
+          - not_null:
+              description: "Ensures emotion_type is never NULL - required for emotion filtering"
+
+      - name: peak_minute_offset
+        description: "Center of peak in minutes from film start (from 10-min rolling average)"
+
+      - name: intensity_score
+        description: "Emotion intensity score (0-1) at peak minute (smoothed via 10-min rolling avg)"
+        tests:
+          - not_null:
+              description: "Ensures intensity_score is never NULL - required for ranking"
+
+      - name: peak_rank
+        description: "Rank within film+language+emotion (1=highest intensity)"
+        tests:
+          - not_null:
+              description: "Ensures peak_rank is never NULL - required for top-N filtering"
+          - accepted_values:
+              description: "Ensures peak_rank is between 1 and 5 (top 5 peaks only)"
+              values: [1, 2, 3, 4, 5]
+
+      - name: scene_description
+        description: "Temporal context as 'Minutes X-Y' (peak_minute ± 5 minutes)"
+
+      - name: smoothing_window_minutes
+        description: "Window size for rolling average (always 10 for transparency)"
+
+  - name: mart_emotion_peaks_raw
+    description: |
+      Top 5 emotion peaks per film×language×emotion using 1-minute buckets (dialogue-level precision, no smoothing).
+
+      Powers Epic 5 Film Explorer raw dialogue-level view and methodology transparency page showing
+      exact emotional peaks at dialogue resolution.
+
+      Methodology: Uses raw 1-minute bucketed emotion scores without any smoothing. Preserves all
+      short-term emotional fluctuations for precision analysis.
+
+      Trade-offs: Raw data may include transient noise from single dialogue lines but provides exact
+      timestamps for peak emotional moments. Use mart_emotion_peaks_smoothed for interpretable arcs.
+
+      Expected row count: ~15,400 rows (22 films × 5 languages × 28 emotions × 5 peaks)
+
+      Example Query:
+      ```sql
+      SELECT emotion_type, minute_offset, intensity_score, dialogue_count
+      FROM main_marts.mart_emotion_peaks_raw
+      WHERE film_title = 'Spirited Away' AND language_code = 'en'
+        AND emotion_type IN ('joy', 'fear', 'sadness')
+      ORDER BY emotion_type, peak_rank;
+      ```
+    columns:
+      - name: peak_id
+        description: "Unique identifier (film_id + language_code + emotion_type + minute_offset)"
+        tests:
+          - not_null:
+              description: "Ensures peak_id is never NULL - required for unique identification"
+          - unique:
+              description: "Ensures each peak has a unique identifier - prevents duplicates"
+
+      - name: film_id
+        description: "Foreign key to stg_films.id"
+        tests:
+          - not_null:
+              description: "Ensures film_id is never NULL - required for film reference"
+          - relationships:
+              description: "Ensures film_id references a valid film in stg_films - validates referential integrity"
+              to: ref('stg_films')
+              field: id
+
+      - name: film_title
+        description: "Denormalized film title for convenience (from stg_films.title)"
+
+      - name: language_code
+        description: "ISO 639-1 language code (en, fr, es, nl, ar)"
+        tests:
+          - not_null:
+              description: "Ensures language_code is never NULL - required for language filtering"
+          - accepted_values:
+              description: "Ensures language_code is one of the 5 supported languages"
+              values: ['en', 'fr', 'es', 'nl', 'ar']
+
+      - name: emotion_type
+        description: "GoEmotions emotion label (one of 28 emotions)"
+        tests:
+          - not_null:
+              description: "Ensures emotion_type is never NULL - required for emotion filtering"
+
+      - name: minute_offset
+        description: "Exact 1-minute bucket from film start (no smoothing)"
+
+      - name: intensity_score
+        description: "Emotion intensity score (0-1) raw, no smoothing"
+        tests:
+          - not_null:
+              description: "Ensures intensity_score is never NULL - required for ranking"
+
+      - name: peak_rank
+        description: "Rank within film+language+emotion (1=highest intensity)"
+        tests:
+          - not_null:
+              description: "Ensures peak_rank is never NULL - required for top-N filtering"
+          - accepted_values:
+              description: "Ensures peak_rank is between 1 and 5 (top 5 peaks only)"
+              values: [1, 2, 3, 4, 5]
+
+      - name: dialogue_count
+        description: "Number of dialogue entries in this 1-minute bucket"
+        tests:
+          - not_null:
+              description: "Ensures dialogue_count is never NULL - required for data quality checks"
+
+      - name: dialogue_excerpt
+        description: "First 200 chars from this minute (optional, may be NULL initially)"
+
+      - name: is_smoothed
+        description: "Always FALSE for raw peaks (for clarity when comparing with smoothed peaks)"
+
+  - name: mart_film_emotion_summary
+    description: |
+      Aggregated emotion vectors per film and language for similarity calculations.
+
+      Provides film-level emotion profiles by averaging minute-level emotion data from
+      raw.film_emotions across all 28 GoEmotions dimensions.
+
+      Purpose: Prerequisite table for mart_film_similarity_matrix. Creates clean emotion
+      vectors at film+language granularity for cosine similarity calculations.
+
+      Data Flow:
+      1. Sources minute-bucketed emotion data from raw.film_emotions
+      2. Aggregates using AVG() across all minutes per film+language
+      3. Joins with stg_films to get film titles
+      4. Outputs one row per film+language combination with 28 emotion scores
+
+      Expected row count: ~110 rows (22 films × 5 languages)
+
+      Example Query:
+      ```sql
+      SELECT film_title, language_code, emotion_joy, emotion_sadness
+      FROM main_marts.mart_film_emotion_summary
+      WHERE film_title = 'Spirited Away'
+      ORDER BY language_code;
+      ```
+
+      Source: raw.film_emotions (via stg_films)
+      Consumed by: mart_film_similarity_matrix
+    columns:
+      - name: film_id
+        description: "Foreign key to stg_films.id"
+        tests:
+          - not_null:
+              description: "Ensures film_id is never NULL - required for film reference"
+          - relationships:
+              description: "Ensures film_id references a valid film in stg_films"
+              to: ref('stg_films')
+              field: id
+
+      - name: film_title
+        description: "Denormalized film title from stg_films.title"
+        tests:
+          - not_null:
+              description: "Ensures film_title is never NULL"
+
+      - name: language_code
+        description: "ISO 639-1 language code (en, fr, es, nl, ar)"
+        tests:
+          - not_null:
+              description: "Ensures language_code is never NULL"
+          - accepted_values:
+              description: "Ensures language_code is one of the 5 supported languages"
+              values: ['en', 'fr', 'es', 'nl', 'ar']
+
+      - name: emotion_admiration
+        description: "Average admiration score (0-1, GoEmotions dimension)"
+
+      - name: emotion_amusement
+        description: "Average amusement score (0-1, GoEmotions dimension)"
+
+      - name: emotion_joy
+        description: "Average joy score (0-1, GoEmotions dimension)"
+
+      - name: emotion_sadness
+        description: "Average sadness score (0-1, GoEmotions dimension)"
+
+      - name: emotion_fear
+        description: "Average fear score (0-1, GoEmotions dimension)"
+
+      - name: emotion_neutral
+        description: "Average neutral score (0-1, GoEmotions dimension) - excluded from similarity calculations"
+
+  - name: mart_film_similarity_matrix
+    description: |
+      Pre-computed cosine similarity matrix for all film pairs based on 27-dimension emotion vectors.
+
+      Powers Epic 5 "Films Like This" recommendation feature with fast query performance by
+      pre-computing similarity scores between all film pairs within each language.
+
+      Methodology: Cosine Similarity Calculation
+      - Formula: cos(θ) = (A·B) / (||A|| × ||B||)
+      - Where A and B are 27-dimension emotion vectors (excluding neutral emotion)
+      - Dot product: sum(A[i] × B[i]) for i=1 to 27
+      - L2 norm: sqrt(sum(A[i]²)) for i=1 to 27
+      - Result: similarity_score between 0 and 1 (1.0 = identical profiles)
+
+      Why Exclude Neutral Emotion:
+      Neutral emotion represents absence of emotional content, not a meaningful emotional
+      characteristic. Including it would dilute similarity based on active emotions.
+      Only 27 active emotions (admiration through surprise) are used for comparison.
+
+      Design Decisions:
+      - Similarity computed per language (no cross-language comparison)
+      - Self-similarity excluded (film_id_a ≠ film_id_b)
+      - Top 10 most similar films per film+language stored
+      - Symmetric similarity (film_a→film_b ≈ film_b→film_a due to cosine formula)
+
+      Expected row count: ~1,100 rows (22 films × 5 languages × 10 similar films)
+
+      Performance: <2 seconds for full table scan, <0.1s for single-film queries
+
+      Example Queries:
+      ```sql
+      -- Find films similar to Spirited Away (English)
+      SELECT film_title_b, similarity_score, similarity_rank
+      FROM main_marts.mart_film_similarity_matrix
+      WHERE film_title_a = 'Spirited Away' AND language_code = 'en'
+      ORDER BY similarity_rank;
+
+      -- Find all films with high emotional similarity (>0.95)
+      SELECT film_title_a, film_title_b, language_code, similarity_score
+      FROM main_marts.mart_film_similarity_matrix
+      WHERE similarity_score > 0.95
+      ORDER BY similarity_score DESC;
+
+      -- Compare similarity across languages for one film
+      SELECT language_code, film_title_b, similarity_score
+      FROM main_marts.mart_film_similarity_matrix
+      WHERE film_title_a = 'Princess Mononoke' AND similarity_rank = 1
+      ORDER BY language_code;
+      ```
+
+      Source: mart_film_emotion_summary
+      Consumed by: Epic 5 Story 5.3 (Film Explorer recommendations)
+    columns:
+      - name: film_id_a
+        description: "First film identifier (the reference film)"
+        tests:
+          - not_null:
+              description: "Ensures film_id_a is never NULL - required for film reference"
+          - relationships:
+              description: "Ensures film_id_a references a valid film in stg_films"
+              to: ref('stg_films')
+              field: id
+
+      - name: film_id_b
+        description: "Second film identifier (the similar film)"
+        tests:
+          - not_null:
+              description: "Ensures film_id_b is never NULL - required for film reference"
+          - relationships:
+              description: "Ensures film_id_b references a valid film in stg_films"
+              to: ref('stg_films')
+              field: id
+
+      - name: film_title_a
+        description: "Title of the reference film (denormalized from stg_films)"
+        tests:
+          - not_null:
+              description: "Ensures film_title_a is never NULL"
+
+      - name: film_title_b
+        description: "Title of the similar film (denormalized from stg_films)"
+        tests:
+          - not_null:
+              description: "Ensures film_title_b is never NULL"
+
+      - name: language_code
+        description: "ISO 639-1 language code (similarity computed per language)"
+        tests:
+          - not_null:
+              description: "Ensures language_code is never NULL"
+          - accepted_values:
+              description: "Ensures language_code is one of the 5 supported languages"
+              values: ['en', 'fr', 'es', 'nl', 'ar']
+
+      - name: similarity_score
+        description: |
+          Cosine similarity score (0-1) where 1.0 = identical emotion profiles.
+
+          Typical ranges:
+          - 0.95-1.00: Very similar emotional profiles
+          - 0.85-0.95: Similar emotional profiles
+          - 0.70-0.85: Moderately similar
+          - <0.70: Less similar
+        tests:
+          - not_null:
+              description: "Ensures similarity_score is never NULL - required for ranking"
+
+      - name: similarity_rank
+        description: "Rank of film_b relative to film_a (1=most similar, 10=10th most similar)"
+        tests:
+          - not_null:
+              description: "Ensures similarity_rank is never NULL - required for top-N filtering"
+          - accepted_values:
+              description: "Ensures similarity_rank is between 1 and 10 (top 10 films only)"
+              values: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
+  - name: mart_cross_language_emotion_comparison
+    description: |
+      Cross-language emotion comparison matrix showing emotion differences between
+      all language pairs for each film. Enables Epic 5 Translation Insights page
+      to visualize translation biases (e.g., Arabic amusement +87% vs English).
+
+      Story 4.8 validation showed cross-language consistency is only 21.7%, revealing
+      translation patterns and cultural localization worth highlighting.
+
+      Methodology:
+      1. Unpivots 28 emotion columns from mart_film_emotion_summary into rows
+      2. Self-joins on film_id and emotion_type to create language pairs
+      3. Calculates difference_score (lang_b - lang_a) and percent_difference
+      4. Flags differences >20% as is_significant (translation bias indicators)
+
+      Language pairs are deduplicated (EN-FR exists, FR-EN does not) using
+      language_code_a < language_code_b constraint.
+
+      Expected row count: ~2,800 rows (10 films × 10 language pairs × 28 emotions)
+      Performance: <2 seconds for full table scan
+
+      Example Queries:
+      ```sql
+      -- Find Arabic vs English amusement differences
+      SELECT film_title, avg_score_lang_a, avg_score_lang_b, percent_difference
+      FROM main_marts.mart_cross_language_emotion_comparison
+      WHERE language_a = 'en' AND language_b = 'ar' AND emotion_type = 'amusement'
+      ORDER BY percent_difference DESC;
+
+      -- Find all significant translation biases for a film
+      SELECT language_a, language_b, emotion_type, percent_difference
+      FROM main_marts.mart_cross_language_emotion_comparison
+      WHERE film_title = 'Spirited Away' AND is_significant = TRUE
+      ORDER BY ABS(percent_difference) DESC;
+      ```
+
+      Source: mart_film_emotion_summary
+      Consumed by: Epic 5 Story 5.5 (Cross-Language Insights page)
+    columns:
+      - name: film_id
+        description: "Foreign key to stg_films.id"
+        tests:
+          - not_null:
+              description: "Ensures film_id is never NULL - required for film reference"
+          - relationships:
+              description: "Ensures film_id references a valid film in stg_films"
+              to: ref('stg_films')
+              field: id
+
+      - name: film_title
+        description: "Film title for readability (denormalized from mart_film_emotion_summary)"
+        tests:
+          - not_null:
+              description: "Ensures film_title is never NULL"
+
+      - name: language_a
+        description: "First language code (e.g., 'en') - alphabetically first in pair"
+        tests:
+          - not_null:
+              description: "Ensures language_a is never NULL - required for comparison"
+          - accepted_values:
+              description: "Ensures language_a is one of the 5 supported languages"
+              values: ['en', 'fr', 'es', 'nl', 'ar']
+
+      - name: language_b
+        description: "Second language code (e.g., 'ar') - alphabetically second in pair"
+        tests:
+          - not_null:
+              description: "Ensures language_b is never NULL - required for comparison"
+          - accepted_values:
+              description: "Ensures language_b is one of the 5 supported languages"
+              values: ['en', 'fr', 'es', 'nl', 'ar']
+
+      - name: emotion_type
+        description: "GoEmotions emotion label (admiration, amusement, anger, etc.)"
+        tests:
+          - not_null:
+              description: "Ensures emotion_type is never NULL - required for emotion filtering"
+
+      - name: avg_score_lang_a
+        description: "Average emotion score in language_a (0-1 scale)"
+        tests:
+          - not_null:
+              description: "Ensures avg_score_lang_a is never NULL - required for calculation"
+
+      - name: avg_score_lang_b
+        description: "Average emotion score in language_b (0-1 scale)"
+        tests:
+          - not_null:
+              description: "Ensures avg_score_lang_b is never NULL - required for calculation"
+
+      - name: difference_score
+        description: "Absolute difference (lang_b - lang_a) - positive means lang_b has higher score"
+        tests:
+          - not_null:
+              description: "Ensures difference_score is never NULL - required for comparison"
+
+      - name: percent_difference
+        description: |
+          Percentage difference ((lang_b - lang_a) / lang_a * 100).
+          Can be NULL when lang_a score = 0 (division by zero).
+          Positive values indicate lang_b has higher emotion score.
+          Negative values indicate lang_a has higher emotion score.
+
+      - name: is_significant
+        description: |
+          TRUE if |percent_difference| > 20% - indicates translation bias worth highlighting.
+          FALSE otherwise (including when percent_difference is NULL).
+        tests:
+          - not_null:
+              description: "Ensures is_significant is never NULL - required for filtering"
+
+  - name: mart_kaggle_emotion_correlation
+    description: |
+      Joins Kaggle box office/ratings data with emotion summaries for correlation analysis.
+
+      Powers Epic 5 Box Office Correlation feature enabling questions like:
+      "Do joyful films perform better at box office?"
+      "What emotions correlate with critical acclaim?"
+
+      Data Sources:
+      - stg_kaggle_films: Budget, revenue, duration from Kaggle dataset
+      - mart_film_emotion_summary: 28-dimension emotion vectors per film+language
+
+      Grain: One row per film-language pair (film_id + language_code)
+
+      Top 7 Emotions Selected for Analysis:
+      - joy: Positive sentiment, family-friendly appeal
+      - sadness: Emotional depth, critical acclaim indicator
+      - fear: Suspense, adventure elements
+      - anger: Conflict intensity
+      - love: Romance, relationship themes
+      - excitement: Action, engagement
+      - neutral: Calm, contemplative tone
+
+      Derived Metrics:
+      - top_emotion: Dominant emotion (highest average score among the 7)
+      - emotion_diversity: Standard deviation across 7 emotions (higher = more varied)
+
+      Expected row count: ~100-110 rows (22 films × 5 languages, minus films without Kaggle data)
+      Expected films with Kaggle data: ~10-12 films (subset of 22 films have box office data)
+
+      Example Queries:
+      ```sql
+      -- Correlation: Joy vs Box Office Revenue
+      SELECT
+        film_title,
+        language_code,
+        avg_emotion_joy,
+        revenue,
+        top_emotion
+      FROM main_marts.mart_kaggle_emotion_correlation
+      WHERE revenue IS NOT NULL
+      ORDER BY avg_emotion_joy DESC;
+
+      -- Which emotions correlate with top emotion dominance?
+      SELECT
+        top_emotion,
+        AVG(emotion_diversity) AS avg_diversity,
+        COUNT(*) AS film_count
+      FROM main_marts.mart_kaggle_emotion_correlation
+      GROUP BY top_emotion
+      ORDER BY film_count DESC;
+
+      -- Budget vs Emotional Diversity correlation
+      SELECT
+        film_title,
+        budget,
+        emotion_diversity,
+        top_emotion
+      FROM main_marts.mart_kaggle_emotion_correlation
+      WHERE budget IS NOT NULL AND language_code = 'en'
+      ORDER BY emotion_diversity DESC;
+      ```
+
+      Source: stg_kaggle_films, mart_film_emotion_summary
+      Consumed by: Epic 5 Box Office Correlation Analysis visualizations
+
+    # Custom test for unique combination of film_id + language_code
+    tests:
+      - unique:
+          column_name: "film_id || '_' || language_code"
+          description: "Ensures no duplicate film-language pairs - each combination should appear once"
+
+    columns:
+      - name: film_id
+        description: "Foreign key to stg_films.id (Ghibli API UUID)"
+        tests:
+          - not_null:
+              description: "Ensures film_id is never NULL - required for film reference"
+          - relationships:
+              description: "Ensures film_id references a valid film in stg_films - validates referential integrity"
+              to: ref('stg_films')
+              field: id
+
+      - name: film_title
+        description: "Film title from Kaggle dataset (denormalized for convenience)"
+        tests:
+          - not_null:
+              description: "Ensures film_title is never NULL - required for readability"
+
+      - name: release_year
+        description: "Film release year from Kaggle dataset"
+        tests:
+          - not_null:
+              description: "Ensures release_year is never NULL - required for temporal analysis"
+
+      - name: director
+        description: "Director name from Kaggle dataset"
+        tests:
+          - not_null:
+              description: "Ensures director is never NULL - required for director-level aggregations"
+
+      - name: budget
+        description: |
+          Production budget as VARCHAR (may include currency symbols like '$', '¥').
+          NULL for films without budget data. Keep as VARCHAR for Epic 5 to handle cleaning.
+
+      - name: revenue
+        description: |
+          Box office revenue as VARCHAR (may include currency symbols like '$', '¥').
+          NULL for films without revenue data. Keep as VARCHAR for Epic 5 to handle cleaning.
+
+      - name: duration
+        description: "Film duration in minutes"
+        tests:
+          - not_null:
+              description: "Ensures duration is never NULL - required for normalization calculations"
+
+      - name: language_code
+        description: "ISO 639-1 language code (en, fr, es, nl, ar) from emotion analysis"
+        tests:
+          - not_null:
+              description: "Ensures language_code is never NULL - required for language filtering"
+          - accepted_values:
+              description: "Ensures language_code is one of the 5 supported languages"
+              values: ['en', 'fr', 'es', 'nl', 'ar']
+
+      - name: avg_emotion_joy
+        description: "Average joy score across all film minutes (0-1 scale, GoEmotions dimension)"
+        tests:
+          - not_null:
+              description: "Ensures avg_emotion_joy is never NULL - required for correlation analysis"
+
+      - name: avg_emotion_sadness
+        description: "Average sadness score across all film minutes (0-1 scale, GoEmotions dimension)"
+        tests:
+          - not_null:
+              description: "Ensures avg_emotion_sadness is never NULL - required for correlation analysis"
+
+      - name: avg_emotion_fear
+        description: "Average fear score across all film minutes (0-1 scale, GoEmotions dimension)"
+        tests:
+          - not_null:
+              description: "Ensures avg_emotion_fear is never NULL - required for correlation analysis"
+
+      - name: avg_emotion_anger
+        description: "Average anger score across all film minutes (0-1 scale, GoEmotions dimension)"
+        tests:
+          - not_null:
+              description: "Ensures avg_emotion_anger is never NULL - required for correlation analysis"
+
+      - name: avg_emotion_love
+        description: "Average love score across all film minutes (0-1 scale, GoEmotions dimension)"
+        tests:
+          - not_null:
+              description: "Ensures avg_emotion_love is never NULL - required for correlation analysis"
+
+      - name: avg_emotion_excitement
+        description: "Average excitement score across all film minutes (0-1 scale, GoEmotions dimension)"
+        tests:
+          - not_null:
+              description: "Ensures avg_emotion_excitement is never NULL - required for correlation analysis"
+
+      - name: avg_emotion_neutral
+        description: "Average neutral score across all film minutes (0-1 scale, GoEmotions dimension)"
+        tests:
+          - not_null:
+              description: "Ensures avg_emotion_neutral is never NULL - required for correlation analysis"
+
+      - name: top_emotion
+        description: |
+          Dominant emotion with highest average score among the 7 selected emotions.
+          Values: 'joy', 'sadness', 'fear', 'anger', 'love', 'excitement', 'neutral'
+        tests:
+          - not_null:
+              description: "Ensures top_emotion is never NULL - every film should have a dominant emotion"
+          - accepted_values:
+              description: "Ensures top_emotion is one of the 7 selected emotions"
+              values: ['joy', 'sadness', 'fear', 'anger', 'love', 'excitement', 'neutral']
+
+      - name: emotion_diversity
+        description: |
+          Standard deviation across the 7 selected emotions.
+          Higher values (>0.05) indicate emotionally diverse films.
+          Lower values (<0.02) indicate films focused on one dominant emotion.
+          Always non-negative (>= 0).
+        tests:
+          - not_null:
+              description: "Ensures emotion_diversity is never NULL - required for diversity analysis"
+
+  - name: mart_emotion_methodology_metrics
+    description: |
+      Emotion analysis methodology metrics demonstrating signal processing trade-offs
+      across 5 rolling window sizes (3, 5, 10, 15, 20 minutes).
+
+      Powers Epic 5 Story 5.6 Methodology Transparency page showing "before/after smoothing"
+      comparisons to explain rolling window parameter selection rationale.
+
+      Purpose:
+      - Demonstrates how window size affects noise reduction vs temporal precision
+      - Provides data to justify 10-minute window selection (recommended balance)
+      - Enables visual comparison of smoothing trade-offs
+
+      Methodology:
+      1. Applies 5 different rolling average windows to raw emotion_joy data
+      2. Calculates second derivative to measure curve "jaggedness" (noise level)
+      3. Detects local maxima (peaks) to quantify emotional moments
+      4. Computes temporal precision loss (window size / film duration)
+
+      Key Insight: 10-minute window recommended as optimal balance:
+      - Reduces noise by ~60% compared to 3-minute window
+      - Maintains temporal precision within 10% for most films
+      - Preserves meaningful emotional peaks (narrative-level beats)
+
+      Expected row count: ~110 rows (22 films × 1 language × 5 window sizes)
+      Note: Currently English-only for methodology demo simplicity
+
+      Example Queries:
+      ```sql
+      -- Compare noise reduction across window sizes
+      SELECT
+        film_title,
+        window_size_minutes,
+        noise_level,
+        peak_count,
+        temporal_precision_loss_pct
+      FROM main_marts.mart_emotion_methodology_metrics
+      WHERE film_title = 'Spirited Away'
+      ORDER BY window_size_minutes;
+
+      -- Validate recommended window (10-min should have lower noise than 3-min)
+      SELECT
+        film_title,
+        MAX(CASE WHEN window_size_minutes = 3 THEN noise_level END) AS noise_3min,
+        MAX(CASE WHEN window_size_minutes = 10 THEN noise_level END) AS noise_10min,
+        MAX(CASE WHEN window_size_minutes = 20 THEN noise_level END) AS noise_20min
+      FROM main_marts.mart_emotion_methodology_metrics
+      GROUP BY film_title;
+      ```
+
+      Source: raw.film_emotions (via stg_films)
+      Consumed by: Epic 5 Story 5.6 (Methodology & Data Quality page)
+
+    columns:
+      - name: film_id
+        description: "Foreign key to stg_films.id"
+        tests:
+          - not_null:
+              description: "Ensures film_id is never NULL - required for film reference"
+          - relationships:
+              description: "Ensures film_id references a valid film in stg_films"
+              to: ref('stg_films')
+              field: id
+
+      - name: film_title
+        description: "Film title for readability (denormalized from stg_films.title)"
+        tests:
+          - not_null:
+              description: "Ensures film_title is never NULL"
+
+      - name: language_code
+        description: "ISO 639-1 language code (currently 'en' only for methodology demo)"
+        tests:
+          - not_null:
+              description: "Ensures language_code is never NULL"
+          - accepted_values:
+              description: "Ensures language_code is one of the supported languages"
+              values: ['en', 'fr', 'es', 'nl', 'ar']
+
+      - name: window_size_minutes
+        description: "Rolling window size in minutes (3, 5, 10, 15, 20) for moving average smoothing"
+        tests:
+          - not_null:
+              description: "Ensures window_size_minutes is never NULL - required for methodology comparison"
+          - accepted_values:
+              description: "Ensures window_size_minutes is one of the 5 tested window sizes"
+              values: [3, 5, 10, 15, 20]
+
+      - name: noise_level
+        description: |
+          Standard deviation of second derivative - measures curve "jaggedness".
+          Lower values indicate smoother curves (more effective noise reduction).
+          Expected pattern: noise_level decreases as window_size_minutes increases.
+        tests:
+          - not_null:
+              description: "Ensures noise_level is never NULL - required for methodology comparison"
+
+      - name: peak_count
+        description: |
+          Number of local maxima detected in smoothed emotion curve.
+          Local maxima: points where value > previous AND value > next.
+          Expected pattern: peak_count decreases as window_size_minutes increases (smoothing removes peaks).
+        tests:
+          - not_null:
+              description: "Ensures peak_count is never NULL - required for peak analysis"
+
+      - name: avg_intensity
+        description: "Mean emotion score across film after smoothing (0-1 scale) - should remain consistent across window sizes"
+        tests:
+          - not_null:
+              description: "Ensures avg_intensity is never NULL - required for intensity analysis"
+
+      - name: temporal_precision_loss_pct
+        description: |
+          Percentage of film duration consumed by window size.
+          Formula: (window_size_minutes / film_duration_minutes) * 100
+          Example: 10-min window on 124-min film = 8.06% precision loss
+          Higher percentages indicate coarser temporal resolution.
+        tests:
+          - not_null:
+              description: "Ensures temporal_precision_loss_pct is never NULL - required for trade-off analysis"
+
+      - name: is_recommended
+        description: |
+          TRUE for recommended 10-minute window (balances noise reduction and precision).
+          FALSE for all other window sizes (3, 5, 15, 20 minutes).
+          Used to highlight optimal choice in Epic 5 visualizations.
+        tests:
+          - not_null:
+              description: "Ensures is_recommended is never NULL - required for recommendation filtering"
+
+  - name: mart_film_emotion_timeseries
+    description: |
+      Complete minute-by-minute emotion timeline data for all films across all languages.
+
+      Purpose: Powers Epic 5.2 interactive emotion journey visualization showing full
+               emotional timeline curves (not just top 5 peaks like mart_emotion_peaks_smoothed).
+
+      Methodology: Applies 10-minute rolling average (±5 minutes window) to all 28
+                  emotion dimensions to smooth dialogue-level noise while preserving
+                  narrative arc. Preserves ALL minutes (no filtering to peaks).
+
+      Data Volume: ~8,944 rows (22 films × ~100 minutes/film × 5 languages)
+
+      Source: raw.film_emotions (minute-level emotion scores)
+      Consumed by: Home.py emotion journey selector, future trend analysis features
+    columns:
+      - name: film_id
+        description: "Film UUID from stg_films"
+        tests:
+          - not_null:
+              description: "Ensures film_id is never NULL"
+
+      - name: film_title
+        description: "Film title (e.g., 'Spirited Away')"
+        tests:
+          - not_null:
+              description: "Ensures film_title is never NULL"
+
+      - name: language_code
+        description: "Language code: en, fr, es, nl, ar"
+        tests:
+          - not_null:
+              description: "Ensures language_code is never NULL"
+          - accepted_values:
+              description: "Validates language_code is one of 5 supported languages"
+              arguments:
+                values: ['en', 'fr', 'es', 'nl', 'ar']
+
+      - name: minute_offset
+        description: "Minute offset from film start (0 to film runtime)"
+        tests:
+          - not_null:
+              description: "Ensures minute_offset is never NULL"
+
+      - name: dialogue_count
+        description: "Number of dialogue lines in this minute bucket"
+
+      - name: emotion_joy
+        description: "Smoothed joy emotion score (0-1 range, 10-min rolling avg)"
+
+      - name: emotion_fear
+        description: "Smoothed fear emotion score (0-1 range, 10-min rolling avg)"
+
+      - name: emotion_sadness
+        description: "Smoothed sadness emotion score (0-1 range, 10-min rolling avg)"
+

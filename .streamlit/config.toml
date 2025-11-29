@@ -1,9 +1,12 @@
+# .streamlit/config.toml
+
 [theme]
-primaryColor = "#6B9A8A"        # Ghibli green
-backgroundColor = "#F5F2E8"     # Warm beige
-secondaryBackgroundColor = "#E8DCC4"
-textColor = "#2C3E50"
-font = "sans serif"
+base = "dark"
+primaryColor = "#38BDF8"              # Spirit Blue (Glowing Cyan)
+backgroundColor = "#0F172A"           # Deep Indigo/Midnight
+secondaryBackgroundColor = "#1E293B"  # Slate (Sidebar/Cards)
+textColor = "#F1F5F9"                 # Stardust/Off-white
+font = "sans serif"                   # Fallback (Google Fonts loaded via CSS)
 
 [server]
 port = 8501

@@ -165,3 +165,37 @@ models:
       - name: created_at
         description: "Timestamp when edge was created (CURRENT_TIMESTAMP)"
 
+  - name: int_emotion_data_quality_checks
+    description: |
+      Emotion Data Quality Validation Layer - Epic 3.6 Runtime Consistency Checks.
+      Purpose: Detect emotion data extending beyond film runtime + 10-minute buffer.
+      Validation Logic: PASS (within buffer), FAIL (exceeds buffer), UNKNOWN (no runtime data).
+      Current Status: 138 PASS, 9 FAIL, 27 UNKNOWN (Story 3.6.5).
+
+    tests:
+      - assert_no_failed_validations:
+          column_name: validation_status
+
+    columns:
+      - name: film_slug
+        description: "Film identifier with language and version"
+      - name: language_code
+        description: "ISO 639-1 language code"
+      - name: max_minute_offset
+        description: "Maximum minute in emotion data"
+      - name: expected_duration_minutes
+        description: "Film runtime from Kaggle CSV"
+      - name: overrun_minutes
+        description: "Minutes beyond runtime"
+      - name: buffer_minutes
+        description: "Validation tolerance: 10 minutes"
+      - name: validation_status
+        description: "'PASS', 'FAIL', or 'UNKNOWN'"
+      - name: data_quality_score
+        description: "Quality score (0-100)"
+      - name: is_within_buffer
+        description: "Boolean: overrun ≤ 10 min"
+      - name: requires_investigation
+        description: "Early warning: overrun > 8 min"
+      - name: film_title
+        description: "Film title"
