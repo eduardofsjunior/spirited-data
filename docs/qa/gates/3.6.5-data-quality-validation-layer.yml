@@ -1,0 +1,95 @@
+schema: 1
+story: "3.6.5"
+story_title: "Add Data Quality Validation Layer"
+gate: CONCERNS
+status_reason: "Validation infrastructure successfully implemented, but 9 FAIL validations identified requiring investigation before production deployment."
+reviewer: "Quinn (Test Architect)"
+updated: "2025-11-29T21:15:00Z"
+
+waiver:
+  active: false
+
+top_issues:
+  - id: "DQ-001"
+    severity: medium
+    finding: "9 film-language combinations with FAIL status (13-139 min overruns)"
+    suggested_action: "Investigate v2 subtitle timing issues - all failures are v2 versions"
+    suggested_owner: dev
+    refs:
+      - "the_cat_returns_es_v2: 139 min overrun"
+      - "my_neighbors_the_yamadas_ar_v2: 77 min overrun"
+      - "the_wind_rises_fr_v2: 60 min overrun"
+      - "6 more films with 13-24 min overruns"
+
+  - id: "DQ-002"
+    severity: low
+    finding: "27 film-language combinations with UNKNOWN status (no runtime data)"
+    suggested_action: "Consider adding manual runtime metadata for Earwig and the Witch, The Red Turtle, etc."
+    suggested_owner: dev
+
+  - id: "AC-006"
+    severity: low
+    finding: "AC6 integration requirement not fully met - no validation comments in mart files"
+    suggested_action: "Add Epic 3.6 validation reference comments to emotion-dependent mart SQL files"
+    suggested_owner: dev
+
+quality_score: 70
+# Calculation: 100 - (10 × 3 medium/low issues) = 70
+
+evidence:
+  tests_reviewed: 1
+  risks_identified: 3
+  trace:
+    ac_covered: [1, 2, 3, 4, 5, 7, 8, 9]  # 8 of 9 ACs fully met
+    ac_gaps: [6]  # AC6 partially met (marts not updated with comments)
+
+nfr_validation:
+  security:
+    status: PASS
+    notes: "No security concerns - read-only validation layer"
+  performance:
+    status: PASS
+    notes: "Model executes in 0.08s, well under 2s requirement (AC8)"
+  reliability:
+    status: CONCERNS
+    notes: "Quality gate currently failing (9 FAIL validations) - will block pipeline"
+  maintainability:
+    status: PASS
+    notes: "Excellent SQL structure with CTEs, comprehensive documentation, debugging analysis files"
+
+recommendations:
+  immediate:
+    - action: "Investigate and fix 9 FAIL validations before enabling quality gate in CI/CD"
+      refs: ["Story 3.6.5 Dev Agent Record - Known Issues section"]
+    - action: "Add validation reference comments to emotion-dependent mart files (AC6)"
+      refs:
+        - "mart_film_emotion_summary.sql"
+        - "mart_emotion_peaks_smoothed.sql"
+        - "mart_emotion_peaks_raw.sql"
+        - "mart_film_emotion_timeseries.sql"
+        - "mart_director_emotion_profile.sql"
+        - "mart_cross_language_emotion_comparison.sql"
+        - "mart_kaggle_emotion_correlation.sql"
+        - "mart_emotion_methodology_metrics.sql"
+
+  future:
+    - action: "Consider waiving quality gate for v2 subtitle overruns as known limitation"
+      refs: ["Root cause: v2 subtitles may have different film cuts/timing"]
+    - action: "Add manual runtime metadata for UNKNOWN films (Earwig, Red Turtle, etc.)"
+      refs: ["27 film-language combinations without Kaggle runtime data"]
+    - action: "Create follow-up story for automated v2 subtitle validation refinement"
+      refs: ["Epic 3.7 or future sprint"]
+
+risk_summary:
+  totals:
+    critical: 0
+    high: 0
+    medium: 1
+    low: 2
+  highest: medium
+  recommendations:
+    must_fix:
+      - "Address 9 FAIL validations before production deployment of quality gate"
+    monitor:
+      - "Track v2 subtitle timing variations across language versions"
+      - "Monitor for new films added without Kaggle runtime data"
