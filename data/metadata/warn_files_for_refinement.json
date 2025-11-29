@@ -1,0 +1,101 @@
+{
+  "total": 16,
+  "targets": [
+    {
+      "film_slug": "castle_in_the_sky",
+      "language": "fr",
+      "current_drift": 2.4448924731182866,
+      "documented_runtime": 7440
+    },
+    {
+      "film_slug": "grave_of_the_fireflies",
+      "language": "es",
+      "current_drift": 4.497771535580534,
+      "documented_runtime": 5340
+    },
+    {
+      "film_slug": "grave_of_the_fireflies",
+      "language": "nl",
+      "current_drift": 4.48662921348315,
+      "documented_runtime": 5340
+    },
+    {
+      "film_slug": "howls_moving_castle",
+      "language": "nl",
+      "current_drift": 4.381358543417363,
+      "documented_runtime": 7140
+    },
+    {
+      "film_slug": "my_neighbor_totoro",
+      "language": "en",
+      "current_drift": 4.302325581395349,
+      "documented_runtime": 5160
+    },
+    {
+      "film_slug": "my_neighbor_totoro",
+      "language": "nl",
+      "current_drift": 3.3920542635658864,
+      "documented_runtime": 5160
+    },
+    {
+      "film_slug": "my_neighbors_the_yamadas",
+      "language": "ar",
+      "current_drift": 4.476073717948714,
+      "documented_runtime": 6240
+    },
+    {
+      "film_slug": "only_yesterday",
+      "language": "nl",
+      "current_drift": 3.586454802259891,
+      "documented_runtime": 7080
+    },
+    {
+      "film_slug": "ponyo",
+      "language": "en",
+      "current_drift": 4.812706270627057,
+      "documented_runtime": 6060
+    },
+    {
+      "film_slug": "ponyo",
+      "language": "es",
+      "current_drift": 4.932343234323426,
+      "documented_runtime": 6060
+    },
+    {
+      "film_slug": "princess_mononoke",
+      "language": "ar",
+      "current_drift": 4.702740740740735,
+      "documented_runtime": 8100
+    },
+    {
+      "film_slug": "spirited_away",
+      "language": "ar",
+      "current_drift": 3.127599999999996,
+      "documented_runtime": 7500
+    },
+    {
+      "film_slug": "spirited_away",
+      "language": "nl",
+      "current_drift": 3.301999999999995,
+      "documented_runtime": 7500
+    },
+    {
+      "film_slug": "the_red_turtle",
+      "language": "en",
+      "current_drift": 2.611812500000004,
+      "documented_runtime": 4800
+    },
+    {
+      "film_slug": "when_marnie_was_there",
+      "language": "es",
+      "current_drift": 4.432038834951451,
+      "documented_runtime": 6180
+    },
+    {
+      "film_slug": "whisper_of_the_heart",
+      "language": "fr",
+      "current_drift": 4.097687687687687,
+      "documented_runtime": 6660
+    }
+  ]
+}

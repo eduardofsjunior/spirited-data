@@ -1,0 +1,5668 @@
+{
+  "metadata": {
+    "film_name": "The Cat Returns",
+    "film_slug": "the_cat_returns_en",
+    "language_code": "en",
+    "total_subtitles": 808,
+    "total_duration": 4251.795,
+    "parse_timestamp": "2025-10-30T17:09:42.632657"
+  },
+  "subtitles": [
+    {
+      "subtitle_index": 1,
+      "start_time": 25.422,
+      "end_time": 28.619,
+      "duration": 3.196999999999999,
+      "dialogue_text": "If you're troubled by something mysterious"
+    },
+    {
+      "subtitle_index": 2,
+      "start_time": 28.725,
+      "end_time": 31.125,
+      "duration": 2.3999999999999986,
+      "dialogue_text": "or a problem that's hard to solve,"
+    },
+    {
+      "subtitle_index": 3,
+      "start_time": 31.228,
+      "end_time": 34.664,
+      "duration": 3.436,
+      "dialogue_text": "there's a place you can go where you always find help."
+    },
+    {
+      "subtitle_index": 4,
+      "start_time": 34.731,
+      "end_time": 36.79,
+      "duration": 2.0589999999999975,
+      "dialogue_text": "You just need to look for it."
+    },
+    {
+      "subtitle_index": 5,
+      "start_time": 55.679,
+      "end_time": 57.146,
+      "duration": 1.4669999999999987,
+      "dialogue_text": "Not again."
+    },
+    {
+      "subtitle_index": 6,
+      "start_time": 58.215,
+      "end_time": 60.911,
+      "duration": 2.695999999999998,
+      "dialogue_text": "- Aren't you up yet? - I'm up. I'm up."
+    },
+    {
+      "subtitle_index": 7,
+      "start_time": 70.127,
+      "end_time": 71.151,
+      "duration": 1.024000000000001,
+      "dialogue_text": "Whatever."
+    },
+    {
+      "subtitle_index": 8,
+      "start_time": 74.331,
+      "end_time": 75.389,
+      "duration": 1.0579999999999927,
+      "dialogue_text": "Hey, Mom."
+    },
+    {
+      "subtitle_index": 9,
+      "start_time": 75.465,
+      "end_time": 78.662,
+      "duration": 3.1970000000000027,
+      "dialogue_text": "Really, why do you bother setting an alarm clock?"
+    },
+    {
+      "subtitle_index": 10,
+      "start_time": 79.803,
+      "end_time": 81.134,
+      "duration": 1.331000000000003,
+      "dialogue_text": "Gotta go."
+    },
+    {
+      "subtitle_index": 11,
+      "start_time": 81.238,
+      "end_time": 83.934,
+      "duration": 2.695999999999998,
+      "dialogue_text": "Too bad you don't have time to eat."
+    },
+    {
+      "subtitle_index": 12,
+      "start_time": 84.007,
+      "end_time": 88.137,
+      "duration": 4.1299999999999955,
+      "dialogue_text": "Mmm, mmm. It's delicious."
+    },
+    {
+      "subtitle_index": 13,
+      "start_time": 89.479,
+      "end_time": 92.915,
+      "duration": 3.436000000000007,
+      "dialogue_text": "- That's just mean. - Have a nice day."
+    },
+    {
+      "subtitle_index": 14,
+      "start_time": 104.161,
+      "end_time": 105.185,
+      "duration": 1.024000000000001,
+      "dialogue_text": "Oh!"
+    },
+    {
+      "subtitle_index": 15,
+      "start_time": 115.605,
+      "end_time": 117.573,
+      "duration": 1.9679999999999893,
+      "dialogue_text": "Oh, my shoe."
+    },
+    {
+      "subtitle_index": 16,
+      "start_time": 119.643,
+      "end_time": 121.736,
+      "duration": 2.0930000000000035,
+      "dialogue_text": "Oh. Excuse me?"
+    },
+    {
+      "subtitle_index": 17,
+      "start_time": 127.751,
+      "end_time": 134.02,
+      "duration": 6.2690000000000055,
+      "dialogue_text": "The kingdom is gone, yet the mountains and rivers remain."
+    },
+    {
+      "subtitle_index": 18,
+      "start_time": 134.09,
+      "end_time": 138.288,
+      "duration": 4.1980000000000075,
+      "dialogue_text": "And the castle is draped in the vivid green of spring."
+    },
+    {
+      "subtitle_index": 19,
+      "start_time": 138.361,
+      "end_time": 142.297,
+      "duration": 3.936000000000007,
+      "dialogue_text": "Haru, we can see you sneaking in, so just get to your seat, please."
+    },
+    {
+      "subtitle_index": 20,
+      "start_time": 142.399,
+      "end_time": 144.458,
+      "duration": 2.0589999999999975,
+      "dialogue_text": "Yes, sir."
+    },
+    {
+      "subtitle_index": 21,
+      "start_time": 145.635,
+      "end_time": 147.728,
+      "duration": 2.0930000000000177,
+      "dialogue_text": "Busted."
+    },
+    {
+      "subtitle_index": 22,
+      "start_time": 173.126,
+      "end_time": 174.855,
+      "duration": 1.728999999999985,
+      "dialogue_text": "Sorry."
+    },
+    {
+      "subtitle_index": 23,
+      "start_time": 181.467,
+      "end_time": 184.231,
+      "duration": 2.7639999999999816,
+      "dialogue_text": "It's not fair. First I have a bad morning,"
+    },
+    {
+      "subtitle_index": 24,
+      "start_time": 184.303,
+      "end_time": 186.464,
+      "duration": 2.1610000000000014,
+      "dialogue_text": "then everyone laughs at me in class."
+    },
+    {
+      "subtitle_index": 25,
+      "start_time": 186.572,
+      "end_time": 190.167,
+      "duration": 3.594999999999999,
+      "dialogue_text": "- Even Machida was laughing, wasn't he? - Yeah, pretty hard."
+    },
+    {
+      "subtitle_index": 26,
+      "start_time": 190.242,
+      "end_time": 194.611,
+      "duration": 4.369,
+      "dialogue_text": "Why me? Why are all these bad things happening to me?"
+    },
+    {
+      "subtitle_index": 27,
+      "start_time": 194.68,
+      "end_time": 198.207,
+      "duration": 3.526999999999987,
+      "dialogue_text": "Hm, maybe it's some kind of weird omen, Haru."
+    },
+    {
+      "subtitle_index": 28,
+      "start_time": 198.35,
+      "end_time": 201.615,
+      "duration": 3.265000000000015,
+      "dialogue_text": "Like your life is gonna get a whole lot worse real soon."
+    },
+    {
+      "subtitle_index": 29,
+      "start_time": 201.72,
+      "end_time": 203.779,
+      "duration": 2.0589999999999975,
+      "dialogue_text": "Thanks. That helps a lot."
+    },
+    {
+      "subtitle_index": 30,
+      "start_time": 212.198,
+      "end_time": 213.961,
+      "duration": 1.7630000000000052,
+      "dialogue_text": "That's odd. Never seen him."
+    },
+    {
+      "subtitle_index": 31,
+      "start_time": 216.802,
+      "end_time": 221.034,
+      "duration": 4.231999999999999,
+      "dialogue_text": "- Why worry about what Machida thinks? - I just think he's so cool."
+    },
+    {
+      "subtitle_index": 32,
+      "start_time": 221.14,
+      "end_time": 224.007,
+      "duration": 2.8670000000000186,
+      "dialogue_text": "- Tell him. - What if he has a girlfriend?"
+    },
+    {
+      "subtitle_index": 33,
+      "start_time": 224.109,
+      "end_time": 226.737,
+      "duration": 2.627999999999986,
+      "dialogue_text": "He does. A freshman. Really cute."
+    },
+    {
+      "subtitle_index": 34,
+      "start_time": 226.879,
+      "end_time": 229.04,
+      "duration": 2.1610000000000014,
+      "dialogue_text": "Then why tell me to flirt with him?"
+    },
+    {
+      "subtitle_index": 35,
+      "start_time": 229.148,
+      "end_time": 231.912,
+      "duration": 2.76400000000001,
+      "dialogue_text": "I want a good laugh when he blows you off."
+    },
+    {
+      "subtitle_index": 36,
+      "start_time": 231.984,
+      "end_time": 234.68,
+      "duration": 2.695999999999998,
+      "dialogue_text": "- You are terrible. - Machida's not that cool."
+    },
+    {
+      "subtitle_index": 37,
+      "start_time": 234.753,
+      "end_time": 237.654,
+      "duration": 2.9010000000000105,
+      "dialogue_text": "- My Tsuge is much cooler and... - Careful."
+    },
+    {
+      "subtitle_index": 38,
+      "start_time": 245.03,
+      "end_time": 248.397,
+      "duration": 3.3669999999999902,
+      "dialogue_text": "- What was that? - Cat burglar."
+    },
+    {
+      "subtitle_index": 39,
+      "start_time": 255.508,
+      "end_time": 257.339,
+      "duration": 1.8309999999999889,
+      "dialogue_text": "Where's he going?"
+    },
+    {
+      "subtitle_index": 40,
+      "start_time": 257.409,
+      "end_time": 259.9,
+      "duration": 2.4909999999999854,
+      "dialogue_text": "Hey, dumb cat! You'll get killed!"
+    },
+    {
+      "subtitle_index": 41,
+      "start_time": 264.483,
+      "end_time": 268.442,
+      "duration": 3.959000000000003,
+      "dialogue_text": "- Oh well, it's just a cat. - This doesn't look so good."
+    },
+    {
+      "subtitle_index": 42,
+      "start_time": 275.694,
+      "end_time": 277.559,
+      "duration": 1.865000000000009,
+      "dialogue_text": "Ah! What is he doing?"
+    },
+    {
+      "subtitle_index": 43,
+      "start_time": 277.663,
+      "end_time": 279.927,
+      "duration": 2.26400000000001,
+      "dialogue_text": "Haru, don't!"
+    },
+    {
+      "subtitle_index": 44,
+      "start_time": 279.999,
+      "end_time": 281.466,
+      "duration": 1.4669999999999845,
+      "dialogue_text": "I should be there in..."
+    },
+    {
+      "subtitle_index": 45,
+      "start_time": 286.705,
+      "end_time": 288.104,
+      "duration": 1.399000000000001,
+      "dialogue_text": "No way. What a catch!"
+    },
+    {
+      "subtitle_index": 46,
+      "start_time": 295.781,
+      "end_time": 297.874,
+      "duration": 2.0930000000000177,
+      "dialogue_text": "Hey, you stupid jerk!"
+    },
+    {
+      "subtitle_index": 47,
+      "start_time": 304.323,
+      "end_time": 306.416,
+      "duration": 2.0930000000000177,
+      "dialogue_text": "Oh, cat, that was close."
+    },
+    {
+      "subtitle_index": 48,
+      "start_time": 321.106,
+      "end_time": 326.134,
+      "duration": 5.02800000000002,
+      "dialogue_text": "That was quite a brave act you performed. I am extremely grateful."
+    },
+    {
+      "subtitle_index": 49,
+      "start_time": 326.211,
+      "end_time": 328.441,
+      "duration": 2.2299999999999613,
+      "dialogue_text": "I hope you are not injured."
+    },
+    {
+      "subtitle_index": 50,
+      "start_time": 331.05,
+      "end_time": 334.577,
+      "duration": 3.526999999999987,
+      "dialogue_text": "I don't mean to be rude, but I'm in a hurry."
+    },
+    {
+      "subtitle_index": 51,
+      "start_time": 334.687,
+      "end_time": 338.748,
+      "duration": 4.060999999999979,
+      "dialogue_text": "- I'll return to thank you properly. - Uh, that's okay."
+    },
+    {
+      "subtitle_index": 52,
+      "start_time": 342.328,
+      "end_time": 344.421,
+      "duration": 2.0930000000000177,
+      "dialogue_text": "Haru!"
+    },
+    {
+      "subtitle_index": 53,
+      "start_time": 349.902,
+      "end_time": 351.961,
+      "duration": 2.059000000000026,
+      "dialogue_text": "Well, so much for your stick,"
+    },
+    {
+      "subtitle_index": 54,
+      "start_time": 352.037,
+      "end_time": 355.336,
+      "duration": 3.299000000000035,
+      "dialogue_text": "but at least you rescued that stupid cat."
+    },
+    {
+      "subtitle_index": 55,
+      "start_time": 355.474,
+      "end_time": 357.169,
+      "duration": 1.6949999999999932,
+      "dialogue_text": "- It talked. - What?"
+    },
+    {
+      "subtitle_index": 56,
+      "start_time": 357.242,
+      "end_time": 359.176,
+      "duration": 1.933999999999969,
+      "dialogue_text": "That cat spoke to me."
+    },
+    {
+      "subtitle_index": 57,
+      "start_time": 360.846,
+      "end_time": 363.508,
+      "duration": 2.6619999999999777,
+      "dialogue_text": "Hey, did you hit your head?"
+    },
+    {
+      "subtitle_index": 58,
+      "start_time": 370.789,
+      "end_time": 373.349,
+      "duration": 2.5600000000000023,
+      "dialogue_text": "Mom, I'm home."
+    },
+    {
+      "subtitle_index": 59,
+      "start_time": 374.259,
+      "end_time": 376.693,
+      "duration": 2.433999999999969,
+      "dialogue_text": "Watch it! Quilt on the floor."
+    },
+    {
+      "subtitle_index": 60,
+      "start_time": 376.762,
+      "end_time": 380.289,
+      "duration": 3.526999999999987,
+      "dialogue_text": "Oh my, this pattern's a disaster."
+    },
+    {
+      "subtitle_index": 61,
+      "start_time": 380.366,
+      "end_time": 383.46,
+      "duration": 3.093999999999994,
+      "dialogue_text": "Could you make dinner tonight?"
+    },
+    {
+      "subtitle_index": 62,
+      "start_time": 383.569,
+      "end_time": 385.23,
+      "duration": 1.6610000000000014,
+      "dialogue_text": "- Hey, Mom? - Hm-mm."
+    },
+    {
+      "subtitle_index": 63,
+      "start_time": 385.304,
+      "end_time": 387.067,
+      "duration": 1.7630000000000337,
+      "dialogue_text": "Do you think cats can talk?"
+    },
+    {
+      "subtitle_index": 64,
+      "start_time": 389.508,
+      "end_time": 391.772,
+      "duration": 2.26400000000001,
+      "dialogue_text": "Sure. Why not?"
+    },
+    {
+      "subtitle_index": 65,
+      "start_time": 395.948,
+      "end_time": 397.54,
+      "duration": 1.5920000000000414,
+      "dialogue_text": "What?"
+    },
+    {
+      "subtitle_index": 66,
+      "start_time": 397.65,
+      "end_time": 402.781,
+      "duration": 5.131000000000029,
+      "dialogue_text": "You've asked me that question before when you were a little girl."
+    },
+    {
+      "subtitle_index": 67,
+      "start_time": 402.888,
+      "end_time": 405.948,
+      "duration": 3.0600000000000023,
+      "dialogue_text": "You said, \"Mommy, did you know I can talk to cats?\""
+    },
+    {
+      "subtitle_index": 68,
+      "start_time": 406.058,
+      "end_time": 409.653,
+      "duration": 3.5950000000000273,
+      "dialogue_text": "- I said that? - Yes. You don't remember?"
+    },
+    {
+      "subtitle_index": 69,
+      "start_time": 429.348,
+      "end_time": 431.441,
+      "duration": 2.092999999999961,
+      "dialogue_text": "Hmm?"
+    },
+    {
+      "subtitle_index": 70,
+      "start_time": 432.484,
+      "end_time": 434.179,
+      "duration": 1.6949999999999932,
+      "dialogue_text": "Hey, what's wrong?"
+    },
+    {
+      "subtitle_index": 71,
+      "start_time": 436.288,
+      "end_time": 438.882,
+      "duration": 2.593999999999994,
+      "dialogue_text": "Oh, you're pretty hungry, huh?"
+    },
+    {
+      "subtitle_index": 72,
+      "start_time": 438.991,
+      "end_time": 441.391,
+      "duration": 2.400000000000034,
+      "dialogue_text": "Do you like fish?"
+    },
+    {
+      "subtitle_index": 73,
+      "start_time": 441.493,
+      "end_time": 444.553,
+      "duration": 3.0600000000000023,
+      "dialogue_text": "They're really good. Here, try some."
+    },
+    {
+      "subtitle_index": 74,
+      "start_time": 446.131,
+      "end_time": 449.328,
+      "duration": 3.1970000000000027,
+      "dialogue_text": "You're really dirty, kitty."
+    },
+    {
+      "subtitle_index": 75,
+      "start_time": 449.401,
+      "end_time": 452.461,
+      "duration": 3.0600000000000023,
+      "dialogue_text": "Do you like the fish?"
+    },
+    {
+      "subtitle_index": 76,
+      "start_time": 452.538,
+      "end_time": 454.597,
+      "duration": 2.058999999999969,
+      "dialogue_text": "See. I told you."
+    },
+    {
+      "subtitle_index": 77,
+      "start_time": 455.407,
+      "end_time": 457.568,
+      "duration": 2.1610000000000014,
+      "dialogue_text": "You want some more?"
+    },
+    {
+      "subtitle_index": 78,
+      "start_time": 457.676,
+      "end_time": 459.769,
+      "duration": 2.0930000000000177,
+      "dialogue_text": "Okay, you can have them all."
+    },
+    {
+      "subtitle_index": 79,
+      "start_time": 466.685,
+      "end_time": 469.085,
+      "duration": 2.3999999999999773,
+      "dialogue_text": "No, you don't need to do anything for me."
+    },
+    {
+      "subtitle_index": 80,
+      "start_time": 469.188,
+      "end_time": 470.985,
+      "duration": 1.7970000000000255,
+      "dialogue_text": "- Haru. - Mommy!"
+    },
+    {
+      "subtitle_index": 81,
+      "start_time": 472.424,
+      "end_time": 476.758,
+      "duration": 4.334000000000003,
+      "dialogue_text": "- What were you doing over there? - I was talking with the kitten."
+    },
+    {
+      "subtitle_index": 82,
+      "start_time": 478.263,
+      "end_time": 480.925,
+      "duration": 2.6620000000000346,
+      "dialogue_text": "So I asked you what the kitten said to you."
+    },
+    {
+      "subtitle_index": 83,
+      "start_time": 480.999,
+      "end_time": 482.796,
+      "duration": 1.7969999999999686,
+      "dialogue_text": "And do you know what you said?"
+    },
+    {
+      "subtitle_index": 84,
+      "start_time": 482.868,
+      "end_time": 486.827,
+      "duration": 3.959000000000003,
+      "dialogue_text": "You said the kitten told you that life is tough."
+    },
+    {
+      "subtitle_index": 85,
+      "start_time": 486.905,
+      "end_time": 488.998,
+      "duration": 2.0930000000000177,
+      "dialogue_text": "I thought it was so adorable."
+    },
+    {
+      "subtitle_index": 86,
+      "start_time": 496.548,
+      "end_time": 499.745,
+      "duration": 3.1970000000000027,
+      "dialogue_text": "So it looks like that actually happened."
+    },
+    {
+      "subtitle_index": 87,
+      "start_time": 499.852,
+      "end_time": 503.788,
+      "duration": 3.9360000000000355,
+      "dialogue_text": "Let's forget about it, go to sleep, and get up in time for breakfast."
+    },
+    {
+      "subtitle_index": 88,
+      "start_time": 525.41,
+      "end_time": 528.573,
+      "duration": 3.163000000000011,
+      "dialogue_text": "Huh?"
+    },
+    {
+      "subtitle_index": 89,
+      "start_time": 618.47,
+      "end_time": 619.596,
+      "duration": 1.1259999999999764,
+      "dialogue_text": "Uh..."
+    },
+    {
+      "subtitle_index": 90,
+      "start_time": 623.308,
+      "end_time": 625.333,
+      "duration": 2.0249999999999773,
+      "dialogue_text": "Uh, come over here."
+    },
+    {
+      "subtitle_index": 91,
+      "start_time": 629.047,
+      "end_time": 632.175,
+      "duration": 3.127999999999929,
+      "dialogue_text": "- Hm? - Mm-mm. A bit closer."
+    },
+    {
+      "subtitle_index": 92,
+      "start_time": 638.857,
+      "end_time": 643.794,
+      "duration": 4.937000000000012,
+      "dialogue_text": "Please allow me to present our wise and incredibly magnificent ruler,"
+    },
+    {
+      "subtitle_index": 93,
+      "start_time": 643.862,
+      "end_time": 647.298,
+      "duration": 3.4360000000000355,
+      "dialogue_text": "King of Cat Kingdom, the Cat King."
+    },
+    {
+      "subtitle_index": 94,
+      "start_time": 652.204,
+      "end_time": 654.297,
+      "duration": 2.0930000000000746,
+      "dialogue_text": "That's me, babe."
+    },
+    {
+      "subtitle_index": 95,
+      "start_time": 655.274,
+      "end_time": 658.505,
+      "duration": 3.2309999999999945,
+      "dialogue_text": "The cat whose life you saved today was none other"
+    },
+    {
+      "subtitle_index": 96,
+      "start_time": 658.577,
+      "end_time": 661.671,
+      "duration": 3.094000000000051,
+      "dialogue_text": "than the king's only son Prince Lune."
+    },
+    {
+      "subtitle_index": 97,
+      "start_time": 661.78,
+      "end_time": 663.839,
+      "duration": 2.0590000000000828,
+      "dialogue_text": "Given the magnitude of the matter,"
+    },
+    {
+      "subtitle_index": 98,
+      "start_time": 663.916,
+      "end_time": 668.353,
+      "duration": 4.436999999999898,
+      "dialogue_text": "the king would like to express his gratitude to you in his own words."
+    },
+    {
+      "subtitle_index": 99,
+      "start_time": 668.42,
+      "end_time": 670.615,
+      "duration": 2.19500000000005,
+      "dialogue_text": "Oh."
+    },
+    {
+      "subtitle_index": 100,
+      "start_time": 675.494,
+      "end_time": 677.553,
+      "duration": 2.058999999999969,
+      "dialogue_text": "Thanks a lot, babe."
+    },
+    {
+      "subtitle_index": 101,
+      "start_time": 679.665,
+      "end_time": 682.793,
+      "duration": 3.1280000000000427,
+      "dialogue_text": "A list of what you shall receive."
+    },
+    {
+      "subtitle_index": 102,
+      "start_time": 688.106,
+      "end_time": 691.473,
+      "duration": 3.366999999999962,
+      "dialogue_text": "Starting tomorrow, that marvelous array of gifts"
+    },
+    {
+      "subtitle_index": 103,
+      "start_time": 691.576,
+      "end_time": 694.067,
+      "duration": 2.4909999999999854,
+      "dialogue_text": "will be showered upon you."
+    },
+    {
+      "subtitle_index": 104,
+      "start_time": 696.815,
+      "end_time": 699.147,
+      "duration": 2.3319999999999936,
+      "dialogue_text": "- Thank you. - Mmmm."
+    },
+    {
+      "subtitle_index": 105,
+      "start_time": 700.419,
+      "end_time": 701.477,
+      "duration": 1.0579999999999927,
+      "dialogue_text": "Ciao, babe."
+    },
+    {
+      "subtitle_index": 106,
+      "start_time": 736.555,
+      "end_time": 738.455,
+      "duration": 1.900000000000091,
+      "dialogue_text": "Just a dream."
+    },
+    {
+      "subtitle_index": 107,
+      "start_time": 741.426,
+      "end_time": 745.328,
+      "duration": 3.90199999999993,
+      "dialogue_text": "No way. You don't know anything about this at all?"
+    },
+    {
+      "subtitle_index": 108,
+      "start_time": 746.865,
+      "end_time": 749.163,
+      "duration": 2.298000000000002,
+      "dialogue_text": "I have no idea. I just woke up."
+    },
+    {
+      "subtitle_index": 109,
+      "start_time": 749.267,
+      "end_time": 751.36,
+      "duration": 2.092999999999961,
+      "dialogue_text": "Then where did these come from?"
+    },
+    {
+      "subtitle_index": 110,
+      "start_time": 758.176,
+      "end_time": 760.303,
+      "duration": 2.1269999999999527,
+      "dialogue_text": "Haru, get down here!"
+    },
+    {
+      "subtitle_index": 111,
+      "start_time": 760.412,
+      "end_time": 764.007,
+      "duration": 3.5949999999999136,
+      "dialogue_text": "Look at this. What has happened to our yard?"
+    },
+    {
+      "subtitle_index": 112,
+      "start_time": 765.25,
+      "end_time": 767.377,
+      "duration": 2.1269999999999527,
+      "dialogue_text": "Those look like cat tails."
+    },
+    {
+      "subtitle_index": 113,
+      "start_time": 767.519,
+      "end_time": 771.285,
+      "duration": 3.7659999999999627,
+      "dialogue_text": "Okay. I must be working too hard. I'm going back to bed."
+    },
+    {
+      "subtitle_index": 114,
+      "start_time": 784.536,
+      "end_time": 787.232,
+      "duration": 2.6960000000000264,
+      "dialogue_text": "Leave me alone! Stupid cats!"
+    },
+    {
+      "subtitle_index": 115,
+      "start_time": 787.873,
+      "end_time": 788.931,
+      "duration": 1.0579999999999927,
+      "dialogue_text": "Huh?"
+    },
+    {
+      "subtitle_index": 116,
+      "start_time": 789.007,
+      "end_time": 791.703,
+      "duration": 2.6960000000000264,
+      "dialogue_text": "Hey, what do I do with all the lacrosse sticks?"
+    },
+    {
+      "subtitle_index": 117,
+      "start_time": 791.777,
+      "end_time": 793.87,
+      "duration": 2.092999999999961,
+      "dialogue_text": "Hi, guys. Gotta run."
+    },
+    {
+      "subtitle_index": 118,
+      "start_time": 797.582,
+      "end_time": 801.109,
+      "duration": 3.5270000000000437,
+      "dialogue_text": "- What is that about? - Does she have catnip on her?"
+    },
+    {
+      "subtitle_index": 119,
+      "start_time": 801.186,
+      "end_time": 804.019,
+      "duration": 2.83299999999997,
+      "dialogue_text": "- Catnip? What for? - Beats me."
+    },
+    {
+      "subtitle_index": 120,
+      "start_time": 805.557,
+      "end_time": 808.082,
+      "duration": 2.5249999999999773,
+      "dialogue_text": "No pets on school property, young lady."
+    },
+    {
+      "subtitle_index": 121,
+      "start_time": 808.226,
+      "end_time": 810.456,
+      "duration": 2.230000000000018,
+      "dialogue_text": "No! They're not mine!"
+    },
+    {
+      "subtitle_index": 122,
+      "start_time": 813.065,
+      "end_time": 814.93,
+      "duration": 1.8649999999998954,
+      "dialogue_text": "What's going on?"
+    },
+    {
+      "subtitle_index": 123,
+      "start_time": 817.169,
+      "end_time": 818.761,
+      "duration": 1.5919999999999845,
+      "dialogue_text": "Huh?"
+    },
+    {
+      "subtitle_index": 124,
+      "start_time": 841.393,
+      "end_time": 845.591,
+      "duration": 4.197999999999979,
+      "dialogue_text": "So it wasn't a dream. Those cats from last night must be behind this."
+    },
+    {
+      "subtitle_index": 125,
+      "start_time": 845.664,
+      "end_time": 849.259,
+      "duration": 3.5950000000000273,
+      "dialogue_text": "I'm starting to think it was a big mistake to save that cat."
+    },
+    {
+      "subtitle_index": 126,
+      "start_time": 849.367,
+      "end_time": 850.891,
+      "duration": 1.524000000000001,
+      "dialogue_text": "Huh?"
+    },
+    {
+      "subtitle_index": 127,
+      "start_time": 853.071,
+      "end_time": 856.097,
+      "duration": 3.0259999999999536,
+      "dialogue_text": "Stick, cat tails, catnip, mice..."
+    },
+    {
+      "subtitle_index": 128,
+      "start_time": 858.343,
+      "end_time": 860.777,
+      "duration": 2.4340000000000828,
+      "dialogue_text": "- Haru? - What?"
+    },
+    {
+      "subtitle_index": 129,
+      "start_time": 860.879,
+      "end_time": 863.245,
+      "duration": 2.3659999999999854,
+      "dialogue_text": "Did you get the catnip off you?"
+    },
+    {
+      "subtitle_index": 130,
+      "start_time": 863.315,
+      "end_time": 867.649,
+      "duration": 4.333999999999946,
+      "dialogue_text": "Oh, yes. Someone stuck some in my pockets but it's gone now."
+    },
+    {
+      "subtitle_index": 131,
+      "start_time": 867.719,
+      "end_time": 870.119,
+      "duration": 2.3999999999999773,
+      "dialogue_text": "Wow, that's weird."
+    },
+    {
+      "subtitle_index": 132,
+      "start_time": 871.556,
+      "end_time": 874.15,
+      "duration": 2.5939999999999372,
+      "dialogue_text": "Okay, I've got a big favor to ask you."
+    },
+    {
+      "subtitle_index": 133,
+      "start_time": 874.226,
+      "end_time": 876.319,
+      "duration": 2.092999999999961,
+      "dialogue_text": "Can you do my cleanup duty today?"
+    },
+    {
+      "subtitle_index": 134,
+      "start_time": 876.428,
+      "end_time": 880.922,
+      "duration": 4.494000000000028,
+      "dialogue_text": "Tsuge's got a big game and if I don't leave after class, I'll miss it."
+    },
+    {
+      "subtitle_index": 135,
+      "start_time": 881.032,
+      "end_time": 882.499,
+      "duration": 1.4669999999999845,
+      "dialogue_text": "Please, please, please."
+    },
+    {
+      "subtitle_index": 136,
+      "start_time": 882.567,
+      "end_time": 885.331,
+      "duration": 2.76400000000001,
+      "dialogue_text": "Oh, Tsuge."
+    },
+    {
+      "subtitle_index": 137,
+      "start_time": 885.437,
+      "end_time": 886.961,
+      "duration": 1.524000000000001,
+      "dialogue_text": "Yeah, sure, I'll do it."
+    },
+    {
+      "subtitle_index": 138,
+      "start_time": 887.038,
+      "end_time": 889.336,
+      "duration": 2.298000000000002,
+      "dialogue_text": "Thanks, Haru. You're a lifesaver."
+    },
+    {
+      "subtitle_index": 139,
+      "start_time": 899.117,
+      "end_time": 901.483,
+      "duration": 2.3659999999999854,
+      "dialogue_text": "Come on, Tsuge. Go!"
+    },
+    {
+      "subtitle_index": 140,
+      "start_time": 902.654,
+      "end_time": 904.417,
+      "duration": 1.7630000000000337,
+      "dialogue_text": "Yeah!"
+    },
+    {
+      "subtitle_index": 141,
+      "start_time": 904.523,
+      "end_time": 906.821,
+      "duration": 2.298000000000002,
+      "dialogue_text": "Yes! He's so cool!"
+    },
+    {
+      "subtitle_index": 142,
+      "start_time": 932.484,
+      "end_time": 934.418,
+      "duration": 1.933999999999969,
+      "dialogue_text": "Careful. Watch your step."
+    },
+    {
+      "subtitle_index": 143,
+      "start_time": 934.519,
+      "end_time": 935.884,
+      "duration": 1.365000000000009,
+      "dialogue_text": "Thanks."
+    },
+    {
+      "subtitle_index": 144,
+      "start_time": 936.655,
+      "end_time": 938.748,
+      "duration": 2.0930000000000746,
+      "dialogue_text": "Ah... Hurt..."
+    },
+    {
+      "subtitle_index": 145,
+      "start_time": 940.425,
+      "end_time": 942.518,
+      "duration": 2.0930000000000746,
+      "dialogue_text": "Oh, look at the mess I made."
+    },
+    {
+      "subtitle_index": 146,
+      "start_time": 944.262,
+      "end_time": 945.957,
+      "duration": 1.69500000000005,
+      "dialogue_text": "Oh, I missed."
+    },
+    {
+      "subtitle_index": 147,
+      "start_time": 958.31,
+      "end_time": 960.778,
+      "duration": 2.4680000000000746,
+      "dialogue_text": "Who do I think I'm fooling anyway?"
+    },
+    {
+      "subtitle_index": 148,
+      "start_time": 960.845,
+      "end_time": 962.938,
+      "duration": 2.092999999999961,
+      "dialogue_text": "There she is. Miss Haru! Miss Haru!"
+    },
+    {
+      "subtitle_index": 149,
+      "start_time": 972.224,
+      "end_time": 973.589,
+      "duration": 1.365000000000009,
+      "dialogue_text": "Oh..."
+    },
+    {
+      "subtitle_index": 150,
+      "start_time": 973.658,
+      "end_time": 976.525,
+      "duration": 2.866999999999962,
+      "dialogue_text": "You cats just never let up!"
+    },
+    {
+      "subtitle_index": 151,
+      "start_time": 976.595,
+      "end_time": 979.063,
+      "duration": 2.467999999999961,
+      "dialogue_text": "Well, we're so glad that you're pleased."
+    },
+    {
+      "subtitle_index": 152,
+      "start_time": 979.164,
+      "end_time": 980.29,
+      "duration": 1.1259999999999764,
+      "dialogue_text": "No, I'm not."
+    },
+    {
+      "subtitle_index": 153,
+      "start_time": 980.365,
+      "end_time": 984.358,
+      "duration": 3.992999999999938,
+      "dialogue_text": "How can that be? The whole kingdom is working to make you happy."
+    },
+    {
+      "subtitle_index": 154,
+      "start_time": 984.469,
+      "end_time": 987.404,
+      "duration": 2.9349999999999454,
+      "dialogue_text": "And we all agreed that the gifts were fabulous."
+    },
+    {
+      "subtitle_index": 155,
+      "start_time": 987.472,
+      "end_time": 990.407,
+      "duration": 2.935000000000059,
+      "dialogue_text": "Don't you cats know anything? I hate mice."
+    },
+    {
+      "subtitle_index": 156,
+      "start_time": 990.542,
+      "end_time": 994.0,
+      "duration": 3.45799999999997,
+      "dialogue_text": "I'm allergic to cat tails and catnip does nothing for me."
+    },
+    {
+      "subtitle_index": 157,
+      "start_time": 994.112,
+      "end_time": 996.478,
+      "duration": 2.3659999999999854,
+      "dialogue_text": "Oh, my my my my my."
+    },
+    {
+      "subtitle_index": 158,
+      "start_time": 996.548,
+      "end_time": 998.982,
+      "duration": 2.433999999999969,
+      "dialogue_text": "I guess we made a little mistake."
+    },
+    {
+      "subtitle_index": 159,
+      "start_time": 999.05,
+      "end_time": 1001.45,
+      "duration": 2.400000000000091,
+      "dialogue_text": "Well, this is embarrassing."
+    },
+    {
+      "subtitle_index": 160,
+      "start_time": 1001.519,
+      "end_time": 1004.647,
+      "duration": 3.1280000000000427,
+      "dialogue_text": "The king will not be happy when he hears about this."
+    },
+    {
+      "subtitle_index": 161,
+      "start_time": 1004.723,
+      "end_time": 1007.214,
+      "duration": 2.491000000000099,
+      "dialogue_text": "I'm sorry. Did I hurt your feelings?"
+    },
+    {
+      "subtitle_index": 162,
+      "start_time": 1007.325,
+      "end_time": 1009.953,
+      "duration": 2.627999999999929,
+      "dialogue_text": "I overreacted, didn't I?"
+    },
+    {
+      "subtitle_index": 163,
+      "start_time": 1010.095,
+      "end_time": 1015.328,
+      "duration": 5.232999999999947,
+      "dialogue_text": "I've just been on edge recently. Things have not been going well for me."
+    },
+    {
+      "subtitle_index": 164,
+      "start_time": 1015.4,
+      "end_time": 1019.928,
+      "duration": 4.52800000000002,
+      "dialogue_text": "- What kind of things? - I don't know. Everything, you name it."
+    },
+    {
+      "subtitle_index": 165,
+      "start_time": 1020.005,
+      "end_time": 1021.7,
+      "duration": 1.69500000000005,
+      "dialogue_text": "I'm shocked to hear this."
+    },
+    {
+      "subtitle_index": 166,
+      "start_time": 1021.806,
+      "end_time": 1026.368,
+      "duration": 4.561999999999898,
+      "dialogue_text": "But I suppose even pretty girls like you have problems like everyone else."
+    },
+    {
+      "subtitle_index": 167,
+      "start_time": 1026.478,
+      "end_time": 1031.245,
+      "duration": 4.766999999999825,
+      "dialogue_text": "- What? Stop. That's enough. - It is nowhere near enough."
+    },
+    {
+      "subtitle_index": 168,
+      "start_time": 1031.316,
+      "end_time": 1035.946,
+      "duration": 4.629999999999882,
+      "dialogue_text": "The Kingdom of Cats has vowed not to rest until you are completely satisfied."
+    },
+    {
+      "subtitle_index": 169,
+      "start_time": 1036.054,
+      "end_time": 1039.251,
+      "duration": 3.196999999999889,
+      "dialogue_text": "- There's more? - Yes."
+    },
+    {
+      "subtitle_index": 170,
+      "start_time": 1039.324,
+      "end_time": 1043.92,
+      "duration": 4.596000000000004,
+      "dialogue_text": "How would you like to have a private tour of the spectacular Kingdom of Cats?"
+    },
+    {
+      "subtitle_index": 171,
+      "start_time": 1044.029,
+      "end_time": 1045.724,
+      "duration": 1.6949999999999363,
+      "dialogue_text": "Are you serious?"
+    },
+    {
+      "subtitle_index": 172,
+      "start_time": 1045.83,
+      "end_time": 1048.958,
+      "duration": 3.1280000000001564,
+      "dialogue_text": "I'm sure you'll love it there. It's a marvelous place."
+    },
+    {
+      "subtitle_index": 173,
+      "start_time": 1049.067,
+      "end_time": 1051.058,
+      "duration": 1.9909999999999854,
+      "dialogue_text": "Great food, fabulous scenery"
+    },
+    {
+      "subtitle_index": 174,
+      "start_time": 1051.169,
+      "end_time": 1056.266,
+      "duration": 5.09699999999998,
+      "dialogue_text": "and the entire cat kingdom is ready to welcome you."
+    },
+    {
+      "subtitle_index": 175,
+      "start_time": 1056.341,
+      "end_time": 1060.243,
+      "duration": 3.9020000000000437,
+      "dialogue_text": "And that's not all. The king is so taken with you,"
+    },
+    {
+      "subtitle_index": 176,
+      "start_time": 1060.312,
+      "end_time": 1064.078,
+      "duration": 3.7660000000000764,
+      "dialogue_text": "he has awarded you the most valuable gift in the cat kingdom."
+    },
+    {
+      "subtitle_index": 177,
+      "start_time": 1064.182,
+      "end_time": 1068.278,
+      "duration": 4.096000000000004,
+      "dialogue_text": "You will become his daughter-in-law and marry Prince Lune."
+    },
+    {
+      "subtitle_index": 178,
+      "start_time": 1068.386,
+      "end_time": 1070.149,
+      "duration": 1.76299999999992,
+      "dialogue_text": "Huh?"
+    },
+    {
+      "subtitle_index": 179,
+      "start_time": 1070.255,
+      "end_time": 1073.122,
+      "duration": 2.866999999999962,
+      "dialogue_text": "Don't think about trying to pull that one on me."
+    },
+    {
+      "subtitle_index": 180,
+      "start_time": 1073.224,
+      "end_time": 1075.658,
+      "duration": 2.433999999999969,
+      "dialogue_text": "There is no way I can marry a cat."
+    },
+    {
+      "subtitle_index": 181,
+      "start_time": 1075.76,
+      "end_time": 1078.991,
+      "duration": 3.2309999999999945,
+      "dialogue_text": "The royal family thinks you're good enough"
+    },
+    {
+      "subtitle_index": 182,
+      "start_time": 1079.097,
+      "end_time": 1081.861,
+      "duration": 2.7640000000001237,
+      "dialogue_text": "and the prince is so cool."
+    },
+    {
+      "subtitle_index": 183,
+      "start_time": 1082.701,
+      "end_time": 1085.226,
+      "duration": 2.525000000000091,
+      "dialogue_text": "- He's cool? - Hm-mm."
+    },
+    {
+      "subtitle_index": 184,
+      "start_time": 1094.913,
+      "end_time": 1095.937,
+      "duration": 1.0239999999998872,
+      "dialogue_text": "Hmm..."
+    },
+    {
+      "subtitle_index": 185,
+      "start_time": 1096.014,
+      "end_time": 1100.178,
+      "duration": 4.164000000000215,
+      "dialogue_text": "Who knows? Maybe I'd fit in better with a bunch of cats."
+    },
+    {
+      "subtitle_index": 186,
+      "start_time": 1101.252,
+      "end_time": 1103.743,
+      "duration": 2.4909999999999854,
+      "dialogue_text": "You get to lie around all day, don't you?"
+    },
+    {
+      "subtitle_index": 187,
+      "start_time": 1103.855,
+      "end_time": 1108.053,
+      "duration": 4.198000000000093,
+      "dialogue_text": "- But of course. - Eat all the food you want,"
+    },
+    {
+      "subtitle_index": 188,
+      "start_time": 1108.126,
+      "end_time": 1112.654,
+      "duration": 4.52800000000002,
+      "dialogue_text": "take naps in the sun, forget about all your problems."
+    },
+    {
+      "subtitle_index": 189,
+      "start_time": 1112.731,
+      "end_time": 1116.792,
+      "duration": 4.060999999999922,
+      "dialogue_text": "But me getting married to a cat prince, that's just ridiculous."
+    },
+    {
+      "subtitle_index": 190,
+      "start_time": 1116.901,
+      "end_time": 1118.835,
+      "duration": 1.933999999999969,
+      "dialogue_text": "Right, cat?"
+    },
+    {
+      "subtitle_index": 191,
+      "start_time": 1118.937,
+      "end_time": 1121.667,
+      "duration": 2.730000000000018,
+      "dialogue_text": "Fantastic. We'll collect you tonight, then."
+    },
+    {
+      "subtitle_index": 192,
+      "start_time": 1122.941,
+      "end_time": 1125.466,
+      "duration": 2.5249999999998636,
+      "dialogue_text": "No, I didn't agree to that. Hey, wait!"
+    },
+    {
+      "subtitle_index": 193,
+      "start_time": 1127.746,
+      "end_time": 1129.839,
+      "duration": 2.092999999999847,
+      "dialogue_text": "Ow!"
+    },
+    {
+      "subtitle_index": 194,
+      "start_time": 1129.948,
+      "end_time": 1132.007,
+      "duration": 2.058999999999969,
+      "dialogue_text": "Oh, I hurt."
+    },
+    {
+      "subtitle_index": 195,
+      "start_time": 1132.684,
+      "end_time": 1134.777,
+      "duration": 2.0930000000000746,
+      "dialogue_text": "Okay, think, Haru."
+    },
+    {
+      "subtitle_index": 196,
+      "start_time": 1135.387,
+      "end_time": 1137.48,
+      "duration": 2.0930000000000746,
+      "dialogue_text": "You gotta do something about this."
+    },
+    {
+      "subtitle_index": 197,
+      "start_time": 1137.722,
+      "end_time": 1140.555,
+      "duration": 2.8330000000000837,
+      "dialogue_text": "What can I do? Those cats are relentless."
+    },
+    {
+      "subtitle_index": 198,
+      "start_time": 1140.625,
+      "end_time": 1144.618,
+      "duration": 3.992999999999938,
+      "dialogue_text": "They'll find a way to kidnap me and I'll have to marry a cat."
+    },
+    {
+      "subtitle_index": 199,
+      "start_time": 1144.696,
+      "end_time": 1147.563,
+      "duration": 2.867000000000189,
+      "dialogue_text": "I now pronounce you cat and wife."
+    },
+    {
+      "subtitle_index": 200,
+      "start_time": 1147.699,
+      "end_time": 1149.758,
+      "duration": 2.058999999999969,
+      "dialogue_text": "You may kiss the bride."
+    },
+    {
+      "subtitle_index": 201,
+      "start_time": 1150.435,
+      "end_time": 1152.494,
+      "duration": 2.058999999999969,
+      "dialogue_text": "No, no, I don't want to marry a cat!"
+    },
+    {
+      "subtitle_index": 202,
+      "start_time": 1155.306,
+      "end_time": 1157.365,
+      "duration": 2.058999999999969,
+      "dialogue_text": "Haru. Haru."
+    },
+    {
+      "subtitle_index": 203,
+      "start_time": 1158.81,
+      "end_time": 1160.209,
+      "duration": 1.3990000000001146,
+      "dialogue_text": "What was that?"
+    },
+    {
+      "subtitle_index": 204,
+      "start_time": 1160.311,
+      "end_time": 1163.974,
+      "duration": 3.663000000000011,
+      "dialogue_text": "Haru, go to the Cat Bureau. Find the Cat Bureau."
+    },
+    {
+      "subtitle_index": 205,
+      "start_time": 1165.65,
+      "end_time": 1170.11,
+      "duration": 4.459999999999809,
+      "dialogue_text": "Hey, come on. Who's there? Who's messing with me now?"
+    },
+    {
+      "subtitle_index": 206,
+      "start_time": 1170.188,
+      "end_time": 1174.249,
+      "duration": 4.060999999999922,
+      "dialogue_text": "They will help you there. Look for a large, white cat at the crossroads."
+    },
+    {
+      "subtitle_index": 207,
+      "start_time": 1174.626,
+      "end_time": 1177.322,
+      "duration": 2.6959999999999127,
+      "dialogue_text": "He will show you the way."
+    },
+    {
+      "subtitle_index": 208,
+      "start_time": 1177.395,
+      "end_time": 1179.488,
+      "duration": 2.0930000000000746,
+      "dialogue_text": "A cat at a crossroad?"
+    },
+    {
+      "subtitle_index": 209,
+      "start_time": 1179.597,
+      "end_time": 1183.192,
+      "duration": 3.5950000000000273,
+      "dialogue_text": "Find the white cat and go to the Cat Bureau, Haru."
+    },
+    {
+      "subtitle_index": 210,
+      "start_time": 1183.334,
+      "end_time": 1185.427,
+      "duration": 2.092999999999847,
+      "dialogue_text": "You'll need their help."
+    },
+    {
+      "subtitle_index": 211,
+      "start_time": 1202.053,
+      "end_time": 1204.021,
+      "duration": 1.9679999999998472,
+      "dialogue_text": "Find the Cat Bureau."
+    },
+    {
+      "subtitle_index": 212,
+      "start_time": 1206.191,
+      "end_time": 1208.056,
+      "duration": 1.865000000000009,
+      "dialogue_text": "Never heard of a Cat Bureau."
+    },
+    {
+      "subtitle_index": 213,
+      "start_time": 1209.727,
+      "end_time": 1212.195,
+      "duration": 2.467999999999847,
+      "dialogue_text": "Look for a large, white cat..."
+    },
+    {
+      "subtitle_index": 214,
+      "start_time": 1213.665,
+      "end_time": 1218.261,
+      "duration": 4.596000000000004,
+      "dialogue_text": "At least it was a pleasant voice. Maybe the white cat will be nice, too."
+    },
+    {
+      "subtitle_index": 215,
+      "start_time": 1219.471,
+      "end_time": 1223.737,
+      "duration": 4.266000000000076,
+      "dialogue_text": "That was one long, weird day. I definitely need a break."
+    },
+    {
+      "subtitle_index": 216,
+      "start_time": 1226.845,
+      "end_time": 1228.904,
+      "duration": 2.058999999999969,
+      "dialogue_text": "What in the heck was that?"
+    },
+    {
+      "subtitle_index": 217,
+      "start_time": 1230.248,
+      "end_time": 1234.184,
+      "duration": 3.935999999999922,
+      "dialogue_text": "Hey, you big fatso. You cats keep freaking me out."
+    },
+    {
+      "subtitle_index": 218,
+      "start_time": 1234.886,
+      "end_time": 1237.684,
+      "duration": 2.798000000000002,
+      "dialogue_text": "Are you the big, white cat? Are you?"
+    },
+    {
+      "subtitle_index": 219,
+      "start_time": 1239.057,
+      "end_time": 1242.584,
+      "duration": 3.5270000000000437,
+      "dialogue_text": "Listen, cat. I need to know where the Cat Bureau is."
+    },
+    {
+      "subtitle_index": 220,
+      "start_time": 1245.663,
+      "end_time": 1247.597,
+      "duration": 1.933999999999969,
+      "dialogue_text": "A voice told me to ask you."
+    },
+    {
+      "subtitle_index": 221,
+      "start_time": 1253.304,
+      "end_time": 1257.331,
+      "duration": 4.026999999999816,
+      "dialogue_text": "Must have the wrong person. I mean cat. I have the wrong cat."
+    },
+    {
+      "subtitle_index": 222,
+      "start_time": 1257.442,
+      "end_time": 1259.342,
+      "duration": 1.900000000000091,
+      "dialogue_text": "Sorry I sat on you."
+    },
+    {
+      "subtitle_index": 223,
+      "start_time": 1261.012,
+      "end_time": 1263.606,
+      "duration": 2.594000000000051,
+      "dialogue_text": "- Wait. I'll show you. - It's him!"
+    },
+    {
+      "subtitle_index": 224,
+      "start_time": 1266.284,
+      "end_time": 1268.411,
+      "duration": 2.1269999999999527,
+      "dialogue_text": "Wait a minute. Slow down."
+    },
+    {
+      "subtitle_index": 225,
+      "start_time": 1292.51,
+      "end_time": 1295.035,
+      "duration": 2.525000000000091,
+      "dialogue_text": "Isn't there an easier way?"
+    },
+    {
+      "subtitle_index": 226,
+      "start_time": 1296.548,
+      "end_time": 1298.675,
+      "duration": 2.1269999999999527,
+      "dialogue_text": "Hey. Hey, come on."
+    },
+    {
+      "subtitle_index": 227,
+      "start_time": 1298.783,
+      "end_time": 1301.718,
+      "duration": 2.935000000000173,
+      "dialogue_text": "Guess I shouldn't have called him Fatso."
+    },
+    {
+      "subtitle_index": 228,
+      "start_time": 1352.17,
+      "end_time": 1354.229,
+      "duration": 2.058999999999969,
+      "dialogue_text": "Huh?"
+    },
+    {
+      "subtitle_index": 229,
+      "start_time": 1366.618,
+      "end_time": 1368.711,
+      "duration": 2.0930000000000746,
+      "dialogue_text": "Oh..."
+    },
+    {
+      "subtitle_index": 230,
+      "start_time": 1383.434,
+      "end_time": 1385.527,
+      "duration": 2.0930000000000746,
+      "dialogue_text": "Wow, this is one weird place."
+    },
+    {
+      "subtitle_index": 231,
+      "start_time": 1411.329,
+      "end_time": 1413.524,
+      "duration": 2.1949999999999363,
+      "dialogue_text": "Excuse me, where's the Cat Bureau?"
+    },
+    {
+      "subtitle_index": 232,
+      "start_time": 1416.934,
+      "end_time": 1420.267,
+      "duration": 3.3330000000000837,
+      "dialogue_text": "Hello? I need some help right now."
+    },
+    {
+      "subtitle_index": 233,
+      "start_time": 1420.338,
+      "end_time": 1423.273,
+      "duration": 2.9349999999999454,
+      "dialogue_text": "I'm gonna get dragged off to the cat kingdom."
+    },
+    {
+      "subtitle_index": 234,
+      "start_time": 1439.157,
+      "end_time": 1441.387,
+      "duration": 2.230000000000018,
+      "dialogue_text": "Could this be it?"
+    },
+    {
+      "subtitle_index": 235,
+      "start_time": 1461.412,
+      "end_time": 1463.505,
+      "duration": 2.0930000000000746,
+      "dialogue_text": "Enough, Baron. Turn it off."
+    },
+    {
+      "subtitle_index": 236,
+      "start_time": 1463.648,
+      "end_time": 1466.64,
+      "duration": 2.992000000000189,
+      "dialogue_text": "No one's impressed with your cheesy light show, okay?"
+    },
+    {
+      "subtitle_index": 237,
+      "start_time": 1492.276,
+      "end_time": 1494.744,
+      "duration": 2.467999999999847,
+      "dialogue_text": "Good evening. Welcome to the Bureau"
+    },
+    {
+      "subtitle_index": 238,
+      "start_time": 1498.149,
+      "end_time": 1500.242,
+      "duration": 2.0930000000000746,
+      "dialogue_text": "Wow, you're cool."
+    },
+    {
+      "subtitle_index": 239,
+      "start_time": 1500.318,
+      "end_time": 1504.448,
+      "duration": 4.130000000000109,
+      "dialogue_text": "Thank you. You're now in a world quite different from your own."
+    },
+    {
+      "subtitle_index": 240,
+      "start_time": 1504.555,
+      "end_time": 1506.75,
+      "duration": 2.1949999999999363,
+      "dialogue_text": "This is a refuge for creations."
+    },
+    {
+      "subtitle_index": 241,
+      "start_time": 1506.824,
+      "end_time": 1510.453,
+      "duration": 3.6289999999999054,
+      "dialogue_text": "Whenever someone creates something with all of their heart,"
+    },
+    {
+      "subtitle_index": 242,
+      "start_time": 1510.528,
+      "end_time": 1513.395,
+      "duration": 2.866999999999962,
+      "dialogue_text": "then that creation is given a soul."
+    },
+    {
+      "subtitle_index": 243,
+      "start_time": 1513.464,
+      "end_time": 1515.898,
+      "duration": 2.433999999999969,
+      "dialogue_text": "Like me and Toto there."
+    },
+    {
+      "subtitle_index": 244,
+      "start_time": 1527.712,
+      "end_time": 1528.94,
+      "duration": 1.2280000000000655,
+      "dialogue_text": "That's... That's..."
+    },
+    {
+      "subtitle_index": 245,
+      "start_time": 1529.013,
+      "end_time": 1532.107,
+      "duration": 3.094000000000051,
+      "dialogue_text": "That is Toto. A stone statue with a soul."
+    },
+    {
+      "subtitle_index": 246,
+      "start_time": 1532.183,
+      "end_time": 1535.482,
+      "duration": 3.298999999999978,
+      "dialogue_text": "I see you have a visitor today, Baron. How unusual."
+    },
+    {
+      "subtitle_index": 247,
+      "start_time": 1535.553,
+      "end_time": 1538.249,
+      "duration": 2.6959999999999127,
+      "dialogue_text": "Indeed. She's quite a fetching one, too."
+    },
+    {
+      "subtitle_index": 248,
+      "start_time": 1538.356,
+      "end_time": 1540.722,
+      "duration": 2.3659999999999854,
+      "dialogue_text": "Did he say Baron?"
+    },
+    {
+      "subtitle_index": 249,
+      "start_time": 1540.792,
+      "end_time": 1543.26,
+      "duration": 2.4680000000000746,
+      "dialogue_text": "I am Baron Humbert von Gikkingen."
+    },
+    {
+      "subtitle_index": 250,
+      "start_time": 1543.394,
+      "end_time": 1546.363,
+      "duration": 2.969000000000051,
+      "dialogue_text": "The artisan who created me gave me that title."
+    },
+    {
+      "subtitle_index": 251,
+      "start_time": 1546.43,
+      "end_time": 1548.364,
+      "duration": 1.933999999999969,
+      "dialogue_text": "I'll just call you Baron."
+    },
+    {
+      "subtitle_index": 252,
+      "start_time": 1548.466,
+      "end_time": 1553.904,
+      "duration": 5.438000000000102,
+      "dialogue_text": "So, you say you're having trouble with those cats from the cat kingdom."
+    },
+    {
+      "subtitle_index": 253,
+      "start_time": 1554.005,
+      "end_time": 1557.839,
+      "duration": 3.8339999999998327,
+      "dialogue_text": "Yes. Yesterday I saved their prince from getting hit by a truck,"
+    },
+    {
+      "subtitle_index": 254,
+      "start_time": 1557.909,
+      "end_time": 1560.707,
+      "duration": 2.798000000000002,
+      "dialogue_text": "and now they won't stop trying to repay me."
+    },
+    {
+      "subtitle_index": 255,
+      "start_time": 1560.812,
+      "end_time": 1562.541,
+      "duration": 1.7290000000000418,
+      "dialogue_text": "- I see. - Huh!"
+    },
+    {
+      "subtitle_index": 256,
+      "start_time": 1562.613,
+      "end_time": 1566.913,
+      "duration": 4.2999999999999545,
+      "dialogue_text": "Serves you right. Thought you'd help the poor kitty, did you?"
+    },
+    {
+      "subtitle_index": 257,
+      "start_time": 1569.22,
+      "end_time": 1572.018,
+      "duration": 2.798000000000002,
+      "dialogue_text": "You should've minded your own business."
+    },
+    {
+      "subtitle_index": 258,
+      "start_time": 1572.123,
+      "end_time": 1574.25,
+      "duration": 2.1269999999999527,
+      "dialogue_text": "Muta, what's your problem?"
+    },
+    {
+      "subtitle_index": 259,
+      "start_time": 1574.358,
+      "end_time": 1578.089,
+      "duration": 3.7309999999999945,
+      "dialogue_text": "This girl saved one of your own kind. You should be grateful."
+    },
+    {
+      "subtitle_index": 260,
+      "start_time": 1578.196,
+      "end_time": 1581.393,
+      "duration": 3.1970000000001164,
+      "dialogue_text": "Now she's in trouble for it, isn't she?"
+    },
+    {
+      "subtitle_index": 261,
+      "start_time": 1581.465,
+      "end_time": 1584.593,
+      "duration": 3.1280000000001564,
+      "dialogue_text": "So she was stupid, that's all I'm saying."
+    },
+    {
+      "subtitle_index": 262,
+      "start_time": 1586.103,
+      "end_time": 1588.094,
+      "duration": 1.9909999999999854,
+      "dialogue_text": "Where did you find her, Muta?"
+    },
+    {
+      "subtitle_index": 263,
+      "start_time": 1588.206,
+      "end_time": 1591.869,
+      "duration": 3.663000000000011,
+      "dialogue_text": "At the crossroads. She knew about the Cat Bureau."
+    },
+    {
+      "subtitle_index": 264,
+      "start_time": 1591.943,
+      "end_time": 1593.604,
+      "duration": 1.6610000000000582,
+      "dialogue_text": "Hmm."
+    },
+    {
+      "subtitle_index": 265,
+      "start_time": 1593.711,
+      "end_time": 1598.239,
+      "duration": 4.52800000000002,
+      "dialogue_text": "A voice told me about it. I don't know whose voice it was, though."
+    },
+    {
+      "subtitle_index": 266,
+      "start_time": 1598.349,
+      "end_time": 1600.374,
+      "duration": 2.025000000000091,
+      "dialogue_text": "- A voice? - You're hearing voices?"
+    },
+    {
+      "subtitle_index": 267,
+      "start_time": 1600.484,
+      "end_time": 1603.647,
+      "duration": 3.163000000000011,
+      "dialogue_text": "Check into a loony bin. Don't bother us with..."
+    },
+    {
+      "subtitle_index": 268,
+      "start_time": 1604.522,
+      "end_time": 1607.889,
+      "duration": 3.366999999999962,
+      "dialogue_text": "- Knock it off! - You knock it off. Quit being so catty."
+    },
+    {
+      "subtitle_index": 269,
+      "start_time": 1607.992,
+      "end_time": 1609.516,
+      "duration": 1.5240000000001146,
+      "dialogue_text": "Don't try that again."
+    },
+    {
+      "subtitle_index": 270,
+      "start_time": 1609.594,
+      "end_time": 1613.121,
+      "duration": 3.5270000000000437,
+      "dialogue_text": "You guys, I'll just leave. I don't want to cause any trouble."
+    },
+    {
+      "subtitle_index": 271,
+      "start_time": 1613.231,
+      "end_time": 1615.062,
+      "duration": 1.8309999999999036,
+      "dialogue_text": "I didn't get your name."
+    },
+    {
+      "subtitle_index": 272,
+      "start_time": 1615.166,
+      "end_time": 1617.794,
+      "duration": 2.6280000000001564,
+      "dialogue_text": "Haru. It's Haru."
+    },
+    {
+      "subtitle_index": 273,
+      "start_time": 1617.902,
+      "end_time": 1620.496,
+      "duration": 2.594000000000051,
+      "dialogue_text": "Well, Miss Haru, please step into the Bureau."
+    },
+    {
+      "subtitle_index": 274,
+      "start_time": 1622.139,
+      "end_time": 1625.267,
+      "duration": 3.1280000000001564,
+      "dialogue_text": "- Come along. Don't worry about them. - Chicken wings!"
+    },
+    {
+      "subtitle_index": 275,
+      "start_time": 1625.343,
+      "end_time": 1628.801,
+      "duration": 3.4579999999998563,
+      "dialogue_text": "Can't you tell the difference between chickens and crows?"
+    },
+    {
+      "subtitle_index": 276,
+      "start_time": 1628.913,
+      "end_time": 1633.68,
+      "duration": 4.767000000000053,
+      "dialogue_text": "- Yes, I'm not the birdbrain here. - I don't look like a giant marshmallow."
+    },
+    {
+      "subtitle_index": 277,
+      "start_time": 1633.818,
+      "end_time": 1637.254,
+      "duration": 3.435999999999922,
+      "dialogue_text": "- At least I don't have a bird brain. - You already said that."
+    },
+    {
+      "subtitle_index": 278,
+      "start_time": 1637.355,
+      "end_time": 1642.452,
+      "duration": 5.09699999999998,
+      "dialogue_text": "- Go fry yourself, you big chicken. - You already called me a chicken!"
+    },
+    {
+      "subtitle_index": 279,
+      "start_time": 1646.497,
+      "end_time": 1648.59,
+      "duration": 2.092999999999847,
+      "dialogue_text": "This looks close."
+    },
+    {
+      "subtitle_index": 280,
+      "start_time": 1650.101,
+      "end_time": 1653.366,
+      "duration": 3.2649999999998727,
+      "dialogue_text": "Wow, this place is beautiful."
+    },
+    {
+      "subtitle_index": 281,
+      "start_time": 1653.437,
+      "end_time": 1656.565,
+      "duration": 3.1280000000001564,
+      "dialogue_text": "- Make yourself at home. - Thanks."
+    },
+    {
+      "subtitle_index": 282,
+      "start_time": 1658.175,
+      "end_time": 1660.143,
+      "duration": 1.9680000000000746,
+      "dialogue_text": "Milk with your tea, or lemon?"
+    },
+    {
+      "subtitle_index": 283,
+      "start_time": 1660.244,
+      "end_time": 1662.337,
+      "duration": 2.0930000000000746,
+      "dialogue_text": "- Milk, please. - Good choice."
+    },
+    {
+      "subtitle_index": 284,
+      "start_time": 1670.454,
+      "end_time": 1673.15,
+      "duration": 2.69600000000014,
+      "dialogue_text": "You have great taste, Baron."
+    },
+    {
+      "subtitle_index": 285,
+      "start_time": 1673.257,
+      "end_time": 1675.487,
+      "duration": 2.230000000000018,
+      "dialogue_text": "- Here you are. - Thank you."
+    },
+    {
+      "subtitle_index": 286,
+      "start_time": 1678.696,
+      "end_time": 1680.027,
+      "duration": 1.331000000000131,
+      "dialogue_text": "How cute."
+    },
+    {
+      "subtitle_index": 287,
+      "start_time": 1680.097,
+      "end_time": 1682.895,
+      "duration": 2.798000000000002,
+      "dialogue_text": "That's my own personal blend of tea."
+    },
+    {
+      "subtitle_index": 288,
+      "start_time": 1682.967,
+      "end_time": 1687.233,
+      "duration": 4.265999999999849,
+      "dialogue_text": "It's a little different each time, so I can't guarantee the taste."
+    },
+    {
+      "subtitle_index": 289,
+      "start_time": 1688.773,
+      "end_time": 1691.207,
+      "duration": 2.4340000000001965,
+      "dialogue_text": "Wow, that's the best tea I've ever tasted."
+    },
+    {
+      "subtitle_index": 290,
+      "start_time": 1691.309,
+      "end_time": 1692.833,
+      "duration": 1.5240000000001146,
+      "dialogue_text": "Then you're lucky."
+    },
+    {
+      "subtitle_index": 291,
+      "start_time": 1692.944,
+      "end_time": 1696.141,
+      "duration": 3.1970000000001164,
+      "dialogue_text": "Just tastes like boiled grass to me."
+    },
+    {
+      "subtitle_index": 292,
+      "start_time": 1697.615,
+      "end_time": 1700.311,
+      "duration": 2.6959999999999127,
+      "dialogue_text": "Tea is too refined for your crude taste buds."
+    },
+    {
+      "subtitle_index": 293,
+      "start_time": 1700.384,
+      "end_time": 1702.284,
+      "duration": 1.900000000000091,
+      "dialogue_text": "At least I don't eat worms."
+    },
+    {
+      "subtitle_index": 294,
+      "start_time": 1702.353,
+      "end_time": 1708.019,
+      "duration": 5.66599999999994,
+      "dialogue_text": "Muta, have a seat and tell us what you know about the Kingdom of Cats."
+    },
+    {
+      "subtitle_index": 295,
+      "start_time": 1708.125,
+      "end_time": 1710.184,
+      "duration": 2.058999999999969,
+      "dialogue_text": "It's a dangerous place."
+    },
+    {
+      "subtitle_index": 296,
+      "start_time": 1710.294,
+      "end_time": 1713.786,
+      "duration": 3.491999999999962,
+      "dialogue_text": "You shouldn't go there if you don't believe in yourself."
+    },
+    {
+      "subtitle_index": 297,
+      "start_time": 1713.864,
+      "end_time": 1715.297,
+      "duration": 1.4329999999999927,
+      "dialogue_text": "Good point."
+    },
+    {
+      "subtitle_index": 298,
+      "start_time": 1715.366,
+      "end_time": 1717.63,
+      "duration": 2.2640000000001237,
+      "dialogue_text": "They said not only will they kidnap me,"
+    },
+    {
+      "subtitle_index": 299,
+      "start_time": 1717.735,
+      "end_time": 1721.296,
+      "duration": 3.561000000000149,
+      "dialogue_text": "they're going to force me to marry Prince Lune."
+    },
+    {
+      "subtitle_index": 300,
+      "start_time": 1721.372,
+      "end_time": 1723.704,
+      "duration": 2.33199999999988,
+      "dialogue_text": "So, do it. You'll be set for life."
+    },
+    {
+      "subtitle_index": 301,
+      "start_time": 1723.808,
+      "end_time": 1726.675,
+      "duration": 2.866999999999962,
+      "dialogue_text": "- Are you crazy? - It might not be all that bad."
+    },
+    {
+      "subtitle_index": 302,
+      "start_time": 1726.777,
+      "end_time": 1728.301,
+      "duration": 1.5239999999998872,
+      "dialogue_text": "That's ridiculous."
+    },
+    {
+      "subtitle_index": 303,
+      "start_time": 1728.379,
+      "end_time": 1732.338,
+      "duration": 3.95900000000006,
+      "dialogue_text": "- She won't know until she tries it. - Now, then..."
+    },
+    {
+      "subtitle_index": 304,
+      "start_time": 1733.451,
+      "end_time": 1737.751,
+      "duration": 4.2999999999999545,
+      "dialogue_text": "I've always entertained the idea of paying a visit to the Kingdom of Cats."
+    },
+    {
+      "subtitle_index": 305,
+      "start_time": 1737.855,
+      "end_time": 1740.824,
+      "duration": 2.969000000000051,
+      "dialogue_text": "- Now is the time. - Have a nice trip."
+    },
+    {
+      "subtitle_index": 306,
+      "start_time": 1740.891,
+      "end_time": 1744.292,
+      "duration": 3.40099999999984,
+      "dialogue_text": "- Hope you make it back some day. - You're coming with me."
+    },
+    {
+      "subtitle_index": 307,
+      "start_time": 1744.395,
+      "end_time": 1747.421,
+      "duration": 3.0260000000000673,
+      "dialogue_text": "Nah, I'll pass. But thanks for thinking of me."
+    },
+    {
+      "subtitle_index": 308,
+      "start_time": 1747.531,
+      "end_time": 1750.466,
+      "duration": 2.9349999999999454,
+      "dialogue_text": "Baron, you're not going to take her there, are you?"
+    },
+    {
+      "subtitle_index": 309,
+      "start_time": 1750.534,
+      "end_time": 1752.559,
+      "duration": 2.0249999999998636,
+      "dialogue_text": "We can't leave her unprotected."
+    },
+    {
+      "subtitle_index": 310,
+      "start_time": 1752.67,
+      "end_time": 1756.97,
+      "duration": 4.2999999999999545,
+      "dialogue_text": "But if Muta wants to stay here, he can keep an eye on her."
+    },
+    {
+      "subtitle_index": 311,
+      "start_time": 1757.041,
+      "end_time": 1760.977,
+      "duration": 3.936000000000149,
+      "dialogue_text": "No way. You can't leave her here. I'm not baby-sitting."
+    },
+    {
+      "subtitle_index": 312,
+      "start_time": 1761.045,
+      "end_time": 1764.014,
+      "duration": 2.9689999999998236,
+      "dialogue_text": "- Why? Are you busy at the moment? - Not really."
+    },
+    {
+      "subtitle_index": 313,
+      "start_time": 1764.115,
+      "end_time": 1765.582,
+      "duration": 1.4670000000000982,
+      "dialogue_text": "I'll just go home."
+    },
+    {
+      "subtitle_index": 314,
+      "start_time": 1765.683,
+      "end_time": 1768.174,
+      "duration": 2.4909999999999854,
+      "dialogue_text": "- Hmm? - What?"
+    },
+    {
+      "subtitle_index": 315,
+      "start_time": 1768.285,
+      "end_time": 1771.846,
+      "duration": 3.560999999999922,
+      "dialogue_text": "I'm sorry. I didn't mean to cause you so much trouble."
+    },
+    {
+      "subtitle_index": 316,
+      "start_time": 1771.922,
+      "end_time": 1776.552,
+      "duration": 4.629999999999882,
+      "dialogue_text": "Muta's right. It's my fault for getting involved with those cats."
+    },
+    {
+      "subtitle_index": 317,
+      "start_time": 1776.627,
+      "end_time": 1779.027,
+      "duration": 2.400000000000091,
+      "dialogue_text": "I'll figure something out."
+    },
+    {
+      "subtitle_index": 318,
+      "start_time": 1779.897,
+      "end_time": 1784.391,
+      "duration": 4.494000000000142,
+      "dialogue_text": "Well, then, so sorry the Cat Bureau couldn't be of any help to you."
+    },
+    {
+      "subtitle_index": 319,
+      "start_time": 1786.237,
+      "end_time": 1789.4,
+      "duration": 3.163000000000011,
+      "dialogue_text": "Ah... All right, all right."
+    },
+    {
+      "subtitle_index": 320,
+      "start_time": 1790.541,
+      "end_time": 1792.941,
+      "duration": 2.400000000000091,
+      "dialogue_text": "I'll watch the little baby."
+    },
+    {
+      "subtitle_index": 321,
+      "start_time": 1793.044,
+      "end_time": 1794.909,
+      "duration": 1.865000000000009,
+      "dialogue_text": "Good kitty."
+    },
+    {
+      "subtitle_index": 322,
+      "start_time": 1795.012,
+      "end_time": 1798.072,
+      "duration": 3.0599999999999454,
+      "dialogue_text": "Then it's settled. You can stay here with Muta."
+    },
+    {
+      "subtitle_index": 323,
+      "start_time": 1798.149,
+      "end_time": 1799.343,
+      "duration": 1.1940000000001874,
+      "dialogue_text": "You sure?"
+    },
+    {
+      "subtitle_index": 324,
+      "start_time": 1799.417,
+      "end_time": 1804.252,
+      "duration": 4.835000000000036,
+      "dialogue_text": "Don't worry about Muta. He complains a lot but he has a heart of gold."
+    },
+    {
+      "subtitle_index": 325,
+      "start_time": 1804.355,
+      "end_time": 1805.344,
+      "duration": 0.9890000000000327,
+      "dialogue_text": "Hmph!"
+    },
+    {
+      "subtitle_index": 326,
+      "start_time": 1805.923,
+      "end_time": 1808.585,
+      "duration": 2.6620000000000346,
+      "dialogue_text": "Hm... I see."
+    },
+    {
+      "subtitle_index": 327,
+      "start_time": 1808.659,
+      "end_time": 1810.752,
+      "duration": 2.092999999999847,
+      "dialogue_text": "So he's just a big softie."
+    },
+    {
+      "subtitle_index": 328,
+      "start_time": 1810.861,
+      "end_time": 1812.59,
+      "duration": 1.7289999999998145,
+      "dialogue_text": "You could say that."
+    },
+    {
+      "subtitle_index": 329,
+      "start_time": 1812.663,
+      "end_time": 1814.722,
+      "duration": 2.058999999999969,
+      "dialogue_text": "And this is the thanks I get."
+    },
+    {
+      "subtitle_index": 330,
+      "start_time": 1814.799,
+      "end_time": 1818.326,
+      "duration": 3.5270000000000437,
+      "dialogue_text": "Thank you for your help, Moo-ta."
+    },
+    {
+      "subtitle_index": 331,
+      "start_time": 1818.436,
+      "end_time": 1822.099,
+      "duration": 3.663000000000011,
+      "dialogue_text": "What? Moo? Are you saying that I'm a fat cow?"
+    },
+    {
+      "subtitle_index": 332,
+      "start_time": 1822.206,
+      "end_time": 1825.937,
+      "duration": 3.7309999999999945,
+      "dialogue_text": "- No, you're just fat. - I like this girl better every minute."
+    },
+    {
+      "subtitle_index": 333,
+      "start_time": 1826.043,
+      "end_time": 1827.442,
+      "duration": 1.3990000000001146,
+      "dialogue_text": "I'm outta here."
+    },
+    {
+      "subtitle_index": 334,
+      "start_time": 1827.545,
+      "end_time": 1831.777,
+      "duration": 4.231999999999971,
+      "dialogue_text": "That's too bad. I was just going to get out some angel fruit cake."
+    },
+    {
+      "subtitle_index": 335,
+      "start_time": 1831.882,
+      "end_time": 1835.215,
+      "duration": 3.3329999999998563,
+      "dialogue_text": "- Where is it? - It's in the upper-right shelf."
+    },
+    {
+      "subtitle_index": 336,
+      "start_time": 1835.286,
+      "end_time": 1837.083,
+      "duration": 1.7970000000000255,
+      "dialogue_text": "Why didn't you say so?"
+    },
+    {
+      "subtitle_index": 337,
+      "start_time": 1837.154,
+      "end_time": 1839.987,
+      "duration": 2.8330000000000837,
+      "dialogue_text": "Our guest deserves a proper afternoon tea."
+    },
+    {
+      "subtitle_index": 338,
+      "start_time": 1841.092,
+      "end_time": 1843.686,
+      "duration": 2.5939999999998236,
+      "dialogue_text": "This calls for some of my special mulberries."
+    },
+    {
+      "subtitle_index": 339,
+      "start_time": 1847.198,
+      "end_time": 1850.19,
+      "duration": 2.991999999999962,
+      "dialogue_text": "You're too much, Baron. A tea party and everything?"
+    },
+    {
+      "subtitle_index": 340,
+      "start_time": 1850.334,
+      "end_time": 1854.93,
+      "duration": 4.596000000000004,
+      "dialogue_text": "- Anything I can do to help? - Yes, there is something."
+    },
+    {
+      "subtitle_index": 341,
+      "start_time": 1855.406,
+      "end_time": 1859.399,
+      "duration": 3.992999999999938,
+      "dialogue_text": "I need you to learn just one thing. Always believe in yourself."
+    },
+    {
+      "subtitle_index": 342,
+      "start_time": 1859.477,
+      "end_time": 1863.88,
+      "duration": 4.40300000000002,
+      "dialogue_text": "Do this, and no matter where you are, you will have nothing to fear."
+    },
+    {
+      "subtitle_index": 343,
+      "start_time": 1865.015,
+      "end_time": 1868.416,
+      "duration": 3.40099999999984,
+      "dialogue_text": "Baron, give me a hand with this whipped cream."
+    },
+    {
+      "subtitle_index": 344,
+      "start_time": 1868.486,
+      "end_time": 1872.183,
+      "duration": 3.696999999999889,
+      "dialogue_text": "- You're going all out. - Better believe it."
+    },
+    {
+      "subtitle_index": 345,
+      "start_time": 1874.191,
+      "end_time": 1876.853,
+      "duration": 2.6620000000000346,
+      "dialogue_text": "Who knows? Maybe this is the world I belong in."
+    },
+    {
+      "subtitle_index": 346,
+      "start_time": 1878.529,
+      "end_time": 1880.622,
+      "duration": 2.0930000000000746,
+      "dialogue_text": "Hey, is that Toto?"
+    },
+    {
+      "subtitle_index": 347,
+      "start_time": 1885.603,
+      "end_time": 1888.834,
+      "duration": 3.2309999999999945,
+      "dialogue_text": "It's time to go to our kingdom, Miss Haru."
+    },
+    {
+      "subtitle_index": 348,
+      "start_time": 1888.939,
+      "end_time": 1893.74,
+      "duration": 4.800999999999931,
+      "dialogue_text": "You again! No! Hey! Get away from me!"
+    },
+    {
+      "subtitle_index": 349,
+      "start_time": 1897.648,
+      "end_time": 1899.707,
+      "duration": 2.0590000000001965,
+      "dialogue_text": "Skip the tea."
+    },
+    {
+      "subtitle_index": 350,
+      "start_time": 1901.986,
+      "end_time": 1904.477,
+      "duration": 2.4909999999999854,
+      "dialogue_text": "Don't let them take me away, please!"
+    },
+    {
+      "subtitle_index": 351,
+      "start_time": 1905.089,
+      "end_time": 1908.32,
+      "duration": 3.2309999999999945,
+      "dialogue_text": "Baron, a bunch of cats are headed this way."
+    },
+    {
+      "subtitle_index": 352,
+      "start_time": 1908.425,
+      "end_time": 1910.325,
+      "duration": 1.900000000000091,
+      "dialogue_text": "- Oh no. - A little late, birdbrain."
+    },
+    {
+      "subtitle_index": 353,
+      "start_time": 1910.394,
+      "end_time": 1913.158,
+      "duration": 2.7639999999998963,
+      "dialogue_text": "Toto, give me a lift."
+    },
+    {
+      "subtitle_index": 354,
+      "start_time": 1917.101,
+      "end_time": 1918.762,
+      "duration": 1.6609999999998308,
+      "dialogue_text": "Ouch!"
+    },
+    {
+      "subtitle_index": 355,
+      "start_time": 1919.436,
+      "end_time": 1921.427,
+      "duration": 1.9909999999999854,
+      "dialogue_text": "We had a hard time finding you."
+    },
+    {
+      "subtitle_index": 356,
+      "start_time": 1921.505,
+      "end_time": 1923.632,
+      "duration": 2.1269999999999527,
+      "dialogue_text": "- Let me off. - What?"
+    },
+    {
+      "subtitle_index": 357,
+      "start_time": 1923.707,
+      "end_time": 1926.175,
+      "duration": 2.467999999999847,
+      "dialogue_text": "Careful, Miss Haru."
+    },
+    {
+      "subtitle_index": 358,
+      "start_time": 1926.277,
+      "end_time": 1929.11,
+      "duration": 2.8329999999998563,
+      "dialogue_text": "Stop these cats. I want off this thing now."
+    },
+    {
+      "subtitle_index": 359,
+      "start_time": 1929.213,
+      "end_time": 1933.513,
+      "duration": 4.2999999999999545,
+      "dialogue_text": "Don't worry. You're just having pre-wedding jitters, that's all."
+    },
+    {
+      "subtitle_index": 360,
+      "start_time": 1933.617,
+      "end_time": 1934.948,
+      "duration": 1.331000000000131,
+      "dialogue_text": "No, I'm not!"
+    },
+    {
+      "subtitle_index": 361,
+      "start_time": 1939.323,
+      "end_time": 1941.883,
+      "duration": 2.5599999999999454,
+      "dialogue_text": "She could've waited until after we had cake."
+    },
+    {
+      "subtitle_index": 362,
+      "start_time": 1941.992,
+      "end_time": 1943.755,
+      "duration": 1.7630000000001473,
+      "dialogue_text": "Ow! Quit that!"
+    },
+    {
+      "subtitle_index": 363,
+      "start_time": 1944.228,
+      "end_time": 1946.423,
+      "duration": 2.1949999999999363,
+      "dialogue_text": "Let me go. Stop it. It hurts."
+    },
+    {
+      "subtitle_index": 364,
+      "start_time": 1947.164,
+      "end_time": 1948.722,
+      "duration": 1.5579999999999927,
+      "dialogue_text": "They're coming for me."
+    },
+    {
+      "subtitle_index": 365,
+      "start_time": 1948.799,
+      "end_time": 1952.496,
+      "duration": 3.6970000000001164,
+      "dialogue_text": "- I said let me go. - Okay, Toto. Now!"
+    },
+    {
+      "subtitle_index": 366,
+      "start_time": 1952.57,
+      "end_time": 1954.47,
+      "duration": 1.900000000000091,
+      "dialogue_text": "Wait. I take it back!"
+    },
+    {
+      "subtitle_index": 367,
+      "start_time": 1957.474,
+      "end_time": 1960.409,
+      "duration": 2.935000000000173,
+      "dialogue_text": "Why did you let him fall? You cats are terrible."
+    },
+    {
+      "subtitle_index": 368,
+      "start_time": 1960.511,
+      "end_time": 1962.536,
+      "duration": 2.025000000000091,
+      "dialogue_text": "You're gonna regret that."
+    },
+    {
+      "subtitle_index": 369,
+      "start_time": 1963.38,
+      "end_time": 1964.608,
+      "duration": 1.227999999999838,
+      "dialogue_text": "Muta!"
+    },
+    {
+      "subtitle_index": 370,
+      "start_time": 1964.715,
+      "end_time": 1966.91,
+      "duration": 2.1950000000001637,
+      "dialogue_text": "We're over the weight limit."
+    },
+    {
+      "subtitle_index": 371,
+      "start_time": 1969.82,
+      "end_time": 1971.913,
+      "duration": 2.0930000000000746,
+      "dialogue_text": "- Toto. - I see it."
+    },
+    {
+      "subtitle_index": 372,
+      "start_time": 1990.14,
+      "end_time": 1992.438,
+      "duration": 2.298000000000002,
+      "dialogue_text": "Let me off this thing!"
+    },
+    {
+      "subtitle_index": 373,
+      "start_time": 1998.048,
+      "end_time": 1999.572,
+      "duration": 1.5239999999998872,
+      "dialogue_text": "Outmaneuvered."
+    },
+    {
+      "subtitle_index": 374,
+      "start_time": 2002.219,
+      "end_time": 2004.346,
+      "duration": 2.1269999999999527,
+      "dialogue_text": "- Get above the trees. - Right."
+    },
+    {
+      "subtitle_index": 375,
+      "start_time": 2014.465,
+      "end_time": 2016.558,
+      "duration": 2.0930000000000746,
+      "dialogue_text": "Now what?"
+    },
+    {
+      "subtitle_index": 376,
+      "start_time": 2021.238,
+      "end_time": 2023.934,
+      "duration": 2.6959999999999127,
+      "dialogue_text": "They're riding the wind. Follow the lights."
+    },
+    {
+      "subtitle_index": 377,
+      "start_time": 2024.041,
+      "end_time": 2025.406,
+      "duration": 1.365000000000009,
+      "dialogue_text": "Got it."
+    },
+    {
+      "subtitle_index": 378,
+      "start_time": 2038.589,
+      "end_time": 2040.648,
+      "duration": 2.058999999999969,
+      "dialogue_text": "Oh, that hurt."
+    },
+    {
+      "subtitle_index": 379,
+      "start_time": 2040.724,
+      "end_time": 2044.251,
+      "duration": 3.5270000000000437,
+      "dialogue_text": "Where am I anyway? I can't see a thing."
+    },
+    {
+      "subtitle_index": 380,
+      "start_time": 2052.97,
+      "end_time": 2055.871,
+      "duration": 2.9010000000002947,
+      "dialogue_text": "Muta. What happened? You're enormous."
+    },
+    {
+      "subtitle_index": 381,
+      "start_time": 2055.973,
+      "end_time": 2058.806,
+      "duration": 2.8330000000000837,
+      "dialogue_text": "No, kiddo. You got smaller."
+    },
+    {
+      "subtitle_index": 382,
+      "start_time": 2058.909,
+      "end_time": 2059.933,
+      "duration": 1.0239999999998872,
+      "dialogue_text": "Hm?"
+    },
+    {
+      "subtitle_index": 383,
+      "start_time": 2061.211,
+      "end_time": 2063.008,
+      "duration": 1.7970000000000255,
+      "dialogue_text": "Why's that?"
+    },
+    {
+      "subtitle_index": 384,
+      "start_time": 2063.113,
+      "end_time": 2065.172,
+      "duration": 2.0590000000001965,
+      "dialogue_text": "Because we're here, that's why."
+    },
+    {
+      "subtitle_index": 385,
+      "start_time": 2075.926,
+      "end_time": 2078.724,
+      "duration": 2.798000000000229,
+      "dialogue_text": "That's the Kingdom of Cats?"
+    },
+    {
+      "subtitle_index": 386,
+      "start_time": 2096.647,
+      "end_time": 2098.137,
+      "duration": 1.4900000000002365,
+      "dialogue_text": "That's it."
+    },
+    {
+      "subtitle_index": 387,
+      "start_time": 2122.005,
+      "end_time": 2124.269,
+      "duration": 2.263999999999669,
+      "dialogue_text": "Wow, there are cats all over the place."
+    },
+    {
+      "subtitle_index": 388,
+      "start_time": 2124.375,
+      "end_time": 2127.742,
+      "duration": 3.367000000000189,
+      "dialogue_text": "What did you expect? It is their kingdom."
+    },
+    {
+      "subtitle_index": 389,
+      "start_time": 2127.811,
+      "end_time": 2129.904,
+      "duration": 2.092999999999847,
+      "dialogue_text": "Hey, you!"
+    },
+    {
+      "subtitle_index": 390,
+      "start_time": 2137.388,
+      "end_time": 2140.221,
+      "duration": 2.8330000000000837,
+      "dialogue_text": "Ah, it's so relaxing here."
+    },
+    {
+      "subtitle_index": 391,
+      "start_time": 2140.324,
+      "end_time": 2143.293,
+      "duration": 2.969000000000051,
+      "dialogue_text": "Hey, we have to find a way out of here fast."
+    },
+    {
+      "subtitle_index": 392,
+      "start_time": 2143.394,
+      "end_time": 2145.589,
+      "duration": 2.1950000000001637,
+      "dialogue_text": "- Relax. - Listen, kid..."
+    },
+    {
+      "subtitle_index": 393,
+      "start_time": 2145.662,
+      "end_time": 2148.654,
+      "duration": 2.992000000000189,
+      "dialogue_text": "I've never felt so at home in my life."
+    },
+    {
+      "subtitle_index": 394,
+      "start_time": 2148.732,
+      "end_time": 2152.133,
+      "duration": 3.40099999999984,
+      "dialogue_text": "Hurry. You've got to get out of here."
+    },
+    {
+      "subtitle_index": 395,
+      "start_time": 2154.037,
+      "end_time": 2157.302,
+      "duration": 3.2650000000003274,
+      "dialogue_text": "You must leave. You don't belong here."
+    },
+    {
+      "subtitle_index": 396,
+      "start_time": 2157.374,
+      "end_time": 2159.501,
+      "duration": 2.1270000000004075,
+      "dialogue_text": "Wow! You're beautiful."
+    },
+    {
+      "subtitle_index": 397,
+      "start_time": 2159.61,
+      "end_time": 2162.01,
+      "duration": 2.400000000000091,
+      "dialogue_text": "Everything's better here. Even the cats."
+    },
+    {
+      "subtitle_index": 398,
+      "start_time": 2162.112,
+      "end_time": 2166.708,
+      "duration": 4.596000000000004,
+      "dialogue_text": "Quickly. You don't have much time. Please, Miss Haru, before it's too late."
+    },
+    {
+      "subtitle_index": 399,
+      "start_time": 2166.784,
+      "end_time": 2169.776,
+      "duration": 2.9919999999997344,
+      "dialogue_text": "Wait a minute. How do you know my name?"
+    },
+    {
+      "subtitle_index": 400,
+      "start_time": 2169.887,
+      "end_time": 2171.98,
+      "duration": 2.092999999999847,
+      "dialogue_text": "Miss Haru! Miss Haru!"
+    },
+    {
+      "subtitle_index": 401,
+      "start_time": 2172.823,
+      "end_time": 2175.849,
+      "duration": 3.0260000000002947,
+      "dialogue_text": "- Huh? - Oh, not him again."
+    },
+    {
+      "subtitle_index": 402,
+      "start_time": 2175.959,
+      "end_time": 2178.689,
+      "duration": 2.730000000000018,
+      "dialogue_text": "There you are. I finally found you."
+    },
+    {
+      "subtitle_index": 403,
+      "start_time": 2180.264,
+      "end_time": 2183.324,
+      "duration": 3.0599999999999454,
+      "dialogue_text": "We seemed to have accidentally dropped you upon entry."
+    },
+    {
+      "subtitle_index": 404,
+      "start_time": 2183.4,
+      "end_time": 2186.46,
+      "duration": 3.0599999999999454,
+      "dialogue_text": "Your fat servant exceeded our weight limit."
+    },
+    {
+      "subtitle_index": 405,
+      "start_time": 2186.537,
+      "end_time": 2188.767,
+      "duration": 2.230000000000018,
+      "dialogue_text": "Fat servant?"
+    },
+    {
+      "subtitle_index": 406,
+      "start_time": 2188.839,
+      "end_time": 2191.467,
+      "duration": 2.6280000000001564,
+      "dialogue_text": "No, this is Muta. He's a friend."
+    },
+    {
+      "subtitle_index": 407,
+      "start_time": 2191.542,
+      "end_time": 2196.002,
+      "duration": 4.460000000000036,
+      "dialogue_text": "That's nice. Come on. Everyone's dying to meet their new princess."
+    },
+    {
+      "subtitle_index": 408,
+      "start_time": 2196.113,
+      "end_time": 2198.479,
+      "duration": 2.3659999999999854,
+      "dialogue_text": "Fat friend, you can come, too."
+    },
+    {
+      "subtitle_index": 409,
+      "start_time": 2199.283,
+      "end_time": 2203.049,
+      "duration": 3.7660000000000764,
+      "dialogue_text": "- I don't know about this. - The king is waiting in your castle."
+    },
+    {
+      "subtitle_index": 410,
+      "start_time": 2203.12,
+      "end_time": 2206.385,
+      "duration": 3.2650000000003274,
+      "dialogue_text": "- My castle? - The royal palace."
+    },
+    {
+      "subtitle_index": 411,
+      "start_time": 2207.324,
+      "end_time": 2210.487,
+      "duration": 3.163000000000011,
+      "dialogue_text": "- My castle? - Well, soon enough."
+    },
+    {
+      "subtitle_index": 412,
+      "start_time": 2210.594,
+      "end_time": 2211.618,
+      "duration": 1.0239999999998872,
+      "dialogue_text": "Hmm."
+    },
+    {
+      "subtitle_index": 413,
+      "start_time": 2211.695,
+      "end_time": 2213.993,
+      "duration": 2.2979999999997744,
+      "dialogue_text": "Hey, where do you think you're going?"
+    },
+    {
+      "subtitle_index": 414,
+      "start_time": 2214.097,
+      "end_time": 2217.533,
+      "duration": 3.4359999999996944,
+      "dialogue_text": "The king's waiting for me. It's rude not to say hi."
+    },
+    {
+      "subtitle_index": 415,
+      "start_time": 2217.601,
+      "end_time": 2220.195,
+      "duration": 2.594000000000051,
+      "dialogue_text": "Have you completely lost your mind?"
+    },
+    {
+      "subtitle_index": 416,
+      "start_time": 2220.27,
+      "end_time": 2222.795,
+      "duration": 2.525000000000091,
+      "dialogue_text": "- This way. - Wait a minute."
+    },
+    {
+      "subtitle_index": 417,
+      "start_time": 2222.873,
+      "end_time": 2224.966,
+      "duration": 2.092999999999847,
+      "dialogue_text": "Can she come with us?"
+    },
+    {
+      "subtitle_index": 418,
+      "start_time": 2226.643,
+      "end_time": 2230.34,
+      "duration": 3.6970000000001164,
+      "dialogue_text": "- Who are you? - I'm Yuki. I serve at the royal table."
+    },
+    {
+      "subtitle_index": 419,
+      "start_time": 2230.414,
+      "end_time": 2233.247,
+      "duration": 2.832999999999629,
+      "dialogue_text": "Oh, so you're employed by the king?"
+    },
+    {
+      "subtitle_index": 420,
+      "start_time": 2233.317,
+      "end_time": 2236.15,
+      "duration": 2.8330000000000837,
+      "dialogue_text": "She works at the castle. You'll see her there."
+    },
+    {
+      "subtitle_index": 421,
+      "start_time": 2236.253,
+      "end_time": 2238.312,
+      "duration": 2.0589999999997417,
+      "dialogue_text": "- Come. - See you soon, Yuki."
+    },
+    {
+      "subtitle_index": 422,
+      "start_time": 2239.022,
+      "end_time": 2241.013,
+      "duration": 1.9909999999999854,
+      "dialogue_text": "Ow, ow, ow! Hey!"
+    },
+    {
+      "subtitle_index": 423,
+      "start_time": 2247.397,
+      "end_time": 2249.49,
+      "duration": 2.092999999999847,
+      "dialogue_text": "Poor Haru."
+    },
+    {
+      "subtitle_index": 424,
+      "start_time": 2274.825,
+      "end_time": 2277.157,
+      "duration": 2.3320000000003347,
+      "dialogue_text": "Ugh, look at that. Creepy."
+    },
+    {
+      "subtitle_index": 425,
+      "start_time": 2283.233,
+      "end_time": 2286.964,
+      "duration": 3.730999999999767,
+      "dialogue_text": "Mmm, looks good. My future daughter-in-law."
+    },
+    {
+      "subtitle_index": 426,
+      "start_time": 2290.707,
+      "end_time": 2292.868,
+      "duration": 2.161000000000058,
+      "dialogue_text": "Hmm."
+    },
+    {
+      "subtitle_index": 427,
+      "start_time": 2292.943,
+      "end_time": 2296.777,
+      "duration": 3.8339999999998327,
+      "dialogue_text": "All right! Think I'll go and have a look in person."
+    },
+    {
+      "subtitle_index": 428,
+      "start_time": 2299.149,
+      "end_time": 2302.141,
+      "duration": 2.992000000000189,
+      "dialogue_text": "Hm. Why does that fatso seem so familiar?"
+    },
+    {
+      "subtitle_index": 429,
+      "start_time": 2315.866,
+      "end_time": 2318.96,
+      "duration": 3.094000000000051,
+      "dialogue_text": "You'll need to change before meeting the king."
+    },
+    {
+      "subtitle_index": 430,
+      "start_time": 2319.069,
+      "end_time": 2320.934,
+      "duration": 1.8650000000002365,
+      "dialogue_text": "I get new clothes?"
+    },
+    {
+      "subtitle_index": 431,
+      "start_time": 2321.004,
+      "end_time": 2323.734,
+      "duration": 2.730000000000018,
+      "dialogue_text": "- Please wait here, sir. - I'm the baby-sitter."
+    },
+    {
+      "subtitle_index": 432,
+      "start_time": 2323.84,
+      "end_time": 2326.104,
+      "duration": 2.263999999999669,
+      "dialogue_text": "- Back off. - What's your problem?"
+    },
+    {
+      "subtitle_index": 433,
+      "start_time": 2326.209,
+      "end_time": 2329.337,
+      "duration": 3.1280000000001564,
+      "dialogue_text": "Help yourself to refreshments while you wait."
+    },
+    {
+      "subtitle_index": 434,
+      "start_time": 2329.413,
+      "end_time": 2331.472,
+      "duration": 2.0590000000001965,
+      "dialogue_text": "Yeah, okay, I'll wait."
+    },
+    {
+      "subtitle_index": 435,
+      "start_time": 2337.321,
+      "end_time": 2338.515,
+      "duration": 1.19399999999996,
+      "dialogue_text": "Oh..."
+    },
+    {
+      "subtitle_index": 436,
+      "start_time": 2338.589,
+      "end_time": 2340.955,
+      "duration": 2.3659999999999854,
+      "dialogue_text": "Hey, not bad."
+    },
+    {
+      "subtitle_index": 437,
+      "start_time": 2343.36,
+      "end_time": 2345.692,
+      "duration": 2.33199999999988,
+      "dialogue_text": "Miss Haru, you're so lucky."
+    },
+    {
+      "subtitle_index": 438,
+      "start_time": 2345.762,
+      "end_time": 2348.959,
+      "duration": 3.1969999999996617,
+      "dialogue_text": "Every girl in the cat kingdom has a crush on Prince Lune."
+    },
+    {
+      "subtitle_index": 439,
+      "start_time": 2349.066,
+      "end_time": 2351.796,
+      "duration": 2.730000000000018,
+      "dialogue_text": "I'm sure you'll be very happy together."
+    },
+    {
+      "subtitle_index": 440,
+      "start_time": 2351.902,
+      "end_time": 2355.963,
+      "duration": 4.061000000000149,
+      "dialogue_text": "You think? No, wait. I don't think I wanna do this."
+    },
+    {
+      "subtitle_index": 441,
+      "start_time": 2356.94,
+      "end_time": 2359.841,
+      "duration": 2.90099999999984,
+      "dialogue_text": "Wow, don't you look good."
+    },
+    {
+      "subtitle_index": 442,
+      "start_time": 2359.943,
+      "end_time": 2362.912,
+      "duration": 2.968999999999596,
+      "dialogue_text": "Welcome to the royal family, babe."
+    },
+    {
+      "subtitle_index": 443,
+      "start_time": 2366.95,
+      "end_time": 2369.043,
+      "duration": 2.093000000000302,
+      "dialogue_text": "Hmm."
+    },
+    {
+      "subtitle_index": 444,
+      "start_time": 2373.256,
+      "end_time": 2374.689,
+      "duration": 1.4329999999999927,
+      "dialogue_text": "Mmm."
+    },
+    {
+      "subtitle_index": 445,
+      "start_time": 2384.601,
+      "end_time": 2388.537,
+      "duration": 3.9359999999996944,
+      "dialogue_text": "- Tell me, who is that cat? - I believe his name is Muta."
+    },
+    {
+      "subtitle_index": 446,
+      "start_time": 2388.605,
+      "end_time": 2390.664,
+      "duration": 2.0590000000001965,
+      "dialogue_text": "Muta?"
+    },
+    {
+      "subtitle_index": 447,
+      "start_time": 2391.475,
+      "end_time": 2393.568,
+      "duration": 2.093000000000302,
+      "dialogue_text": "Never heard that name."
+    },
+    {
+      "subtitle_index": 448,
+      "start_time": 2396.346,
+      "end_time": 2399.213,
+      "duration": 2.867000000000189,
+      "dialogue_text": "No match for my stomach."
+    },
+    {
+      "subtitle_index": 449,
+      "start_time": 2400.484,
+      "end_time": 2402.577,
+      "duration": 2.093000000000302,
+      "dialogue_text": "Hmm..."
+    },
+    {
+      "subtitle_index": 450,
+      "start_time": 2404.021,
+      "end_time": 2409.152,
+      "duration": 5.130999999999858,
+      "dialogue_text": "King, I'm really flattered by all this but I don't want to get married."
+    },
+    {
+      "subtitle_index": 451,
+      "start_time": 2409.259,
+      "end_time": 2413.218,
+      "duration": 3.9589999999998327,
+      "dialogue_text": "You what? I was told you had already consented."
+    },
+    {
+      "subtitle_index": 452,
+      "start_time": 2413.296,
+      "end_time": 2416.288,
+      "duration": 2.992000000000189,
+      "dialogue_text": "She has consented. That's what I was told."
+    },
+    {
+      "subtitle_index": 453,
+      "start_time": 2416.601,
+      "end_time": 2421.334,
+      "duration": 4.73299999999972,
+      "dialogue_text": "- What does the prince say? - He is away on official business."
+    },
+    {
+      "subtitle_index": 454,
+      "start_time": 2423.441,
+      "end_time": 2426.638,
+      "duration": 3.1970000000001164,
+      "dialogue_text": "Look, first of all, we don't really know each other"
+    },
+    {
+      "subtitle_index": 455,
+      "start_time": 2426.711,
+      "end_time": 2428.872,
+      "duration": 2.161000000000058,
+      "dialogue_text": "and second of all, he's a cat, right?"
+    },
+    {
+      "subtitle_index": 456,
+      "start_time": 2428.98,
+      "end_time": 2431.414,
+      "duration": 2.4340000000001965,
+      "dialogue_text": "And I'm not. So, clearly, I can't marry him."
+    },
+    {
+      "subtitle_index": 457,
+      "start_time": 2431.515,
+      "end_time": 2433.608,
+      "duration": 2.093000000000302,
+      "dialogue_text": "- Huh? - Huh?"
+    },
+    {
+      "subtitle_index": 458,
+      "start_time": 2436.487,
+      "end_time": 2438.751,
+      "duration": 2.2640000000001237,
+      "dialogue_text": "That has already been taken care of."
+    },
+    {
+      "subtitle_index": 459,
+      "start_time": 2439.59,
+      "end_time": 2441.683,
+      "duration": 2.092999999999847,
+      "dialogue_text": "You're half cat already."
+    },
+    {
+      "subtitle_index": 460,
+      "start_time": 2447.198,
+      "end_time": 2448.859,
+      "duration": 1.6610000000000582,
+      "dialogue_text": "Oh..."
+    },
+    {
+      "subtitle_index": 461,
+      "start_time": 2448.966,
+      "end_time": 2451.491,
+      "duration": 2.525000000000091,
+      "dialogue_text": "See, Miss Haru?"
+    },
+    {
+      "subtitle_index": 462,
+      "start_time": 2453.804,
+      "end_time": 2455.897,
+      "duration": 2.092999999999847,
+      "dialogue_text": "Look at that. I'm a cat."
+    },
+    {
+      "subtitle_index": 463,
+      "start_time": 2465.616,
+      "end_time": 2467.447,
+      "duration": 1.831000000000131,
+      "dialogue_text": "Muta!"
+    },
+    {
+      "subtitle_index": 464,
+      "start_time": 2470.554,
+      "end_time": 2472.647,
+      "duration": 2.092999999999847,
+      "dialogue_text": "Muta, what happened?"
+    },
+    {
+      "subtitle_index": 465,
+      "start_time": 2474.292,
+      "end_time": 2478.922,
+      "duration": 4.630000000000109,
+      "dialogue_text": "He had a weakness for catnip jelly. He saw the bowl and dove right in."
+    },
+    {
+      "subtitle_index": 466,
+      "start_time": 2478.996,
+      "end_time": 2483.524,
+      "duration": 4.527999999999793,
+      "dialogue_text": "Muta, you weren't supposed to die. It's all my fault."
+    },
+    {
+      "subtitle_index": 467,
+      "start_time": 2483.601,
+      "end_time": 2486.297,
+      "duration": 2.6959999999999127,
+      "dialogue_text": "Don't leave me like this, Muta."
+    },
+    {
+      "subtitle_index": 468,
+      "start_time": 2487.338,
+      "end_time": 2489.568,
+      "duration": 2.230000000000018,
+      "dialogue_text": "Time for the celebration."
+    },
+    {
+      "subtitle_index": 469,
+      "start_time": 2489.674,
+      "end_time": 2491.608,
+      "duration": 1.9340000000001965,
+      "dialogue_text": "No, I won't leave him!"
+    },
+    {
+      "subtitle_index": 470,
+      "start_time": 2491.709,
+      "end_time": 2493.802,
+      "duration": 2.093000000000302,
+      "dialogue_text": "Then we'll bring him with us."
+    },
+    {
+      "subtitle_index": 471,
+      "start_time": 2506.357,
+      "end_time": 2509.952,
+      "duration": 3.5950000000002547,
+      "dialogue_text": "- That's Prince Lune's bride. - She has lovely fur."
+    },
+    {
+      "subtitle_index": 472,
+      "start_time": 2510.061,
+      "end_time": 2512.291,
+      "duration": 2.230000000000018,
+      "dialogue_text": "And such delicate paws."
+    },
+    {
+      "subtitle_index": 473,
+      "start_time": 2516.3,
+      "end_time": 2518.564,
+      "duration": 2.263999999999669,
+      "dialogue_text": "I hear you don't care for mice"
+    },
+    {
+      "subtitle_index": 474,
+      "start_time": 2518.636,
+      "end_time": 2522.834,
+      "duration": 4.197999999999865,
+      "dialogue_text": "but I bet you can't resist my juicy, raw fish, huh?"
+    },
+    {
+      "subtitle_index": 475,
+      "start_time": 2522.94,
+      "end_time": 2525.568,
+      "duration": 2.6280000000001564,
+      "dialogue_text": "I'm not sure she's enjoying herself."
+    },
+    {
+      "subtitle_index": 476,
+      "start_time": 2525.676,
+      "end_time": 2529.612,
+      "duration": 3.936000000000149,
+      "dialogue_text": "- How about some entertainment? - Excellent suggestion."
+    },
+    {
+      "subtitle_index": 477,
+      "start_time": 2558.676,
+      "end_time": 2561.144,
+      "duration": 2.467999999999847,
+      "dialogue_text": "- Not entertaining enough. - Yes, sire."
+    },
+    {
+      "subtitle_index": 478,
+      "start_time": 2596.414,
+      "end_time": 2597.904,
+      "duration": 1.4899999999997817,
+      "dialogue_text": "Next."
+    },
+    {
+      "subtitle_index": 479,
+      "start_time": 2625.376,
+      "end_time": 2628.607,
+      "duration": 3.230999999999767,
+      "dialogue_text": "Whoever's next better not stink. Got it?"
+    },
+    {
+      "subtitle_index": 480,
+      "start_time": 2647.298,
+      "end_time": 2650.995,
+      "duration": 3.6970000000001164,
+      "dialogue_text": "Your Majesty, I promise that I will make the young lady smile."
+    },
+    {
+      "subtitle_index": 481,
+      "start_time": 2652.87,
+      "end_time": 2656.033,
+      "duration": 3.163000000000011,
+      "dialogue_text": "- Shall we try him? - Sure. Why not?"
+    },
+    {
+      "subtitle_index": 482,
+      "start_time": 2659.743,
+      "end_time": 2661.711,
+      "duration": 1.9679999999998472,
+      "dialogue_text": "Huh?"
+    },
+    {
+      "subtitle_index": 483,
+      "start_time": 2661.779,
+      "end_time": 2664.805,
+      "duration": 3.02599999999984,
+      "dialogue_text": "Excuse me. Would you care to dance?"
+    },
+    {
+      "subtitle_index": 484,
+      "start_time": 2665.382,
+      "end_time": 2667.441,
+      "duration": 2.0589999999997417,
+      "dialogue_text": "Oh no, I'm a meow-sy dancer."
+    },
+    {
+      "subtitle_index": 485,
+      "start_time": 2668.652,
+      "end_time": 2670.745,
+      "duration": 2.092999999999847,
+      "dialogue_text": "Now I'm starting to talk like a cat."
+    },
+    {
+      "subtitle_index": 486,
+      "start_time": 2672.823,
+      "end_time": 2674.688,
+      "duration": 1.8650000000002365,
+      "dialogue_text": "Just trust me."
+    },
+    {
+      "subtitle_index": 487,
+      "start_time": 2719.436,
+      "end_time": 2722.371,
+      "duration": 2.9349999999999454,
+      "dialogue_text": "Well, she seems to be entertained now."
+    },
+    {
+      "subtitle_index": 488,
+      "start_time": 2734.852,
+      "end_time": 2736.877,
+      "duration": 2.025000000000091,
+      "dialogue_text": "What's happening to me?"
+    },
+    {
+      "subtitle_index": 489,
+      "start_time": 2737.721,
+      "end_time": 2739.951,
+      "duration": 2.230000000000018,
+      "dialogue_text": "I've never felt like this before."
+    },
+    {
+      "subtitle_index": 490,
+      "start_time": 2740.791,
+      "end_time": 2742.918,
+      "duration": 2.1269999999999527,
+      "dialogue_text": "Maybe life as a cat wouldn't be so bad."
+    },
+    {
+      "subtitle_index": 491,
+      "start_time": 2745.496,
+      "end_time": 2748.932,
+      "duration": 3.4359999999996944,
+      "dialogue_text": "Careful, Haru. Don't lose yourself."
+    },
+    {
+      "subtitle_index": 492,
+      "start_time": 2748.999,
+      "end_time": 2750.159,
+      "duration": 1.1600000000003092,
+      "dialogue_text": "Huh?"
+    },
+    {
+      "subtitle_index": 493,
+      "start_time": 2750.267,
+      "end_time": 2752.326,
+      "duration": 2.0590000000001965,
+      "dialogue_text": "Believe in who you are."
+    },
+    {
+      "subtitle_index": 494,
+      "start_time": 2759.877,
+      "end_time": 2762.311,
+      "duration": 2.4340000000001965,
+      "dialogue_text": "I said so before, didn't I?"
+    },
+    {
+      "subtitle_index": 495,
+      "start_time": 2763.681,
+      "end_time": 2765.08,
+      "duration": 1.3989999999998872,
+      "dialogue_text": "Then you must be..."
+    },
+    {
+      "subtitle_index": 496,
+      "start_time": 2768.752,
+      "end_time": 2770.845,
+      "duration": 2.092999999999847,
+      "dialogue_text": "Stop right there, pal!"
+    },
+    {
+      "subtitle_index": 497,
+      "start_time": 2780.431,
+      "end_time": 2783.195,
+      "duration": 2.7640000000001237,
+      "dialogue_text": "You're not from my kingdom, are you?"
+    },
+    {
+      "subtitle_index": 498,
+      "start_time": 2783.3,
+      "end_time": 2785.825,
+      "duration": 2.524999999999636,
+      "dialogue_text": "Exactly who are you?"
+    },
+    {
+      "subtitle_index": 499,
+      "start_time": 2787.338,
+      "end_time": 2790.364,
+      "duration": 3.02599999999984,
+      "dialogue_text": "How rude of me. I should have introduced myself."
+    },
+    {
+      "subtitle_index": 500,
+      "start_time": 2792.61,
+      "end_time": 2795.17,
+      "duration": 2.5599999999999454,
+      "dialogue_text": "I am exactly who I appear to be."
+    },
+    {
+      "subtitle_index": 501,
+      "start_time": 2801.986,
+      "end_time": 2806.116,
+      "duration": 4.130000000000109,
+      "dialogue_text": "I am Baron Humbert von Gikkingen and I have come for Haru."
+    },
+    {
+      "subtitle_index": 502,
+      "start_time": 2806.223,
+      "end_time": 2807.451,
+      "duration": 1.2280000000000655,
+      "dialogue_text": "Baron!"
+    },
+    {
+      "subtitle_index": 503,
+      "start_time": 2807.524,
+      "end_time": 2810.652,
+      "duration": 3.1280000000001564,
+      "dialogue_text": "- He's so cool. - He is handsome."
+    },
+    {
+      "subtitle_index": 504,
+      "start_time": 2810.728,
+      "end_time": 2813.128,
+      "duration": 2.400000000000091,
+      "dialogue_text": "He can't have her. Seize them!"
+    },
+    {
+      "subtitle_index": 505,
+      "start_time": 2827.745,
+      "end_time": 2829.212,
+      "duration": 1.4670000000000982,
+      "dialogue_text": "I'm stuffed."
+    },
+    {
+      "subtitle_index": 506,
+      "start_time": 2831.248,
+      "end_time": 2833.341,
+      "duration": 2.092999999999847,
+      "dialogue_text": "Muta? You're still alive!"
+    },
+    {
+      "subtitle_index": 507,
+      "start_time": 2834.752,
+      "end_time": 2838.483,
+      "duration": 3.731000000000222,
+      "dialogue_text": "- Oh no! - Give me back my daughter-in-law."
+    },
+    {
+      "subtitle_index": 508,
+      "start_time": 2839.056,
+      "end_time": 2841.49,
+      "duration": 2.4339999999997417,
+      "dialogue_text": "Quickly, get His Majesty to a safe place."
+    },
+    {
+      "subtitle_index": 509,
+      "start_time": 2845.696,
+      "end_time": 2849.655,
+      "duration": 3.9590000000002874,
+      "dialogue_text": "Emergency exit for all guests right here, please. Enjoy your day."
+    },
+    {
+      "subtitle_index": 510,
+      "start_time": 2858.042,
+      "end_time": 2860.602,
+      "duration": 2.5599999999999454,
+      "dialogue_text": "Great technique, Muta."
+    },
+    {
+      "subtitle_index": 511,
+      "start_time": 2860.711,
+      "end_time": 2862.77,
+      "duration": 2.0590000000001965,
+      "dialogue_text": "I just lost my balance."
+    },
+    {
+      "subtitle_index": 512,
+      "start_time": 2864.315,
+      "end_time": 2866.374,
+      "duration": 2.0589999999997417,
+      "dialogue_text": "Over here."
+    },
+    {
+      "subtitle_index": 513,
+      "start_time": 2868.118,
+      "end_time": 2869.745,
+      "duration": 1.6269999999999527,
+      "dialogue_text": "Yuki, you're here."
+    },
+    {
+      "subtitle_index": 514,
+      "start_time": 2869.82,
+      "end_time": 2873.187,
+      "duration": 3.3669999999997344,
+      "dialogue_text": "I'm so thankful you were able to help Miss Haru, Baron."
+    },
+    {
+      "subtitle_index": 515,
+      "start_time": 2873.257,
+      "end_time": 2874.747,
+      "duration": 1.4899999999997817,
+      "dialogue_text": "Do we know each other?"
+    },
+    {
+      "subtitle_index": 516,
+      "start_time": 2874.858,
+      "end_time": 2877.52,
+      "duration": 2.661999999999807,
+      "dialogue_text": "Many of us here know of you and your bureau."
+    },
+    {
+      "subtitle_index": 517,
+      "start_time": 2877.594,
+      "end_time": 2882.156,
+      "duration": 4.561999999999898,
+      "dialogue_text": "Yuki, I'm an idiot. I should've left when you told me to. Now look at me."
+    },
+    {
+      "subtitle_index": 518,
+      "start_time": 2882.232,
+      "end_time": 2886.566,
+      "duration": 4.333999999999833,
+      "dialogue_text": "If you leave here by dawn, you can still turn back into a human."
+    },
+    {
+      "subtitle_index": 519,
+      "start_time": 2886.637,
+      "end_time": 2887.831,
+      "duration": 1.19399999999996,
+      "dialogue_text": "I will?"
+    },
+    {
+      "subtitle_index": 520,
+      "start_time": 2887.905,
+      "end_time": 2890.271,
+      "duration": 2.3659999999999854,
+      "dialogue_text": "This will get you outside the castle."
+    },
+    {
+      "subtitle_index": 521,
+      "start_time": 2890.374,
+      "end_time": 2893.571,
+      "duration": 3.1970000000001164,
+      "dialogue_text": "- Perfect. - Wait. Where's Muta?"
+    },
+    {
+      "subtitle_index": 522,
+      "start_time": 2901.051,
+      "end_time": 2902.575,
+      "duration": 1.5239999999998872,
+      "dialogue_text": "Hmm."
+    },
+    {
+      "subtitle_index": 523,
+      "start_time": 2902.686,
+      "end_time": 2905.849,
+      "duration": 3.163000000000011,
+      "dialogue_text": "He'll be fine. We just need to get you home."
+    },
+    {
+      "subtitle_index": 524,
+      "start_time": 2915.933,
+      "end_time": 2917.662,
+      "duration": 1.7289999999998145,
+      "dialogue_text": "The back of the castle."
+    },
+    {
+      "subtitle_index": 525,
+      "start_time": 2917.735,
+      "end_time": 2920.829,
+      "duration": 3.094000000000051,
+      "dialogue_text": "The door to your world is at the top of that tower."
+    },
+    {
+      "subtitle_index": 526,
+      "start_time": 2920.938,
+      "end_time": 2923.065,
+      "duration": 2.1269999999999527,
+      "dialogue_text": "You've got to be kidding me?"
+    },
+    {
+      "subtitle_index": 527,
+      "start_time": 2923.14,
+      "end_time": 2926.837,
+      "duration": 3.6970000000001164,
+      "dialogue_text": "And the only way to get to the tower is through the king's maze."
+    },
+    {
+      "subtitle_index": 528,
+      "start_time": 2926.944,
+      "end_time": 2928.844,
+      "duration": 1.900000000000091,
+      "dialogue_text": "Naturally."
+    },
+    {
+      "subtitle_index": 529,
+      "start_time": 2928.946,
+      "end_time": 2932.746,
+      "duration": 3.800000000000182,
+      "dialogue_text": "Good luck. And, Baron, take good care of Haru."
+    },
+    {
+      "subtitle_index": 530,
+      "start_time": 2932.816,
+      "end_time": 2934.613,
+      "duration": 1.7970000000000255,
+      "dialogue_text": "Hey, wait."
+    },
+    {
+      "subtitle_index": 531,
+      "start_time": 2934.685,
+      "end_time": 2938.212,
+      "duration": 3.5270000000000437,
+      "dialogue_text": "She's already gone. I didn't have a chance to thank her."
+    },
+    {
+      "subtitle_index": 532,
+      "start_time": 2938.322,
+      "end_time": 2941.018,
+      "duration": 2.6959999999999127,
+      "dialogue_text": "Haru, does her voice sound familiar to you?"
+    },
+    {
+      "subtitle_index": 533,
+      "start_time": 2941.125,
+      "end_time": 2945.118,
+      "duration": 3.992999999999938,
+      "dialogue_text": "Is it possible that she told you to seek help at the Cat Bureau?"
+    },
+    {
+      "subtitle_index": 534,
+      "start_time": 2945.195,
+      "end_time": 2949.928,
+      "duration": 4.73299999999972,
+      "dialogue_text": "Haru, go to the Cat Bureau. You must find the Cat Bureau."
+    },
+    {
+      "subtitle_index": 535,
+      "start_time": 2950.0,
+      "end_time": 2952.696,
+      "duration": 2.6959999999999127,
+      "dialogue_text": "You're right. That was her voice."
+    },
+    {
+      "subtitle_index": 536,
+      "start_time": 2952.77,
+      "end_time": 2955.204,
+      "duration": 2.4340000000001965,
+      "dialogue_text": "But why help me?"
+    },
+    {
+      "subtitle_index": 537,
+      "start_time": 2960.31,
+      "end_time": 2961.641,
+      "duration": 1.331000000000131,
+      "dialogue_text": "Ah! Ah! Ah!"
+    },
+    {
+      "subtitle_index": 538,
+      "start_time": 2966.383,
+      "end_time": 2969.91,
+      "duration": 3.5270000000000437,
+      "dialogue_text": "Whose idea was it to leave without me? I nearly got killed."
+    },
+    {
+      "subtitle_index": 539,
+      "start_time": 2970.02,
+      "end_time": 2972.648,
+      "duration": 2.6280000000001564,
+      "dialogue_text": "This is no time for finger pointing."
+    },
+    {
+      "subtitle_index": 540,
+      "start_time": 2974.892,
+      "end_time": 2976.985,
+      "duration": 2.093000000000302,
+      "dialogue_text": "You're leaving me again?"
+    },
+    {
+      "subtitle_index": 541,
+      "start_time": 2981.698,
+      "end_time": 2985.031,
+      "duration": 3.3330000000000837,
+      "dialogue_text": "- Are they going in? - Yes, they've just begun."
+    },
+    {
+      "subtitle_index": 542,
+      "start_time": 2985.135,
+      "end_time": 2986.568,
+      "duration": 1.4329999999999927,
+      "dialogue_text": "Purr-fect."
+    },
+    {
+      "subtitle_index": 543,
+      "start_time": 2986.67,
+      "end_time": 2989.366,
+      "duration": 2.6959999999999127,
+      "dialogue_text": "No one's ever come out alive, have they?"
+    },
+    {
+      "subtitle_index": 544,
+      "start_time": 2989.44,
+      "end_time": 2992.375,
+      "duration": 2.9349999999999454,
+      "dialogue_text": "We can watch them go nuts from over here."
+    },
+    {
+      "subtitle_index": 545,
+      "start_time": 2995.913,
+      "end_time": 2998.905,
+      "duration": 2.992000000000189,
+      "dialogue_text": "- Hurry, we don't have much time. - It's still noon."
+    },
+    {
+      "subtitle_index": 546,
+      "start_time": 2999.016,
+      "end_time": 3003.282,
+      "duration": 4.266000000000076,
+      "dialogue_text": "- It's always noon here. - What do you mean?"
+    },
+    {
+      "subtitle_index": 547,
+      "start_time": 3003.387,
+      "end_time": 3008.586,
+      "duration": 5.198999999999614,
+      "dialogue_text": "- At home, it's already after midnight. - What? We've got to go faster."
+    },
+    {
+      "subtitle_index": 548,
+      "start_time": 3010.894,
+      "end_time": 3012.088,
+      "duration": 1.1940000000004147,
+      "dialogue_text": "Where do we go?"
+    },
+    {
+      "subtitle_index": 549,
+      "start_time": 3014.731,
+      "end_time": 3016.198,
+      "duration": 1.4669999999996435,
+      "dialogue_text": "They're lost already?"
+    },
+    {
+      "subtitle_index": 550,
+      "start_time": 3016.266,
+      "end_time": 3019.235,
+      "duration": 2.969000000000051,
+      "dialogue_text": "They're doing worse than most of our victims."
+    },
+    {
+      "subtitle_index": 551,
+      "start_time": 3019.57,
+      "end_time": 3020.901,
+      "duration": 1.3309999999996762,
+      "dialogue_text": "Pleased, Your Majesty?"
+    },
+    {
+      "subtitle_index": 552,
+      "start_time": 3021.972,
+      "end_time": 3024.031,
+      "duration": 2.0589999999997417,
+      "dialogue_text": "Feeling good, babe."
+    },
+    {
+      "subtitle_index": 553,
+      "start_time": 3024.107,
+      "end_time": 3026.337,
+      "duration": 2.230000000000018,
+      "dialogue_text": "- Where are the guards? - Right there."
+    },
+    {
+      "subtitle_index": 554,
+      "start_time": 3026.41,
+      "end_time": 3028.469,
+      "duration": 2.0590000000001965,
+      "dialogue_text": "Hut, hut, hut, hut..."
+    },
+    {
+      "subtitle_index": 555,
+      "start_time": 3029.279,
+      "end_time": 3033.215,
+      "duration": 3.936000000000149,
+      "dialogue_text": "Let's start with this path. If we're methodical, we'll find our way."
+    },
+    {
+      "subtitle_index": 556,
+      "start_time": 3033.283,
+      "end_time": 3036.844,
+      "duration": 3.561000000000149,
+      "dialogue_text": "Keep your eye on the tower. That will allow us to stay oriented."
+    },
+    {
+      "subtitle_index": 557,
+      "start_time": 3036.92,
+      "end_time": 3038.751,
+      "duration": 1.831000000000131,
+      "dialogue_text": "Good idea."
+    },
+    {
+      "subtitle_index": 558,
+      "start_time": 3038.856,
+      "end_time": 3040.346,
+      "duration": 1.4899999999997817,
+      "dialogue_text": "Muta, you're cheating."
+    },
+    {
+      "subtitle_index": 559,
+      "start_time": 3040.424,
+      "end_time": 3043.393,
+      "duration": 2.969000000000051,
+      "dialogue_text": "Gimme a break. You think I'll get in trouble?"
+    },
+    {
+      "subtitle_index": 560,
+      "start_time": 3044.728,
+      "end_time": 3046.696,
+      "duration": 1.9679999999998472,
+      "dialogue_text": "He's cheating."
+    },
+    {
+      "subtitle_index": 561,
+      "start_time": 3046.763,
+      "end_time": 3049.63,
+      "duration": 2.867000000000189,
+      "dialogue_text": "She's gonna rub this in my face, isn't she?"
+    },
+    {
+      "subtitle_index": 562,
+      "start_time": 3051.702,
+      "end_time": 3054.671,
+      "duration": 2.968999999999596,
+      "dialogue_text": "Let's get out of here while Muta keeps them occupied."
+    },
+    {
+      "subtitle_index": 563,
+      "start_time": 3054.805,
+      "end_time": 3057.399,
+      "duration": 2.594000000000051,
+      "dialogue_text": "Again, I'm tricked into being bait."
+    },
+    {
+      "subtitle_index": 564,
+      "start_time": 3071.421,
+      "end_time": 3073.514,
+      "duration": 2.093000000000302,
+      "dialogue_text": "Stay behind me, Haru."
+    },
+    {
+      "subtitle_index": 565,
+      "start_time": 3088.605,
+      "end_time": 3090.163,
+      "duration": 1.5579999999999927,
+      "dialogue_text": "Wow!"
+    },
+    {
+      "subtitle_index": 566,
+      "start_time": 3090.274,
+      "end_time": 3092.003,
+      "duration": 1.7290000000002692,
+      "dialogue_text": "Oh, how's your cane?"
+    },
+    {
+      "subtitle_index": 567,
+      "start_time": 3092.075,
+      "end_time": 3095.511,
+      "duration": 3.436000000000149,
+      "dialogue_text": "Bent, but it's about time for a new one anyway."
+    },
+    {
+      "subtitle_index": 568,
+      "start_time": 3095.579,
+      "end_time": 3097.638,
+      "duration": 2.0589999999997417,
+      "dialogue_text": "I never knew they were so useful."
+    },
+    {
+      "subtitle_index": 569,
+      "start_time": 3105.088,
+      "end_time": 3107.181,
+      "duration": 2.092999999999847,
+      "dialogue_text": "Nice shot, sire."
+    },
+    {
+      "subtitle_index": 570,
+      "start_time": 3111.995,
+      "end_time": 3114.395,
+      "duration": 2.400000000000091,
+      "dialogue_text": "- Oh no, you hit one of ours. - I did?"
+    },
+    {
+      "subtitle_index": 571,
+      "start_time": 3114.464,
+      "end_time": 3118.594,
+      "duration": 4.130000000000109,
+      "dialogue_text": "- Your Majesty, how could you? - Let's keep that between us."
+    },
+    {
+      "subtitle_index": 572,
+      "start_time": 3118.669,
+      "end_time": 3122.264,
+      "duration": 3.5950000000002547,
+      "dialogue_text": "Excuse me, but I think there's a bit of a problem."
+    },
+    {
+      "subtitle_index": 573,
+      "start_time": 3122.406,
+      "end_time": 3126.137,
+      "duration": 3.731000000000222,
+      "dialogue_text": "- Our guards are scattered. - Don't tell me they're lost, too?"
+    },
+    {
+      "subtitle_index": 574,
+      "start_time": 3126.343,
+      "end_time": 3128.436,
+      "duration": 2.093000000000302,
+      "dialogue_text": "Where's my princess?"
+    },
+    {
+      "subtitle_index": 575,
+      "start_time": 3128.779,
+      "end_time": 3131.475,
+      "duration": 2.6959999999999127,
+      "dialogue_text": "She's already halfway through."
+    },
+    {
+      "subtitle_index": 576,
+      "start_time": 3133.517,
+      "end_time": 3135.417,
+      "duration": 1.900000000000091,
+      "dialogue_text": "- Hey! - You found us."
+    },
+    {
+      "subtitle_index": 577,
+      "start_time": 3135.485,
+      "end_time": 3138.648,
+      "duration": 3.163000000000011,
+      "dialogue_text": "- What's that way like? - Just dead ends."
+    },
+    {
+      "subtitle_index": 578,
+      "start_time": 3155.339,
+      "end_time": 3157.466,
+      "duration": 2.1269999999999527,
+      "dialogue_text": "Now this is more like it, babe."
+    },
+    {
+      "subtitle_index": 579,
+      "start_time": 3159.209,
+      "end_time": 3163.111,
+      "duration": 3.9020000000000437,
+      "dialogue_text": "Hm, another dead end. My, my, this is getting interesting."
+    },
+    {
+      "subtitle_index": 580,
+      "start_time": 3164.147,
+      "end_time": 3166.513,
+      "duration": 2.3659999999999854,
+      "dialogue_text": "Two rights and a left..."
+    },
+    {
+      "subtitle_index": 581,
+      "start_time": 3166.617,
+      "end_time": 3169.415,
+      "duration": 2.7979999999997744,
+      "dialogue_text": "Wait a minute, I know there wasn't a wall here."
+    },
+    {
+      "subtitle_index": 582,
+      "start_time": 3169.486,
+      "end_time": 3173.65,
+      "duration": 4.164000000000215,
+      "dialogue_text": "- Your brain's overheating. - We just walked through here, Muta."
+    },
+    {
+      "subtitle_index": 583,
+      "start_time": 3173.757,
+      "end_time": 3176.487,
+      "duration": 2.730000000000018,
+      "dialogue_text": "What, walls have legs?"
+    },
+    {
+      "subtitle_index": 584,
+      "start_time": 3180.731,
+      "end_time": 3183.495,
+      "duration": 2.763999999999669,
+      "dialogue_text": "She's right, Muta. This wall is fake."
+    },
+    {
+      "subtitle_index": 585,
+      "start_time": 3194.978,
+      "end_time": 3197.037,
+      "duration": 2.0589999999997417,
+      "dialogue_text": "- Told you. - Good work, Haru."
+    },
+    {
+      "subtitle_index": 586,
+      "start_time": 3197.114,
+      "end_time": 3199.014,
+      "duration": 1.900000000000091,
+      "dialogue_text": "All right, fine, good work."
+    },
+    {
+      "subtitle_index": 587,
+      "start_time": 3200.384,
+      "end_time": 3204.65,
+      "duration": 4.266000000000076,
+      "dialogue_text": "How stupid do you have to be to line up like dominoes?"
+    },
+    {
+      "subtitle_index": 588,
+      "start_time": 3208.258,
+      "end_time": 3212.388,
+      "duration": 4.130000000000109,
+      "dialogue_text": "- Princess! - Wait. It's not safe, Your Majesty."
+    },
+    {
+      "subtitle_index": 589,
+      "start_time": 3220.404,
+      "end_time": 3222.634,
+      "duration": 2.230000000000018,
+      "dialogue_text": "Go ahead. I'll catch up to you."
+    },
+    {
+      "subtitle_index": 590,
+      "start_time": 3224.608,
+      "end_time": 3226.701,
+      "duration": 2.092999999999847,
+      "dialogue_text": "Oh!"
+    },
+    {
+      "subtitle_index": 591,
+      "start_time": 3227.544,
+      "end_time": 3228.772,
+      "duration": 1.2280000000000655,
+      "dialogue_text": "What a show-off."
+    },
+    {
+      "subtitle_index": 592,
+      "start_time": 3230.414,
+      "end_time": 3232.348,
+      "duration": 1.9339999999997417,
+      "dialogue_text": "- I can walk. - Don't worry."
+    },
+    {
+      "subtitle_index": 593,
+      "start_time": 3247.497,
+      "end_time": 3249.59,
+      "duration": 2.093000000000302,
+      "dialogue_text": "Hmm?"
+    },
+    {
+      "subtitle_index": 594,
+      "start_time": 3251.635,
+      "end_time": 3253.967,
+      "duration": 2.33199999999988,
+      "dialogue_text": "Your Majesty! This is very dangerous."
+    },
+    {
+      "subtitle_index": 595,
+      "start_time": 3254.037,
+      "end_time": 3255.504,
+      "duration": 1.4670000000000982,
+      "dialogue_text": "I can't let them escape."
+    },
+    {
+      "subtitle_index": 596,
+      "start_time": 3255.939,
+      "end_time": 3260.774,
+      "duration": 4.835000000000036,
+      "dialogue_text": "You'll never reach them in time. Besides, we have guards in the tower."
+    },
+    {
+      "subtitle_index": 597,
+      "start_time": 3262.813,
+      "end_time": 3264.542,
+      "duration": 1.7289999999998145,
+      "dialogue_text": "Why didn't you say so?"
+    },
+    {
+      "subtitle_index": 598,
+      "start_time": 3271.588,
+      "end_time": 3273.954,
+      "duration": 2.3659999999999854,
+      "dialogue_text": "Toast."
+    },
+    {
+      "subtitle_index": 599,
+      "start_time": 3277.894,
+      "end_time": 3279.122,
+      "duration": 1.2280000000000655,
+      "dialogue_text": "Whoa!"
+    },
+    {
+      "subtitle_index": 600,
+      "start_time": 3285.736,
+      "end_time": 3290.196,
+      "duration": 4.460000000000036,
+      "dialogue_text": "- I'll have a word with the contractors. - It's too late for that."
+    },
+    {
+      "subtitle_index": 601,
+      "start_time": 3291.174,
+      "end_time": 3294.007,
+      "duration": 2.8330000000000837,
+      "dialogue_text": "We'll have to use the detonator."
+    },
+    {
+      "subtitle_index": 602,
+      "start_time": 3294.077,
+      "end_time": 3296.602,
+      "duration": 2.524999999999636,
+      "dialogue_text": "Not that, I beg of you, sire."
+    },
+    {
+      "subtitle_index": 603,
+      "start_time": 3296.713,
+      "end_time": 3299.511,
+      "duration": 2.7979999999997744,
+      "dialogue_text": "Think of what it will do to your approval ratings."
+    },
+    {
+      "subtitle_index": 604,
+      "start_time": 3299.649,
+      "end_time": 3302.584,
+      "duration": 2.9349999999999454,
+      "dialogue_text": "- Button. - I must have left it in the castle."
+    },
+    {
+      "subtitle_index": 605,
+      "start_time": 3302.652,
+      "end_time": 3303.812,
+      "duration": 1.1599999999998545,
+      "dialogue_text": "Look what I found."
+    },
+    {
+      "subtitle_index": 606,
+      "start_time": 3303.92,
+      "end_time": 3305.979,
+      "duration": 2.0589999999997417,
+      "dialogue_text": "No! Oh! No!"
+    },
+    {
+      "subtitle_index": 607,
+      "start_time": 3308.058,
+      "end_time": 3310.822,
+      "duration": 2.7640000000001237,
+      "dialogue_text": "Hey, we made it to the top."
+    },
+    {
+      "subtitle_index": 608,
+      "start_time": 3310.894,
+      "end_time": 3312.987,
+      "duration": 2.093000000000302,
+      "dialogue_text": "Not much further now."
+    },
+    {
+      "subtitle_index": 609,
+      "start_time": 3314.798,
+      "end_time": 3316.857,
+      "duration": 2.0590000000001965,
+      "dialogue_text": "Bye-bye, tower."
+    },
+    {
+      "subtitle_index": 610,
+      "start_time": 3322.172,
+      "end_time": 3324.037,
+      "duration": 1.8649999999997817,
+      "dialogue_text": "- Baron! - Brace yourselves."
+    },
+    {
+      "subtitle_index": 611,
+      "start_time": 3340.557,
+      "end_time": 3343.321,
+      "duration": 2.7640000000001237,
+      "dialogue_text": "Excellent explosion, Your Majesty."
+    },
+    {
+      "subtitle_index": 612,
+      "start_time": 3343.927,
+      "end_time": 3345.986,
+      "duration": 2.0589999999997417,
+      "dialogue_text": "Let's go."
+    },
+    {
+      "subtitle_index": 613,
+      "start_time": 3348.665,
+      "end_time": 3351.759,
+      "duration": 3.094000000000051,
+      "dialogue_text": "You've got to be kidding. We're back where we started."
+    },
+    {
+      "subtitle_index": 614,
+      "start_time": 3351.868,
+      "end_time": 3354.632,
+      "duration": 2.7640000000001237,
+      "dialogue_text": "Now what do we do? Just stand here?"
+    },
+    {
+      "subtitle_index": 615,
+      "start_time": 3354.704,
+      "end_time": 3356.194,
+      "duration": 1.4899999999997817,
+      "dialogue_text": "Nothing else we can do."
+    },
+    {
+      "subtitle_index": 616,
+      "start_time": 3356.373,
+      "end_time": 3358.739,
+      "duration": 2.3659999999999854,
+      "dialogue_text": "Hut, hut, hut, hut..."
+    },
+    {
+      "subtitle_index": 617,
+      "start_time": 3358.842,
+      "end_time": 3361.106,
+      "duration": 2.2640000000001237,
+      "dialogue_text": "Quick, quick! Get 'em! Get 'em!"
+    },
+    {
+      "subtitle_index": 618,
+      "start_time": 3362.879,
+      "end_time": 3366.212,
+      "duration": 3.3330000000000837,
+      "dialogue_text": "Baron, nice to see you again."
+    },
+    {
+      "subtitle_index": 619,
+      "start_time": 3366.283,
+      "end_time": 3369.741,
+      "duration": 3.4580000000000837,
+      "dialogue_text": "Princess, would you please accompany me back to the castle?"
+    },
+    {
+      "subtitle_index": 620,
+      "start_time": 3371.421,
+      "end_time": 3373.514,
+      "duration": 2.093000000000302,
+      "dialogue_text": "Being a cat's not so bad."
+    },
+    {
+      "subtitle_index": 621,
+      "start_time": 3373.59,
+      "end_time": 3376.491,
+      "duration": 2.90099999999984,
+      "dialogue_text": "Do I have to learn to eat mice?"
+    },
+    {
+      "subtitle_index": 622,
+      "start_time": 3376.56,
+      "end_time": 3379.256,
+      "duration": 2.6959999999999127,
+      "dialogue_text": "Perhaps you shouldn't give up quite yet, Haru."
+    },
+    {
+      "subtitle_index": 623,
+      "start_time": 3395.712,
+      "end_time": 3398.681,
+      "duration": 2.969000000000051,
+      "dialogue_text": "What in the world has Father done now?"
+    },
+    {
+      "subtitle_index": 624,
+      "start_time": 3398.748,
+      "end_time": 3400.841,
+      "duration": 2.092999999999847,
+      "dialogue_text": "Father!"
+    },
+    {
+      "subtitle_index": 625,
+      "start_time": 3401.751,
+      "end_time": 3404.914,
+      "duration": 3.163000000000011,
+      "dialogue_text": "Lune? You're back already?"
+    },
+    {
+      "subtitle_index": 626,
+      "start_time": 3405.622,
+      "end_time": 3407.886,
+      "duration": 2.2640000000001237,
+      "dialogue_text": "The prince is here. Line up!"
+    },
+    {
+      "subtitle_index": 627,
+      "start_time": 3407.958,
+      "end_time": 3409.653,
+      "duration": 1.694999999999709,
+      "dialogue_text": "It's the prince?"
+    },
+    {
+      "subtitle_index": 628,
+      "start_time": 3415.298,
+      "end_time": 3418.199,
+      "duration": 2.9010000000002947,
+      "dialogue_text": "Yuki sent a message saying it was urgent I return."
+    },
+    {
+      "subtitle_index": 629,
+      "start_time": 3418.268,
+      "end_time": 3420.896,
+      "duration": 2.6280000000001564,
+      "dialogue_text": "Perhaps you'd like to tell me what's going on?"
+    },
+    {
+      "subtitle_index": 630,
+      "start_time": 3421.404,
+      "end_time": 3423.702,
+      "duration": 2.298000000000229,
+      "dialogue_text": "Miss Haru!"
+    },
+    {
+      "subtitle_index": 631,
+      "start_time": 3423.773,
+      "end_time": 3426.606,
+      "duration": 2.8330000000000837,
+      "dialogue_text": "- Yuki, you're here. - I'm glad Lune made it in time."
+    },
+    {
+      "subtitle_index": 632,
+      "start_time": 3426.676,
+      "end_time": 3429.338,
+      "duration": 2.662000000000262,
+      "dialogue_text": "I just wanted to repay the girl who rescued you."
+    },
+    {
+      "subtitle_index": 633,
+      "start_time": 3429.412,
+      "end_time": 3432.245,
+      "duration": 2.8330000000000837,
+      "dialogue_text": "And I thought, just maybe, you would be happy"
+    },
+    {
+      "subtitle_index": 634,
+      "start_time": 3432.315,
+      "end_time": 3435.944,
+      "duration": 3.6289999999999054,
+      "dialogue_text": "to have a good-looking girl like Haru for a bride."
+    },
+    {
+      "subtitle_index": 635,
+      "start_time": 3436.052,
+      "end_time": 3440.318,
+      "duration": 4.266000000000076,
+      "dialogue_text": "I have already chosen my bride. I have decided to marry Yuki."
+    },
+    {
+      "subtitle_index": 636,
+      "start_time": 3442.859,
+      "end_time": 3444.52,
+      "duration": 1.6610000000000582,
+      "dialogue_text": "That thing?"
+    },
+    {
+      "subtitle_index": 637,
+      "start_time": 3444.628,
+      "end_time": 3447.791,
+      "duration": 3.163000000000011,
+      "dialogue_text": "- Guess it was a surprise. - I like this prince."
+    },
+    {
+      "subtitle_index": 638,
+      "start_time": 3453.103,
+      "end_time": 3457.335,
+      "duration": 4.231999999999971,
+      "dialogue_text": "This is for you. I traveled to your old home to get these."
+    },
+    {
+      "subtitle_index": 639,
+      "start_time": 3463.613,
+      "end_time": 3466.343,
+      "duration": 2.730000000000018,
+      "dialogue_text": "I haven't had these in years."
+    },
+    {
+      "subtitle_index": 640,
+      "start_time": 3466.449,
+      "end_time": 3469.907,
+      "duration": 3.4580000000000837,
+      "dialogue_text": "Wow. I used to love those when I was a kid."
+    },
+    {
+      "subtitle_index": 641,
+      "start_time": 3470.053,
+      "end_time": 3475.889,
+      "duration": 5.83600000000024,
+      "dialogue_text": "I know. You fed me a whole box of these when I was just a stray."
+    },
+    {
+      "subtitle_index": 642,
+      "start_time": 3475.959,
+      "end_time": 3478.519,
+      "duration": 2.5599999999999454,
+      "dialogue_text": "That filthy little kitten was you?"
+    },
+    {
+      "subtitle_index": 643,
+      "start_time": 3478.628,
+      "end_time": 3482.064,
+      "duration": 3.4359999999996944,
+      "dialogue_text": "You're so beautiful now, I never would have recognized you."
+    },
+    {
+      "subtitle_index": 644,
+      "start_time": 3482.198,
+      "end_time": 3486.567,
+      "duration": 4.369000000000142,
+      "dialogue_text": "Yuki, will you accept these crackers as a symbol of my love for you"
+    },
+    {
+      "subtitle_index": 645,
+      "start_time": 3486.636,
+      "end_time": 3488.934,
+      "duration": 2.298000000000229,
+      "dialogue_text": "for as long as our nine lives shall last?"
+    },
+    {
+      "subtitle_index": 646,
+      "start_time": 3490.874,
+      "end_time": 3493.274,
+      "duration": 2.400000000000091,
+      "dialogue_text": "So these crackers mean that"
+    },
+    {
+      "subtitle_index": 647,
+      "start_time": 3493.343,
+      "end_time": 3496.073,
+      "duration": 2.730000000000018,
+      "dialogue_text": "you can marry the prince instead of me!"
+    },
+    {
+      "subtitle_index": 648,
+      "start_time": 3497.981,
+      "end_time": 3501.075,
+      "duration": 3.093999999999596,
+      "dialogue_text": "I'm so happy for you."
+    },
+    {
+      "subtitle_index": 649,
+      "start_time": 3501.151,
+      "end_time": 3503.016,
+      "duration": 1.8650000000002365,
+      "dialogue_text": "Thank you, Haru."
+    },
+    {
+      "subtitle_index": 650,
+      "start_time": 3503.086,
+      "end_time": 3505.646,
+      "duration": 2.5600000000004,
+      "dialogue_text": "Thank you for feeding me when I was a kitten."
+    },
+    {
+      "subtitle_index": 651,
+      "start_time": 3505.722,
+      "end_time": 3508.088,
+      "duration": 2.3659999999999854,
+      "dialogue_text": "Without you I might not be alive today."
+    },
+    {
+      "subtitle_index": 652,
+      "start_time": 3508.191,
+      "end_time": 3511.627,
+      "duration": 3.436000000000149,
+      "dialogue_text": "You're the girl with the fish crackers Yuki told me about."
+    },
+    {
+      "subtitle_index": 653,
+      "start_time": 3511.695,
+      "end_time": 3515.222,
+      "duration": 3.5270000000000437,
+      "dialogue_text": "And you also rescued me when I nearly got killed by a truck."
+    },
+    {
+      "subtitle_index": 654,
+      "start_time": 3515.332,
+      "end_time": 3519.53,
+      "duration": 4.19800000000032,
+      "dialogue_text": "We both owe you our lives, Haru. What can we do to repay you?"
+    },
+    {
+      "subtitle_index": 655,
+      "start_time": 3519.602,
+      "end_time": 3523.561,
+      "duration": 3.9590000000002874,
+      "dialogue_text": "You don't have to repay me. I'm just glad things turned out so well."
+    },
+    {
+      "subtitle_index": 656,
+      "start_time": 3523.64,
+      "end_time": 3526.268,
+      "duration": 2.6280000000001564,
+      "dialogue_text": "I guess I did the right thing after all."
+    },
+    {
+      "subtitle_index": 657,
+      "start_time": 3531.147,
+      "end_time": 3533.411,
+      "duration": 2.2640000000001237,
+      "dialogue_text": "This is all very moving."
+    },
+    {
+      "subtitle_index": 658,
+      "start_time": 3533.516,
+      "end_time": 3536.542,
+      "duration": 3.02599999999984,
+      "dialogue_text": "I had no idea you had a bride in mind already."
+    },
+    {
+      "subtitle_index": 659,
+      "start_time": 3536.619,
+      "end_time": 3539.281,
+      "duration": 2.661999999999807,
+      "dialogue_text": "You should've told me."
+    },
+    {
+      "subtitle_index": 660,
+      "start_time": 3539.356,
+      "end_time": 3542.553,
+      "duration": 3.1969999999996617,
+      "dialogue_text": "Poor Haru. You must feel like such a loser."
+    },
+    {
+      "subtitle_index": 661,
+      "start_time": 3542.659,
+      "end_time": 3544.923,
+      "duration": 2.263999999999669,
+      "dialogue_text": "- Not really. - I'm sure you do."
+    },
+    {
+      "subtitle_index": 662,
+      "start_time": 3544.995,
+      "end_time": 3548.522,
+      "duration": 3.5270000000000437,
+      "dialogue_text": "So, I have a great idea. You should marry me instead."
+    },
+    {
+      "subtitle_index": 663,
+      "start_time": 3549.466,
+      "end_time": 3555.029,
+      "duration": 5.563000000000102,
+      "dialogue_text": "I'll get you some fish, too, as a symbol of my undying love and all that."
+    },
+    {
+      "subtitle_index": 664,
+      "start_time": 3555.105,
+      "end_time": 3556.129,
+      "duration": 1.0239999999998872,
+      "dialogue_text": "So?"
+    },
+    {
+      "subtitle_index": 665,
+      "start_time": 3556.239,
+      "end_time": 3559.64,
+      "duration": 3.40099999999984,
+      "dialogue_text": "That's very generous, but I just want to be myself."
+    },
+    {
+      "subtitle_index": 666,
+      "start_time": 3559.709,
+      "end_time": 3562.61,
+      "duration": 2.9010000000002947,
+      "dialogue_text": "I'll change you back if you marry me."
+    },
+    {
+      "subtitle_index": 667,
+      "start_time": 3562.712,
+      "end_time": 3563.736,
+      "duration": 1.0239999999998872,
+      "dialogue_text": "Hm?"
+    },
+    {
+      "subtitle_index": 668,
+      "start_time": 3563.847,
+      "end_time": 3566.247,
+      "duration": 2.399999999999636,
+      "dialogue_text": "I've had just about enough of you."
+    },
+    {
+      "subtitle_index": 669,
+      "start_time": 3568.418,
+      "end_time": 3573.378,
+      "duration": 4.960000000000036,
+      "dialogue_text": "Nobody who decided who I am but me, and there's no way I'd ever marry you."
+    },
+    {
+      "subtitle_index": 670,
+      "start_time": 3576.559,
+      "end_time": 3577.753,
+      "duration": 1.19399999999996,
+      "dialogue_text": "Was that a no?"
+    },
+    {
+      "subtitle_index": 671,
+      "start_time": 3580.296,
+      "end_time": 3583.288,
+      "duration": 2.992000000000189,
+      "dialogue_text": "So you're not ready to get hitched then, huh, kid?"
+    },
+    {
+      "subtitle_index": 672,
+      "start_time": 3584.934,
+      "end_time": 3585.958,
+      "duration": 1.0239999999998872,
+      "dialogue_text": "Not a chance."
+    },
+    {
+      "subtitle_index": 673,
+      "start_time": 3586.069,
+      "end_time": 3589.061,
+      "duration": 2.992000000000189,
+      "dialogue_text": "I respect a woman who stands up for herself."
+    },
+    {
+      "subtitle_index": 674,
+      "start_time": 3589.172,
+      "end_time": 3592.63,
+      "duration": 3.4580000000000837,
+      "dialogue_text": "Even if she does stick her nose in other people's business."
+    },
+    {
+      "subtitle_index": 675,
+      "start_time": 3592.742,
+      "end_time": 3595.506,
+      "duration": 2.763999999999669,
+      "dialogue_text": "So I, Renaldo Moon, will defend her."
+    },
+    {
+      "subtitle_index": 676,
+      "start_time": 3595.578,
+      "end_time": 3598.046,
+      "duration": 2.467999999999847,
+      "dialogue_text": "- Renaldo? - Renaldo Moon?"
+    },
+    {
+      "subtitle_index": 677,
+      "start_time": 3598.114,
+      "end_time": 3601.606,
+      "duration": 3.492000000000189,
+      "dialogue_text": "- The Renaldo Moon? - So that's who he is."
+    },
+    {
+      "subtitle_index": 678,
+      "start_time": 3601.684,
+      "end_time": 3603.914,
+      "duration": 2.230000000000018,
+      "dialogue_text": "- Who? - How could you have forgotten?"
+    },
+    {
+      "subtitle_index": 679,
+      "start_time": 3603.987,
+      "end_time": 3608.287,
+      "duration": 4.299999999999727,
+      "dialogue_text": "He's such a notorious criminal, his story is written on our walls."
+    },
+    {
+      "subtitle_index": 680,
+      "start_time": 3608.358,
+      "end_time": 3611.293,
+      "duration": 2.9349999999999454,
+      "dialogue_text": "Years back, an enormous white cat appeared,"
+    },
+    {
+      "subtitle_index": 681,
+      "start_time": 3611.394,
+      "end_time": 3614.42,
+      "duration": 3.0260000000002947,
+      "dialogue_text": "devoured all the fish in the lake and then ran off."
+    },
+    {
+      "subtitle_index": 682,
+      "start_time": 3614.497,
+      "end_time": 3618.228,
+      "duration": 3.731000000000222,
+      "dialogue_text": "He called himself Renaldo Moon."
+    },
+    {
+      "subtitle_index": 683,
+      "start_time": 3618.334,
+      "end_time": 3621.735,
+      "duration": 3.4010000000002947,
+      "dialogue_text": "Did you really do that, Muta? That's disgusting."
+    },
+    {
+      "subtitle_index": 684,
+      "start_time": 3621.805,
+      "end_time": 3624.638,
+      "duration": 2.8330000000000837,
+      "dialogue_text": "And this time I'll eat the entire castle."
+    },
+    {
+      "subtitle_index": 685,
+      "start_time": 3625.708,
+      "end_time": 3628.7,
+      "duration": 2.9919999999997344,
+      "dialogue_text": "Hurry! Get His Majesty to safety, now!"
+    },
+    {
+      "subtitle_index": 686,
+      "start_time": 3633.883,
+      "end_time": 3635.942,
+      "duration": 2.0590000000001965,
+      "dialogue_text": "Protect Haru from the king."
+    },
+    {
+      "subtitle_index": 687,
+      "start_time": 3636.319,
+      "end_time": 3639.117,
+      "duration": 2.798000000000229,
+      "dialogue_text": "Yes, sir. Cat guard, advance."
+    },
+    {
+      "subtitle_index": 688,
+      "start_time": 3641.257,
+      "end_time": 3643.623,
+      "duration": 2.3659999999999854,
+      "dialogue_text": "Oh, you traitor."
+    },
+    {
+      "subtitle_index": 689,
+      "start_time": 3643.726,
+      "end_time": 3645.717,
+      "duration": 1.9909999999999854,
+      "dialogue_text": "Please, sire, it's not safe."
+    },
+    {
+      "subtitle_index": 690,
+      "start_time": 3645.862,
+      "end_time": 3649.525,
+      "duration": 3.663000000000011,
+      "dialogue_text": "Take Miss Haru to the exit. I'll hold back the king as long as I can."
+    },
+    {
+      "subtitle_index": 691,
+      "start_time": 3649.666,
+      "end_time": 3651.133,
+      "duration": 1.4669999999996435,
+      "dialogue_text": "The tower collapsed."
+    },
+    {
+      "subtitle_index": 692,
+      "start_time": 3651.201,
+      "end_time": 3653.931,
+      "duration": 2.730000000000018,
+      "dialogue_text": "It's all right, the exit is still there."
+    },
+    {
+      "subtitle_index": 693,
+      "start_time": 3660.543,
+      "end_time": 3662.841,
+      "duration": 2.2979999999997744,
+      "dialogue_text": "- The sky. - Oh no, the sun's rising."
+    },
+    {
+      "subtitle_index": 694,
+      "start_time": 3662.912,
+      "end_time": 3665.005,
+      "duration": 2.093000000000302,
+      "dialogue_text": "I'll get her to the exit."
+    },
+    {
+      "subtitle_index": 695,
+      "start_time": 3670.453,
+      "end_time": 3672.58,
+      "duration": 2.1269999999999527,
+      "dialogue_text": "- Nice. - Run, Haru. Hurry."
+    },
+    {
+      "subtitle_index": 696,
+      "start_time": 3672.722,
+      "end_time": 3674.417,
+      "duration": 1.694999999999709,
+      "dialogue_text": "Good luck, and thank you."
+    },
+    {
+      "subtitle_index": 697,
+      "start_time": 3675.125,
+      "end_time": 3677.218,
+      "duration": 2.092999999999847,
+      "dialogue_text": "Mm-hm."
+    },
+    {
+      "subtitle_index": 698,
+      "start_time": 3681.264,
+      "end_time": 3683.63,
+      "duration": 2.3659999999999854,
+      "dialogue_text": "Goodbye, Yuki."
+    },
+    {
+      "subtitle_index": 699,
+      "start_time": 3683.7,
+      "end_time": 3685.964,
+      "duration": 2.2640000000001237,
+      "dialogue_text": "I wasn't wrong to save a cat."
+    },
+    {
+      "subtitle_index": 700,
+      "start_time": 3686.035,
+      "end_time": 3689.402,
+      "duration": 3.367000000000189,
+      "dialogue_text": "No matter what happens, I believe in my decision."
+    },
+    {
+      "subtitle_index": 701,
+      "start_time": 3689.506,
+      "end_time": 3690.973,
+      "duration": 1.4670000000000982,
+      "dialogue_text": "I believe."
+    },
+    {
+      "subtitle_index": 702,
+      "start_time": 3691.774,
+      "end_time": 3693.241,
+      "duration": 1.4670000000000982,
+      "dialogue_text": "I believe."
+    },
+    {
+      "subtitle_index": 703,
+      "start_time": 3697.647,
+      "end_time": 3699.74,
+      "duration": 2.092999999999847,
+      "dialogue_text": "- I'll hold them off. - Thanks, Muta."
+    },
+    {
+      "subtitle_index": 704,
+      "start_time": 3700.917,
+      "end_time": 3704.25,
+      "duration": 3.3330000000000837,
+      "dialogue_text": "- Where's the king? - Up there."
+    },
+    {
+      "subtitle_index": 705,
+      "start_time": 3704.354,
+      "end_time": 3706.686,
+      "duration": 2.3320000000003347,
+      "dialogue_text": "Father, you'll hurt yourself. Get down."
+    },
+    {
+      "subtitle_index": 706,
+      "start_time": 3706.956,
+      "end_time": 3710.653,
+      "duration": 3.6969999999996617,
+      "dialogue_text": "- Has he lost his mind? - I'll find a way to get him down."
+    },
+    {
+      "subtitle_index": 707,
+      "start_time": 3725.074,
+      "end_time": 3727.668,
+      "duration": 2.594000000000051,
+      "dialogue_text": "Fight like a cat, you chicken!"
+    },
+    {
+      "subtitle_index": 708,
+      "start_time": 3727.977,
+      "end_time": 3729.444,
+      "duration": 1.4670000000000982,
+      "dialogue_text": "With pleasure."
+    },
+    {
+      "subtitle_index": 709,
+      "start_time": 3729.546,
+      "end_time": 3731.912,
+      "duration": 2.3659999999999854,
+      "dialogue_text": "- Need help? - Take care of Haru."
+    },
+    {
+      "subtitle_index": 710,
+      "start_time": 3731.981,
+      "end_time": 3733.039,
+      "duration": 1.0579999999999927,
+      "dialogue_text": "You got it."
+    },
+    {
+      "subtitle_index": 711,
+      "start_time": 3779.696,
+      "end_time": 3781.755,
+      "duration": 2.0590000000001965,
+      "dialogue_text": "I win, King."
+    },
+    {
+      "subtitle_index": 712,
+      "start_time": 3782.532,
+      "end_time": 3784.966,
+      "duration": 2.4339999999997417,
+      "dialogue_text": "How embarrassing."
+    },
+    {
+      "subtitle_index": 713,
+      "start_time": 3795.078,
+      "end_time": 3798.343,
+      "duration": 3.2649999999998727,
+      "dialogue_text": "I heard rumors about a nosy cat figurine"
+    },
+    {
+      "subtitle_index": 714,
+      "start_time": 3798.414,
+      "end_time": 3800.974,
+      "duration": 2.5599999999999454,
+      "dialogue_text": "who likes to help others with their problems."
+    },
+    {
+      "subtitle_index": 715,
+      "start_time": 3801.084,
+      "end_time": 3805.18,
+      "duration": 4.096000000000004,
+      "dialogue_text": "I assumed you'd just be a kitschy knick-knack that collected dust."
+    },
+    {
+      "subtitle_index": 716,
+      "start_time": 3805.288,
+      "end_time": 3810.191,
+      "duration": 4.902999999999793,
+      "dialogue_text": "Had I known you were this good, I would have asked you to come and work for me."
+    },
+    {
+      "subtitle_index": 717,
+      "start_time": 3812.629,
+      "end_time": 3816.03,
+      "duration": 3.4010000000002947,
+      "dialogue_text": "I prefer a life of sticking my nose in other's problems."
+    },
+    {
+      "subtitle_index": 718,
+      "start_time": 3818.301,
+      "end_time": 3820.394,
+      "duration": 2.092999999999847,
+      "dialogue_text": "Where am I?"
+    },
+    {
+      "subtitle_index": 719,
+      "start_time": 3824.307,
+      "end_time": 3826.366,
+      "duration": 2.0590000000001965,
+      "dialogue_text": "What have you done?"
+    },
+    {
+      "subtitle_index": 720,
+      "start_time": 3828.144,
+      "end_time": 3830.476,
+      "duration": 2.3320000000003347,
+      "dialogue_text": "I didn't do anything."
+    },
+    {
+      "subtitle_index": 721,
+      "start_time": 3830.546,
+      "end_time": 3833.208,
+      "duration": 2.662000000000262,
+      "dialogue_text": "The tower is hundreds of feet shorter now."
+    },
+    {
+      "subtitle_index": 722,
+      "start_time": 3833.283,
+      "end_time": 3836.98,
+      "duration": 3.6970000000001164,
+      "dialogue_text": "I wouldn't be surprised if the exit had moved as well."
+    },
+    {
+      "subtitle_index": 723,
+      "start_time": 3843.793,
+      "end_time": 3846.853,
+      "duration": 3.0599999999999454,
+      "dialogue_text": "- Oh no, the exit moved! - We should have foreseen this."
+    },
+    {
+      "subtitle_index": 724,
+      "start_time": 3846.963,
+      "end_time": 3850.057,
+      "duration": 3.093999999999596,
+      "dialogue_text": "But, look, she's not a cat any more."
+    },
+    {
+      "subtitle_index": 725,
+      "start_time": 3858.641,
+      "end_time": 3860.04,
+      "duration": 1.3989999999998872,
+      "dialogue_text": "Help me!"
+    },
+    {
+      "subtitle_index": 726,
+      "start_time": 3860.71,
+      "end_time": 3862.803,
+      "duration": 2.092999999999847,
+      "dialogue_text": "I'm going to fall."
+    },
+    {
+      "subtitle_index": 727,
+      "start_time": 3864.48,
+      "end_time": 3866.573,
+      "duration": 2.092999999999847,
+      "dialogue_text": "I'm going!"
+    },
+    {
+      "subtitle_index": 728,
+      "start_time": 3866.883,
+      "end_time": 3868.748,
+      "duration": 1.8650000000002365,
+      "dialogue_text": "Haru!"
+    },
+    {
+      "subtitle_index": 729,
+      "start_time": 3877.026,
+      "end_time": 3880.018,
+      "duration": 2.992000000000189,
+      "dialogue_text": "Muta, I hope I'm not too heavy."
+    },
+    {
+      "subtitle_index": 730,
+      "start_time": 3880.096,
+      "end_time": 3884.863,
+      "duration": 4.766999999999825,
+      "dialogue_text": "From now on, you're not allowed to make..."
+    },
+    {
+      "subtitle_index": 731,
+      "start_time": 3884.934,
+      "end_time": 3888.062,
+      "duration": 3.1279999999997017,
+      "dialogue_text": "...any more fat jokes."
+    },
+    {
+      "subtitle_index": 732,
+      "start_time": 3899.215,
+      "end_time": 3901.274,
+      "duration": 2.0589999999997417,
+      "dialogue_text": "I'm sorry, Muta."
+    },
+    {
+      "subtitle_index": 733,
+      "start_time": 3904.654,
+      "end_time": 3906.679,
+      "duration": 2.025000000000091,
+      "dialogue_text": "Hold on!"
+    },
+    {
+      "subtitle_index": 734,
+      "start_time": 3911.294,
+      "end_time": 3913.524,
+      "duration": 2.230000000000018,
+      "dialogue_text": "I don't wanna die."
+    },
+    {
+      "subtitle_index": 735,
+      "start_time": 3913.596,
+      "end_time": 3916.258,
+      "duration": 2.661999999999807,
+      "dialogue_text": "You're not dead yet. Open your eyes."
+    },
+    {
+      "subtitle_index": 736,
+      "start_time": 3916.332,
+      "end_time": 3919.665,
+      "duration": 3.3330000000000837,
+      "dialogue_text": "- Baron? - Spread your arms and look down."
+    },
+    {
+      "subtitle_index": 737,
+      "start_time": 3919.736,
+      "end_time": 3922.398,
+      "duration": 2.662000000000262,
+      "dialogue_text": "I can't. I'm scared."
+    },
+    {
+      "subtitle_index": 738,
+      "start_time": 3922.472,
+      "end_time": 3924.702,
+      "duration": 2.230000000000018,
+      "dialogue_text": "Just trust me."
+    },
+    {
+      "subtitle_index": 739,
+      "start_time": 3935.885,
+      "end_time": 3940.379,
+      "duration": 4.493999999999687,
+      "dialogue_text": "- Are you sure we're still alive? - Yes. For now."
+    },
+    {
+      "subtitle_index": 740,
+      "start_time": 3952.068,
+      "end_time": 3954.559,
+      "duration": 2.4909999999999854,
+      "dialogue_text": "I think I could learn to like this."
+    },
+    {
+      "subtitle_index": 741,
+      "start_time": 3966.382,
+      "end_time": 3969.044,
+      "duration": 2.661999999999807,
+      "dialogue_text": "What are all these chickens doing here?"
+    },
+    {
+      "subtitle_index": 742,
+      "start_time": 3971.421,
+      "end_time": 3974.049,
+      "duration": 2.6280000000001564,
+      "dialogue_text": "- A flock of crows? - Perfect timing."
+    },
+    {
+      "subtitle_index": 743,
+      "start_time": 3980.73,
+      "end_time": 3984.996,
+      "duration": 4.266000000000076,
+      "dialogue_text": "So, Muta, how does it feel to be saved by a bunch of birdbrains?"
+    },
+    {
+      "subtitle_index": 744,
+      "start_time": 3985.101,
+      "end_time": 3986.125,
+      "duration": 1.0239999999998872,
+      "dialogue_text": "Toto!"
+    },
+    {
+      "subtitle_index": 745,
+      "start_time": 3986.235,
+      "end_time": 3989.762,
+      "duration": 3.5270000000000437,
+      "dialogue_text": "- It sure took you long enough. - Nice work, Toto."
+    },
+    {
+      "subtitle_index": 746,
+      "start_time": 3989.839,
+      "end_time": 3993.297,
+      "duration": 3.4580000000000837,
+      "dialogue_text": "I'm just glad I had enough friends hanging out in the area."
+    },
+    {
+      "subtitle_index": 747,
+      "start_time": 3993.376,
+      "end_time": 3996.072,
+      "duration": 2.6959999999999127,
+      "dialogue_text": "Are you sure we're not too heavy?"
+    },
+    {
+      "subtitle_index": 748,
+      "start_time": 3996.145,
+      "end_time": 3998.841,
+      "duration": 2.6959999999999127,
+      "dialogue_text": "- You're light as a feather, Haru. - Thanks."
+    },
+    {
+      "subtitle_index": 749,
+      "start_time": 3998.948,
+      "end_time": 4000.711,
+      "duration": 1.76299999999992,
+      "dialogue_text": "I beg to differ."
+    },
+    {
+      "subtitle_index": 750,
+      "start_time": 4000.85,
+      "end_time": 4002.511,
+      "duration": 1.6610000000000582,
+      "dialogue_text": "Haru, look."
+    },
+    {
+      "subtitle_index": 751,
+      "start_time": 4003.419,
+      "end_time": 4005.546,
+      "duration": 2.1269999999999527,
+      "dialogue_text": "That's my school."
+    },
+    {
+      "subtitle_index": 752,
+      "start_time": 4005.655,
+      "end_time": 4008.886,
+      "duration": 3.230999999999767,
+      "dialogue_text": "I don't believe it. I'm gonna make it home."
+    },
+    {
+      "subtitle_index": 753,
+      "start_time": 4009.025,
+      "end_time": 4010.959,
+      "duration": 1.9339999999997417,
+      "dialogue_text": "Thank you, everyone."
+    },
+    {
+      "subtitle_index": 754,
+      "start_time": 4019.502,
+      "end_time": 4021.663,
+      "duration": 2.161000000000058,
+      "dialogue_text": "Unbelievable."
+    },
+    {
+      "subtitle_index": 755,
+      "start_time": 4021.771,
+      "end_time": 4023.568,
+      "duration": 1.7970000000000255,
+      "dialogue_text": "We won't forget you, Miss Haru."
+    },
+    {
+      "subtitle_index": 756,
+      "start_time": 4024.841,
+      "end_time": 4026.934,
+      "duration": 2.093000000000302,
+      "dialogue_text": "Your Majesty?"
+    },
+    {
+      "subtitle_index": 757,
+      "start_time": 4032.315,
+      "end_time": 4036.046,
+      "duration": 3.730999999999767,
+      "dialogue_text": "I've been thinking. It may be time for me to retire."
+    },
+    {
+      "subtitle_index": 758,
+      "start_time": 4036.953,
+      "end_time": 4039.888,
+      "duration": 2.9349999999999454,
+      "dialogue_text": "I think I shall accompany you, sire."
+    },
+    {
+      "subtitle_index": 759,
+      "start_time": 4049.398,
+      "end_time": 4051.059,
+      "duration": 1.6610000000000582,
+      "dialogue_text": "Thanks, Toto."
+    },
+    {
+      "subtitle_index": 760,
+      "start_time": 4052.668,
+      "end_time": 4056.035,
+      "duration": 3.3669999999997344,
+      "dialogue_text": "Oh boy, my heart is still pounding."
+    },
+    {
+      "subtitle_index": 761,
+      "start_time": 4056.105,
+      "end_time": 4059.506,
+      "duration": 3.40099999999984,
+      "dialogue_text": "- Scared, were you? - Yes. But I had fun, too."
+    },
+    {
+      "subtitle_index": 762,
+      "start_time": 4059.609,
+      "end_time": 4061.099,
+      "duration": 1.4900000000002365,
+      "dialogue_text": "Really? I didn't."
+    },
+    {
+      "subtitle_index": 763,
+      "start_time": 4061.177,
+      "end_time": 4064.943,
+      "duration": 3.7660000000000764,
+      "dialogue_text": "Well then, now that Haru's problem is solved,"
+    },
+    {
+      "subtitle_index": 764,
+      "start_time": 4065.047,
+      "end_time": 4068.505,
+      "duration": 3.4580000000000837,
+      "dialogue_text": "we should let her go home and get some rest."
+    },
+    {
+      "subtitle_index": 765,
+      "start_time": 4068.618,
+      "end_time": 4070.108,
+      "duration": 1.4900000000002365,
+      "dialogue_text": "Catnap."
+    },
+    {
+      "subtitle_index": 766,
+      "start_time": 4070.186,
+      "end_time": 4072.78,
+      "duration": 2.594000000000051,
+      "dialogue_text": "I guess this is goodbye?"
+    },
+    {
+      "subtitle_index": 767,
+      "start_time": 4072.855,
+      "end_time": 4074.948,
+      "duration": 2.092999999999847,
+      "dialogue_text": "One last chore to do."
+    },
+    {
+      "subtitle_index": 768,
+      "start_time": 4088.004,
+      "end_time": 4092.873,
+      "duration": 4.869000000000142,
+      "dialogue_text": "Baron, just for the record, I think I may have a little crush on you."
+    },
+    {
+      "subtitle_index": 769,
+      "start_time": 4092.975,
+      "end_time": 4097.173,
+      "duration": 4.197999999999865,
+      "dialogue_text": "Just for the record, I admire a young woman who speaks from the heart."
+    },
+    {
+      "subtitle_index": 770,
+      "start_time": 4100.349,
+      "end_time": 4104.877,
+      "duration": 4.528000000000247,
+      "dialogue_text": "If you ever need us, you will always know how to find us again."
+    },
+    {
+      "subtitle_index": 771,
+      "start_time": 4104.954,
+      "end_time": 4109.357,
+      "duration": 4.403000000000247,
+      "dialogue_text": "And the Bureau's doors will be open to you, be it day or night."
+    },
+    {
+      "subtitle_index": 772,
+      "start_time": 4109.425,
+      "end_time": 4112.223,
+      "duration": 2.7979999999997744,
+      "dialogue_text": "Until then, trust yourself."
+    },
+    {
+      "subtitle_index": 773,
+      "start_time": 4118.534,
+      "end_time": 4120.001,
+      "duration": 1.467000000000553,
+      "dialogue_text": "Goodbye."
+    },
+    {
+      "subtitle_index": 774,
+      "start_time": 4127.343,
+      "end_time": 4129.402,
+      "duration": 2.0590000000001965,
+      "dialogue_text": "I'll miss you!"
+    },
+    {
+      "subtitle_index": 775,
+      "start_time": 4130.313,
+      "end_time": 4131.371,
+      "duration": 1.0579999999999927,
+      "dialogue_text": "Toto."
+    },
+    {
+      "subtitle_index": 776,
+      "start_time": 4131.447,
+      "end_time": 4132.539,
+      "duration": 1.0919999999996435,
+      "dialogue_text": "Baron."
+    },
+    {
+      "subtitle_index": 777,
+      "start_time": 4132.615,
+      "end_time": 4134.708,
+      "duration": 2.092999999999847,
+      "dialogue_text": "And Fatso!"
+    },
+    {
+      "subtitle_index": 778,
+      "start_time": 4134.784,
+      "end_time": 4138.22,
+      "duration": 3.436000000000604,
+      "dialogue_text": "- Fatso? I heard that. - She's only telling the truth."
+    },
+    {
+      "subtitle_index": 779,
+      "start_time": 4138.287,
+      "end_time": 4139.686,
+      "duration": 1.3989999999994325,
+      "dialogue_text": "Shut up, birdbrain."
+    },
+    {
+      "subtitle_index": 780,
+      "start_time": 4139.755,
+      "end_time": 4142.986,
+      "duration": 3.230999999999767,
+      "dialogue_text": "Don't give me that again or I might drop you."
+    },
+    {
+      "subtitle_index": 781,
+      "start_time": 4143.092,
+      "end_time": 4144.719,
+      "duration": 1.6270000000004075,
+      "dialogue_text": "Shut up, you birdbrain."
+    },
+    {
+      "subtitle_index": 782,
+      "start_time": 4175.591,
+      "end_time": 4177.616,
+      "duration": 2.024999999999636,
+      "dialogue_text": "Oh! I've got to get up."
+    },
+    {
+      "subtitle_index": 783,
+      "start_time": 4185.501,
+      "end_time": 4186.991,
+      "duration": 1.4899999999997817,
+      "dialogue_text": "Morning."
+    },
+    {
+      "subtitle_index": 784,
+      "start_time": 4187.103,
+      "end_time": 4189.97,
+      "duration": 2.867000000000189,
+      "dialogue_text": "Haru? What are you doing up so early?"
+    },
+    {
+      "subtitle_index": 785,
+      "start_time": 4190.072,
+      "end_time": 4191.869,
+      "duration": 1.7969999999995707,
+      "dialogue_text": "It's not even a school day."
+    },
+    {
+      "subtitle_index": 786,
+      "start_time": 4191.974,
+      "end_time": 4195.102,
+      "duration": 3.1279999999997017,
+      "dialogue_text": "I'm going out with Hiromi. Don't want to waste the day."
+    },
+    {
+      "subtitle_index": 787,
+      "start_time": 4195.277,
+      "end_time": 4196.403,
+      "duration": 1.1260000000002037,
+      "dialogue_text": "Huh?"
+    },
+    {
+      "subtitle_index": 788,
+      "start_time": 4196.479,
+      "end_time": 4198.538,
+      "duration": 2.058999999999287,
+      "dialogue_text": "So..."
+    },
+    {
+      "subtitle_index": 789,
+      "start_time": 4199.015,
+      "end_time": 4201.074,
+      "duration": 2.058999999999287,
+      "dialogue_text": "I made some breakfast for both of us."
+    },
+    {
+      "subtitle_index": 790,
+      "start_time": 4201.283,
+      "end_time": 4203.649,
+      "duration": 2.3659999999999854,
+      "dialogue_text": "- What? - I'm done so help yourself."
+    },
+    {
+      "subtitle_index": 791,
+      "start_time": 4203.753,
+      "end_time": 4206.051,
+      "duration": 2.298000000000684,
+      "dialogue_text": "And I made some tea, too."
+    },
+    {
+      "subtitle_index": 792,
+      "start_time": 4206.122,
+      "end_time": 4208.181,
+      "duration": 2.058999999999287,
+      "dialogue_text": "Oh, by the way..."
+    },
+    {
+      "subtitle_index": 793,
+      "start_time": 4209.125,
+      "end_time": 4211.457,
+      "duration": 2.3320000000003347,
+      "dialogue_text": "...that's my own special blend of tea."
+    },
+    {
+      "subtitle_index": 794,
+      "start_time": 4211.527,
+      "end_time": 4215.293,
+      "duration": 3.7659999999996217,
+      "dialogue_text": "It's a bit different every time so I can't guarantee the flavor."
+    },
+    {
+      "subtitle_index": 795,
+      "start_time": 4217.366,
+      "end_time": 4219.459,
+      "duration": 2.092999999999847,
+      "dialogue_text": "Oh, okay."
+    },
+    {
+      "subtitle_index": 796,
+      "start_time": 4223.339,
+      "end_time": 4225.739,
+      "duration": 2.399999999999636,
+      "dialogue_text": "What do you know? Smells good."
+    },
+    {
+      "subtitle_index": 797,
+      "start_time": 4225.808,
+      "end_time": 4227.867,
+      "duration": 2.0590000000001965,
+      "dialogue_text": "That's a great outfit."
+    },
+    {
+      "subtitle_index": 798,
+      "start_time": 4228.344,
+      "end_time": 4231.177,
+      "duration": 2.832999999999629,
+      "dialogue_text": "I got some big news you'll be excited about."
+    },
+    {
+      "subtitle_index": 799,
+      "start_time": 4231.28,
+      "end_time": 4233.475,
+      "duration": 2.1950000000006185,
+      "dialogue_text": "Yeah? What is it?"
+    },
+    {
+      "subtitle_index": 800,
+      "start_time": 4233.549,
+      "end_time": 4237.041,
+      "duration": 3.492000000000189,
+      "dialogue_text": "Machida broke up with his girlfriend."
+    },
+    {
+      "subtitle_index": 801,
+      "start_time": 4241.123,
+      "end_time": 4244.752,
+      "duration": 3.629000000000815,
+      "dialogue_text": "- Oh, that's too bad. - What? Are you kidding?"
+    },
+    {
+      "subtitle_index": 802,
+      "start_time": 4244.86,
+      "end_time": 4248.057,
+      "duration": 3.1970000000001164,
+      "dialogue_text": "- What do you mean? - I thought you'd be ecstatic."
+    },
+    {
+      "subtitle_index": 803,
+      "start_time": 4248.164,
+      "end_time": 4251.361,
+      "duration": 3.1970000000001164,
+      "dialogue_text": "Not really. Doesn't matter any more."
+    },
+    {
+      "subtitle_index": 804,
+      "start_time": 4263.345,
+      "end_time": 4265.643,
+      "duration": 2.2979999999997744,
+      "dialogue_text": "- Hey, are you okay? - I'm fine."
+    },
+    {
+      "subtitle_index": 805,
+      "start_time": 4265.715,
+      "end_time": 4268.445,
+      "duration": 2.7299999999995634,
+      "dialogue_text": "- Liar. - I'm better than ever."
+    },
+    {
+      "subtitle_index": 806,
+      "start_time": 4269.618,
+      "end_time": 4273.054,
+      "duration": 3.4359999999996944,
+      "dialogue_text": "What's going on with you and Tsuge?"
+    },
+    {
+      "subtitle_index": 807,
+      "start_time": 4273.155,
+      "end_time": 4274.554,
+      "duration": 1.399000000000342,
+      "dialogue_text": "Nothing new."
+    },
+    {
+      "subtitle_index": 808,
+      "start_time": 4274.657,
+      "end_time": 4277.217,
+      "duration": 2.5599999999994907,
+      "dialogue_text": "- Come on. - Nothing's happening."
+    }
+  ]
+}

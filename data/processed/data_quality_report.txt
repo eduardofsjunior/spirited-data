@@ -1,0 +1,70 @@
+📊 Data Quality Validation Report
+Generated: 2025-11-13 15:51:59
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. RECORD COUNTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Table                |   Actual |   Expected | Status
+--------------------------------------------------------------------------------
+films                |       22 |         22 | ✓ PASS
+people               |       57 |        87+ | ⚠ WARN
+locations            |       25 |        13+ | ✓ PASS
+species              |        7 |        14+ | ⚠ WARN
+vehicles             |        3 |         8+ | ⚠ WARN
+kaggle_films         |       23 |        22+ | ✓ PASS
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2. COMPLETENESS CHECK
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Table                | Field      |  Completeness | Status
+--------------------------------------------------------------------------------
+films                | id         |        100.0% | ✓ PASS
+films                | title      |        100.0% | ✓ PASS
+people               | id         |        100.0% | ✓ PASS
+people               | name       |        100.0% | ✓ PASS
+locations            | id         |        100.0% | ✓ PASS
+locations            | name       |        100.0% | ✓ PASS
+species              | id         |        100.0% | ✓ PASS
+species              | name       |        100.0% | ✓ PASS
+vehicles             | id         |        100.0% | ✓ PASS
+vehicles             | name       |        100.0% | ✓ PASS
+kaggle_films         | name       |        100.0% | ✓ PASS
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3. DUPLICATE DETECTION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✓ No duplicate IDs or titles found
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+4. REFERENTIAL INTEGRITY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✓ All film references valid (0 orphaned references)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+5. KAGGLE-API CROSS-REFERENCE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Total matching films: 20
+  - Exact matches: 19
+  - Fuzzy matches: 1
+
+Films in Kaggle but not API:
+  - Ocean Waves
+       (1994)
+  - Nausicaä of the Valley of the Wind
+  - The Boy and the Heron
+
+Films in API but not Kaggle:
+  - The Red Turtle
+  - Earwig and the Witch
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SUMMARY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✓ All critical checks PASSED
+⚠ 3 warnings (non-critical)

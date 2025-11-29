@@ -1,0 +1,5878 @@
+{
+  "metadata": {
+    "film_name": "From Up On Poppy Hill",
+    "film_slug": "from_up_on_poppy_hill_es",
+    "language_code": "es",
+    "total_subtitles": 838,
+    "total_duration": 5440.849999999999,
+    "parse_timestamp": "2025-10-30T17:09:43.304911"
+  },
+  "subtitles": [
+    {
+      "subtitle_index": 1,
+      "start_time": 7.13,
+      "end_time": 10.47,
+      "duration": 3.3400000000000007,
+      "dialogue_text": "Studio Ghibli, Nippon Television Network, Dentsu, Hakuhodo DYMP, Walt Disney Japón, Mitsubishi y Toho presentan"
+    },
+    {
+      "subtitle_index": 2,
+      "start_time": 16.31,
+      "end_time": 20.14,
+      "duration": 3.830000000000002,
+      "dialogue_text": "Planning y Escenarios : Hayao Miyazaki Producido por Toshio Suzuki"
+    },
+    {
+      "subtitle_index": 3,
+      "start_time": 20.52,
+      "end_time": 24.31,
+      "duration": 3.789999999999999,
+      "dialogue_text": "Basado en la Novela Gráfica Original de Chizuru Takahashi & Tetsuro Sayama Escenarios: Keiko Niwa"
+    },
+    {
+      "subtitle_index": 4,
+      "start_time": 24.86,
+      "end_time": 28.57,
+      "duration": 3.710000000000001,
+      "dialogue_text": "Música: Satoshi Takebe"
+    },
+    {
+      "subtitle_index": 5,
+      "start_time": 35.45,
+      "end_time": 40.5,
+      "duration": 5.049999999999997,
+      "dialogue_text": "DESDE LA COLINA DE LAS AMAPOLAS"
+    },
+    {
+      "subtitle_index": 6,
+      "start_time": 42.33,
+      "end_time": 44.259,
+      "duration": 1.929000000000002,
+      "dialogue_text": "\"El Verano de las Despedidas\" Interpretada por Aoi Teshima"
+    },
+    {
+      "subtitle_index": 7,
+      "start_time": 44.26,
+      "end_time": 46.09,
+      "duration": 1.8300000000000054,
+      "dialogue_text": "\"Camino mirando al Cielo\" Interpretada por Kyu Sakamoto"
+    },
+    {
+      "subtitle_index": 8,
+      "start_time": 46.84,
+      "end_time": 50.67,
+      "duration": 3.8299999999999983,
+      "dialogue_text": "Diseño de Personajes: Katsuya Kondo Artes visuales: Atsushi Okui Diseño de Sonido: Koji Kasamatsu"
+    },
+    {
+      "subtitle_index": 9,
+      "start_time": 51.63,
+      "end_time": 56.35,
+      "duration": 4.719999999999999,
+      "dialogue_text": "Masami Nagasawa Junichi Okada"
+    },
+    {
+      "subtitle_index": 10,
+      "start_time": 57.64,
+      "end_time": 62.44,
+      "duration": 4.799999999999997,
+      "dialogue_text": "Keiko Takeshita, Rumi Hiiragi Yuriko Ishida, Jun Fubuki"
+    },
+    {
+      "subtitle_index": 11,
+      "start_time": 63.4,
+      "end_time": 67.98,
+      "duration": 4.580000000000005,
+      "dialogue_text": "Takashi Naito, Shunsuke Kazama Nao Omori, Teruyuki Kagawa"
+    },
+    {
+      "subtitle_index": 12,
+      "start_time": 77.87,
+      "end_time": 81.45,
+      "duration": 3.5799999999999983,
+      "dialogue_text": "Dirigida por Goro Miyazaki"
+    },
+    {
+      "subtitle_index": 13,
+      "start_time": 94.51,
+      "end_time": 98.22,
+      "duration": 3.7099999999999937,
+      "dialogue_text": "La olla burbujea, el arroz se cuece"
+    },
+    {
+      "subtitle_index": 14,
+      "start_time": 98.6,
+      "end_time": 101.47,
+      "duration": 2.8700000000000045,
+      "dialogue_text": "La tabla de cortar está lista"
+    },
+    {
+      "subtitle_index": 15,
+      "start_time": 102.1,
+      "end_time": 105.6,
+      "duration": 3.5,
+      "dialogue_text": "El tofu se bambolea, los huevos están resbaladizos"
+    },
+    {
+      "subtitle_index": 16,
+      "start_time": 106.23,
+      "end_time": 109.61,
+      "duration": 3.3799999999999955,
+      "dialogue_text": "El natto está pegajoso"
+    },
+    {
+      "subtitle_index": 17,
+      "start_time": 110.11,
+      "end_time": 113.57,
+      "duration": 3.4599999999999937,
+      "dialogue_text": "Echa los huevos a la sartén"
+    },
+    {
+      "subtitle_index": 18,
+      "start_time": 113.86,
+      "end_time": 117.16,
+      "duration": 3.299999999999997,
+      "dialogue_text": "Remueve el miso en una olla"
+    },
+    {
+      "subtitle_index": 19,
+      "start_time": 117.41,
+      "end_time": 121.16,
+      "duration": 3.75,
+      "dialogue_text": "Amontona el arroz en una bandeja"
+    },
+    {
+      "subtitle_index": 20,
+      "start_time": 121.41,
+      "end_time": 124.75,
+      "duration": 3.3400000000000034,
+      "dialogue_text": "Ya está todo listo"
+    },
+    {
+      "subtitle_index": 21,
+      "start_time": 124.96,
+      "end_time": 128.67,
+      "duration": 3.7099999999999937,
+      "dialogue_text": "Es hora de despertar a todos"
+    },
+    {
+      "subtitle_index": 22,
+      "start_time": 129.13,
+      "end_time": 132.51,
+      "duration": 3.3799999999999955,
+      "dialogue_text": "Todo el mundo a la mesa"
+    },
+    {
+      "subtitle_index": 23,
+      "start_time": 132.84,
+      "end_time": 136.47,
+      "duration": 3.6299999999999955,
+      "dialogue_text": "A comer, un desayuno abundante"
+    },
+    {
+      "subtitle_index": 24,
+      "start_time": 136.72,
+      "end_time": 140.01,
+      "duration": 3.289999999999992,
+      "dialogue_text": "Hoy es otro día soleado"
+    },
+    {
+      "subtitle_index": 25,
+      "start_time": 140.26,
+      "end_time": 143.68,
+      "duration": 3.420000000000016,
+      "dialogue_text": "Otro estupendo desayuno juntos"
+    },
+    {
+      "subtitle_index": 26,
+      "start_time": 143.98,
+      "end_time": 147.6,
+      "duration": 3.6200000000000045,
+      "dialogue_text": "Lo hice todo para vosotros"
+    },
+    {
+      "subtitle_index": 27,
+      "start_time": 147.81,
+      "end_time": 151.44,
+      "duration": 3.6299999999999955,
+      "dialogue_text": "Deprisa, deprisa"
+    },
+    {
+      "subtitle_index": 28,
+      "start_time": 151.94,
+      "end_time": 155.19,
+      "duration": 3.25,
+      "dialogue_text": "Pero saboreadlo bien"
+    },
+    {
+      "subtitle_index": 29,
+      "start_time": 155.45,
+      "end_time": 159.03,
+      "duration": 3.5800000000000125,
+      "dialogue_text": "Otro estupendo desayuno juntos"
+    },
+    {
+      "subtitle_index": 30,
+      "start_time": 159.24,
+      "end_time": 162.87,
+      "duration": 3.6299999999999955,
+      "dialogue_text": "Lo hice todo para vosotros"
+    },
+    {
+      "subtitle_index": 31,
+      "start_time": 163.12,
+      "end_time": 166.54,
+      "duration": 3.4199999999999875,
+      "dialogue_text": "Deprisa, deprisa"
+    },
+    {
+      "subtitle_index": 32,
+      "start_time": 167.17,
+      "end_time": 170.25,
+      "duration": 3.0800000000000125,
+      "dialogue_text": "Pero saboreadlo bien"
+    },
+    {
+      "subtitle_index": 33,
+      "start_time": 191.77,
+      "end_time": 192.73,
+      "duration": 0.9599999999999795,
+      "dialogue_text": "¡Buenos días!"
+    },
+    {
+      "subtitle_index": 34,
+      "start_time": 193.19,
+      "end_time": 195.86,
+      "duration": 2.670000000000016,
+      "dialogue_text": "Buenos días, Â¿se ha levantado ya Sora?"
+    },
+    {
+      "subtitle_index": 35,
+      "start_time": 196.2,
+      "end_time": 197.9,
+      "duration": 1.700000000000017,
+      "dialogue_text": "Sigue frente al espejo."
+    },
+    {
+      "subtitle_index": 36,
+      "start_time": 197.9,
+      "end_time": 199.03,
+      "duration": 1.1299999999999955,
+      "dialogue_text": "Buenas."
+    },
+    {
+      "subtitle_index": 37,
+      "start_time": 199.03,
+      "end_time": 200.28,
+      "duration": 1.25,
+      "dialogue_text": "Buenos días."
+    },
+    {
+      "subtitle_index": 38,
+      "start_time": 203.08,
+      "end_time": 205.75,
+      "duration": 2.6699999999999875,
+      "dialogue_text": "¿Otro turno de noche?"
+    },
+    {
+      "subtitle_index": 39,
+      "start_time": 206.29,
+      "end_time": 207.91,
+      "duration": 1.6200000000000045,
+      "dialogue_text": "Y hoy otro más."
+    },
+    {
+      "subtitle_index": 40,
+      "start_time": 208.67,
+      "end_time": 210.88,
+      "duration": 2.210000000000008,
+      "dialogue_text": "¿Te guardo la cena?"
+    },
+    {
+      "subtitle_index": 41,
+      "start_time": 211.34,
+      "end_time": 212.88,
+      "duration": 1.539999999999992,
+      "dialogue_text": "Sí, por favor."
+    },
+    {
+      "subtitle_index": 42,
+      "start_time": 213.3,
+      "end_time": 215.17,
+      "duration": 1.8699999999999761,
+      "dialogue_text": "Servicio de calidad."
+    },
+    {
+      "subtitle_index": 43,
+      "start_time": 215.88,
+      "end_time": 219.09,
+      "duration": 3.210000000000008,
+      "dialogue_text": "- El hospital está escaso de personal. - ¡Tengo un agujero en el calcetín!"
+    },
+    {
+      "subtitle_index": 44,
+      "start_time": 219.51,
+      "end_time": 221.26,
+      "duration": 1.75,
+      "dialogue_text": "Déjalo junto a la máquina de coser."
+    },
+    {
+      "subtitle_index": 45,
+      "start_time": 221.43,
+      "end_time": 222.93,
+      "duration": 1.5,
+      "dialogue_text": "¿Más agujeros?"
+    },
+    {
+      "subtitle_index": 46,
+      "start_time": 223.14,
+      "end_time": 225.43,
+      "duration": 2.2900000000000205,
+      "dialogue_text": "Mis calcetines no paran de encoger."
+    },
+    {
+      "subtitle_index": 47,
+      "start_time": 225.6,
+      "end_time": 227.18,
+      "duration": 1.5800000000000125,
+      "dialogue_text": "Esto es tuyo."
+    },
+    {
+      "subtitle_index": 48,
+      "start_time": 227.56,
+      "end_time": 230.1,
+      "duration": 2.539999999999992,
+      "dialogue_text": "Hazme un almuerzo extra grande."
+    },
+    {
+      "subtitle_index": 49,
+      "start_time": 230.4,
+      "end_time": 232.73,
+      "duration": 2.329999999999984,
+      "dialogue_text": "¿No crees que ya comes mucho?"
+    },
+    {
+      "subtitle_index": 50,
+      "start_time": 233.23,
+      "end_time": 236.57,
+      "duration": 3.3400000000000034,
+      "dialogue_text": "- Toma Riku, puedes comerte mi huevo frito. - ¡Bien!"
+    },
+    {
+      "subtitle_index": 51,
+      "start_time": 236.86,
+      "end_time": 239.53,
+      "duration": 2.6699999999999875,
+      "dialogue_text": "Tú lo necesitas más, Dra. Hokuto."
+    },
+    {
+      "subtitle_index": 52,
+      "start_time": 240.16,
+      "end_time": 242.95,
+      "duration": 2.789999999999992,
+      "dialogue_text": "¿Quién es doctora aquí?"
+    },
+    {
+      "subtitle_index": 53,
+      "start_time": 245.08,
+      "end_time": 247.75,
+      "duration": 2.6699999999999875,
+      "dialogue_text": "Has echado salsa de soja por todo."
+    },
+    {
+      "subtitle_index": 54,
+      "start_time": 247.91,
+      "end_time": 250.0,
+      "duration": 2.0900000000000034,
+      "dialogue_text": "- Me gusta así. - A mi también."
+    },
+    {
+      "subtitle_index": 55,
+      "start_time": 253.5,
+      "end_time": 256.13,
+      "duration": 2.6299999999999955,
+      "dialogue_text": "Hiro, ya está el desayuno."
+    },
+    {
+      "subtitle_index": 56,
+      "start_time": 257.97,
+      "end_time": 259.8,
+      "duration": 1.829999999999984,
+      "dialogue_text": "Buenos días, Hana."
+    },
+    {
+      "subtitle_index": 57,
+      "start_time": 259.97,
+      "end_time": 261.43,
+      "duration": 1.4599999999999795,
+      "dialogue_text": "Buenos días."
+    },
+    {
+      "subtitle_index": 58,
+      "start_time": 266.89,
+      "end_time": 269.73,
+      "duration": 2.840000000000032,
+      "dialogue_text": "Puedes comer del de tu madre."
+    },
+    {
+      "subtitle_index": 59,
+      "start_time": 269.94,
+      "end_time": 270.98,
+      "duration": 1.0400000000000205,
+      "dialogue_text": "Gracias."
+    },
+    {
+      "subtitle_index": 60,
+      "start_time": 271.27,
+      "end_time": 273.77,
+      "duration": 2.5,
+      "dialogue_text": "¿Te hago algo de té?"
+    },
+    {
+      "subtitle_index": 61,
+      "start_time": 273.94,
+      "end_time": 275.98,
+      "duration": 2.0400000000000205,
+      "dialogue_text": "No gracias, ya he tomado antes."
+    },
+    {
+      "subtitle_index": 62,
+      "start_time": 279.32,
+      "end_time": 280.9,
+      "duration": 1.579999999999984,
+      "dialogue_text": "Buenos días."
+    },
+    {
+      "subtitle_index": 63,
+      "start_time": 285.2,
+      "end_time": 286.37,
+      "duration": 1.170000000000016,
+      "dialogue_text": "Gracias."
+    },
+    {
+      "subtitle_index": 64,
+      "start_time": 292.12,
+      "end_time": 294.33,
+      "duration": 2.2099999999999795,
+      "dialogue_text": "Bueno chicas, a comer."
+    },
+    {
+      "subtitle_index": 65,
+      "start_time": 294.5,
+      "end_time": 296.0,
+      "duration": 1.5,
+      "dialogue_text": "¡Qué aproveche!"
+    },
+    {
+      "subtitle_index": 66,
+      "start_time": 299.46,
+      "end_time": 300.51,
+      "duration": 1.0500000000000114,
+      "dialogue_text": "Llegas tarde."
+    },
+    {
+      "subtitle_index": 67,
+      "start_time": 301.26,
+      "end_time": 303.51,
+      "duration": 2.25,
+      "dialogue_text": "No consigo peinarme bien."
+    },
+    {
+      "subtitle_index": 68,
+      "start_time": 304.72,
+      "end_time": 306.51,
+      "duration": 1.7899999999999636,
+      "dialogue_text": "Estás muy guapa."
+    },
+    {
+      "subtitle_index": 69,
+      "start_time": 309.93,
+      "end_time": 311.02,
+      "duration": 1.089999999999975,
+      "dialogue_text": "¡Qué aproveche!"
+    },
+    {
+      "subtitle_index": 70,
+      "start_time": 311.48,
+      "end_time": 313.94,
+      "duration": 2.4599999999999795,
+      "dialogue_text": "¿Otra vez turnos de noche, Dra. Hokuto?"
+    },
+    {
+      "subtitle_index": 71,
+      "start_time": 374.21,
+      "end_time": 375.41,
+      "duration": 1.2000000000000455,
+      "dialogue_text": "Hasta mañana."
+    },
+    {
+      "subtitle_index": 72,
+      "start_time": 375.58,
+      "end_time": 376.75,
+      "duration": 1.170000000000016,
+      "dialogue_text": "Adiós."
+    },
+    {
+      "subtitle_index": 73,
+      "start_time": 400.86,
+      "end_time": 402.36,
+      "duration": 1.5,
+      "dialogue_text": "Buenos días, Tomoko."
+    },
+    {
+      "subtitle_index": 74,
+      "start_time": 404.24,
+      "end_time": 405.57,
+      "duration": 1.329999999999984,
+      "dialogue_text": "¿Quieres que te lleve?"
+    },
+    {
+      "subtitle_index": 75,
+      "start_time": 405.78,
+      "end_time": 408.61,
+      "duration": 2.830000000000041,
+      "dialogue_text": "- Iré caminando, gracias. - Como quieras."
+    },
+    {
+      "subtitle_index": 76,
+      "start_time": 409.45,
+      "end_time": 413.29,
+      "duration": 3.840000000000032,
+      "dialogue_text": "- ¿Puedes tender la colada? - Claro. Hasta esta tarde."
+    },
+    {
+      "subtitle_index": 77,
+      "start_time": 413.45,
+      "end_time": 414.91,
+      "duration": 1.4600000000000364,
+      "dialogue_text": "Hasta luego."
+    },
+    {
+      "subtitle_index": 78,
+      "start_time": 433.14,
+      "end_time": 436.14,
+      "duration": 3.0,
+      "dialogue_text": "INSTITUTO KONAN"
+    },
+    {
+      "subtitle_index": 79,
+      "start_time": 437.98,
+      "end_time": 439.1,
+      "duration": 1.1200000000000045,
+      "dialogue_text": "Ya está aquí."
+    },
+    {
+      "subtitle_index": 80,
+      "start_time": 440.52,
+      "end_time": 442.31,
+      "duration": 1.7900000000000205,
+      "dialogue_text": "Mira lo que hay en el periódico escolar."
+    },
+    {
+      "subtitle_index": 81,
+      "start_time": 442.44,
+      "end_time": 446.07,
+      "duration": 3.6299999999999955,
+      "dialogue_text": "Es un poema sobre ti. ¿O alguien más iza banderas todas las mañanas?"
+    },
+    {
+      "subtitle_index": 82,
+      "start_time": 446.61,
+      "end_time": 450.24,
+      "duration": 3.6299999999999955,
+      "dialogue_text": "\"¿Por qué alzas, bella dama, las banderas en el alba?\""
+    },
+    {
+      "subtitle_index": 83,
+      "start_time": 450.62,
+      "end_time": 453.41,
+      "duration": 2.7900000000000205,
+      "dialogue_text": "\"¿Acaso tus sentimientos en su ondear descansan?\""
+    },
+    {
+      "subtitle_index": 84,
+      "start_time": 453.62,
+      "end_time": 456.62,
+      "duration": 3.0,
+      "dialogue_text": "\"Hoy de nuevo, rojo, blanco y azul en la mañana.\""
+    },
+    {
+      "subtitle_index": 85,
+      "start_time": 456.79,
+      "end_time": 458.75,
+      "duration": 1.9599999999999795,
+      "dialogue_text": "¿Ves? Tiene que ser sobre ti."
+    },
+    {
+      "subtitle_index": 86,
+      "start_time": 458.96,
+      "end_time": 459.96,
+      "duration": 1.0,
+      "dialogue_text": "Supongo."
+    },
+    {
+      "subtitle_index": 87,
+      "start_time": 460.13,
+      "end_time": 462.42,
+      "duration": 2.2900000000000205,
+      "dialogue_text": "Así que es sobre ti."
+    },
+    {
+      "subtitle_index": 88,
+      "start_time": 462.63,
+      "end_time": 465.34,
+      "duration": 2.7099999999999795,
+      "dialogue_text": "La próxima vez prueba con un mensaje en una botella."
+    },
+    {
+      "subtitle_index": 89,
+      "start_time": 465.55,
+      "end_time": 468.51,
+      "duration": 2.9599999999999795,
+      "dialogue_text": "¡Lárgate, empollón asqueroso!"
+    },
+    {
+      "subtitle_index": 90,
+      "start_time": 468.8,
+      "end_time": 471.22,
+      "duration": 2.420000000000016,
+      "dialogue_text": "Ese vive prácticamente en la sede de su club."
+    },
+    {
+      "subtitle_index": 91,
+      "start_time": 473.31,
+      "end_time": 474.51,
+      "duration": 1.1999999999999886,
+      "dialogue_text": "¡En pie!"
+    },
+    {
+      "subtitle_index": 92,
+      "start_time": 480.48,
+      "end_time": 483.15,
+      "duration": 2.669999999999959,
+      "dialogue_text": "- Hemos pillado una mesa. - Nos vemos allí."
+    },
+    {
+      "subtitle_index": 93,
+      "start_time": 488.36,
+      "end_time": 490.36,
+      "duration": 2.0,
+      "dialogue_text": "¡Nobuko, aquí!"
+    },
+    {
+      "subtitle_index": 94,
+      "start_time": 491.32,
+      "end_time": 493.87,
+      "duration": 2.5500000000000114,
+      "dialogue_text": "- ¡Me muero de hambre! - Vaya, ¿otra vez udon con curry?"
+    },
+    {
+      "subtitle_index": 95,
+      "start_time": 494.24,
+      "end_time": 498.2,
+      "duration": 3.9599999999999795,
+      "dialogue_text": "¿Por qué no? Me gusta. Además, mira quien habla."
+    },
+    {
+      "subtitle_index": 96,
+      "start_time": 498.37,
+      "end_time": 499.87,
+      "duration": 1.5,
+      "dialogue_text": "¿Y? me gusta el pan."
+    },
+    {
+      "subtitle_index": 97,
+      "start_time": 500.08,
+      "end_time": 502.04,
+      "duration": 1.9600000000000364,
+      "dialogue_text": "Qué buena pinta tiene el almuerzo de Umi."
+    },
+    {
+      "subtitle_index": 98,
+      "start_time": 502.33,
+      "end_time": 504.38,
+      "duration": 2.0500000000000114,
+      "dialogue_text": "Deberías probar a hacerte tú uno así."
+    },
+    {
+      "subtitle_index": 99,
+      "start_time": 505.34,
+      "end_time": 508.21,
+      "duration": 2.8700000000000045,
+      "dialogue_text": "Podría, lo que pasa es que no tengo tiempo."
+    },
+    {
+      "subtitle_index": 100,
+      "start_time": 512.01,
+      "end_time": 514.05,
+      "duration": 2.0399999999999636,
+      "dialogue_text": "¿Y ahora que planean?"
+    },
+    {
+      "subtitle_index": 101,
+      "start_time": 536.54,
+      "end_time": 538.41,
+      "duration": 1.8700000000000045,
+      "dialogue_text": "Muy bien, soltad las pancartas."
+    },
+    {
+      "subtitle_index": 102,
+      "start_time": 539.0,
+      "end_time": 541.91,
+      "duration": 2.909999999999968,
+      "dialogue_text": "LIGA ANTIDEMOLICIÓN DE LA CASA DE ESTUDIANTES"
+    },
+    {
+      "subtitle_index": 103,
+      "start_time": 543.08,
+      "end_time": 544.42,
+      "duration": 1.3399999999999181,
+      "dialogue_text": "Adelante."
+    },
+    {
+      "subtitle_index": 104,
+      "start_time": 576.58,
+      "end_time": 579.33,
+      "duration": 2.75,
+      "dialogue_text": "¡Vamos!"
+    },
+    {
+      "subtitle_index": 105,
+      "start_time": 582.41,
+      "end_time": 584.12,
+      "duration": 1.7100000000000364,
+      "dialogue_text": "Mirad hacia aquí."
+    },
+    {
+      "subtitle_index": 106,
+      "start_time": 589.88,
+      "end_time": 591.46,
+      "duration": 1.580000000000041,
+      "dialogue_text": "Ha sido increíble."
+    },
+    {
+      "subtitle_index": 107,
+      "start_time": 592.38,
+      "end_time": 593.59,
+      "duration": 1.2100000000000364,
+      "dialogue_text": "¿Estás bien?"
+    },
+    {
+      "subtitle_index": 108,
+      "start_time": 594.76,
+      "end_time": 595.8,
+      "duration": 1.0399999999999636,
+      "dialogue_text": "Qué tonto..."
+    },
+    {
+      "subtitle_index": 109,
+      "start_time": 602.1,
+      "end_time": 604.64,
+      "duration": 2.5399999999999636,
+      "dialogue_text": "- Ya estoy en casa. - Hola."
+    },
+    {
+      "subtitle_index": 110,
+      "start_time": 605.44,
+      "end_time": 608.23,
+      "duration": 2.7899999999999636,
+      "dialogue_text": "- Gracias, Tomoko. - De nada."
+    },
+    {
+      "subtitle_index": 111,
+      "start_time": 611.44,
+      "end_time": 612.99,
+      "duration": 1.5499999999999545,
+      "dialogue_text": "Esto ya está."
+    },
+    {
+      "subtitle_index": 112,
+      "start_time": 613.49,
+      "end_time": 615.49,
+      "duration": 2.0,
+      "dialogue_text": "Hoy el pescado estaba muy barato."
+    },
+    {
+      "subtitle_index": 113,
+      "start_time": 616.11,
+      "end_time": 618.95,
+      "duration": 2.840000000000032,
+      "dialogue_text": "Gracias. Creo que lo haré frito."
+    },
+    {
+      "subtitle_index": 114,
+      "start_time": 619.62,
+      "end_time": 621.95,
+      "duration": 2.330000000000041,
+      "dialogue_text": "Tengo que ir a ver a la abuela."
+    },
+    {
+      "subtitle_index": 115,
+      "start_time": 629.96,
+      "end_time": 631.25,
+      "duration": 1.2899999999999636,
+      "dialogue_text": "¿Abuela? Soy yo."
+    },
+    {
+      "subtitle_index": 116,
+      "start_time": 631.46,
+      "end_time": 632.92,
+      "duration": 1.4599999999999227,
+      "dialogue_text": "Adelante."
+    },
+    {
+      "subtitle_index": 117,
+      "start_time": 645.48,
+      "end_time": 649.19,
+      "duration": 3.7100000000000364,
+      "dialogue_text": "Otra vez sin números rojos este mes. Te administras de forma maravillosa."
+    },
+    {
+      "subtitle_index": 118,
+      "start_time": 650.11,
+      "end_time": 654.07,
+      "duration": 3.9600000000000364,
+      "dialogue_text": "Pero sólo porque cubres los gastos de Tomoko."
+    },
+    {
+      "subtitle_index": 119,
+      "start_time": 654.32,
+      "end_time": 655.61,
+      "duration": 1.2899999999999636,
+      "dialogue_text": "No es nada."
+    },
+    {
+      "subtitle_index": 120,
+      "start_time": 655.86,
+      "end_time": 659.82,
+      "duration": 3.9600000000000364,
+      "dialogue_text": "La he contratado, aunque no tengamos huéspedes."
+    },
+    {
+      "subtitle_index": 121,
+      "start_time": 660.28,
+      "end_time": 662.87,
+      "duration": 2.590000000000032,
+      "dialogue_text": "¿Pero no tienes demasiado trabajo?"
+    },
+    {
+      "subtitle_index": 122,
+      "start_time": 665.41,
+      "end_time": 666.71,
+      "duration": 1.3000000000000682,
+      "dialogue_text": "A veces me preocupas."
+    },
+    {
+      "subtitle_index": 123,
+      "start_time": 668.17,
+      "end_time": 671.04,
+      "duration": 2.8700000000000045,
+      "dialogue_text": "Me siento muy bien con todas aquí."
+    },
+    {
+      "subtitle_index": 124,
+      "start_time": 671.5,
+      "end_time": 673.17,
+      "duration": 1.669999999999959,
+      "dialogue_text": "Lo sé, pero aun así..."
+    },
+    {
+      "subtitle_index": 125,
+      "start_time": 673.88,
+      "end_time": 678.22,
+      "duration": 4.340000000000032,
+      "dialogue_text": "Me pone tan triste verte izar esas banderas todos los días."
+    },
+    {
+      "subtitle_index": 126,
+      "start_time": 678.76,
+      "end_time": 682.51,
+      "duration": 3.75,
+      "dialogue_text": "Nadie sabe cuanto echas de menos a tu padre."
+    },
+    {
+      "subtitle_index": 127,
+      "start_time": 683.43,
+      "end_time": 685.47,
+      "duration": 2.0400000000000773,
+      "dialogue_text": "Espero que encuentres pronto a alguien especial."
+    },
+    {
+      "subtitle_index": 128,
+      "start_time": 685.6,
+      "end_time": 688.52,
+      "duration": 2.919999999999959,
+      "dialogue_text": "Entonces ya no necesitarás esas banderas."
+    },
+    {
+      "subtitle_index": 129,
+      "start_time": 690.36,
+      "end_time": 693.02,
+      "duration": 2.659999999999968,
+      "dialogue_text": "- ¿Sra. Matsuzaki? - Adelante."
+    },
+    {
+      "subtitle_index": 130,
+      "start_time": 694.69,
+      "end_time": 696.69,
+      "duration": 2.0,
+      "dialogue_text": "Ya he terminado por hoy."
+    },
+    {
+      "subtitle_index": 131,
+      "start_time": 696.95,
+      "end_time": 698.53,
+      "duration": 1.5799999999999272,
+      "dialogue_text": "Gracias, Tomoko."
+    },
+    {
+      "subtitle_index": 132,
+      "start_time": 701.03,
+      "end_time": 703.53,
+      "duration": 2.5,
+      "dialogue_text": "Tengo que preparar la cena."
+    },
+    {
+      "subtitle_index": 133,
+      "start_time": 770.35,
+      "end_time": 772.48,
+      "duration": 2.1299999999999955,
+      "dialogue_text": "Fue un salto increíble."
+    },
+    {
+      "subtitle_index": 134,
+      "start_time": 772.65,
+      "end_time": 774.19,
+      "duration": 1.5400000000000773,
+      "dialogue_text": "No es broma."
+    },
+    {
+      "subtitle_index": 135,
+      "start_time": 774.48,
+      "end_time": 778.65,
+      "duration": 4.169999999999959,
+      "dialogue_text": "Algunas chicas van a montar un club de fans."
+    },
+    {
+      "subtitle_index": 136,
+      "start_time": 778.99,
+      "end_time": 780.32,
+      "duration": 1.330000000000041,
+      "dialogue_text": "¿Cómo se llama?"
+    },
+    {
+      "subtitle_index": 137,
+      "start_time": 780.49,
+      "end_time": 783.28,
+      "duration": 2.7899999999999636,
+      "dialogue_text": "Shun Kazama. Es un chico con mucha chispa."
+    },
+    {
+      "subtitle_index": 138,
+      "start_time": 783.45,
+      "end_time": 786.7,
+      "duration": 3.25,
+      "dialogue_text": "- ¿Es hijo de un electricista? - Hiro, no te enteras de nada."
+    },
+    {
+      "subtitle_index": 139,
+      "start_time": 813.85,
+      "end_time": 817.44,
+      "duration": 3.590000000000032,
+      "dialogue_text": "\"¿Por qué alzas, bella dama, las banderas en el alba?\""
+    },
+    {
+      "subtitle_index": 140,
+      "start_time": 833.41,
+      "end_time": 837.04,
+      "duration": 3.6299999999999955,
+      "dialogue_text": "En consecuencia, el Principado de Valaquia fue asediado..."
+    },
+    {
+      "subtitle_index": 141,
+      "start_time": 837.21,
+      "end_time": 842.88,
+      "duration": 5.669999999999959,
+      "dialogue_text": "por el Imperio Otomano y Rusia, siendo su territorio codiciado por ambas partes."
+    },
+    {
+      "subtitle_index": 142,
+      "start_time": 845.72,
+      "end_time": 849.72,
+      "duration": 4.0,
+      "dialogue_text": "SALVEMOS NUESTRA CASA DE CLUBES DE LA DEMOLICIÓN"
+    },
+    {
+      "subtitle_index": 143,
+      "start_time": 854.56,
+      "end_time": 855.56,
+      "duration": 1.0,
+      "dialogue_text": "¡Umi!"
+    },
+    {
+      "subtitle_index": 144,
+      "start_time": 855.73,
+      "end_time": 857.48,
+      "duration": 1.75,
+      "dialogue_text": "¿Sora? ¿Qué pasa?"
+    },
+    {
+      "subtitle_index": 145,
+      "start_time": 859.86,
+      "end_time": 862.03,
+      "duration": 2.169999999999959,
+      "dialogue_text": "He comprado esto por 30 yenes."
+    },
+    {
+      "subtitle_index": 146,
+      "start_time": 864.53,
+      "end_time": 866.74,
+      "duration": 2.2100000000000364,
+      "dialogue_text": "¿30 yenes por eso?"
+    },
+    {
+      "subtitle_index": 147,
+      "start_time": 866.95,
+      "end_time": 870.2,
+      "duration": 3.25,
+      "dialogue_text": "¿No es genial? Tengo que conseguir su autógrafo."
+    },
+    {
+      "subtitle_index": 148,
+      "start_time": 870.45,
+      "end_time": 874.58,
+      "duration": 4.1299999999999955,
+      "dialogue_text": "Por favor, acompáñame. Nunca he estado dentro de la Casa de Clubes."
+    },
+    {
+      "subtitle_index": 149,
+      "start_time": 874.75,
+      "end_time": 877.08,
+      "duration": 2.330000000000041,
+      "dialogue_text": "Ni yo tampoco. No voy a entrar allí."
+    },
+    {
+      "subtitle_index": 150,
+      "start_time": 877.21,
+      "end_time": 879.04,
+      "duration": 1.8299999999999272,
+      "dialogue_text": "- ¡Porfa! - Ni hablar."
+    },
+    {
+      "subtitle_index": 151,
+      "start_time": 880.67,
+      "end_time": 884.26,
+      "duration": 3.590000000000032,
+      "dialogue_text": "Vamos, sólo por esta vez."
+    },
+    {
+      "subtitle_index": 152,
+      "start_time": 884.55,
+      "end_time": 885.26,
+      "duration": 0.7100000000000364,
+      "dialogue_text": "Venga..."
+    },
+    {
+      "subtitle_index": 153,
+      "start_time": 889.26,
+      "end_time": 892.93,
+      "duration": 3.669999999999959,
+      "dialogue_text": "NO A LA DEMOLICIÓN DE NUESTRA CASA DE CLUBES"
+    },
+    {
+      "subtitle_index": 154,
+      "start_time": 903.9,
+      "end_time": 904.94,
+      "duration": 1.0400000000000773,
+      "dialogue_text": "¿Lista?"
+    },
+    {
+      "subtitle_index": 155,
+      "start_time": 912.24,
+      "end_time": 913.2,
+      "duration": 0.9600000000000364,
+      "dialogue_text": "Disculpad."
+    },
+    {
+      "subtitle_index": 156,
+      "start_time": 913.37,
+      "end_time": 917.96,
+      "duration": 4.590000000000032,
+      "dialogue_text": "- ¡Las manchas de hoy son completamente distintas! - Y forman una línea recta."
+    },
+    {
+      "subtitle_index": 157,
+      "start_time": 918.25,
+      "end_time": 920.33,
+      "duration": 2.080000000000041,
+      "dialogue_text": "Un campo magnético de libro."
+    },
+    {
+      "subtitle_index": 158,
+      "start_time": 920.5,
+      "end_time": 921.46,
+      "duration": 0.9600000000000364,
+      "dialogue_text": "Disculpad."
+    },
+    {
+      "subtitle_index": 159,
+      "start_time": 921.71,
+      "end_time": 922.46,
+      "duration": 0.75,
+      "dialogue_text": "¿Sí?"
+    },
+    {
+      "subtitle_index": 160,
+      "start_time": 922.75,
+      "end_time": 925.63,
+      "duration": 2.8799999999999955,
+      "dialogue_text": "Buscamos la oficina del periódico escolar."
+    },
+    {
+      "subtitle_index": 161,
+      "start_time": 925.8,
+      "end_time": 928.63,
+      "duration": 2.830000000000041,
+      "dialogue_text": "Tercer piso, el mismo cuarto que el Club de Arqueología."
+    },
+    {
+      "subtitle_index": 162,
+      "start_time": 929.05,
+      "end_time": 930.22,
+      "duration": 1.1700000000000728,
+      "dialogue_text": "Gracias."
+    },
+    {
+      "subtitle_index": 163,
+      "start_time": 947.11,
+      "end_time": 949.28,
+      "duration": 2.169999999999959,
+      "dialogue_text": "¿Nunca limpian este sitio?"
+    },
+    {
+      "subtitle_index": 164,
+      "start_time": 970.22,
+      "end_time": 971.51,
+      "duration": 1.2899999999999636,
+      "dialogue_text": "Hey."
+    },
+    {
+      "subtitle_index": 165,
+      "start_time": 971.72,
+      "end_time": 974.47,
+      "duration": 2.75,
+      "dialogue_text": "Hola, buscamos el Club de Arqueología."
+    },
+    {
+      "subtitle_index": 166,
+      "start_time": 974.68,
+      "end_time": 978.02,
+      "duration": 3.340000000000032,
+      "dialogue_text": "Arriba. Buscad el cartel del Club de Literatura."
+    },
+    {
+      "subtitle_index": 167,
+      "start_time": 978.31,
+      "end_time": 979.52,
+      "duration": 1.2100000000000364,
+      "dialogue_text": "Gracias."
+    },
+    {
+      "subtitle_index": 168,
+      "start_time": 991.28,
+      "end_time": 992.82,
+      "duration": 1.5400000000000773,
+      "dialogue_text": "¡Por fin, mentes inquietas!"
+    },
+    {
+      "subtitle_index": 169,
+      "start_time": 992.99,
+      "end_time": 995.53,
+      "duration": 2.5399999999999636,
+      "dialogue_text": "El Club de Filosofía os necesita."
+    },
+    {
+      "subtitle_index": 170,
+      "start_time": 997.2,
+      "end_time": 1000.04,
+      "duration": 2.839999999999918,
+      "dialogue_text": "¡Nuevos miembros! ¿Cuándo fue la última vez?"
+    },
+    {
+      "subtitle_index": 171,
+      "start_time": 1000.33,
+      "end_time": 1002.92,
+      "duration": 2.589999999999918,
+      "dialogue_text": "Mis esfuerzos no han sido en vano."
+    },
+    {
+      "subtitle_index": 172,
+      "start_time": 1003.96,
+      "end_time": 1007.84,
+      "duration": 3.8799999999999955,
+      "dialogue_text": "Lo cierto es que vamos hacia el Club de Arqueología - Literatura."
+    },
+    {
+      "subtitle_index": 173,
+      "start_time": 1008.01,
+      "end_time": 1011.88,
+      "duration": 3.8700000000000045,
+      "dialogue_text": "No seáis tímidas. ¿Discutimos sobre el existencialismo?"
+    },
+    {
+      "subtitle_index": 174,
+      "start_time": 1012.18,
+      "end_time": 1014.55,
+      "duration": 2.3700000000000045,
+      "dialogue_text": "¿O quizás prefiráis a Nietzsche?"
+    },
+    {
+      "subtitle_index": 175,
+      "start_time": 1018.06,
+      "end_time": 1020.89,
+      "duration": 2.830000000000041,
+      "dialogue_text": "¡El Club de Química! ¿Cómo osáis perturbar nuestras reflexiones?"
+    },
+    {
+      "subtitle_index": 176,
+      "start_time": 1021.1,
+      "end_time": 1024.77,
+      "duration": 3.669999999999959,
+      "dialogue_text": "Será mejor que huyáis, chicas, u os tendrá ahí todo el día."
+    },
+    {
+      "subtitle_index": 177,
+      "start_time": 1025.02,
+      "end_time": 1028.28,
+      "duration": 3.259999999999991,
+      "dialogue_text": "Mostrad algo de respeto, alquimistas de tres al cuarto."
+    },
+    {
+      "subtitle_index": 178,
+      "start_time": 1028.4,
+      "end_time": 1032.24,
+      "duration": 3.839999999999918,
+      "dialogue_text": "Al menos hacemos experimentos. Tus ideas ni siquiera pueden probarse."
+    },
+    {
+      "subtitle_index": 179,
+      "start_time": 1032.57,
+      "end_time": 1037.87,
+      "duration": 5.2999999999999545,
+      "dialogue_text": "\"¡Jóvenes poetas! Atraed la energía de la nube, la luz, la tempestad...\""
+    },
+    {
+      "subtitle_index": 180,
+      "start_time": 1038.2,
+      "end_time": 1041.2,
+      "duration": 3.0,
+      "dialogue_text": "\"Enseñadnos la dirección que debe tomar la humanidad...\""
+    },
+    {
+      "subtitle_index": 181,
+      "start_time": 1041.46,
+      "end_time": 1044.75,
+      "duration": 3.2899999999999636,
+      "dialogue_text": "\"Un Copérnico de la nueva era, que nos da la libertad...\""
+    },
+    {
+      "subtitle_index": 182,
+      "start_time": 1045.54,
+      "end_time": 1047.17,
+      "duration": 1.6300000000001091,
+      "dialogue_text": "¡Capto una señal!"
+    },
+    {
+      "subtitle_index": 183,
+      "start_time": 1047.55,
+      "end_time": 1049.76,
+      "duration": 2.2100000000000364,
+      "dialogue_text": "This is a high school student from Japan!"
+    },
+    {
+      "subtitle_index": 184,
+      "start_time": 1074.16,
+      "end_time": 1077.16,
+      "duration": 3.0,
+      "dialogue_text": "CLUB DE LITERATURA PERIÓDICO DE LA CASA DE ESTUDIANTES"
+    },
+    {
+      "subtitle_index": 185,
+      "start_time": 1077.45,
+      "end_time": 1078.53,
+      "duration": 1.0799999999999272,
+      "dialogue_text": "Es aquí."
+    },
+    {
+      "subtitle_index": 186,
+      "start_time": 1082.58,
+      "end_time": 1083.46,
+      "duration": 0.8800000000001091,
+      "dialogue_text": "Matsuzaki."
+    },
+    {
+      "subtitle_index": 187,
+      "start_time": 1083.62,
+      "end_time": 1084.96,
+      "duration": 1.3400000000001455,
+      "dialogue_text": "Yamazaki..."
+    },
+    {
+      "subtitle_index": 188,
+      "start_time": 1085.17,
+      "end_time": 1088.13,
+      "duration": 2.9600000000000364,
+      "dialogue_text": "¡Hey, Shun! Tienes visita."
+    },
+    {
+      "subtitle_index": 189,
+      "start_time": 1093.88,
+      "end_time": 1097.55,
+      "duration": 3.6699999999998454,
+      "dialogue_text": "Bienvenidas al Club de Literatura. ¿O era el de Arqueología?"
+    },
+    {
+      "subtitle_index": 190,
+      "start_time": 1097.8,
+      "end_time": 1102.02,
+      "duration": 4.220000000000027,
+      "dialogue_text": "No me digáis que venís por el periodicucho que publicamos."
+    },
+    {
+      "subtitle_index": 191,
+      "start_time": 1102.18,
+      "end_time": 1105.23,
+      "duration": 3.0499999999999545,
+      "dialogue_text": "Déjalo, Mizunuma. Pasad y cerrad la..."
+    },
+    {
+      "subtitle_index": 192,
+      "start_time": 1109.4,
+      "end_time": 1111.4,
+      "duration": 2.0,
+      "dialogue_text": "¡Van a suprimir nuestro club!"
+    },
+    {
+      "subtitle_index": 193,
+      "start_time": 1111.57,
+      "end_time": 1116.03,
+      "duration": 4.460000000000036,
+      "dialogue_text": "Sólo quedamos dos miembros. El Club de Arqueología está condenado."
+    },
+    {
+      "subtitle_index": 194,
+      "start_time": 1120.49,
+      "end_time": 1122.66,
+      "duration": 2.1700000000000728,
+      "dialogue_text": "¿Puedes firmarme esto?"
+    },
+    {
+      "subtitle_index": 195,
+      "start_time": 1123.5,
+      "end_time": 1125.33,
+      "duration": 1.8299999999999272,
+      "dialogue_text": "Hazlo por ella, héroe."
+    },
+    {
+      "subtitle_index": 196,
+      "start_time": 1136.09,
+      "end_time": 1137.51,
+      "duration": 1.4200000000000728,
+      "dialogue_text": "¡Gracias!"
+    },
+    {
+      "subtitle_index": 197,
+      "start_time": 1137.76,
+      "end_time": 1138.72,
+      "duration": 0.9600000000000364,
+      "dialogue_text": "Tu mano..."
+    },
+    {
+      "subtitle_index": 198,
+      "start_time": 1139.64,
+      "end_time": 1143.52,
+      "duration": 3.8799999999998818,
+      "dialogue_text": "Es un arañazo de un gato. No es por el salto."
+    },
+    {
+      "subtitle_index": 199,
+      "start_time": 1144.98,
+      "end_time": 1146.27,
+      "duration": 1.2899999999999636,
+      "dialogue_text": "¿Un gato...?"
+    },
+    {
+      "subtitle_index": 200,
+      "start_time": 1146.64,
+      "end_time": 1150.36,
+      "duration": 3.7199999999998,
+      "dialogue_text": "Oye, ¿podrías cortar algunas plantillas para Shun?"
+    },
+    {
+      "subtitle_index": 201,
+      "start_time": 1151.57,
+      "end_time": 1155.44,
+      "duration": 3.8700000000001182,
+      "dialogue_text": "Todos andamos muy ocupados con la campaña antidemolición."
+    },
+    {
+      "subtitle_index": 202,
+      "start_time": 1155.65,
+      "end_time": 1156.99,
+      "duration": 1.3399999999999181,
+      "dialogue_text": "¿Eres la hermana pequeña?"
+    },
+    {
+      "subtitle_index": 203,
+      "start_time": 1157.24,
+      "end_time": 1159.36,
+      "duration": 2.119999999999891,
+      "dialogue_text": "Sí, soy Sora Matsuzaki."
+    },
+    {
+      "subtitle_index": 204,
+      "start_time": 1159.66,
+      "end_time": 1163.2,
+      "duration": 3.5399999999999636,
+      "dialogue_text": "Ayúdale tú, Umi. Mi letra es horrible."
+    },
+    {
+      "subtitle_index": 205,
+      "start_time": 1163.49,
+      "end_time": 1166.29,
+      "duration": 2.7999999999999545,
+      "dialogue_text": "¿Estás de broma? ¿Por qué debería...?"
+    },
+    {
+      "subtitle_index": 206,
+      "start_time": 1166.58,
+      "end_time": 1168.33,
+      "duration": 1.75,
+      "dialogue_text": "PRONÓSTICOS PARA LOS PARCIALES DE FÍSICA"
+    },
+    {
+      "subtitle_index": 207,
+      "start_time": 1168.71,
+      "end_time": 1171.38,
+      "duration": 2.6700000000000728,
+      "dialogue_text": "Estás en primero. ¿Suzuki te da física?"
+    },
+    {
+      "subtitle_index": 208,
+      "start_time": 1172.92,
+      "end_time": 1174.0,
+      "duration": 1.0799999999999272,
+      "dialogue_text": "¿Suzuki? Sí."
+    },
+    {
+      "subtitle_index": 209,
+      "start_time": 1174.34,
+      "end_time": 1175.96,
+      "duration": 1.6200000000001182,
+      "dialogue_text": "Entonces necesitarás esto."
+    },
+    {
+      "subtitle_index": 210,
+      "start_time": 1176.17,
+      "end_time": 1179.84,
+      "duration": 3.6699999999998454,
+      "dialogue_text": "Los pronósticos de examen de Mizunuma suelen dar en el clavo."
+    },
+    {
+      "subtitle_index": 211,
+      "start_time": 1180.01,
+      "end_time": 1183.93,
+      "duration": 3.9200000000000728,
+      "dialogue_text": "Pero no garantizo nada. También depende de tu propia suerte."
+    },
+    {
+      "subtitle_index": 212,
+      "start_time": 1186.35,
+      "end_time": 1187.98,
+      "duration": 1.6300000000001091,
+      "dialogue_text": "Te veo a las seis."
+    },
+    {
+      "subtitle_index": 213,
+      "start_time": 1188.69,
+      "end_time": 1190.52,
+      "duration": 1.8299999999999272,
+      "dialogue_text": "¿Nos vamos?"
+    },
+    {
+      "subtitle_index": 214,
+      "start_time": 1190.94,
+      "end_time": 1191.98,
+      "duration": 1.0399999999999636,
+      "dialogue_text": "¡Ah, sí!"
+    },
+    {
+      "subtitle_index": 215,
+      "start_time": 1195.99,
+      "end_time": 1199.57,
+      "duration": 3.5799999999999272,
+      "dialogue_text": "Señorita Matsuzaki, será mejor que le acompañe afuera."
+    },
+    {
+      "subtitle_index": 216,
+      "start_time": 1199.78,
+      "end_time": 1202.03,
+      "duration": 2.25,
+      "dialogue_text": "Nuestro residente filósofo podría asaltarle."
+    },
+    {
+      "subtitle_index": 217,
+      "start_time": 1202.2,
+      "end_time": 1203.74,
+      "duration": 1.5399999999999636,
+      "dialogue_text": "¡Oh, gracias!"
+    },
+    {
+      "subtitle_index": 218,
+      "start_time": 1223.05,
+      "end_time": 1224.76,
+      "duration": 1.7100000000000364,
+      "dialogue_text": "Desde aquí hasta el final."
+    },
+    {
+      "subtitle_index": 219,
+      "start_time": 1238.86,
+      "end_time": 1240.4,
+      "duration": 1.540000000000191,
+      "dialogue_text": "Tenemos que hacer algo."
+    },
+    {
+      "subtitle_index": 220,
+      "start_time": 1240.66,
+      "end_time": 1244.03,
+      "duration": 3.369999999999891,
+      "dialogue_text": "¡Sí, por el honor de quienes nos precedieron!"
+    },
+    {
+      "subtitle_index": 221,
+      "start_time": 1289.29,
+      "end_time": 1290.79,
+      "duration": 1.5,
+      "dialogue_text": "Reunión, Shun."
+    },
+    {
+      "subtitle_index": 222,
+      "start_time": 1291.16,
+      "end_time": 1295.17,
+      "duration": 4.009999999999991,
+      "dialogue_text": "¿Quieres venir, Matsuzaki? Es la reunión antidemolición."
+    },
+    {
+      "subtitle_index": 223,
+      "start_time": 1295.46,
+      "end_time": 1297.09,
+      "duration": 1.6299999999998818,
+      "dialogue_text": "¿Ya es tan tarde?"
+    },
+    {
+      "subtitle_index": 224,
+      "start_time": 1297.25,
+      "end_time": 1298.21,
+      "duration": 0.9600000000000364,
+      "dialogue_text": "He acabado."
+    },
+    {
+      "subtitle_index": 225,
+      "start_time": 1298.8,
+      "end_time": 1301.09,
+      "duration": 2.2899999999999636,
+      "dialogue_text": "Gracias, has sido de mucha ayuda."
+    },
+    {
+      "subtitle_index": 226,
+      "start_time": 1302.3,
+      "end_time": 1304.01,
+      "duration": 1.7100000000000364,
+      "dialogue_text": "¡Reunión!"
+    },
+    {
+      "subtitle_index": 227,
+      "start_time": 1304.43,
+      "end_time": 1309.72,
+      "duration": 5.289999999999964,
+      "dialogue_text": "¡Todos a cubierta! ¡Es la hora de la reunión!"
+    },
+    {
+      "subtitle_index": 228,
+      "start_time": 1333.66,
+      "end_time": 1335.0,
+      "duration": 1.3399999999999181,
+      "dialogue_text": "Ya estoy en casa."
+    },
+    {
+      "subtitle_index": 229,
+      "start_time": 1363.44,
+      "end_time": 1364.57,
+      "duration": 1.1299999999998818,
+      "dialogue_text": "Hola Umi."
+    },
+    {
+      "subtitle_index": 230,
+      "start_time": 1364.74,
+      "end_time": 1368.45,
+      "duration": 3.7100000000000364,
+      "dialogue_text": "Voy algo atrasada. Hoy hay curry. ¿Puedes cortar los vegetales?"
+    },
+    {
+      "subtitle_index": 231,
+      "start_time": 1368.87,
+      "end_time": 1370.08,
+      "duration": 1.2100000000000364,
+      "dialogue_text": "Claro."
+    },
+    {
+      "subtitle_index": 232,
+      "start_time": 1388.47,
+      "end_time": 1390.85,
+      "duration": 2.3799999999998818,
+      "dialogue_text": "- Ya he vuelto. - Te estábamos esperando."
+    },
+    {
+      "subtitle_index": 233,
+      "start_time": 1391.06,
+      "end_time": 1394.89,
+      "duration": 3.8300000000001546,
+      "dialogue_text": "Riku, necesito algo de cerdo. ¿Puedes ir por un poco?"
+    },
+    {
+      "subtitle_index": 234,
+      "start_time": 1395.06,
+      "end_time": 1397.39,
+      "duration": 2.3300000000001546,
+      "dialogue_text": "¿Qué? ¿Ahora?"
+    },
+    {
+      "subtitle_index": 235,
+      "start_time": 1398.4,
+      "end_time": 1399.4,
+      "duration": 1.0,
+      "dialogue_text": "¿Sora?"
+    },
+    {
+      "subtitle_index": 236,
+      "start_time": 1400.15,
+      "end_time": 1402.61,
+      "duration": 2.459999999999809,
+      "dialogue_text": "El programa acaba de empezar."
+    },
+    {
+      "subtitle_index": 237,
+      "start_time": 1403.23,
+      "end_time": 1405.4,
+      "duration": 2.1700000000000728,
+      "dialogue_text": "¿No le pediste a Tomoko que lo comprara?"
+    },
+    {
+      "subtitle_index": 238,
+      "start_time": 1406.03,
+      "end_time": 1408.07,
+      "duration": 2.0399999999999636,
+      "dialogue_text": "Lo usé para los almuerzos."
+    },
+    {
+      "subtitle_index": 239,
+      "start_time": 1414.41,
+      "end_time": 1417.25,
+      "duration": 2.839999999999918,
+      "dialogue_text": "Pon el arroz en 10 minutos, ¿vale?"
+    },
+    {
+      "subtitle_index": 240,
+      "start_time": 1418.71,
+      "end_time": 1420.29,
+      "duration": 1.5799999999999272,
+      "dialogue_text": "Sí."
+    },
+    {
+      "subtitle_index": 241,
+      "start_time": 1433.93,
+      "end_time": 1434.85,
+      "duration": 0.9199999999998454,
+      "dialogue_text": "¿De compras?"
+    },
+    {
+      "subtitle_index": 242,
+      "start_time": 1435.27,
+      "end_time": 1436.31,
+      "duration": 1.0399999999999636,
+      "dialogue_text": "Algo así."
+    },
+    {
+      "subtitle_index": 243,
+      "start_time": 1438.27,
+      "end_time": 1440.81,
+      "duration": 2.5399999999999636,
+      "dialogue_text": "Sube. Al pie de la colina, ¿no?"
+    },
+    {
+      "subtitle_index": 244,
+      "start_time": 1441.61,
+      "end_time": 1445.65,
+      "duration": 4.040000000000191,
+      "dialogue_text": "No te preocupes, tengo bien la mano. Puedo frenar."
+    },
+    {
+      "subtitle_index": 245,
+      "start_time": 1461.5,
+      "end_time": 1463.25,
+      "duration": 1.75,
+      "dialogue_text": "¿Qué tal la reunión?"
+    },
+    {
+      "subtitle_index": 246,
+      "start_time": 1463.46,
+      "end_time": 1465.17,
+      "duration": 1.7100000000000364,
+      "dialogue_text": "No pudimos terminarla."
+    },
+    {
+      "subtitle_index": 247,
+      "start_time": 1465.75,
+      "end_time": 1467.8,
+      "duration": 2.0499999999999545,
+      "dialogue_text": "No podíamos continuar tan tarde."
+    },
+    {
+      "subtitle_index": 248,
+      "start_time": 1470.63,
+      "end_time": 1472.84,
+      "duration": 2.209999999999809,
+      "dialogue_text": "¿Terminaste de imprimir el periódico?"
+    },
+    {
+      "subtitle_index": 249,
+      "start_time": 1473.14,
+      "end_time": 1477.18,
+      "duration": 4.039999999999964,
+      "dialogue_text": "Imposible. Lo haré mañana antes de las clases."
+    },
+    {
+      "subtitle_index": 250,
+      "start_time": 1481.15,
+      "end_time": 1483.69,
+      "duration": 2.5399999999999636,
+      "dialogue_text": "Oye, Shun. ¿Puedo preguntarte una cosa?"
+    },
+    {
+      "subtitle_index": 251,
+      "start_time": 1485.86,
+      "end_time": 1487.73,
+      "duration": 1.8700000000001182,
+      "dialogue_text": "Es poema del periódico..."
+    },
+    {
+      "subtitle_index": 252,
+      "start_time": 1495.99,
+      "end_time": 1499.08,
+      "duration": 3.089999999999918,
+      "dialogue_text": "- ¿Qué decías? - No, nada."
+    },
+    {
+      "subtitle_index": 253,
+      "start_time": 1511.68,
+      "end_time": 1512.72,
+      "duration": 1.0399999999999636,
+      "dialogue_text": "Gracias."
+    },
+    {
+      "subtitle_index": 254,
+      "start_time": 1515.47,
+      "end_time": 1517.72,
+      "duration": 2.25,
+      "dialogue_text": "400 gramos de chuletas de cerdo fileteadas, por favor."
+    },
+    {
+      "subtitle_index": 255,
+      "start_time": 1518.52,
+      "end_time": 1519.72,
+      "duration": 1.2000000000000455,
+      "dialogue_text": "Inmediatamente."
+    },
+    {
+      "subtitle_index": 256,
+      "start_time": 1520.31,
+      "end_time": 1523.39,
+      "duration": 3.0800000000001546,
+      "dialogue_text": "- Aquí tiene, son 240 yenes. - Gracias."
+    },
+    {
+      "subtitle_index": 257,
+      "start_time": 1527.02,
+      "end_time": 1528.73,
+      "duration": 1.7100000000000364,
+      "dialogue_text": "Vuelva pronto."
+    },
+    {
+      "subtitle_index": 258,
+      "start_time": 1530.03,
+      "end_time": 1531.19,
+      "duration": 1.1600000000000819,
+      "dialogue_text": "Gracias."
+    },
+    {
+      "subtitle_index": 259,
+      "start_time": 1532.03,
+      "end_time": 1532.9,
+      "duration": 0.8700000000001182,
+      "dialogue_text": "Toma."
+    },
+    {
+      "subtitle_index": 260,
+      "start_time": 1535.78,
+      "end_time": 1537.74,
+      "duration": 1.9600000000000364,
+      "dialogue_text": "Necesito energía para volver a casa."
+    },
+    {
+      "subtitle_index": 261,
+      "start_time": 1538.49,
+      "end_time": 1539.91,
+      "duration": 1.4200000000000728,
+      "dialogue_text": "¿Dónde está tu casa?"
+    },
+    {
+      "subtitle_index": 262,
+      "start_time": 1540.45,
+      "end_time": 1542.75,
+      "duration": 2.2999999999999545,
+      "dialogue_text": "- En el puerto. - Vaya, qué lejos."
+    },
+    {
+      "subtitle_index": 263,
+      "start_time": 1546.34,
+      "end_time": 1547.5,
+      "duration": 1.1600000000000819,
+      "dialogue_text": "Nos vemos."
+    },
+    {
+      "subtitle_index": 264,
+      "start_time": 1549.38,
+      "end_time": 1550.76,
+      "duration": 1.3799999999998818,
+      "dialogue_text": "¡Gracias!"
+    },
+    {
+      "subtitle_index": 265,
+      "start_time": 1562.39,
+      "end_time": 1563.64,
+      "duration": 1.25,
+      "dialogue_text": "Está bueno."
+    },
+    {
+      "subtitle_index": 266,
+      "start_time": 1584.08,
+      "end_time": 1586.46,
+      "duration": 2.380000000000109,
+      "dialogue_text": "¿Puedo pasar?"
+    },
+    {
+      "subtitle_index": 267,
+      "start_time": 1588.88,
+      "end_time": 1590.34,
+      "duration": 1.459999999999809,
+      "dialogue_text": "¿No te encuentras bien?"
+    },
+    {
+      "subtitle_index": 268,
+      "start_time": 1595.26,
+      "end_time": 1596.72,
+      "duration": 1.4600000000000364,
+      "dialogue_text": "Adelántate, Sora."
+    },
+    {
+      "subtitle_index": 269,
+      "start_time": 1597.43,
+      "end_time": 1598.8,
+      "duration": 1.3699999999998909,
+      "dialogue_text": "Voy a entrar."
+    },
+    {
+      "subtitle_index": 270,
+      "start_time": 1611.32,
+      "end_time": 1612.73,
+      "duration": 1.4100000000000819,
+      "dialogue_text": "Increíble..."
+    },
+    {
+      "subtitle_index": 271,
+      "start_time": 1622.54,
+      "end_time": 1626.16,
+      "duration": 3.6200000000001182,
+      "dialogue_text": "No debería pintar de noche. Todos los colores están mal."
+    },
+    {
+      "subtitle_index": 272,
+      "start_time": 1627.29,
+      "end_time": 1629.0,
+      "duration": 1.7100000000000364,
+      "dialogue_text": "Es precioso."
+    },
+    {
+      "subtitle_index": 273,
+      "start_time": 1630.63,
+      "end_time": 1631.67,
+      "duration": 1.0399999999999636,
+      "dialogue_text": "¿Qué es?"
+    },
+    {
+      "subtitle_index": 274,
+      "start_time": 1635.8,
+      "end_time": 1639.51,
+      "duration": 3.7100000000000364,
+      "dialogue_text": "Ese remolcador pasa a menudo. Creo que responde a tus banderas."
+    },
+    {
+      "subtitle_index": 275,
+      "start_time": 1640.3,
+      "end_time": 1643.01,
+      "duration": 2.7100000000000364,
+      "dialogue_text": "Supongo que no se puede ver desde aquí."
+    },
+    {
+      "subtitle_index": 276,
+      "start_time": 1645.43,
+      "end_time": 1647.02,
+      "duration": 1.5899999999999181,
+      "dialogue_text": "¿Responde a mi mensaje?"
+    },
+    {
+      "subtitle_index": 277,
+      "start_time": 1655.61,
+      "end_time": 1657.03,
+      "duration": 1.4200000000000728,
+      "dialogue_text": "Necesito comida."
+    },
+    {
+      "subtitle_index": 278,
+      "start_time": 1678.84,
+      "end_time": 1679.8,
+      "duration": 0.9600000000000364,
+      "dialogue_text": "Buenos días."
+    },
+    {
+      "subtitle_index": 279,
+      "start_time": 1681.51,
+      "end_time": 1683.72,
+      "duration": 2.2100000000000364,
+      "dialogue_text": "Ya está impreso. Tú caligrafía es excelente."
+    },
+    {
+      "subtitle_index": 280,
+      "start_time": 1684.85,
+      "end_time": 1686.22,
+      "duration": 1.3700000000001182,
+      "dialogue_text": "Gracias."
+    },
+    {
+      "subtitle_index": 281,
+      "start_time": 1687.64,
+      "end_time": 1688.89,
+      "duration": 1.25,
+      "dialogue_text": "Esto..."
+    },
+    {
+      "subtitle_index": 282,
+      "start_time": 1694.19,
+      "end_time": 1696.4,
+      "duration": 2.2100000000000364,
+      "dialogue_text": "¿Puedo ayudarte con algo más?"
+    },
+    {
+      "subtitle_index": 283,
+      "start_time": 1696.86,
+      "end_time": 1697.9,
+      "duration": 1.040000000000191,
+      "dialogue_text": "Claro."
+    },
+    {
+      "subtitle_index": 284,
+      "start_time": 1699.41,
+      "end_time": 1702.82,
+      "duration": 3.4099999999998545,
+      "dialogue_text": "Pero no puedo quedarme hasta tarde."
+    },
+    {
+      "subtitle_index": 285,
+      "start_time": 1703.33,
+      "end_time": 1707.25,
+      "duration": 3.9200000000000728,
+      "dialogue_text": "Te daré algunas plantillas. Puedes hacerlo en casa."
+    },
+    {
+      "subtitle_index": 286,
+      "start_time": 1709.29,
+      "end_time": 1713.21,
+      "duration": 3.9200000000000728,
+      "dialogue_text": "Hay un debate tras las clases, ¿por qué no vienes?"
+    },
+    {
+      "subtitle_index": 287,
+      "start_time": 1713.46,
+      "end_time": 1716.17,
+      "duration": 2.7100000000000364,
+      "dialogue_text": "Lo siento, pero hoy estoy ocupada."
+    },
+    {
+      "subtitle_index": 288,
+      "start_time": 1717.3,
+      "end_time": 1718.51,
+      "duration": 1.2100000000000364,
+      "dialogue_text": "Adiós."
+    },
+    {
+      "subtitle_index": 289,
+      "start_time": 1725.56,
+      "end_time": 1726.72,
+      "duration": 1.1600000000000819,
+      "dialogue_text": "¡Umi, espera!"
+    },
+    {
+      "subtitle_index": 290,
+      "start_time": 1727.06,
+      "end_time": 1728.1,
+      "duration": 1.0399999999999636,
+      "dialogue_text": "Vamos a por un helado."
+    },
+    {
+      "subtitle_index": 291,
+      "start_time": 1728.39,
+      "end_time": 1729.6,
+      "duration": 1.209999999999809,
+      "dialogue_text": "¿No tenéis reunión de club?"
+    },
+    {
+      "subtitle_index": 292,
+      "start_time": 1729.85,
+      "end_time": 1732.4,
+      "duration": 2.550000000000182,
+      "dialogue_text": "Se canceló por el debate."
+    },
+    {
+      "subtitle_index": 293,
+      "start_time": 1732.65,
+      "end_time": 1736.11,
+      "duration": 3.459999999999809,
+      "dialogue_text": "Lo siento, hoy no está Tomoko y tengo que volver pronto."
+    },
+    {
+      "subtitle_index": 294,
+      "start_time": 1736.73,
+      "end_time": 1739.28,
+      "duration": 2.5499999999999545,
+      "dialogue_text": "Venid todos, el debate va a comenzar."
+    },
+    {
+      "subtitle_index": 295,
+      "start_time": 1739.61,
+      "end_time": 1743.61,
+      "duration": 4.0,
+      "dialogue_text": "DECIDIDO: ¡LA CASA DE ESTUDIANTES DEBE CONSERVARSE!"
+    },
+    {
+      "subtitle_index": 296,
+      "start_time": 1743.91,
+      "end_time": 1745.87,
+      "duration": 1.959999999999809,
+      "dialogue_text": "Bien, sujetadla ahí."
+    },
+    {
+      "subtitle_index": 297,
+      "start_time": 1748.54,
+      "end_time": 1749.95,
+      "duration": 1.4100000000000819,
+      "dialogue_text": "Esto se va a poner feo."
+    },
+    {
+      "subtitle_index": 298,
+      "start_time": 1754.67,
+      "end_time": 1758.88,
+      "duration": 4.210000000000036,
+      "dialogue_text": "Buenas tardes, ¿vas hacia casa? Tengo unos lenguados buenísimos."
+    },
+    {
+      "subtitle_index": 299,
+      "start_time": 1759.26,
+      "end_time": 1760.97,
+      "duration": 1.7100000000000364,
+      "dialogue_text": "Vale, compraré un poco."
+    },
+    {
+      "subtitle_index": 300,
+      "start_time": 1762.43,
+      "end_time": 1765.8,
+      "duration": 3.369999999999891,
+      "dialogue_text": "- ¿Ha vuelto ya tu madre? - Aún no."
+    },
+    {
+      "subtitle_index": 301,
+      "start_time": 1766.01,
+      "end_time": 1767.64,
+      "duration": 1.6300000000001091,
+      "dialogue_text": "¡Volveré luego!"
+    },
+    {
+      "subtitle_index": 302,
+      "start_time": 1767.85,
+      "end_time": 1768.81,
+      "duration": 0.9600000000000364,
+      "dialogue_text": "¿Qué ocurre?"
+    },
+    {
+      "subtitle_index": 303,
+      "start_time": 1774.52,
+      "end_time": 1779.32,
+      "duration": 4.7999999999999545,
+      "dialogue_text": "Llevamos casi 10 años de paz. Las Olimpiadas son dentro de nada."
+    },
+    {
+      "subtitle_index": 304,
+      "start_time": 1780.32,
+      "end_time": 1785.32,
+      "duration": 5.0,
+      "dialogue_text": "Es una nueva era. Japón está cambiando radicalmente."
+    },
+    {
+      "subtitle_index": 305,
+      "start_time": 1785.78,
+      "end_time": 1790.16,
+      "duration": 4.380000000000109,
+      "dialogue_text": "Debemos construir una sociedad nueva sobre las ruinas de la antigua."
+    },
+    {
+      "subtitle_index": 306,
+      "start_time": 1791.5,
+      "end_time": 1794.17,
+      "duration": 2.6700000000000728,
+      "dialogue_text": "Echar abajo la Casa de Estudiantes..."
+    },
+    {
+      "subtitle_index": 307,
+      "start_time": 1794.33,
+      "end_time": 1797.79,
+      "duration": 3.4600000000000364,
+      "dialogue_text": "y construir una nueva Casa de Clubes es una necesidad histórica."
+    },
+    {
+      "subtitle_index": 308,
+      "start_time": 1798.17,
+      "end_time": 1799.75,
+      "duration": 1.5799999999999272,
+      "dialogue_text": "Y es lo que quieren los estudiantes."
+    },
+    {
+      "subtitle_index": 309,
+      "start_time": 1799.96,
+      "end_time": 1801.01,
+      "duration": 1.0499999999999545,
+      "dialogue_text": "¡Umi!"
+    },
+    {
+      "subtitle_index": 310,
+      "start_time": 1801.51,
+      "end_time": 1802.67,
+      "duration": 1.1600000000000819,
+      "dialogue_text": "¿Qué pasa?"
+    },
+    {
+      "subtitle_index": 311,
+      "start_time": 1802.93,
+      "end_time": 1804.59,
+      "duration": 1.6599999999998545,
+      "dialogue_text": "No lo sé segura."
+    },
+    {
+      "subtitle_index": 312,
+      "start_time": 1805.84,
+      "end_time": 1809.26,
+      "duration": 3.4200000000000728,
+      "dialogue_text": "Hemos preguntado a los estudiantes sobre la nueva Casa de Clubes."
+    },
+    {
+      "subtitle_index": 313,
+      "start_time": 1809.43,
+      "end_time": 1813.85,
+      "duration": 4.419999999999845,
+      "dialogue_text": "El 80 por ciento de los estudiantes quieren construir una casa nueva."
+    },
+    {
+      "subtitle_index": 314,
+      "start_time": 1814.27,
+      "end_time": 1817.94,
+      "duration": 3.6700000000000728,
+      "dialogue_text": "Creo que debemos aceptar el plan de la junta."
+    },
+    {
+      "subtitle_index": 315,
+      "start_time": 1821.32,
+      "end_time": 1823.69,
+      "duration": 2.3700000000001182,
+      "dialogue_text": "Eres igual que los viejos que gobiernan este país..."
+    },
+    {
+      "subtitle_index": 316,
+      "start_time": 1823.99,
+      "end_time": 1826.66,
+      "duration": 2.6700000000000728,
+      "dialogue_text": "siguiendo ciegamente a la multitud."
+    },
+    {
+      "subtitle_index": 317,
+      "start_time": 1827.16,
+      "end_time": 1829.16,
+      "duration": 2.0,
+      "dialogue_text": "¡Silencio! Tengo la vez."
+    },
+    {
+      "subtitle_index": 318,
+      "start_time": 1829.58,
+      "end_time": 1833.87,
+      "duration": 4.289999999999964,
+      "dialogue_text": "¿A quién le importan los porcentajes cuanto estás equivocado? ¡Burros!"
+    },
+    {
+      "subtitle_index": 319,
+      "start_time": 1834.46,
+      "end_time": 1835.96,
+      "duration": 1.5,
+      "dialogue_text": "¡Esperad a vuestro turno!"
+    },
+    {
+      "subtitle_index": 320,
+      "start_time": 1838.0,
+      "end_time": 1840.84,
+      "duration": 2.839999999999918,
+      "dialogue_text": "¿Es esto la tiranía de la mayoría?"
+    },
+    {
+      "subtitle_index": 321,
+      "start_time": 1841.05,
+      "end_time": 1843.71,
+      "duration": 2.660000000000082,
+      "dialogue_text": "No comprendes el significado de democracia."
+    },
+    {
+      "subtitle_index": 322,
+      "start_time": 1852.27,
+      "end_time": 1855.23,
+      "duration": 2.9600000000000364,
+      "dialogue_text": "¿Queréis demoler algo? Demoled vuestras cabezas."
+    },
+    {
+      "subtitle_index": 323,
+      "start_time": 1855.39,
+      "end_time": 1856.89,
+      "duration": 1.5,
+      "dialogue_text": "¡Yo tengo la vez!"
+    },
+    {
+      "subtitle_index": 324,
+      "start_time": 1857.02,
+      "end_time": 1861.11,
+      "duration": 4.089999999999918,
+      "dialogue_text": "Destruid lo antiguo y destruiréis los recuerdos de nuestro pasado."
+    },
+    {
+      "subtitle_index": 325,
+      "start_time": 1861.36,
+      "end_time": 1865.4,
+      "duration": 4.040000000000191,
+      "dialogue_text": "¿No os importan las personas que vivieron y murieron antes que nosotros?"
+    },
+    {
+      "subtitle_index": 326,
+      "start_time": 1865.61,
+      "end_time": 1867.41,
+      "duration": 1.800000000000182,
+      "dialogue_text": "No hay futuro para las personas..."
+    },
+    {
+      "subtitle_index": 327,
+      "start_time": 1867.57,
+      "end_time": 1871.03,
+      "duration": 3.4600000000000364,
+      "dialogue_text": "que adoran el futuro y olvidan el pasado."
+    },
+    {
+      "subtitle_index": 328,
+      "start_time": 1871.29,
+      "end_time": 1875.25,
+      "duration": 3.9600000000000364,
+      "dialogue_text": "La democracia no significa que puedas ignorar a la minoría."
+    },
+    {
+      "subtitle_index": 329,
+      "start_time": 1875.41,
+      "end_time": 1877.67,
+      "duration": 2.259999999999991,
+      "dialogue_text": "¡Expulsad a los anarquistas!"
+    },
+    {
+      "subtitle_index": 330,
+      "start_time": 1879.46,
+      "end_time": 1880.46,
+      "duration": 1.0,
+      "dialogue_text": "¡Melé!"
+    },
+    {
+      "subtitle_index": 331,
+      "start_time": 1880.59,
+      "end_time": 1882.09,
+      "duration": 1.5,
+      "dialogue_text": "¡Expulsadlos!"
+    },
+    {
+      "subtitle_index": 332,
+      "start_time": 1882.71,
+      "end_time": 1885.46,
+      "duration": 2.75,
+      "dialogue_text": "¡Aguantad, chicos!"
+    },
+    {
+      "subtitle_index": 333,
+      "start_time": 1885.63,
+      "end_time": 1887.93,
+      "duration": 2.2999999999999545,
+      "dialogue_text": "Fuera del tablado. ¡Eres historia!"
+    },
+    {
+      "subtitle_index": 334,
+      "start_time": 1909.07,
+      "end_time": 1914.29,
+      "duration": 5.220000000000027,
+      "dialogue_text": "Florecía una blanca flor"
+    },
+    {
+      "subtitle_index": 335,
+      "start_time": 1914.66,
+      "end_time": 1921.63,
+      "duration": 6.970000000000027,
+      "dialogue_text": "Aquel día distante, en mi lejana patria"
+    },
+    {
+      "subtitle_index": 336,
+      "start_time": 1922.59,
+      "end_time": 1927.47,
+      "duration": 4.880000000000109,
+      "dialogue_text": "Cuando nos despedimos"
+    },
+    {
+      "subtitle_index": 337,
+      "start_time": 1928.09,
+      "end_time": 1933.35,
+      "duration": 5.259999999999991,
+      "dialogue_text": "Apartaste la mirada en silencio"
+    },
+    {
+      "subtitle_index": 338,
+      "start_time": 1933.51,
+      "end_time": 1937.98,
+      "duration": 4.470000000000027,
+      "dialogue_text": "Recuerdo tus largas trenzas"
+    },
+    {
+      "subtitle_index": 339,
+      "start_time": 1938.44,
+      "end_time": 1943.61,
+      "duration": 5.169999999999845,
+      "dialogue_text": "Y la tristeza de mi corazón."
+    },
+    {
+      "subtitle_index": 340,
+      "start_time": 1943.9,
+      "end_time": 1948.82,
+      "duration": 4.919999999999845,
+      "dialogue_text": "Y como la blanca flor"
+    },
+    {
+      "subtitle_index": 341,
+      "start_time": 1949.32,
+      "end_time": 1954.37,
+      "duration": 5.0499999999999545,
+      "dialogue_text": "floreció la tristeza en mi corazón"
+    },
+    {
+      "subtitle_index": 342,
+      "start_time": 1954.62,
+      "end_time": 1960.33,
+      "duration": 5.710000000000036,
+      "dialogue_text": "Como la blanca flor"
+    },
+    {
+      "subtitle_index": 343,
+      "start_time": 1965.42,
+      "end_time": 1967.0,
+      "duration": 1.5799999999999272,
+      "dialogue_text": "¿Qué te ha parecido?"
+    },
+    {
+      "subtitle_index": 344,
+      "start_time": 1967.13,
+      "end_time": 1970.51,
+      "duration": 3.3799999999998818,
+      "dialogue_text": "Ha sido increíble. Todo el mundo tenía tanta pasión."
+    },
+    {
+      "subtitle_index": 345,
+      "start_time": 1970.8,
+      "end_time": 1972.47,
+      "duration": 1.6700000000000728,
+      "dialogue_text": "Los debates son siempre así."
+    },
+    {
+      "subtitle_index": 346,
+      "start_time": 1972.76,
+      "end_time": 1975.35,
+      "duration": 2.589999999999918,
+      "dialogue_text": "La mayoría piensa que la Casa de Clubes debe eliminarse."
+    },
+    {
+      "subtitle_index": 347,
+      "start_time": 1975.72,
+      "end_time": 1977.52,
+      "duration": 1.7999999999999545,
+      "dialogue_text": "Mizunuma esta perdiendo la batalla."
+    },
+    {
+      "subtitle_index": 348,
+      "start_time": 1978.02,
+      "end_time": 1979.43,
+      "duration": 1.4100000000000819,
+      "dialogue_text": "¿Eso crees?"
+    },
+    {
+      "subtitle_index": 349,
+      "start_time": 1992.78,
+      "end_time": 1995.41,
+      "duration": 2.630000000000109,
+      "dialogue_text": "A lo mejor podrías limpiar la casa un poco."
+    },
+    {
+      "subtitle_index": 350,
+      "start_time": 1996.99,
+      "end_time": 1999.54,
+      "duration": 2.5499999999999545,
+      "dialogue_text": "Esta vieja, pero es una casa muy bonita."
+    },
+    {
+      "subtitle_index": 351,
+      "start_time": 1999.83,
+      "end_time": 2004.63,
+      "duration": 4.800000000000182,
+      "dialogue_text": "Que quede como nueva. Invitad a las chicas para que la vean."
+    },
+    {
+      "subtitle_index": 352,
+      "start_time": 2005.17,
+      "end_time": 2008.13,
+      "duration": 2.9600000000000364,
+      "dialogue_text": "- Entonces le gustará a todos. - Quizás tengas razón."
+    },
+    {
+      "subtitle_index": 353,
+      "start_time": 2008.67,
+      "end_time": 2012.22,
+      "duration": 3.5499999999999545,
+      "dialogue_text": "Pero los chicos piensan que toda esa suciedad es parte de su historia."
+    },
+    {
+      "subtitle_index": 354,
+      "start_time": 2012.47,
+      "end_time": 2015.34,
+      "duration": 2.869999999999891,
+      "dialogue_text": "La predicción de los parciales de física fue todo un éxito."
+    },
+    {
+      "subtitle_index": 355,
+      "start_time": 2015.76,
+      "end_time": 2018.39,
+      "duration": 2.630000000000109,
+      "dialogue_text": "Todo el mundo está esperando las predicciones para mates."
+    },
+    {
+      "subtitle_index": 356,
+      "start_time": 2018.77,
+      "end_time": 2020.02,
+      "duration": 1.25,
+      "dialogue_text": "Yo también."
+    },
+    {
+      "subtitle_index": 357,
+      "start_time": 2027.98,
+      "end_time": 2030.15,
+      "duration": 2.1700000000000728,
+      "dialogue_text": "Gracias. Has sido de gran ayuda."
+    },
+    {
+      "subtitle_index": 358,
+      "start_time": 2031.49,
+      "end_time": 2033.49,
+      "duration": 2.0,
+      "dialogue_text": "- Hasta luego. - Nos vemos."
+    },
+    {
+      "subtitle_index": 359,
+      "start_time": 2038.29,
+      "end_time": 2039.58,
+      "duration": 1.2899999999999636,
+      "dialogue_text": "¡Umi! Gracias."
+    },
+    {
+      "subtitle_index": 360,
+      "start_time": 2049.88,
+      "end_time": 2051.84,
+      "duration": 1.9600000000000364,
+      "dialogue_text": "¡Oh no! ¡El pescado!"
+    },
+    {
+      "subtitle_index": 361,
+      "start_time": 2055.26,
+      "end_time": 2060.6,
+      "duration": 5.339999999999691,
+      "dialogue_text": "...y entonces todos se pusieron a cantar. Engañaron a los profesores completamente."
+    },
+    {
+      "subtitle_index": 362,
+      "start_time": 2065.44,
+      "end_time": 2069.77,
+      "duration": 4.329999999999927,
+      "dialogue_text": "Parece que no ha cambiado nada desde que me gradué."
+    },
+    {
+      "subtitle_index": 363,
+      "start_time": 2069.94,
+      "end_time": 2073.78,
+      "duration": 3.8400000000001455,
+      "dialogue_text": "Vuestro presidente, Mizunuma, es el hermano pequeño de alguien de mi vieja clase."
+    },
+    {
+      "subtitle_index": 364,
+      "start_time": 2074.49,
+      "end_time": 2079.45,
+      "duration": 4.960000000000036,
+      "dialogue_text": "- ¿Su hermano también era un genio? - Su hermana. Ella es astrofísica."
+    },
+    {
+      "subtitle_index": 365,
+      "start_time": 2079.74,
+      "end_time": 2080.45,
+      "duration": 0.7100000000000364,
+      "dialogue_text": "Wow..."
+    },
+    {
+      "subtitle_index": 366,
+      "start_time": 2080.66,
+      "end_time": 2083.29,
+      "duration": 2.630000000000109,
+      "dialogue_text": "¿A qué viene tanta emoción?"
+    },
+    {
+      "subtitle_index": 367,
+      "start_time": 2083.46,
+      "end_time": 2085.96,
+      "duration": 2.5,
+      "dialogue_text": "- ¿Eso es whisky? - Reserva personal."
+    },
+    {
+      "subtitle_index": 368,
+      "start_time": 2086.17,
+      "end_time": 2087.63,
+      "duration": 1.4600000000000364,
+      "dialogue_text": "Cortaré algo de queso."
+    },
+    {
+      "subtitle_index": 369,
+      "start_time": 2087.79,
+      "end_time": 2090.0,
+      "duration": 2.2100000000000364,
+      "dialogue_text": "- ¿Puedo probarlo? - No, eres demasiado joven."
+    },
+    {
+      "subtitle_index": 370,
+      "start_time": 2090.38,
+      "end_time": 2093.46,
+      "duration": 3.0799999999999272,
+      "dialogue_text": "Umi, ¿por qué no invitamos a algunos viejos compañeros del instituto..."
+    },
+    {
+      "subtitle_index": 371,
+      "start_time": 2093.63,
+      "end_time": 2095.17,
+      "duration": 1.5399999999999636,
+      "dialogue_text": "a mi fiesta de despedida?"
+    },
+    {
+      "subtitle_index": 372,
+      "start_time": 2096.01,
+      "end_time": 2096.8,
+      "duration": 0.7899999999999636,
+      "dialogue_text": "¿A quién?"
+    },
+    {
+      "subtitle_index": 373,
+      "start_time": 2097.59,
+      "end_time": 2099.97,
+      "duration": 2.3799999999996544,
+      "dialogue_text": "Pues... a los chicos."
+    },
+    {
+      "subtitle_index": 374,
+      "start_time": 2101.93,
+      "end_time": 2103.31,
+      "duration": 1.3800000000001091,
+      "dialogue_text": "¿Chicos?"
+    },
+    {
+      "subtitle_index": 375,
+      "start_time": 2124.66,
+      "end_time": 2125.91,
+      "duration": 1.25,
+      "dialogue_text": "Hey."
+    },
+    {
+      "subtitle_index": 376,
+      "start_time": 2129.25,
+      "end_time": 2132.09,
+      "duration": 2.8400000000001455,
+      "dialogue_text": "H - O - K - U - T..."
+    },
+    {
+      "subtitle_index": 377,
+      "start_time": 2132.42,
+      "end_time": 2133.59,
+      "duration": 1.1700000000000728,
+      "dialogue_text": "Hokuto."
+    },
+    {
+      "subtitle_index": 378,
+      "start_time": 2133.71,
+      "end_time": 2136.47,
+      "duration": 2.7599999999997635,
+      "dialogue_text": "¿Sabes leer banderas de señales?"
+    },
+    {
+      "subtitle_index": 379,
+      "start_time": 2142.06,
+      "end_time": 2143.6,
+      "duration": 1.5399999999999636,
+      "dialogue_text": "Pasad, entrad por la puerta."
+    },
+    {
+      "subtitle_index": 380,
+      "start_time": 2144.72,
+      "end_time": 2145.85,
+      "duration": 1.1300000000001091,
+      "dialogue_text": "Ya voy."
+    },
+    {
+      "subtitle_index": 381,
+      "start_time": 2157.9,
+      "end_time": 2162.62,
+      "duration": 4.7199999999998,
+      "dialogue_text": "¿Por qué no te casas y abres un gabinete aquí?"
+    },
+    {
+      "subtitle_index": 382,
+      "start_time": 2162.87,
+      "end_time": 2164.54,
+      "duration": 1.6700000000000728,
+      "dialogue_text": "¡Tendríamos que marcharnos!"
+    },
+    {
+      "subtitle_index": 383,
+      "start_time": 2164.7,
+      "end_time": 2166.7,
+      "duration": 2.0,
+      "dialogue_text": "Ya estarás casada para entonces."
+    },
+    {
+      "subtitle_index": 384,
+      "start_time": 2167.04,
+      "end_time": 2168.62,
+      "duration": 1.5799999999999272,
+      "dialogue_text": "Será mejor que empiece a buscar."
+    },
+    {
+      "subtitle_index": 385,
+      "start_time": 2168.75,
+      "end_time": 2171.25,
+      "duration": 2.5,
+      "dialogue_text": "Seguro que encuentras algún chico guapo."
+    },
+    {
+      "subtitle_index": 386,
+      "start_time": 2171.38,
+      "end_time": 2172.71,
+      "duration": 1.3299999999999272,
+      "dialogue_text": "Pues claro que sí."
+    },
+    {
+      "subtitle_index": 387,
+      "start_time": 2173.13,
+      "end_time": 2177.05,
+      "duration": 3.9200000000000728,
+      "dialogue_text": "- El problema es el consejo de administración. - El director es un buen tío."
+    },
+    {
+      "subtitle_index": 388,
+      "start_time": 2177.22,
+      "end_time": 2180.72,
+      "duration": 3.5,
+      "dialogue_text": "- Ese se arrima al sol que más calienta. - El presidente es un viejo zorro."
+    },
+    {
+      "subtitle_index": 389,
+      "start_time": 2181.05,
+      "end_time": 2184.81,
+      "duration": 3.7599999999997635,
+      "dialogue_text": "¿Cuando va a renunciar el director?"
+    },
+    {
+      "subtitle_index": 390,
+      "start_time": 2185.06,
+      "end_time": 2188.73,
+      "duration": 3.6700000000000728,
+      "dialogue_text": "Creo que podemos ocuparnos de ellos, pero necesitamos una estrategia."
+    },
+    {
+      "subtitle_index": 391,
+      "start_time": 2188.89,
+      "end_time": 2193.9,
+      "duration": 5.010000000000218,
+      "dialogue_text": "Aun con una estrategia, ¿qué podemos hacer?"
+    },
+    {
+      "subtitle_index": 392,
+      "start_time": 2194.82,
+      "end_time": 2196.48,
+      "duration": 1.6599999999998545,
+      "dialogue_text": "Necesitamos más vasos."
+    },
+    {
+      "subtitle_index": 393,
+      "start_time": 2196.74,
+      "end_time": 2199.65,
+      "duration": 2.9100000000003092,
+      "dialogue_text": "Lavaré algunos. Toma, saca esto."
+    },
+    {
+      "subtitle_index": 394,
+      "start_time": 2203.99,
+      "end_time": 2205.99,
+      "duration": 2.0,
+      "dialogue_text": "Ya está aquí el sushi."
+    },
+    {
+      "subtitle_index": 395,
+      "start_time": 2206.75,
+      "end_time": 2207.91,
+      "duration": 1.1599999999998545,
+      "dialogue_text": "¡Por fin!"
+    },
+    {
+      "subtitle_index": 396,
+      "start_time": 2208.41,
+      "end_time": 2212.92,
+      "duration": 4.510000000000218,
+      "dialogue_text": "Esta casa tiene 60 años. Antes era un hospital."
+    },
+    {
+      "subtitle_index": 397,
+      "start_time": 2222.18,
+      "end_time": 2224.93,
+      "duration": 2.75,
+      "dialogue_text": "A mi bisabuelo le encantaban los gatos."
+    },
+    {
+      "subtitle_index": 398,
+      "start_time": 2226.06,
+      "end_time": 2230.43,
+      "duration": 4.369999999999891,
+      "dialogue_text": "Igual que la Casa de Clubes, pero esta parece nueva."
+    },
+    {
+      "subtitle_index": 399,
+      "start_time": 2231.39,
+      "end_time": 2233.73,
+      "duration": 2.3400000000001455,
+      "dialogue_text": "Cuidas muy bien de ella."
+    },
+    {
+      "subtitle_index": 400,
+      "start_time": 2235.07,
+      "end_time": 2238.73,
+      "duration": 3.6599999999998545,
+      "dialogue_text": "¿Tu padre también fue médico?"
+    },
+    {
+      "subtitle_index": 401,
+      "start_time": 2238.9,
+      "end_time": 2241.57,
+      "duration": 2.6700000000000728,
+      "dialogue_text": "No, era capitán de barco."
+    },
+    {
+      "subtitle_index": 402,
+      "start_time": 2244.45,
+      "end_time": 2248.74,
+      "duration": 4.289999999999964,
+      "dialogue_text": "Tu sonrisa perdura en nosotros"
+    },
+    {
+      "subtitle_index": 403,
+      "start_time": 2249.2,
+      "end_time": 2253.67,
+      "duration": 4.470000000000255,
+      "dialogue_text": "Y te marchas, te alejas de aquí"
+    },
+    {
+      "subtitle_index": 404,
+      "start_time": 2254.08,
+      "end_time": 2257.2,
+      "duration": 3.119999999999891,
+      "dialogue_text": "Pero el valle que sabe tus penas"
+    },
+    {
+      "subtitle_index": 405,
+      "start_time": 2257.26,
+      "end_time": 2259.83,
+      "duration": 2.569999999999709,
+      "dialogue_text": "Brillará en tu camino al partir"
+    },
+    {
+      "subtitle_index": 406,
+      "start_time": 2257.38,
+      "end_time": 2259.76,
+      "duration": 2.380000000000109,
+      "dialogue_text": "Así que tu madre se casó con un marinero."
+    },
+    {
+      "subtitle_index": 407,
+      "start_time": 2259.97,
+      "end_time": 2263.05,
+      "duration": 3.080000000000382,
+      "dialogue_text": "Mis abuelos se oponían rotundamente."
+    },
+    {
+      "subtitle_index": 408,
+      "start_time": 2263.22,
+      "end_time": 2264.8,
+      "duration": 1.580000000000382,
+      "dialogue_text": "Intentaron pararles."
+    },
+    {
+      "subtitle_index": 409,
+      "start_time": 2265.26,
+      "end_time": 2268.97,
+      "duration": 3.7099999999995816,
+      "dialogue_text": "Así que mamá se escapó y se fugaron juntos."
+    },
+    {
+      "subtitle_index": 410,
+      "start_time": 2269.1,
+      "end_time": 2272.98,
+      "duration": 3.880000000000109,
+      "dialogue_text": "Para eso hace falta valor. He oído que tu madre es profesora."
+    },
+    {
+      "subtitle_index": 411,
+      "start_time": 2275.44,
+      "end_time": 2278.32,
+      "duration": 2.880000000000109,
+      "dialogue_text": "Y las banderas de señales... ¿te enseño tu padre?"
+    },
+    {
+      "subtitle_index": 412,
+      "start_time": 2283.95,
+      "end_time": 2286.78,
+      "duration": 2.830000000000382,
+      "dialogue_text": "Sí, cuando era pequeña."
+    },
+    {
+      "subtitle_index": 413,
+      "start_time": 2290.7,
+      "end_time": 2295.96,
+      "duration": 5.260000000000218,
+      "dialogue_text": "Decía que le ayudaban a encontrar el camino de vuelta a casa."
+    },
+    {
+      "subtitle_index": 414,
+      "start_time": 2296.17,
+      "end_time": 2298.29,
+      "duration": 2.119999999999891,
+      "dialogue_text": "Por eso las izaba cada día."
+    },
+    {
+      "subtitle_index": 415,
+      "start_time": 2300.09,
+      "end_time": 2304.97,
+      "duration": 4.879999999999654,
+      "dialogue_text": "Las ponía en el balcón hasta que su barco volvía a puerto."
+    },
+    {
+      "subtitle_index": 416,
+      "start_time": 2305.93,
+      "end_time": 2308.22,
+      "duration": 2.2899999999999636,
+      "dialogue_text": "Todos los días."
+    },
+    {
+      "subtitle_index": 417,
+      "start_time": 2310.97,
+      "end_time": 2314.18,
+      "duration": 3.2100000000000364,
+      "dialogue_text": "Y entonces su barco se hundió en la Guerra de Corea."
+    },
+    {
+      "subtitle_index": 418,
+      "start_time": 2314.35,
+      "end_time": 2316.02,
+      "duration": 1.6700000000000728,
+      "dialogue_text": "Y eso fue todo."
+    },
+    {
+      "subtitle_index": 419,
+      "start_time": 2316.81,
+      "end_time": 2319.48,
+      "duration": 2.6700000000000728,
+      "dialogue_text": "Pero nunca dejé de izar las banderas."
+    },
+    {
+      "subtitle_index": 420,
+      "start_time": 2324.15,
+      "end_time": 2328.82,
+      "duration": 4.670000000000073,
+      "dialogue_text": "Cuando me mudé aquí no podía dejar de llorar."
+    },
+    {
+      "subtitle_index": 421,
+      "start_time": 2329.12,
+      "end_time": 2331.49,
+      "duration": 2.369999999999891,
+      "dialogue_text": "No podía izar las banderas de papá en ningún sitio."
+    },
+    {
+      "subtitle_index": 422,
+      "start_time": 2331.7,
+      "end_time": 2334.0,
+      "duration": 2.300000000000182,
+      "dialogue_text": "Así que mi abuelo me construyó un mástil."
+    },
+    {
+      "subtitle_index": 423,
+      "start_time": 2349.26,
+      "end_time": 2350.51,
+      "duration": 1.25,
+      "dialogue_text": "Abriré las cortinas."
+    },
+    {
+      "subtitle_index": 424,
+      "start_time": 2353.68,
+      "end_time": 2356.48,
+      "duration": 2.800000000000182,
+      "dialogue_text": "Está solía ser la oficina de mi abuelo."
+    },
+    {
+      "subtitle_index": 425,
+      "start_time": 2356.6,
+      "end_time": 2358.9,
+      "duration": 2.300000000000182,
+      "dialogue_text": "Ahora es el estudio de mi madre."
+    },
+    {
+      "subtitle_index": 426,
+      "start_time": 2359.19,
+      "end_time": 2361.02,
+      "duration": 1.8299999999999272,
+      "dialogue_text": "Parece una biblioteca."
+    },
+    {
+      "subtitle_index": 427,
+      "start_time": 2362.53,
+      "end_time": 2364.36,
+      "duration": 1.8299999999999272,
+      "dialogue_text": "¿Esta es tu familia?"
+    },
+    {
+      "subtitle_index": 428,
+      "start_time": 2364.86,
+      "end_time": 2365.61,
+      "duration": 0.75,
+      "dialogue_text": "Sí."
+    },
+    {
+      "subtitle_index": 429,
+      "start_time": 2366.91,
+      "end_time": 2367.74,
+      "duration": 0.8299999999999272,
+      "dialogue_text": "¿Tu padre?"
+    },
+    {
+      "subtitle_index": 430,
+      "start_time": 2370.37,
+      "end_time": 2373.54,
+      "duration": 3.1700000000000728,
+      "dialogue_text": "Mi abuelo. Mi padre es este."
+    },
+    {
+      "subtitle_index": 431,
+      "start_time": 2377.75,
+      "end_time": 2381.04,
+      "duration": 3.2899999999999636,
+      "dialogue_text": "¿A que es guapo? Es de cuando se casó."
+    },
+    {
+      "subtitle_index": 432,
+      "start_time": 2382.38,
+      "end_time": 2384.71,
+      "duration": 2.3299999999999272,
+      "dialogue_text": "Esta es la foto que más me gusta."
+    },
+    {
+      "subtitle_index": 433,
+      "start_time": 2395.39,
+      "end_time": 2397.23,
+      "duration": 1.8400000000001455,
+      "dialogue_text": "¿Yuichiro Sawamura...?"
+    },
+    {
+      "subtitle_index": 434,
+      "start_time": 2397.6,
+      "end_time": 2400.94,
+      "duration": 3.3400000000001455,
+      "dialogue_text": "Es mi padre. Matsuzaki es el apellido de mi madre."
+    },
+    {
+      "subtitle_index": 435,
+      "start_time": 2401.73,
+      "end_time": 2403.98,
+      "duration": 2.25,
+      "dialogue_text": "Venid, Hokuto va a hablar."
+    },
+    {
+      "subtitle_index": 436,
+      "start_time": 2404.73,
+      "end_time": 2406.9,
+      "duration": 2.1700000000000728,
+      "dialogue_text": "Será mejor que bajemos."
+    },
+    {
+      "subtitle_index": 437,
+      "start_time": 2456.62,
+      "end_time": 2458.12,
+      "duration": 1.5,
+      "dialogue_text": "Ya he vuelto."
+    },
+    {
+      "subtitle_index": 438,
+      "start_time": 2466.46,
+      "end_time": 2467.63,
+      "duration": 1.1700000000000728,
+      "dialogue_text": "Llegas tarde."
+    },
+    {
+      "subtitle_index": 439,
+      "start_time": 2469.01,
+      "end_time": 2471.13,
+      "duration": 2.119999999999891,
+      "dialogue_text": "Vas a preocupar a tu madre."
+    },
+    {
+      "subtitle_index": 440,
+      "start_time": 2480.98,
+      "end_time": 2484.81,
+      "duration": 3.8299999999999272,
+      "dialogue_text": "- Shun, ¿has cenado? - Sí, ya he comido."
+    },
+    {
+      "subtitle_index": 441,
+      "start_time": 2505.84,
+      "end_time": 2509.34,
+      "duration": 3.5,
+      "dialogue_text": "YOSHIO ONODERA - HIROSHI TACHIBANA YUICHIRO SAWAMURA"
+    },
+    {
+      "subtitle_index": 442,
+      "start_time": 2513.34,
+      "end_time": 2515.51,
+      "duration": 2.1700000000000728,
+      "dialogue_text": "Yuichiro Sawamura..."
+    },
+    {
+      "subtitle_index": 443,
+      "start_time": 2536.7,
+      "end_time": 2538.37,
+      "duration": 1.6700000000000728,
+      "dialogue_text": "Gracias por venir."
+    },
+    {
+      "subtitle_index": 444,
+      "start_time": 2539.33,
+      "end_time": 2540.24,
+      "duration": 0.9099999999998545,
+      "dialogue_text": "¿Qué ocurre?"
+    },
+    {
+      "subtitle_index": 445,
+      "start_time": 2547.21,
+      "end_time": 2550.75,
+      "duration": 3.5399999999999636,
+      "dialogue_text": "Bienvenidas, voluntarias. La Casa de Estudiantes es vuestra casa."
+    },
+    {
+      "subtitle_index": 446,
+      "start_time": 2551.55,
+      "end_time": 2555.05,
+      "duration": 3.5,
+      "dialogue_text": "Os damos nuestro más profundo agradecimiento..."
+    },
+    {
+      "subtitle_index": 447,
+      "start_time": 2555.3,
+      "end_time": 2558.89,
+      "duration": 3.5899999999996908,
+      "dialogue_text": "por ayudarnos a conservar este ilustre edificio."
+    },
+    {
+      "subtitle_index": 448,
+      "start_time": 2565.1,
+      "end_time": 2568.94,
+      "duration": 3.8400000000001455,
+      "dialogue_text": "Recordad chicos. El trabajo pesado es cosa vuestra."
+    },
+    {
+      "subtitle_index": 449,
+      "start_time": 2571.73,
+      "end_time": 2572.82,
+      "duration": 1.0900000000001455,
+      "dialogue_text": "¡Adelante!"
+    },
+    {
+      "subtitle_index": 450,
+      "start_time": 2589.04,
+      "end_time": 2591.21,
+      "duration": 2.1700000000000728,
+      "dialogue_text": "¡Mi templo de la razón!"
+    },
+    {
+      "subtitle_index": 451,
+      "start_time": 2591.42,
+      "end_time": 2594.46,
+      "duration": 3.0399999999999636,
+      "dialogue_text": "- Sin excepciones, son las reglas. - Muy bien, listos."
+    },
+    {
+      "subtitle_index": 452,
+      "start_time": 2594.59,
+      "end_time": 2595.92,
+      "duration": 1.3299999999999272,
+      "dialogue_text": "Allá vamos."
+    },
+    {
+      "subtitle_index": 453,
+      "start_time": 2609.61,
+      "end_time": 2611.61,
+      "duration": 2.0,
+      "dialogue_text": "Oye, con cuidado."
+    },
+    {
+      "subtitle_index": 454,
+      "start_time": 2617.95,
+      "end_time": 2619.45,
+      "duration": 1.5,
+      "dialogue_text": "¡Eh, cuidado!"
+    },
+    {
+      "subtitle_index": 455,
+      "start_time": 2639.47,
+      "end_time": 2643.06,
+      "duration": 3.5900000000001455,
+      "dialogue_text": "Primer año de mates... Segundo año de mates... Son exámenes viejos."
+    },
+    {
+      "subtitle_index": 456,
+      "start_time": 2643.97,
+      "end_time": 2645.85,
+      "duration": 1.8800000000001091,
+      "dialogue_text": "Los usamos para las predicciones."
+    },
+    {
+      "subtitle_index": 457,
+      "start_time": 2646.31,
+      "end_time": 2650.48,
+      "duration": 4.170000000000073,
+      "dialogue_text": "Aquí está el final de mates de la Dra. Hokuto. Sacó un 10."
+    },
+    {
+      "subtitle_index": 458,
+      "start_time": 2660.28,
+      "end_time": 2663.49,
+      "duration": 3.2099999999995816,
+      "dialogue_text": "Sustitúyeme. Tenemos que mover todo."
+    },
+    {
+      "subtitle_index": 459,
+      "start_time": 2663.99,
+      "end_time": 2665.66,
+      "duration": 1.6700000000000728,
+      "dialogue_text": "Yo te ayudo."
+    },
+    {
+      "subtitle_index": 460,
+      "start_time": 2668.67,
+      "end_time": 2670.0,
+      "duration": 1.3299999999999272,
+      "dialogue_text": "Atenta, Matsuzaki."
+    },
+    {
+      "subtitle_index": 461,
+      "start_time": 2671.58,
+      "end_time": 2676.0,
+      "duration": 4.420000000000073,
+      "dialogue_text": "Mizunuma ha dicho que tiremos todo lo que no estemos seguros de necesitar."
+    },
+    {
+      "subtitle_index": 462,
+      "start_time": 2683.35,
+      "end_time": 2684.64,
+      "duration": 1.2899999999999636,
+      "dialogue_text": "Está incrustado."
+    },
+    {
+      "subtitle_index": 463,
+      "start_time": 2684.89,
+      "end_time": 2686.77,
+      "duration": 1.8800000000001091,
+      "dialogue_text": "¿Es que los chicos nunca limpiáis?"
+    },
+    {
+      "subtitle_index": 464,
+      "start_time": 2687.02,
+      "end_time": 2689.39,
+      "duration": 2.369999999999891,
+      "dialogue_text": "Ni una vez desde que estoy aquí."
+    },
+    {
+      "subtitle_index": 465,
+      "start_time": 2690.85,
+      "end_time": 2693.02,
+      "duration": 2.1700000000000728,
+      "dialogue_text": "Será mejor que mañana vengan las chicas de bádminton."
+    },
+    {
+      "subtitle_index": 466,
+      "start_time": 2693.86,
+      "end_time": 2695.52,
+      "duration": 1.6599999999998545,
+      "dialogue_text": "Por favor."
+    },
+    {
+      "subtitle_index": 467,
+      "start_time": 2725.85,
+      "end_time": 2728.6,
+      "duration": 2.75,
+      "dialogue_text": "Sora, me voy ya."
+    },
+    {
+      "subtitle_index": 468,
+      "start_time": 2728.89,
+      "end_time": 2730.06,
+      "duration": 1.1700000000000728,
+      "dialogue_text": "Vale."
+    },
+    {
+      "subtitle_index": 469,
+      "start_time": 2730.23,
+      "end_time": 2732.73,
+      "duration": 2.5,
+      "dialogue_text": "Volveré para la cena."
+    },
+    {
+      "subtitle_index": 470,
+      "start_time": 2751.12,
+      "end_time": 2753.12,
+      "duration": 2.0,
+      "dialogue_text": "¿Ha pasado algo?"
+    },
+    {
+      "subtitle_index": 471,
+      "start_time": 2755.13,
+      "end_time": 2756.59,
+      "duration": 1.4600000000000364,
+      "dialogue_text": "Nada en absoluto."
+    },
+    {
+      "subtitle_index": 472,
+      "start_time": 2758.42,
+      "end_time": 2759.92,
+      "duration": 1.5,
+      "dialogue_text": "Hasta mañana."
+    },
+    {
+      "subtitle_index": 473,
+      "start_time": 2815.23,
+      "end_time": 2817.81,
+      "duration": 2.5799999999999272,
+      "dialogue_text": "Papá, ¿puedo preguntarte una cosa?"
+    },
+    {
+      "subtitle_index": 474,
+      "start_time": 2819.32,
+      "end_time": 2821.65,
+      "duration": 2.3299999999999272,
+      "dialogue_text": "Estoy trabajando. Que sea rápido."
+    },
+    {
+      "subtitle_index": 475,
+      "start_time": 2823.24,
+      "end_time": 2827.7,
+      "duration": 4.460000000000036,
+      "dialogue_text": "Yuichiro Sawamura. Es mi verdadero padre, ¿verdad?"
+    },
+    {
+      "subtitle_index": 476,
+      "start_time": 2832.04,
+      "end_time": 2834.33,
+      "duration": 2.2899999999999636,
+      "dialogue_text": "Ya hemos hablado de eso."
+    },
+    {
+      "subtitle_index": 477,
+      "start_time": 2837.54,
+      "end_time": 2838.88,
+      "duration": 1.3400000000001455,
+      "dialogue_text": "Eres mi hijo."
+    },
+    {
+      "subtitle_index": 478,
+      "start_time": 2878.37,
+      "end_time": 2880.88,
+      "duration": 2.5100000000002183,
+      "dialogue_text": "Soplaba un fuerte viento la noche que Sawamura te trajo."
+    },
+    {
+      "subtitle_index": 479,
+      "start_time": 2882.55,
+      "end_time": 2887.22,
+      "duration": 4.669999999999618,
+      "dialogue_text": "Traía con él su Libro de Familia."
+    },
+    {
+      "subtitle_index": 480,
+      "start_time": 2899.69,
+      "end_time": 2902.56,
+      "duration": 2.869999999999891,
+      "dialogue_text": "Nosotros acabábamos de perder a un hijo."
+    },
+    {
+      "subtitle_index": 481,
+      "start_time": 2904.15,
+      "end_time": 2907.4,
+      "duration": 3.25,
+      "dialogue_text": "Lo siguiente que recuerdo es a tu madre dándote el pecho."
+    },
+    {
+      "subtitle_index": 482,
+      "start_time": 2907.65,
+      "end_time": 2909.4,
+      "duration": 1.75,
+      "dialogue_text": "Ella no iba a dejarte ir."
+    },
+    {
+      "subtitle_index": 483,
+      "start_time": 2914.58,
+      "end_time": 2916.75,
+      "duration": 2.1700000000000728,
+      "dialogue_text": "Sawamura era un buen marinero."
+    },
+    {
+      "subtitle_index": 484,
+      "start_time": 2916.95,
+      "end_time": 2921.5,
+      "duration": 4.550000000000182,
+      "dialogue_text": "Su barco de suministros se hundió durante una batalla en la Guerra de Corea."
+    },
+    {
+      "subtitle_index": 485,
+      "start_time": 2922.13,
+      "end_time": 2924.59,
+      "duration": 2.4600000000000364,
+      "dialogue_text": "Nos estuvo ayudando hasta el mismo final."
+    },
+    {
+      "subtitle_index": 486,
+      "start_time": 2926.88,
+      "end_time": 2929.88,
+      "duration": 3.0,
+      "dialogue_text": "Cada día me recuerdas más a él."
+    },
+    {
+      "subtitle_index": 487,
+      "start_time": 2930.55,
+      "end_time": 2932.51,
+      "duration": 1.9600000000000364,
+      "dialogue_text": "Pero aun así eres nuestro hijo."
+    },
+    {
+      "subtitle_index": 488,
+      "start_time": 2934.6,
+      "end_time": 2936.93,
+      "duration": 2.3299999999999272,
+      "dialogue_text": "Gracias papá."
+    },
+    {
+      "subtitle_index": 489,
+      "start_time": 2961.75,
+      "end_time": 2963.29,
+      "duration": 1.5399999999999636,
+      "dialogue_text": "¿Está ahí fuera?"
+    },
+    {
+      "subtitle_index": 490,
+      "start_time": 2963.5,
+      "end_time": 2964.79,
+      "duration": 1.2899999999999636,
+      "dialogue_text": "Aún no."
+    },
+    {
+      "subtitle_index": 491,
+      "start_time": 2976.14,
+      "end_time": 2978.31,
+      "duration": 2.1700000000000728,
+      "dialogue_text": "Supongo que hoy no va a pasar."
+    },
+    {
+      "subtitle_index": 492,
+      "start_time": 3014.01,
+      "end_time": 3018.39,
+      "duration": 4.379999999999654,
+      "dialogue_text": "¡EL RENACER DE LA CASA DE ESTUDIANTES!"
+    },
+    {
+      "subtitle_index": 493,
+      "start_time": 3029.44,
+      "end_time": 3030.69,
+      "duration": 1.25,
+      "dialogue_text": "¿Puedo...?"
+    },
+    {
+      "subtitle_index": 494,
+      "start_time": 3030.86,
+      "end_time": 3032.74,
+      "duration": 1.8799999999996544,
+      "dialogue_text": "Pasa, Umi."
+    },
+    {
+      "subtitle_index": 495,
+      "start_time": 3038.28,
+      "end_time": 3039.7,
+      "duration": 1.419999999999618,
+      "dialogue_text": "Te vas de verdad."
+    },
+    {
+      "subtitle_index": 496,
+      "start_time": 3040.04,
+      "end_time": 3041.7,
+      "duration": 1.6599999999998545,
+      "dialogue_text": "Gracias por toda tu ayuda."
+    },
+    {
+      "subtitle_index": 497,
+      "start_time": 3042.08,
+      "end_time": 3046.21,
+      "duration": 4.130000000000109,
+      "dialogue_text": "- Ojalá pudiera verte marchar. - No te preocupes, todo irá bien."
+    },
+    {
+      "subtitle_index": 498,
+      "start_time": 3047.38,
+      "end_time": 3048.54,
+      "duration": 1.1599999999998545,
+      "dialogue_text": "Te echaremos de menos."
+    },
+    {
+      "subtitle_index": 499,
+      "start_time": 3049.59,
+      "end_time": 3053.3,
+      "duration": 3.7100000000000364,
+      "dialogue_text": "Me pasaré de vez en cuando. Vete, no llegues tarde a la escuela."
+    },
+    {
+      "subtitle_index": 500,
+      "start_time": 3057.72,
+      "end_time": 3059.6,
+      "duration": 1.8800000000001091,
+      "dialogue_text": "Buena suerte con Shun."
+    },
+    {
+      "subtitle_index": 501,
+      "start_time": 3065.44,
+      "end_time": 3066.77,
+      "duration": 1.3299999999999272,
+      "dialogue_text": "Cuídate."
+    },
+    {
+      "subtitle_index": 502,
+      "start_time": 3082.58,
+      "end_time": 3085.75,
+      "duration": 3.1700000000000728,
+      "dialogue_text": "¡Extra, extra!"
+    },
+    {
+      "subtitle_index": 503,
+      "start_time": 3086.92,
+      "end_time": 3090.71,
+      "duration": 3.7899999999999636,
+      "dialogue_text": "Edición extra del periódico escolar."
+    },
+    {
+      "subtitle_index": 504,
+      "start_time": 3090.96,
+      "end_time": 3092.8,
+      "duration": 1.8400000000001455,
+      "dialogue_text": "Hoy necesitaremos tu ayuda."
+    },
+    {
+      "subtitle_index": 505,
+      "start_time": 3092.92,
+      "end_time": 3095.97,
+      "duration": 3.049999999999727,
+      "dialogue_text": "¡La Casa de Estudiantes recibe un lavado de cara! ¡Extra, Extra!"
+    },
+    {
+      "subtitle_index": 506,
+      "start_time": 3097.64,
+      "end_time": 3099.8,
+      "duration": 2.1600000000003092,
+      "dialogue_text": "Hoy también iré."
+    },
+    {
+      "subtitle_index": 507,
+      "start_time": 3100.14,
+      "end_time": 3102.43,
+      "duration": 2.2899999999999636,
+      "dialogue_text": "Hola. Estáis trabajando duro."
+    },
+    {
+      "subtitle_index": 508,
+      "start_time": 3103.6,
+      "end_time": 3105.23,
+      "duration": 1.6300000000001091,
+      "dialogue_text": "Oye, te veo allí, ¿eh?"
+    },
+    {
+      "subtitle_index": 509,
+      "start_time": 3105.43,
+      "end_time": 3107.44,
+      "duration": 2.0100000000002183,
+      "dialogue_text": "Toma, Matsuzaki."
+    },
+    {
+      "subtitle_index": 510,
+      "start_time": 3110.94,
+      "end_time": 3114.78,
+      "duration": 3.8400000000001455,
+      "dialogue_text": "¡Extra, extra! ¡Información sobre la Casa de Estudiantes!"
+    },
+    {
+      "subtitle_index": 511,
+      "start_time": 3115.44,
+      "end_time": 3117.74,
+      "duration": 2.299999999999727,
+      "dialogue_text": "¡Extra!"
+    },
+    {
+      "subtitle_index": 512,
+      "start_time": 3126.12,
+      "end_time": 3127.5,
+      "duration": 1.3800000000001091,
+      "dialogue_text": "Otra etiqueta, por favor."
+    },
+    {
+      "subtitle_index": 513,
+      "start_time": 3134.51,
+      "end_time": 3136.13,
+      "duration": 1.6199999999998909,
+      "dialogue_text": "Es tan valiente."
+    },
+    {
+      "subtitle_index": 514,
+      "start_time": 3145.14,
+      "end_time": 3147.31,
+      "duration": 2.1700000000000728,
+      "dialogue_text": "- Es genial. - Vamos a ver."
+    },
+    {
+      "subtitle_index": 515,
+      "start_time": 3188.48,
+      "end_time": 3190.89,
+      "duration": 2.4099999999998545,
+      "dialogue_text": "Si no te gusto, dímelo y ya."
+    },
+    {
+      "subtitle_index": 516,
+      "start_time": 3202.41,
+      "end_time": 3205.58,
+      "duration": 3.1700000000000728,
+      "dialogue_text": "Yuichiro Sawamura... es mi verdadero padre."
+    },
+    {
+      "subtitle_index": 517,
+      "start_time": 3207.66,
+      "end_time": 3209.87,
+      "duration": 2.2100000000000364,
+      "dialogue_text": "Es como en un culebrón barato."
+    },
+    {
+      "subtitle_index": 518,
+      "start_time": 3212.83,
+      "end_time": 3214.38,
+      "duration": 1.550000000000182,
+      "dialogue_text": "No lo entiendo."
+    },
+    {
+      "subtitle_index": 519,
+      "start_time": 3214.75,
+      "end_time": 3218.25,
+      "duration": 3.5,
+      "dialogue_text": "Papá me lo contó hace años. Hasta lo comprobé en los registros."
+    },
+    {
+      "subtitle_index": 520,
+      "start_time": 3218.59,
+      "end_time": 3219.76,
+      "duration": 1.1700000000000728,
+      "dialogue_text": "Pero entonces..."
+    },
+    {
+      "subtitle_index": 521,
+      "start_time": 3221.09,
+      "end_time": 3223.26,
+      "duration": 2.1700000000000728,
+      "dialogue_text": "Somos hermanos."
+    },
+    {
+      "subtitle_index": 522,
+      "start_time": 3227.43,
+      "end_time": 3229.18,
+      "duration": 1.75,
+      "dialogue_text": "¿Y qué hacemos ahora?"
+    },
+    {
+      "subtitle_index": 523,
+      "start_time": 3229.6,
+      "end_time": 3233.27,
+      "duration": 3.6700000000000728,
+      "dialogue_text": "Olvidamos todo lo que sentíamos el uno por el otro."
+    },
+    {
+      "subtitle_index": 524,
+      "start_time": 3237.11,
+      "end_time": 3239.78,
+      "duration": 2.6700000000000728,
+      "dialogue_text": "Seremos amigos, como antes."
+    },
+    {
+      "subtitle_index": 525,
+      "start_time": 3264.51,
+      "end_time": 3267.68,
+      "duration": 3.169999999999618,
+      "dialogue_text": "Sora, ¿le ha pasado algo a Umi en la escuela?"
+    },
+    {
+      "subtitle_index": 526,
+      "start_time": 3268.43,
+      "end_time": 3271.68,
+      "duration": 3.25,
+      "dialogue_text": "No, al menos que yo sepa."
+    },
+    {
+      "subtitle_index": 527,
+      "start_time": 3272.1,
+      "end_time": 3273.69,
+      "duration": 1.5900000000001455,
+      "dialogue_text": "¿Estás segura?"
+    },
+    {
+      "subtitle_index": 528,
+      "start_time": 3273.94,
+      "end_time": 3276.77,
+      "duration": 2.8299999999999272,
+      "dialogue_text": "La cena ha sido muy rara esta noche."
+    },
+    {
+      "subtitle_index": 529,
+      "start_time": 3276.9,
+      "end_time": 3278.82,
+      "duration": 1.9200000000000728,
+      "dialogue_text": "Y ella estaba empapada."
+    },
+    {
+      "subtitle_index": 530,
+      "start_time": 3279.48,
+      "end_time": 3284.65,
+      "duration": 5.170000000000073,
+      "dialogue_text": "Le debe haber pasado algo. Nunca vuelve tarde a casa."
+    },
+    {
+      "subtitle_index": 531,
+      "start_time": 3293.0,
+      "end_time": 3295.16,
+      "duration": 2.1599999999998545,
+      "dialogue_text": "Umi, el baño está listo."
+    },
+    {
+      "subtitle_index": 532,
+      "start_time": 3296.33,
+      "end_time": 3297.67,
+      "duration": 1.3400000000001455,
+      "dialogue_text": "Hoy no."
+    },
+    {
+      "subtitle_index": 533,
+      "start_time": 3299.17,
+      "end_time": 3300.67,
+      "duration": 1.5,
+      "dialogue_text": "¿No te encuentras bien?"
+    },
+    {
+      "subtitle_index": 534,
+      "start_time": 3347.55,
+      "end_time": 3354.39,
+      "duration": 6.839999999999691,
+      "dialogue_text": "Umi..."
+    },
+    {
+      "subtitle_index": 535,
+      "start_time": 3403.32,
+      "end_time": 3406.15,
+      "duration": 2.8299999999999272,
+      "dialogue_text": "Buenos días, Umi. ¿Has dormido bien?"
+    },
+    {
+      "subtitle_index": 536,
+      "start_time": 3406.94,
+      "end_time": 3409.65,
+      "duration": 2.7100000000000364,
+      "dialogue_text": "¿Mamá? ¿Cuándo has vuelto?"
+    },
+    {
+      "subtitle_index": 537,
+      "start_time": 3410.45,
+      "end_time": 3413.78,
+      "duration": 3.330000000000382,
+      "dialogue_text": "No seas tonta. Siempre he estado aquí."
+    },
+    {
+      "subtitle_index": 538,
+      "start_time": 3415.62,
+      "end_time": 3419.46,
+      "duration": 3.8400000000001455,
+      "dialogue_text": "Umi, estoy izando las banderas. Échame una mano."
+    },
+    {
+      "subtitle_index": 539,
+      "start_time": 3434.47,
+      "end_time": 3435.81,
+      "duration": 1.3400000000001455,
+      "dialogue_text": "¿Papá...?"
+    },
+    {
+      "subtitle_index": 540,
+      "start_time": 3438.14,
+      "end_time": 3440.69,
+      "duration": 2.550000000000182,
+      "dialogue_text": "Me quedaré en casa una larga temporada."
+    },
+    {
+      "subtitle_index": 541,
+      "start_time": 3453.49,
+      "end_time": 3455.99,
+      "duration": 2.5,
+      "dialogue_text": "Has crecido mucho."
+    },
+    {
+      "subtitle_index": 542,
+      "start_time": 3551.96,
+      "end_time": 3554.51,
+      "duration": 2.550000000000182,
+      "dialogue_text": "Si necesitáis más material, preguntadle a este."
+    },
+    {
+      "subtitle_index": 543,
+      "start_time": 3554.63,
+      "end_time": 3556.13,
+      "duration": 1.5,
+      "dialogue_text": "Trabaja en la construcción."
+    },
+    {
+      "subtitle_index": 544,
+      "start_time": 3556.26,
+      "end_time": 3560.56,
+      "duration": 4.299999999999727,
+      "dialogue_text": "- Venga, más regalos no. - ¿Por qué no? El negocio va bien."
+    },
+    {
+      "subtitle_index": 545,
+      "start_time": 3560.85,
+      "end_time": 3562.47,
+      "duration": 1.6199999999998909,
+      "dialogue_text": "Espero que ganéis."
+    },
+    {
+      "subtitle_index": 546,
+      "start_time": 3562.6,
+      "end_time": 3564.23,
+      "duration": 1.6300000000001091,
+      "dialogue_text": "Gracias."
+    },
+    {
+      "subtitle_index": 547,
+      "start_time": 3565.1,
+      "end_time": 3566.02,
+      "duration": 0.9200000000000728,
+      "dialogue_text": "Increíble."
+    },
+    {
+      "subtitle_index": 548,
+      "start_time": 3566.14,
+      "end_time": 3569.56,
+      "duration": 3.4200000000000728,
+      "dialogue_text": "Se lo debemos todo a la Dra. Hokuto. No, a Umi aún más."
+    },
+    {
+      "subtitle_index": 549,
+      "start_time": 3570.36,
+      "end_time": 3572.73,
+      "duration": 2.369999999999891,
+      "dialogue_text": "Es nuestra Diosa Fortuna."
+    },
+    {
+      "subtitle_index": 550,
+      "start_time": 3572.86,
+      "end_time": 3574.4,
+      "duration": 1.5399999999999636,
+      "dialogue_text": "Hola chicos."
+    },
+    {
+      "subtitle_index": 551,
+      "start_time": 3576.28,
+      "end_time": 3578.91,
+      "duration": 2.6299999999996544,
+      "dialogue_text": "Esto es todo un edificio en obras."
+    },
+    {
+      "subtitle_index": 552,
+      "start_time": 3586.62,
+      "end_time": 3588.12,
+      "duration": 1.5,
+      "dialogue_text": "¿Pero qué haces?"
+    },
+    {
+      "subtitle_index": 553,
+      "start_time": 3589.38,
+      "end_time": 3591.79,
+      "duration": 2.4099999999998545,
+      "dialogue_text": "Dame eso un momento."
+    },
+    {
+      "subtitle_index": 554,
+      "start_time": 3592.05,
+      "end_time": 3595.59,
+      "duration": 3.5399999999999636,
+      "dialogue_text": "Mira como lo hacen los profesionales."
+    },
+    {
+      "subtitle_index": 555,
+      "start_time": 3605.31,
+      "end_time": 3606.6,
+      "duration": 1.2899999999999636,
+      "dialogue_text": "¡Increíble!"
+    },
+    {
+      "subtitle_index": 556,
+      "start_time": 3606.73,
+      "end_time": 3609.44,
+      "duration": 2.7100000000000364,
+      "dialogue_text": "Mi padre es yesero."
+    },
+    {
+      "subtitle_index": 557,
+      "start_time": 3609.73,
+      "end_time": 3611.44,
+      "duration": 1.7100000000000364,
+      "dialogue_text": "Qué preciosidad..."
+    },
+    {
+      "subtitle_index": 558,
+      "start_time": 3611.86,
+      "end_time": 3613.11,
+      "duration": 1.25,
+      "dialogue_text": "¿Qué has dicho?"
+    },
+    {
+      "subtitle_index": 559,
+      "start_time": 3613.23,
+      "end_time": 3614.48,
+      "duration": 1.25,
+      "dialogue_text": "La pared, quiero decir."
+    },
+    {
+      "subtitle_index": 560,
+      "start_time": 3614.74,
+      "end_time": 3616.11,
+      "duration": 1.3700000000003456,
+      "dialogue_text": "¿QUÉ?"
+    },
+    {
+      "subtitle_index": 561,
+      "start_time": 3622.33,
+      "end_time": 3623.33,
+      "duration": 1.0,
+      "dialogue_text": "Hey."
+    },
+    {
+      "subtitle_index": 562,
+      "start_time": 3623.95,
+      "end_time": 3625.79,
+      "duration": 1.8400000000001455,
+      "dialogue_text": "Ya he terminado por hoy."
+    },
+    {
+      "subtitle_index": 563,
+      "start_time": 3627.54,
+      "end_time": 3630.96,
+      "duration": 3.4200000000000728,
+      "dialogue_text": "Gracias por quedarte hasta tan tarde. ¿No tienes que volver pronto?"
+    },
+    {
+      "subtitle_index": 564,
+      "start_time": 3631.34,
+      "end_time": 3635.46,
+      "duration": 4.119999999999891,
+      "dialogue_text": "Sora me está reemplazando. ¿Puedo ayudar con algo más?"
+    },
+    {
+      "subtitle_index": 565,
+      "start_time": 3640.01,
+      "end_time": 3641.8,
+      "duration": 1.7899999999999636,
+      "dialogue_text": "¿Podrías hacer esto?"
+    },
+    {
+      "subtitle_index": 566,
+      "start_time": 3646.35,
+      "end_time": 3648.02,
+      "duration": 1.6700000000000728,
+      "dialogue_text": "¿Puede ser para pasado mañana?"
+    },
+    {
+      "subtitle_index": 567,
+      "start_time": 3648.35,
+      "end_time": 3651.19,
+      "duration": 2.8400000000001455,
+      "dialogue_text": "Sí, será de mucha ayuda, gracias."
+    },
+    {
+      "subtitle_index": 568,
+      "start_time": 3651.36,
+      "end_time": 3653.65,
+      "duration": 2.2899999999999636,
+      "dialogue_text": "- Hasta luego. - Nos vemos."
+    },
+    {
+      "subtitle_index": 569,
+      "start_time": 3681.55,
+      "end_time": 3687.56,
+      "duration": 6.0099999999997635,
+      "dialogue_text": "¡VISITA LA NUEVA CASA DE ESTUDIANTES!"
+    },
+    {
+      "subtitle_index": 570,
+      "start_time": 3693.73,
+      "end_time": 3699.57,
+      "duration": 5.8400000000001455,
+      "dialogue_text": "¡LA MAYORÍA DE LAS CHICAS SE OPONE A LA DEMOLICIÓN!"
+    },
+    {
+      "subtitle_index": 571,
+      "start_time": 3706.08,
+      "end_time": 3711.58,
+      "duration": 5.5,
+      "dialogue_text": "ANUNCIADOS LOS RESULTADOS DE LOS PARCIALES ¡LAS PREDICCIONES DE LOS TEST ACIERTAN!"
+    },
+    {
+      "subtitle_index": 572,
+      "start_time": 3717.75,
+      "end_time": 3723.43,
+      "duration": 5.679999999999836,
+      "dialogue_text": "¡LA MAYORÍA DE LOS ESTUDIANTES SE OPONE A LA DEMOLICIÓN!"
+    },
+    {
+      "subtitle_index": 573,
+      "start_time": 3734.6,
+      "end_time": 3736.77,
+      "duration": 2.1700000000000728,
+      "dialogue_text": "¿Listos todos?"
+    },
+    {
+      "subtitle_index": 574,
+      "start_time": 3764.43,
+      "end_time": 3766.3,
+      "duration": 1.8700000000003456,
+      "dialogue_text": "Umi, no te vayas."
+    },
+    {
+      "subtitle_index": 575,
+      "start_time": 3766.97,
+      "end_time": 3768.93,
+      "duration": 1.9600000000000364,
+      "dialogue_text": "Shun, malas noticias."
+    },
+    {
+      "subtitle_index": 576,
+      "start_time": 3769.26,
+      "end_time": 3772.18,
+      "duration": 2.919999999999618,
+      "dialogue_text": "La junta ha votado a favor de la demolición."
+    },
+    {
+      "subtitle_index": 577,
+      "start_time": 3775.9,
+      "end_time": 3778.15,
+      "duration": 2.25,
+      "dialogue_text": "El director no atiende a razones."
+    },
+    {
+      "subtitle_index": 578,
+      "start_time": 3778.32,
+      "end_time": 3779.82,
+      "duration": 1.5,
+      "dialogue_text": "¡Después de todo este trabajo!"
+    },
+    {
+      "subtitle_index": 579,
+      "start_time": 3779.98,
+      "end_time": 3784.07,
+      "duration": 4.0900000000001455,
+      "dialogue_text": "- ¿Ni siquiera van a venir? - Entonces tendrán que recular."
+    },
+    {
+      "subtitle_index": 580,
+      "start_time": 3784.32,
+      "end_time": 3785.32,
+      "duration": 1.0,
+      "dialogue_text": "¡Cierto!"
+    },
+    {
+      "subtitle_index": 581,
+      "start_time": 3785.66,
+      "end_time": 3788.28,
+      "duration": 2.6200000000003456,
+      "dialogue_text": "¡Asediemos el despacho del director!"
+    },
+    {
+      "subtitle_index": 582,
+      "start_time": 3788.95,
+      "end_time": 3790.87,
+      "duration": 1.9200000000000728,
+      "dialogue_text": "Vayamos directos al presidente."
+    },
+    {
+      "subtitle_index": 583,
+      "start_time": 3791.66,
+      "end_time": 3795.66,
+      "duration": 4.0,
+      "dialogue_text": "¿De la Fundación Tokumaru? Eso va a ser difícil."
+    },
+    {
+      "subtitle_index": 584,
+      "start_time": 3795.83,
+      "end_time": 3799.17,
+      "duration": 3.3400000000001455,
+      "dialogue_text": "Id a verle. Decidle lo que ocurre."
+    },
+    {
+      "subtitle_index": 585,
+      "start_time": 3799.34,
+      "end_time": 3801.34,
+      "duration": 2.0,
+      "dialogue_text": "Sí, por favor, id."
+    },
+    {
+      "subtitle_index": 586,
+      "start_time": 3802.55,
+      "end_time": 3804.84,
+      "duration": 2.2899999999999636,
+      "dialogue_text": "Mizunuma, tenemos que ir a Tokio."
+    },
+    {
+      "subtitle_index": 587,
+      "start_time": 3807.76,
+      "end_time": 3808.84,
+      "duration": 1.0799999999999272,
+      "dialogue_text": "¡Por favor!"
+    },
+    {
+      "subtitle_index": 588,
+      "start_time": 3811.68,
+      "end_time": 3815.18,
+      "duration": 3.5,
+      "dialogue_text": "Merece la pena. Umi, te necesitamos también."
+    },
+    {
+      "subtitle_index": 589,
+      "start_time": 3816.85,
+      "end_time": 3818.56,
+      "duration": 1.7100000000000364,
+      "dialogue_text": "¡Vamos, Umi!"
+    },
+    {
+      "subtitle_index": 590,
+      "start_time": 3828.16,
+      "end_time": 3831.2,
+      "duration": 3.0399999999999636,
+      "dialogue_text": "Umi, buena suerte mañana."
+    },
+    {
+      "subtitle_index": 591,
+      "start_time": 3848.51,
+      "end_time": 3849.89,
+      "duration": 1.3799999999996544,
+      "dialogue_text": "Buenos días."
+    },
+    {
+      "subtitle_index": 592,
+      "start_time": 3851.22,
+      "end_time": 3852.56,
+      "duration": 1.3400000000001455,
+      "dialogue_text": "¿Has hecho novillos?"
+    },
+    {
+      "subtitle_index": 593,
+      "start_time": 3852.89,
+      "end_time": 3855.85,
+      "duration": 2.9600000000000364,
+      "dialogue_text": "No, ya les dije ayer que hoy no iría."
+    },
+    {
+      "subtitle_index": 594,
+      "start_time": 3856.39,
+      "end_time": 3859.23,
+      "duration": 2.8400000000001455,
+      "dialogue_text": "Será mejor que nos vayamos ya."
+    },
+    {
+      "subtitle_index": 595,
+      "start_time": 3873.74,
+      "end_time": 3877.25,
+      "duration": 3.5100000000002183,
+      "dialogue_text": "POR UNAS OLIMPIADAS DE ÉXITO QUE HAGAN MÁS BELLA A TOKIO"
+    },
+    {
+      "subtitle_index": 596,
+      "start_time": 3904.94,
+      "end_time": 3906.78,
+      "duration": 1.8400000000001455,
+      "dialogue_text": "Demos lo mejor de nosotros."
+    },
+    {
+      "subtitle_index": 597,
+      "start_time": 3908.36,
+      "end_time": 3911.82,
+      "duration": 3.4600000000000364,
+      "dialogue_text": "Sí, es lo que dicen."
+    },
+    {
+      "subtitle_index": 598,
+      "start_time": 3912.78,
+      "end_time": 3914.12,
+      "duration": 1.3399999999996908,
+      "dialogue_text": "¿Sin cita previa?"
+    },
+    {
+      "subtitle_index": 599,
+      "start_time": 3914.28,
+      "end_time": 3916.83,
+      "duration": 2.549999999999727,
+      "dialogue_text": "Queremos hablar directamente con el presidente."
+    },
+    {
+      "subtitle_index": 600,
+      "start_time": 3917.29,
+      "end_time": 3919.62,
+      "duration": 2.3299999999999272,
+      "dialogue_text": "Quieren ver al presidente."
+    },
+    {
+      "subtitle_index": 601,
+      "start_time": 3919.96,
+      "end_time": 3922.79,
+      "duration": 2.8299999999999272,
+      "dialogue_text": "Sí, estudiantes del Instituto Konan."
+    },
+    {
+      "subtitle_index": 602,
+      "start_time": 3923.46,
+      "end_time": 3924.96,
+      "duration": 1.5,
+      "dialogue_text": "Son tres."
+    },
+    {
+      "subtitle_index": 603,
+      "start_time": 3925.96,
+      "end_time": 3927.46,
+      "duration": 1.5,
+      "dialogue_text": "De acuerdo."
+    },
+    {
+      "subtitle_index": 604,
+      "start_time": 3929.05,
+      "end_time": 3933.14,
+      "duration": 4.089999999999691,
+      "dialogue_text": "Tomad el ascensor al cuarto piso y esperad allí."
+    },
+    {
+      "subtitle_index": 605,
+      "start_time": 3933.97,
+      "end_time": 3935.14,
+      "duration": 1.1700000000000728,
+      "dialogue_text": "Cuarto piso."
+    },
+    {
+      "subtitle_index": 606,
+      "start_time": 3935.47,
+      "end_time": 3938.35,
+      "duration": 2.880000000000109,
+      "dialogue_text": "No olvidéis registraros. Un nombre es suficiente."
+    },
+    {
+      "subtitle_index": 607,
+      "start_time": 3948.49,
+      "end_time": 3950.28,
+      "duration": 1.7900000000004184,
+      "dialogue_text": "¿Sois los estudiantes del Konan?"
+    },
+    {
+      "subtitle_index": 608,
+      "start_time": 3950.65,
+      "end_time": 3951.82,
+      "duration": 1.1700000000000728,
+      "dialogue_text": "Sí."
+    },
+    {
+      "subtitle_index": 609,
+      "start_time": 3952.99,
+      "end_time": 3954.99,
+      "duration": 2.0,
+      "dialogue_text": "El presidente está muy ocupado."
+    },
+    {
+      "subtitle_index": 610,
+      "start_time": 3955.2,
+      "end_time": 3958.66,
+      "duration": 3.4600000000000364,
+      "dialogue_text": "No puedo aseguraros que tenga tiempo para atenderos."
+    },
+    {
+      "subtitle_index": 611,
+      "start_time": 3959.08,
+      "end_time": 3960.41,
+      "duration": 1.3299999999999272,
+      "dialogue_text": "Sentimos molestarle."
+    },
+    {
+      "subtitle_index": 612,
+      "start_time": 3960.54,
+      "end_time": 3964.67,
+      "duration": 4.130000000000109,
+      "dialogue_text": "Pensamos que no aceptaría una cita previa."
+    },
+    {
+      "subtitle_index": 613,
+      "start_time": 3966.21,
+      "end_time": 3970.09,
+      "duration": 3.880000000000109,
+      "dialogue_text": "Puede que sólo estéis perdiendo el tiempo."
+    },
+    {
+      "subtitle_index": 614,
+      "start_time": 3970.26,
+      "end_time": 3972.68,
+      "duration": 2.419999999999618,
+      "dialogue_text": "Pero si queréis esperar, adelante."
+    },
+    {
+      "subtitle_index": 615,
+      "start_time": 3973.72,
+      "end_time": 3975.34,
+      "duration": 1.6200000000003456,
+      "dialogue_text": "¡Esperaremos!"
+    },
+    {
+      "subtitle_index": 616,
+      "start_time": 3976.18,
+      "end_time": 3978.97,
+      "duration": 2.7899999999999636,
+      "dialogue_text": "Oh, venga, Kimura es el mejor pastelero."
+    },
+    {
+      "subtitle_index": 617,
+      "start_time": 3979.1,
+      "end_time": 3980.68,
+      "duration": 1.5799999999999272,
+      "dialogue_text": "Nakamura es difícil de superar."
+    },
+    {
+      "subtitle_index": 618,
+      "start_time": 3980.85,
+      "end_time": 3984.69,
+      "duration": 3.8400000000001455,
+      "dialogue_text": "No me puedo creer lo que acabas de decir. No sabes nada de pasteles."
+    },
+    {
+      "subtitle_index": 619,
+      "start_time": 3990.19,
+      "end_time": 3991.36,
+      "duration": 1.1700000000000728,
+      "dialogue_text": "Gracias."
+    },
+    {
+      "subtitle_index": 620,
+      "start_time": 4019.39,
+      "end_time": 4022.43,
+      "duration": 3.0399999999999636,
+      "dialogue_text": "Está clarísimo, como el agua."
+    },
+    {
+      "subtitle_index": 621,
+      "start_time": 4034.57,
+      "end_time": 4037.24,
+      "duration": 2.669999999999618,
+      "dialogue_text": "Adelante, chicos."
+    },
+    {
+      "subtitle_index": 622,
+      "start_time": 4042.25,
+      "end_time": 4043.58,
+      "duration": 1.3299999999999272,
+      "dialogue_text": "Con permiso."
+    },
+    {
+      "subtitle_index": 623,
+      "start_time": 4049.13,
+      "end_time": 4050.75,
+      "duration": 1.6199999999998909,
+      "dialogue_text": "Sentaos."
+    },
+    {
+      "subtitle_index": 624,
+      "start_time": 4050.92,
+      "end_time": 4052.92,
+      "duration": 2.0,
+      "dialogue_text": "Les atiendo en un minuto."
+    },
+    {
+      "subtitle_index": 625,
+      "start_time": 4053.55,
+      "end_time": 4057.93,
+      "duration": 4.379999999999654,
+      "dialogue_text": "Ya ves lo que pasa. Sí, dale recuerdos de mi parte."
+    },
+    {
+      "subtitle_index": 626,
+      "start_time": 4065.77,
+      "end_time": 4067.27,
+      "duration": 1.5,
+      "dialogue_text": "Sentaos."
+    },
+    {
+      "subtitle_index": 627,
+      "start_time": 4067.6,
+      "end_time": 4070.27,
+      "duration": 2.6700000000000728,
+      "dialogue_text": "Bueno, ¿por qué no estáis en clase?"
+    },
+    {
+      "subtitle_index": 628,
+      "start_time": 4070.44,
+      "end_time": 4072.27,
+      "duration": 1.8299999999999272,
+      "dialogue_text": "Nos las hemos saltado."
+    },
+    {
+      "subtitle_index": 629,
+      "start_time": 4072.44,
+      "end_time": 4075.94,
+      "duration": 3.5,
+      "dialogue_text": "¿Saltado? Yo lo hacía a menudo."
+    },
+    {
+      "subtitle_index": 630,
+      "start_time": 4076.78,
+      "end_time": 4079.62,
+      "duration": 2.8399999999996908,
+      "dialogue_text": "Supongo que estáis aquí por la Casa de Clubes."
+    },
+    {
+      "subtitle_index": 631,
+      "start_time": 4079.78,
+      "end_time": 4084.62,
+      "duration": 4.839999999999691,
+      "dialogue_text": "Sí, nos gustaría que usted la inspeccionara en persona."
+    },
+    {
+      "subtitle_index": 632,
+      "start_time": 4084.79,
+      "end_time": 4086.62,
+      "duration": 1.8299999999999272,
+      "dialogue_text": "Vaya a verla, por favor."
+    },
+    {
+      "subtitle_index": 633,
+      "start_time": 4088.79,
+      "end_time": 4090.25,
+      "duration": 1.4600000000000364,
+      "dialogue_text": "¿En que año estás?"
+    },
+    {
+      "subtitle_index": 634,
+      "start_time": 4090.88,
+      "end_time": 4093.75,
+      "duration": 2.869999999999891,
+      "dialogue_text": "Primero. Umi Matsuzaki."
+    },
+    {
+      "subtitle_index": 635,
+      "start_time": 4093.96,
+      "end_time": 4096.26,
+      "duration": 2.300000000000182,
+      "dialogue_text": "Ayudo con el periódico escolar."
+    },
+    {
+      "subtitle_index": 636,
+      "start_time": 4097.8,
+      "end_time": 4100.34,
+      "duration": 2.5399999999999636,
+      "dialogue_text": "¿Por qué te importa esa vieja chabola?"
+    },
+    {
+      "subtitle_index": 637,
+      "start_time": 4101.55,
+      "end_time": 4102.81,
+      "duration": 1.2600000000002183,
+      "dialogue_text": "Todos le tenemos cariño."
+    },
+    {
+      "subtitle_index": 638,
+      "start_time": 4103.18,
+      "end_time": 4107.64,
+      "duration": 4.460000000000036,
+      "dialogue_text": "Pasamos horas arreglándola. Por favor, compruébelo usted mismo."
+    },
+    {
+      "subtitle_index": 639,
+      "start_time": 4109.94,
+      "end_time": 4111.81,
+      "duration": 1.8700000000008004,
+      "dialogue_text": "¿La habéis limpiado?"
+    },
+    {
+      "subtitle_index": 640,
+      "start_time": 4113.32,
+      "end_time": 4114.98,
+      "duration": 1.6599999999998545,
+      "dialogue_text": "¿A qué se dedica tu padre?"
+    },
+    {
+      "subtitle_index": 641,
+      "start_time": 4116.11,
+      "end_time": 4119.24,
+      "duration": 3.130000000000109,
+      "dialogue_text": "Era capitán de barco en al Guerra de Corea."
+    },
+    {
+      "subtitle_index": 642,
+      "start_time": 4119.36,
+      "end_time": 4121.82,
+      "duration": 2.4600000000000364,
+      "dialogue_text": "Su barco golpeó una mina."
+    },
+    {
+      "subtitle_index": 643,
+      "start_time": 4154.9,
+      "end_time": 4156.53,
+      "duration": 1.6300000000001091,
+      "dialogue_text": "¿Un barco de suministros?"
+    },
+    {
+      "subtitle_index": 644,
+      "start_time": 4156.82,
+      "end_time": 4157.86,
+      "duration": 1.0399999999999636,
+      "dialogue_text": "Sí."
+    },
+    {
+      "subtitle_index": 645,
+      "start_time": 4159.24,
+      "end_time": 4160.53,
+      "duration": 1.2899999999999636,
+      "dialogue_text": "Ya veo."
+    },
+    {
+      "subtitle_index": 646,
+      "start_time": 4161.45,
+      "end_time": 4165.53,
+      "duration": 4.079999999999927,
+      "dialogue_text": "Debe haber sido duro para tu madre criarte sola."
+    },
+    {
+      "subtitle_index": 647,
+      "start_time": 4165.87,
+      "end_time": 4168.04,
+      "duration": 2.1700000000000728,
+      "dialogue_text": "Hizo un buen trabajo."
+    },
+    {
+      "subtitle_index": 648,
+      "start_time": 4169.37,
+      "end_time": 4170.54,
+      "duration": 1.1700000000000728,
+      "dialogue_text": "Gracias."
+    },
+    {
+      "subtitle_index": 649,
+      "start_time": 4171.75,
+      "end_time": 4174.04,
+      "duration": 2.2899999999999636,
+      "dialogue_text": "Muy bien, iré."
+    },
+    {
+      "subtitle_index": 650,
+      "start_time": 4177.76,
+      "end_time": 4179.21,
+      "duration": 1.449999999999818,
+      "dialogue_text": "¡Muchas gracias!"
+    },
+    {
+      "subtitle_index": 651,
+      "start_time": 4181.38,
+      "end_time": 4183.05,
+      "duration": 1.6700000000000728,
+      "dialogue_text": "Soy yo."
+    },
+    {
+      "subtitle_index": 652,
+      "start_time": 4183.39,
+      "end_time": 4184.55,
+      "duration": 1.1599999999998545,
+      "dialogue_text": "¿Qué tengo para mañana?"
+    },
+    {
+      "subtitle_index": 653,
+      "start_time": 4185.68,
+      "end_time": 4187.72,
+      "duration": 2.0399999999999636,
+      "dialogue_text": "Veamos, eso es casi por la noche."
+    },
+    {
+      "subtitle_index": 654,
+      "start_time": 4188.89,
+      "end_time": 4190.56,
+      "duration": 1.6700000000000728,
+      "dialogue_text": "Mueve el resto al viernes."
+    },
+    {
+      "subtitle_index": 655,
+      "start_time": 4192.4,
+      "end_time": 4194.73,
+      "duration": 2.3299999999999272,
+      "dialogue_text": "Decidido. Mañana por la tarde."
+    },
+    {
+      "subtitle_index": 656,
+      "start_time": 4194.9,
+      "end_time": 4198.94,
+      "duration": 4.039999999999964,
+      "dialogue_text": "Hablaré con vuestro director y haremos una inspección oficial."
+    },
+    {
+      "subtitle_index": 657,
+      "start_time": 4203.99,
+      "end_time": 4207.58,
+      "duration": 3.5900000000001455,
+      "dialogue_text": "- Algunos adultos son bastante guays. No vendas la piel del oso..."
+    },
+    {
+      "subtitle_index": 658,
+      "start_time": 4209.33,
+      "end_time": 4210.75,
+      "duration": 1.4200000000000728,
+      "dialogue_text": "Me alegro de que hayamos venido."
+    },
+    {
+      "subtitle_index": 659,
+      "start_time": 4213.08,
+      "end_time": 4216.92,
+      "duration": 3.8400000000001455,
+      "dialogue_text": "Tengo que pasarme a ver a mi tío. Nos vemos mañana."
+    },
+    {
+      "subtitle_index": 660,
+      "start_time": 4253.79,
+      "end_time": 4256.63,
+      "duration": 2.8400000000001455,
+      "dialogue_text": "¿Qué vas a hacer después de graduarte?"
+    },
+    {
+      "subtitle_index": 661,
+      "start_time": 4256.79,
+      "end_time": 4260.46,
+      "duration": 3.6700000000000728,
+      "dialogue_text": "No puedo permitirme una matrícula cara. Me apuntaré a una universidad pública."
+    },
+    {
+      "subtitle_index": 662,
+      "start_time": 4261.13,
+      "end_time": 4262.8,
+      "duration": 1.6700000000000728,
+      "dialogue_text": "¿Y el periódico?"
+    },
+    {
+      "subtitle_index": 663,
+      "start_time": 4263.47,
+      "end_time": 4266.47,
+      "duration": 3.0,
+      "dialogue_text": "Encontraré a alguien que lo continúe cuando todo se calme."
+    },
+    {
+      "subtitle_index": 664,
+      "start_time": 4266.8,
+      "end_time": 4268.1,
+      "duration": 1.300000000000182,
+      "dialogue_text": "¿Y tú?"
+    },
+    {
+      "subtitle_index": 665,
+      "start_time": 4270.06,
+      "end_time": 4271.64,
+      "duration": 1.5799999999999272,
+      "dialogue_text": "Aún no lo sé."
+    },
+    {
+      "subtitle_index": 666,
+      "start_time": 4272.18,
+      "end_time": 4274.98,
+      "duration": 2.7999999999992724,
+      "dialogue_text": "Aunque me gustaría ser doctora."
+    },
+    {
+      "subtitle_index": 667,
+      "start_time": 4283.15,
+      "end_time": 4286.61,
+      "duration": 3.4600000000000364,
+      "dialogue_text": "¿Eres tú el que escribió aquél poema?"
+    },
+    {
+      "subtitle_index": 668,
+      "start_time": 4288.28,
+      "end_time": 4291.99,
+      "duration": 3.7100000000000364,
+      "dialogue_text": "Te veía izar las banderas cada mañana desde el remolcador de mi padre."
+    },
+    {
+      "subtitle_index": 669,
+      "start_time": 4293.5,
+      "end_time": 4296.67,
+      "duration": 3.1700000000000728,
+      "dialogue_text": "Yo no puedo ver el remolcador desde el jardín."
+    },
+    {
+      "subtitle_index": 670,
+      "start_time": 4297.33,
+      "end_time": 4301.5,
+      "duration": 4.170000000000073,
+      "dialogue_text": "Por eso no me di cuenta de que me respondías."
+    },
+    {
+      "subtitle_index": 671,
+      "start_time": 4313.77,
+      "end_time": 4314.98,
+      "duration": 1.2099999999991269,
+      "dialogue_text": "¿Shun?"
+    },
+    {
+      "subtitle_index": 672,
+      "start_time": 4317.6,
+      "end_time": 4320.19,
+      "duration": 2.589999999999236,
+      "dialogue_text": "Escucha, yo..."
+    },
+    {
+      "subtitle_index": 673,
+      "start_time": 4322.48,
+      "end_time": 4326.07,
+      "duration": 3.5900000000001455,
+      "dialogue_text": "Esas banderas eran un mensaje para mi padre."
+    },
+    {
+      "subtitle_index": 674,
+      "start_time": 4326.2,
+      "end_time": 4330.57,
+      "duration": 4.369999999999891,
+      "dialogue_text": "Creo que él te envió a mi. Eso es lo que me gusta pensar."
+    },
+    {
+      "subtitle_index": 675,
+      "start_time": 4335.5,
+      "end_time": 4337.58,
+      "duration": 2.0799999999999272,
+      "dialogue_text": "Estoy enamorada de ti, Shun."
+    },
+    {
+      "subtitle_index": 676,
+      "start_time": 4338.04,
+      "end_time": 4339.04,
+      "duration": 1.0,
+      "dialogue_text": "Umi..."
+    },
+    {
+      "subtitle_index": 677,
+      "start_time": 4339.29,
+      "end_time": 4342.21,
+      "duration": 2.9200000000000728,
+      "dialogue_text": "Incluso si estamos emparentados, incluso si eres mi hermano..."
+    },
+    {
+      "subtitle_index": 678,
+      "start_time": 4342.38,
+      "end_time": 4344.21,
+      "duration": 1.8299999999999272,
+      "dialogue_text": "mis sentimientos nunca cambiarán."
+    },
+    {
+      "subtitle_index": 679,
+      "start_time": 4353.64,
+      "end_time": 4355.68,
+      "duration": 2.0399999999999636,
+      "dialogue_text": "Yo siento lo mismo por ti."
+    },
+    {
+      "subtitle_index": 680,
+      "start_time": 4376.12,
+      "end_time": 4377.58,
+      "duration": 1.4600000000000364,
+      "dialogue_text": "He vuelto."
+    },
+    {
+      "subtitle_index": 681,
+      "start_time": 4382.79,
+      "end_time": 4383.92,
+      "duration": 1.1300000000001091,
+      "dialogue_text": "¡Qué aproveche!"
+    },
+    {
+      "subtitle_index": 682,
+      "start_time": 4384.09,
+      "end_time": 4385.25,
+      "duration": 1.1599999999998545,
+      "dialogue_text": "¡Mamá!"
+    },
+    {
+      "subtitle_index": 683,
+      "start_time": 4386.05,
+      "end_time": 4387.63,
+      "duration": 1.5799999999999272,
+      "dialogue_text": "Umi, he vuelto."
+    },
+    {
+      "subtitle_index": 684,
+      "start_time": 4388.13,
+      "end_time": 4391.09,
+      "duration": 2.9600000000000364,
+      "dialogue_text": "¡Por fin! ¿Cómo era América?"
+    },
+    {
+      "subtitle_index": 685,
+      "start_time": 4391.22,
+      "end_time": 4394.1,
+      "duration": 2.880000000000109,
+      "dialogue_text": "Estuve ocupada estudiando todos los días."
+    },
+    {
+      "subtitle_index": 686,
+      "start_time": 4394.72,
+      "end_time": 4396.77,
+      "duration": 2.050000000000182,
+      "dialogue_text": "¿Tienes ya algún novio, Sora?"
+    },
+    {
+      "subtitle_index": 687,
+      "start_time": 4396.89,
+      "end_time": 4398.23,
+      "duration": 1.339999999999236,
+      "dialogue_text": "Aún no."
+    },
+    {
+      "subtitle_index": 688,
+      "start_time": 4398.35,
+      "end_time": 4400.77,
+      "duration": 2.4200000000000728,
+      "dialogue_text": "Mamá, esta cosa es genial."
+    },
+    {
+      "subtitle_index": 689,
+      "start_time": 4401.06,
+      "end_time": 4402.48,
+      "duration": 1.4199999999991633,
+      "dialogue_text": "Es un \"Beef Jerky\"."
+    },
+    {
+      "subtitle_index": 690,
+      "start_time": 4402.9,
+      "end_time": 4403.81,
+      "duration": 0.910000000000764,
+      "dialogue_text": "¿Es cerdo?"
+    },
+    {
+      "subtitle_index": 691,
+      "start_time": 4403.94,
+      "end_time": 4406.94,
+      "duration": 3.0,
+      "dialogue_text": "Hiro, beef significa ternera."
+    },
+    {
+      "subtitle_index": 692,
+      "start_time": 4418.29,
+      "end_time": 4419.62,
+      "duration": 1.3299999999999272,
+      "dialogue_text": "¿Mamá?"
+    },
+    {
+      "subtitle_index": 693,
+      "start_time": 4422.88,
+      "end_time": 4424.92,
+      "duration": 2.0399999999999636,
+      "dialogue_text": "Es muy tarde para andar despierta."
+    },
+    {
+      "subtitle_index": 694,
+      "start_time": 4429.3,
+      "end_time": 4431.43,
+      "duration": 2.130000000000109,
+      "dialogue_text": "Quería preguntarte algo."
+    },
+    {
+      "subtitle_index": 695,
+      "start_time": 4431.63,
+      "end_time": 4433.3,
+      "duration": 1.6700000000000728,
+      "dialogue_text": "Bueno, pregunta."
+    },
+    {
+      "subtitle_index": 696,
+      "start_time": 4438.77,
+      "end_time": 4440.48,
+      "duration": 1.7099999999991269,
+      "dialogue_text": "Estoy completamente despierta."
+    },
+    {
+      "subtitle_index": 697,
+      "start_time": 4440.85,
+      "end_time": 4443.98,
+      "duration": 3.1299999999991996,
+      "dialogue_text": "Revisar estos libros me ha desvelado aún más."
+    },
+    {
+      "subtitle_index": 698,
+      "start_time": 4444.4,
+      "end_time": 4447.94,
+      "duration": 3.5399999999999636,
+      "dialogue_text": "Hay un chico en la escuela. Se llama Shun Kazama."
+    },
+    {
+      "subtitle_index": 699,
+      "start_time": 4451.2,
+      "end_time": 4453.32,
+      "duration": 2.119999999999891,
+      "dialogue_text": "Vino por la fiesta de despedida."
+    },
+    {
+      "subtitle_index": 700,
+      "start_time": 4453.49,
+      "end_time": 4457.33,
+      "duration": 3.8400000000001455,
+      "dialogue_text": "Le enseñé la foto de papá. Él tenía la misma foto."
+    },
+    {
+      "subtitle_index": 701,
+      "start_time": 4457.45,
+      "end_time": 4460.83,
+      "duration": 3.380000000000109,
+      "dialogue_text": "Dice que su verdadero padre es Yuichiro Sawamura."
+    },
+    {
+      "subtitle_index": 702,
+      "start_time": 4480.14,
+      "end_time": 4481.35,
+      "duration": 1.2100000000000364,
+      "dialogue_text": "¿Esta foto?"
+    },
+    {
+      "subtitle_index": 703,
+      "start_time": 4487.19,
+      "end_time": 4491.53,
+      "duration": 4.3400000000001455,
+      "dialogue_text": "Me temo que es un poco complicado."
+    },
+    {
+      "subtitle_index": 704,
+      "start_time": 4492.9,
+      "end_time": 4496.49,
+      "duration": 3.5900000000001455,
+      "dialogue_text": "Te conté como tu padre y yo nos fugamos."
+    },
+    {
+      "subtitle_index": 705,
+      "start_time": 4497.66,
+      "end_time": 4499.58,
+      "duration": 1.9200000000000728,
+      "dialogue_text": "Te acuerdas, ¿verdad?"
+    },
+    {
+      "subtitle_index": 706,
+      "start_time": 4499.74,
+      "end_time": 4504.04,
+      "duration": 4.300000000000182,
+      "dialogue_text": "Nuestro primer piso era un apartamento en el segundo piso."
+    },
+    {
+      "subtitle_index": 707,
+      "start_time": 4504.87,
+      "end_time": 4507.58,
+      "duration": 2.7100000000000364,
+      "dialogue_text": "Yuichiro se ausentaba mucho."
+    },
+    {
+      "subtitle_index": 708,
+      "start_time": 4507.75,
+      "end_time": 4512.88,
+      "duration": 5.130000000000109,
+      "dialogue_text": "Yo estaba embarazada de ti y trabajando en mis estudios."
+    },
+    {
+      "subtitle_index": 709,
+      "start_time": 4513.72,
+      "end_time": 4518.05,
+      "duration": 4.329999999999927,
+      "dialogue_text": "Me encantaban, estaba decidida a terminarlos."
+    },
+    {
+      "subtitle_index": 710,
+      "start_time": 4534.53,
+      "end_time": 4535.7,
+      "duration": 1.1700000000000728,
+      "dialogue_text": "Yuichi..."
+    },
+    {
+      "subtitle_index": 711,
+      "start_time": 4536.7,
+      "end_time": 4539.07,
+      "duration": 2.369999999999891,
+      "dialogue_text": "Yuichiro, ¿de quién es ese bebé?"
+    },
+    {
+      "subtitle_index": 712,
+      "start_time": 4539.91,
+      "end_time": 4542.58,
+      "duration": 2.6700000000000728,
+      "dialogue_text": "Es el hijo de Tachibana. Ahora es nuestro."
+    },
+    {
+      "subtitle_index": 713,
+      "start_time": 4544.58,
+      "end_time": 4549.08,
+      "duration": 4.5,
+      "dialogue_text": "Tachibana ha muerto en un accidente de un barco de repatriación."
+    },
+    {
+      "subtitle_index": 714,
+      "start_time": 4549.46,
+      "end_time": 4552.88,
+      "duration": 3.4200000000000728,
+      "dialogue_text": "Su mujer murió al dar a luz. Su familia murió por la bomba."
+    },
+    {
+      "subtitle_index": 715,
+      "start_time": 4553.71,
+      "end_time": 4558.09,
+      "duration": 4.380000000000109,
+      "dialogue_text": "Si no lo registramos como hijo nuestro acabará en un orfanato."
+    },
+    {
+      "subtitle_index": 716,
+      "start_time": 4560.89,
+      "end_time": 4566.1,
+      "duration": 5.210000000000036,
+      "dialogue_text": "Yuichiro registró al bebé como suyo y le trajo a casa."
+    },
+    {
+      "subtitle_index": 717,
+      "start_time": 4566.44,
+      "end_time": 4570.61,
+      "duration": 4.170000000000073,
+      "dialogue_text": "La guerra acababa de acabar. Pasaba por todas partes."
+    },
+    {
+      "subtitle_index": 718,
+      "start_time": 4571.9,
+      "end_time": 4576.9,
+      "duration": 5.0,
+      "dialogue_text": "Pero yo ya estaba embarazada, no podría cuidarlo."
+    },
+    {
+      "subtitle_index": 719,
+      "start_time": 4577.28,
+      "end_time": 4581.91,
+      "duration": 4.630000000000109,
+      "dialogue_text": "Un amigo de Yuichiro había perdido un hijo, así que le dio el bebé."
+    },
+    {
+      "subtitle_index": 720,
+      "start_time": 4583.08,
+      "end_time": 4585.91,
+      "duration": 2.8299999999999272,
+      "dialogue_text": "¿Le va bien?"
+    },
+    {
+      "subtitle_index": 721,
+      "start_time": 4588.79,
+      "end_time": 4590.63,
+      "duration": 1.8400000000001455,
+      "dialogue_text": "Me alegro."
+    },
+    {
+      "subtitle_index": 722,
+      "start_time": 4591.42,
+      "end_time": 4595.96,
+      "duration": 4.539999999999964,
+      "dialogue_text": "Tu padre era tan amable. Quizás un poco impulsivo."
+    },
+    {
+      "subtitle_index": 723,
+      "start_time": 4596.51,
+      "end_time": 4600.14,
+      "duration": 3.630000000000109,
+      "dialogue_text": "Sin su ayuda no podría haber terminado mis estudios."
+    },
+    {
+      "subtitle_index": 724,
+      "start_time": 4601.22,
+      "end_time": 4606.81,
+      "duration": 5.5900000000001455,
+      "dialogue_text": "¿Pero y si Shun era en realidad el hijo de papá?"
+    },
+    {
+      "subtitle_index": 725,
+      "start_time": 4607.94,
+      "end_time": 4610.15,
+      "duration": 2.2100000000000364,
+      "dialogue_text": "¿Si en realidad fuera hijo de Yuichiro?"
+    },
+    {
+      "subtitle_index": 726,
+      "start_time": 4610.77,
+      "end_time": 4612.31,
+      "duration": 1.5399999999999636,
+      "dialogue_text": "Me gustaría conocerle."
+    },
+    {
+      "subtitle_index": 727,
+      "start_time": 4612.61,
+      "end_time": 4614.82,
+      "duration": 2.2100000000000364,
+      "dialogue_text": "¿Se parece a esta foto?"
+    },
+    {
+      "subtitle_index": 728,
+      "start_time": 4626.04,
+      "end_time": 4627.33,
+      "duration": 1.2899999999999636,
+      "dialogue_text": "Umi..."
+    },
+    {
+      "subtitle_index": 729,
+      "start_time": 4661.66,
+      "end_time": 4663.24,
+      "duration": 1.5799999999999272,
+      "dialogue_text": "Hasta la noche."
+    },
+    {
+      "subtitle_index": 730,
+      "start_time": 4663.95,
+      "end_time": 4665.53,
+      "duration": 1.5799999999999272,
+      "dialogue_text": "Qué tengáis un buen día."
+    },
+    {
+      "subtitle_index": 731,
+      "start_time": 4728.81,
+      "end_time": 4730.77,
+      "duration": 1.9600000000000364,
+      "dialogue_text": "Bienvenidos a la Casa de Estudiantes."
+    },
+    {
+      "subtitle_index": 732,
+      "start_time": 4745.91,
+      "end_time": 4749.78,
+      "duration": 3.869999999999891,
+      "dialogue_text": "LA CASA DE ESTUDIANTES DA LA BIENVENIDA AL PRESIDENTE TOKUMARU"
+    },
+    {
+      "subtitle_index": 733,
+      "start_time": 4757.54,
+      "end_time": 4760.34,
+      "duration": 2.800000000000182,
+      "dialogue_text": "Nunca me había fijado en lo impresionante que es este edificio."
+    },
+    {
+      "subtitle_index": 734,
+      "start_time": 4760.5,
+      "end_time": 4762.13,
+      "duration": 1.6300000000001091,
+      "dialogue_text": "Gracias, señor."
+    },
+    {
+      "subtitle_index": 735,
+      "start_time": 4763.8,
+      "end_time": 4766.13,
+      "duration": 2.3299999999999272,
+      "dialogue_text": "¿Qué estudiáis?"
+    },
+    {
+      "subtitle_index": 736,
+      "start_time": 4766.26,
+      "end_time": 4770.1,
+      "duration": 3.8400000000001455,
+      "dialogue_text": "¡Señor! El Club de Astronomía ha estudiado las manchas solares durante 10 años."
+    },
+    {
+      "subtitle_index": 737,
+      "start_time": 4770.39,
+      "end_time": 4774.31,
+      "duration": 3.9200000000000728,
+      "dialogue_text": "¿10 años? ¿Y qué habéis descubierto?"
+    },
+    {
+      "subtitle_index": 738,
+      "start_time": 4774.89,
+      "end_time": 4778.81,
+      "duration": 3.9200000000000728,
+      "dialogue_text": "El Sol es muy antiguo y nuestras vidas cortas."
+    },
+    {
+      "subtitle_index": 739,
+      "start_time": 4778.94,
+      "end_time": 4780.27,
+      "duration": 1.3300000000008367,
+      "dialogue_text": "¡Sin descubrimientos hasta la fecha!"
+    },
+    {
+      "subtitle_index": 740,
+      "start_time": 4780.73,
+      "end_time": 4782.78,
+      "duration": 2.050000000000182,
+      "dialogue_text": "Buena respuesta."
+    },
+    {
+      "subtitle_index": 741,
+      "start_time": 4789.49,
+      "end_time": 4791.66,
+      "duration": 2.1700000000000728,
+      "dialogue_text": "¿El Club de Filosofía?"
+    },
+    {
+      "subtitle_index": 742,
+      "start_time": 4791.79,
+      "end_time": 4795.08,
+      "duration": 3.2899999999999636,
+      "dialogue_text": "¿No te gustaría una Casa de Clubes completamente nueva?"
+    },
+    {
+      "subtitle_index": 743,
+      "start_time": 4796.37,
+      "end_time": 4798.83,
+      "duration": 2.4600000000000364,
+      "dialogue_text": "¿Y qué opinan los miembros más jóvenes?"
+    },
+    {
+      "subtitle_index": 744,
+      "start_time": 4799.08,
+      "end_time": 4803.34,
+      "duration": 4.260000000000218,
+      "dialogue_text": "Señor, los filósofos nos contentamos con un simple barril."
+    },
+    {
+      "subtitle_index": 745,
+      "start_time": 4803.63,
+      "end_time": 4805.51,
+      "duration": 1.8800000000001091,
+      "dialogue_text": "¡Diógenes! Muy bien."
+    },
+    {
+      "subtitle_index": 746,
+      "start_time": 4809.76,
+      "end_time": 4813.35,
+      "duration": 3.5900000000001455,
+      "dialogue_text": "Señor Director, sus estudiantes son realmente impresionantes."
+    },
+    {
+      "subtitle_index": 747,
+      "start_time": 4815.48,
+      "end_time": 4817.52,
+      "duration": 2.040000000000873,
+      "dialogue_text": "¿Shun Kazama?"
+    },
+    {
+      "subtitle_index": 748,
+      "start_time": 4824.82,
+      "end_time": 4826.19,
+      "duration": 1.3699999999998909,
+      "dialogue_text": "¿Hola, papá?"
+    },
+    {
+      "subtitle_index": 749,
+      "start_time": 4826.4,
+      "end_time": 4828.86,
+      "duration": 2.4600000000000364,
+      "dialogue_text": "El tercer hombre de la foto está aquí."
+    },
+    {
+      "subtitle_index": 750,
+      "start_time": 4829.16,
+      "end_time": 4831.2,
+      "duration": 2.0399999999999636,
+      "dialogue_text": "Puede hablarte de tu padre."
+    },
+    {
+      "subtitle_index": 751,
+      "start_time": 4832.62,
+      "end_time": 4835.83,
+      "duration": 3.2100000000000364,
+      "dialogue_text": "Su barco zarpa a las cuatro en punto."
+    },
+    {
+      "subtitle_index": 752,
+      "start_time": 4836.12,
+      "end_time": 4839.37,
+      "duration": 3.25,
+      "dialogue_text": "No volverá en meses. ¡Baja aquí ahora mismo!"
+    },
+    {
+      "subtitle_index": 753,
+      "start_time": 4850.22,
+      "end_time": 4855.1,
+      "duration": 4.880000000000109,
+      "dialogue_text": "Aunque el mundo se hunda"
+    },
+    {
+      "subtitle_index": 754,
+      "start_time": 4855.64,
+      "end_time": 4859.6,
+      "duration": 3.9600000000000364,
+      "dialogue_text": "Bajo olas de azul oscuro"
+    },
+    {
+      "subtitle_index": 755,
+      "start_time": 4859.73,
+      "end_time": 4864.23,
+      "duration": 4.5,
+      "dialogue_text": "Mantente firme, no te hundas"
+    },
+    {
+      "subtitle_index": 756,
+      "start_time": 4864.57,
+      "end_time": 4869.4,
+      "duration": 4.829999999999927,
+      "dialogue_text": "Bajo el horizonte"
+    },
+    {
+      "subtitle_index": 757,
+      "start_time": 4869.86,
+      "end_time": 4874.2,
+      "duration": 4.3400000000001455,
+      "dialogue_text": "Resiste las grandes olas"
+    },
+    {
+      "subtitle_index": 758,
+      "start_time": 4874.66,
+      "end_time": 4878.75,
+      "duration": 4.0900000000001455,
+      "dialogue_text": "Como una gran montaña"
+    },
+    {
+      "subtitle_index": 759,
+      "start_time": 4879.42,
+      "end_time": 4883.08,
+      "duration": 3.6599999999998545,
+      "dialogue_text": "Con la cabeza erguida"
+    },
+    {
+      "subtitle_index": 760,
+      "start_time": 4883.25,
+      "end_time": 4887.88,
+      "duration": 4.630000000000109,
+      "dialogue_text": "Cara al viento del futuro"
+    },
+    {
+      "subtitle_index": 761,
+      "start_time": 4888.22,
+      "end_time": 4893.26,
+      "duration": 5.039999999999964,
+      "dialogue_text": "Aunque el mundo se hunda"
+    },
+    {
+      "subtitle_index": 762,
+      "start_time": 4893.55,
+      "end_time": 4897.31,
+      "duration": 3.7600000000002183,
+      "dialogue_text": "Bajo olas de azul oscuro"
+    },
+    {
+      "subtitle_index": 763,
+      "start_time": 4897.56,
+      "end_time": 4901.77,
+      "duration": 4.210000000000036,
+      "dialogue_text": "Mantente firme, no te hundas"
+    },
+    {
+      "subtitle_index": 764,
+      "start_time": 4902.23,
+      "end_time": 4906.61,
+      "duration": 4.380000000000109,
+      "dialogue_text": "Bajo el horizonte"
+    },
+    {
+      "subtitle_index": 765,
+      "start_time": 4908.78,
+      "end_time": 4912.95,
+      "duration": 4.170000000000073,
+      "dialogue_text": "Amigos míos, me habéis enseñado el verdadero valor de la Casa de Estudiantes."
+    },
+    {
+      "subtitle_index": 766,
+      "start_time": 4913.07,
+      "end_time": 4917.12,
+      "duration": 4.050000000000182,
+      "dialogue_text": "¿Cómo podríamos educar a los jóvenes sin proteger nuestra cultura?"
+    },
+    {
+      "subtitle_index": 767,
+      "start_time": 4918.95,
+      "end_time": 4923.63,
+      "duration": 4.680000000000291,
+      "dialogue_text": "Encontraré un lugar diferente para el nuevo edificio."
+    },
+    {
+      "subtitle_index": 768,
+      "start_time": 4925.46,
+      "end_time": 4928.13,
+      "duration": 2.6700000000000728,
+      "dialogue_text": "¡Viva!"
+    },
+    {
+      "subtitle_index": 769,
+      "start_time": 4928.67,
+      "end_time": 4930.8,
+      "duration": 2.130000000000109,
+      "dialogue_text": "Umi, lo has conseguido."
+    },
+    {
+      "subtitle_index": 770,
+      "start_time": 4931.09,
+      "end_time": 4932.63,
+      "duration": 1.5399999999999636,
+      "dialogue_text": "¡Todos lo conseguimos!"
+    },
+    {
+      "subtitle_index": 771,
+      "start_time": 4932.89,
+      "end_time": 4935.47,
+      "duration": 2.5799999999999272,
+      "dialogue_text": "¡Magnífico! ¡Maravilloso!"
+    },
+    {
+      "subtitle_index": 772,
+      "start_time": 4941.81,
+      "end_time": 4944.31,
+      "duration": 2.5,
+      "dialogue_text": "Ahora a por más experimentos."
+    },
+    {
+      "subtitle_index": 773,
+      "start_time": 4945.52,
+      "end_time": 4947.82,
+      "duration": 2.2999999999992724,
+      "dialogue_text": "Umi, te lo debemos a ti."
+    },
+    {
+      "subtitle_index": 774,
+      "start_time": 4948.82,
+      "end_time": 4951.32,
+      "duration": 2.5,
+      "dialogue_text": "Pero yo no hice nada especial."
+    },
+    {
+      "subtitle_index": 775,
+      "start_time": 4951.61,
+      "end_time": 4954.07,
+      "duration": 2.4600000000000364,
+      "dialogue_text": "Arreglar el edificio fue idea tuya."
+    },
+    {
+      "subtitle_index": 776,
+      "start_time": 4954.24,
+      "end_time": 4955.16,
+      "duration": 0.9200000000000728,
+      "dialogue_text": "Es cierto."
+    },
+    {
+      "subtitle_index": 777,
+      "start_time": 4955.32,
+      "end_time": 4957.49,
+      "duration": 2.1700000000000728,
+      "dialogue_text": "Gracias, Umi."
+    },
+    {
+      "subtitle_index": 778,
+      "start_time": 4959.62,
+      "end_time": 4961.37,
+      "duration": 1.75,
+      "dialogue_text": "Buen trabajo, Umi."
+    },
+    {
+      "subtitle_index": 779,
+      "start_time": 4962.75,
+      "end_time": 4963.5,
+      "duration": 0.75,
+      "dialogue_text": "¡Umi!"
+    },
+    {
+      "subtitle_index": 780,
+      "start_time": 4969.25,
+      "end_time": 4970.84,
+      "duration": 1.5900000000001455,
+      "dialogue_text": "La pareja perfecta."
+    },
+    {
+      "subtitle_index": 781,
+      "start_time": 4973.51,
+      "end_time": 4975.09,
+      "duration": 1.5799999999999272,
+      "dialogue_text": "Por favor, discúlpeles, señor."
+    },
+    {
+      "subtitle_index": 782,
+      "start_time": 4975.22,
+      "end_time": 4978.35,
+      "duration": 3.130000000000109,
+      "dialogue_text": "Ha surgido algo importante y deben marcharse."
+    },
+    {
+      "subtitle_index": 783,
+      "start_time": 4978.64,
+      "end_time": 4980.39,
+      "duration": 1.75,
+      "dialogue_text": "Tienen mucha prisa."
+    },
+    {
+      "subtitle_index": 784,
+      "start_time": 4981.02,
+      "end_time": 4984.69,
+      "duration": 3.6699999999991633,
+      "dialogue_text": "Escapar... Es genial ser joven."
+    },
+    {
+      "subtitle_index": 785,
+      "start_time": 4989.15,
+      "end_time": 4990.36,
+      "duration": 1.2100000000000364,
+      "dialogue_text": "¡Shun!"
+    },
+    {
+      "subtitle_index": 786,
+      "start_time": 4990.9,
+      "end_time": 4992.86,
+      "duration": 1.9600000000000364,
+      "dialogue_text": "¡Llévanos!"
+    },
+    {
+      "subtitle_index": 787,
+      "start_time": 4993.61,
+      "end_time": 4995.03,
+      "duration": 1.4200000000000728,
+      "dialogue_text": "¿Umi?"
+    },
+    {
+      "subtitle_index": 788,
+      "start_time": 5004.08,
+      "end_time": 5007.71,
+      "duration": 3.630000000000109,
+      "dialogue_text": "No te preocupes, Umi, llegaréis a tiempo."
+    },
+    {
+      "subtitle_index": 789,
+      "start_time": 5019.1,
+      "end_time": 5020.56,
+      "duration": 1.4600000000000364,
+      "dialogue_text": "Será mejor que corramos."
+    },
+    {
+      "subtitle_index": 790,
+      "start_time": 5020.68,
+      "end_time": 5022.06,
+      "duration": 1.3800000000001091,
+      "dialogue_text": "¡Gracias!"
+    },
+    {
+      "subtitle_index": 791,
+      "start_time": 5023.48,
+      "end_time": 5025.39,
+      "duration": 1.910000000000764,
+      "dialogue_text": "Buena suerte, Umi."
+    },
+    {
+      "subtitle_index": 792,
+      "start_time": 5032.82,
+      "end_time": 5035.57,
+      "duration": 2.75,
+      "dialogue_text": "¡Vamos, Shun! ¡Deprisa!"
+    },
+    {
+      "subtitle_index": 793,
+      "start_time": 5036.78,
+      "end_time": 5037.91,
+      "duration": 1.1300000000001091,
+      "dialogue_text": "Gracias."
+    },
+    {
+      "subtitle_index": 794,
+      "start_time": 5067.39,
+      "end_time": 5069.15,
+      "duration": 1.7599999999993088,
+      "dialogue_text": "Ese es el remolcador de mi padre."
+    },
+    {
+      "subtitle_index": 795,
+      "start_time": 5096.17,
+      "end_time": 5098.3,
+      "duration": 2.130000000000109,
+      "dialogue_text": "Ya están aquí, capitán."
+    },
+    {
+      "subtitle_index": 796,
+      "start_time": 5107.64,
+      "end_time": 5109.94,
+      "duration": 2.2999999999992724,
+      "dialogue_text": "Retrasa nuestra salida 15 minutos."
+    },
+    {
+      "subtitle_index": 797,
+      "start_time": 5114.48,
+      "end_time": 5117.99,
+      "duration": 3.5100000000002183,
+      "dialogue_text": "Así que eres el hijo de Tachibana."
+    },
+    {
+      "subtitle_index": 798,
+      "start_time": 5119.45,
+      "end_time": 5121.99,
+      "duration": 2.5399999999999636,
+      "dialogue_text": "Y tú debes de ser la hija de Sawamura."
+    },
+    {
+      "subtitle_index": 799,
+      "start_time": 5122.28,
+      "end_time": 5123.66,
+      "duration": 1.3800000000001091,
+      "dialogue_text": "Jóvenes sanos."
+    },
+    {
+      "subtitle_index": 800,
+      "start_time": 5139.47,
+      "end_time": 5141.18,
+      "duration": 1.7100000000000364,
+      "dialogue_text": "Te llamas Shun, ¿verdad?"
+    },
+    {
+      "subtitle_index": 801,
+      "start_time": 5141.93,
+      "end_time": 5144.68,
+      "duration": 2.75,
+      "dialogue_text": "Tu padre era Hiroshi Tachibana."
+    },
+    {
+      "subtitle_index": 802,
+      "start_time": 5144.97,
+      "end_time": 5147.85,
+      "duration": 2.880000000000109,
+      "dialogue_text": "Primera fila, cuarto desde la derecha."
+    },
+    {
+      "subtitle_index": 803,
+      "start_time": 5148.39,
+      "end_time": 5150.85,
+      "duration": 2.4600000000000364,
+      "dialogue_text": "Puedes ver a Sawamura a su lado."
+    },
+    {
+      "subtitle_index": 804,
+      "start_time": 5151.56,
+      "end_time": 5154.02,
+      "duration": 2.4600000000000364,
+      "dialogue_text": "Los tres éramos muy amigos."
+    },
+    {
+      "subtitle_index": 805,
+      "start_time": 5155.23,
+      "end_time": 5157.86,
+      "duration": 2.630000000000109,
+      "dialogue_text": "Toma el asiento de honor, Tachibana."
+    },
+    {
+      "subtitle_index": 806,
+      "start_time": 5157.99,
+      "end_time": 5158.86,
+      "duration": 0.8699999999998909,
+      "dialogue_text": "¿Por qué yo?"
+    },
+    {
+      "subtitle_index": 807,
+      "start_time": 5158.99,
+      "end_time": 5161.2,
+      "duration": 2.2100000000000364,
+      "dialogue_text": "Eres el líder. Es tu lugar."
+    },
+    {
+      "subtitle_index": 808,
+      "start_time": 5161.45,
+      "end_time": 5163.87,
+      "duration": 2.4200000000000728,
+      "dialogue_text": "Muy bien, me siento."
+    },
+    {
+      "subtitle_index": 809,
+      "start_time": 5166.58,
+      "end_time": 5169.2,
+      "duration": 2.619999999999891,
+      "dialogue_text": "Pero no os muráis antes que yo, ¿entendido?"
+    },
+    {
+      "subtitle_index": 810,
+      "start_time": 5170.08,
+      "end_time": 5171.71,
+      "duration": 1.6300000000001091,
+      "dialogue_text": "Lo mismo va por ti."
+    },
+    {
+      "subtitle_index": 811,
+      "start_time": 5172.17,
+      "end_time": 5173.58,
+      "duration": 1.4099999999998545,
+      "dialogue_text": "Allá vamos."
+    },
+    {
+      "subtitle_index": 812,
+      "start_time": 5186.01,
+      "end_time": 5190.56,
+      "duration": 4.550000000000182,
+      "dialogue_text": "Yo estaba en el mar cuando vuestros padres fallecieron."
+    },
+    {
+      "subtitle_index": 813,
+      "start_time": 5190.85,
+      "end_time": 5194.23,
+      "duration": 3.3799999999991996,
+      "dialogue_text": "Si no, yo habría hecho lo mismo que hizo Sawamura."
+    },
+    {
+      "subtitle_index": 814,
+      "start_time": 5195.52,
+      "end_time": 5200.07,
+      "duration": 4.549999999999272,
+      "dialogue_text": "Conoceros es como volver a ver a mis viejos amigos."
+    },
+    {
+      "subtitle_index": 815,
+      "start_time": 5200.36,
+      "end_time": 5203.53,
+      "duration": 3.1700000000000728,
+      "dialogue_text": "Gracias a los dos. Me habéis hecho muy feliz."
+    },
+    {
+      "subtitle_index": 816,
+      "start_time": 5224.05,
+      "end_time": 5230.64,
+      "duration": 6.5900000000001455,
+      "dialogue_text": "Un barco se aleja por el mar resplandeciente"
+    },
+    {
+      "subtitle_index": 817,
+      "start_time": 5230.97,
+      "end_time": 5237.77,
+      "duration": 6.800000000000182,
+      "dialogue_text": "Su bocina arrastra una despedida"
+    },
+    {
+      "subtitle_index": 818,
+      "start_time": 5238.11,
+      "end_time": 5244.45,
+      "duration": 6.3400000000001455,
+      "dialogue_text": "¿Si bajo por la suave pendiente..."
+    },
+    {
+      "subtitle_index": 819,
+      "start_time": 5244.74,
+      "end_time": 5251.33,
+      "duration": 6.5900000000001455,
+      "dialogue_text": "...conoceré el color de la brisa de verano?"
+    },
+    {
+      "subtitle_index": 820,
+      "start_time": 5251.66,
+      "end_time": 5258.13,
+      "duration": 6.470000000000255,
+      "dialogue_text": "Mi amor es una melodía"
+    },
+    {
+      "subtitle_index": 821,
+      "start_time": 5258.46,
+      "end_time": 5264.17,
+      "duration": 5.710000000000036,
+      "dialogue_text": "La canto con fuerza y suavidad"
+    },
+    {
+      "subtitle_index": 822,
+      "start_time": 5265.22,
+      "end_time": 5271.81,
+      "duration": 6.5900000000001455,
+      "dialogue_text": "Mi amor es una gaviota"
+    },
+    {
+      "subtitle_index": 823,
+      "start_time": 5272.1,
+      "end_time": 5277.98,
+      "duration": 5.8799999999992,
+      "dialogue_text": "Que vuela alto y bajo"
+    },
+    {
+      "subtitle_index": 824,
+      "start_time": 5279.02,
+      "end_time": 5284.99,
+      "duration": 5.969999999999345,
+      "dialogue_text": "¿Si te llamo al atardecer..."
+    },
+    {
+      "subtitle_index": 825,
+      "start_time": 5287.7,
+      "end_time": 5292.74,
+      "duration": 5.039999999999964,
+      "dialogue_text": "...podré verte, amor mío?"
+    },
+    {
+      "subtitle_index": 826,
+      "start_time": 5325.19,
+      "end_time": 5331.87,
+      "duration": 6.680000000000291,
+      "dialogue_text": "Los árboles del camino se agitan"
+    },
+    {
+      "subtitle_index": 827,
+      "start_time": 5332.16,
+      "end_time": 5338.71,
+      "duration": 6.550000000000182,
+      "dialogue_text": "proyectando en el suelo sombras de despedida"
+    },
+    {
+      "subtitle_index": 828,
+      "start_time": 5339.04,
+      "end_time": 5345.71,
+      "duration": 6.670000000000073,
+      "dialogue_text": "¿Puede una veleta de una vieja capilla..."
+    },
+    {
+      "subtitle_index": 829,
+      "start_time": 5346.01,
+      "end_time": 5352.55,
+      "duration": 6.539999999999964,
+      "dialogue_text": "...ver los colores de una ciudad en verano?"
+    },
+    {
+      "subtitle_index": 830,
+      "start_time": 5352.85,
+      "end_time": 5359.23,
+      "duration": 6.3799999999992,
+      "dialogue_text": "Mis lágrimas son el amor del ayer"
+    },
+    {
+      "subtitle_index": 831,
+      "start_time": 5359.56,
+      "end_time": 5365.23,
+      "duration": 5.669999999999163,
+      "dialogue_text": "Se secan y desvanecen con el tiempo"
+    },
+    {
+      "subtitle_index": 832,
+      "start_time": 5366.53,
+      "end_time": 5373.07,
+      "duration": 6.539999999999964,
+      "dialogue_text": "El amor del mañana es un refrán"
+    },
+    {
+      "subtitle_index": 833,
+      "start_time": 5373.37,
+      "end_time": 5379.75,
+      "duration": 6.380000000000109,
+      "dialogue_text": "Palabras sin fin"
+    },
+    {
+      "subtitle_index": 834,
+      "start_time": 5380.21,
+      "end_time": 5386.42,
+      "duration": 6.210000000000036,
+      "dialogue_text": "Si nos encontramos al atardecer"
+    },
+    {
+      "subtitle_index": 835,
+      "start_time": 5387.05,
+      "end_time": 5395.93,
+      "duration": 8.88000000000011,
+      "dialogue_text": "¿Me abrazarás entre tus brazos?"
+    },
+    {
+      "subtitle_index": 836,
+      "start_time": 5427.92,
+      "end_time": 5432.3,
+      "duration": 4.380000000000109,
+      "dialogue_text": "Una película del Estudio Ghibli"
+    },
+    {
+      "subtitle_index": 837,
+      "start_time": 5437.56,
+      "end_time": 5442.1,
+      "duration": 4.539999999999964,
+      "dialogue_text": "FIN"
+    },
+    {
+      "subtitle_index": 838,
+      "start_time": 5443.6,
+      "end_time": 5447.98,
+      "duration": 4.3799999999992,
+      "dialogue_text": "Los hechos y personajes de esta película son ficticios."
+    }
+  ]
+}

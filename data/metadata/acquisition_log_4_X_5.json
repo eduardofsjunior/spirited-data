@@ -1,0 +1,509 @@
+{
+  "story": "4.X.5",
+  "timestamp": "2025-11-17 23:27:32",
+  "mode": "batch",
+  "batch_file": "data/metadata/multi_language_priority_list.md",
+  "languages": [
+    "nl",
+    "ar",
+    "es",
+    "fr"
+  ],
+  "targets_attempted": 49,
+  "subtitles_acquired": 49,
+  "skipped": 0,
+  "failed": 0,
+  "success_rate": 100.0,
+  "results": [
+    {
+      "film": "Howl's Moving Castle",
+      "lang": "nl",
+      "path": "data/raw/subtitles_improved/howls_moving_castle_nl_v2.srt",
+      "file_id": 4669988,
+      "size": 74091,
+      "source_lang": "nl",
+      "uploader": "OTC (a)",
+      "download_count": 15810
+    },
+    {
+      "film": "Kiki's Delivery Service",
+      "lang": "fr",
+      "path": "data/raw/subtitles_improved/kikis_delivery_service_fr_v2.srt",
+      "file_id": 4512271,
+      "size": 81254,
+      "source_lang": "fr",
+      "uploader": "BetaMAN (a)",
+      "download_count": 6253
+    },
+    {
+      "film": "Spirited Away",
+      "lang": "fr",
+      "path": "data/raw/subtitles_improved/spirited_away_fr_v2.srt",
+      "file_id": 1254813,
+      "size": 73320,
+      "source_lang": "fr",
+      "uploader": "psyops2 (a)",
+      "download_count": 27463
+    },
+    {
+      "film": "Spirited Away",
+      "lang": "es",
+      "path": "data/raw/subtitles_improved/spirited_away_es_v2.srt",
+      "file_id": 1262497,
+      "size": 74354,
+      "source_lang": "es",
+      "uploader": "stanleyho74",
+      "download_count": 28499
+    },
+    {
+      "film": "Spirited Away",
+      "lang": "nl",
+      "path": "data/raw/subtitles_improved/spirited_away_nl_v2.srt",
+      "file_id": 1255013,
+      "size": 76913,
+      "source_lang": "nl",
+      "uploader": "n-ghtmar3 (a)",
+      "download_count": 32265
+    },
+    {
+      "film": "Princess Mononoke",
+      "lang": "fr",
+      "path": "data/raw/subtitles_improved/princess_mononoke_fr_v2.srt",
+      "file_id": 405972,
+      "size": 78324,
+      "source_lang": "fr",
+      "uploader": "stanleyho74",
+      "download_count": 11324
+    },
+    {
+      "film": "Howl's Moving Castle",
+      "lang": "ar",
+      "path": "data/raw/subtitles_improved/howls_moving_castle_ar_v2.srt",
+      "file_id": 4670780,
+      "size": 87141,
+      "source_lang": "ar",
+      "uploader": "roysolid",
+      "download_count": 46861
+    },
+    {
+      "film": "Spirited Away",
+      "lang": "ar",
+      "path": "data/raw/subtitles_improved/spirited_away_ar_v2.srt",
+      "file_id": 1254096,
+      "size": 83354,
+      "source_lang": "ar",
+      "uploader": "kisa (a)",
+      "download_count": 32343
+    },
+    {
+      "film": "Princess Mononoke",
+      "lang": "es",
+      "path": "data/raw/subtitles_improved/princess_mononoke_es_v2.srt",
+      "file_id": 405946,
+      "size": 76371,
+      "source_lang": "es",
+      "uploader": "stanleyho74",
+      "download_count": 20265
+    },
+    {
+      "film": "Princess Mononoke",
+      "lang": "ar",
+      "path": "data/raw/subtitles_improved/princess_mononoke_ar_v2.srt",
+      "file_id": 400079,
+      "size": 94763,
+      "source_lang": "ar",
+      "uploader": "two_man_only",
+      "download_count": 11288
+    },
+    {
+      "film": "My Neighbor Totoro",
+      "lang": "nl",
+      "path": "data/raw/subtitles_improved/my_neighbor_totoro_nl_v2.srt",
+      "file_id": 207465,
+      "size": 36283,
+      "source_lang": "nl",
+      "uploader": "os-auto",
+      "download_count": 16868
+    },
+    {
+      "film": "Castle in the Sky",
+      "lang": "fr",
+      "path": "data/raw/subtitles_improved/castle_in_the_sky_fr_v2.srt",
+      "file_id": 202048,
+      "size": 69364,
+      "source_lang": "fr",
+      "uploader": "condorman",
+      "download_count": 9749
+    },
+    {
+      "film": "Castle in the Sky",
+      "lang": "es",
+      "path": "data/raw/subtitles_improved/castle_in_the_sky_es_v2.srt",
+      "file_id": 202684,
+      "size": 66048,
+      "source_lang": "es",
+      "uploader": "stanleyho74",
+      "download_count": 16302
+    },
+    {
+      "film": "Castle in the Sky",
+      "lang": "nl",
+      "path": "data/raw/subtitles_improved/castle_in_the_sky_nl_v2.srt",
+      "file_id": 540019,
+      "size": 66082,
+      "source_lang": "nl",
+      "uploader": "os-auto",
+      "download_count": 9073
+    },
+    {
+      "film": "Earwig and the Witch",
+      "lang": "fr",
+      "path": "data/raw/subtitles_improved/earwig_and_the_witch_fr_v2.srt",
+      "file_id": 5252946,
+      "size": 90289,
+      "source_lang": "fr",
+      "uploader": "Anonymous",
+      "download_count": 43174
+    },
+    {
+      "film": "Earwig and the Witch",
+      "lang": "es",
+      "path": "data/raw/subtitles_improved/earwig_and_the_witch_es_v2.srt",
+      "file_id": 6879887,
+      "size": 94242,
+      "source_lang": "es",
+      "uploader": "cvegah_",
+      "download_count": 58129
+    },
+    {
+      "film": "Earwig and the Witch",
+      "lang": "nl",
+      "path": "data/raw/subtitles_improved/earwig_and_the_witch_nl_v2.srt",
+      "file_id": 5252612,
+      "size": 83362,
+      "source_lang": "nl",
+      "uploader": "janty1976",
+      "download_count": 77430
+    },
+    {
+      "film": "Earwig and the Witch",
+      "lang": "ar",
+      "path": "data/raw/subtitles_improved/earwig_and_the_witch_ar_v2.srt",
+      "file_id": 5252580,
+      "size": 104831,
+      "source_lang": "ar",
+      "uploader": "GoldenStark",
+      "download_count": 103129
+    },
+    {
+      "film": "Grave of the Fireflies",
+      "lang": "fr",
+      "path": "data/raw/subtitles_improved/grave_of_the_fireflies_fr_v2.srt",
+      "file_id": 441213,
+      "size": 40069,
+      "source_lang": "fr",
+      "uploader": "stanleyho74",
+      "download_count": 10086
+    },
+    {
+      "film": "Grave of the Fireflies",
+      "lang": "es",
+      "path": "data/raw/subtitles_improved/grave_of_the_fireflies_es_v2.srt",
+      "file_id": 438334,
+      "size": 35817,
+      "source_lang": "es",
+      "uploader": "vidrioclis",
+      "download_count": 34577
+    },
+    {
+      "film": "Only Yesterday",
+      "lang": "fr",
+      "path": "data/raw/subtitles_improved/only_yesterday_fr_v2.srt",
+      "file_id": 639943,
+      "size": 107917,
+      "source_lang": "fr",
+      "uploader": "os-auto",
+      "download_count": 3528
+    },
+    {
+      "film": "Pom Poko",
+      "lang": "nl",
+      "path": "data/raw/subtitles_improved/pom_poko_nl_v2.srt",
+      "file_id": 4771425,
+      "size": 89080,
+      "source_lang": "nl",
+      "uploader": "kerremelk_",
+      "download_count": 707
+    },
+    {
+      "film": "Pom Poko",
+      "lang": "ar",
+      "path": "data/raw/subtitles_improved/pom_poko_ar_v2.srt",
+      "file_id": 666406,
+      "size": 69465,
+      "source_lang": "ar",
+      "uploader": "roysolid",
+      "download_count": 1963
+    },
+    {
+      "film": "Ponyo",
+      "lang": "fr",
+      "path": "data/raw/subtitles_improved/ponyo_fr_v2.srt",
+      "file_id": 4219834,
+      "size": 51165,
+      "source_lang": "fr",
+      "uploader": "os-auto",
+      "download_count": 19882
+    },
+    {
+      "film": "Ponyo",
+      "lang": "es",
+      "path": "data/raw/subtitles_improved/ponyo_es_v2.srt",
+      "file_id": 4219841,
+      "size": 49769,
+      "source_lang": "es",
+      "uploader": "Macko-Darlack",
+      "download_count": 15668
+    },
+    {
+      "film": "Ponyo",
+      "lang": "nl",
+      "path": "data/raw/subtitles_improved/ponyo_nl_v2.srt",
+      "file_id": 4220787,
+      "size": 49108,
+      "source_lang": "nl",
+      "uploader": "os_robot",
+      "download_count": 15690
+    },
+    {
+      "film": "Ponyo",
+      "lang": "ar",
+      "path": "data/raw/subtitles_improved/ponyo_ar_v2.srt",
+      "file_id": 4219972,
+      "size": 63463,
+      "source_lang": "ar",
+      "uploader": "roysolid",
+      "download_count": 16026
+    },
+    {
+      "film": "The Red Turtle",
+      "lang": "es",
+      "path": "data/raw/subtitles_improved/the_red_turtle_es_v2.srt",
+      "file_id": 1461112,
+      "size": 63220,
+      "source_lang": "es",
+      "uploader": "os_robot",
+      "download_count": 95198
+    },
+    {
+      "film": "The Red Turtle",
+      "lang": "nl",
+      "path": "data/raw/subtitles_improved/the_red_turtle_nl_v2.srt",
+      "file_id": 3642353,
+      "size": 94060,
+      "source_lang": "nl",
+      "uploader": "qualitysubs",
+      "download_count": 85705
+    },
+    {
+      "film": "The Wind Rises",
+      "lang": "fr",
+      "path": "data/raw/subtitles_improved/the_wind_rises_fr_v2.srt",
+      "file_id": 968462,
+      "size": 117379,
+      "source_lang": "fr",
+      "uploader": "os-auto",
+      "download_count": 235348
+    },
+    {
+      "film": "The Wind Rises",
+      "lang": "nl",
+      "path": "data/raw/subtitles_improved/the_wind_rises_nl_v2.srt",
+      "file_id": 952623,
+      "size": 75778,
+      "source_lang": "nl",
+      "uploader": "smallbrother",
+      "download_count": 60676
+    },
+    {
+      "film": "Whisper of the Heart",
+      "lang": "fr",
+      "path": "data/raw/subtitles_improved/whisper_of_the_heart_fr_v2.srt",
+      "file_id": 1303235,
+      "size": 93189,
+      "source_lang": "fr",
+      "uploader": "mlapacek (a)",
+      "download_count": 5509
+    },
+    {
+      "film": "Whisper of the Heart",
+      "lang": "nl",
+      "path": "data/raw/subtitles_improved/whisper_of_the_heart_nl_v2.srt",
+      "file_id": 4620655,
+      "size": 80202,
+      "source_lang": "nl",
+      "uploader": "mlapacek (a)",
+      "download_count": 4994
+    },
+    {
+      "film": "Tales from Earthsea",
+      "lang": "es",
+      "path": "data/raw/subtitles_improved/tales_from_earthsea_es_v2.srt",
+      "file_id": 3518330,
+      "size": 61105,
+      "source_lang": "es",
+      "uploader": "nelnunvid",
+      "download_count": 9459
+    },
+    {
+      "film": "The Cat Returns",
+      "lang": "nl",
+      "path": "data/raw/subtitles_improved/the_cat_returns_nl_v2.srt",
+      "file_id": 4439768,
+      "size": 34558,
+      "source_lang": "nl",
+      "uploader": "divxplayer (a)",
+      "download_count": 15088
+    },
+    {
+      "film": "Castle in the Sky",
+      "lang": "ar",
+      "path": "data/raw/subtitles_improved/castle_in_the_sky_ar_v2.srt",
+      "file_id": 200382,
+      "size": 71933,
+      "source_lang": "ar",
+      "uploader": "roysolid",
+      "download_count": 9340
+    },
+    {
+      "film": "Grave of the Fireflies",
+      "lang": "nl",
+      "path": "data/raw/subtitles_improved/grave_of_the_fireflies_nl_v2.srt",
+      "file_id": 437540,
+      "size": 39054,
+      "source_lang": "nl",
+      "uploader": "mlapacek (a)",
+      "download_count": 6863
+    },
+    {
+      "film": "Only Yesterday",
+      "lang": "nl",
+      "path": "data/raw/subtitles_improved/only_yesterday_nl_v2.srt",
+      "file_id": 640636,
+      "size": 99264,
+      "source_lang": "nl",
+      "uploader": "os-auto",
+      "download_count": 762
+    },
+    {
+      "film": "The Red Turtle",
+      "lang": "fr",
+      "path": "data/raw/subtitles_improved/the_red_turtle_fr_v2.srt",
+      "file_id": 3644126,
+      "size": 93454,
+      "source_lang": "fr",
+      "uploader": "contact-subsynchro-com",
+      "download_count": 15337
+    },
+    {
+      "film": "The Red Turtle",
+      "lang": "ar",
+      "path": "data/raw/subtitles_improved/the_red_turtle_ar_v2.srt",
+      "file_id": 3646464,
+      "size": 138681,
+      "source_lang": "ar",
+      "uploader": "os-auto",
+      "download_count": 40195
+    },
+    {
+      "film": "Whisper of the Heart",
+      "lang": "es",
+      "path": "data/raw/subtitles_improved/whisper_of_the_heart_es_v2.srt",
+      "file_id": 4621251,
+      "size": 82650,
+      "source_lang": "es",
+      "uploader": "lomasesde1era_",
+      "download_count": 7002
+    },
+    {
+      "film": "Arrietty",
+      "lang": "ar",
+      "path": "data/raw/subtitles_improved/arrietty_ar_v2.srt",
+      "file_id": 819989,
+      "size": 41486,
+      "source_lang": "ar",
+      "uploader": "os-auto",
+      "download_count": 12754
+    },
+    {
+      "film": "My Neighbors the Yamadas",
+      "lang": "fr",
+      "path": "data/raw/subtitles_improved/my_neighbors_the_yamadas_fr_v2.srt",
+      "file_id": 4450707,
+      "size": 93135,
+      "source_lang": "fr",
+      "uploader": "mlapacek (a)",
+      "download_count": 17884
+    },
+    {
+      "film": "My Neighbors the Yamadas",
+      "lang": "ar",
+      "path": "data/raw/subtitles_improved/my_neighbors_the_yamadas_ar_v2.srt",
+      "file_id": 4614654,
+      "size": 144725,
+      "source_lang": "ar",
+      "uploader": "SOLID SNAKE (a)",
+      "download_count": 40435
+    },
+    {
+      "film": "Porco Rosso",
+      "lang": "es",
+      "path": "data/raw/subtitles_improved/porco_rosso_es_v2.srt",
+      "file_id": 486496,
+      "size": 72499,
+      "source_lang": "es",
+      "uploader": "stanleyho74",
+      "download_count": 9233
+    },
+    {
+      "film": "Porco Rosso",
+      "lang": "ar",
+      "path": "data/raw/subtitles_improved/porco_rosso_ar_v2.srt",
+      "file_id": 486372,
+      "size": 98562,
+      "source_lang": "ar",
+      "uploader": "os-auto",
+      "download_count": 3496
+    },
+    {
+      "film": "The Cat Returns",
+      "lang": "es",
+      "path": "data/raw/subtitles_improved/the_cat_returns_es_v2.srt",
+      "file_id": 4465553,
+      "size": 136550,
+      "source_lang": "es",
+      "uploader": "voltimetrox",
+      "download_count": 5266
+    },
+    {
+      "film": "The Tale of the Princess Kaguya",
+      "lang": "ar",
+      "path": "data/raw/subtitles_improved/the_tale_of_the_princess_kaguya_ar_v2.srt",
+      "file_id": 961738,
+      "size": 111643,
+      "source_lang": "ar",
+      "uploader": "saadnmm",
+      "download_count": 68310
+    },
+    {
+      "film": "When Marnie Was There",
+      "lang": "es",
+      "path": "data/raw/subtitles_improved/when_marnie_was_there_es_v2.srt",
+      "file_id": 3997023,
+      "size": 66948,
+      "source_lang": "es",
+      "uploader": "os-auto",
+      "download_count": 30993
+    }
+  ]
+}

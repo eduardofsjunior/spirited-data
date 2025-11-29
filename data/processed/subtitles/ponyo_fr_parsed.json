@@ -1,0 +1,6046 @@
+{
+  "metadata": {
+    "film_name": "Ponyo",
+    "film_slug": "ponyo_fr",
+    "language_code": "fr",
+    "total_subtitles": 862,
+    "total_duration": 5749.92,
+    "parse_timestamp": "2025-10-30T17:09:42.504254"
+  },
+  "subtitles": [
+    {
+      "subtitle_index": 1,
+      "start_time": 295.5,
+      "end_time": 298.87,
+      "duration": 3.3700000000000045,
+      "dialogue_text": "Ponyo sur la falaise près de la mer"
+    },
+    {
+      "subtitle_index": 2,
+      "start_time": 299.87,
+      "end_time": 305.97,
+      "duration": 6.100000000000023,
+      "dialogue_text": "Dans la grande mer bleue,"
+    },
+    {
+      "subtitle_index": 3,
+      "start_time": 307.33,
+      "end_time": 314.93,
+      "duration": 7.600000000000023,
+      "dialogue_text": "ensemble avec mes frères innombrables, nous nageons librement"
+    },
+    {
+      "subtitle_index": 4,
+      "start_time": 316.0,
+      "end_time": 324.0,
+      "duration": 8.0,
+      "dialogue_text": "Nous parlons avec les bulles de l'océan"
+    },
+    {
+      "subtitle_index": 5,
+      "start_time": 326.0,
+      "end_time": 327.55,
+      "duration": 1.5500000000000114,
+      "dialogue_text": "Nous nageons et nous nagerons toujours"
+    },
+    {
+      "subtitle_index": 6,
+      "start_time": 337.12,
+      "end_time": 345.97,
+      "duration": 8.850000000000023,
+      "dialogue_text": "avec vous sur la grande mer bleue"
+    },
+    {
+      "subtitle_index": 7,
+      "start_time": 347.94,
+      "end_time": 356.96,
+      "duration": 9.019999999999982,
+      "dialogue_text": "Méduses, oursins, poissons, crabes et bien d'autres encore,"
+    },
+    {
+      "subtitle_index": 8,
+      "start_time": 360.0,
+      "end_time": 360.95,
+      "duration": 0.9499999999999886,
+      "dialogue_text": "Replissant l'océan."
+    },
+    {
+      "subtitle_index": 9,
+      "start_time": 419.69,
+      "end_time": 422.57,
+      "duration": 2.8799999999999955,
+      "dialogue_text": "Sosuke, on part bientôt!"
+    },
+    {
+      "subtitle_index": 10,
+      "start_time": 422.57,
+      "end_time": 423.32,
+      "duration": 0.75,
+      "dialogue_text": "Oui!"
+    },
+    {
+      "subtitle_index": 11,
+      "start_time": 524.05,
+      "end_time": 526.4,
+      "duration": 2.3500000000000227,
+      "dialogue_text": "Un poisson rouge"
+    },
+    {
+      "subtitle_index": 12,
+      "start_time": 538.42,
+      "end_time": 540.74,
+      "duration": 2.32000000000005,
+      "dialogue_text": "Il est coincé."
+    },
+    {
+      "subtitle_index": 13,
+      "start_time": 557.28,
+      "end_time": 559.42,
+      "duration": 2.1399999999999864,
+      "dialogue_text": "Bizarre..."
+    },
+    {
+      "subtitle_index": 14,
+      "start_time": 569.0,
+      "end_time": 570.0,
+      "duration": 1.0,
+      "dialogue_text": "Aïe!"
+    },
+    {
+      "subtitle_index": 15,
+      "start_time": 573.14,
+      "end_time": 575.85,
+      "duration": 2.7100000000000364,
+      "dialogue_text": "Il est mort?"
+    },
+    {
+      "subtitle_index": 16,
+      "start_time": 579.07,
+      "end_time": 580.57,
+      "duration": 1.5,
+      "dialogue_text": "Il a léché mon doigt"
+    },
+    {
+      "subtitle_index": 17,
+      "start_time": 580.57,
+      "end_time": 582.4,
+      "duration": 1.8299999999999272,
+      "dialogue_text": "Toujours vivant!"
+    },
+    {
+      "subtitle_index": 18,
+      "start_time": 584.05,
+      "end_time": 586.77,
+      "duration": 2.7200000000000273,
+      "dialogue_text": "Sosuke, on doit y aller!"
+    },
+    {
+      "subtitle_index": 19,
+      "start_time": 586.77,
+      "end_time": 590.71,
+      "duration": 3.9400000000000546,
+      "dialogue_text": "Risa, un poisson rouge"
+    },
+    {
+      "subtitle_index": 20,
+      "start_time": 600.39,
+      "end_time": 602.12,
+      "duration": 1.7300000000000182,
+      "dialogue_text": "Quel vent étrange"
+    },
+    {
+      "subtitle_index": 21,
+      "start_time": 602.12,
+      "end_time": 605.64,
+      "duration": 3.519999999999982,
+      "dialogue_text": "Sosuke, je démarre la voiture"
+    },
+    {
+      "subtitle_index": 22,
+      "start_time": 613.99,
+      "end_time": 616.26,
+      "duration": 2.269999999999982,
+      "dialogue_text": "Vous l'avez trouvée?"
+    },
+    {
+      "subtitle_index": 23,
+      "start_time": 620.67,
+      "end_time": 622.87,
+      "duration": 2.2000000000000455,
+      "dialogue_text": "Quoi? Capturée par des humains?"
+    },
+    {
+      "subtitle_index": 24,
+      "start_time": 626.73,
+      "end_time": 630.39,
+      "duration": 3.659999999999968,
+      "dialogue_text": "C'est pas bien.. pas bien du tout."
+    },
+    {
+      "subtitle_index": 25,
+      "start_time": 655.6,
+      "end_time": 658.67,
+      "duration": 3.0699999999999363,
+      "dialogue_text": "Déjà mort?"
+    },
+    {
+      "subtitle_index": 26,
+      "start_time": 665.41,
+      "end_time": 667.99,
+      "duration": 2.580000000000041,
+      "dialogue_text": "Il est vivant!"
+    },
+    {
+      "subtitle_index": 27,
+      "start_time": 676.19,
+      "end_time": 680.81,
+      "duration": 4.619999999999891,
+      "dialogue_text": "Sosuke, on va être en retard."
+    },
+    {
+      "subtitle_index": 28,
+      "start_time": 680.81,
+      "end_time": 683.9,
+      "duration": 3.090000000000032,
+      "dialogue_text": "Risa, le poisson rouge est toujours vivant"
+    },
+    {
+      "subtitle_index": 29,
+      "start_time": 683.9,
+      "end_time": 685.41,
+      "duration": 1.509999999999991,
+      "dialogue_text": "poisson rouge?"
+    },
+    {
+      "subtitle_index": 30,
+      "start_time": 685.41,
+      "end_time": 687.71,
+      "duration": 2.300000000000068,
+      "dialogue_text": "Je l'ai trouvé sur le rivage"
+    },
+    {
+      "subtitle_index": 31,
+      "start_time": 687.71,
+      "end_time": 689.45,
+      "duration": 1.740000000000009,
+      "dialogue_text": "Je vois..."
+    },
+    {
+      "subtitle_index": 32,
+      "start_time": 713.52,
+      "end_time": 715.15,
+      "duration": 1.6299999999999955,
+      "dialogue_text": "Je ne sais pas qui vous êtes,"
+    },
+    {
+      "subtitle_index": 33,
+      "start_time": 715.15,
+      "end_time": 717.38,
+      "duration": 2.230000000000018,
+      "dialogue_text": "Mais de dispersez pas du pesticide ici."
+    },
+    {
+      "subtitle_index": 34,
+      "start_time": 717.79,
+      "end_time": 722.37,
+      "duration": 4.580000000000041,
+      "dialogue_text": "Oh, ce n'est pas du pesticide."
+    },
+    {
+      "subtitle_index": 35,
+      "start_time": 722.37,
+      "end_time": 725.84,
+      "duration": 3.4700000000000273,
+      "dialogue_text": "C'est de l'eau de mer pour éviter la déshydratation."
+    },
+    {
+      "subtitle_index": 36,
+      "start_time": 725.84,
+      "end_time": 728.31,
+      "duration": 2.4699999999999136,
+      "dialogue_text": "Tant mieux, tant que ce n'est pas du poison."
+    },
+    {
+      "subtitle_index": 37,
+      "start_time": 728.67,
+      "end_time": 730.43,
+      "duration": 1.759999999999991,
+      "dialogue_text": "Pardon"
+    },
+    {
+      "subtitle_index": 38,
+      "start_time": 738.1,
+      "end_time": 741.01,
+      "duration": 2.909999999999968,
+      "dialogue_text": "Oh non, c'est de pire en pire"
+    },
+    {
+      "subtitle_index": 39,
+      "start_time": 742.68,
+      "end_time": 744.82,
+      "duration": 2.1400000000001,
+      "dialogue_text": "Quel type étrange"
+    },
+    {
+      "subtitle_index": 40,
+      "start_time": 744.82,
+      "end_time": 746.57,
+      "duration": 1.75,
+      "dialogue_text": "ne sois pas méchant, Sosuke"
+    },
+    {
+      "subtitle_index": 41,
+      "start_time": 746.57,
+      "end_time": 748.13,
+      "duration": 1.5599999999999454,
+      "dialogue_text": "Ne juge pas un livre par sa couverture"
+    },
+    {
+      "subtitle_index": 42,
+      "start_time": 748.13,
+      "end_time": 750.07,
+      "duration": 1.9400000000000546,
+      "dialogue_text": "Non je ne le ferai pas."
+    },
+    {
+      "subtitle_index": 43,
+      "start_time": 750.07,
+      "end_time": 751.88,
+      "duration": 1.8099999999999454,
+      "dialogue_text": "Tu amènes ton poisson à la maternelle?"
+    },
+    {
+      "subtitle_index": 44,
+      "start_time": 751.88,
+      "end_time": 752.38,
+      "duration": 0.5,
+      "dialogue_text": "Oui"
+    },
+    {
+      "subtitle_index": 45,
+      "start_time": 753.05,
+      "end_time": 754.96,
+      "duration": 1.9100000000000819,
+      "dialogue_text": "Ta maîtresse est d'accord?"
+    },
+    {
+      "subtitle_index": 46,
+      "start_time": 754.96,
+      "end_time": 758.79,
+      "duration": 3.8299999999999272,
+      "dialogue_text": "Aucun problème, je la protègerai"
+    },
+    {
+      "subtitle_index": 47,
+      "start_time": 758.79,
+      "end_time": 760.45,
+      "duration": 1.6600000000000819,
+      "dialogue_text": "mignonne"
+    },
+    {
+      "subtitle_index": 48,
+      "start_time": 766.93,
+      "end_time": 769.24,
+      "duration": 2.310000000000059,
+      "dialogue_text": "Le bateau s'en va!"
+    },
+    {
+      "subtitle_index": 49,
+      "start_time": 770.38,
+      "end_time": 773.7,
+      "duration": 3.32000000000005,
+      "dialogue_text": "Sosuke, mange-ça"
+    },
+    {
+      "subtitle_index": 50,
+      "start_time": 774.39,
+      "end_time": 777.2,
+      "duration": 2.810000000000059,
+      "dialogue_text": "tu veux manger ça?"
+    },
+    {
+      "subtitle_index": 51,
+      "start_time": 777.2,
+      "end_time": 778.2,
+      "duration": 1.0,
+      "dialogue_text": "manger?"
+    },
+    {
+      "subtitle_index": 52,
+      "start_time": 779.65,
+      "end_time": 780.65,
+      "duration": 1.0,
+      "dialogue_text": "Oh, ma blessure est partie."
+    },
+    {
+      "subtitle_index": 53,
+      "start_time": 785.13,
+      "end_time": 788.44,
+      "duration": 3.310000000000059,
+      "dialogue_text": "Risa, son nom est Ponyo."
+    },
+    {
+      "subtitle_index": 54,
+      "start_time": 788.68,
+      "end_time": 790.46,
+      "duration": 1.7800000000000864,
+      "dialogue_text": "Elle a l'air de \"Ponyo\""
+    },
+    {
+      "subtitle_index": 55,
+      "start_time": 790.46,
+      "end_time": 792.47,
+      "duration": 2.009999999999991,
+      "dialogue_text": "And elle connaît la magie"
+    },
+    {
+      "subtitle_index": 56,
+      "start_time": 792.47,
+      "end_time": 795.8,
+      "duration": 3.3299999999999272,
+      "dialogue_text": "après m'avoir léché, ma coupure est partie."
+    },
+    {
+      "subtitle_index": 57,
+      "start_time": 805.3,
+      "end_time": 808.18,
+      "duration": 2.8799999999999955,
+      "dialogue_text": "Tu aimes le jambon?"
+    },
+    {
+      "subtitle_index": 58,
+      "start_time": 822.11,
+      "end_time": 824.97,
+      "duration": 2.8600000000000136,
+      "dialogue_text": "Risa, Ponyo aime le jambon"
+    },
+    {
+      "subtitle_index": 59,
+      "start_time": 824.97,
+      "end_time": 826.54,
+      "duration": 1.5699999999999363,
+      "dialogue_text": "Comme toi"
+    },
+    {
+      "subtitle_index": 60,
+      "start_time": 855.81,
+      "end_time": 856.65,
+      "duration": 0.8400000000000318,
+      "dialogue_text": "plus vite"
+    },
+    {
+      "subtitle_index": 61,
+      "start_time": 866.81,
+      "end_time": 869.96,
+      "duration": 3.150000000000091,
+      "dialogue_text": "c'est sale, vraiment sale"
+    },
+    {
+      "subtitle_index": 62,
+      "start_time": 871.3,
+      "end_time": 872.89,
+      "duration": 1.5900000000000318,
+      "dialogue_text": "Bonjour"
+    },
+    {
+      "subtitle_index": 63,
+      "start_time": 879.37,
+      "end_time": 881.59,
+      "duration": 2.2200000000000273,
+      "dialogue_text": "Ponyo, on est arrivé"
+    },
+    {
+      "subtitle_index": 64,
+      "start_time": 881.59,
+      "end_time": 883.1,
+      "duration": 1.509999999999991,
+      "dialogue_text": "tu vois"
+    },
+    {
+      "subtitle_index": 65,
+      "start_time": 903.87,
+      "end_time": 905.09,
+      "duration": 1.2200000000000273,
+      "dialogue_text": "On sera bien ici"
+    },
+    {
+      "subtitle_index": 66,
+      "start_time": 905.88,
+      "end_time": 906.95,
+      "duration": 1.07000000000005,
+      "dialogue_text": "fais attention"
+    },
+    {
+      "subtitle_index": 67,
+      "start_time": 906.95,
+      "end_time": 908.3,
+      "duration": 1.349999999999909,
+      "dialogue_text": "Je dois y aller"
+    },
+    {
+      "subtitle_index": 68,
+      "start_time": 909.71,
+      "end_time": 911.5,
+      "duration": 1.7899999999999636,
+      "dialogue_text": "bonjour, pardon"
+    },
+    {
+      "subtitle_index": 69,
+      "start_time": 911.5,
+      "end_time": 913.22,
+      "duration": 1.7200000000000273,
+      "dialogue_text": "prenez la chaise de grand-mère Noriko"
+    },
+    {
+      "subtitle_index": 70,
+      "start_time": 913.22,
+      "end_time": 913.72,
+      "duration": 0.5,
+      "dialogue_text": "Oui"
+    },
+    {
+      "subtitle_index": 71,
+      "start_time": 928.63,
+      "end_time": 930.7,
+      "duration": 2.07000000000005,
+      "dialogue_text": "Bonjour, petit Sosuke"
+    },
+    {
+      "subtitle_index": 72,
+      "start_time": 930.7,
+      "end_time": 932.65,
+      "duration": 1.9499999999999318,
+      "dialogue_text": "grand-mère, je suis occupé maintenant"
+    },
+    {
+      "subtitle_index": 73,
+      "start_time": 932.65,
+      "end_time": 933.65,
+      "duration": 1.0,
+      "dialogue_text": "Je vous parle plus tard"
+    },
+    {
+      "subtitle_index": 74,
+      "start_time": 934.86,
+      "end_time": 936.44,
+      "duration": 1.580000000000041,
+      "dialogue_text": "Petit Sosuke"
+    },
+    {
+      "subtitle_index": 75,
+      "start_time": 936.44,
+      "end_time": 938.21,
+      "duration": 1.7699999999999818,
+      "dialogue_text": "À plus tard"
+    },
+    {
+      "subtitle_index": 76,
+      "start_time": 946.01,
+      "end_time": 949.09,
+      "duration": 3.080000000000041,
+      "dialogue_text": "Peut-être le prof dira non?"
+    },
+    {
+      "subtitle_index": 77,
+      "start_time": 950.05,
+      "end_time": 950.8,
+      "duration": 0.75,
+      "dialogue_text": "ah je sais"
+    },
+    {
+      "subtitle_index": 78,
+      "start_time": 955.16,
+      "end_time": 956.51,
+      "duration": 1.3500000000000227,
+      "dialogue_text": "Attends-moi ici"
+    },
+    {
+      "subtitle_index": 79,
+      "start_time": 956.51,
+      "end_time": 958.4,
+      "duration": 1.8899999999999864,
+      "dialogue_text": "je reviens tout de suite"
+    },
+    {
+      "subtitle_index": 80,
+      "start_time": 960.8,
+      "end_time": 963.61,
+      "duration": 2.810000000000059,
+      "dialogue_text": "il n'y a pas de chat.."
+    },
+    {
+      "subtitle_index": 81,
+      "start_time": 973.26,
+      "end_time": 975.26,
+      "duration": 2.0,
+      "dialogue_text": "Ne bouge pas"
+    },
+    {
+      "subtitle_index": 82,
+      "start_time": 975.26,
+      "end_time": 977.26,
+      "duration": 2.0,
+      "dialogue_text": "Je reviens tout de suite"
+    },
+    {
+      "subtitle_index": 83,
+      "start_time": 984.76,
+      "end_time": 985.66,
+      "duration": 0.8999999999999773,
+      "dialogue_text": "À plus"
+    },
+    {
+      "subtitle_index": 84,
+      "start_time": 985.66,
+      "end_time": 987.3,
+      "duration": 1.6399999999999864,
+      "dialogue_text": "Ah, Sui-chan"
+    },
+    {
+      "subtitle_index": 85,
+      "start_time": 988.57,
+      "end_time": 990.02,
+      "duration": 1.4499999999999318,
+      "dialogue_text": "Elle était un peu fiévreuse"
+    },
+    {
+      "subtitle_index": 86,
+      "start_time": 990.02,
+      "end_time": 991.77,
+      "duration": 1.75,
+      "dialogue_text": "Mais cela va mieux, cela devrait aller"
+    },
+    {
+      "subtitle_index": 87,
+      "start_time": 991.77,
+      "end_time": 993.7,
+      "duration": 1.9300000000000637,
+      "dialogue_text": "Merci"
+    },
+    {
+      "subtitle_index": 88,
+      "start_time": 993.7,
+      "end_time": 994.95,
+      "duration": 1.25,
+      "dialogue_text": "Bye-bye"
+    },
+    {
+      "subtitle_index": 89,
+      "start_time": 994.95,
+      "end_time": 996.95,
+      "duration": 2.0,
+      "dialogue_text": "Bonjour maîtresse"
+    },
+    {
+      "subtitle_index": 90,
+      "start_time": 996.95,
+      "end_time": 998.34,
+      "duration": 1.3899999999999864,
+      "dialogue_text": "Bonjour Sosuke"
+    },
+    {
+      "subtitle_index": 91,
+      "start_time": 998.34,
+      "end_time": 999.84,
+      "duration": 1.5,
+      "dialogue_text": "Sosuke, ça va?"
+    },
+    {
+      "subtitle_index": 92,
+      "start_time": 1004.8,
+      "end_time": 1006.24,
+      "duration": 1.4400000000000546,
+      "dialogue_text": "Sosuke"
+    },
+    {
+      "subtitle_index": 93,
+      "start_time": 1006.24,
+      "end_time": 1007.42,
+      "duration": 1.17999999999995,
+      "dialogue_text": "Oh, Kumiko"
+    },
+    {
+      "subtitle_index": 94,
+      "start_time": 1007.42,
+      "end_time": 1008.1,
+      "duration": 0.6800000000000637,
+      "dialogue_text": "regarde"
+    },
+    {
+      "subtitle_index": 95,
+      "start_time": 1008.1,
+      "end_time": 1008.98,
+      "duration": 0.8799999999999955,
+      "dialogue_text": "joli?"
+    },
+    {
+      "subtitle_index": 96,
+      "start_time": 1008.98,
+      "end_time": 1010.86,
+      "duration": 1.8799999999999955,
+      "dialogue_text": "Maman me l'a acheté"
+    },
+    {
+      "subtitle_index": 97,
+      "start_time": 1011.81,
+      "end_time": 1013.56,
+      "duration": 1.75,
+      "dialogue_text": "Sosuke, on joue ensemble"
+    },
+    {
+      "subtitle_index": 98,
+      "start_time": 1013.56,
+      "end_time": 1016.05,
+      "duration": 2.490000000000009,
+      "dialogue_text": "je suis occupé, la prochaine fois?"
+    },
+    {
+      "subtitle_index": 99,
+      "start_time": 1016.05,
+      "end_time": 1017.68,
+      "duration": 1.6299999999999955,
+      "dialogue_text": "occupé avec quoi?"
+    },
+    {
+      "subtitle_index": 100,
+      "start_time": 1017.68,
+      "end_time": 1019.56,
+      "duration": 1.8799999999999955,
+      "dialogue_text": "j'ai dit je suis occupé!"
+    },
+    {
+      "subtitle_index": 101,
+      "start_time": 1019.56,
+      "end_time": 1021.33,
+      "duration": 1.7700000000000955,
+      "dialogue_text": "Sosuke t'es bizarre"
+    },
+    {
+      "subtitle_index": 102,
+      "start_time": 1021.33,
+      "end_time": 1022.81,
+      "duration": 1.4799999999999045,
+      "dialogue_text": "bizarre"
+    },
+    {
+      "subtitle_index": 103,
+      "start_time": 1036.18,
+      "end_time": 1036.93,
+      "duration": 0.75,
+      "dialogue_text": "Oh"
+    },
+    {
+      "subtitle_index": 104,
+      "start_time": 1043.85,
+      "end_time": 1044.57,
+      "duration": 0.7200000000000273,
+      "dialogue_text": "Ponyo!"
+    },
+    {
+      "subtitle_index": 105,
+      "start_time": 1052.49,
+      "end_time": 1054.3,
+      "duration": 1.8099999999999454,
+      "dialogue_text": "Sosuke"
+    },
+    {
+      "subtitle_index": 106,
+      "start_time": 1054.3,
+      "end_time": 1055.65,
+      "duration": 1.3500000000001364,
+      "dialogue_text": "Kumiko"
+    },
+    {
+      "subtitle_index": 107,
+      "start_time": 1055.65,
+      "end_time": 1057.19,
+      "duration": 1.5399999999999636,
+      "dialogue_text": "Qu'est ce que c'est?"
+    },
+    {
+      "subtitle_index": 108,
+      "start_time": 1057.19,
+      "end_time": 1059.75,
+      "duration": 2.5599999999999454,
+      "dialogue_text": "Tu peux pas l'amener à l'école"
+    },
+    {
+      "subtitle_index": 109,
+      "start_time": 1059.75,
+      "end_time": 1061.68,
+      "duration": 1.9300000000000637,
+      "dialogue_text": "Les arbres ne sont pas à l'école"
+    },
+    {
+      "subtitle_index": 110,
+      "start_time": 1061.68,
+      "end_time": 1063.91,
+      "duration": 2.230000000000018,
+      "dialogue_text": "Ils sont à la maison des tournesols, donc ça va"
+    },
+    {
+      "subtitle_index": 111,
+      "start_time": 1063.91,
+      "end_time": 1065.19,
+      "duration": 1.2799999999999727,
+      "dialogue_text": "Fais-moi voir"
+    },
+    {
+      "subtitle_index": 112,
+      "start_time": 1066.15,
+      "end_time": 1067.91,
+      "duration": 1.759999999999991,
+      "dialogue_text": "Oh, un poisson rouge"
+    },
+    {
+      "subtitle_index": 113,
+      "start_time": 1067.91,
+      "end_time": 1070.3,
+      "duration": 2.3899999999998727,
+      "dialogue_text": "Pas un poisson rouge, Ponyo"
+    },
+    {
+      "subtitle_index": 114,
+      "start_time": 1070.3,
+      "end_time": 1071.44,
+      "duration": 1.1400000000001,
+      "dialogue_text": "Ponyo?"
+    },
+    {
+      "subtitle_index": 115,
+      "start_time": 1071.44,
+      "end_time": 1072.9,
+      "duration": 1.4600000000000364,
+      "dialogue_text": "Je veux le voir"
+    },
+    {
+      "subtitle_index": 116,
+      "start_time": 1072.9,
+      "end_time": 1075.13,
+      "duration": 2.230000000000018,
+      "dialogue_text": "Si tu la vois, tu ne peux le raconter à personne"
+    },
+    {
+      "subtitle_index": 117,
+      "start_time": 1075.13,
+      "end_time": 1076.92,
+      "duration": 1.7899999999999636,
+      "dialogue_text": "Ok, je dirai rien"
+    },
+    {
+      "subtitle_index": 118,
+      "start_time": 1078.29,
+      "end_time": 1081.31,
+      "duration": 3.019999999999982,
+      "dialogue_text": "t'as vu? elle est mignonne non?"
+    },
+    {
+      "subtitle_index": 119,
+      "start_time": 1086.43,
+      "end_time": 1087.62,
+      "duration": 1.1899999999998272,
+      "dialogue_text": "Elle a un drôle d'air"
+    },
+    {
+      "subtitle_index": 120,
+      "start_time": 1087.62,
+      "end_time": 1088.56,
+      "duration": 0.9400000000000546,
+      "dialogue_text": "et elle est grosse"
+    },
+    {
+      "subtitle_index": 121,
+      "start_time": 1088.56,
+      "end_time": 1090.82,
+      "duration": 2.259999999999991,
+      "dialogue_text": "Les poissons rouges chez moi, sont plus beaux"
+    },
+    {
+      "subtitle_index": 122,
+      "start_time": 1112.79,
+      "end_time": 1114.76,
+      "duration": 1.9700000000000273,
+      "dialogue_text": "C'est la faute de Kumiko"
+    },
+    {
+      "subtitle_index": 123,
+      "start_time": 1114.76,
+      "end_time": 1117.6,
+      "duration": 2.839999999999918,
+      "dialogue_text": "elle a été méchante avec toi"
+    },
+    {
+      "subtitle_index": 124,
+      "start_time": 1120.76,
+      "end_time": 1123.26,
+      "duration": 2.5,
+      "dialogue_text": "Je vais changer l'eau"
+    },
+    {
+      "subtitle_index": 125,
+      "start_time": 1129.71,
+      "end_time": 1130.46,
+      "duration": 0.75,
+      "dialogue_text": "Oh"
+    },
+    {
+      "subtitle_index": 126,
+      "start_time": 1145.21,
+      "end_time": 1147.05,
+      "duration": 1.8399999999999181,
+      "dialogue_text": "Ponyo"
+    },
+    {
+      "subtitle_index": 127,
+      "start_time": 1153.22,
+      "end_time": 1155.41,
+      "duration": 2.1900000000000546,
+      "dialogue_text": "Ouf"
+    },
+    {
+      "subtitle_index": 128,
+      "start_time": 1159.92,
+      "end_time": 1166.06,
+      "duration": 6.139999999999873,
+      "dialogue_text": "Ce ne serait pas la voix du petit Sosuke?"
+    },
+    {
+      "subtitle_index": 129,
+      "start_time": 1166.06,
+      "end_time": 1170.56,
+      "duration": 4.5,
+      "dialogue_text": "Sosuke devrait être à l'école"
+    },
+    {
+      "subtitle_index": 130,
+      "start_time": 1170.56,
+      "end_time": 1172.79,
+      "duration": 2.230000000000018,
+      "dialogue_text": "mon ouïe me joue des tours"
+    },
+    {
+      "subtitle_index": 131,
+      "start_time": 1172.79,
+      "end_time": 1176.19,
+      "duration": 3.400000000000091,
+      "dialogue_text": "grand-mère Yoshie, je suis là."
+    },
+    {
+      "subtitle_index": 132,
+      "start_time": 1176.19,
+      "end_time": 1180.42,
+      "duration": 4.230000000000018,
+      "dialogue_text": "c'est le petit Sosuke"
+    },
+    {
+      "subtitle_index": 133,
+      "start_time": 1181.26,
+      "end_time": 1183.95,
+      "duration": 2.6900000000000546,
+      "dialogue_text": "Est-ce que je porte quelque chose de bien?"
+    },
+    {
+      "subtitle_index": 134,
+      "start_time": 1183.95,
+      "end_time": 1184.9,
+      "duration": 0.9500000000000455,
+      "dialogue_text": "Oui tu le portes"
+    },
+    {
+      "subtitle_index": 135,
+      "start_time": 1184.9,
+      "end_time": 1186.39,
+      "duration": 1.490000000000009,
+      "dialogue_text": "gagné"
+    },
+    {
+      "subtitle_index": 136,
+      "start_time": 1186.39,
+      "end_time": 1190.34,
+      "duration": 3.949999999999818,
+      "dialogue_text": "De quelle couleur est-ce?"
+    },
+    {
+      "subtitle_index": 137,
+      "start_time": 1191.77,
+      "end_time": 1192.76,
+      "duration": 0.9900000000000091,
+      "dialogue_text": "Rouge?"
+    },
+    {
+      "subtitle_index": 138,
+      "start_time": 1192.76,
+      "end_time": 1194.04,
+      "duration": 1.2799999999999727,
+      "dialogue_text": "Rouge"
+    },
+    {
+      "subtitle_index": 139,
+      "start_time": 1194.04,
+      "end_time": 1195.65,
+      "duration": 1.6100000000001273,
+      "dialogue_text": "bingo!"
+    },
+    {
+      "subtitle_index": 140,
+      "start_time": 1196.19,
+      "end_time": 1198.68,
+      "duration": 2.490000000000009,
+      "dialogue_text": "Comment vous saviez?"
+    },
+    {
+      "subtitle_index": 141,
+      "start_time": 1198.68,
+      "end_time": 1200.17,
+      "duration": 1.490000000000009,
+      "dialogue_text": "laisse-moi voir."
+    },
+    {
+      "subtitle_index": 142,
+      "start_time": 1200.17,
+      "end_time": 1200.67,
+      "duration": 0.5,
+      "dialogue_text": "Oh"
+    },
+    {
+      "subtitle_index": 143,
+      "start_time": 1204.01,
+      "end_time": 1205.65,
+      "duration": 1.6400000000001,
+      "dialogue_text": "jolie"
+    },
+    {
+      "subtitle_index": 144,
+      "start_time": 1205.65,
+      "end_time": 1207.19,
+      "duration": 1.5399999999999636,
+      "dialogue_text": "Mignonne"
+    },
+    {
+      "subtitle_index": 145,
+      "start_time": 1207.19,
+      "end_time": 1208.67,
+      "duration": 1.4800000000000182,
+      "dialogue_text": "Son nom c'est Ponyo"
+    },
+    {
+      "subtitle_index": 146,
+      "start_time": 1208.67,
+      "end_time": 1211.89,
+      "duration": 3.2200000000000273,
+      "dialogue_text": "Elle aime le jambon et connaît la magie"
+    },
+    {
+      "subtitle_index": 147,
+      "start_time": 1211.89,
+      "end_time": 1215.02,
+      "duration": 3.1299999999998818,
+      "dialogue_text": "Ma coupure est partie"
+    },
+    {
+      "subtitle_index": 148,
+      "start_time": 1215.02,
+      "end_time": 1216.99,
+      "duration": 1.9700000000000273,
+      "dialogue_text": "parce qu'elle l'a léché"
+    },
+    {
+      "subtitle_index": 149,
+      "start_time": 1218.64,
+      "end_time": 1219.44,
+      "duration": 0.7999999999999545,
+      "dialogue_text": "Elle peut lécher mes jambes?"
+    },
+    {
+      "subtitle_index": 150,
+      "start_time": 1222.74,
+      "end_time": 1227.57,
+      "duration": 4.829999999999927,
+      "dialogue_text": "Si je pouvais courir comme le petit Sosuke ce serait bien"
+    },
+    {
+      "subtitle_index": 151,
+      "start_time": 1228.23,
+      "end_time": 1230.97,
+      "duration": 2.740000000000009,
+      "dialogue_text": "Je dois demander à Ponyo"
+    },
+    {
+      "subtitle_index": 152,
+      "start_time": 1230.97,
+      "end_time": 1233.17,
+      "duration": 2.2000000000000455,
+      "dialogue_text": "Je veux voir aussi"
+    },
+    {
+      "subtitle_index": 153,
+      "start_time": 1233.17,
+      "end_time": 1234.42,
+      "duration": 1.25,
+      "dialogue_text": "Bien-sûr"
+    },
+    {
+      "subtitle_index": 154,
+      "start_time": 1236.09,
+      "end_time": 1238.12,
+      "duration": 2.0299999999999727,
+      "dialogue_text": "Oh, c'est dégoûtant"
+    },
+    {
+      "subtitle_index": 155,
+      "start_time": 1238.12,
+      "end_time": 1240.34,
+      "duration": 2.2200000000000273,
+      "dialogue_text": "Ce n'est pas une sirène?"
+    },
+    {
+      "subtitle_index": 156,
+      "start_time": 1240.72,
+      "end_time": 1243.04,
+      "duration": 2.3199999999999363,
+      "dialogue_text": "Ramène-la vite à la mer!"
+    },
+    {
+      "subtitle_index": 157,
+      "start_time": 1243.04,
+      "end_time": 1245.17,
+      "duration": 2.130000000000109,
+      "dialogue_text": "Elle va nous apporter un tsunami!"
+    },
+    {
+      "subtitle_index": 158,
+      "start_time": 1245.17,
+      "end_time": 1248.31,
+      "duration": 3.1399999999998727,
+      "dialogue_text": "Quel tsunami? c'est trop"
+    },
+    {
+      "subtitle_index": 159,
+      "start_time": 1248.31,
+      "end_time": 1250.22,
+      "duration": 1.9100000000000819,
+      "dialogue_text": "Quand une sirène vient sur terre"
+    },
+    {
+      "subtitle_index": 160,
+      "start_time": 1250.22,
+      "end_time": 1251.92,
+      "duration": 1.7000000000000455,
+      "dialogue_text": "un tsunami suit..."
+    },
+    {
+      "subtitle_index": 161,
+      "start_time": 1251.92,
+      "end_time": 1253.75,
+      "duration": 1.8299999999999272,
+      "dialogue_text": "C'est un mythe depuis longtemps"
+    },
+    {
+      "subtitle_index": 162,
+      "start_time": 1256.54,
+      "end_time": 1259.96,
+      "duration": 3.4200000000000728,
+      "dialogue_text": "un tsunami. Le tsunami est là!"
+    },
+    {
+      "subtitle_index": 163,
+      "start_time": 1260.4,
+      "end_time": 1265.38,
+      "duration": 4.980000000000018,
+      "dialogue_text": "Le tsunami est là, le tsunami..."
+    },
+    {
+      "subtitle_index": 164,
+      "start_time": 1266.99,
+      "end_time": 1269.78,
+      "duration": 2.7899999999999636,
+      "dialogue_text": "Que se passe-t-il grand-mère Toki."
+    },
+    {
+      "subtitle_index": 165,
+      "start_time": 1269.78,
+      "end_time": 1272.76,
+      "duration": 2.980000000000018,
+      "dialogue_text": "Mes vêtements..."
+    },
+    {
+      "subtitle_index": 166,
+      "start_time": 1280.08,
+      "end_time": 1280.8,
+      "duration": 0.7200000000000273,
+      "dialogue_text": "Sosuke"
+    },
+    {
+      "subtitle_index": 167,
+      "start_time": 1286.33,
+      "end_time": 1287.17,
+      "duration": 0.8400000000001455,
+      "dialogue_text": "Sosuke"
+    },
+    {
+      "subtitle_index": 168,
+      "start_time": 1290.74,
+      "end_time": 1291.46,
+      "duration": 0.7200000000000273,
+      "dialogue_text": "Sosuke"
+    },
+    {
+      "subtitle_index": 169,
+      "start_time": 1294.12,
+      "end_time": 1299.73,
+      "duration": 5.610000000000127,
+      "dialogue_text": "Sosuke, excuse-toi à grand-mère Toki."
+    },
+    {
+      "subtitle_index": 170,
+      "start_time": 1308.25,
+      "end_time": 1312.97,
+      "duration": 4.720000000000027,
+      "dialogue_text": "Ne t'inquiète pas, je te protégerai"
+    },
+    {
+      "subtitle_index": 171,
+      "start_time": 1314.08,
+      "end_time": 1314.92,
+      "duration": 0.8400000000001455,
+      "dialogue_text": "Sosuke"
+    },
+    {
+      "subtitle_index": 172,
+      "start_time": 1318.74,
+      "end_time": 1319.46,
+      "duration": 0.7200000000000273,
+      "dialogue_text": "Sosuke"
+    },
+    {
+      "subtitle_index": 173,
+      "start_time": 1324.62,
+      "end_time": 1325.87,
+      "duration": 1.25,
+      "dialogue_text": "Ponyo"
+    },
+    {
+      "subtitle_index": 174,
+      "start_time": 1328.2,
+      "end_time": 1331.33,
+      "duration": 3.1299999999998818,
+      "dialogue_text": "Ponyo... Sosuke..."
+    },
+    {
+      "subtitle_index": 175,
+      "start_time": 1331.33,
+      "end_time": 1333.84,
+      "duration": 2.509999999999991,
+      "dialogue_text": "Ponyo, Sosuke"
+    },
+    {
+      "subtitle_index": 176,
+      "start_time": 1333.84,
+      "end_time": 1335.57,
+      "duration": 1.7300000000000182,
+      "dialogue_text": "aime"
+    },
+    {
+      "subtitle_index": 177,
+      "start_time": 1340.62,
+      "end_time": 1342.82,
+      "duration": 2.2000000000000455,
+      "dialogue_text": "Je t'aime bien aussi"
+    },
+    {
+      "subtitle_index": 178,
+      "start_time": 1342.82,
+      "end_time": 1345.84,
+      "duration": 3.019999999999982,
+      "dialogue_text": "Ponyo aimer Sosuke"
+    },
+    {
+      "subtitle_index": 179,
+      "start_time": 1385.98,
+      "end_time": 1386.7,
+      "duration": 0.7200000000000273,
+      "dialogue_text": "Ponyo!"
+    },
+    {
+      "subtitle_index": 180,
+      "start_time": 1388.87,
+      "end_time": 1391.99,
+      "duration": 3.1200000000001182,
+      "dialogue_text": "Ponyo! Ponyo!"
+    },
+    {
+      "subtitle_index": 181,
+      "start_time": 1392.49,
+      "end_time": 1394.18,
+      "duration": 1.6900000000000546,
+      "dialogue_text": "Ponyo?"
+    },
+    {
+      "subtitle_index": 182,
+      "start_time": 1395.9,
+      "end_time": 1396.86,
+      "duration": 0.959999999999809,
+      "dialogue_text": "Ponyo..."
+    },
+    {
+      "subtitle_index": 183,
+      "start_time": 1399.99,
+      "end_time": 1401.33,
+      "duration": 1.3399999999999181,
+      "dialogue_text": "Sosuke"
+    },
+    {
+      "subtitle_index": 184,
+      "start_time": 1402.89,
+      "end_time": 1403.85,
+      "duration": 0.959999999999809,
+      "dialogue_text": "Ponyo..."
+    },
+    {
+      "subtitle_index": 185,
+      "start_time": 1466.43,
+      "end_time": 1469.94,
+      "duration": 3.509999999999991,
+      "dialogue_text": "Sosuke ait confiance"
+    },
+    {
+      "subtitle_index": 186,
+      "start_time": 1469.94,
+      "end_time": 1472.96,
+      "duration": 3.019999999999982,
+      "dialogue_text": "Quoi que tu aurais fait, cela n'aurait pas changé son destin"
+    },
+    {
+      "subtitle_index": 187,
+      "start_time": 1472.96,
+      "end_time": 1475.22,
+      "duration": 2.259999999999991,
+      "dialogue_text": "Ponyo est faite pour vivre dans la mer"
+    },
+    {
+      "subtitle_index": 188,
+      "start_time": 1475.22,
+      "end_time": 1477.71,
+      "duration": 2.490000000000009,
+      "dialogue_text": "C'est pourquoi elle doit y retourner"
+    },
+    {
+      "subtitle_index": 189,
+      "start_time": 1477.71,
+      "end_time": 1481.44,
+      "duration": 3.730000000000018,
+      "dialogue_text": "Et ce Mr. Pesticide qui était si louche"
+    },
+    {
+      "subtitle_index": 190,
+      "start_time": 1482.25,
+      "end_time": 1484.16,
+      "duration": 1.9100000000000819,
+      "dialogue_text": "Laisse-moi goûter"
+    },
+    {
+      "subtitle_index": 191,
+      "start_time": 1484.49,
+      "end_time": 1486.62,
+      "duration": 2.1299999999998818,
+      "dialogue_text": "allez, laisse moi"
+    },
+    {
+      "subtitle_index": 192,
+      "start_time": 1489.2,
+      "end_time": 1491.72,
+      "duration": 2.519999999999982,
+      "dialogue_text": "C'est bon"
+    },
+    {
+      "subtitle_index": 193,
+      "start_time": 1495.72,
+      "end_time": 1497.35,
+      "duration": 1.6299999999998818,
+      "dialogue_text": "un peu de courage"
+    },
+    {
+      "subtitle_index": 194,
+      "start_time": 1497.35,
+      "end_time": 1499.97,
+      "duration": 2.6200000000001182,
+      "dialogue_text": "Aujourd'hui ton père revient"
+    },
+    {
+      "subtitle_index": 195,
+      "start_time": 1499.97,
+      "end_time": 1504.06,
+      "duration": 4.089999999999918,
+      "dialogue_text": "Si tu n'es pas gai, il sera triste"
+    },
+    {
+      "subtitle_index": 196,
+      "start_time": 1529.32,
+      "end_time": 1531.48,
+      "duration": 2.160000000000082,
+      "dialogue_text": "Ne va pas à la mer aujourd'hui"
+    },
+    {
+      "subtitle_index": 197,
+      "start_time": 1531.48,
+      "end_time": 1532.23,
+      "duration": 0.75,
+      "dialogue_text": "Ok"
+    },
+    {
+      "subtitle_index": 198,
+      "start_time": 1558.98,
+      "end_time": 1559.93,
+      "duration": 0.9500000000000455,
+      "dialogue_text": "Sosuke, viens à l'intérieur"
+    },
+    {
+      "subtitle_index": 199,
+      "start_time": 1563.84,
+      "end_time": 1568.61,
+      "duration": 4.769999999999982,
+      "dialogue_text": "Si je mets le seau ici, Ponyo saura que c'est sa maison."
+    },
+    {
+      "subtitle_index": 200,
+      "start_time": 1568.61,
+      "end_time": 1570.84,
+      "duration": 2.230000000000018,
+      "dialogue_text": "Bien, fait comme tu veux..."
+    },
+    {
+      "subtitle_index": 201,
+      "start_time": 1570.84,
+      "end_time": 1572.04,
+      "duration": 1.2000000000000455,
+      "dialogue_text": "Fais-le"
+    },
+    {
+      "subtitle_index": 202,
+      "start_time": 1585.65,
+      "end_time": 1587.82,
+      "duration": 2.1699999999998454,
+      "dialogue_text": "Sosuke, répond s'il te plaît"
+    },
+    {
+      "subtitle_index": 203,
+      "start_time": 1587.82,
+      "end_time": 1589.62,
+      "duration": 1.7999999999999545,
+      "dialogue_text": "Ça doit être Koichi ton père"
+    },
+    {
+      "subtitle_index": 204,
+      "start_time": 1592.85,
+      "end_time": 1593.57,
+      "duration": 0.7200000000000273,
+      "dialogue_text": "C'est moi"
+    },
+    {
+      "subtitle_index": 205,
+      "start_time": 1595.4,
+      "end_time": 1597.48,
+      "duration": 2.0799999999999272,
+      "dialogue_text": "je vais bien"
+    },
+    {
+      "subtitle_index": 206,
+      "start_time": 1597.48,
+      "end_time": 1599.81,
+      "duration": 2.3299999999999272,
+      "dialogue_text": "On ne peut pas rentrer aujourd'hui"
+    },
+    {
+      "subtitle_index": 207,
+      "start_time": 1599.81,
+      "end_time": 1602.21,
+      "duration": 2.400000000000091,
+      "dialogue_text": "On traverse la frontière comme toujours. le signal sera coupé"
+    },
+    {
+      "subtitle_index": 208,
+      "start_time": 1602.21,
+      "end_time": 1604.37,
+      "duration": 2.1599999999998545,
+      "dialogue_text": "je te passe Risa"
+    },
+    {
+      "subtitle_index": 209,
+      "start_time": 1605.69,
+      "end_time": 1606.53,
+      "duration": 0.8399999999999181,
+      "dialogue_text": "Koichi?"
+    },
+    {
+      "subtitle_index": 210,
+      "start_time": 1609.27,
+      "end_time": 1612.17,
+      "duration": 2.900000000000091,
+      "dialogue_text": "Quoi, tu ne peux pas dire non?"
+    },
+    {
+      "subtitle_index": 211,
+      "start_time": 1612.17,
+      "end_time": 1616.2,
+      "duration": 4.029999999999973,
+      "dialogue_text": "Tu ne peux pas abandonner ton fils et ta femme sur la falaise."
+    },
+    {
+      "subtitle_index": 212,
+      "start_time": 1616.2,
+      "end_time": 1617.83,
+      "duration": 1.6299999999998818,
+      "dialogue_text": "Je ne veux pas le savoir !!"
+    },
+    {
+      "subtitle_index": 213,
+      "start_time": 1621.55,
+      "end_time": 1622.99,
+      "duration": 1.4400000000000546,
+      "dialogue_text": "Zut!"
+    },
+    {
+      "subtitle_index": 214,
+      "start_time": 1622.99,
+      "end_time": 1626.25,
+      "duration": 3.259999999999991,
+      "dialogue_text": "Sosuke, on mange dehors"
+    },
+    {
+      "subtitle_index": 215,
+      "start_time": 1626.25,
+      "end_time": 1628.61,
+      "duration": 2.3599999999999,
+      "dialogue_text": "J'ai envie de manger à la maison"
+    },
+    {
+      "subtitle_index": 216,
+      "start_time": 1656.64,
+      "end_time": 1657.57,
+      "duration": 0.9299999999998363,
+      "dialogue_text": "c'est Koichi"
+    },
+    {
+      "subtitle_index": 217,
+      "start_time": 1657.57,
+      "end_time": 1659.68,
+      "duration": 2.1100000000001273,
+      "dialogue_text": "Risa, c'est le bateau de Koichi"
+    },
+    {
+      "subtitle_index": 218,
+      "start_time": 1659.68,
+      "end_time": 1661.41,
+      "duration": 1.7300000000000182,
+      "dialogue_text": "Vite éteins les lumières"
+    },
+    {
+      "subtitle_index": 219,
+      "start_time": 1685.5,
+      "end_time": 1688.75,
+      "duration": 3.25,
+      "dialogue_text": "Mon fils est un génie et il a juste 5 ans."
+    },
+    {
+      "subtitle_index": 220,
+      "start_time": 1688.75,
+      "end_time": 1691.23,
+      "duration": 2.480000000000018,
+      "dialogue_text": "Ta femme doit être folle"
+    },
+    {
+      "subtitle_index": 221,
+      "start_time": 1694.97,
+      "end_time": 1696.86,
+      "duration": 1.8899999999998727,
+      "dialogue_text": "JE-SUIS-DESOLE"
+    },
+    {
+      "subtitle_index": 222,
+      "start_time": 1696.86,
+      "end_time": 1699.13,
+      "duration": 2.270000000000209,
+      "dialogue_text": "Risa, il a dit qu'il était désolé"
+    },
+    {
+      "subtitle_index": 223,
+      "start_time": 1699.13,
+      "end_time": 1700.09,
+      "duration": 0.959999999999809,
+      "dialogue_text": "B. A. K. A. (idiot)"
+    },
+    {
+      "subtitle_index": 224,
+      "start_time": 1701.8,
+      "end_time": 1702.6,
+      "duration": 0.7999999999999545,
+      "dialogue_text": "BAKA... (idiot)"
+    },
+    {
+      "subtitle_index": 225,
+      "start_time": 1706.2,
+      "end_time": 1707.52,
+      "duration": 1.3199999999999363,
+      "dialogue_text": "Ka Ka Ka..."
+    },
+    {
+      "subtitle_index": 226,
+      "start_time": 1713.88,
+      "end_time": 1716.59,
+      "duration": 2.709999999999809,
+      "dialogue_text": "Risa, il a dit \"je t'aime\""
+    },
+    {
+      "subtitle_index": 227,
+      "start_time": 1716.85,
+      "end_time": 1719.81,
+      "duration": 2.9600000000000364,
+      "dialogue_text": "très très fort"
+    },
+    {
+      "subtitle_index": 228,
+      "start_time": 1721.83,
+      "end_time": 1727.24,
+      "duration": 5.410000000000082,
+      "dialogue_text": "(idiot idiot idiot...)"
+    },
+    {
+      "subtitle_index": 229,
+      "start_time": 1732.01,
+      "end_time": 1735.82,
+      "duration": 3.8099999999999454,
+      "dialogue_text": "C'est beau"
+    },
+    {
+      "subtitle_index": 230,
+      "start_time": 1738.97,
+      "end_time": 1739.77,
+      "duration": 0.7999999999999545,
+      "dialogue_text": "(bonne traversée)"
+    },
+    {
+      "subtitle_index": 231,
+      "start_time": 1744.24,
+      "end_time": 1747.12,
+      "duration": 2.8799999999998818,
+      "dialogue_text": "(merci)"
+    },
+    {
+      "subtitle_index": 232,
+      "start_time": 1748.38,
+      "end_time": 1751.75,
+      "duration": 3.369999999999891,
+      "dialogue_text": "(bonne nuit)"
+    },
+    {
+      "subtitle_index": 233,
+      "start_time": 1768.77,
+      "end_time": 1771.91,
+      "duration": 3.1400000000001,
+      "dialogue_text": "Risa, ne pleure pas."
+    },
+    {
+      "subtitle_index": 234,
+      "start_time": 1771.91,
+      "end_time": 1775.02,
+      "duration": 3.1099999999999,
+      "dialogue_text": "Je ne pleure pas"
+    },
+    {
+      "subtitle_index": 235,
+      "start_time": 1775.02,
+      "end_time": 1779.98,
+      "duration": 4.960000000000036,
+      "dialogue_text": "J'ai promis de protéger Ponyo"
+    },
+    {
+      "subtitle_index": 236,
+      "start_time": 1783.38,
+      "end_time": 1786.91,
+      "duration": 3.5299999999999727,
+      "dialogue_text": "Ponyo... tu ne pleures pas?"
+    },
+    {
+      "subtitle_index": 237,
+      "start_time": 1789.27,
+      "end_time": 1793.59,
+      "duration": 4.319999999999936,
+      "dialogue_text": "Ok, réjouissons-nous"
+    },
+    {
+      "subtitle_index": 238,
+      "start_time": 1793.98,
+      "end_time": 1797.75,
+      "duration": 3.769999999999982,
+      "dialogue_text": "(thème de Totoro)"
+    },
+    {
+      "subtitle_index": 239,
+      "start_time": 1797.75,
+      "end_time": 1798.94,
+      "duration": 1.1900000000000546,
+      "dialogue_text": "Aïe!"
+    },
+    {
+      "subtitle_index": 240,
+      "start_time": 1798.94,
+      "end_time": 1800.62,
+      "duration": 1.6799999999998363,
+      "dialogue_text": "Sosuke reprend du courage aussi"
+    },
+    {
+      "subtitle_index": 241,
+      "start_time": 1800.62,
+      "end_time": 1804.18,
+      "duration": 3.560000000000173,
+      "dialogue_text": "Comme Risa, Ponyo est aussi contente"
+    },
+    {
+      "subtitle_index": 242,
+      "start_time": 1804.18,
+      "end_time": 1804.68,
+      "duration": 0.5,
+      "dialogue_text": "oui"
+    },
+    {
+      "subtitle_index": 243,
+      "start_time": 1806.54,
+      "end_time": 1808.29,
+      "duration": 1.75,
+      "dialogue_text": "Mangeons"
+    },
+    {
+      "subtitle_index": 244,
+      "start_time": 1808.29,
+      "end_time": 1811.71,
+      "duration": 3.4200000000000728,
+      "dialogue_text": "Et on mangera la part de Koichi"
+    },
+    {
+      "subtitle_index": 245,
+      "start_time": 1820.23,
+      "end_time": 1822.16,
+      "duration": 1.9300000000000637,
+      "dialogue_text": "C'est de ma faute"
+    },
+    {
+      "subtitle_index": 246,
+      "start_time": 1822.16,
+      "end_time": 1827.2,
+      "duration": 5.039999999999964,
+      "dialogue_text": "Je n'aurai pas du vous envoyer visiter la ferme"
+    },
+    {
+      "subtitle_index": 247,
+      "start_time": 1827.2,
+      "end_time": 1833.38,
+      "duration": 6.180000000000064,
+      "dialogue_text": "je vous ai déjà raconté, que l'air et l'eau des hommes sont si sales"
+    },
+    {
+      "subtitle_index": 248,
+      "start_time": 1833.38,
+      "end_time": 1836.2,
+      "duration": 2.8199999999999363,
+      "dialogue_text": "mange cela, allez"
+    },
+    {
+      "subtitle_index": 249,
+      "start_time": 1836.2,
+      "end_time": 1839.15,
+      "duration": 2.9500000000000455,
+      "dialogue_text": "Tu m'as entendu Brünhilde"
+    },
+    {
+      "subtitle_index": 250,
+      "start_time": 1839.15,
+      "end_time": 1841.22,
+      "duration": 2.0699999999999363,
+      "dialogue_text": "Je veux manger du jambon!"
+    },
+    {
+      "subtitle_index": 251,
+      "start_time": 1843.5,
+      "end_time": 1847.5,
+      "duration": 4.0,
+      "dialogue_text": "jambon? où as-tu appris une chose si horrible?"
+    },
+    {
+      "subtitle_index": 252,
+      "start_time": 1847.5,
+      "end_time": 1849.35,
+      "duration": 1.849999999999909,
+      "dialogue_text": "avoue Brünhilde"
+    },
+    {
+      "subtitle_index": 253,
+      "start_time": 1849.35,
+      "end_time": 1853.17,
+      "duration": 3.8200000000001637,
+      "dialogue_text": "Je ne suis pas Brünnhilde, mon nom est Ponyo"
+    },
+    {
+      "subtitle_index": 254,
+      "start_time": 1853.17,
+      "end_time": 1855.04,
+      "duration": 1.8699999999998909,
+      "dialogue_text": "Po...po...ponyo?"
+    },
+    {
+      "subtitle_index": 255,
+      "start_time": 1855.04,
+      "end_time": 1856.34,
+      "duration": 1.2999999999999545,
+      "dialogue_text": "Ponyo aime Sosuke"
+    },
+    {
+      "subtitle_index": 256,
+      "start_time": 1856.34,
+      "end_time": 1861.0,
+      "duration": 4.660000000000082,
+      "dialogue_text": "Ponyo veut devenir humain"
+    },
+    {
+      "subtitle_index": 257,
+      "start_time": 1861.0,
+      "end_time": 1866.07,
+      "duration": 5.069999999999936,
+      "dialogue_text": "Humain? Qu'y a-t-il de bien avec ces créatures bêtes et horribles?"
+    },
+    {
+      "subtitle_index": 258,
+      "start_time": 1866.07,
+      "end_time": 1869.57,
+      "duration": 3.5,
+      "dialogue_text": "Les hommes tuent la mer"
+    },
+    {
+      "subtitle_index": 259,
+      "start_time": 1869.57,
+      "end_time": 1872.85,
+      "duration": 3.2799999999999727,
+      "dialogue_text": "J'étais autrefois humain"
+    },
+    {
+      "subtitle_index": 260,
+      "start_time": 1872.85,
+      "end_time": 1875.45,
+      "duration": 2.6000000000001364,
+      "dialogue_text": "J'ai beaucoup sacrifié pour ne plus en être un"
+    },
+    {
+      "subtitle_index": 261,
+      "start_time": 1875.45,
+      "end_time": 1877.95,
+      "duration": 2.5,
+      "dialogue_text": "Ponyo veut des mains"
+    },
+    {
+      "subtitle_index": 262,
+      "start_time": 1877.95,
+      "end_time": 1881.3,
+      "duration": 3.349999999999909,
+      "dialogue_text": "marre des nageoires"
+    },
+    {
+      "subtitle_index": 263,
+      "start_time": 1881.3,
+      "end_time": 1884.61,
+      "duration": 3.3099999999999454,
+      "dialogue_text": "Je veux des jambes comme Sosuke!"
+    },
+    {
+      "subtitle_index": 264,
+      "start_time": 1884.61,
+      "end_time": 1886.68,
+      "duration": 2.0700000000001637,
+      "dialogue_text": "Ça suffit..."
+    },
+    {
+      "subtitle_index": 265,
+      "start_time": 1905.45,
+      "end_time": 1906.76,
+      "duration": 1.3099999999999454,
+      "dialogue_text": "Des mains me sont poussées"
+    },
+    {
+      "subtitle_index": 266,
+      "start_time": 1906.76,
+      "end_time": 1909.29,
+      "duration": 2.5299999999999727,
+      "dialogue_text": "des jambes me sont poussées"
+    },
+    {
+      "subtitle_index": 267,
+      "start_time": 1909.29,
+      "end_time": 1910.98,
+      "duration": 1.6900000000000546,
+      "dialogue_text": "Poussez! Poussez!"
+    },
+    {
+      "subtitle_index": 268,
+      "start_time": 1910.98,
+      "end_time": 1914.24,
+      "duration": 3.259999999999991,
+      "dialogue_text": "cela signifie que tu as goûté du sang humain?"
+    },
+    {
+      "subtitle_index": 269,
+      "start_time": 1914.24,
+      "end_time": 1916.41,
+      "duration": 2.1700000000000728,
+      "dialogue_text": "Je vais voir Sosuke"
+    },
+    {
+      "subtitle_index": 270,
+      "start_time": 1916.41,
+      "end_time": 1917.25,
+      "duration": 0.8399999999999181,
+      "dialogue_text": "(Sortilège)"
+    },
+    {
+      "subtitle_index": 271,
+      "start_time": 1919.58,
+      "end_time": 1922.95,
+      "duration": 3.3700000000001182,
+      "dialogue_text": "Reviens... reviens..."
+    },
+    {
+      "subtitle_index": 272,
+      "start_time": 1928.1,
+      "end_time": 1928.94,
+      "duration": 0.8400000000001455,
+      "dialogue_text": "(il psalmodie un sort)"
+    },
+    {
+      "subtitle_index": 273,
+      "start_time": 1935.0,
+      "end_time": 1938.09,
+      "duration": 3.089999999999918,
+      "dialogue_text": "Ah, pas assez de pouvoir"
+    },
+    {
+      "subtitle_index": 274,
+      "start_time": 1948.31,
+      "end_time": 1952.64,
+      "duration": 4.330000000000155,
+      "dialogue_text": "Laisse-moi sortir! Laisse-moi sortir!"
+    },
+    {
+      "subtitle_index": 275,
+      "start_time": 1952.86,
+      "end_time": 1955.78,
+      "duration": 2.9200000000000728,
+      "dialogue_text": "(sortilège)"
+    },
+    {
+      "subtitle_index": 276,
+      "start_time": 1955.78,
+      "end_time": 1959.29,
+      "duration": 3.509999999999991,
+      "dialogue_text": "reviens... reviens.. reviens..."
+    },
+    {
+      "subtitle_index": 277,
+      "start_time": 1967.36,
+      "end_time": 1970.14,
+      "duration": 2.7800000000002,
+      "dialogue_text": "C'est vraiment sa fille"
+    },
+    {
+      "subtitle_index": 278,
+      "start_time": 1970.14,
+      "end_time": 1971.52,
+      "duration": 1.3799999999998818,
+      "dialogue_text": "un tel pouvoir"
+    },
+    {
+      "subtitle_index": 279,
+      "start_time": 1976.48,
+      "end_time": 1980.68,
+      "duration": 4.2000000000000455,
+      "dialogue_text": "Si elle reste ainsi cela ira."
+    },
+    {
+      "subtitle_index": 280,
+      "start_time": 2000.56,
+      "end_time": 2003.93,
+      "duration": 3.3700000000001182,
+      "dialogue_text": "Mon pouvoir peut la garder ainsi pour un moment"
+    },
+    {
+      "subtitle_index": 281,
+      "start_time": 2003.93,
+      "end_time": 2006.64,
+      "duration": 2.7100000000000364,
+      "dialogue_text": "On dirait qu'elle peut le faire."
+    },
+    {
+      "subtitle_index": 282,
+      "start_time": 2015.65,
+      "end_time": 2016.42,
+      "duration": 0.7699999999999818,
+      "dialogue_text": "Non"
+    },
+    {
+      "subtitle_index": 283,
+      "start_time": 2016.42,
+      "end_time": 2018.8,
+      "duration": 2.3799999999998818,
+      "dialogue_text": "C'est trop pour vous"
+    },
+    {
+      "subtitle_index": 284,
+      "start_time": 2018.8,
+      "end_time": 2020.05,
+      "duration": 1.25,
+      "dialogue_text": "(shoo... shoo...)"
+    },
+    {
+      "subtitle_index": 285,
+      "start_time": 2020.05,
+      "end_time": 2021.21,
+      "duration": 1.1600000000000819,
+      "dialogue_text": "pas possible..."
+    },
+    {
+      "subtitle_index": 286,
+      "start_time": 2021.21,
+      "end_time": 2022.46,
+      "duration": 1.25,
+      "dialogue_text": "Danger danger..."
+    },
+    {
+      "subtitle_index": 287,
+      "start_time": 2022.46,
+      "end_time": 2024.4,
+      "duration": 1.9400000000000546,
+      "dialogue_text": "La barrière qui stoppe les crabes ne fonctionne plus"
+    },
+    {
+      "subtitle_index": 288,
+      "start_time": 2024.4,
+      "end_time": 2026.76,
+      "duration": 2.3599999999999,
+      "dialogue_text": "cela dérange l'ordre de la nature"
+    },
+    {
+      "subtitle_index": 289,
+      "start_time": 2026.76,
+      "end_time": 2028.01,
+      "duration": 1.25,
+      "dialogue_text": "Calmez-vous, calmez-vous"
+    },
+    {
+      "subtitle_index": 290,
+      "start_time": 2028.01,
+      "end_time": 2031.81,
+      "duration": 3.7999999999999545,
+      "dialogue_text": "J'ai un mauvais sentiment chaque fois que je dois la rencontrer."
+    },
+    {
+      "subtitle_index": 291,
+      "start_time": 2031.81,
+      "end_time": 2032.86,
+      "duration": 1.0499999999999545,
+      "dialogue_text": "Oh non, oh non"
+    },
+    {
+      "subtitle_index": 292,
+      "start_time": 2032.86,
+      "end_time": 2035.51,
+      "duration": 2.650000000000091,
+      "dialogue_text": "Je dois finir de nettoyer"
+    },
+    {
+      "subtitle_index": 293,
+      "start_time": 2044.34,
+      "end_time": 2047.19,
+      "duration": 2.8500000000001364,
+      "dialogue_text": "la barrière n'est pas faible ici"
+    },
+    {
+      "subtitle_index": 294,
+      "start_time": 2051.31,
+      "end_time": 2053.44,
+      "duration": 2.130000000000109,
+      "dialogue_text": "C'est difficile à ouvrir"
+    },
+    {
+      "subtitle_index": 295,
+      "start_time": 2057.78,
+      "end_time": 2060.09,
+      "duration": 2.3099999999999454,
+      "dialogue_text": "J'arrangerai cela plus tard"
+    },
+    {
+      "subtitle_index": 296,
+      "start_time": 2066.33,
+      "end_time": 2069.78,
+      "duration": 3.450000000000273,
+      "dialogue_text": "Je ne peux pas laisser entrer la moindre créature de la mer Ou il y aura des problèmes"
+    },
+    {
+      "subtitle_index": 297,
+      "start_time": 2092.89,
+      "end_time": 2094.68,
+      "duration": 1.7899999999999636,
+      "dialogue_text": "Bien joué"
+    },
+    {
+      "subtitle_index": 298,
+      "start_time": 2094.68,
+      "end_time": 2099.66,
+      "duration": 4.980000000000018,
+      "dialogue_text": "La puissance de la mer se disperse partout"
+    },
+    {
+      "subtitle_index": 299,
+      "start_time": 2099.66,
+      "end_time": 2101.63,
+      "duration": 1.9700000000002547,
+      "dialogue_text": "Quand ce puit sera rempli"
+    },
+    {
+      "subtitle_index": 300,
+      "start_time": 2101.63,
+      "end_time": 2104.25,
+      "duration": 2.619999999999891,
+      "dialogue_text": "le règne de la mer commencera"
+    },
+    {
+      "subtitle_index": 301,
+      "start_time": 2104.25,
+      "end_time": 2107.37,
+      "duration": 3.119999999999891,
+      "dialogue_text": "Et cela sera la fin de ces dangereuses créatures"
+    },
+    {
+      "subtitle_index": 302,
+      "start_time": 2107.37,
+      "end_time": 2110.84,
+      "duration": 3.4700000000002547,
+      "dialogue_text": "Le temps des humains s'achèvera"
+    },
+    {
+      "subtitle_index": 303,
+      "start_time": 2115.16,
+      "end_time": 2117.5,
+      "duration": 2.3400000000001455,
+      "dialogue_text": "ferme-toi, ferme-toi (sortilège)"
+    },
+    {
+      "subtitle_index": 304,
+      "start_time": 2200.52,
+      "end_time": 2201.27,
+      "duration": 0.75,
+      "dialogue_text": "Ha!"
+    },
+    {
+      "subtitle_index": 305,
+      "start_time": 2202.07,
+      "end_time": 2203.15,
+      "duration": 1.0799999999999272,
+      "dialogue_text": "Haha Haha"
+    },
+    {
+      "subtitle_index": 306,
+      "start_time": 2210.02,
+      "end_time": 2213.79,
+      "duration": 3.769999999999982,
+      "dialogue_text": "Je vais voir Sosuke"
+    },
+    {
+      "subtitle_index": 307,
+      "start_time": 2213.79,
+      "end_time": 2214.63,
+      "duration": 0.8400000000001455,
+      "dialogue_text": "Sosuke"
+    },
+    {
+      "subtitle_index": 308,
+      "start_time": 2221.75,
+      "end_time": 2222.5,
+      "duration": 0.75,
+      "dialogue_text": "Ha!"
+    },
+    {
+      "subtitle_index": 309,
+      "start_time": 2363.49,
+      "end_time": 2364.42,
+      "duration": 0.930000000000291,
+      "dialogue_text": "Tsunami?"
+    },
+    {
+      "subtitle_index": 310,
+      "start_time": 2364.42,
+      "end_time": 2367.47,
+      "duration": 3.049999999999727,
+      "dialogue_text": "Capitaine, c'est c'est..."
+    },
+    {
+      "subtitle_index": 311,
+      "start_time": 2370.12,
+      "end_time": 2371.65,
+      "duration": 1.5300000000002,
+      "dialogue_text": "Un Tsunami!"
+    },
+    {
+      "subtitle_index": 312,
+      "start_time": 2371.65,
+      "end_time": 2373.67,
+      "duration": 2.019999999999982,
+      "dialogue_text": "Tout le monde dans le bateau"
+    },
+    {
+      "subtitle_index": 313,
+      "start_time": 2375.01,
+      "end_time": 2377.48,
+      "duration": 2.4699999999998,
+      "dialogue_text": "Qu'est ce que c'est?"
+    },
+    {
+      "subtitle_index": 314,
+      "start_time": 2381.45,
+      "end_time": 2385.67,
+      "duration": 4.220000000000255,
+      "dialogue_text": "Capitaine, la radio et le radar ne marchent plus"
+    },
+    {
+      "subtitle_index": 315,
+      "start_time": 2388.3,
+      "end_time": 2389.68,
+      "duration": 1.3799999999996544,
+      "dialogue_text": "C'est une petite fille"
+    },
+    {
+      "subtitle_index": 316,
+      "start_time": 2389.68,
+      "end_time": 2392.67,
+      "duration": 2.9900000000002365,
+      "dialogue_text": "de l'âge de Sosuke"
+    },
+    {
+      "subtitle_index": 317,
+      "start_time": 2405.48,
+      "end_time": 2406.94,
+      "duration": 1.4600000000000364,
+      "dialogue_text": "Merci"
+    },
+    {
+      "subtitle_index": 318,
+      "start_time": 2406.94,
+      "end_time": 2408.76,
+      "duration": 1.8200000000001637,
+      "dialogue_text": "Merci pour votre travail"
+    },
+    {
+      "subtitle_index": 319,
+      "start_time": 2409.39,
+      "end_time": 2411.16,
+      "duration": 1.7699999999999818,
+      "dialogue_text": "Sosuke, attends ici un moment ok?"
+    },
+    {
+      "subtitle_index": 320,
+      "start_time": 2411.16,
+      "end_time": 2412.73,
+      "duration": 1.5700000000001637,
+      "dialogue_text": "je te tiendrais compagnie"
+    },
+    {
+      "subtitle_index": 321,
+      "start_time": 2412.73,
+      "end_time": 2414.98,
+      "duration": 2.25,
+      "dialogue_text": "Je rentre avec Risa, ça ira."
+    },
+    {
+      "subtitle_index": 322,
+      "start_time": 2414.98,
+      "end_time": 2416.34,
+      "duration": 1.3600000000001273,
+      "dialogue_text": "Au revoir maîtresse"
+    },
+    {
+      "subtitle_index": 323,
+      "start_time": 2416.34,
+      "end_time": 2417.79,
+      "duration": 1.449999999999818,
+      "dialogue_text": "Au revoir"
+    },
+    {
+      "subtitle_index": 324,
+      "start_time": 2418.12,
+      "end_time": 2419.98,
+      "duration": 1.8600000000001273,
+      "dialogue_text": "Fais attention"
+    },
+    {
+      "subtitle_index": 325,
+      "start_time": 2462.52,
+      "end_time": 2464.12,
+      "duration": 1.599999999999909,
+      "dialogue_text": "Pardon, Sosuke."
+    },
+    {
+      "subtitle_index": 326,
+      "start_time": 2464.12,
+      "end_time": 2465.74,
+      "duration": 1.6199999999998909,
+      "dialogue_text": "La porte était difficile à ouvrir?"
+    },
+    {
+      "subtitle_index": 327,
+      "start_time": 2465.74,
+      "end_time": 2467.13,
+      "duration": 1.3900000000003274,
+      "dialogue_text": "Les plombs ont sauté"
+    },
+    {
+      "subtitle_index": 328,
+      "start_time": 2467.13,
+      "end_time": 2468.63,
+      "duration": 1.5,
+      "dialogue_text": "Tout va bien à l'école ok?"
+    },
+    {
+      "subtitle_index": 329,
+      "start_time": 2468.63,
+      "end_time": 2469.25,
+      "duration": 0.6199999999998909,
+      "dialogue_text": "oui"
+    },
+    {
+      "subtitle_index": 330,
+      "start_time": 2469.25,
+      "end_time": 2471.72,
+      "duration": 2.4699999999998,
+      "dialogue_text": "Miss Risa, tout va bien"
+    },
+    {
+      "subtitle_index": 331,
+      "start_time": 2471.72,
+      "end_time": 2472.76,
+      "duration": 1.0400000000004184,
+      "dialogue_text": "vous pouvez rentrer d'abord"
+    },
+    {
+      "subtitle_index": 332,
+      "start_time": 2472.76,
+      "end_time": 2474.43,
+      "duration": 1.669999999999618,
+      "dialogue_text": "Grand-mère Kaneko n'est pas encore là?"
+    },
+    {
+      "subtitle_index": 333,
+      "start_time": 2474.43,
+      "end_time": 2475.26,
+      "duration": 0.830000000000382,
+      "dialogue_text": "Ça va."
+    },
+    {
+      "subtitle_index": 334,
+      "start_time": 2475.26,
+      "end_time": 2477.22,
+      "duration": 1.9599999999995816,
+      "dialogue_text": "Elle est juste en retard"
+    },
+    {
+      "subtitle_index": 335,
+      "start_time": 2477.22,
+      "end_time": 2479.83,
+      "duration": 2.6100000000001273,
+      "dialogue_text": "Après tout, nous serons là toute la nuit."
+    },
+    {
+      "subtitle_index": 336,
+      "start_time": 2479.83,
+      "end_time": 2482.54,
+      "duration": 2.7100000000000364,
+      "dialogue_text": "Vous feriez mieux de rentrer avant de ne plus pouvoir"
+    },
+    {
+      "subtitle_index": 337,
+      "start_time": 2483.5,
+      "end_time": 2485.96,
+      "duration": 2.4600000000000364,
+      "dialogue_text": "Sosuke, attends un peu"
+    },
+    {
+      "subtitle_index": 338,
+      "start_time": 2485.96,
+      "end_time": 2486.46,
+      "duration": 0.5,
+      "dialogue_text": "Oui"
+    },
+    {
+      "subtitle_index": 339,
+      "start_time": 2497.7,
+      "end_time": 2499.42,
+      "duration": 1.7200000000002547,
+      "dialogue_text": "grand-mère Yoshie?"
+    },
+    {
+      "subtitle_index": 340,
+      "start_time": 2499.42,
+      "end_time": 2502.36,
+      "duration": 2.9400000000000546,
+      "dialogue_text": "Petit Sosuke"
+    },
+    {
+      "subtitle_index": 341,
+      "start_time": 2502.36,
+      "end_time": 2504.76,
+      "duration": 2.400000000000091,
+      "dialogue_text": "C'est trop noir, je ne vois rien"
+    },
+    {
+      "subtitle_index": 342,
+      "start_time": 2504.76,
+      "end_time": 2507.6,
+      "duration": 2.8399999999996908,
+      "dialogue_text": "c'est pour toi"
+    },
+    {
+      "subtitle_index": 343,
+      "start_time": 2509.11,
+      "end_time": 2512.42,
+      "duration": 3.3099999999999454,
+      "dialogue_text": "Oh? qu'est ce que c'est donc?"
+    },
+    {
+      "subtitle_index": 344,
+      "start_time": 2512.42,
+      "end_time": 2514.31,
+      "duration": 1.8899999999998727,
+      "dialogue_text": "Il y en a un aussi pour Grand-mère Noriko"
+    },
+    {
+      "subtitle_index": 345,
+      "start_time": 2514.31,
+      "end_time": 2515.57,
+      "duration": 1.2600000000002183,
+      "dialogue_text": "Merci."
+    },
+    {
+      "subtitle_index": 346,
+      "start_time": 2515.57,
+      "end_time": 2518.5,
+      "duration": 2.9299999999998363,
+      "dialogue_text": "C'es trop noir, je ne vois rien"
+    },
+    {
+      "subtitle_index": 347,
+      "start_time": 2518.5,
+      "end_time": 2521.39,
+      "duration": 2.8899999999998727,
+      "dialogue_text": "Quel orage, encore plus avec la coupure de courant"
+    },
+    {
+      "subtitle_index": 348,
+      "start_time": 2521.39,
+      "end_time": 2524.76,
+      "duration": 3.3700000000003456,
+      "dialogue_text": "C'est pourquoi je ne veux pas rester ici."
+    },
+    {
+      "subtitle_index": 349,
+      "start_time": 2527.58,
+      "end_time": 2528.83,
+      "duration": 1.25,
+      "dialogue_text": "La lumière est revenue"
+    },
+    {
+      "subtitle_index": 350,
+      "start_time": 2528.83,
+      "end_time": 2530.09,
+      "duration": 1.2600000000002183,
+      "dialogue_text": "excellent"
+    },
+    {
+      "subtitle_index": 351,
+      "start_time": 2530.09,
+      "end_time": 2531.36,
+      "duration": 1.2699999999999818,
+      "dialogue_text": "C'est si brillant"
+    },
+    {
+      "subtitle_index": 352,
+      "start_time": 2531.36,
+      "end_time": 2532.82,
+      "duration": 1.4600000000000364,
+      "dialogue_text": "Poisson rouge!"
+    },
+    {
+      "subtitle_index": 353,
+      "start_time": 2532.82,
+      "end_time": 2537.62,
+      "duration": 4.799999999999727,
+      "dialogue_text": "La lumière est revenue car Sosuke est venu non?"
+    },
+    {
+      "subtitle_index": 354,
+      "start_time": 2537.62,
+      "end_time": 2540.39,
+      "duration": 2.769999999999982,
+      "dialogue_text": "Il y a une tempête ce soir"
+    },
+    {
+      "subtitle_index": 355,
+      "start_time": 2540.39,
+      "end_time": 2542.77,
+      "duration": 2.380000000000109,
+      "dialogue_text": "extrêmement forte"
+    },
+    {
+      "subtitle_index": 356,
+      "start_time": 2544.16,
+      "end_time": 2546.4,
+      "duration": 2.2400000000002365,
+      "dialogue_text": "Inutile télévision"
+    },
+    {
+      "subtitle_index": 357,
+      "start_time": 2546.4,
+      "end_time": 2548.06,
+      "duration": 1.6599999999998545,
+      "dialogue_text": "on ne voit rien"
+    },
+    {
+      "subtitle_index": 358,
+      "start_time": 2548.06,
+      "end_time": 2551.37,
+      "duration": 3.3099999999999454,
+      "dialogue_text": "Le bulletin météo n'est jamais précis"
+    },
+    {
+      "subtitle_index": 359,
+      "start_time": 2551.37,
+      "end_time": 2553.87,
+      "duration": 2.5,
+      "dialogue_text": "petit Sosuke rentre vite à la maison"
+    },
+    {
+      "subtitle_index": 360,
+      "start_time": 2553.87,
+      "end_time": 2558.83,
+      "duration": 4.960000000000036,
+      "dialogue_text": "Nous, on a notre poisson-rouge fétiche, nous n'avons peur de rien"
+    },
+    {
+      "subtitle_index": 361,
+      "start_time": 2558.83,
+      "end_time": 2559.33,
+      "duration": 0.5,
+      "dialogue_text": "oui"
+    },
+    {
+      "subtitle_index": 362,
+      "start_time": 2567.19,
+      "end_time": 2570.66,
+      "duration": 3.4699999999998,
+      "dialogue_text": "Il y en a un pour toi grand-mère Toki"
+    },
+    {
+      "subtitle_index": 363,
+      "start_time": 2572.59,
+      "end_time": 2574.72,
+      "duration": 2.1299999999996544,
+      "dialogue_text": "C'est tout fripé"
+    },
+    {
+      "subtitle_index": 364,
+      "start_time": 2574.72,
+      "end_time": 2575.78,
+      "duration": 1.0600000000004002,
+      "dialogue_text": "Qu'est ce que c'est?"
+    },
+    {
+      "subtitle_index": 365,
+      "start_time": 2575.78,
+      "end_time": 2578.56,
+      "duration": 2.7799999999997453,
+      "dialogue_text": "C'est dans ce sens"
+    },
+    {
+      "subtitle_index": 366,
+      "start_time": 2579.75,
+      "end_time": 2582.06,
+      "duration": 2.3099999999999454,
+      "dialogue_text": "C'est une chauve-souris, une chauve-souris"
+    },
+    {
+      "subtitle_index": 367,
+      "start_time": 2582.06,
+      "end_time": 2582.84,
+      "duration": 0.7800000000002001,
+      "dialogue_text": "Non, c'est pas ça."
+    },
+    {
+      "subtitle_index": 368,
+      "start_time": 2582.84,
+      "end_time": 2584.44,
+      "duration": 1.599999999999909,
+      "dialogue_text": "c'est le 'Koganei Maru'"
+    },
+    {
+      "subtitle_index": 369,
+      "start_time": 2584.44,
+      "end_time": 2587.55,
+      "duration": 3.1100000000001273,
+      "dialogue_text": "le bateau du papa de Sosuke, n'est-ce pas?"
+    },
+    {
+      "subtitle_index": 370,
+      "start_time": 2587.55,
+      "end_time": 2588.33,
+      "duration": 0.7799999999997453,
+      "dialogue_text": "Oui"
+    },
+    {
+      "subtitle_index": 371,
+      "start_time": 2588.33,
+      "end_time": 2590.82,
+      "duration": 2.4900000000002365,
+      "dialogue_text": "On dirait une chauve-souris"
+    },
+    {
+      "subtitle_index": 372,
+      "start_time": 2590.82,
+      "end_time": 2594.76,
+      "duration": 3.9400000000000546,
+      "dialogue_text": "Sosuke, on y va, dis au revoir à tout le monde"
+    },
+    {
+      "subtitle_index": 373,
+      "start_time": 2594.76,
+      "end_time": 2595.51,
+      "duration": 0.75,
+      "dialogue_text": "Ok"
+    },
+    {
+      "subtitle_index": 374,
+      "start_time": 2596.63,
+      "end_time": 2599.68,
+      "duration": 3.049999999999727,
+      "dialogue_text": "Au revoir tout le monde"
+    },
+    {
+      "subtitle_index": 375,
+      "start_time": 2599.68,
+      "end_time": 2601.31,
+      "duration": 1.6300000000001091,
+      "dialogue_text": "Au revoir"
+    },
+    {
+      "subtitle_index": 376,
+      "start_time": 2601.94,
+      "end_time": 2605.08,
+      "duration": 3.1399999999998727,
+      "dialogue_text": "faites attention au vent"
+    },
+    {
+      "subtitle_index": 377,
+      "start_time": 2605.41,
+      "end_time": 2607.45,
+      "duration": 2.0399999999999636,
+      "dialogue_text": "On y va"
+    },
+    {
+      "subtitle_index": 378,
+      "start_time": 2611.51,
+      "end_time": 2614.0,
+      "duration": 2.4899999999997817,
+      "dialogue_text": "On dirait que le téléphone non plus ne fonctionne plus"
+    },
+    {
+      "subtitle_index": 379,
+      "start_time": 2637.12,
+      "end_time": 2639.8,
+      "duration": 2.680000000000291,
+      "dialogue_text": "La mer monte"
+    },
+    {
+      "subtitle_index": 380,
+      "start_time": 2643.22,
+      "end_time": 2646.18,
+      "duration": 2.9600000000000364,
+      "dialogue_text": "Ces bateaux ne vont pas sombrer?"
+    },
+    {
+      "subtitle_index": 381,
+      "start_time": 2646.18,
+      "end_time": 2649.26,
+      "duration": 3.080000000000382,
+      "dialogue_text": "Les bateaux qui quittent le quai n'ont pas peur de la tempête"
+    },
+    {
+      "subtitle_index": 382,
+      "start_time": 2649.26,
+      "end_time": 2651.53,
+      "duration": 2.269999999999982,
+      "dialogue_text": "comme Koichi"
+    },
+    {
+      "subtitle_index": 383,
+      "start_time": 2661.93,
+      "end_time": 2663.26,
+      "duration": 1.330000000000382,
+      "dialogue_text": "C'est un poisson"
+    },
+    {
+      "subtitle_index": 384,
+      "start_time": 2663.26,
+      "end_time": 2664.56,
+      "duration": 1.2999999999997272,
+      "dialogue_text": "Risa, c'est un poisson!"
+    },
+    {
+      "subtitle_index": 385,
+      "start_time": 2664.56,
+      "end_time": 2666.49,
+      "duration": 1.9299999999998363,
+      "dialogue_text": "Mets ta ceinture"
+    },
+    {
+      "subtitle_index": 386,
+      "start_time": 2676.51,
+      "end_time": 2678.88,
+      "duration": 2.369999999999891,
+      "dialogue_text": "Miss Risa, vous ne pouvez pas passer"
+    },
+    {
+      "subtitle_index": 387,
+      "start_time": 2678.88,
+      "end_time": 2681.6,
+      "duration": 2.7199999999998,
+      "dialogue_text": "On doit évacuer"
+    },
+    {
+      "subtitle_index": 388,
+      "start_time": 2681.6,
+      "end_time": 2683.0,
+      "duration": 1.400000000000091,
+      "dialogue_text": "Evacuer?"
+    },
+    {
+      "subtitle_index": 389,
+      "start_time": 2683.0,
+      "end_time": 2686.54,
+      "duration": 3.5399999999999636,
+      "dialogue_text": "Il y a des personnes âgées à la maison des tournesols qui restent pour la nuit"
+    },
+    {
+      "subtitle_index": 390,
+      "start_time": 2686.54,
+      "end_time": 2690.74,
+      "duration": 4.199999999999818,
+      "dialogue_text": "c'est à l'intérieur des terre. Et plus haut, cela ira bien pour elle."
+    },
+    {
+      "subtitle_index": 391,
+      "start_time": 2690.74,
+      "end_time": 2693.76,
+      "duration": 3.0200000000004366,
+      "dialogue_text": "De toute façon, je dois y aller"
+    },
+    {
+      "subtitle_index": 392,
+      "start_time": 2693.76,
+      "end_time": 2695.31,
+      "duration": 1.5499999999997272,
+      "dialogue_text": "Vous ne pouvez pas rester ici"
+    },
+    {
+      "subtitle_index": 393,
+      "start_time": 2695.31,
+      "end_time": 2696.99,
+      "duration": 1.6799999999998363,
+      "dialogue_text": "Passez par les montagnes"
+    },
+    {
+      "subtitle_index": 394,
+      "start_time": 2699.31,
+      "end_time": 2701.09,
+      "duration": 1.7800000000002,
+      "dialogue_text": "Sosuke, on y va"
+    },
+    {
+      "subtitle_index": 395,
+      "start_time": 2701.09,
+      "end_time": 2701.59,
+      "duration": 0.5,
+      "dialogue_text": "Ok"
+    },
+    {
+      "subtitle_index": 396,
+      "start_time": 2703.5,
+      "end_time": 2704.43,
+      "duration": 0.9299999999998363,
+      "dialogue_text": "arrêtez!"
+    },
+    {
+      "subtitle_index": 397,
+      "start_time": 2704.43,
+      "end_time": 2706.27,
+      "duration": 1.8400000000001455,
+      "dialogue_text": "Oh non, une grande vague arrive!"
+    },
+    {
+      "subtitle_index": 398,
+      "start_time": 2711.13,
+      "end_time": 2712.67,
+      "duration": 1.5399999999999636,
+      "dialogue_text": "Miss Risa!"
+    },
+    {
+      "subtitle_index": 399,
+      "start_time": 2712.67,
+      "end_time": 2714.46,
+      "duration": 1.7899999999999636,
+      "dialogue_text": "Ne soyez pas folle!"
+    },
+    {
+      "subtitle_index": 400,
+      "start_time": 2754.94,
+      "end_time": 2756.56,
+      "duration": 1.6199999999998909,
+      "dialogue_text": "Le poisson nous suit!"
+    },
+    {
+      "subtitle_index": 401,
+      "start_time": 2756.56,
+      "end_time": 2758.83,
+      "duration": 2.269999999999982,
+      "dialogue_text": "Sosuke, assois-toi bien"
+    },
+    {
+      "subtitle_index": 402,
+      "start_time": 2771.69,
+      "end_time": 2774.77,
+      "duration": 3.0799999999999272,
+      "dialogue_text": "Je vais accélerer"
+    },
+    {
+      "subtitle_index": 403,
+      "start_time": 2825.64,
+      "end_time": 2827.93,
+      "duration": 2.2899999999999636,
+      "dialogue_text": "Quelle sale vague"
+    },
+    {
+      "subtitle_index": 404,
+      "start_time": 2837.97,
+      "end_time": 2839.48,
+      "duration": 1.5100000000002183,
+      "dialogue_text": "Une fillette est tombé dans l'eau"
+    },
+    {
+      "subtitle_index": 405,
+      "start_time": 2839.48,
+      "end_time": 2840.19,
+      "duration": 0.7100000000000364,
+      "dialogue_text": "quoi?"
+    },
+    {
+      "subtitle_index": 406,
+      "start_time": 2840.19,
+      "end_time": 2842.42,
+      "duration": 2.230000000000018,
+      "dialogue_text": "Elle se trouvait au dos d'un poisson"
+    },
+    {
+      "subtitle_index": 407,
+      "start_time": 2846.76,
+      "end_time": 2848.27,
+      "duration": 1.5099999999997635,
+      "dialogue_text": "Où ça?"
+    },
+    {
+      "subtitle_index": 408,
+      "start_time": 2856.58,
+      "end_time": 2858.78,
+      "duration": 2.200000000000273,
+      "dialogue_text": "La vague devient plus grande"
+    },
+    {
+      "subtitle_index": 409,
+      "start_time": 2858.78,
+      "end_time": 2861.45,
+      "duration": 2.669999999999618,
+      "dialogue_text": "Sosuke, où est la fille que tu as vue?"
+    },
+    {
+      "subtitle_index": 410,
+      "start_time": 2861.45,
+      "end_time": 2864.38,
+      "duration": 2.930000000000291,
+      "dialogue_text": "là, elle courait au dos d'un poisson"
+    },
+    {
+      "subtitle_index": 411,
+      "start_time": 2864.38,
+      "end_time": 2865.69,
+      "duration": 1.3099999999999454,
+      "dialogue_text": "Poisson?"
+    },
+    {
+      "subtitle_index": 412,
+      "start_time": 2869.85,
+      "end_time": 2872.36,
+      "duration": 2.5100000000002183,
+      "dialogue_text": "On y va, Sosuke"
+    },
+    {
+      "subtitle_index": 413,
+      "start_time": 2887.44,
+      "end_time": 2888.82,
+      "duration": 1.3800000000001091,
+      "dialogue_text": "Accroche-toi, Sosuke"
+    },
+    {
+      "subtitle_index": 414,
+      "start_time": 2888.82,
+      "end_time": 2890.39,
+      "duration": 1.569999999999709,
+      "dialogue_text": "On est presque arrivé"
+    },
+    {
+      "subtitle_index": 415,
+      "start_time": 2944.85,
+      "end_time": 2946.4,
+      "duration": 1.550000000000182,
+      "dialogue_text": "Il y a une fille"
+    },
+    {
+      "subtitle_index": 416,
+      "start_time": 2946.4,
+      "end_time": 2949.79,
+      "duration": 3.3899999999998727,
+      "dialogue_text": "C'est dangereux, viens par ici"
+    },
+    {
+      "subtitle_index": 417,
+      "start_time": 2949.79,
+      "end_time": 2951.78,
+      "duration": 1.9900000000002365,
+      "dialogue_text": "Sosuke, ne bouge pas"
+    },
+    {
+      "subtitle_index": 418,
+      "start_time": 2977.2,
+      "end_time": 2980.2,
+      "duration": 3.0,
+      "dialogue_text": "Sosuke, tu la connais?"
+    },
+    {
+      "subtitle_index": 419,
+      "start_time": 3000.72,
+      "end_time": 3002.64,
+      "duration": 1.9200000000000728,
+      "dialogue_text": "Ponyo?"
+    },
+    {
+      "subtitle_index": 420,
+      "start_time": 3003.0,
+      "end_time": 3005.39,
+      "duration": 2.3899999999998727,
+      "dialogue_text": "C'est Ponyo"
+    },
+    {
+      "subtitle_index": 421,
+      "start_time": 3005.39,
+      "end_time": 3006.74,
+      "duration": 1.349999999999909,
+      "dialogue_text": "C'est Ponyo"
+    },
+    {
+      "subtitle_index": 422,
+      "start_time": 3008.74,
+      "end_time": 3012.52,
+      "duration": 3.7800000000002,
+      "dialogue_text": "Risa, Ponyo est revenue comme une petite fille"
+    },
+    {
+      "subtitle_index": 423,
+      "start_time": 3023.82,
+      "end_time": 3026.36,
+      "duration": 2.5399999999999636,
+      "dialogue_text": "Ponyo est revenue"
+    },
+    {
+      "subtitle_index": 424,
+      "start_time": 3045.28,
+      "end_time": 3047.28,
+      "duration": 2.0,
+      "dialogue_text": "Ecoutez, Sosuke, Ponyo"
+    },
+    {
+      "subtitle_index": 425,
+      "start_time": 3047.28,
+      "end_time": 3048.66,
+      "duration": 1.3799999999996544,
+      "dialogue_text": "Même si vous êtes heureux et surpris"
+    },
+    {
+      "subtitle_index": 426,
+      "start_time": 3048.66,
+      "end_time": 3050.62,
+      "duration": 1.9600000000000364,
+      "dialogue_text": "vous devez vous calmer maintenant"
+    },
+    {
+      "subtitle_index": 427,
+      "start_time": 3050.62,
+      "end_time": 3053.18,
+      "duration": 2.5599999999999454,
+      "dialogue_text": "compris?"
+    },
+    {
+      "subtitle_index": 428,
+      "start_time": 3053.18,
+      "end_time": 3053.68,
+      "duration": 0.5,
+      "dialogue_text": "Oui"
+    },
+    {
+      "subtitle_index": 429,
+      "start_time": 3059.47,
+      "end_time": 3061.79,
+      "duration": 2.3200000000001637,
+      "dialogue_text": "enlève ton manteau Sosuke"
+    },
+    {
+      "subtitle_index": 430,
+      "start_time": 3062.05,
+      "end_time": 3063.77,
+      "duration": 1.7199999999998,
+      "dialogue_text": "Ponyo ne porte pas de chaussures?"
+    },
+    {
+      "subtitle_index": 431,
+      "start_time": 3063.77,
+      "end_time": 3065.25,
+      "duration": 1.4800000000000182,
+      "dialogue_text": "porte-ça"
+    },
+    {
+      "subtitle_index": 432,
+      "start_time": 3069.38,
+      "end_time": 3071.61,
+      "duration": 2.230000000000018,
+      "dialogue_text": "Je vais vous chercher quelque chose pour vous sécher"
+    },
+    {
+      "subtitle_index": 433,
+      "start_time": 3088.59,
+      "end_time": 3089.96,
+      "duration": 1.3699999999998909,
+      "dialogue_text": "Ponyo, par ici"
+    },
+    {
+      "subtitle_index": 434,
+      "start_time": 3092.26,
+      "end_time": 3094.4,
+      "duration": 2.1399999999998727,
+      "dialogue_text": "Ça sent Sosuke"
+    },
+    {
+      "subtitle_index": 435,
+      "start_time": 3097.92,
+      "end_time": 3099.22,
+      "duration": 1.2999999999997272,
+      "dialogue_text": "Ponyo"
+    },
+    {
+      "subtitle_index": 436,
+      "start_time": 3103.91,
+      "end_time": 3105.16,
+      "duration": 1.25,
+      "dialogue_text": "je t'ai attrapée"
+    },
+    {
+      "subtitle_index": 437,
+      "start_time": 3105.16,
+      "end_time": 3107.45,
+      "duration": 2.2899999999999636,
+      "dialogue_text": "C'est pas bien de se promener toute mouillée"
+    },
+    {
+      "subtitle_index": 438,
+      "start_time": 3111.4,
+      "end_time": 3113.97,
+      "duration": 2.569999999999709,
+      "dialogue_text": "Les cheveux de Ponyo sont bien roux"
+    },
+    {
+      "subtitle_index": 439,
+      "start_time": 3116.77,
+      "end_time": 3118.49,
+      "duration": 1.7199999999998,
+      "dialogue_text": "Ses vêtements sont encore mouillés?"
+    },
+    {
+      "subtitle_index": 440,
+      "start_time": 3118.49,
+      "end_time": 3121.22,
+      "duration": 2.730000000000018,
+      "dialogue_text": "Ponyo était habituée d'être un poisson"
+    },
+    {
+      "subtitle_index": 441,
+      "start_time": 3121.22,
+      "end_time": 3123.6,
+      "duration": 2.380000000000109,
+      "dialogue_text": "c'est normal d'être mouillée"
+    },
+    {
+      "subtitle_index": 442,
+      "start_time": 3123.83,
+      "end_time": 3124.58,
+      "duration": 0.75,
+      "dialogue_text": "oui"
+    },
+    {
+      "subtitle_index": 443,
+      "start_time": 3126.39,
+      "end_time": 3128.61,
+      "duration": 2.2200000000002547,
+      "dialogue_text": "Ponyo aime ça"
+    },
+    {
+      "subtitle_index": 444,
+      "start_time": 3128.61,
+      "end_time": 3131.84,
+      "duration": 3.230000000000018,
+      "dialogue_text": "Super, on prend un thé"
+    },
+    {
+      "subtitle_index": 445,
+      "start_time": 3131.84,
+      "end_time": 3134.84,
+      "duration": 3.0,
+      "dialogue_text": "Ponyo, apporte la lumière ici"
+    },
+    {
+      "subtitle_index": 446,
+      "start_time": 3136.43,
+      "end_time": 3138.63,
+      "duration": 2.200000000000273,
+      "dialogue_text": "est-ce qu'il y aura de l'eau?"
+    },
+    {
+      "subtitle_index": 447,
+      "start_time": 3138.63,
+      "end_time": 3139.53,
+      "duration": 0.900000000000091,
+      "dialogue_text": "Oui il y en aura!"
+    },
+    {
+      "subtitle_index": 448,
+      "start_time": 3139.53,
+      "end_time": 3140.82,
+      "duration": 1.2899999999999636,
+      "dialogue_text": "Elle sortira!"
+    },
+    {
+      "subtitle_index": 449,
+      "start_time": 3143.82,
+      "end_time": 3146.21,
+      "duration": 2.3899999999998727,
+      "dialogue_text": "Elle sort"
+    },
+    {
+      "subtitle_index": 450,
+      "start_time": 3147.19,
+      "end_time": 3150.07,
+      "duration": 2.880000000000109,
+      "dialogue_text": "Parce qu'on a un réservoir d'eau sur le toit"
+    },
+    {
+      "subtitle_index": 451,
+      "start_time": 3151.42,
+      "end_time": 3153.7,
+      "duration": 2.2799999999997453,
+      "dialogue_text": "Est-ce que le feu sortira?"
+    },
+    {
+      "subtitle_index": 452,
+      "start_time": 3155.16,
+      "end_time": 3156.15,
+      "duration": 0.9900000000002365,
+      "dialogue_text": "C'est merveilleux"
+    },
+    {
+      "subtitle_index": 453,
+      "start_time": 3156.15,
+      "end_time": 3157.47,
+      "duration": 1.319999999999709,
+      "dialogue_text": "super"
+    },
+    {
+      "subtitle_index": 454,
+      "start_time": 3157.47,
+      "end_time": 3159.36,
+      "duration": 1.8900000000003274,
+      "dialogue_text": "C'est parce qu'on a un réservoir de gaz"
+    },
+    {
+      "subtitle_index": 455,
+      "start_time": 3162.03,
+      "end_time": 3164.48,
+      "duration": 2.449999999999818,
+      "dialogue_text": "Assois-toi"
+    },
+    {
+      "subtitle_index": 456,
+      "start_time": 3164.48,
+      "end_time": 3165.23,
+      "duration": 0.75,
+      "dialogue_text": "ok"
+    },
+    {
+      "subtitle_index": 457,
+      "start_time": 3165.91,
+      "end_time": 3167.97,
+      "duration": 2.0599999999999454,
+      "dialogue_text": "Ponyo s'assois ici"
+    },
+    {
+      "subtitle_index": 458,
+      "start_time": 3173.56,
+      "end_time": 3175.59,
+      "duration": 2.0300000000002,
+      "dialogue_text": "Tu devrais t'assoir ainsi"
+    },
+    {
+      "subtitle_index": 459,
+      "start_time": 3178.26,
+      "end_time": 3180.51,
+      "duration": 2.25,
+      "dialogue_text": "pose-le comme ça"
+    },
+    {
+      "subtitle_index": 460,
+      "start_time": 3182.34,
+      "end_time": 3184.32,
+      "duration": 1.9800000000000182,
+      "dialogue_text": "Tu ne peux pas utiliser tes mains si tu tiens la lumière"
+    },
+    {
+      "subtitle_index": 461,
+      "start_time": 3184.32,
+      "end_time": 3186.39,
+      "duration": 2.069999999999709,
+      "dialogue_text": "J'ai mes pieds"
+    },
+    {
+      "subtitle_index": 462,
+      "start_time": 3188.74,
+      "end_time": 3190.53,
+      "duration": 1.7900000000004184,
+      "dialogue_text": "Ouaou, pas croyable"
+    },
+    {
+      "subtitle_index": 463,
+      "start_time": 3193.13,
+      "end_time": 3195.39,
+      "duration": 2.2599999999997635,
+      "dialogue_text": "Oh, qu'est ce que c'est?"
+    },
+    {
+      "subtitle_index": 464,
+      "start_time": 3195.39,
+      "end_time": 3198.45,
+      "duration": 3.0599999999999454,
+      "dialogue_text": "Les pieds de Ponyo sont comme des mains"
+    },
+    {
+      "subtitle_index": 465,
+      "start_time": 3217.73,
+      "end_time": 3219.46,
+      "duration": 1.7300000000000182,
+      "dialogue_text": "Tiens,"
+    },
+    {
+      "subtitle_index": 466,
+      "start_time": 3220.53,
+      "end_time": 3222.27,
+      "duration": 1.7399999999997817,
+      "dialogue_text": "sers-toi"
+    },
+    {
+      "subtitle_index": 467,
+      "start_time": 3226.72,
+      "end_time": 3228.78,
+      "duration": 2.0600000000004,
+      "dialogue_text": "Bon appétit"
+    },
+    {
+      "subtitle_index": 468,
+      "start_time": 3276.76,
+      "end_time": 3278.88,
+      "duration": 2.119999999999891,
+      "dialogue_text": "c'était délicieux"
+    },
+    {
+      "subtitle_index": 469,
+      "start_time": 3279.21,
+      "end_time": 3282.5,
+      "duration": 3.2899999999999636,
+      "dialogue_text": "Ensuite, qu'est ce que l'on fait?"
+    },
+    {
+      "subtitle_index": 470,
+      "start_time": 3282.5,
+      "end_time": 3284.32,
+      "duration": 1.8200000000001637,
+      "dialogue_text": "Ponyo voudrait du jambon"
+    },
+    {
+      "subtitle_index": 471,
+      "start_time": 3284.32,
+      "end_time": 3286.65,
+      "duration": 2.3299999999999272,
+      "dialogue_text": "Ponyo aime manger du jambon"
+    },
+    {
+      "subtitle_index": 472,
+      "start_time": 3287.96,
+      "end_time": 3290.26,
+      "duration": 2.300000000000182,
+      "dialogue_text": "Alors on va manger le repas"
+    },
+    {
+      "subtitle_index": 473,
+      "start_time": 3290.26,
+      "end_time": 3293.76,
+      "duration": 3.5,
+      "dialogue_text": "Mais d'abord, on doit redémarrer le générateur"
+    },
+    {
+      "subtitle_index": 474,
+      "start_time": 3294.57,
+      "end_time": 3298.1,
+      "duration": 3.5299999999997453,
+      "dialogue_text": "Si on peut rétablir le courant, on pourra parler avec Koichi"
+    },
+    {
+      "subtitle_index": 475,
+      "start_time": 3298.82,
+      "end_time": 3301.59,
+      "duration": 2.769999999999982,
+      "dialogue_text": "Koichi est mon père"
+    },
+    {
+      "subtitle_index": 476,
+      "start_time": 3301.59,
+      "end_time": 3303.36,
+      "duration": 1.7699999999999818,
+      "dialogue_text": "c'est un méchant sorcier?"
+    },
+    {
+      "subtitle_index": 477,
+      "start_time": 3303.36,
+      "end_time": 3307.17,
+      "duration": 3.8099999999999454,
+      "dialogue_text": "Non, c'est le capitaine du Koganei Maru."
+    },
+    {
+      "subtitle_index": 478,
+      "start_time": 3307.17,
+      "end_time": 3309.78,
+      "duration": 2.6100000000001273,
+      "dialogue_text": "et le père de Ponyo?"
+    },
+    {
+      "subtitle_index": 479,
+      "start_time": 3309.78,
+      "end_time": 3313.06,
+      "duration": 3.2799999999997453,
+      "dialogue_text": "Fujimoto, m'a enfermée"
+    },
+    {
+      "subtitle_index": 480,
+      "start_time": 3313.6,
+      "end_time": 3316.17,
+      "duration": 2.5700000000001637,
+      "dialogue_text": "Alors Ponyo s'est échappée"
+    },
+    {
+      "subtitle_index": 481,
+      "start_time": 3317.23,
+      "end_time": 3319.36,
+      "duration": 2.130000000000109,
+      "dialogue_text": "Et la mère de Ponyo?"
+    },
+    {
+      "subtitle_index": 482,
+      "start_time": 3319.36,
+      "end_time": 3323.0,
+      "duration": 3.6399999999998727,
+      "dialogue_text": "J'adore maman"
+    },
+    {
+      "subtitle_index": 483,
+      "start_time": 3323.0,
+      "end_time": 3325.62,
+      "duration": 2.619999999999891,
+      "dialogue_text": "Mais elle est très effrayante"
+    },
+    {
+      "subtitle_index": 484,
+      "start_time": 3325.62,
+      "end_time": 3327.47,
+      "duration": 1.849999999999909,
+      "dialogue_text": "exactement comme Risa..."
+    },
+    {
+      "subtitle_index": 485,
+      "start_time": 3331.83,
+      "end_time": 3334.01,
+      "duration": 2.180000000000291,
+      "dialogue_text": "Merci pour l'aide Ponyo"
+    },
+    {
+      "subtitle_index": 486,
+      "start_time": 3349.75,
+      "end_time": 3352.97,
+      "duration": 3.2199999999998,
+      "dialogue_text": "Plus de fuel?"
+    },
+    {
+      "subtitle_index": 487,
+      "start_time": 3352.97,
+      "end_time": 3354.55,
+      "duration": 1.580000000000382,
+      "dialogue_text": "coincé?"
+    },
+    {
+      "subtitle_index": 488,
+      "start_time": 3354.55,
+      "end_time": 3355.72,
+      "duration": 1.169999999999618,
+      "dialogue_text": "C'est coincé!"
+    },
+    {
+      "subtitle_index": 489,
+      "start_time": 3355.72,
+      "end_time": 3357.91,
+      "duration": 2.1900000000000546,
+      "dialogue_text": "C'est coincé là"
+    },
+    {
+      "subtitle_index": 490,
+      "start_time": 3372.94,
+      "end_time": 3374.46,
+      "duration": 1.5199999999999818,
+      "dialogue_text": "Super"
+    },
+    {
+      "subtitle_index": 491,
+      "start_time": 3374.46,
+      "end_time": 3376.38,
+      "duration": 1.9200000000000728,
+      "dialogue_text": "C'est lumineux"
+    },
+    {
+      "subtitle_index": 492,
+      "start_time": 3378.17,
+      "end_time": 3380.09,
+      "duration": 1.9200000000000728,
+      "dialogue_text": "excellent"
+    },
+    {
+      "subtitle_index": 493,
+      "start_time": 3398.01,
+      "end_time": 3399.99,
+      "duration": 1.9799999999995634,
+      "dialogue_text": "Radio! Radio!"
+    },
+    {
+      "subtitle_index": 494,
+      "start_time": 3399.99,
+      "end_time": 3403.51,
+      "duration": 3.5200000000004366,
+      "dialogue_text": "Risa, est-ce que son bateau a coulé?"
+    },
+    {
+      "subtitle_index": 495,
+      "start_time": 3404.19,
+      "end_time": 3406.39,
+      "duration": 2.199999999999818,
+      "dialogue_text": "Pas de lumière."
+    },
+    {
+      "subtitle_index": 496,
+      "start_time": 3424.43,
+      "end_time": 3426.4,
+      "duration": 1.9700000000002547,
+      "dialogue_text": "Trop fort"
+    },
+    {
+      "subtitle_index": 497,
+      "start_time": 3426.4,
+      "end_time": 3428.19,
+      "duration": 1.7899999999999636,
+      "dialogue_text": "Tout va bien?"
+    },
+    {
+      "subtitle_index": 498,
+      "start_time": 3428.19,
+      "end_time": 3431.19,
+      "duration": 3.0,
+      "dialogue_text": "On dirait que la radio ne fonctionne pas"
+    },
+    {
+      "subtitle_index": 499,
+      "start_time": 3432.13,
+      "end_time": 3434.61,
+      "duration": 2.480000000000018,
+      "dialogue_text": "c'est J A 4 L L"
+    },
+    {
+      "subtitle_index": 500,
+      "start_time": 3434.61,
+      "end_time": 3436.62,
+      "duration": 2.0099999999997635,
+      "dialogue_text": "J A 4 L L"
+    },
+    {
+      "subtitle_index": 501,
+      "start_time": 3436.62,
+      "end_time": 3438.54,
+      "duration": 1.9200000000000728,
+      "dialogue_text": "Tu m'entends Koichi?"
+    },
+    {
+      "subtitle_index": 502,
+      "start_time": 3438.54,
+      "end_time": 3441.11,
+      "duration": 2.5700000000001637,
+      "dialogue_text": "C'est Risa, Sosuke et Ponyo"
+    },
+    {
+      "subtitle_index": 503,
+      "start_time": 3441.11,
+      "end_time": 3443.27,
+      "duration": 2.1599999999998545,
+      "dialogue_text": "Tout le monde va bien"
+    },
+    {
+      "subtitle_index": 504,
+      "start_time": 3444.22,
+      "end_time": 3446.56,
+      "duration": 2.3400000000001455,
+      "dialogue_text": "Mangeons"
+    },
+    {
+      "subtitle_index": 505,
+      "start_time": 3446.88,
+      "end_time": 3447.88,
+      "duration": 1.0,
+      "dialogue_text": "jambon!"
+    },
+    {
+      "subtitle_index": 506,
+      "start_time": 3457.11,
+      "end_time": 3458.58,
+      "duration": 1.4699999999998,
+      "dialogue_text": "Je mets ceci"
+    },
+    {
+      "subtitle_index": 507,
+      "start_time": 3458.58,
+      "end_time": 3460.66,
+      "duration": 2.0799999999999272,
+      "dialogue_text": "C'est chaud, attention"
+    },
+    {
+      "subtitle_index": 508,
+      "start_time": 3476.38,
+      "end_time": 3478.44,
+      "duration": 2.0599999999999454,
+      "dialogue_text": "Ce n'est pas encore prêt"
+    },
+    {
+      "subtitle_index": 509,
+      "start_time": 3478.44,
+      "end_time": 3480.39,
+      "duration": 1.949999999999818,
+      "dialogue_text": "Attends 3 minutes"
+    },
+    {
+      "subtitle_index": 510,
+      "start_time": 3495.04,
+      "end_time": 3497.31,
+      "duration": 2.269999999999982,
+      "dialogue_text": "Fermez les yeux"
+    },
+    {
+      "subtitle_index": 511,
+      "start_time": 3497.55,
+      "end_time": 3499.48,
+      "duration": 1.9299999999998363,
+      "dialogue_text": "pas encore"
+    },
+    {
+      "subtitle_index": 512,
+      "start_time": 3501.53,
+      "end_time": 3503.92,
+      "duration": 2.3899999999998727,
+      "dialogue_text": "Ponyo ne triche pas"
+    },
+    {
+      "subtitle_index": 513,
+      "start_time": 3507.03,
+      "end_time": 3509.5,
+      "duration": 2.4699999999998,
+      "dialogue_text": "Ok. vous pouvez ouvrir les yeux maintenant"
+    },
+    {
+      "subtitle_index": 514,
+      "start_time": 3509.89,
+      "end_time": 3512.43,
+      "duration": 2.5399999999999636,
+      "dialogue_text": "Bon appétit"
+    },
+    {
+      "subtitle_index": 515,
+      "start_time": 3512.69,
+      "end_time": 3513.69,
+      "duration": 1.0,
+      "dialogue_text": "Wow"
+    },
+    {
+      "subtitle_index": 516,
+      "start_time": 3518.45,
+      "end_time": 3519.86,
+      "duration": 1.4100000000003092,
+      "dialogue_text": "jambon!"
+    },
+    {
+      "subtitle_index": 517,
+      "start_time": 3519.86,
+      "end_time": 3521.51,
+      "duration": 1.650000000000091,
+      "dialogue_text": "super, Ponyo."
+    },
+    {
+      "subtitle_index": 518,
+      "start_time": 3522.56,
+      "end_time": 3523.64,
+      "duration": 1.0799999999999272,
+      "dialogue_text": "Chaud, chaud"
+    },
+    {
+      "subtitle_index": 519,
+      "start_time": 3542.61,
+      "end_time": 3545.03,
+      "duration": 2.4200000000000728,
+      "dialogue_text": "Risa, Ponyo s'est endormie"
+    },
+    {
+      "subtitle_index": 520,
+      "start_time": 3551.96,
+      "end_time": 3554.51,
+      "duration": 2.550000000000182,
+      "dialogue_text": "Est-ce que Ponyo vient de loin?"
+    },
+    {
+      "subtitle_index": 521,
+      "start_time": 3554.51,
+      "end_time": 3556.73,
+      "duration": 2.2199999999998,
+      "dialogue_text": "Oui, on dirait bien"
+    },
+    {
+      "subtitle_index": 522,
+      "start_time": 3572.12,
+      "end_time": 3573.35,
+      "duration": 1.2300000000000182,
+      "dialogue_text": "Sosuke, regarde"
+    },
+    {
+      "subtitle_index": 523,
+      "start_time": 3573.35,
+      "end_time": 3575.52,
+      "duration": 2.1700000000000728,
+      "dialogue_text": "La tempête est finie"
+    },
+    {
+      "subtitle_index": 524,
+      "start_time": 3575.8,
+      "end_time": 3577.57,
+      "duration": 1.7699999999999818,
+      "dialogue_text": "C'est parce que Ponyo s'est endormie?"
+    },
+    {
+      "subtitle_index": 525,
+      "start_time": 3577.57,
+      "end_time": 3579.63,
+      "duration": 2.0599999999999454,
+      "dialogue_text": "Sosuke, il y a quelque chose ici"
+    },
+    {
+      "subtitle_index": 526,
+      "start_time": 3587.07,
+      "end_time": 3588.14,
+      "duration": 1.069999999999709,
+      "dialogue_text": "Quelque chose bouge"
+    },
+    {
+      "subtitle_index": 527,
+      "start_time": 3588.14,
+      "end_time": 3590.05,
+      "duration": 1.9100000000003092,
+      "dialogue_text": "Il y a quelqu'un là-bas"
+    },
+    {
+      "subtitle_index": 528,
+      "start_time": 3590.05,
+      "end_time": 3592.25,
+      "duration": 2.199999999999818,
+      "dialogue_text": "Grand-mère Yoshie et les autres?"
+    },
+    {
+      "subtitle_index": 529,
+      "start_time": 3598.44,
+      "end_time": 3599.86,
+      "duration": 1.4200000000000728,
+      "dialogue_text": "C'est parti"
+    },
+    {
+      "subtitle_index": 530,
+      "start_time": 3599.86,
+      "end_time": 3602.06,
+      "duration": 2.199999999999818,
+      "dialogue_text": "C'est le chemin pour la montagne"
+    },
+    {
+      "subtitle_index": 531,
+      "start_time": 3605.19,
+      "end_time": 3607.49,
+      "duration": 2.299999999999727,
+      "dialogue_text": "Sosuke, attends ici avec Ponyo"
+    },
+    {
+      "subtitle_index": 532,
+      "start_time": 3618.51,
+      "end_time": 3620.04,
+      "duration": 1.5299999999997453,
+      "dialogue_text": "Je viens avec toi"
+    },
+    {
+      "subtitle_index": 533,
+      "start_time": 3620.04,
+      "end_time": 3622.69,
+      "duration": 2.650000000000091,
+      "dialogue_text": "Tout ira bien avec la route par la montagne"
+    },
+    {
+      "subtitle_index": 534,
+      "start_time": 3625.37,
+      "end_time": 3628.0,
+      "duration": 2.630000000000109,
+      "dialogue_text": "Sosuke, je vais à la maison des tournesols"
+    },
+    {
+      "subtitle_index": 535,
+      "start_time": 3628.0,
+      "end_time": 3629.86,
+      "duration": 1.8600000000001273,
+      "dialogue_text": "Je viens aussi"
+    },
+    {
+      "subtitle_index": 536,
+      "start_time": 3630.42,
+      "end_time": 3632.76,
+      "duration": 2.3400000000001455,
+      "dialogue_text": "Sosuke and Ponyo vous attendez ici."
+    },
+    {
+      "subtitle_index": 537,
+      "start_time": 3632.76,
+      "end_time": 3636.7,
+      "duration": 3.9399999999996,
+      "dialogue_text": "Je veux venir aussi, amène aussi Ponyo"
+    },
+    {
+      "subtitle_index": 538,
+      "start_time": 3636.7,
+      "end_time": 3638.59,
+      "duration": 1.8900000000003274,
+      "dialogue_text": "Je viens avec toi"
+    },
+    {
+      "subtitle_index": 539,
+      "start_time": 3640.4,
+      "end_time": 3642.47,
+      "duration": 2.069999999999709,
+      "dialogue_text": "Sosuke, cette maison est maintenant"
+    },
+    {
+      "subtitle_index": 540,
+      "start_time": 3642.47,
+      "end_time": 3644.43,
+      "duration": 1.9600000000000364,
+      "dialogue_text": "un phare dans la tempête"
+    },
+    {
+      "subtitle_index": 541,
+      "start_time": 3644.43,
+      "end_time": 3648.49,
+      "duration": 4.059999999999945,
+      "dialogue_text": "elle apportera la lumière et de l'espoir à ceux dans le noir"
+    },
+    {
+      "subtitle_index": 542,
+      "start_time": 3648.49,
+      "end_time": 3650.97,
+      "duration": 2.480000000000018,
+      "dialogue_text": "Quelqu'un doit être là"
+    },
+    {
+      "subtitle_index": 543,
+      "start_time": 3651.43,
+      "end_time": 3653.78,
+      "duration": 2.350000000000364,
+      "dialogue_text": "Des choses étranges se sont passées"
+    },
+    {
+      "subtitle_index": 544,
+      "start_time": 3653.78,
+      "end_time": 3656.31,
+      "duration": 2.5299999999997453,
+      "dialogue_text": "Je ne sais pas pourquoi"
+    },
+    {
+      "subtitle_index": 545,
+      "start_time": 3656.31,
+      "end_time": 3658.34,
+      "duration": 2.0300000000002,
+      "dialogue_text": "Il doit y avoir une raison"
+    },
+    {
+      "subtitle_index": 546,
+      "start_time": 3658.34,
+      "end_time": 3661.3,
+      "duration": 2.9600000000000364,
+      "dialogue_text": "Je m'inquiète pour les gens dans la maison aux tournesols."
+    },
+    {
+      "subtitle_index": 547,
+      "start_time": 3661.3,
+      "end_time": 3663.95,
+      "duration": 2.649999999999636,
+      "dialogue_text": "Sosuke tu restes pour protéger cette place"
+    },
+    {
+      "subtitle_index": 548,
+      "start_time": 3663.95,
+      "end_time": 3665.74,
+      "duration": 1.7899999999999636,
+      "dialogue_text": "je me sentirais aidée"
+    },
+    {
+      "subtitle_index": 549,
+      "start_time": 3665.74,
+      "end_time": 3667.08,
+      "duration": 1.3400000000001455,
+      "dialogue_text": "Tout ira bien"
+    },
+    {
+      "subtitle_index": 550,
+      "start_time": 3667.08,
+      "end_time": 3669.35,
+      "duration": 2.269999999999982,
+      "dialogue_text": "Je reviens bientôt"
+    },
+    {
+      "subtitle_index": 551,
+      "start_time": 3670.3,
+      "end_time": 3672.1,
+      "duration": 1.7999999999997272,
+      "dialogue_text": "Vraiment?"
+    },
+    {
+      "subtitle_index": 552,
+      "start_time": 3672.64,
+      "end_time": 3674.21,
+      "duration": 1.5700000000001637,
+      "dialogue_text": "Vraiment."
+    },
+    {
+      "subtitle_index": 553,
+      "start_time": 3674.21,
+      "end_time": 3676.18,
+      "duration": 1.9699999999998,
+      "dialogue_text": "Alors vraiment!"
+    },
+    {
+      "subtitle_index": 554,
+      "start_time": 3676.61,
+      "end_time": 3678.82,
+      "duration": 2.2100000000000364,
+      "dialogue_text": "Je t'adore Sosuke"
+    },
+    {
+      "subtitle_index": 555,
+      "start_time": 3732.97,
+      "end_time": 3734.37,
+      "duration": 1.400000000000091,
+      "dialogue_text": "Le ciel s'éclaircit"
+    },
+    {
+      "subtitle_index": 556,
+      "start_time": 3734.37,
+      "end_time": 3736.49,
+      "duration": 2.119999999999891,
+      "dialogue_text": "On voit les lumières de la ville"
+    },
+    {
+      "subtitle_index": 557,
+      "start_time": 3736.49,
+      "end_time": 3737.88,
+      "duration": 1.3900000000003274,
+      "dialogue_text": "Dieu soit loué"
+    },
+    {
+      "subtitle_index": 558,
+      "start_time": 3737.88,
+      "end_time": 3739.92,
+      "duration": 2.0399999999999636,
+      "dialogue_text": "On peut naviguer maintenant"
+    },
+    {
+      "subtitle_index": 559,
+      "start_time": 3739.92,
+      "end_time": 3742.47,
+      "duration": 2.549999999999727,
+      "dialogue_text": "Je n'ai jamais vu cette ville."
+    },
+    {
+      "subtitle_index": 560,
+      "start_time": 3748.11,
+      "end_time": 3751.31,
+      "duration": 3.199999999999818,
+      "dialogue_text": "On est arrivé aux États-unis?"
+    },
+    {
+      "subtitle_index": 561,
+      "start_time": 3768.52,
+      "end_time": 3771.81,
+      "duration": 3.2899999999999636,
+      "dialogue_text": "Ce n'est ni une montagne ni la terre"
+    },
+    {
+      "subtitle_index": 562,
+      "start_time": 3772.07,
+      "end_time": 3774.29,
+      "duration": 2.2199999999998,
+      "dialogue_text": "Ce sont des bateaux"
+    },
+    {
+      "subtitle_index": 563,
+      "start_time": 3783.66,
+      "end_time": 3785.19,
+      "duration": 1.5300000000002,
+      "dialogue_text": "portés par les vagues"
+    },
+    {
+      "subtitle_index": 564,
+      "start_time": 3785.19,
+      "end_time": 3786.78,
+      "duration": 1.5900000000001455,
+      "dialogue_text": "assemblé ici"
+    },
+    {
+      "subtitle_index": 565,
+      "start_time": 3787.25,
+      "end_time": 3789.2,
+      "duration": 1.949999999999818,
+      "dialogue_text": "C'est un cimetière de bateaux"
+    },
+    {
+      "subtitle_index": 566,
+      "start_time": 3789.2,
+      "end_time": 3791.72,
+      "duration": 2.519999999999982,
+      "dialogue_text": "Le chemin de l'autre côté s'est ouvert"
+    },
+    {
+      "subtitle_index": 567,
+      "start_time": 3796.58,
+      "end_time": 3798.09,
+      "duration": 1.5100000000002183,
+      "dialogue_text": "le moteur s'est arrêté!"
+    },
+    {
+      "subtitle_index": 568,
+      "start_time": 3798.09,
+      "end_time": 3799.37,
+      "duration": 1.2799999999997453,
+      "dialogue_text": "Réparez-le vite"
+    },
+    {
+      "subtitle_index": 569,
+      "start_time": 3799.37,
+      "end_time": 3801.09,
+      "duration": 1.7200000000002547,
+      "dialogue_text": "Jetez l'ancre"
+    },
+    {
+      "subtitle_index": 570,
+      "start_time": 3801.09,
+      "end_time": 3802.35,
+      "duration": 1.2599999999997635,
+      "dialogue_text": "Oui"
+    },
+    {
+      "subtitle_index": 571,
+      "start_time": 3815.61,
+      "end_time": 3817.51,
+      "duration": 1.900000000000091,
+      "dialogue_text": "Qu'est ce que c'est que cela dans l'eau?"
+    },
+    {
+      "subtitle_index": 572,
+      "start_time": 3845.51,
+      "end_time": 3847.47,
+      "duration": 1.9599999999995816,
+      "dialogue_text": "J'ai vu une déesse!"
+    },
+    {
+      "subtitle_index": 573,
+      "start_time": 3857.8,
+      "end_time": 3859.02,
+      "duration": 1.2199999999998,
+      "dialogue_text": "Cela redémarre!"
+    },
+    {
+      "subtitle_index": 574,
+      "start_time": 3859.02,
+      "end_time": 3860.18,
+      "duration": 1.1599999999998545,
+      "dialogue_text": "Nous sommes sauvés!"
+    },
+    {
+      "subtitle_index": 575,
+      "start_time": 3860.18,
+      "end_time": 3861.52,
+      "duration": 1.3400000000001455,
+      "dialogue_text": "C'est la déesse Kannon"
+    },
+    {
+      "subtitle_index": 576,
+      "start_time": 3861.52,
+      "end_time": 3863.5,
+      "duration": 1.9800000000000182,
+      "dialogue_text": "remercions la déesse Kannon"
+    },
+    {
+      "subtitle_index": 577,
+      "start_time": 3863.5,
+      "end_time": 3864.35,
+      "duration": 0.849999999999909,
+      "dialogue_text": "Amitaba (prière)"
+    },
+    {
+      "subtitle_index": 578,
+      "start_time": 3894.19,
+      "end_time": 3896.38,
+      "duration": 2.1900000000000546,
+      "dialogue_text": "plus haut, plus haut"
+    },
+    {
+      "subtitle_index": 579,
+      "start_time": 3909.42,
+      "end_time": 3912.0,
+      "duration": 2.5799999999999272,
+      "dialogue_text": "Oh, une vraie barrière"
+    },
+    {
+      "subtitle_index": 580,
+      "start_time": 3912.0,
+      "end_time": 3915.16,
+      "duration": 3.1599999999998545,
+      "dialogue_text": "Où a-t-elle appris tout cela?"
+    },
+    {
+      "subtitle_index": 581,
+      "start_time": 3932.15,
+      "end_time": 3933.46,
+      "duration": 1.3099999999999454,
+      "dialogue_text": "Que se passe-t-il?"
+    },
+    {
+      "subtitle_index": 582,
+      "start_time": 3933.46,
+      "end_time": 3935.01,
+      "duration": 1.550000000000182,
+      "dialogue_text": "Elle est devenue humaine"
+    },
+    {
+      "subtitle_index": 583,
+      "start_time": 3935.01,
+      "end_time": 3936.54,
+      "duration": 1.5299999999997453,
+      "dialogue_text": "Danger"
+    },
+    {
+      "subtitle_index": 584,
+      "start_time": 3936.54,
+      "end_time": 3939.2,
+      "duration": 2.6599999999998545,
+      "dialogue_text": "que font-ils?"
+    },
+    {
+      "subtitle_index": 585,
+      "start_time": 3947.07,
+      "end_time": 3948.24,
+      "duration": 1.169999999999618,
+      "dialogue_text": "Et vous"
+    },
+    {
+      "subtitle_index": 586,
+      "start_time": 3948.24,
+      "end_time": 3948.96,
+      "duration": 0.7200000000002547,
+      "dialogue_text": "Danger"
+    },
+    {
+      "subtitle_index": 587,
+      "start_time": 3953.0,
+      "end_time": 3953.75,
+      "duration": 0.75,
+      "dialogue_text": "Non"
+    },
+    {
+      "subtitle_index": 588,
+      "start_time": 3961.85,
+      "end_time": 3962.83,
+      "duration": 0.9800000000000182,
+      "dialogue_text": "Vous tous"
+    },
+    {
+      "subtitle_index": 589,
+      "start_time": 3962.83,
+      "end_time": 3965.09,
+      "duration": 2.2600000000002183,
+      "dialogue_text": "Papa fait cela pour votre sur"
+    },
+    {
+      "subtitle_index": 590,
+      "start_time": 3970.42,
+      "end_time": 3972.09,
+      "duration": 1.6700000000000728,
+      "dialogue_text": "Cette personne"
+    },
+    {
+      "subtitle_index": 591,
+      "start_time": 3972.09,
+      "end_time": 3973.78,
+      "duration": 1.6900000000000546,
+      "dialogue_text": "est venu pour nous"
+    },
+    {
+      "subtitle_index": 592,
+      "start_time": 4010.25,
+      "end_time": 4011.59,
+      "duration": 1.3400000000001455,
+      "dialogue_text": "Fujimoto"
+    },
+    {
+      "subtitle_index": 593,
+      "start_time": 4011.59,
+      "end_time": 4013.77,
+      "duration": 2.1799999999998363,
+      "dialogue_text": "Alors vous êtes venue?"
+    },
+    {
+      "subtitle_index": 594,
+      "start_time": 4014.93,
+      "end_time": 4016.92,
+      "duration": 1.9900000000002365,
+      "dialogue_text": "Quel bel océan"
+    },
+    {
+      "subtitle_index": 595,
+      "start_time": 4020.86,
+      "end_time": 4022.7,
+      "duration": 1.8399999999996908,
+      "dialogue_text": "plein de magie"
+    },
+    {
+      "subtitle_index": 596,
+      "start_time": 4022.7,
+      "end_time": 4025.82,
+      "duration": 3.1200000000003456,
+      "dialogue_text": "comme si j'étais revenu au dévonien"
+    },
+    {
+      "subtitle_index": 597,
+      "start_time": 4025.82,
+      "end_time": 4028.1,
+      "duration": 2.2799999999997453,
+      "dialogue_text": "Ponyo a goûté au sang humain"
+    },
+    {
+      "subtitle_index": 598,
+      "start_time": 4028.1,
+      "end_time": 4032.08,
+      "duration": 3.980000000000018,
+      "dialogue_text": "Elle a pris aussi les élixirs de vie que je rassemblais"
+    },
+    {
+      "subtitle_index": 599,
+      "start_time": 4032.08,
+      "end_time": 4033.68,
+      "duration": 1.599999999999909,
+      "dialogue_text": "Ponyo?"
+    },
+    {
+      "subtitle_index": 600,
+      "start_time": 4033.68,
+      "end_time": 4036.4,
+      "duration": 2.7200000000002547,
+      "dialogue_text": "Quel joli nom"
+    },
+    {
+      "subtitle_index": 601,
+      "start_time": 4041.61,
+      "end_time": 4043.8,
+      "duration": 2.1900000000000546,
+      "dialogue_text": "C'est ma faute"
+    },
+    {
+      "subtitle_index": 602,
+      "start_time": 4043.8,
+      "end_time": 4046.17,
+      "duration": 2.369999999999891,
+      "dialogue_text": "Ponyo a fait mauvais usage de son pouvoir"
+    },
+    {
+      "subtitle_index": 603,
+      "start_time": 4046.17,
+      "end_time": 4048.62,
+      "duration": 2.449999999999818,
+      "dialogue_text": "Elle a ouvert un trou dans la terre"
+    },
+    {
+      "subtitle_index": 604,
+      "start_time": 4048.62,
+      "end_time": 4051.68,
+      "duration": 3.0599999999999454,
+      "dialogue_text": "Elle ne sait pas ce qu'elle fait"
+    },
+    {
+      "subtitle_index": 605,
+      "start_time": 4051.68,
+      "end_time": 4053.35,
+      "duration": 1.6700000000000728,
+      "dialogue_text": "Elle s'est transformée en humaine"
+    },
+    {
+      "subtitle_index": 606,
+      "start_time": 4053.35,
+      "end_time": 4057.36,
+      "duration": 4.010000000000218,
+      "dialogue_text": "et s'est échappée chez son petit ami"
+    },
+    {
+      "subtitle_index": 607,
+      "start_time": 4057.75,
+      "end_time": 4061.44,
+      "duration": 3.6900000000000546,
+      "dialogue_text": "Si cela continue, ce monde va être détruit"
+    },
+    {
+      "subtitle_index": 608,
+      "start_time": 4070.28,
+      "end_time": 4071.25,
+      "duration": 0.9699999999997999,
+      "dialogue_text": "C'est mal"
+    },
+    {
+      "subtitle_index": 609,
+      "start_time": 4071.25,
+      "end_time": 4073.17,
+      "duration": 1.9200000000000728,
+      "dialogue_text": "Les étoiles commencent à tomber"
+    },
+    {
+      "subtitle_index": 610,
+      "start_time": 4073.17,
+      "end_time": 4075.81,
+      "duration": 2.6399999999998727,
+      "dialogue_text": "La gravité de la planète..."
+    },
+    {
+      "subtitle_index": 611,
+      "start_time": 4076.92,
+      "end_time": 4077.64,
+      "duration": 0.7199999999997999,
+      "dialogue_text": "Silence"
+    },
+    {
+      "subtitle_index": 612,
+      "start_time": 4085.82,
+      "end_time": 4087.62,
+      "duration": 1.7999999999997272,
+      "dialogue_text": "Sosuke"
+    },
+    {
+      "subtitle_index": 613,
+      "start_time": 4087.62,
+      "end_time": 4090.07,
+      "duration": 2.450000000000273,
+      "dialogue_text": "C'est un garçon nommé Sosuke"
+    },
+    {
+      "subtitle_index": 614,
+      "start_time": 4093.24,
+      "end_time": 4097.23,
+      "duration": 3.9899999999997817,
+      "dialogue_text": "Vous aimez votre grande sur, n'est-ce pas?"
+    },
+    {
+      "subtitle_index": 615,
+      "start_time": 4100.46,
+      "end_time": 4103.98,
+      "duration": 3.519999999999527,
+      "dialogue_text": "Laisson Ponyo devenir humaine"
+    },
+    {
+      "subtitle_index": 616,
+      "start_time": 4103.98,
+      "end_time": 4105.04,
+      "duration": 1.0600000000004002,
+      "dialogue_text": "Huh?"
+    },
+    {
+      "subtitle_index": 617,
+      "start_time": 4105.04,
+      "end_time": 4106.91,
+      "duration": 1.8699999999998909,
+      "dialogue_text": "une vieille croyance"
+    },
+    {
+      "subtitle_index": 618,
+      "start_time": 4106.91,
+      "end_time": 4109.44,
+      "duration": 2.5299999999997453,
+      "dialogue_text": "dit que si le garçon est fidèle"
+    },
+    {
+      "subtitle_index": 619,
+      "start_time": 4109.44,
+      "end_time": 4112.35,
+      "duration": 2.910000000000764,
+      "dialogue_text": "Ponyo peut devenir une vraie humaine, en échange de ses pouvoirs magiques"
+    },
+    {
+      "subtitle_index": 620,
+      "start_time": 4112.35,
+      "end_time": 4114.31,
+      "duration": 1.9600000000000364,
+      "dialogue_text": "Mais s'il ne l'est pas"
+    },
+    {
+      "subtitle_index": 621,
+      "start_time": 4114.31,
+      "end_time": 4117.07,
+      "duration": 2.759999999999309,
+      "dialogue_text": "Ponyo deviendra une bulle d'eau"
+    },
+    {
+      "subtitle_index": 622,
+      "start_time": 4117.07,
+      "end_time": 4120.79,
+      "duration": 3.7200000000002547,
+      "dialogue_text": "Après tous, nous sommes tous des bulles d'eau"
+    },
+    {
+      "subtitle_index": 623,
+      "start_time": 4120.79,
+      "end_time": 4122.71,
+      "duration": 1.9200000000000728,
+      "dialogue_text": "Mais elle n'a que cinq ans"
+    },
+    {
+      "subtitle_index": 624,
+      "start_time": 4122.71,
+      "end_time": 4124.51,
+      "duration": 1.800000000000182,
+      "dialogue_text": "Ce n'est pas possible"
+    },
+    {
+      "subtitle_index": 625,
+      "start_time": 4128.89,
+      "end_time": 4131.19,
+      "duration": 2.2999999999992724,
+      "dialogue_text": "Laissons-les se reposer pour l'instant"
+    },
+    {
+      "subtitle_index": 626,
+      "start_time": 4131.19,
+      "end_time": 4132.92,
+      "duration": 1.730000000000473,
+      "dialogue_text": "nos enfants"
+    },
+    {
+      "subtitle_index": 627,
+      "start_time": 4145.75,
+      "end_time": 4147.31,
+      "duration": 1.5600000000004002,
+      "dialogue_text": "Sosuke"
+    },
+    {
+      "subtitle_index": 628,
+      "start_time": 4148.21,
+      "end_time": 4149.99,
+      "duration": 1.7799999999997453,
+      "dialogue_text": "Sosuke"
+    },
+    {
+      "subtitle_index": 629,
+      "start_time": 4151.15,
+      "end_time": 4152.57,
+      "duration": 1.4200000000000728,
+      "dialogue_text": "Ouille"
+    },
+    {
+      "subtitle_index": 630,
+      "start_time": 4154.89,
+      "end_time": 4156.88,
+      "duration": 1.9899999999997817,
+      "dialogue_text": "Bonjour Ponyo"
+    },
+    {
+      "subtitle_index": 631,
+      "start_time": 4156.88,
+      "end_time": 4159.58,
+      "duration": 2.699999999999818,
+      "dialogue_text": "Bonjour Sosuke"
+    },
+    {
+      "subtitle_index": 632,
+      "start_time": 4165.57,
+      "end_time": 4168.12,
+      "duration": 2.550000000000182,
+      "dialogue_text": "L'océan s'est calmé"
+    },
+    {
+      "subtitle_index": 633,
+      "start_time": 4191.38,
+      "end_time": 4193.41,
+      "duration": 2.0299999999997453,
+      "dialogue_text": "Risa n'est pas là"
+    },
+    {
+      "subtitle_index": 634,
+      "start_time": 4193.41,
+      "end_time": 4195.89,
+      "duration": 2.480000000000473,
+      "dialogue_text": "Les routes sont inondées"
+    },
+    {
+      "subtitle_index": 635,
+      "start_time": 4196.6,
+      "end_time": 4198.75,
+      "duration": 2.149999999999636,
+      "dialogue_text": "Si nous avions un bateau"
+    },
+    {
+      "subtitle_index": 636,
+      "start_time": 4201.38,
+      "end_time": 4203.47,
+      "duration": 2.0900000000001455,
+      "dialogue_text": "On en a un!"
+    },
+    {
+      "subtitle_index": 637,
+      "start_time": 4205.18,
+      "end_time": 4206.59,
+      "duration": 1.4099999999998545,
+      "dialogue_text": "Mais on peut pas l'utiliser"
+    },
+    {
+      "subtitle_index": 638,
+      "start_time": 4206.59,
+      "end_time": 4208.31,
+      "duration": 1.7200000000002547,
+      "dialogue_text": "Oui nous pouvons"
+    },
+    {
+      "subtitle_index": 639,
+      "start_time": 4224.02,
+      "end_time": 4225.77,
+      "duration": 1.75,
+      "dialogue_text": "c'est parfait"
+    },
+    {
+      "subtitle_index": 640,
+      "start_time": 4227.09,
+      "end_time": 4230.17,
+      "duration": 3.0799999999999272,
+      "dialogue_text": "Il y a même une bougie"
+    },
+    {
+      "subtitle_index": 641,
+      "start_time": 4230.17,
+      "end_time": 4231.71,
+      "duration": 1.5399999999999636,
+      "dialogue_text": "Je peux m'assoir ici"
+    },
+    {
+      "subtitle_index": 642,
+      "start_time": 4231.71,
+      "end_time": 4233.17,
+      "duration": 1.4600000000000364,
+      "dialogue_text": "On dirait un vrai"
+    },
+    {
+      "subtitle_index": 643,
+      "start_time": 4233.17,
+      "end_time": 4234.46,
+      "duration": 1.2899999999999636,
+      "dialogue_text": "C'est exactement comme un vrai"
+    },
+    {
+      "subtitle_index": 644,
+      "start_time": 4234.46,
+      "end_time": 4236.25,
+      "duration": 1.7899999999999636,
+      "dialogue_text": "Tu lève ce côté"
+    },
+    {
+      "subtitle_index": 645,
+      "start_time": 4255.64,
+      "end_time": 4257.15,
+      "duration": 1.5099999999993088,
+      "dialogue_text": "Prête?"
+    },
+    {
+      "subtitle_index": 646,
+      "start_time": 4259.22,
+      "end_time": 4259.76,
+      "duration": 0.5399999999999636,
+      "dialogue_text": "Prête!"
+    },
+    {
+      "subtitle_index": 647,
+      "start_time": 4259.76,
+      "end_time": 4260.53,
+      "duration": 0.7699999999995271,
+      "dialogue_text": "Il flotte"
+    },
+    {
+      "subtitle_index": 648,
+      "start_time": 4260.53,
+      "end_time": 4261.86,
+      "duration": 1.3299999999999272,
+      "dialogue_text": "pas de fuite"
+    },
+    {
+      "subtitle_index": 649,
+      "start_time": 4261.86,
+      "end_time": 4264.75,
+      "duration": 2.8900000000003274,
+      "dialogue_text": "Très bien, il faut mettre de l'eau au centre"
+    },
+    {
+      "subtitle_index": 650,
+      "start_time": 4265.27,
+      "end_time": 4270.86,
+      "duration": 5.589999999999236,
+      "dialogue_text": "Tu vois, il faut remplir le centre d'eau"
+    },
+    {
+      "subtitle_index": 651,
+      "start_time": 4296.89,
+      "end_time": 4299.77,
+      "duration": 2.880000000000109,
+      "dialogue_text": "une vraie fusée"
+    },
+    {
+      "subtitle_index": 652,
+      "start_time": 4306.87,
+      "end_time": 4308.49,
+      "duration": 1.6199999999998909,
+      "dialogue_text": "Bien joué, Ponyo"
+    },
+    {
+      "subtitle_index": 653,
+      "start_time": 4308.49,
+      "end_time": 4309.54,
+      "duration": 1.050000000000182,
+      "dialogue_text": "Bien joué?"
+    },
+    {
+      "subtitle_index": 654,
+      "start_time": 4309.54,
+      "end_time": 4311.84,
+      "duration": 2.300000000000182,
+      "dialogue_text": "Oui, bien joué"
+    },
+    {
+      "subtitle_index": 655,
+      "start_time": 4311.84,
+      "end_time": 4312.89,
+      "duration": 1.050000000000182,
+      "dialogue_text": "Bien joué! Bien joué!"
+    },
+    {
+      "subtitle_index": 656,
+      "start_time": 4338.58,
+      "end_time": 4340.58,
+      "duration": 2.0,
+      "dialogue_text": "Chaud! très chaud"
+    },
+    {
+      "subtitle_index": 657,
+      "start_time": 4345.86,
+      "end_time": 4348.18,
+      "duration": 2.3200000000006185,
+      "dialogue_text": "très chaud, très chaud"
+    },
+    {
+      "subtitle_index": 658,
+      "start_time": 4349.74,
+      "end_time": 4351.97,
+      "duration": 2.230000000000473,
+      "dialogue_text": "c'est allumé"
+    },
+    {
+      "subtitle_index": 659,
+      "start_time": 4351.97,
+      "end_time": 4353.39,
+      "duration": 1.4200000000000728,
+      "dialogue_text": "c'est allumé"
+    },
+    {
+      "subtitle_index": 660,
+      "start_time": 4353.39,
+      "end_time": 4355.42,
+      "duration": 2.0299999999997453,
+      "dialogue_text": "chaud,chaud,chaud"
+    },
+    {
+      "subtitle_index": 661,
+      "start_time": 4355.42,
+      "end_time": 4357.29,
+      "duration": 1.8699999999998909,
+      "dialogue_text": "très chaud"
+    },
+    {
+      "subtitle_index": 662,
+      "start_time": 4377.43,
+      "end_time": 4378.86,
+      "duration": 1.4299999999993815,
+      "dialogue_text": "ça bouge"
+    },
+    {
+      "subtitle_index": 663,
+      "start_time": 4380.53,
+      "end_time": 4383.09,
+      "duration": 2.5600000000004,
+      "dialogue_text": "Bien joué"
+    },
+    {
+      "subtitle_index": 664,
+      "start_time": 4383.09,
+      "end_time": 4383.88,
+      "duration": 0.7899999999999636,
+      "dialogue_text": "oui"
+    },
+    {
+      "subtitle_index": 665,
+      "start_time": 4383.88,
+      "end_time": 4384.69,
+      "duration": 0.8099999999994907,
+      "dialogue_text": "parfait non?"
+    },
+    {
+      "subtitle_index": 666,
+      "start_time": 4384.69,
+      "end_time": 4385.19,
+      "duration": 0.5,
+      "dialogue_text": "oui"
+    },
+    {
+      "subtitle_index": 667,
+      "start_time": 4392.58,
+      "end_time": 4394.77,
+      "duration": 2.1900000000005093,
+      "dialogue_text": "Sosuke est heureux?"
+    },
+    {
+      "subtitle_index": 668,
+      "start_time": 4394.77,
+      "end_time": 4395.95,
+      "duration": 1.1799999999993815,
+      "dialogue_text": "Oui"
+    },
+    {
+      "subtitle_index": 669,
+      "start_time": 4395.95,
+      "end_time": 4397.85,
+      "duration": 1.9000000000005457,
+      "dialogue_text": "Sosuke, ça brûle"
+    },
+    {
+      "subtitle_index": 670,
+      "start_time": 4397.85,
+      "end_time": 4398.35,
+      "duration": 0.5,
+      "dialogue_text": "oui"
+    },
+    {
+      "subtitle_index": 671,
+      "start_time": 4398.98,
+      "end_time": 4401.62,
+      "duration": 2.6400000000003274,
+      "dialogue_text": "Sosuke, c'est chaud"
+    },
+    {
+      "subtitle_index": 672,
+      "start_time": 4401.87,
+      "end_time": 4405.47,
+      "duration": 3.600000000000364,
+      "dialogue_text": "Ponyo assieds toi devant, je conduis"
+    },
+    {
+      "subtitle_index": 673,
+      "start_time": 4405.47,
+      "end_time": 4406.22,
+      "duration": 0.75,
+      "dialogue_text": "Ok"
+    },
+    {
+      "subtitle_index": 674,
+      "start_time": 4434.91,
+      "end_time": 4436.53,
+      "duration": 1.6199999999998909,
+      "dialogue_text": "Il y a un chemin"
+    },
+    {
+      "subtitle_index": 675,
+      "start_time": 4436.53,
+      "end_time": 4439.25,
+      "duration": 2.7200000000002547,
+      "dialogue_text": "Risa est passé par le chemin par la montagne"
+    },
+    {
+      "subtitle_index": 676,
+      "start_time": 4441.38,
+      "end_time": 4442.96,
+      "duration": 1.5799999999999272,
+      "dialogue_text": "Risa n'est pas là"
+    },
+    {
+      "subtitle_index": 677,
+      "start_time": 4442.96,
+      "end_time": 4446.98,
+      "duration": 4.019999999999527,
+      "dialogue_text": "Risa y sera, on a fait une promesse"
+    },
+    {
+      "subtitle_index": 678,
+      "start_time": 4451.33,
+      "end_time": 4454.8,
+      "duration": 3.4700000000002547,
+      "dialogue_text": "c'est un Gogonasus. On dit qu'il y en avait des milliers dans la mer au dévonien"
+    },
+    {
+      "subtitle_index": 679,
+      "start_time": 4454.8,
+      "end_time": 4457.57,
+      "duration": 2.769999999999527,
+      "dialogue_text": "Oh regarde, un timide \"Licosus\""
+    },
+    {
+      "subtitle_index": 680,
+      "start_time": 4463.49,
+      "end_time": 4464.59,
+      "duration": 1.1000000000003638,
+      "dialogue_text": "magnifique"
+    },
+    {
+      "subtitle_index": 681,
+      "start_time": 4464.59,
+      "end_time": 4465.54,
+      "duration": 0.9499999999998181,
+      "dialogue_text": "tu pars déjà 'Licosus'?"
+    },
+    {
+      "subtitle_index": 682,
+      "start_time": 4465.54,
+      "end_time": 4469.98,
+      "duration": 4.4399999999996,
+      "dialogue_text": "Wow, un grand très grand 'Licosus'"
+    },
+    {
+      "subtitle_index": 683,
+      "start_time": 4469.98,
+      "end_time": 4472.37,
+      "duration": 2.3900000000003274,
+      "dialogue_text": "grand 'Licosus'"
+    },
+    {
+      "subtitle_index": 684,
+      "start_time": 4478.97,
+      "end_time": 4479.69,
+      "duration": 0.7199999999993452,
+      "dialogue_text": "o-hé.."
+    },
+    {
+      "subtitle_index": 685,
+      "start_time": 4484.59,
+      "end_time": 4486.41,
+      "duration": 1.819999999999709,
+      "dialogue_text": "Il y a un autre bateau"
+    },
+    {
+      "subtitle_index": 686,
+      "start_time": 4489.47,
+      "end_time": 4491.38,
+      "duration": 1.9099999999998545,
+      "dialogue_text": "Ils nous appellent"
+    },
+    {
+      "subtitle_index": 687,
+      "start_time": 4504.54,
+      "end_time": 4506.33,
+      "duration": 1.7899999999999636,
+      "dialogue_text": "Il nous ont vus"
+    },
+    {
+      "subtitle_index": 688,
+      "start_time": 4509.5,
+      "end_time": 4511.3,
+      "duration": 1.800000000000182,
+      "dialogue_text": "c'est bon maintenant, Ponyo"
+    },
+    {
+      "subtitle_index": 689,
+      "start_time": 4517.68,
+      "end_time": 4518.69,
+      "duration": 1.0099999999993088,
+      "dialogue_text": "Bonjour"
+    },
+    {
+      "subtitle_index": 690,
+      "start_time": 4518.69,
+      "end_time": 4519.19,
+      "duration": 0.5,
+      "dialogue_text": "Bonjour"
+    },
+    {
+      "subtitle_index": 691,
+      "start_time": 4519.83,
+      "end_time": 4522.91,
+      "duration": 3.0799999999999272,
+      "dialogue_text": "C'est un joli bateau"
+    },
+    {
+      "subtitle_index": 692,
+      "start_time": 4523.5,
+      "end_time": 4525.96,
+      "duration": 2.4600000000000364,
+      "dialogue_text": "Je ne pensais pas que c'était toi petit Sosuke, le fils de Risa."
+    },
+    {
+      "subtitle_index": 693,
+      "start_time": 4525.96,
+      "end_time": 4528.53,
+      "duration": 2.569999999999709,
+      "dialogue_text": "Pas petit Sosuke. c'est Sosuke"
+    },
+    {
+      "subtitle_index": 694,
+      "start_time": 4528.53,
+      "end_time": 4530.24,
+      "duration": 1.7100000000000364,
+      "dialogue_text": "C'est Ponyo"
+    },
+    {
+      "subtitle_index": 695,
+      "start_time": 4531.01,
+      "end_time": 4533.59,
+      "duration": 2.5799999999999272,
+      "dialogue_text": "Ponyo est un poisson"
+    },
+    {
+      "subtitle_index": 696,
+      "start_time": 4533.59,
+      "end_time": 4538.12,
+      "duration": 4.529999999999745,
+      "dialogue_text": "un poisson? Ponyo c'est un joli nom"
+    },
+    {
+      "subtitle_index": 697,
+      "start_time": 4538.12,
+      "end_time": 4538.62,
+      "duration": 0.5,
+      "dialogue_text": "Oui"
+    },
+    {
+      "subtitle_index": 698,
+      "start_time": 4540.02,
+      "end_time": 4542.28,
+      "duration": 2.259999999999309,
+      "dialogue_text": "Monsieur, vous savez où est Risa?"
+    },
+    {
+      "subtitle_index": 699,
+      "start_time": 4542.28,
+      "end_time": 4546.28,
+      "duration": 4.0,
+      "dialogue_text": "Risa? Elle n'est pas avec vous?"
+    },
+    {
+      "subtitle_index": 700,
+      "start_time": 4546.28,
+      "end_time": 4547.82,
+      "duration": 1.5399999999999636,
+      "dialogue_text": "Elle est partie"
+    },
+    {
+      "subtitle_index": 701,
+      "start_time": 4547.82,
+      "end_time": 4549.24,
+      "duration": 1.4200000000000728,
+      "dialogue_text": "partie?"
+    },
+    {
+      "subtitle_index": 702,
+      "start_time": 4549.24,
+      "end_time": 4550.99,
+      "duration": 1.75,
+      "dialogue_text": "c'est un bébé"
+    },
+    {
+      "subtitle_index": 703,
+      "start_time": 4580.96,
+      "end_time": 4583.25,
+      "duration": 2.2899999999999636,
+      "dialogue_text": "que s'est-il passé?"
+    },
+    {
+      "subtitle_index": 704,
+      "start_time": 4589.96,
+      "end_time": 4591.55,
+      "duration": 1.5900000000001455,
+      "dialogue_text": "Tu lui donnes?"
+    },
+    {
+      "subtitle_index": 705,
+      "start_time": 4604.9,
+      "end_time": 4606.5,
+      "duration": 1.6000000000003638,
+      "dialogue_text": "Donne le moi"
+    },
+    {
+      "subtitle_index": 706,
+      "start_time": 4611.37,
+      "end_time": 4613.08,
+      "duration": 1.7100000000000364,
+      "dialogue_text": "Merci"
+    },
+    {
+      "subtitle_index": 707,
+      "start_time": 4613.08,
+      "end_time": 4614.94,
+      "duration": 1.8599999999996726,
+      "dialogue_text": "bon appétit"
+    },
+    {
+      "subtitle_index": 708,
+      "start_time": 4618.04,
+      "end_time": 4620.6,
+      "duration": 2.5600000000004,
+      "dialogue_text": "Quelle soupe délicieuse"
+    },
+    {
+      "subtitle_index": 709,
+      "start_time": 4621.07,
+      "end_time": 4622.86,
+      "duration": 1.7899999999999636,
+      "dialogue_text": "Risa l'a préparée"
+    },
+    {
+      "subtitle_index": 710,
+      "start_time": 4623.14,
+      "end_time": 4625.29,
+      "duration": 2.149999999999636,
+      "dialogue_text": "C'est pour le bébé!"
+    },
+    {
+      "subtitle_index": 711,
+      "start_time": 4626.18,
+      "end_time": 4630.4,
+      "duration": 4.219999999999345,
+      "dialogue_text": "Désolé, le bébé ne peut pas encore boire"
+    },
+    {
+      "subtitle_index": 712,
+      "start_time": 4630.4,
+      "end_time": 4635.33,
+      "duration": 4.930000000000291,
+      "dialogue_text": "Si je bois cela, alors j'aurai du lait pour le bébé"
+    },
+    {
+      "subtitle_index": 713,
+      "start_time": 4636.77,
+      "end_time": 4639.65,
+      "duration": 2.8799999999991996,
+      "dialogue_text": "J'ai bu le lait de Risa moi aussi."
+    },
+    {
+      "subtitle_index": 714,
+      "start_time": 4639.65,
+      "end_time": 4642.92,
+      "duration": 3.2700000000004366,
+      "dialogue_text": "Ponyo, je peux boire ta soupe?"
+    },
+    {
+      "subtitle_index": 715,
+      "start_time": 4642.92,
+      "end_time": 4644.76,
+      "duration": 1.8400000000001455,
+      "dialogue_text": "Oui"
+    },
+    {
+      "subtitle_index": 716,
+      "start_time": 4645.52,
+      "end_time": 4647.11,
+      "duration": 1.589999999999236,
+      "dialogue_text": "Merci"
+    },
+    {
+      "subtitle_index": 717,
+      "start_time": 4664.27,
+      "end_time": 4665.97,
+      "duration": 1.699999999999818,
+      "dialogue_text": "Il y a d'autres bateaux là-bas"
+    },
+    {
+      "subtitle_index": 718,
+      "start_time": 4665.97,
+      "end_time": 4667.92,
+      "duration": 1.949999999999818,
+      "dialogue_text": "On dirait une parade"
+    },
+    {
+      "subtitle_index": 719,
+      "start_time": 4668.2,
+      "end_time": 4672.85,
+      "duration": 4.650000000000546,
+      "dialogue_text": "On peut vous aider?"
+    },
+    {
+      "subtitle_index": 720,
+      "start_time": 4672.85,
+      "end_time": 4678.27,
+      "duration": 5.420000000000073,
+      "dialogue_text": "Merci mais tout va bien pour l'instant"
+    },
+    {
+      "subtitle_index": 721,
+      "start_time": 4678.27,
+      "end_time": 4683.83,
+      "duration": 5.559999999999491,
+      "dialogue_text": "Alors soyez prudent en revenant à l'abri"
+    },
+    {
+      "subtitle_index": 722,
+      "start_time": 4684.06,
+      "end_time": 4686.95,
+      "duration": 2.889999999999418,
+      "dialogue_text": "Oui"
+    },
+    {
+      "subtitle_index": 723,
+      "start_time": 4688.96,
+      "end_time": 4690.42,
+      "duration": 1.4600000000000364,
+      "dialogue_text": "Il y a plein de gens"
+    },
+    {
+      "subtitle_index": 724,
+      "start_time": 4690.42,
+      "end_time": 4693.05,
+      "duration": 2.630000000000109,
+      "dialogue_text": "Heureusement, tout le monde va bien."
+    },
+    {
+      "subtitle_index": 725,
+      "start_time": 4693.05,
+      "end_time": 4694.78,
+      "duration": 1.7299999999995634,
+      "dialogue_text": "Ponyo. on doit y aller"
+    },
+    {
+      "subtitle_index": 726,
+      "start_time": 4694.78,
+      "end_time": 4696.25,
+      "duration": 1.4700000000002547,
+      "dialogue_text": "tiens"
+    },
+    {
+      "subtitle_index": 727,
+      "start_time": 4702.13,
+      "end_time": 4703.68,
+      "duration": 1.550000000000182,
+      "dialogue_text": "Lait"
+    },
+    {
+      "subtitle_index": 728,
+      "start_time": 4706.66,
+      "end_time": 4707.96,
+      "duration": 1.300000000000182,
+      "dialogue_text": "Lait"
+    },
+    {
+      "subtitle_index": 729,
+      "start_time": 4707.96,
+      "end_time": 4710.55,
+      "duration": 2.5900000000001455,
+      "dialogue_text": "Cela refroidira si on ne le mange pas"
+    },
+    {
+      "subtitle_index": 730,
+      "start_time": 4710.55,
+      "end_time": 4713.82,
+      "duration": 3.269999999999527,
+      "dialogue_text": "Merci. Il y aura plein de lait"
+    },
+    {
+      "subtitle_index": 731,
+      "start_time": 4713.82,
+      "end_time": 4717.86,
+      "duration": 4.039999999999964,
+      "dialogue_text": "Sosuke, c'est ce qu'il reste, tu le veux?"
+    },
+    {
+      "subtitle_index": 732,
+      "start_time": 4717.86,
+      "end_time": 4722.04,
+      "duration": 4.180000000000291,
+      "dialogue_text": "Oui, Ponyo l'agrandira. merci"
+    },
+    {
+      "subtitle_index": 733,
+      "start_time": 4722.43,
+      "end_time": 4723.52,
+      "duration": 1.0900000000001455,
+      "dialogue_text": "Soyez prudents"
+    },
+    {
+      "subtitle_index": 734,
+      "start_time": 4723.52,
+      "end_time": 4725.19,
+      "duration": 1.6699999999991633,
+      "dialogue_text": "Merci"
+    },
+    {
+      "subtitle_index": 735,
+      "start_time": 4731.16,
+      "end_time": 4732.63,
+      "duration": 1.4700000000002547,
+      "dialogue_text": "Qu'est ce qui ne va pas?"
+    },
+    {
+      "subtitle_index": 736,
+      "start_time": 4737.15,
+      "end_time": 4738.11,
+      "duration": 0.9600000000000364,
+      "dialogue_text": "Sois sage"
+    },
+    {
+      "subtitle_index": 737,
+      "start_time": 4757.84,
+      "end_time": 4759.51,
+      "duration": 1.6700000000000728,
+      "dialogue_text": "Ponyo"
+    },
+    {
+      "subtitle_index": 738,
+      "start_time": 4771.99,
+      "end_time": 4773.09,
+      "duration": 1.1000000000003638,
+      "dialogue_text": "Sosuke. Où est Risa?"
+    },
+    {
+      "subtitle_index": 739,
+      "start_time": 4778.5,
+      "end_time": 4780.44,
+      "duration": 1.9399999999995998,
+      "dialogue_text": "Elle est partie"
+    },
+    {
+      "subtitle_index": 740,
+      "start_time": 4780.44,
+      "end_time": 4782.06,
+      "duration": 1.6200000000008004,
+      "dialogue_text": "Je dois y aller"
+    },
+    {
+      "subtitle_index": 741,
+      "start_time": 4782.06,
+      "end_time": 4785.06,
+      "duration": 3.0,
+      "dialogue_text": "Risa doit être passé après l'inondation"
+    },
+    {
+      "subtitle_index": 742,
+      "start_time": 4785.06,
+      "end_time": 4786.22,
+      "duration": 1.1599999999998545,
+      "dialogue_text": "C'est bien"
+    },
+    {
+      "subtitle_index": 743,
+      "start_time": 4786.22,
+      "end_time": 4788.81,
+      "duration": 2.5900000000001455,
+      "dialogue_text": "Sosuke, laisse moi utiliser ton bateau"
+    },
+    {
+      "subtitle_index": 744,
+      "start_time": 4788.81,
+      "end_time": 4792.04,
+      "duration": 3.2299999999995634,
+      "dialogue_text": "Je suis pressé. À plus tard"
+    },
+    {
+      "subtitle_index": 745,
+      "start_time": 4792.04,
+      "end_time": 4796.18,
+      "duration": 4.140000000000327,
+      "dialogue_text": "Sosuke va vite à l'école"
+    },
+    {
+      "subtitle_index": 746,
+      "start_time": 4796.53,
+      "end_time": 4804.35,
+      "duration": 7.8200000000006185,
+      "dialogue_text": "\"Attention, nous ne pouvons pas t'aider, on peut juste te souhaiter le meilleur.\""
+    },
+    {
+      "subtitle_index": 747,
+      "start_time": 4853.23,
+      "end_time": 4856.2,
+      "duration": 2.9700000000002547,
+      "dialogue_text": "Ponyo, on a besoin d'une nouvelle bougie"
+    },
+    {
+      "subtitle_index": 748,
+      "start_time": 4860.1,
+      "end_time": 4863.39,
+      "duration": 3.2899999999999636,
+      "dialogue_text": "On en a une"
+    },
+    {
+      "subtitle_index": 749,
+      "start_time": 4865.28,
+      "end_time": 4867.4,
+      "duration": 2.119999999999891,
+      "dialogue_text": "Ouille! c'est encore chaud"
+    },
+    {
+      "subtitle_index": 750,
+      "start_time": 4872.08,
+      "end_time": 4872.92,
+      "duration": 0.8400000000001455,
+      "dialogue_text": "Au revoir"
+    },
+    {
+      "subtitle_index": 751,
+      "start_time": 4875.47,
+      "end_time": 4879.12,
+      "duration": 3.649999999999636,
+      "dialogue_text": "Ponyo, agrandis cette bougie aussi"
+    },
+    {
+      "subtitle_index": 752,
+      "start_time": 4879.12,
+      "end_time": 4881.23,
+      "duration": 2.1099999999996726,
+      "dialogue_text": "Tu peux?"
+    },
+    {
+      "subtitle_index": 753,
+      "start_time": 4886.03,
+      "end_time": 4889.28,
+      "duration": 3.25,
+      "dialogue_text": "Ponyo tu as sommeil?"
+    },
+    {
+      "subtitle_index": 754,
+      "start_time": 4895.85,
+      "end_time": 4897.1,
+      "duration": 1.25,
+      "dialogue_text": "Ponyo"
+    },
+    {
+      "subtitle_index": 755,
+      "start_time": 4913.28,
+      "end_time": 4915.27,
+      "duration": 1.9900000000006912,
+      "dialogue_text": "Ponyo! Ponyo!"
+    },
+    {
+      "subtitle_index": 756,
+      "start_time": 4972.97,
+      "end_time": 4975.41,
+      "duration": 2.4399999999996,
+      "dialogue_text": "L'eau n'est pas profonde ici, mes pieds touchent le sol"
+    },
+    {
+      "subtitle_index": 757,
+      "start_time": 5001.74,
+      "end_time": 5003.71,
+      "duration": 1.9700000000002547,
+      "dialogue_text": "Je vois la route"
+    },
+    {
+      "subtitle_index": 758,
+      "start_time": 5014.9,
+      "end_time": 5017.22,
+      "duration": 2.3200000000006185,
+      "dialogue_text": "Le bateau"
+    },
+    {
+      "subtitle_index": 759,
+      "start_time": 5018.7,
+      "end_time": 5020.17,
+      "duration": 1.4700000000002547,
+      "dialogue_text": "Ponyo"
+    },
+    {
+      "subtitle_index": 760,
+      "start_time": 5039.7,
+      "end_time": 5044.24,
+      "duration": 4.539999999999964,
+      "dialogue_text": "Ponyo, réveille-toi Ponyo"
+    },
+    {
+      "subtitle_index": 761,
+      "start_time": 5046.81,
+      "end_time": 5047.53,
+      "duration": 0.7199999999993452,
+      "dialogue_text": "Sosuke"
+    },
+    {
+      "subtitle_index": 762,
+      "start_time": 5054.41,
+      "end_time": 5059.04,
+      "duration": 4.630000000000109,
+      "dialogue_text": "J'ai cru que tu ne te réveillerai jamais"
+    },
+    {
+      "subtitle_index": 763,
+      "start_time": 5071.51,
+      "end_time": 5075.12,
+      "duration": 3.6099999999996726,
+      "dialogue_text": "C'est la voiture de Risa, Risa La voiture de Risa est ici"
+    },
+    {
+      "subtitle_index": 764,
+      "start_time": 5078.86,
+      "end_time": 5080.18,
+      "duration": 1.3200000000006185,
+      "dialogue_text": "Risa, Risa"
+    },
+    {
+      "subtitle_index": 765,
+      "start_time": 5138.33,
+      "end_time": 5143.42,
+      "duration": 5.0900000000001455,
+      "dialogue_text": "Sosuke, l'eau sort de tes yeux"
+    },
+    {
+      "subtitle_index": 766,
+      "start_time": 5150.08,
+      "end_time": 5151.86,
+      "duration": 1.7799999999997453,
+      "dialogue_text": "On doit partir chercher Risa"
+    },
+    {
+      "subtitle_index": 767,
+      "start_time": 5151.86,
+      "end_time": 5152.61,
+      "duration": 0.75,
+      "dialogue_text": "Ok"
+    },
+    {
+      "subtitle_index": 768,
+      "start_time": 5200.07,
+      "end_time": 5203.47,
+      "duration": 3.4000000000005457,
+      "dialogue_text": "Vite, on dirait un palace sous-marin"
+    },
+    {
+      "subtitle_index": 769,
+      "start_time": 5217.54,
+      "end_time": 5220.49,
+      "duration": 2.949999999999818,
+      "dialogue_text": "Venez par ici s'il vous plaît,"
+    },
+    {
+      "subtitle_index": 770,
+      "start_time": 5220.49,
+      "end_time": 5222.05,
+      "duration": 1.5600000000004002,
+      "dialogue_text": "allons-y"
+    },
+    {
+      "subtitle_index": 771,
+      "start_time": 5226.11,
+      "end_time": 5231.09,
+      "duration": 4.980000000000473,
+      "dialogue_text": "C'est si bon de courir à nouveau Qui arrivera la première"
+    },
+    {
+      "subtitle_index": 772,
+      "start_time": 5239.49,
+      "end_time": 5242.57,
+      "duration": 3.0799999999999272,
+      "dialogue_text": "Calmez-vous"
+    },
+    {
+      "subtitle_index": 773,
+      "start_time": 5242.57,
+      "end_time": 5245.15,
+      "duration": 2.5799999999999272,
+      "dialogue_text": "Nous sommes à un moment critique"
+    },
+    {
+      "subtitle_index": 774,
+      "start_time": 5245.15,
+      "end_time": 5247.74,
+      "duration": 2.5900000000001455,
+      "dialogue_text": "Sosuke va venir"
+    },
+    {
+      "subtitle_index": 775,
+      "start_time": 5247.74,
+      "end_time": 5254.26,
+      "duration": 6.520000000000437,
+      "dialogue_text": "Oh, qu'est ce que c'est un test d'amour? Mon cur bas la chamade.. moi aussi"
+    },
+    {
+      "subtitle_index": 776,
+      "start_time": 5255.02,
+      "end_time": 5261.54,
+      "duration": 6.519999999999527,
+      "dialogue_text": "S'il vous plaît calmez vous. Vous allez tous témoigner."
+    },
+    {
+      "subtitle_index": 777,
+      "start_time": 5263.06,
+      "end_time": 5267.66,
+      "duration": 4.599999999999454,
+      "dialogue_text": "Mr. Fujimoto vous n'allez pas faire quelque chose de mal à Sosuke et Ponyo n'est-ce pas?"
+    },
+    {
+      "subtitle_index": 778,
+      "start_time": 5267.66,
+      "end_time": 5269.13,
+      "duration": 1.4700000000002547,
+      "dialogue_text": "Bien sûr que non"
+    },
+    {
+      "subtitle_index": 779,
+      "start_time": 5270.74,
+      "end_time": 5275.8,
+      "duration": 5.0600000000004,
+      "dialogue_text": "S'ils passent le test... alors..."
+    },
+    {
+      "subtitle_index": 780,
+      "start_time": 5285.32,
+      "end_time": 5290.05,
+      "duration": 4.730000000000473,
+      "dialogue_text": "Je pense que c'est un gentleman. Que fait Risa?"
+    },
+    {
+      "subtitle_index": 781,
+      "start_time": 5290.05,
+      "end_time": 5291.67,
+      "duration": 1.6199999999998909,
+      "dialogue_text": "Là-bas regardez"
+    },
+    {
+      "subtitle_index": 782,
+      "start_time": 5291.67,
+      "end_time": 5295.4,
+      "duration": 3.7299999999995634,
+      "dialogue_text": "Elle bavarde avec la mère de Ponyo"
+    },
+    {
+      "subtitle_index": 783,
+      "start_time": 5302.91,
+      "end_time": 5308.33,
+      "duration": 5.420000000000073,
+      "dialogue_text": "Cela doit être dur pour elle. Que font-elles?"
+    },
+    {
+      "subtitle_index": 784,
+      "start_time": 5308.33,
+      "end_time": 5309.67,
+      "duration": 1.3400000000001455,
+      "dialogue_text": "Appelons-la"
+    },
+    {
+      "subtitle_index": 785,
+      "start_time": 5309.67,
+      "end_time": 5311.23,
+      "duration": 1.5599999999994907,
+      "dialogue_text": "Risa, Risa..."
+    },
+    {
+      "subtitle_index": 786,
+      "start_time": 5319.86,
+      "end_time": 5327.06,
+      "duration": 7.200000000000728,
+      "dialogue_text": "Ne t'inquiète pas. Sosuke va venir pour toi"
+    },
+    {
+      "subtitle_index": 787,
+      "start_time": 5340.21,
+      "end_time": 5348.23,
+      "duration": 8.019999999999527,
+      "dialogue_text": "Ne t'inquiète pas, il va bien"
+    },
+    {
+      "subtitle_index": 788,
+      "start_time": 5348.7,
+      "end_time": 5352.31,
+      "duration": 3.610000000000582,
+      "dialogue_text": "Merci, encourageons Sosuke"
+    },
+    {
+      "subtitle_index": 789,
+      "start_time": 5360.71,
+      "end_time": 5363.02,
+      "duration": 2.3100000000004,
+      "dialogue_text": "Ponyo, c'est une grotte"
+    },
+    {
+      "subtitle_index": 790,
+      "start_time": 5378.79,
+      "end_time": 5383.24,
+      "duration": 4.449999999999818,
+      "dialogue_text": "Ponyo tu n'as pas peur?"
+    },
+    {
+      "subtitle_index": 791,
+      "start_time": 5383.6,
+      "end_time": 5385.71,
+      "duration": 2.1099999999996726,
+      "dialogue_text": "Je déteste cet endroit"
+    },
+    {
+      "subtitle_index": 792,
+      "start_time": 5389.46,
+      "end_time": 5391.5,
+      "duration": 2.0399999999999636,
+      "dialogue_text": "Ne me lâche pas la main"
+    },
+    {
+      "subtitle_index": 793,
+      "start_time": 5391.77,
+      "end_time": 5392.52,
+      "duration": 0.75,
+      "dialogue_text": "Oui"
+    },
+    {
+      "subtitle_index": 794,
+      "start_time": 5425.31,
+      "end_time": 5426.51,
+      "duration": 1.199999999999818,
+      "dialogue_text": "Ah, Ponyo"
+    },
+    {
+      "subtitle_index": 795,
+      "start_time": 5450.37,
+      "end_time": 5451.81,
+      "duration": 1.4400000000005093,
+      "dialogue_text": "Ponyo!"
+    },
+    {
+      "subtitle_index": 796,
+      "start_time": 5482.21,
+      "end_time": 5484.77,
+      "duration": 2.5600000000004,
+      "dialogue_text": "Ponyo, ne meurs pas!"
+    },
+    {
+      "subtitle_index": 797,
+      "start_time": 5484.77,
+      "end_time": 5490.3,
+      "duration": 5.529999999999745,
+      "dialogue_text": "Ponyo! Ponyo! réveille-toi Ponyo!"
+    },
+    {
+      "subtitle_index": 798,
+      "start_time": 5490.3,
+      "end_time": 5495.79,
+      "duration": 5.489999999999782,
+      "dialogue_text": "Shh... soit calme Sosuke tu as réussi"
+    },
+    {
+      "subtitle_index": 799,
+      "start_time": 5495.79,
+      "end_time": 5500.16,
+      "duration": 4.369999999999891,
+      "dialogue_text": "Risa and les grand-mères t'attendent"
+    },
+    {
+      "subtitle_index": 800,
+      "start_time": 5500.16,
+      "end_time": 5501.34,
+      "duration": 1.180000000000291,
+      "dialogue_text": "Risa"
+    },
+    {
+      "subtitle_index": 801,
+      "start_time": 5501.34,
+      "end_time": 5505.39,
+      "duration": 4.050000000000182,
+      "dialogue_text": "Viens avec moi, amène Ponyo"
+    },
+    {
+      "subtitle_index": 802,
+      "start_time": 5507.44,
+      "end_time": 5510.73,
+      "duration": 3.2899999999999636,
+      "dialogue_text": "Ne réveille pas Ponyo, on y va doucement"
+    },
+    {
+      "subtitle_index": 803,
+      "start_time": 5510.73,
+      "end_time": 5512.25,
+      "duration": 1.5200000000004366,
+      "dialogue_text": "Sosuke"
+    },
+    {
+      "subtitle_index": 804,
+      "start_time": 5512.25,
+      "end_time": 5516.19,
+      "duration": 3.9399999999996,
+      "dialogue_text": "Ne te fais pas avoir par lui"
+    },
+    {
+      "subtitle_index": 805,
+      "start_time": 5516.19,
+      "end_time": 5520.07,
+      "duration": 3.880000000000109,
+      "dialogue_text": "Ne le laisse pas t'embobiner Il a emporté tout le monde"
+    },
+    {
+      "subtitle_index": 806,
+      "start_time": 5520.07,
+      "end_time": 5520.75,
+      "duration": 0.680000000000291,
+      "dialogue_text": "C'est grand-mère Toki"
+    },
+    {
+      "subtitle_index": 807,
+      "start_time": 5520.75,
+      "end_time": 5523.38,
+      "duration": 2.630000000000109,
+      "dialogue_text": "Ne te fais pas rouler"
+    },
+    {
+      "subtitle_index": 808,
+      "start_time": 5523.38,
+      "end_time": 5526.63,
+      "duration": 3.25,
+      "dialogue_text": "On n'a pas le temps"
+    },
+    {
+      "subtitle_index": 809,
+      "start_time": 5527.16,
+      "end_time": 5529.17,
+      "duration": 2.0100000000002183,
+      "dialogue_text": "Tu ne veux pas les rencontrer"
+    },
+    {
+      "subtitle_index": 810,
+      "start_time": 5529.17,
+      "end_time": 5531.0,
+      "duration": 1.8299999999999272,
+      "dialogue_text": "Je ne peux pas laisser la lune s'approcher davantage"
+    },
+    {
+      "subtitle_index": 811,
+      "start_time": 5531.0,
+      "end_time": 5533.27,
+      "duration": 2.2700000000004366,
+      "dialogue_text": "Ou quelque chose de terrible va arriver"
+    },
+    {
+      "subtitle_index": 812,
+      "start_time": 5533.27,
+      "end_time": 5536.1,
+      "duration": 2.8299999999999272,
+      "dialogue_text": "Vous avez besoin d'une meilleure excuse"
+    },
+    {
+      "subtitle_index": 813,
+      "start_time": 5536.1,
+      "end_time": 5537.77,
+      "duration": 1.6700000000000728,
+      "dialogue_text": "Ah"
+    },
+    {
+      "subtitle_index": 814,
+      "start_time": 5539.09,
+      "end_time": 5543.34,
+      "duration": 4.25,
+      "dialogue_text": "Sosuke, viens avec moi seul toi peut sauver le monde"
+    },
+    {
+      "subtitle_index": 815,
+      "start_time": 5543.34,
+      "end_time": 5545.93,
+      "duration": 2.5900000000001455,
+      "dialogue_text": "Je ne te ferai pas de mal"
+    },
+    {
+      "subtitle_index": 816,
+      "start_time": 5545.93,
+      "end_time": 5547.17,
+      "duration": 1.2399999999997817,
+      "dialogue_text": "Ponyo"
+    },
+    {
+      "subtitle_index": 817,
+      "start_time": 5549.2,
+      "end_time": 5552.33,
+      "duration": 3.130000000000109,
+      "dialogue_text": "Comment peux-tu traiter ton père ainsi"
+    },
+    {
+      "subtitle_index": 818,
+      "start_time": 5558.37,
+      "end_time": 5560.12,
+      "duration": 1.75,
+      "dialogue_text": "Ponyo"
+    },
+    {
+      "subtitle_index": 819,
+      "start_time": 5560.12,
+      "end_time": 5562.66,
+      "duration": 2.5399999999999636,
+      "dialogue_text": "Sosuke, viens ici vite"
+    },
+    {
+      "subtitle_index": 820,
+      "start_time": 5562.66,
+      "end_time": 5565.18,
+      "duration": 2.5200000000004366,
+      "dialogue_text": "J'ai dit que je ne te ferai pas mal"
+    },
+    {
+      "subtitle_index": 821,
+      "start_time": 5569.94,
+      "end_time": 5571.61,
+      "duration": 1.6700000000000728,
+      "dialogue_text": "Continue"
+    },
+    {
+      "subtitle_index": 822,
+      "start_time": 5573.54,
+      "end_time": 5575.33,
+      "duration": 1.7899999999999636,
+      "dialogue_text": "Comment oses-tu?"
+    },
+    {
+      "subtitle_index": 823,
+      "start_time": 5612.49,
+      "end_time": 5613.69,
+      "duration": 1.199999999999818,
+      "dialogue_text": "Attention!"
+    },
+    {
+      "subtitle_index": 824,
+      "start_time": 5670.49,
+      "end_time": 5673.9,
+      "duration": 3.4099999999998545,
+      "dialogue_text": "Risa! Sosuke! Ponyo!"
+    },
+    {
+      "subtitle_index": 825,
+      "start_time": 5692.96,
+      "end_time": 5694.27,
+      "duration": 1.3100000000004002,
+      "dialogue_text": "Tu dois être Sosuke"
+    },
+    {
+      "subtitle_index": 826,
+      "start_time": 5695.14,
+      "end_time": 5698.68,
+      "duration": 3.5399999999999636,
+      "dialogue_text": "Bonjour. vous êtes la mère de Ponyo?"
+    },
+    {
+      "subtitle_index": 827,
+      "start_time": 5698.68,
+      "end_time": 5702.79,
+      "duration": 4.109999999999673,
+      "dialogue_text": "Oui c'est moi. Tu as apporté Ponyo"
+    },
+    {
+      "subtitle_index": 828,
+      "start_time": 5702.79,
+      "end_time": 5704.62,
+      "duration": 1.8299999999999272,
+      "dialogue_text": "Shh..."
+    },
+    {
+      "subtitle_index": 829,
+      "start_time": 5705.38,
+      "end_time": 5707.68,
+      "duration": 2.300000000000182,
+      "dialogue_text": "Merci"
+    },
+    {
+      "subtitle_index": 830,
+      "start_time": 5707.68,
+      "end_time": 5711.79,
+      "duration": 4.109999999999673,
+      "dialogue_text": "Sosuke. Ponyo a brisé l'équilibre de la nature pour devenir humaine"
+    },
+    {
+      "subtitle_index": 831,
+      "start_time": 5711.79,
+      "end_time": 5713.64,
+      "duration": 1.8500000000003638,
+      "dialogue_text": "Pour devenir humaine"
+    },
+    {
+      "subtitle_index": 832,
+      "start_time": 5713.64,
+      "end_time": 5718.98,
+      "duration": 5.339999999999236,
+      "dialogue_text": "Il faut un humain qui comprenne Ponyo et qui est prêt à l'accepter"
+    },
+    {
+      "subtitle_index": 833,
+      "start_time": 5719.26,
+      "end_time": 5723.48,
+      "duration": 4.219999999999345,
+      "dialogue_text": "Tu sais qu'elle est un poisson"
+    },
+    {
+      "subtitle_index": 834,
+      "start_time": 5723.79,
+      "end_time": 5724.81,
+      "duration": 1.0200000000004366,
+      "dialogue_text": "oui"
+    },
+    {
+      "subtitle_index": 835,
+      "start_time": 5724.81,
+      "end_time": 5728.93,
+      "duration": 4.119999999999891,
+      "dialogue_text": "Elle est devenue une sirène car elle a goûté ton sang"
+    },
+    {
+      "subtitle_index": 836,
+      "start_time": 5728.93,
+      "end_time": 5730.25,
+      "duration": 1.319999999999709,
+      "dialogue_text": "C'est comme ça?"
+    },
+    {
+      "subtitle_index": 837,
+      "start_time": 5736.98,
+      "end_time": 5741.22,
+      "duration": 4.240000000000691,
+      "dialogue_text": "Tu es d'accord avec elle, sachant qu'elle est moitié poisson, moitié humaine?"
+    },
+    {
+      "subtitle_index": 838,
+      "start_time": 5741.22,
+      "end_time": 5747.58,
+      "duration": 6.359999999999673,
+      "dialogue_text": "Oui cela me va bien qu'elle soit poisson sirène ou humaine, je l'aime toujours"
+    },
+    {
+      "subtitle_index": 839,
+      "start_time": 5761.67,
+      "end_time": 5764.2,
+      "duration": 2.5299999999997453,
+      "dialogue_text": "Viens ici Ponyo"
+    },
+    {
+      "subtitle_index": 840,
+      "start_time": 5779.06,
+      "end_time": 5783.96,
+      "duration": 4.899999999999636,
+      "dialogue_text": "Ponyo. On dirait que Sosuke t'a acceptée"
+    },
+    {
+      "subtitle_index": 841,
+      "start_time": 5785.85,
+      "end_time": 5791.71,
+      "duration": 5.859999999999673,
+      "dialogue_text": "Maintenant tu dois abandonner ta magie pour devenir une humaine le peux-tu?"
+    },
+    {
+      "subtitle_index": 842,
+      "start_time": 5791.71,
+      "end_time": 5792.71,
+      "duration": 1.0,
+      "dialogue_text": "Oui"
+    },
+    {
+      "subtitle_index": 843,
+      "start_time": 5802.38,
+      "end_time": 5805.74,
+      "duration": 3.3599999999996726,
+      "dialogue_text": "Quand tu reviendras à la surface, embrasse la bulle une fois"
+    },
+    {
+      "subtitle_index": 844,
+      "start_time": 5805.74,
+      "end_time": 5810.23,
+      "duration": 4.489999999999782,
+      "dialogue_text": "Ponyo se transformera en un petit humain de cinq ans juste comme toi"
+    },
+    {
+      "subtitle_index": 845,
+      "start_time": 5813.13,
+      "end_time": 5815.21,
+      "duration": 2.0799999999999272,
+      "dialogue_text": "Ponyo! c'est merveilleux!"
+    },
+    {
+      "subtitle_index": 846,
+      "start_time": 5815.88,
+      "end_time": 5818.6,
+      "duration": 2.7200000000002547,
+      "dialogue_text": "Merci. Ponyo's maman"
+    },
+    {
+      "subtitle_index": 847,
+      "start_time": 5824.53,
+      "end_time": 5828.29,
+      "duration": 3.7600000000002183,
+      "dialogue_text": "Ecoutez tous! Il a passé le test"
+    },
+    {
+      "subtitle_index": 848,
+      "start_time": 5828.29,
+      "end_time": 5829.85,
+      "duration": 1.5600000000004002,
+      "dialogue_text": "C'est merveilleux"
+    },
+    {
+      "subtitle_index": 849,
+      "start_time": 5865.13,
+      "end_time": 5867.31,
+      "duration": 2.180000000000291,
+      "dialogue_text": "Risa, merci."
+    },
+    {
+      "subtitle_index": 850,
+      "start_time": 5867.31,
+      "end_time": 5871.25,
+      "duration": 3.9399999999996,
+      "dialogue_text": "Vous aussi, merci pour tout"
+    },
+    {
+      "subtitle_index": 851,
+      "start_time": 5881.5,
+      "end_time": 5884.66,
+      "duration": 3.1599999999998545,
+      "dialogue_text": "Tout va bien"
+    },
+    {
+      "subtitle_index": 852,
+      "start_time": 5889.55,
+      "end_time": 5892.18,
+      "duration": 2.630000000000109,
+      "dialogue_text": "On apporte les fauteuils roulants immédiatement"
+    },
+    {
+      "subtitle_index": 853,
+      "start_time": 5892.18,
+      "end_time": 5894.5,
+      "duration": 2.319999999999709,
+      "dialogue_text": "On peut marcher"
+    },
+    {
+      "subtitle_index": 854,
+      "start_time": 5899.74,
+      "end_time": 5902.3,
+      "duration": 2.5600000000004,
+      "dialogue_text": "C'est notre bateau"
+    },
+    {
+      "subtitle_index": 855,
+      "start_time": 5904.0,
+      "end_time": 5905.55,
+      "duration": 1.550000000000182,
+      "dialogue_text": "Merci"
+    },
+    {
+      "subtitle_index": 856,
+      "start_time": 5905.55,
+      "end_time": 5910.52,
+      "duration": 4.970000000000255,
+      "dialogue_text": "Je suis désolé, je ne voulais pas te blesser"
+    },
+    {
+      "subtitle_index": 857,
+      "start_time": 5915.16,
+      "end_time": 5917.8,
+      "duration": 2.6400000000003274,
+      "dialogue_text": "Je te confie Ponyo"
+    },
+    {
+      "subtitle_index": 858,
+      "start_time": 5919.29,
+      "end_time": 5921.93,
+      "duration": 2.6400000000003274,
+      "dialogue_text": "c'est le bateau de Koichi"
+    },
+    {
+      "subtitle_index": 859,
+      "start_time": 5925.76,
+      "end_time": 5926.6,
+      "duration": 0.8400000000001455,
+      "dialogue_text": "Koichi"
+    },
+    {
+      "subtitle_index": 860,
+      "start_time": 5931.26,
+      "end_time": 5934.58,
+      "duration": 3.319999999999709,
+      "dialogue_text": "Risa, Sosuke est là aussi"
+    },
+    {
+      "subtitle_index": 861,
+      "start_time": 5937.09,
+      "end_time": 5939.44,
+      "duration": 2.3499999999994543,
+      "dialogue_text": "Risa, c'est le bateau de Koichi"
+    },
+    {
+      "subtitle_index": 862,
+      "start_time": 6044.17,
+      "end_time": 6045.42,
+      "duration": 1.25,
+      "dialogue_text": "-FIN-"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "metadata": {
+    "film_name": "The Red Turtle",
+    "film_slug": "the_red_turtle_es",
+    "language_code": "es",
+    "total_subtitles": 14,
+    "total_duration": 3579.499,
+    "parse_timestamp": "2025-10-30T17:09:43.496265"
+  },
+  "subtitles": [
+    {
+      "subtitle_index": 1,
+      "start_time": 159.576,
+      "end_time": 164.576,
+      "duration": 5.0,
+      "dialogue_text": "LA TORTUGA ROJA"
+    },
+    {
+      "subtitle_index": 2,
+      "start_time": 365.95,
+      "end_time": 367.95,
+      "duration": 2.0,
+      "dialogue_text": "¿Hola?"
+    },
+    {
+      "subtitle_index": 3,
+      "start_time": 1242.659,
+      "end_time": 1243.867,
+      "duration": 1.2079999999998563,
+      "dialogue_text": "Hola."
+    },
+    {
+      "subtitle_index": 4,
+      "start_time": 1248.2,
+      "end_time": 1249.241,
+      "duration": 1.04099999999994,
+      "dialogue_text": "¿Hola?"
+    },
+    {
+      "subtitle_index": 5,
+      "start_time": 1269.783,
+      "end_time": 1271.534,
+      "duration": 1.7510000000002037,
+      "dialogue_text": "¿Hola?"
+    },
+    {
+      "subtitle_index": 6,
+      "start_time": 3123.491,
+      "end_time": 3124.991,
+      "duration": 1.5,
+      "dialogue_text": "¿Hola?"
+    },
+    {
+      "subtitle_index": 7,
+      "start_time": 3519.366,
+      "end_time": 3521.783,
+      "duration": 2.4169999999999163,
+      "dialogue_text": "¿Hola?"
+    },
+    {
+      "subtitle_index": 8,
+      "start_time": 3539.533,
+      "end_time": 3541.908,
+      "duration": 2.375,
+      "dialogue_text": "¿Hola?"
+    },
+    {
+      "subtitle_index": 9,
+      "start_time": 3548.658,
+      "end_time": 3549.825,
+      "duration": 1.1669999999999163,
+      "dialogue_text": "Hola."
+    },
+    {
+      "subtitle_index": 10,
+      "start_time": 3549.991,
+      "end_time": 3552.325,
+      "duration": 2.3339999999998327,
+      "dialogue_text": "¿Hola?"
+    },
+    {
+      "subtitle_index": 11,
+      "start_time": 3602.618,
+      "end_time": 3605.201,
+      "duration": 2.5830000000000837,
+      "dialogue_text": "Hola."
+    },
+    {
+      "subtitle_index": 12,
+      "start_time": 3642.741,
+      "end_time": 3645.533,
+      "duration": 2.7919999999999163,
+      "dialogue_text": "¿Hola?"
+    },
+    {
+      "subtitle_index": 13,
+      "start_time": 3729.241,
+      "end_time": 3731.408,
+      "duration": 2.1669999999999163,
+      "dialogue_text": "¿Hola?"
+    },
+    {
+      "subtitle_index": 14,
+      "start_time": 3736.7,
+      "end_time": 3739.075,
+      "duration": 2.375,
+      "dialogue_text": "¿Hola?"
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "total": 36,
+  "targets": [
+    {
+      "film_slug": "ponyo",
+      "language": "es",
+      "current_drift": 4.932343234323426,
+      "status": "WARN"
+    },
+    {
+      "film_slug": "ponyo",
+      "language": "en",
+      "current_drift": 4.812706270627057,
+      "status": "WARN"
+    },
+    {
+      "film_slug": "princess_mononoke",
+      "language": "ar",
+      "current_drift": 4.702740740740735,
+      "status": "WARN"
+    },
+    {
+      "film_slug": "grave_of_the_fireflies",
+      "language": "es",
+      "current_drift": 4.497771535580534,
+      "status": "WARN"
+    },
+    {
+      "film_slug": "grave_of_the_fireflies",
+      "language": "nl",
+      "current_drift": 4.48662921348315,
+      "status": "WARN"
+    },
+    {
+      "film_slug": "my_neighbors_the_yamadas",
+      "language": "ar",
+      "current_drift": 4.476073717948714,
+      "status": "WARN"
+    },
+    {
+      "film_slug": "when_marnie_was_there",
+      "language": "es",
+      "current_drift": 4.432038834951451,
+      "status": "WARN"
+    },
+    {
+      "film_slug": "howls_moving_castle",
+      "language": "nl",
+      "current_drift": 4.381358543417363,
+      "status": "WARN"
+    },
+    {
+      "film_slug": "my_neighbor_totoro",
+      "language": "en",
+      "current_drift": 4.302325581395349,
+      "status": "WARN"
+    },
+    {
+      "film_slug": "whisper_of_the_heart",
+      "language": "fr",
+      "current_drift": 4.097687687687687,
+      "status": "WARN"
+    },
+    {
+      "film_slug": "only_yesterday",
+      "language": "nl",
+      "current_drift": 3.586454802259891,
+      "status": "WARN"
+    },
+    {
+      "film_slug": "my_neighbor_totoro",
+      "language": "nl",
+      "current_drift": 3.3920542635658864,
+      "status": "WARN"
+    },
+    {
+      "film_slug": "spirited_away",
+      "language": "nl",
+      "current_drift": 3.301999999999995,
+      "status": "WARN"
+    },
+    {
+      "film_slug": "spirited_away",
+      "language": "ar",
+      "current_drift": 3.127599999999996,
+      "status": "WARN"
+    },
+    {
+      "film_slug": "the_red_turtle",
+      "language": "en",
+      "current_drift": 2.611812500000004,
+      "status": "WARN"
+    },
+    {
+      "film_slug": "castle_in_the_sky",
+      "language": "fr",
+      "current_drift": 2.4448924731182866,
+      "status": "WARN"
+    },
+    {
+      "film_slug": "ponyo",
+      "language": "ar",
+      "current_drift": 77.23085808580859,
+      "status": "FAIL"
+    },
+    {
+      "film_slug": "the_red_turtle",
+      "language": "nl",
+      "current_drift": 29.741958333333322,
+      "status": "FAIL"
+    },
+    {
+      "film_slug": "the_red_turtle",
+      "language": "fr",
+      "current_drift": 29.042187499999994,
+      "status": "FAIL"
+    },
+    {
+      "film_slug": "the_red_turtle",
+      "language": "ar",
+      "current_drift": 28.803062499999992,
+      "status": "FAIL"
+    },
+    {
+      "film_slug": "earwig_and_the_witch",
+      "language": "ar",
+      "current_drift": 23.402317073170735,
+      "status": "FAIL"
+    },
+    {
+      "film_slug": "my_neighbors_the_yamadas",
+      "language": "fr",
+      "current_drift": 23.02115384615385,
+      "status": "FAIL"
+    },
+    {
+      "film_slug": "the_cat_returns",
+      "language": "nl",
+      "current_drift": 20.576311111111114,
+      "status": "FAIL"
+    },
+    {
+      "film_slug": "the_wind_rises",
+      "language": "nl",
+      "current_drift": 18.898809523809522,
+      "status": "FAIL"
+    },
+    {
+      "film_slug": "earwig_and_the_witch",
+      "language": "es",
+      "current_drift": 17.499390243902425,
+      "status": "FAIL"
+    },
+    {
+      "film_slug": "tales_from_earthsea",
+      "language": "es",
+      "current_drift": 16.24850724637681,
+      "status": "FAIL"
+    },
+    {
+      "film_slug": "whisper_of_the_heart",
+      "language": "nl",
+      "current_drift": 16.07867867867868,
+      "status": "FAIL"
+    },
+    {
+      "film_slug": "whisper_of_the_heart",
+      "language": "es",
+      "current_drift": 15.364879879879872,
+      "status": "FAIL"
+    },
+    {
+      "film_slug": "the_red_turtle",
+      "language": "es",
+      "current_drift": 14.198541666666681,
+      "status": "FAIL"
+    },
+    {
+      "film_slug": "castle_in_the_sky",
+      "language": "nl",
+      "current_drift": 13.439865591397854,
+      "status": "FAIL"
+    },
+    {
+      "film_slug": "castle_in_the_sky",
+      "language": "ar",
+      "current_drift": 11.601263440860215,
+      "status": "FAIL"
+    },
+    {
+      "film_slug": "the_tale_of_the_princess_kaguya",
+      "language": "ar",
+      "current_drift": 10.162834549878347,
+      "status": "FAIL"
+    },
+    {
+      "film_slug": "ponyo",
+      "language": "nl",
+      "current_drift": 6.845099009900991,
+      "status": "FAIL"
+    },
+    {
+      "film_slug": "pom_poko",
+      "language": "nl",
+      "current_drift": 6.836876750700284,
+      "status": "FAIL"
+    },
+    {
+      "film_slug": "porco_rosso",
+      "language": "ar",
+      "current_drift": 5.366985815602843,
+      "status": "FAIL"
+    },
+    {
+      "film_slug": "ponyo",
+      "language": "fr",
+      "current_drift": 5.116831683168316,
+      "status": "FAIL"
+    }
+  ]
+}

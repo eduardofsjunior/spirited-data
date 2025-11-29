@@ -1,0 +1,148 @@
+{
+  "story": "4.X.2",
+  "timestamp": "2025-11-17 16:29:00",
+  "languages": [
+    "en"
+  ],
+  "films_processed": 14,
+  "subtitles_acquired": 14,
+  "results": [
+    {
+      "film": "Spirited Away",
+      "lang": "en",
+      "path": "data/raw/subtitles_improved/spirited_away_en_v2.srt",
+      "file_id": "cached",
+      "size": 68108,
+      "source_lang": "en",
+      "uploader": "cached"
+    },
+    {
+      "film": "Princess Mononoke",
+      "lang": "en",
+      "path": "data/raw/subtitles_improved/princess_mononoke_en_v2.srt",
+      "file_id": "cached",
+      "size": 70858,
+      "source_lang": "en",
+      "uploader": "cached"
+    },
+    {
+      "film": "Howl's Moving Castle",
+      "lang": "en",
+      "path": "data/raw/subtitles_improved/howls_moving_castle_en_v2.srt",
+      "file_id": "cached",
+      "size": 79449,
+      "source_lang": "en",
+      "uploader": "cached"
+    },
+    {
+      "film": "Kiki's Delivery Service",
+      "lang": "en",
+      "path": "data/raw/subtitles_improved/kikis_delivery_service_en_v2.srt",
+      "file_id": 4514363,
+      "size": 68716,
+      "source_lang": "en",
+      "uploader": "stanleyho74",
+      "download_count": 72929
+    },
+    {
+      "film": "My Neighbor Totoro",
+      "lang": "en",
+      "path": "data/raw/subtitles_improved/my_neighbor_totoro_en_v2.srt",
+      "file_id": 207022,
+      "size": 42407,
+      "source_lang": "en",
+      "uploader": "transsive",
+      "download_count": 81311
+    },
+    {
+      "film": "Castle in the Sky",
+      "lang": "en",
+      "path": "data/raw/subtitles_improved/castle_in_the_sky_en_v2.srt",
+      "file_id": 199261,
+      "size": 61274,
+      "source_lang": "en",
+      "uploader": "miskon (a)",
+      "download_count": 55016
+    },
+    {
+      "film": "Earwig and the Witch",
+      "lang": "en",
+      "path": "data/raw/subtitles_improved/earwig_and_the_witch_en_v2.srt",
+      "file_id": 6879882,
+      "size": 97502,
+      "source_lang": "en",
+      "uploader": "hadilan",
+      "download_count": 329850
+    },
+    {
+      "film": "Ponyo",
+      "lang": "en",
+      "path": "data/raw/subtitles_improved/ponyo_en_v2.srt",
+      "file_id": 4220908,
+      "size": 56589,
+      "source_lang": "en",
+      "uploader": "ShooCat",
+      "download_count": 106847
+    },
+    {
+      "film": "The Red Turtle",
+      "lang": "en",
+      "path": "data/raw/subtitles_improved/the_red_turtle_en_v2.srt",
+      "file_id": 3644745,
+      "size": 125315,
+      "source_lang": "en",
+      "uploader": "GoldenBeard",
+      "download_count": 339674
+    },
+    {
+      "film": "Grave of the Fireflies",
+      "lang": "en",
+      "path": "data/raw/subtitles_improved/grave_of_the_fireflies_en_v2.srt",
+      "file_id": 444568,
+      "size": 37774,
+      "source_lang": "en",
+      "uploader": "eduo_",
+      "download_count": 94169
+    },
+    {
+      "film": "Whisper of the Heart",
+      "lang": "en",
+      "path": "data/raw/subtitles_improved/whisper_of_the_heart_en_v2.srt",
+      "file_id": 1305468,
+      "size": 71924,
+      "source_lang": "en",
+      "uploader": "stanleyho74",
+      "download_count": 33492
+    },
+    {
+      "film": "Only Yesterday",
+      "lang": "en",
+      "path": "data/raw/subtitles_improved/only_yesterday_en_v2.srt",
+      "file_id": 639949,
+      "size": 86724,
+      "source_lang": "en",
+      "uploader": "Stepnjak",
+      "download_count": 26322
+    },
+    {
+      "film": "Pom Poko",
+      "lang": "en",
+      "path": "data/raw/subtitles_improved/pom_poko_en_v2.srt",
+      "file_id": 666141,
+      "size": 107456,
+      "source_lang": "en",
+      "uploader": "elguaxo",
+      "download_count": 23751
+    },
+    {
+      "film": "The Wind Rises",
+      "lang": "en",
+      "path": "data/raw/subtitles_improved/the_wind_rises_en_v2.srt",
+      "file_id": 1057741,
+      "size": 64007,
+      "source_lang": "en",
+      "uploader": "dumbojet",
+      "download_count": 63782
+    }
+  ]
+}

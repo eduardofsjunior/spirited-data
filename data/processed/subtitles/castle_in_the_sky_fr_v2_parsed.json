@@ -1,0 +1,6592 @@
+{
+  "metadata": {
+    "film_name": "Castle In The Sky V2",
+    "film_slug": "castle_in_the_sky_fr_v2",
+    "language_code": "fr",
+    "total_subtitles": 940,
+    "total_duration": 7258.099999999999,
+    "parse_timestamp": "2025-11-18T12:08:11.436604"
+  },
+  "subtitles": [
+    {
+      "subtitle_index": 1,
+      "start_time": 6.6,
+      "end_time": 11.6,
+      "duration": 5.0,
+      "dialogue_text": "Une Production de Tokuma Shoten"
+    },
+    {
+      "subtitle_index": 2,
+      "start_time": 107.6,
+      "end_time": 108.6,
+      "duration": 1.0,
+      "dialogue_text": "Une grenade lacrymogène !"
+    },
+    {
+      "subtitle_index": 3,
+      "start_time": 108.8,
+      "end_time": 110.7,
+      "duration": 1.9000000000000057,
+      "dialogue_text": "Nous sommes attaqués !"
+    },
+    {
+      "subtitle_index": 4,
+      "start_time": 135.8,
+      "end_time": 139.8,
+      "duration": 4.0,
+      "dialogue_text": "Retenez-les ! Toi, descends à l'étage !"
+    },
+    {
+      "subtitle_index": 5,
+      "start_time": 165.7,
+      "end_time": 168.7,
+      "duration": 3.0,
+      "dialogue_text": "Gaz lacrymogène !"
+    },
+    {
+      "subtitle_index": 6,
+      "start_time": 178.6,
+      "end_time": 182.6,
+      "duration": 4.0,
+      "dialogue_text": "Qu'est-ce que vous faites ! Défoncez-moi vite cette porte !"
+    },
+    {
+      "subtitle_index": 7,
+      "start_time": 190.7,
+      "end_time": 192.7,
+      "duration": 2.0,
+      "dialogue_text": "Où est elle ? !"
+    },
+    {
+      "subtitle_index": 8,
+      "start_time": 193.6,
+      "end_time": 195.6,
+      "duration": 2.0,
+      "dialogue_text": "La voilà !"
+    },
+    {
+      "subtitle_index": 9,
+      "start_time": 195.7,
+      "end_time": 198.7,
+      "duration": 3.0,
+      "dialogue_text": "Mama, elle est là ! Elle s'est cachée !"
+    },
+    {
+      "subtitle_index": 10,
+      "start_time": 198.7,
+      "end_time": 201.7,
+      "duration": 3.0,
+      "dialogue_text": "Vite, attrapez-la !"
+    },
+    {
+      "subtitle_index": 11,
+      "start_time": 201.7,
+      "end_time": 204.7,
+      "duration": 3.0,
+      "dialogue_text": "Mama, je vais tomber !"
+    },
+    {
+      "subtitle_index": 12,
+      "start_time": 205.6,
+      "end_time": 208.6,
+      "duration": 3.0,
+      "dialogue_text": "C'est ça... c'est cette pierre ! Vite, dans l'autre pièce !"
+    },
+    {
+      "subtitle_index": 13,
+      "start_time": 208.7,
+      "end_time": 210.7,
+      "duration": 2.0,
+      "dialogue_text": "C'est une Lévistone !"
+    },
+    {
+      "subtitle_index": 14,
+      "start_time": 218.7,
+      "end_time": 221.7,
+      "duration": 3.0,
+      "dialogue_text": "Mince ! La Lévistone..."
+    },
+    {
+      "subtitle_index": 15,
+      "start_time": 233.1,
+      "end_time": 240.7,
+      "duration": 7.599999999999994,
+      "dialogue_text": "Laputa : Le château dans le ciel."
+    },
+    {
+      "subtitle_index": 16,
+      "start_time": 240.7,
+      "end_time": 245.6,
+      "duration": 4.900000000000006,
+      "dialogue_text": "A Tokuma Koukai Presentation"
+    },
+    {
+      "subtitle_index": 17,
+      "start_time": 245.6,
+      "end_time": 250.6,
+      "duration": 5.0,
+      "dialogue_text": "Planning: Yamashita Tatsumi - Ogata Hideo"
+    },
+    {
+      "subtitle_index": 18,
+      "start_time": 259.5,
+      "end_time": 264.5,
+      "duration": 5.0,
+      "dialogue_text": "Animation Director: Tannai Tsukasa"
+    },
+    {
+      "subtitle_index": 19,
+      "start_time": 264.5,
+      "end_time": 269.6,
+      "duration": 5.100000000000023,
+      "dialogue_text": "Art Directors: Nozaki Toshirou - Yamamoto Fumi"
+    },
+    {
+      "subtitle_index": 20,
+      "start_time": 269.6,
+      "end_time": 274.6,
+      "duration": 5.0,
+      "dialogue_text": "Music: Hisashi Joe"
+    },
+    {
+      "subtitle_index": 21,
+      "start_time": 274.7,
+      "end_time": 280.7,
+      "duration": 6.0,
+      "dialogue_text": "Finishing: Yasuda Michiyo Photography: Takahashi Hiroshi Editing: Seyama Takeshi"
+    },
+    {
+      "subtitle_index": 22,
+      "start_time": 280.5,
+      "end_time": 286.5,
+      "duration": 6.0,
+      "dialogue_text": "Sound Director: Shiba Shigeharu Sound Editing: Inoue Shuuji Sound Effects: Satou Kazutoshi"
+    },
+    {
+      "subtitle_index": 23,
+      "start_time": 301.5,
+      "end_time": 306.5,
+      "duration": 5.0,
+      "dialogue_text": "Cast: Hatsui Genei - Tokita Fujio - Terada Nou Tanaka Mayumi - Yokozawa Keiko"
+    },
+    {
+      "subtitle_index": 24,
+      "start_time": 314.6,
+      "end_time": 319.6,
+      "duration": 5.0,
+      "dialogue_text": "Production: Gentetsu - Studio Ghibli Producer: Takahata Isao"
+    },
+    {
+      "subtitle_index": 25,
+      "start_time": 323.7,
+      "end_time": 330.7,
+      "duration": 7.0,
+      "dialogue_text": "Original Work, Screenplay and Direction: Miyazaki Hayao"
+    },
+    {
+      "subtitle_index": 26,
+      "start_time": 381.7,
+      "end_time": 383.8,
+      "duration": 2.1000000000000227,
+      "dialogue_text": "Mon oncle ! Deux gamelles !"
+    },
+    {
+      "subtitle_index": 27,
+      "start_time": 384.5,
+      "end_time": 385.5,
+      "duration": 1.0,
+      "dialogue_text": "Tu travailles toujours autant ?"
+    },
+    {
+      "subtitle_index": 28,
+      "start_time": 386.5,
+      "end_time": 388.5,
+      "duration": 2.0,
+      "dialogue_text": "Les affaires peuvent reprendre."
+    },
+    {
+      "subtitle_index": 29,
+      "start_time": 389.5,
+      "end_time": 390.5,
+      "duration": 1.0,
+      "dialogue_text": "Encore au boulot ? Ouais."
+    },
+    {
+      "subtitle_index": 30,
+      "start_time": 401.8,
+      "end_time": 402.8,
+      "duration": 1.0,
+      "dialogue_text": "Qu'est-ce que c'est ?"
+    },
+    {
+      "subtitle_index": 31,
+      "start_time": 410.7,
+      "end_time": 412.7,
+      "duration": 2.0,
+      "dialogue_text": "C'est une personne !"
+    },
+    {
+      "subtitle_index": 32,
+      "start_time": 466.5,
+      "end_time": 467.5,
+      "duration": 1.0,
+      "dialogue_text": "PAZU !"
+    },
+    {
+      "subtitle_index": 33,
+      "start_time": 467.6,
+      "end_time": 471.6,
+      "duration": 4.0,
+      "dialogue_text": "Qu'est ce que tu fais là-haut ? Et notre dîner ?"
+    },
+    {
+      "subtitle_index": 34,
+      "start_time": 471.6,
+      "end_time": 472.6,
+      "duration": 1.0,
+      "dialogue_text": "Patron !"
+    },
+    {
+      "subtitle_index": 35,
+      "start_time": 473.5,
+      "end_time": 475.5,
+      "duration": 2.0,
+      "dialogue_text": "Une fille du ciel..."
+    },
+    {
+      "subtitle_index": 36,
+      "start_time": 494.7,
+      "end_time": 496.7,
+      "duration": 2.0,
+      "dialogue_text": "Patron, une fille du ciel..."
+    },
+    {
+      "subtitle_index": 37,
+      "start_time": 500.5,
+      "end_time": 502.5,
+      "duration": 2.0,
+      "dialogue_text": "Foutu moteur !"
+    },
+    {
+      "subtitle_index": 38,
+      "start_time": 502.6,
+      "end_time": 504.6,
+      "duration": 2.0,
+      "dialogue_text": "Patron, une fille..."
+    },
+    {
+      "subtitle_index": 39,
+      "start_time": 504.6,
+      "end_time": 506.6,
+      "duration": 2.0,
+      "dialogue_text": "Ferme la vanne n° 2 !"
+    },
+    {
+      "subtitle_index": 40,
+      "start_time": 517.5,
+      "end_time": 518.7,
+      "duration": 1.2000000000000455,
+      "dialogue_text": "Pazu, donne-moi un coup de main."
+    },
+    {
+      "subtitle_index": 41,
+      "start_time": 518.8,
+      "end_time": 519.7,
+      "duration": 0.900000000000091,
+      "dialogue_text": "Oui, monsieur !"
+    },
+    {
+      "subtitle_index": 42,
+      "start_time": 523.6,
+      "end_time": 525.6,
+      "duration": 2.0,
+      "dialogue_text": "Je ne peux pas bouger de là ! Vas-y toi !"
+    },
+    {
+      "subtitle_index": 43,
+      "start_time": 526.5,
+      "end_time": 527.7,
+      "duration": 1.2000000000000455,
+      "dialogue_text": "Ne laisse pas les gens attendre en bas."
+    },
+    {
+      "subtitle_index": 44,
+      "start_time": 527.7,
+      "end_time": 528.7,
+      "duration": 1.0,
+      "dialogue_text": "Oui, monsieur."
+    },
+    {
+      "subtitle_index": 45,
+      "start_time": 530.7,
+      "end_time": 532.7,
+      "duration": 2.0,
+      "dialogue_text": "Reste calme...tu peux le faire."
+    },
+    {
+      "subtitle_index": 46,
+      "start_time": 532.7,
+      "end_time": 533.7,
+      "duration": 1.0,
+      "dialogue_text": "Oui, monsieur !"
+    },
+    {
+      "subtitle_index": 47,
+      "start_time": 550.6,
+      "end_time": 551.6,
+      "duration": 1.0,
+      "dialogue_text": "Freine !"
+    },
+    {
+      "subtitle_index": 48,
+      "start_time": 564.5,
+      "end_time": 565.5,
+      "duration": 1.0,
+      "dialogue_text": "Alors ?"
+    },
+    {
+      "subtitle_index": 49,
+      "start_time": 565.5,
+      "end_time": 567.5,
+      "duration": 2.0,
+      "dialogue_text": "Ce n'est pas normal. L'argent n'est concentré nulle part."
+    },
+    {
+      "subtitle_index": 50,
+      "start_time": 568.5,
+      "end_time": 570.5,
+      "duration": 2.0,
+      "dialogue_text": "Creuser ici est inutile..."
+    },
+    {
+      "subtitle_index": 51,
+      "start_time": 570.5,
+      "end_time": 573.5,
+      "duration": 3.0,
+      "dialogue_text": "Peut-être devrions-nous creuser à l'est ?"
+    },
+    {
+      "subtitle_index": 52,
+      "start_time": 573.5,
+      "end_time": 575.5,
+      "duration": 2.0,
+      "dialogue_text": "Cet endroit est simplement plein de vieux forages."
+    },
+    {
+      "subtitle_index": 53,
+      "start_time": 575.6,
+      "end_time": 578.6,
+      "duration": 3.0,
+      "dialogue_text": "Nous n'avons qu'à essayer encore, pas vrai ?"
+    },
+    {
+      "subtitle_index": 54,
+      "start_time": 578.6,
+      "end_time": 580.6,
+      "duration": 2.0,
+      "dialogue_text": "Ouais...Encore..."
+    },
+    {
+      "subtitle_index": 55,
+      "start_time": 582.7,
+      "end_time": 585.7,
+      "duration": 3.0,
+      "dialogue_text": "C'est ça..."
+    },
+    {
+      "subtitle_index": 56,
+      "start_time": 592.6,
+      "end_time": 597.6,
+      "duration": 5.0,
+      "dialogue_text": "Eteins le brûleur. Pas d'heures supplémentaires ce soir. Les temps sont durs. On touche la fin."
+    },
+    {
+      "subtitle_index": 57,
+      "start_time": 601.7,
+      "end_time": 604.7,
+      "duration": 3.0,
+      "dialogue_text": "Pazu, graisse ce vieux moteur."
+    },
+    {
+      "subtitle_index": 58,
+      "start_time": 604.7,
+      "end_time": 605.7,
+      "duration": 1.0,
+      "dialogue_text": "Oui, monsieur !"
+    },
+    {
+      "subtitle_index": 59,
+      "start_time": 621.5,
+      "end_time": 624.5,
+      "duration": 3.0,
+      "dialogue_text": "C'est pas la peine, Mama. On ne peut rien trouver dans l'obscurité."
+    },
+    {
+      "subtitle_index": 60,
+      "start_time": 625.5,
+      "end_time": 627.5,
+      "duration": 2.0,
+      "dialogue_text": "Vous pensez qu'on cherche pour rien, hein ?"
+    },
+    {
+      "subtitle_index": 61,
+      "start_time": 627.6,
+      "end_time": 630.6,
+      "duration": 3.0,
+      "dialogue_text": "Pas une trace. On reprendra dès qu'il fera jour."
+    },
+    {
+      "subtitle_index": 62,
+      "start_time": 790.7,
+      "end_time": 794.7,
+      "duration": 4.0,
+      "dialogue_text": "Eh bien, comment tu te sens ? Hé, attendez ! Attendez, j'ai dit !"
+    },
+    {
+      "subtitle_index": 63,
+      "start_time": 801.7,
+      "end_time": 804.7,
+      "duration": 3.0,
+      "dialogue_text": "Je m'appelle Pazu. Je vis seul dans cette maison."
+    },
+    {
+      "subtitle_index": 64,
+      "start_time": 805.7,
+      "end_time": 808.7,
+      "duration": 3.0,
+      "dialogue_text": "Quand j'ai envie de jouer, je leur donne ça."
+    },
+    {
+      "subtitle_index": 65,
+      "start_time": 817.6,
+      "end_time": 820.6,
+      "duration": 3.0,
+      "dialogue_text": "Je suis rassuré... En tout cas, tu as l'air humaine."
+    },
+    {
+      "subtitle_index": 66,
+      "start_time": 820.7,
+      "end_time": 824.6,
+      "duration": 3.8999999999999773,
+      "dialogue_text": "Jusqu’ici, j'avais peur que tu sois un ange ou quelque chose comme ça."
+    },
+    {
+      "subtitle_index": 67,
+      "start_time": 824.6,
+      "end_time": 828.5,
+      "duration": 3.8999999999999773,
+      "dialogue_text": "Merci de m'avoir sauvée. Je m'appelle Shita."
+    },
+    {
+      "subtitle_index": 68,
+      "start_time": 828.6,
+      "end_time": 830.6,
+      "duration": 2.0,
+      "dialogue_text": "Shita... c'est un joli nom."
+    },
+    {
+      "subtitle_index": 69,
+      "start_time": 830.7,
+      "end_time": 833.7,
+      "duration": 3.0,
+      "dialogue_text": "J'ai été surpris de la manière dont tu es tombée du ciel."
+    },
+    {
+      "subtitle_index": 70,
+      "start_time": 833.7,
+      "end_time": 837.7,
+      "duration": 4.0,
+      "dialogue_text": "Je vois... Comment ai-je bien pu être sauvée ?"
+    },
+    {
+      "subtitle_index": 71,
+      "start_time": 837.7,
+      "end_time": 840.7,
+      "duration": 3.0,
+      "dialogue_text": "Après tout, je suis tombée d'un dirigeable."
+    },
+    {
+      "subtitle_index": 72,
+      "start_time": 840.5,
+      "end_time": 842.5,
+      "duration": 2.0,
+      "dialogue_text": "Tu t'en souviens pas ?"
+    },
+    {
+      "subtitle_index": 73,
+      "start_time": 848.5,
+      "end_time": 850.5,
+      "duration": 2.0,
+      "dialogue_text": "Tu peux me montrer ça une minute ?"
+    },
+    {
+      "subtitle_index": 74,
+      "start_time": 851.6,
+      "end_time": 852.6,
+      "duration": 1.0,
+      "dialogue_text": "Ça ?"
+    },
+    {
+      "subtitle_index": 75,
+      "start_time": 855.7,
+      "end_time": 859.7,
+      "duration": 4.0,
+      "dialogue_text": "C'est dans ma famille depuis des générations."
+    },
+    {
+      "subtitle_index": 76,
+      "start_time": 859.6,
+      "end_time": 862.6,
+      "duration": 3.0,
+      "dialogue_text": "Jolie pierre, hein ? Juste une seconde."
+    },
+    {
+      "subtitle_index": 77,
+      "start_time": 873.7,
+      "end_time": 874.7,
+      "duration": 1.0,
+      "dialogue_text": "Attention !"
+    },
+    {
+      "subtitle_index": 78,
+      "start_time": 880.6,
+      "end_time": 880.6,
+      "duration": 0.0,
+      "dialogue_text": "Pazu !"
+    },
+    {
+      "subtitle_index": 79,
+      "start_time": 897.6,
+      "end_time": 900.6,
+      "duration": 3.0,
+      "dialogue_text": "Ça ne vient peut-être pas de la pierre, après tout."
+    },
+    {
+      "subtitle_index": 80,
+      "start_time": 923.5,
+      "end_time": 924.5,
+      "duration": 1.0,
+      "dialogue_text": "Pazu, attention..."
+    },
+    {
+      "subtitle_index": 81,
+      "start_time": 926.8,
+      "end_time": 928.8,
+      "duration": 2.0,
+      "dialogue_text": "Ça va ?"
+    },
+    {
+      "subtitle_index": 82,
+      "start_time": 927.7,
+      "end_time": 928.7,
+      "duration": 1.0,
+      "dialogue_text": "Oui. Et toi ?"
+    },
+    {
+      "subtitle_index": 83,
+      "start_time": 929.5,
+      "end_time": 931.5,
+      "duration": 2.0,
+      "dialogue_text": "Ça va. Ça fait mal ?"
+    },
+    {
+      "subtitle_index": 84,
+      "start_time": 931.6,
+      "end_time": 934.6,
+      "duration": 3.0,
+      "dialogue_text": "Oui. J'ai des maux de tête à cause des poings de mon patron."
+    },
+    {
+      "subtitle_index": 85,
+      "start_time": 940.7,
+      "end_time": 945.7,
+      "duration": 5.0,
+      "dialogue_text": "Ah, oui. Le repas est prêt. Allons manger."
+    },
+    {
+      "subtitle_index": 86,
+      "start_time": 945.6,
+      "end_time": 946.6,
+      "duration": 1.0,
+      "dialogue_text": "Tu peux faire ta toilette au fond."
+    },
+    {
+      "subtitle_index": 87,
+      "start_time": 949.7,
+      "end_time": 952.7,
+      "duration": 3.0,
+      "dialogue_text": "Il y a aussi des serviettes."
+    },
+    {
+      "subtitle_index": 88,
+      "start_time": 950.7,
+      "end_time": 952.7,
+      "duration": 2.0,
+      "dialogue_text": "Merci."
+    },
+    {
+      "subtitle_index": 89,
+      "start_time": 975.7,
+      "end_time": 977.7,
+      "duration": 2.0,
+      "dialogue_text": "Shita !"
+    },
+    {
+      "subtitle_index": 90,
+      "start_time": 977.7,
+      "end_time": 979.7,
+      "duration": 2.0,
+      "dialogue_text": "Shita, tu es prête ?"
+    },
+    {
+      "subtitle_index": 91,
+      "start_time": 988.6,
+      "end_time": 991.6,
+      "duration": 3.0,
+      "dialogue_text": "C'est une photo que mon père a prise d'un dirigeable"
+    },
+    {
+      "subtitle_index": 92,
+      "start_time": 991.7,
+      "end_time": 994.7,
+      "duration": 3.0,
+      "dialogue_text": "Laputa est une île qui flotte dans le ciel."
+    },
+    {
+      "subtitle_index": 93,
+      "start_time": 994.6,
+      "end_time": 995.6,
+      "duration": 1.0,
+      "dialogue_text": "Une île qui flotte dans le ciel ?"
+    },
+    {
+      "subtitle_index": 94,
+      "start_time": 996.5,
+      "end_time": 1001.5,
+      "duration": 5.0,
+      "dialogue_text": "Ouais. Tout le monde dit que c'est une légende... mais mon père l'a vue !"
+    },
+    {
+      "subtitle_index": 95,
+      "start_time": 1038.7,
+      "end_time": 1041.7,
+      "duration": 3.0,
+      "dialogue_text": "C'est la photo qu'il a prise."
+    },
+    {
+      "subtitle_index": 96,
+      "start_time": 1041.6,
+      "end_time": 1046.6,
+      "duration": 5.0,
+      "dialogue_text": "Ils en parlent dans \"Les voyages de Gulliver\", mais c'était juste une histoire"
+    },
+    {
+      "subtitle_index": 97,
+      "start_time": 1046.5,
+      "end_time": 1048.5,
+      "duration": 2.0,
+      "dialogue_text": "Papa l'a dessinée de mémoire."
+    },
+    {
+      "subtitle_index": 98,
+      "start_time": 1049.5,
+      "end_time": 1051.5,
+      "duration": 2.0,
+      "dialogue_text": "Il n'y a personne qui vit là-bas."
+    },
+    {
+      "subtitle_index": 99,
+      "start_time": 1051.6,
+      "end_time": 1053.6,
+      "duration": 2.0,
+      "dialogue_text": "Il paraît qu'elle regorge de trésors."
+    },
+    {
+      "subtitle_index": 100,
+      "start_time": 1053.7,
+      "end_time": 1056.7,
+      "duration": 3.0,
+      "dialogue_text": "Mais personne n'y croit."
+    },
+    {
+      "subtitle_index": 101,
+      "start_time": 1058.6,
+      "end_time": 1061.6,
+      "duration": 3.0,
+      "dialogue_text": "Papa est mort à Sagi, en la cherchant."
+    },
+    {
+      "subtitle_index": 102,
+      "start_time": 1067.5,
+      "end_time": 1070.5,
+      "duration": 3.0,
+      "dialogue_text": "Mais, mon père n'est pas un menteur."
+    },
+    {
+      "subtitle_index": 103,
+      "start_time": 1070.5,
+      "end_time": 1074.5,
+      "duration": 4.0,
+      "dialogue_text": "Un jour je le prouverai ! Je découvrirai Laputa !"
+    },
+    {
+      "subtitle_index": 104,
+      "start_time": 1085.6,
+      "end_time": 1087.6,
+      "duration": 2.0,
+      "dialogue_text": "Une automobile...c'est rare !"
+    },
+    {
+      "subtitle_index": 105,
+      "start_time": 1088.5,
+      "end_time": 1090.5,
+      "duration": 2.0,
+      "dialogue_text": "C'est les pirates."
+    },
+    {
+      "subtitle_index": 106,
+      "start_time": 1090.7,
+      "end_time": 1093.8,
+      "duration": 3.099999999999909,
+      "dialogue_text": "C'est eux qui ont attaqué le dirigeable."
+    },
+    {
+      "subtitle_index": 107,
+      "start_time": 1093.7,
+      "end_time": 1095.7,
+      "duration": 2.0,
+      "dialogue_text": "Ils te recherchent ?"
+    },
+    {
+      "subtitle_index": 108,
+      "start_time": 1095.7,
+      "end_time": 1096.7,
+      "duration": 1.0,
+      "dialogue_text": "Vite, par ici !"
+    },
+    {
+      "subtitle_index": 109,
+      "start_time": 1103.5,
+      "end_time": 1104.5,
+      "duration": 1.0,
+      "dialogue_text": "Bonjour !"
+    },
+    {
+      "subtitle_index": 110,
+      "start_time": 1104.6,
+      "end_time": 1106.6,
+      "duration": 2.0,
+      "dialogue_text": "Hé ! Attends !"
+    },
+    {
+      "subtitle_index": 111,
+      "start_time": 1106.6,
+      "end_time": 1108.6,
+      "duration": 2.0,
+      "dialogue_text": "Quoi ? Je suis pressé !"
+    },
+    {
+      "subtitle_index": 112,
+      "start_time": 1108.6,
+      "end_time": 1111.6,
+      "duration": 3.0,
+      "dialogue_text": "Y a-t'il une petite nouvelle arrivée dans le coin ?"
+    },
+    {
+      "subtitle_index": 113,
+      "start_time": 1111.5,
+      "end_time": 1115.5,
+      "duration": 4.0,
+      "dialogue_text": "Elle est arrivée hier chez le Patron, Baby Madge."
+    },
+    {
+      "subtitle_index": 114,
+      "start_time": 1115.6,
+      "end_time": 1117.6,
+      "duration": 2.0,
+      "dialogue_text": "Mince ! Quelle coïncidence !"
+    },
+    {
+      "subtitle_index": 115,
+      "start_time": 1120.6,
+      "end_time": 1121.8,
+      "duration": 1.2000000000000455,
+      "dialogue_text": "Ils sont après toi, hein."
+    },
+    {
+      "subtitle_index": 116,
+      "start_time": 1123.5,
+      "end_time": 1124.5,
+      "duration": 1.0,
+      "dialogue_text": "Louie ! Une robe !"
+    },
+    {
+      "subtitle_index": 117,
+      "start_time": 1125.5,
+      "end_time": 1128.5,
+      "duration": 3.0,
+      "dialogue_text": "Quoi ? Déguisée ? Dis le à Mama !"
+    },
+    {
+      "subtitle_index": 118,
+      "start_time": 1136.5,
+      "end_time": 1137.5,
+      "duration": 1.0,
+      "dialogue_text": "... Je ne l'ai pas vue."
+    },
+    {
+      "subtitle_index": 119,
+      "start_time": 1137.7,
+      "end_time": 1140.7,
+      "duration": 3.0,
+      "dialogue_text": "Une petite fille mignonne, cheveux bruns avec des tresses ?"
+    },
+    {
+      "subtitle_index": 120,
+      "start_time": 1140.8,
+      "end_time": 1144.8,
+      "duration": 4.0,
+      "dialogue_text": "Patron ! Patron !"
+    },
+    {
+      "subtitle_index": 121,
+      "start_time": 1145.7,
+      "end_time": 1148.7,
+      "duration": 3.0,
+      "dialogue_text": "De leur âge, justement..."
+    },
+    {
+      "subtitle_index": 122,
+      "start_time": 1151.7,
+      "end_time": 1154.7,
+      "duration": 3.0,
+      "dialogue_text": "Frangin ! C'est elle !"
+    },
+    {
+      "subtitle_index": 123,
+      "start_time": 1158.6,
+      "end_time": 1161.6,
+      "duration": 3.0,
+      "dialogue_text": "Ce sont des pirates, ils en ont après cette fille."
+    },
+    {
+      "subtitle_index": 124,
+      "start_time": 1164.6,
+      "end_time": 1166.6,
+      "duration": 2.0,
+      "dialogue_text": "Des pirates ! Regarde !"
+    },
+    {
+      "subtitle_index": 125,
+      "start_time": 1168.6,
+      "end_time": 1170.6,
+      "duration": 2.0,
+      "dialogue_text": "Elle est loin d'ici."
+    },
+    {
+      "subtitle_index": 126,
+      "start_time": 1171.6,
+      "end_time": 1172.6,
+      "duration": 1.0,
+      "dialogue_text": "Nous l'aurons."
+    },
+    {
+      "subtitle_index": 127,
+      "start_time": 1172.7,
+      "end_time": 1174.0,
+      "duration": 1.2999999999999545,
+      "dialogue_text": "Pirates, hein ?"
+    },
+    {
+      "subtitle_index": 128,
+      "start_time": 1174.1,
+      "end_time": 1174.9,
+      "duration": 0.8000000000001819,
+      "dialogue_text": "Le clan Dora."
+    },
+    {
+      "subtitle_index": 129,
+      "start_time": 1174.9,
+      "end_time": 1178.8,
+      "duration": 3.8999999999998636,
+      "dialogue_text": "Laissez la tranquille. Nous n'avons rien."
+    },
+    {
+      "subtitle_index": 130,
+      "start_time": 1179.5,
+      "end_time": 1179.5,
+      "duration": 0.0,
+      "dialogue_text": "Mama !"
+    },
+    {
+      "subtitle_index": 131,
+      "start_time": 1179.7,
+      "end_time": 1181.7,
+      "duration": 2.0,
+      "dialogue_text": "Sors par derrière !"
+    },
+    {
+      "subtitle_index": 132,
+      "start_time": 1180.8,
+      "end_time": 1183.7,
+      "duration": 2.900000000000091,
+      "dialogue_text": "Je veux me battre aussi !"
+    },
+    {
+      "subtitle_index": 133,
+      "start_time": 1182.7,
+      "end_time": 1185.7,
+      "duration": 3.0,
+      "dialogue_text": "Ils ont des armes."
+    },
+    {
+      "subtitle_index": 134,
+      "start_time": 1184.6,
+      "end_time": 1185.6,
+      "duration": 1.0,
+      "dialogue_text": "Mais..."
+    },
+    {
+      "subtitle_index": 135,
+      "start_time": 1186.6,
+      "end_time": 1188.6,
+      "duration": 2.0,
+      "dialogue_text": "Tu veux être un bon garçon ? Protège-la."
+    },
+    {
+      "subtitle_index": 136,
+      "start_time": 1191.7,
+      "end_time": 1193.7,
+      "duration": 2.0,
+      "dialogue_text": "De toute façon, nous l'aurons d'une façon ou d'une autre."
+    },
+    {
+      "subtitle_index": 137,
+      "start_time": 1193.6,
+      "end_time": 1196.6,
+      "duration": 3.0,
+      "dialogue_text": "Tu crois être un homme ? Prouve-le avec tes poings."
+    },
+    {
+      "subtitle_index": 138,
+      "start_time": 1196.6,
+      "end_time": 1197.6,
+      "duration": 1.0,
+      "dialogue_text": "Très bien."
+    },
+    {
+      "subtitle_index": 139,
+      "start_time": 1198.6,
+      "end_time": 1200.7,
+      "duration": 2.1000000000001364,
+      "dialogue_text": "Vas-y frangin !"
+    },
+    {
+      "subtitle_index": 140,
+      "start_time": 1212.5,
+      "end_time": 1214.5,
+      "duration": 2.0,
+      "dialogue_text": "Oh, allez... montre-lui Duffy !"
+    },
+    {
+      "subtitle_index": 141,
+      "start_time": 1222.7,
+      "end_time": 1224.7,
+      "duration": 2.0,
+      "dialogue_text": "Whaou..."
+    },
+    {
+      "subtitle_index": 142,
+      "start_time": 1226.7,
+      "end_time": 1228.7,
+      "duration": 2.0,
+      "dialogue_text": "Et qui va recoudre ça ?"
+    },
+    {
+      "subtitle_index": 143,
+      "start_time": 1247.5,
+      "end_time": 1249.5,
+      "duration": 2.0,
+      "dialogue_text": "Frangin, n'abandonne pas !"
+    },
+    {
+      "subtitle_index": 144,
+      "start_time": 1256.5,
+      "end_time": 1257.5,
+      "duration": 1.0,
+      "dialogue_text": "Allez ! Allez !"
+    },
+    {
+      "subtitle_index": 145,
+      "start_time": 1284.6,
+      "end_time": 1287.6,
+      "duration": 3.0,
+      "dialogue_text": "Ils pensent m'avoir comme ça ! Suivez-les !"
+    },
+    {
+      "subtitle_index": 146,
+      "start_time": 1295.7,
+      "end_time": 1296.7,
+      "duration": 1.0,
+      "dialogue_text": "Attrapez-les !"
+    },
+    {
+      "subtitle_index": 147,
+      "start_time": 1300.7,
+      "end_time": 1301.7,
+      "duration": 1.0,
+      "dialogue_text": "Partons !"
+    },
+    {
+      "subtitle_index": 148,
+      "start_time": 1303.6,
+      "end_time": 1305.6,
+      "duration": 2.0,
+      "dialogue_text": "Pazu, tu es tombé du lit ce matin ?"
+    },
+    {
+      "subtitle_index": 149,
+      "start_time": 1305.7,
+      "end_time": 1307.7,
+      "duration": 2.0,
+      "dialogue_text": "On est pourchassé."
+    },
+    {
+      "subtitle_index": 150,
+      "start_time": 1311.6,
+      "end_time": 1313.7,
+      "duration": 2.1000000000001364,
+      "dialogue_text": "- C'est le clan Dora. - Des pirates ?"
+    },
+    {
+      "subtitle_index": 151,
+      "start_time": 1313.7,
+      "end_time": 1315.7,
+      "duration": 2.0,
+      "dialogue_text": "Allons jusqu'a la prochaine ville, et on ira voir la police."
+    },
+    {
+      "subtitle_index": 152,
+      "start_time": 1315.7,
+      "end_time": 1318.7,
+      "duration": 3.0,
+      "dialogue_text": "Très bien. Remplis la chaudière !"
+    },
+    {
+      "subtitle_index": 153,
+      "start_time": 1329.6,
+      "end_time": 1332.6,
+      "duration": 3.0,
+      "dialogue_text": "Stupides fils... Grouillez-vous et montez !"
+    },
+    {
+      "subtitle_index": 154,
+      "start_time": 1332.7,
+      "end_time": 1334.7,
+      "duration": 2.0,
+      "dialogue_text": "Mais la fille est dedans."
+    },
+    {
+      "subtitle_index": 155,
+      "start_time": 1334.7,
+      "end_time": 1337.7,
+      "duration": 3.0,
+      "dialogue_text": "Elle est sortie par derrière. Allons-y."
+    },
+    {
+      "subtitle_index": 156,
+      "start_time": 1340.7,
+      "end_time": 1341.7,
+      "duration": 1.0,
+      "dialogue_text": "Attendez !"
+    },
+    {
+      "subtitle_index": 157,
+      "start_time": 1368.6,
+      "end_time": 1370.6,
+      "duration": 2.0,
+      "dialogue_text": "Pazu, ils nous poursuivent encore !"
+    },
+    {
+      "subtitle_index": 158,
+      "start_time": 1371.7,
+      "end_time": 1373.7,
+      "duration": 2.0,
+      "dialogue_text": "On peut pas aller plus vite ?"
+    },
+    {
+      "subtitle_index": 159,
+      "start_time": 1374.5,
+      "end_time": 1376.5,
+      "duration": 2.0,
+      "dialogue_text": "Elle est un peu vieille."
+    },
+    {
+      "subtitle_index": 160,
+      "start_time": 1379.5,
+      "end_time": 1380.5,
+      "duration": 1.0,
+      "dialogue_text": "Changeons de place !"
+    },
+    {
+      "subtitle_index": 161,
+      "start_time": 1389.7,
+      "end_time": 1391.7,
+      "duration": 2.0,
+      "dialogue_text": "Mama, je vais tomber !"
+    },
+    {
+      "subtitle_index": 162,
+      "start_time": 1406.7,
+      "end_time": 1408.7,
+      "duration": 2.0,
+      "dialogue_text": "Plus vite. Ils gagnent du terrain sur nous !"
+    },
+    {
+      "subtitle_index": 163,
+      "start_time": 1411.7,
+      "end_time": 1413.7,
+      "duration": 2.0,
+      "dialogue_text": "Plus vite !"
+    },
+    {
+      "subtitle_index": 164,
+      "start_time": 1414.5,
+      "end_time": 1415.5,
+      "duration": 1.0,
+      "dialogue_text": "Shita, par là !"
+    },
+    {
+      "subtitle_index": 165,
+      "start_time": 1417.6,
+      "end_time": 1419.6,
+      "duration": 2.0,
+      "dialogue_text": "Attention au charbon !"
+    },
+    {
+      "subtitle_index": 166,
+      "start_time": 1430.5,
+      "end_time": 1431.5,
+      "duration": 1.0,
+      "dialogue_text": "N'abandonne pas !"
+    },
+    {
+      "subtitle_index": 167,
+      "start_time": 1439.5,
+      "end_time": 1440.5,
+      "duration": 1.0,
+      "dialogue_text": "Poussez ! Continuez à pousser !"
+    },
+    {
+      "subtitle_index": 168,
+      "start_time": 1452.6,
+      "end_time": 1453.6,
+      "duration": 1.0,
+      "dialogue_text": "Attendez !"
+    },
+    {
+      "subtitle_index": 169,
+      "start_time": 1458.8,
+      "end_time": 1460.8,
+      "duration": 2.0,
+      "dialogue_text": "Ils ne peuvent aller nulle part."
+    },
+    {
+      "subtitle_index": 170,
+      "start_time": 1460.7,
+      "end_time": 1463.7,
+      "duration": 3.0,
+      "dialogue_text": "Ne restez pas comme ça, dégagez-moi ce truc de la voie !"
+    },
+    {
+      "subtitle_index": 171,
+      "start_time": 1466.6,
+      "end_time": 1468.6,
+      "duration": 2.0,
+      "dialogue_text": "Là... Ça va vite !"
+    },
+    {
+      "subtitle_index": 172,
+      "start_time": 1468.6,
+      "end_time": 1470.6,
+      "duration": 2.0,
+      "dialogue_text": "Je vais le faire."
+    },
+    {
+      "subtitle_index": 173,
+      "start_time": 1469.5,
+      "end_time": 1470.5,
+      "duration": 1.0,
+      "dialogue_text": "Nous le ferons ensemble..."
+    },
+    {
+      "subtitle_index": 174,
+      "start_time": 1477.5,
+      "end_time": 1477.5,
+      "duration": 0.0,
+      "dialogue_text": "Attendez !"
+    },
+    {
+      "subtitle_index": 175,
+      "start_time": 1482.7,
+      "end_time": 1484.7,
+      "duration": 2.0,
+      "dialogue_text": "C'est eux, Mama. Qu'est-ce qu'on fait ?"
+    },
+    {
+      "subtitle_index": 176,
+      "start_time": 1484.7,
+      "end_time": 1487.7,
+      "duration": 3.0,
+      "dialogue_text": "Je ne vais pas abandonner maintenant ! Bougez-vous !"
+    },
+    {
+      "subtitle_index": 177,
+      "start_time": 1501.7,
+      "end_time": 1505.7,
+      "duration": 4.0,
+      "dialogue_text": "On est bloqué. C'est l'armée."
+    },
+    {
+      "subtitle_index": 178,
+      "start_time": 1511.5,
+      "end_time": 1516.5,
+      "duration": 5.0,
+      "dialogue_text": "Eh, aidez ces enfants. Ils sont poursuivis par les pirates."
+    },
+    {
+      "subtitle_index": 179,
+      "start_time": 1528.7,
+      "end_time": 1529.7,
+      "duration": 1.0,
+      "dialogue_text": "Adieu."
+    },
+    {
+      "subtitle_index": 180,
+      "start_time": 1530.7,
+      "end_time": 1531.7,
+      "duration": 1.0,
+      "dialogue_text": "Attends !"
+    },
+    {
+      "subtitle_index": 181,
+      "start_time": 1536.6,
+      "end_time": 1538.6,
+      "duration": 2.0,
+      "dialogue_text": "Stop ! Arrêtez ou je tire !"
+    },
+    {
+      "subtitle_index": 182,
+      "start_time": 1544.5,
+      "end_time": 1546.5,
+      "duration": 2.0,
+      "dialogue_text": "Un tank de l'armée !"
+    },
+    {
+      "subtitle_index": 183,
+      "start_time": 1545.5,
+      "end_time": 1547.5,
+      "duration": 2.0,
+      "dialogue_text": "On s'en fiche ! Fonce !"
+    },
+    {
+      "subtitle_index": 184,
+      "start_time": 1549.6,
+      "end_time": 1551.6,
+      "duration": 2.0,
+      "dialogue_text": "Shita, quel est le problème ? !"
+    },
+    {
+      "subtitle_index": 185,
+      "start_time": 1551.7,
+      "end_time": 1552.7,
+      "duration": 1.0,
+      "dialogue_text": "Rien !"
+    },
+    {
+      "subtitle_index": 186,
+      "start_time": 1594.6,
+      "end_time": 1598.6,
+      "duration": 4.0,
+      "dialogue_text": "Ils vont tomber ! Silence et regardez bien !"
+    },
+    {
+      "subtitle_index": 187,
+      "start_time": 1595.7,
+      "end_time": 1598.7,
+      "duration": 3.0,
+      "dialogue_text": "Silence et regardez bien !"
+    },
+    {
+      "subtitle_index": 188,
+      "start_time": 1622.7,
+      "end_time": 1624.7,
+      "duration": 2.0,
+      "dialogue_text": "On flotte !"
+    },
+    {
+      "subtitle_index": 189,
+      "start_time": 1630.7,
+      "end_time": 1632.7,
+      "duration": 2.0,
+      "dialogue_text": "Vous avez vu ? Le pouvoir de la Lévistone !"
+    },
+    {
+      "subtitle_index": 190,
+      "start_time": 1635.6,
+      "end_time": 1639.5,
+      "duration": 3.900000000000091,
+      "dialogue_text": "C'était bien cette pierre après tout ! Stupéfiant !"
+    },
+    {
+      "subtitle_index": 191,
+      "start_time": 1654.7,
+      "end_time": 1657.7,
+      "duration": 3.0,
+      "dialogue_text": "C'est bon. On va descendre jusqu'en bas."
+    },
+    {
+      "subtitle_index": 192,
+      "start_time": 1663.7,
+      "end_time": 1665.7,
+      "duration": 2.0,
+      "dialogue_text": "STUPEFIANT ! Je la veux !"
+    },
+    {
+      "subtitle_index": 193,
+      "start_time": 1666.5,
+      "end_time": 1667.5,
+      "duration": 1.0,
+      "dialogue_text": "Feu !"
+    },
+    {
+      "subtitle_index": 194,
+      "start_time": 1675.7,
+      "end_time": 1678.7,
+      "duration": 3.0,
+      "dialogue_text": "Excellent ! Je vais l'avoir entre les mains !"
+    },
+    {
+      "subtitle_index": 195,
+      "start_time": 1701.6,
+      "end_time": 1702.8,
+      "duration": 1.2000000000000455,
+      "dialogue_text": "Elle s'éteint."
+    },
+    {
+      "subtitle_index": 196,
+      "start_time": 1702.8,
+      "end_time": 1703.6,
+      "duration": 0.7999999999999545,
+      "dialogue_text": "Hé, attends... !"
+    },
+    {
+      "subtitle_index": 197,
+      "start_time": 1712.6,
+      "end_time": 1715.6,
+      "duration": 3.0,
+      "dialogue_text": "Elle fait comme quand tu es tombée du ciel en flottant, Shita."
+    },
+    {
+      "subtitle_index": 198,
+      "start_time": 1717.5,
+      "end_time": 1719.5,
+      "duration": 2.0,
+      "dialogue_text": "L'entrée a l'air étroite."
+    },
+    {
+      "subtitle_index": 199,
+      "start_time": 1719.8,
+      "end_time": 1723.8,
+      "duration": 4.0,
+      "dialogue_text": "J'espère qu'il n'est rien arrivé de mal à ton patron ou au cheminot."
+    },
+    {
+      "subtitle_index": 200,
+      "start_time": 1723.7,
+      "end_time": 1728.7,
+      "duration": 5.0,
+      "dialogue_text": "Ne t'inquiète pas, les mineurs sont des gens très forts. Allons-y."
+    },
+    {
+      "subtitle_index": 201,
+      "start_time": 1732.6,
+      "end_time": 1737.6,
+      "duration": 5.0,
+      "dialogue_text": "Il y a longtemps, de nombreuses galeries ont été creusées dans ces montagnes."
+    },
+    {
+      "subtitle_index": 202,
+      "start_time": 1749.7,
+      "end_time": 1750.7,
+      "duration": 1.0,
+      "dialogue_text": "Là."
+    },
+    {
+      "subtitle_index": 203,
+      "start_time": 1751.6,
+      "end_time": 1754.6,
+      "duration": 3.0,
+      "dialogue_text": "Oh chouette, j'ai terriblement faim."
+    },
+    {
+      "subtitle_index": 204,
+      "start_time": 1754.7,
+      "end_time": 1758.7,
+      "duration": 4.0,
+      "dialogue_text": "Il y a une pomme et deux bonbons pour plus tard."
+    },
+    {
+      "subtitle_index": 205,
+      "start_time": 1758.5,
+      "end_time": 1762.5,
+      "duration": 4.0,
+      "dialogue_text": "Ton sac est magique. Il y a tout ce qu'il faut dedans."
+    },
+    {
+      "subtitle_index": 206,
+      "start_time": 1776.8,
+      "end_time": 1780.8,
+      "duration": 4.0,
+      "dialogue_text": "Gondoa ? C'est dans les montagnes du nord, non ?"
+    },
+    {
+      "subtitle_index": 207,
+      "start_time": 1780.5,
+      "end_time": 1785.5,
+      "duration": 5.0,
+      "dialogue_text": "Oui. Quand mes parents sont morts, ils m'ont laissé la ferme."
+    },
+    {
+      "subtitle_index": 208,
+      "start_time": 1785.6,
+      "end_time": 1787.6,
+      "duration": 2.0,
+      "dialogue_text": "Je m'en suis occupé seule, comme j'ai pu."
+    },
+    {
+      "subtitle_index": 209,
+      "start_time": 1809.8,
+      "end_time": 1813.8,
+      "duration": 4.0,
+      "dialogue_text": "Tu as été kidnappée par cet homme aux lunettes noires ?"
+    },
+    {
+      "subtitle_index": 210,
+      "start_time": 1813.5,
+      "end_time": 1815.5,
+      "duration": 2.0,
+      "dialogue_text": "Celui qu'on a vu tout à l'heure ?"
+    },
+    {
+      "subtitle_index": 211,
+      "start_time": 1816.5,
+      "end_time": 1819.5,
+      "duration": 3.0,
+      "dialogue_text": "Qui peut-il bien être... avec une telle armée..."
+    },
+    {
+      "subtitle_index": 212,
+      "start_time": 1820.6,
+      "end_time": 1823.6,
+      "duration": 3.0,
+      "dialogue_text": "Dora et \"l'homme aux lunettes noires\" semblent vouloir la pierre tous les deux..."
+    },
+    {
+      "subtitle_index": 213,
+      "start_time": 1823.7,
+      "end_time": 1829.7,
+      "duration": 6.0,
+      "dialogue_text": "Je n'ai aucune idée du pouvoir de cette pierre"
+    },
+    {
+      "subtitle_index": 214,
+      "start_time": 1829.5,
+      "end_time": 1832.5,
+      "duration": 3.0,
+      "dialogue_text": "Elle est dans ma famille depuis des générations"
+    },
+    {
+      "subtitle_index": 215,
+      "start_time": 1832.5,
+      "end_time": 1838.5,
+      "duration": 6.0,
+      "dialogue_text": "Mère me l'a donnée quand elle est morte, et m'a dit de ne jamais la montrer à des étrangers."
+    },
+    {
+      "subtitle_index": 216,
+      "start_time": 1841.7,
+      "end_time": 1843.7,
+      "duration": 2.0,
+      "dialogue_text": "Nous sommes tous les deux orphelins."
+    },
+    {
+      "subtitle_index": 217,
+      "start_time": 1843.8,
+      "end_time": 1848.8,
+      "duration": 5.0,
+      "dialogue_text": "Pardon de t'avoir entraîné dans cette histoire, Pazu."
+    },
+    {
+      "subtitle_index": 218,
+      "start_time": 1848.5,
+      "end_time": 1851.6,
+      "duration": 3.099999999999909,
+      "dialogue_text": "T'en fais pas. Quand tu es tombée du ciel, mon coeur martelait,"
+    },
+    {
+      "subtitle_index": 219,
+      "start_time": 1851.6,
+      "end_time": 1854.6,
+      "duration": 3.0,
+      "dialogue_text": "J'ai su que c'était le début de quelque chose de merveilleux."
+    },
+    {
+      "subtitle_index": 220,
+      "start_time": 1868.7,
+      "end_time": 1871.7,
+      "duration": 3.0,
+      "dialogue_text": "Des lutins... ce sont des lutins..."
+    },
+    {
+      "subtitle_index": 221,
+      "start_time": 1871.5,
+      "end_time": 1874.5,
+      "duration": 3.0,
+      "dialogue_text": "Grand-papa Pomu ! T'inquiète pas... C'est quelqu'un de super gentil."
+    },
+    {
+      "subtitle_index": 222,
+      "start_time": 1876.5,
+      "end_time": 1877.5,
+      "duration": 1.0,
+      "dialogue_text": "On est perdu !"
+    },
+    {
+      "subtitle_index": 223,
+      "start_time": 1878.6,
+      "end_time": 1881.6,
+      "duration": 3.0,
+      "dialogue_text": "Ce lutin ressemble à Pazu...."
+    },
+    {
+      "subtitle_index": 224,
+      "start_time": 1882.7,
+      "end_time": 1886.7,
+      "duration": 4.0,
+      "dialogue_text": "et il y a aussi une petite fille lutine, je vois."
+    },
+    {
+      "subtitle_index": 225,
+      "start_time": 1886.6,
+      "end_time": 1888.6,
+      "duration": 2.0,
+      "dialogue_text": "Nous sommes poursuivis par les pirates..."
+    },
+    {
+      "subtitle_index": 226,
+      "start_time": 1889.5,
+      "end_time": 1891.6,
+      "duration": 2.099999999999909,
+      "dialogue_text": "...et par l'armée, aussi."
+    },
+    {
+      "subtitle_index": 227,
+      "start_time": 1893.6,
+      "end_time": 1895.6,
+      "duration": 2.0,
+      "dialogue_text": "Bien... Intrépide, hein..."
+    },
+    {
+      "subtitle_index": 228,
+      "start_time": 1906.6,
+      "end_time": 1909.6,
+      "duration": 3.0,
+      "dialogue_text": "D'accord, je vais vous aider."
+    },
+    {
+      "subtitle_index": 229,
+      "start_time": 1908.6,
+      "end_time": 1909.6,
+      "duration": 1.0,
+      "dialogue_text": "Merci."
+    },
+    {
+      "subtitle_index": 230,
+      "start_time": 1910.6,
+      "end_time": 1913.6,
+      "duration": 3.0,
+      "dialogue_text": "Grand-père, tu restes tout le temps ici ?"
+    },
+    {
+      "subtitle_index": 231,
+      "start_time": 1914.7,
+      "end_time": 1916.7,
+      "duration": 2.0,
+      "dialogue_text": "C'est impossible !"
+    },
+    {
+      "subtitle_index": 232,
+      "start_time": 1916.7,
+      "end_time": 1920.7,
+      "duration": 4.0,
+      "dialogue_text": "Depuis la nuit dernière, les pierres sont étrangement agitées..."
+    },
+    {
+      "subtitle_index": 233,
+      "start_time": 1920.6,
+      "end_time": 1923.6,
+      "duration": 3.0,
+      "dialogue_text": "J'espère qu'elles vont bientôt se calmer."
+    },
+    {
+      "subtitle_index": 234,
+      "start_time": 1923.6,
+      "end_time": 1925.6,
+      "duration": 2.0,
+      "dialogue_text": "Les pierres font du bruit ?"
+    },
+    {
+      "subtitle_index": 235,
+      "start_time": 1936.6,
+      "end_time": 1938.6,
+      "duration": 2.0,
+      "dialogue_text": "Les pierres ont de petites voix..."
+    },
+    {
+      "subtitle_index": 236,
+      "start_time": 1972.7,
+      "end_time": 1973.7,
+      "duration": 1.0,
+      "dialogue_text": "Whaou."
+    },
+    {
+      "subtitle_index": 237,
+      "start_time": 1974.7,
+      "end_time": 1976.7,
+      "duration": 2.0,
+      "dialogue_text": "Pazu, regarde en haut."
+    },
+    {
+      "subtitle_index": 238,
+      "start_time": 1988.6,
+      "end_time": 1991.6,
+      "duration": 3.0,
+      "dialogue_text": "Mais c'est juste une pierre."
+    },
+    {
+      "subtitle_index": 239,
+      "start_time": 1991.5,
+      "end_time": 1992.5,
+      "duration": 1.0,
+      "dialogue_text": "C'est joli."
+    },
+    {
+      "subtitle_index": 240,
+      "start_time": 1992.6,
+      "end_time": 1995.6,
+      "duration": 3.0,
+      "dialogue_text": "Maintenant, regardez bien."
+    },
+    {
+      "subtitle_index": 241,
+      "start_time": 2005.7,
+      "end_time": 2007.7,
+      "duration": 2.0,
+      "dialogue_text": "C'est fini."
+    },
+    {
+      "subtitle_index": 242,
+      "start_time": 2007.6,
+      "end_time": 2010.6,
+      "duration": 3.0,
+      "dialogue_text": "Il y a des veines de Lévistone à l'intérieur des roches, ici."
+    },
+    {
+      "subtitle_index": 243,
+      "start_time": 2011.5,
+      "end_time": 2012.5,
+      "duration": 1.0,
+      "dialogue_text": "Lévistone ?"
+    },
+    {
+      "subtitle_index": 244,
+      "start_time": 2014.7,
+      "end_time": 2020.7,
+      "duration": 6.0,
+      "dialogue_text": "Ça arrive quand la Lévistone entre en contact avec l'air. Elle se fane et devient une pierre."
+    },
+    {
+      "subtitle_index": 245,
+      "start_time": 2025.5,
+      "end_time": 2026.5,
+      "duration": 1.0,
+      "dialogue_text": "Elle brille."
+    },
+    {
+      "subtitle_index": 246,
+      "start_time": 2027.7,
+      "end_time": 2029.7,
+      "duration": 2.0,
+      "dialogue_text": "Je suis épaté !"
+    },
+    {
+      "subtitle_index": 247,
+      "start_time": 2029.7,
+      "end_time": 2032.7,
+      "duration": 3.0,
+      "dialogue_text": "C'est un cristal pur de Lévistone..."
+    },
+    {
+      "subtitle_index": 248,
+      "start_time": 2032.7,
+      "end_time": 2037.7,
+      "duration": 5.0,
+      "dialogue_text": "Je commence à comprendre maintenant..."
+    },
+    {
+      "subtitle_index": 249,
+      "start_time": 2038.6,
+      "end_time": 2041.6,
+      "duration": 3.0,
+      "dialogue_text": "Voilà pourquoi les pierres étaient si agitées hier au soir !"
+    },
+    {
+      "subtitle_index": 250,
+      "start_time": 2041.5,
+      "end_time": 2044.5,
+      "duration": 3.0,
+      "dialogue_text": "Cette pierre possède un pouvoir mystérieux."
+    },
+    {
+      "subtitle_index": 251,
+      "start_time": 2045.5,
+      "end_time": 2050.5,
+      "duration": 5.0,
+      "dialogue_text": "Seul le peuple de Laputa avait le pouvoir de s'en servir."
+    },
+    {
+      "subtitle_index": 252,
+      "start_time": 2050.7,
+      "end_time": 2052.7,
+      "duration": 2.0,
+      "dialogue_text": "Le peuple de Laputa."
+    },
+    {
+      "subtitle_index": 253,
+      "start_time": 2052.7,
+      "end_time": 2056.7,
+      "duration": 4.0,
+      "dialogue_text": "C'était une île qui flottait jadis dans le ciel, juste au-dessus de l'île de Dekkai."
+    },
+    {
+      "subtitle_index": 254,
+      "start_time": 2056.7,
+      "end_time": 2060.7,
+      "duration": 4.0,
+      "dialogue_text": "Alors Laputa existait vraiment ! Shita, l'île existe."
+    },
+    {
+      "subtitle_index": 255,
+      "start_time": 2061.5,
+      "end_time": 2064.5,
+      "duration": 3.0,
+      "dialogue_text": "Grand-père, où pensez-vous que Laputa se trouve maintenant ?"
+    },
+    {
+      "subtitle_index": 256,
+      "start_time": 2065.8,
+      "end_time": 2067.8,
+      "duration": 2.0,
+      "dialogue_text": "Grand-papa Pomu ?"
+    },
+    {
+      "subtitle_index": 257,
+      "start_time": 2067.8,
+      "end_time": 2072.8,
+      "duration": 5.0,
+      "dialogue_text": "Désolé, peux-tu éloigner cette pierre ? C'est trop pour moi."
+    },
+    {
+      "subtitle_index": 258,
+      "start_time": 2076.5,
+      "end_time": 2078.5,
+      "duration": 2.0,
+      "dialogue_text": "En quelle matière elle est, Grand-papa ?"
+    },
+    {
+      "subtitle_index": 259,
+      "start_time": 2088.5,
+      "end_time": 2091.5,
+      "duration": 3.0,
+      "dialogue_text": "Mon grand-père m'a dit..."
+    },
+    {
+      "subtitle_index": 260,
+      "start_time": 2091.5,
+      "end_time": 2095.5,
+      "duration": 4.0,
+      "dialogue_text": "Quand les pierres s'agitent, Laputa passe au-dessus des mines."
+    },
+    {
+      "subtitle_index": 261,
+      "start_time": 2095.7,
+      "end_time": 2099.7,
+      "duration": 4.0,
+      "dialogue_text": "Donc, si on montait dans le ciel, maintenant, on pourrait voir Laputa !"
+    },
+    {
+      "subtitle_index": 262,
+      "start_time": 2099.7,
+      "end_time": 2103.7,
+      "duration": 4.0,
+      "dialogue_text": "Shita, mon père ne mentait pas !"
+    },
+    {
+      "subtitle_index": 263,
+      "start_time": 2103.6,
+      "end_time": 2107.6,
+      "duration": 4.0,
+      "dialogue_text": "Petite fille... Hum..."
+    },
+    {
+      "subtitle_index": 264,
+      "start_time": 2107.6,
+      "end_time": 2108.6,
+      "duration": 1.0,
+      "dialogue_text": "Oui ?"
+    },
+    {
+      "subtitle_index": 265,
+      "start_time": 2110.5,
+      "end_time": 2118.5,
+      "duration": 8.0,
+      "dialogue_text": "Je parle des pierres aux autres, car c'est comme ça que je vis."
+    },
+    {
+      "subtitle_index": 266,
+      "start_time": 2118.5,
+      "end_time": 2125.5,
+      "duration": 7.0,
+      "dialogue_text": "Ecoute... la pierre peut apporter la chance aux gens, mais aussi le malheur."
+    },
+    {
+      "subtitle_index": 267,
+      "start_time": 2126.7,
+      "end_time": 2134.8,
+      "duration": 8.100000000000364,
+      "dialogue_text": "Quoi d'autre... Cette pierre a été faite par la main de l'homme. Ne l'oublie pas..."
+    },
+    {
+      "subtitle_index": 268,
+      "start_time": 2134.6,
+      "end_time": 2135.6,
+      "duration": 1.0,
+      "dialogue_text": "Ce n'est pas comme ça !!"
+    },
+    {
+      "subtitle_index": 269,
+      "start_time": 2135.8,
+      "end_time": 2139.8,
+      "duration": 4.0,
+      "dialogue_text": "Pour le moment elle lui porte plutôt chance ! Par deux fois Shita a été sauvée par la pierre, non ?"
+    },
+    {
+      "subtitle_index": 270,
+      "start_time": 2139.6,
+      "end_time": 2143.6,
+      "duration": 4.0,
+      "dialogue_text": "C'est génial ! Laputa existe."
+    },
+    {
+      "subtitle_index": 271,
+      "start_time": 2152.4,
+      "end_time": 2155.4,
+      "duration": 3.0,
+      "dialogue_text": "Ils sont partis."
+    },
+    {
+      "subtitle_index": 272,
+      "start_time": 2153.4,
+      "end_time": 2155.4,
+      "duration": 2.0,
+      "dialogue_text": "Retournons au vaisseau, Mama."
+    },
+    {
+      "subtitle_index": 273,
+      "start_time": 2155.4,
+      "end_time": 2159.4,
+      "duration": 4.0,
+      "dialogue_text": "Calme-toi. On va attendre ici pour le moment."
+    },
+    {
+      "subtitle_index": 274,
+      "start_time": 2161.4,
+      "end_time": 2162.4,
+      "duration": 1.0,
+      "dialogue_text": "J'ai faim."
+    },
+    {
+      "subtitle_index": 275,
+      "start_time": 2164.6,
+      "end_time": 2167.6,
+      "duration": 3.0,
+      "dialogue_text": "C'est bon. Allons-y."
+    },
+    {
+      "subtitle_index": 276,
+      "start_time": 2167.4,
+      "end_time": 2169.4,
+      "duration": 2.0,
+      "dialogue_text": "Merci, grand-père."
+    },
+    {
+      "subtitle_index": 277,
+      "start_time": 2168.6,
+      "end_time": 2170.6,
+      "duration": 2.0,
+      "dialogue_text": "Faites attention."
+    },
+    {
+      "subtitle_index": 278,
+      "start_time": 2190.4,
+      "end_time": 2192.4,
+      "duration": 2.0,
+      "dialogue_text": "Quels nuages magnifiques..."
+    },
+    {
+      "subtitle_index": 279,
+      "start_time": 2208.5,
+      "end_time": 2213.5,
+      "duration": 5.0,
+      "dialogue_text": "Dire que quelque part, cachée derrière ces nuages, l'île est en train de flotter..."
+    },
+    {
+      "subtitle_index": 280,
+      "start_time": 2215.4,
+      "end_time": 2218.4,
+      "duration": 3.0,
+      "dialogue_text": "Je le ferai ! Je jure que je trouverai Laputa !"
+    },
+    {
+      "subtitle_index": 281,
+      "start_time": 2218.5,
+      "end_time": 2219.5,
+      "duration": 1.0,
+      "dialogue_text": "Pazu..."
+    },
+    {
+      "subtitle_index": 282,
+      "start_time": 2220.5,
+      "end_time": 2223.5,
+      "duration": 3.0,
+      "dialogue_text": "Il y a quelque chose que je ne t'ai toujours pas dit..."
+    },
+    {
+      "subtitle_index": 283,
+      "start_time": 2224.5,
+      "end_time": 2227.5,
+      "duration": 3.0,
+      "dialogue_text": "Il y a un vieux nom secret dans ma famille."
+    },
+    {
+      "subtitle_index": 284,
+      "start_time": 2227.4,
+      "end_time": 2231.4,
+      "duration": 4.0,
+      "dialogue_text": "Quand j'ai hérité de cette pierre, j'ai hérité aussi d'un nom..."
+    },
+    {
+      "subtitle_index": 285,
+      "start_time": 2232.4,
+      "end_time": 2235.4,
+      "duration": 3.0,
+      "dialogue_text": "Mon nom d'héritage est Lucita..."
+    },
+    {
+      "subtitle_index": 286,
+      "start_time": 2235.4,
+      "end_time": 2238.4,
+      "duration": 3.0,
+      "dialogue_text": "Lucita Toelle Ul Laputa."
+    },
+    {
+      "subtitle_index": 287,
+      "start_time": 2238.6,
+      "end_time": 2245.1,
+      "duration": 6.5,
+      "dialogue_text": "Laputa ! et... !"
+    },
+    {
+      "subtitle_index": 288,
+      "start_time": 2245.4,
+      "end_time": 2246.4,
+      "duration": 1.0,
+      "dialogue_text": "C'est l'armée ! Cours, Shita !"
+    },
+    {
+      "subtitle_index": 289,
+      "start_time": 2252.6,
+      "end_time": 2253.6,
+      "duration": 1.0,
+      "dialogue_text": "Cours jusqu'à la grotte !"
+    },
+    {
+      "subtitle_index": 290,
+      "start_time": 2256.5,
+      "end_time": 2257.5,
+      "duration": 1.0,
+      "dialogue_text": "Ne bougez plus !"
+    },
+    {
+      "subtitle_index": 291,
+      "start_time": 2257.6,
+      "end_time": 2259.6,
+      "duration": 2.0,
+      "dialogue_text": "Qu'est-ce que vous faites ?"
+    },
+    {
+      "subtitle_index": 292,
+      "start_time": 2261.3,
+      "end_time": 2262.5,
+      "duration": 1.199999999999818,
+      "dialogue_text": "Pazu ! Lâchez-moi !"
+    },
+    {
+      "subtitle_index": 293,
+      "start_time": 2270.4,
+      "end_time": 2271.3,
+      "duration": 0.900000000000091,
+      "dialogue_text": "Nous les avons attrapés, monsieur."
+    },
+    {
+      "subtitle_index": 294,
+      "start_time": 2271.5,
+      "end_time": 2273.5,
+      "duration": 2.0,
+      "dialogue_text": "Ils nous ont donné beaucoup de travail."
+    },
+    {
+      "subtitle_index": 295,
+      "start_time": 2307.6,
+      "end_time": 2309.6,
+      "duration": 2.0,
+      "dialogue_text": "Ouvrez ! Ouvrez !"
+    },
+    {
+      "subtitle_index": 296,
+      "start_time": 2353.6,
+      "end_time": 2354.6,
+      "duration": 1.0,
+      "dialogue_text": "C'est trop lent."
+    },
+    {
+      "subtitle_index": 297,
+      "start_time": 2355.4,
+      "end_time": 2358.4,
+      "duration": 3.0,
+      "dialogue_text": "Elle parlera dès que nous la torturerons !"
+    },
+    {
+      "subtitle_index": 298,
+      "start_time": 2358.6,
+      "end_time": 2361.6,
+      "duration": 3.0,
+      "dialogue_text": "C'est une mauvaise habitude du gouvernement,"
+    },
+    {
+      "subtitle_index": 299,
+      "start_time": 2361.6,
+      "end_time": 2365.6,
+      "duration": 4.0,
+      "dialogue_text": "Précipiter les choses et se planter, votre Excellence."
+    },
+    {
+      "subtitle_index": 300,
+      "start_time": 2365.6,
+      "end_time": 2370.6,
+      "duration": 5.0,
+      "dialogue_text": "Si nous mobilisons nos troupes en premier, Dora ne nous surprendra pas."
+    },
+    {
+      "subtitle_index": 301,
+      "start_time": 2371.4,
+      "end_time": 2374.0,
+      "duration": 2.599999999999909,
+      "dialogue_text": "Votre Excellence, les messages codés ont été déchiffrés."
+    },
+    {
+      "subtitle_index": 302,
+      "start_time": 2374.1,
+      "end_time": 2374.9,
+      "duration": 0.8000000000001819,
+      "dialogue_text": "Quoi ?!"
+    },
+    {
+      "subtitle_index": 303,
+      "start_time": 2375.5,
+      "end_time": 2378.5,
+      "duration": 3.0,
+      "dialogue_text": "C'est un travail pour mes agents."
+    },
+    {
+      "subtitle_index": 304,
+      "start_time": 2378.5,
+      "end_time": 2382.5,
+      "duration": 4.0,
+      "dialogue_text": "Votre Excellence n'a plus qu’à déplacer ses troupes au bon moment."
+    },
+    {
+      "subtitle_index": 305,
+      "start_time": 2384.6,
+      "end_time": 2389.6,
+      "duration": 5.0,
+      "dialogue_text": "Muska ! Je suis le commandant de la mission de recherche de Laputa. Ne l'oubliez pas !"
+    },
+    {
+      "subtitle_index": 306,
+      "start_time": 2389.5,
+      "end_time": 2393.5,
+      "duration": 4.0,
+      "dialogue_text": "Naturellement, et je prends mes ordres directement du gouvernement. Ne l'oubliez pas."
+    },
+    {
+      "subtitle_index": 307,
+      "start_time": 2397.4,
+      "end_time": 2399.4,
+      "duration": 2.0,
+      "dialogue_text": "Imbécile, de quoi vous mêlez-vous !"
+    },
+    {
+      "subtitle_index": 308,
+      "start_time": 2417.5,
+      "end_time": 2418.5,
+      "duration": 1.0,
+      "dialogue_text": "Vous avez bien dormi ?"
+    },
+    {
+      "subtitle_index": 309,
+      "start_time": 2418.7,
+      "end_time": 2421.7,
+      "duration": 3.0,
+      "dialogue_text": "Où est Pazu ? Je veux voir Pazu !"
+    },
+    {
+      "subtitle_index": 310,
+      "start_time": 2421.5,
+      "end_time": 2423.5,
+      "duration": 2.0,
+      "dialogue_text": "Vous n'aimez pas la dernière mode ?"
+    },
+    {
+      "subtitle_index": 311,
+      "start_time": 2423.7,
+      "end_time": 2429.7,
+      "duration": 6.0,
+      "dialogue_text": "Ne vous en faites pas pour lui. Sa tête est plus dure que la mienne."
+    },
+    {
+      "subtitle_index": 312,
+      "start_time": 2429.4,
+      "end_time": 2431.4,
+      "duration": 2.0,
+      "dialogue_text": "Entrez, il y à là quelque chose que je veux vous montrer."
+    },
+    {
+      "subtitle_index": 313,
+      "start_time": 2446.7,
+      "end_time": 2448.7,
+      "duration": 2.0,
+      "dialogue_text": "Entrez."
+    },
+    {
+      "subtitle_index": 314,
+      "start_time": 2466.7,
+      "end_time": 2468.7,
+      "duration": 2.0,
+      "dialogue_text": "Qu'est ce que... ?"
+    },
+    {
+      "subtitle_index": 315,
+      "start_time": 2468.6,
+      "end_time": 2472.6,
+      "duration": 4.0,
+      "dialogue_text": "Sa puissance de destruction est terrible. C'est un robot-soldat."
+    },
+    {
+      "subtitle_index": 316,
+      "start_time": 2472.5,
+      "end_time": 2476.5,
+      "duration": 4.0,
+      "dialogue_text": "Si cet objet n'était pas tombé du ciel, personne ne croirait à Laputa."
+    },
+    {
+      "subtitle_index": 317,
+      "start_time": 2493.7,
+      "end_time": 2496.6,
+      "duration": 2.900000000000091,
+      "dialogue_text": "Ceci n'a pas été fait à la surface de la terre."
+    },
+    {
+      "subtitle_index": 318,
+      "start_time": 2497.4,
+      "end_time": 2500.5,
+      "duration": 3.099999999999909,
+      "dialogue_text": "Sa puissance de feu est inimaginable."
+    },
+    {
+      "subtitle_index": 319,
+      "start_time": 2500.5,
+      "end_time": 2504.5,
+      "duration": 4.0,
+      "dialogue_text": "Et son corps... métal ? Céramique ? Nos scientifiques ne savent toujours pas."
+    },
+    {
+      "subtitle_index": 320,
+      "start_time": 2504.5,
+      "end_time": 2509.5,
+      "duration": 5.0,
+      "dialogue_text": "Regardez bien ceci... n'ayez pas peur, il n’a jamais fonctionné depuis sa découverte."
+    },
+    {
+      "subtitle_index": 321,
+      "start_time": 2515.6,
+      "end_time": 2516.6,
+      "duration": 1.0,
+      "dialogue_text": "Là..."
+    },
+    {
+      "subtitle_index": 322,
+      "start_time": 2522.7,
+      "end_time": 2526.7,
+      "duration": 4.0,
+      "dialogue_text": "Le même symbole qui était sur la vieille cheminée dans votre maison..."
+    },
+    {
+      "subtitle_index": 323,
+      "start_time": 2527.5,
+      "end_time": 2529.5,
+      "duration": 2.0,
+      "dialogue_text": "...et sur ce collier."
+    },
+    {
+      "subtitle_index": 324,
+      "start_time": 2529.6,
+      "end_time": 2533.6,
+      "duration": 4.0,
+      "dialogue_text": "Cette pierre ne fonctionnera pas, excepté dans vos mains."
+    },
+    {
+      "subtitle_index": 325,
+      "start_time": 2535.5,
+      "end_time": 2541.5,
+      "duration": 6.0,
+      "dialogue_text": "Elle vous protège jusqu'à ce que vous décidiez de retourner sur Laputa, elle vous montrera alors la voie."
+    },
+    {
+      "subtitle_index": 326,
+      "start_time": 2541.7,
+      "end_time": 2544.7,
+      "duration": 3.0,
+      "dialogue_text": "Mais, je ne sais rien !"
+    },
+    {
+      "subtitle_index": 327,
+      "start_time": 2545.4,
+      "end_time": 2549.0,
+      "duration": 3.599999999999909,
+      "dialogue_text": "Si vous voulez la pierre, prenez-la. Mais laissez-nous tranquilles."
+    },
+    {
+      "subtitle_index": 328,
+      "start_time": 2553.5,
+      "end_time": 2558.6,
+      "duration": 5.099999999999909,
+      "dialogue_text": "Vous pensez que Laputa est un genre \"d’île au trésor\", pas vrai ?"
+    },
+    {
+      "subtitle_index": 329,
+      "start_time": 2558.6,
+      "end_time": 2562.6,
+      "duration": 4.0,
+      "dialogue_text": "Laputa vole en raison d'une connaissance scientifique impressionnante."
+    },
+    {
+      "subtitle_index": 330,
+      "start_time": 2562.5,
+      "end_time": 2566.4,
+      "duration": 3.900000000000091,
+      "dialogue_text": "Par le passé la surface de la terre était gouvernée par un empire de la peur."
+    },
+    {
+      "subtitle_index": 331,
+      "start_time": 2567.6,
+      "end_time": 2573.6,
+      "duration": 6.0,
+      "dialogue_text": "Si une chose pareille se trouve encore dans le ciel, ne serait-ce pas un danger pour la paix ?"
+    },
+    {
+      "subtitle_index": 332,
+      "start_time": 2573.6,
+      "end_time": 2578.7,
+      "duration": 5.099999999999909,
+      "dialogue_text": "Je pense que tu comprends. Je voudrais que tu m'aides."
+    },
+    {
+      "subtitle_index": 333,
+      "start_time": 2578.7,
+      "end_time": 2584.7,
+      "duration": 6.0,
+      "dialogue_text": "On ne peut localiser Laputa qu'avec l'aide de cette pierre. Tu dois sûrement connaître une incantation ou quelque chose comme ça ?"
+    },
+    {
+      "subtitle_index": 334,
+      "start_time": 2584.5,
+      "end_time": 2588.5,
+      "duration": 4.0,
+      "dialogue_text": "Je ne sais vraiment rien ! Laissez-moi voir Pazu."
+    },
+    {
+      "subtitle_index": 335,
+      "start_time": 2588.7,
+      "end_time": 2595.7,
+      "duration": 7.0,
+      "dialogue_text": "Je n'aime pas être trop dramatique, mais la vie de ce jeune homme est entre vos mains..."
+    },
+    {
+      "subtitle_index": 336,
+      "start_time": 2597.6,
+      "end_time": 2601.6,
+      "duration": 4.0,
+      "dialogue_text": "Si vous nous aidez, je le libèrerai,"
+    },
+    {
+      "subtitle_index": 337,
+      "start_time": 2601.7,
+      "end_time": 2606.7,
+      "duration": 5.0,
+      "dialogue_text": "Lucita Toelle Ul Laputa."
+    },
+    {
+      "subtitle_index": 338,
+      "start_time": 2607.5,
+      "end_time": 2609.5,
+      "duration": 2.0,
+      "dialogue_text": "Comment connaissez-vous ce nom ?"
+    },
+    {
+      "subtitle_index": 339,
+      "start_time": 2609.5,
+      "end_time": 2612.5,
+      "duration": 3.0,
+      "dialogue_text": "\"Ul\" veut dire Roi en Laputan. \"Toelle\" veut dire vrai.."
+    },
+    {
+      "subtitle_index": 340,
+      "start_time": 2612.6,
+      "end_time": 2617.6,
+      "duration": 5.0,
+      "dialogue_text": "Vous êtes le successeur légitime de la famille royale de Laputa, la Reine Lucita."
+    },
+    {
+      "subtitle_index": 341,
+      "start_time": 2636.6,
+      "end_time": 2637.6,
+      "duration": 1.0,
+      "dialogue_text": "Sortez d'ici."
+    },
+    {
+      "subtitle_index": 342,
+      "start_time": 2642.4,
+      "end_time": 2643.4,
+      "duration": 1.0,
+      "dialogue_text": "Pazu, ils t'ont fait mal ?"
+    },
+    {
+      "subtitle_index": 343,
+      "start_time": 2643.6,
+      "end_time": 2646.6,
+      "duration": 3.0,
+      "dialogue_text": "Ça va, mais toi ? Il ne t'ont pas fait de mal ?"
+    },
+    {
+      "subtitle_index": 344,
+      "start_time": 2646.7,
+      "end_time": 2650.7,
+      "duration": 4.0,
+      "dialogue_text": "Pazu, j'avais tort à ton sujet. S'il te plaît, pardonne-moi."
+    },
+    {
+      "subtitle_index": 345,
+      "start_time": 2650.6,
+      "end_time": 2656.6,
+      "duration": 6.0,
+      "dialogue_text": "Je ne savais pas que tu t'étais battu pour la protéger des pirates"
+    },
+    {
+      "subtitle_index": 346,
+      "start_time": 2656.5,
+      "end_time": 2657.5,
+      "duration": 1.0,
+      "dialogue_text": "Shita... quoi ?"
+    },
+    {
+      "subtitle_index": 347,
+      "start_time": 2658.4,
+      "end_time": 2661.4,
+      "duration": 3.0,
+      "dialogue_text": "Pazu, pardonne-moi... oublie Laputa."
+    },
+    {
+      "subtitle_index": 348,
+      "start_time": 2662.7,
+      "end_time": 2663.7,
+      "duration": 1.0,
+      "dialogue_text": "Quoi ?"
+    },
+    {
+      "subtitle_index": 349,
+      "start_time": 2663.7,
+      "end_time": 2669.7,
+      "duration": 6.0,
+      "dialogue_text": "L'armée va enquêter sur Laputa avec l'aide de Shita."
+    },
+    {
+      "subtitle_index": 350,
+      "start_time": 2669.6,
+      "end_time": 2672.6,
+      "duration": 3.0,
+      "dialogue_text": "Je comprends tes sentiments, mais j'aimerais que tu passes outre, pour un moment."
+    },
+    {
+      "subtitle_index": 351,
+      "start_time": 2672.6,
+      "end_time": 2675.6,
+      "duration": 3.0,
+      "dialogue_text": "Shita... c'est vrai ? Mais..."
+    },
+    {
+      "subtitle_index": 352,
+      "start_time": 2675.5,
+      "end_time": 2680.5,
+      "duration": 5.0,
+      "dialogue_text": "Pardonne-moi de t'avoir ennuyé. Merci. Je ne t'oublierai jamais, Pazu."
+    },
+    {
+      "subtitle_index": 353,
+      "start_time": 2680.5,
+      "end_time": 2684.5,
+      "duration": 4.0,
+      "dialogue_text": "C'est impossible... Shita... tu m'avais pourtant promis... ?"
+    },
+    {
+      "subtitle_index": 354,
+      "start_time": 2684.5,
+      "end_time": 2685.5,
+      "duration": 1.0,
+      "dialogue_text": "Au revoir."
+    },
+    {
+      "subtitle_index": 355,
+      "start_time": 2686.6,
+      "end_time": 2687.6,
+      "duration": 1.0,
+      "dialogue_text": "Attends ! Shita"
+    },
+    {
+      "subtitle_index": 356,
+      "start_time": 2688.4,
+      "end_time": 2690.4,
+      "duration": 2.0,
+      "dialogue_text": "Si tu veux être un homme, alors écoute ta raison !"
+    },
+    {
+      "subtitle_index": 357,
+      "start_time": 2701.4,
+      "end_time": 2705.4,
+      "duration": 4.0,
+      "dialogue_text": "C'est peu, mais c'est de bon cœur. Prends ça et va t'en.."
+    },
+    {
+      "subtitle_index": 358,
+      "start_time": 2742.6,
+      "end_time": 2747.6,
+      "duration": 5.0,
+      "dialogue_text": "Rappellez-vous les mots qui activent la pierre..."
+    },
+    {
+      "subtitle_index": 359,
+      "start_time": 2747.6,
+      "end_time": 2751.6,
+      "duration": 4.0,
+      "dialogue_text": "Si vous tenez votre promesse, vous serez libérée aussi."
+    },
+    {
+      "subtitle_index": 360,
+      "start_time": 2778.4,
+      "end_time": 2781.4,
+      "duration": 3.0,
+      "dialogue_text": "Maman, c'est Pazu. Pazu est revenu !"
+    },
+    {
+      "subtitle_index": 361,
+      "start_time": 2786.5,
+      "end_time": 2790.5,
+      "duration": 4.0,
+      "dialogue_text": "J'étais inquiète. Personne ne t'avait vu depuis hier."
+    },
+    {
+      "subtitle_index": 362,
+      "start_time": 2791.5,
+      "end_time": 2792.3,
+      "duration": 0.8000000000001819,
+      "dialogue_text": "Qu'est t-il arrivé à la petite fille ?"
+    },
+    {
+      "subtitle_index": 363,
+      "start_time": 2792.4,
+      "end_time": 2795.6,
+      "duration": 3.199999999999818,
+      "dialogue_text": "Elle va bien."
+    },
+    {
+      "subtitle_index": 364,
+      "start_time": 2831.5,
+      "end_time": 2833.5,
+      "duration": 2.0,
+      "dialogue_text": "Laissez moi partir ! Qu'est ce que vous faites ? !"
+    },
+    {
+      "subtitle_index": 365,
+      "start_time": 2834.5,
+      "end_time": 2836.5,
+      "duration": 2.0,
+      "dialogue_text": "ne t’agite pas."
+    },
+    {
+      "subtitle_index": 366,
+      "start_time": 2836.5,
+      "end_time": 2838.5,
+      "duration": 2.0,
+      "dialogue_text": "On t'attendait, mon garçon."
+    },
+    {
+      "subtitle_index": 367,
+      "start_time": 2838.6,
+      "end_time": 2839.6,
+      "duration": 1.0,
+      "dialogue_text": "Sortez !"
+    },
+    {
+      "subtitle_index": 368,
+      "start_time": 2841.7,
+      "end_time": 2844.7,
+      "duration": 3.0,
+      "dialogue_text": "C'est ma maison !"
+    },
+    {
+      "subtitle_index": 369,
+      "start_time": 2844.5,
+      "end_time": 2849.5,
+      "duration": 5.0,
+      "dialogue_text": "Quelle fougue pour un jeune homme qui n'est même pas capable de protéger une fille."
+    },
+    {
+      "subtitle_index": 370,
+      "start_time": 2849.7,
+      "end_time": 2851.7,
+      "duration": 2.0,
+      "dialogue_text": "Regarde tout le pognon qu'il a !"
+    },
+    {
+      "subtitle_index": 371,
+      "start_time": 2852.4,
+      "end_time": 2854.4,
+      "duration": 2.0,
+      "dialogue_text": "Comment ! Tu as vendu la fille pour l'argent ?"
+    },
+    {
+      "subtitle_index": 372,
+      "start_time": 2854.6,
+      "end_time": 2856.6,
+      "duration": 2.0,
+      "dialogue_text": "C'est faux ! Je ne ferais jamais une chose comme ça !"
+    },
+    {
+      "subtitle_index": 373,
+      "start_time": 2856.7,
+      "end_time": 2860.6,
+      "duration": 3.900000000000091,
+      "dialogue_text": "Et comment as-tu eu cette argent ?"
+    },
+    {
+      "subtitle_index": 374,
+      "start_time": 2860.7,
+      "end_time": 2865.7,
+      "duration": 5.0,
+      "dialogue_text": "Shita m'a dit de le prendre ! Alors je..."
+    },
+    {
+      "subtitle_index": 375,
+      "start_time": 2866.6,
+      "end_time": 2869.6,
+      "duration": 3.0,
+      "dialogue_text": "Tu l'as pris et tu as fui...."
+    },
+    {
+      "subtitle_index": 376,
+      "start_time": 2869.7,
+      "end_time": 2871.6,
+      "duration": 1.900000000000091,
+      "dialogue_text": "Et tu te dis un homme ?"
+    },
+    {
+      "subtitle_index": 377,
+      "start_time": 2872.7,
+      "end_time": 2876.7,
+      "duration": 4.0,
+      "dialogue_text": "Vous n'êtes pas mieux ! Vous n'avez pas essayé d'attraper Shita, vous ?"
+    },
+    {
+      "subtitle_index": 378,
+      "start_time": 2876.5,
+      "end_time": 2881.5,
+      "duration": 5.0,
+      "dialogue_text": "Naturellement. Les pirates recherchent les trésors !"
+    },
+    {
+      "subtitle_index": 379,
+      "start_time": 2881.6,
+      "end_time": 2885.6,
+      "duration": 4.0,
+      "dialogue_text": "Bizarre, ces types... Pourquoi gardent-ils la fille ?"
+    },
+    {
+      "subtitle_index": 380,
+      "start_time": 2890.5,
+      "end_time": 2895.5,
+      "duration": 5.0,
+      "dialogue_text": "Tu ne crois tout de même pas qu'ils vont la laisser en vie ?"
+    },
+    {
+      "subtitle_index": 381,
+      "start_time": 2898.6,
+      "end_time": 2905.6,
+      "duration": 7.0,
+      "dialogue_text": "Idiot ! Ils l'ont forcée à faire un marché pour te sauver !"
+    },
+    {
+      "subtitle_index": 382,
+      "start_time": 2905.5,
+      "end_time": 2907.5,
+      "duration": 2.0,
+      "dialogue_text": "Tu comprends tout, toi, hein Mama ?"
+    },
+    {
+      "subtitle_index": 383,
+      "start_time": 2907.5,
+      "end_time": 2910.5,
+      "duration": 3.0,
+      "dialogue_text": "Je n'ai pas été une femme pendant 50 ans sans rien apprendre."
+    },
+    {
+      "subtitle_index": 384,
+      "start_time": 2910.4,
+      "end_time": 2914.4,
+      "duration": 4.0,
+      "dialogue_text": "Tu ne vois pas ? Elle t’a sauvé la vie."
+    },
+    {
+      "subtitle_index": 385,
+      "start_time": 2914.4,
+      "end_time": 2917.5,
+      "duration": 3.099999999999909,
+      "dialogue_text": "Ça me brise le cœur. C'est du vrai amour, et tu ne verses même pas une larme."
+    },
+    {
+      "subtitle_index": 386,
+      "start_time": 2917.5,
+      "end_time": 2920.5,
+      "duration": 3.0,
+      "dialogue_text": "Vous autres, si vous vous marriez, trouvez une fille qui soit comme elle."
+    },
+    {
+      "subtitle_index": 387,
+      "start_time": 2922.5,
+      "end_time": 2925.5,
+      "duration": 3.0,
+      "dialogue_text": "Tu veux dire... pas comme toi, Mama ?"
+    },
+    {
+      "subtitle_index": 388,
+      "start_time": 2924.4,
+      "end_time": 2925.4,
+      "duration": 1.0,
+      "dialogue_text": "Comme cette fille ?"
+    },
+    {
+      "subtitle_index": 389,
+      "start_time": 2936.5,
+      "end_time": 2939.5,
+      "duration": 3.0,
+      "dialogue_text": "Bon... toujours ce bon vieux code !"
+    },
+    {
+      "subtitle_index": 390,
+      "start_time": 2940.4,
+      "end_time": 2942.4,
+      "duration": 2.0,
+      "dialogue_text": "Ils ont appelé un vaisseau de guerre."
+    },
+    {
+      "subtitle_index": 391,
+      "start_time": 2951.5,
+      "end_time": 2955.5,
+      "duration": 4.0,
+      "dialogue_text": "Ils partent avec la gamine. Si nous ne nous dépêchons pas, nous les perdrons !"
+    },
+    {
+      "subtitle_index": 392,
+      "start_time": 2955.5,
+      "end_time": 2957.5,
+      "duration": 2.0,
+      "dialogue_text": "Magnez-vous le train ! On y va !"
+    },
+    {
+      "subtitle_index": 393,
+      "start_time": 2961.5,
+      "end_time": 2963.5,
+      "duration": 2.0,
+      "dialogue_text": "Vous allez enlever Shita ?"
+    },
+    {
+      "subtitle_index": 394,
+      "start_time": 2963.4,
+      "end_time": 2965.4,
+      "duration": 2.0,
+      "dialogue_text": "La fille ne nous sert à rien. C'est la Lévistone que nous voulons !"
+    },
+    {
+      "subtitle_index": 395,
+      "start_time": 2965.6,
+      "end_time": 2969.5,
+      "duration": 3.900000000000091,
+      "dialogue_text": "Si Shita ne tient pas la pierre, cela ne fonctionnera pas !"
+    },
+    {
+      "subtitle_index": 396,
+      "start_time": 2969.6,
+      "end_time": 2974.6,
+      "duration": 5.0,
+      "dialogue_text": "Tantine, tu me prendrais avec toi ? Je veux sauver Shita."
+    },
+    {
+      "subtitle_index": 397,
+      "start_time": 2974.6,
+      "end_time": 2978.5,
+      "duration": 3.900000000000091,
+      "dialogue_text": "Je te préviens, nous ne te couverons pas si tu viens avec nous, tu devras te débrouiller tout seul."
+    },
+    {
+      "subtitle_index": 398,
+      "start_time": 2978.5,
+      "end_time": 2982.5,
+      "duration": 4.0,
+      "dialogue_text": "D'accord. Faites-moi confiance. Je la protégerai."
+    },
+    {
+      "subtitle_index": 399,
+      "start_time": 2982.6,
+      "end_time": 2985.6,
+      "duration": 3.0,
+      "dialogue_text": "Le trésor de Laputa en vaut la peine ! S'il vous plait..."
+    },
+    {
+      "subtitle_index": 400,
+      "start_time": 2985.7,
+      "end_time": 2988.7,
+      "duration": 3.0,
+      "dialogue_text": "Tu vas la faire pleurer."
+    },
+    {
+      "subtitle_index": 401,
+      "start_time": 2986.6,
+      "end_time": 2988.6,
+      "duration": 2.0,
+      "dialogue_text": "Ferme-la !"
+    },
+    {
+      "subtitle_index": 402,
+      "start_time": 2995.7,
+      "end_time": 2999.7,
+      "duration": 4.0,
+      "dialogue_text": "On ne sait pas si la gamine va nous écouter, pas vrai ?"
+    },
+    {
+      "subtitle_index": 403,
+      "start_time": 3000.6,
+      "end_time": 3003.6,
+      "duration": 3.0,
+      "dialogue_text": "Nous n'aurons pas une deuxième chance."
+    },
+    {
+      "subtitle_index": 404,
+      "start_time": 3002.6,
+      "end_time": 3003.6,
+      "duration": 1.0,
+      "dialogue_text": "Compris."
+    },
+    {
+      "subtitle_index": 405,
+      "start_time": 3003.6,
+      "end_time": 3005.5,
+      "duration": 1.900000000000091,
+      "dialogue_text": "Tu suivras les ordres ?"
+    },
+    {
+      "subtitle_index": 406,
+      "start_time": 3007.6,
+      "end_time": 3010.6,
+      "duration": 3.0,
+      "dialogue_text": "Ne prends pas plus de 40 secondes pour te préparer."
+    },
+    {
+      "subtitle_index": 407,
+      "start_time": 3018.6,
+      "end_time": 3020.6,
+      "duration": 2.0,
+      "dialogue_text": "Attention, tous le monde."
+    },
+    {
+      "subtitle_index": 408,
+      "start_time": 3028.5,
+      "end_time": 3031.5,
+      "duration": 3.0,
+      "dialogue_text": "Attache-toi avec cette ceinture. Vous tous, attendez sur le vaisseau."
+    },
+    {
+      "subtitle_index": 409,
+      "start_time": 3064.4,
+      "end_time": 3068.4,
+      "duration": 4.0,
+      "dialogue_text": "C'est un excellent vaisseau. Muska, la fille a parlé ?"
+    },
+    {
+      "subtitle_index": 410,
+      "start_time": 3068.5,
+      "end_time": 3070.5,
+      "duration": 2.0,
+      "dialogue_text": "J'ai besoin d'un peu plus de temps."
+    },
+    {
+      "subtitle_index": 411,
+      "start_time": 3070.4,
+      "end_time": 3076.4,
+      "duration": 6.0,
+      "dialogue_text": "On aura tout le temps une fois en l'air. Nous partons à l'aube avec la fille."
+    },
+    {
+      "subtitle_index": 412,
+      "start_time": 3096.6,
+      "end_time": 3099.6,
+      "duration": 3.0,
+      "dialogue_text": "Dépêchez-vous ! Il va bientôt faire jour !"
+    },
+    {
+      "subtitle_index": 413,
+      "start_time": 3131.4,
+      "end_time": 3133.4,
+      "duration": 2.0,
+      "dialogue_text": "C'est mauvais."
+    },
+    {
+      "subtitle_index": 414,
+      "start_time": 3136.5,
+      "end_time": 3140.4,
+      "duration": 3.900000000000091,
+      "dialogue_text": "Allons Shita, je vais t'apprendre quelque chose."
+    },
+    {
+      "subtitle_index": 415,
+      "start_time": 3140.5,
+      "end_time": 3144.6,
+      "duration": 4.099999999999909,
+      "dialogue_text": "Une formule pour les moments difficiles."
+    },
+    {
+      "subtitle_index": 416,
+      "start_time": 3142.7,
+      "end_time": 3144.7,
+      "duration": 2.0,
+      "dialogue_text": "Un formule ?"
+    },
+    {
+      "subtitle_index": 417,
+      "start_time": 3144.4,
+      "end_time": 3148.4,
+      "duration": 4.0,
+      "dialogue_text": "C'est exact. De très vieux mots secrets."
+    },
+    {
+      "subtitle_index": 418,
+      "start_time": 3148.6,
+      "end_time": 3154.6,
+      "duration": 6.0,
+      "dialogue_text": "Lete Latobarita Ulse Aliaros Baru Netoreel"
+    },
+    {
+      "subtitle_index": 419,
+      "start_time": 3157.5,
+      "end_time": 3162.5,
+      "duration": 5.0,
+      "dialogue_text": "C'est un souhait. \"Lumière, renais\"."
+    },
+    {
+      "subtitle_index": 420,
+      "start_time": 3162.4,
+      "end_time": 3167.5,
+      "duration": 5.099999999999909,
+      "dialogue_text": "Lete Latobarita Ulse Aliaros Baru Netoreel"
+    },
+    {
+      "subtitle_index": 421,
+      "start_time": 3199.5,
+      "end_time": 3200.5,
+      "duration": 1.0,
+      "dialogue_text": "Excellent !"
+    },
+    {
+      "subtitle_index": 422,
+      "start_time": 3207.6,
+      "end_time": 3211.6,
+      "duration": 4.0,
+      "dialogue_text": "C'était dans un vieux manuscrit... la lumière sacrée..."
+    },
+    {
+      "subtitle_index": 423,
+      "start_time": 3211.7,
+      "end_time": 3214.7,
+      "duration": 3.0,
+      "dialogue_text": "Une lumière sacrée ?"
+    },
+    {
+      "subtitle_index": 424,
+      "start_time": 3218.7,
+      "end_time": 3222.7,
+      "duration": 4.0,
+      "dialogue_text": "Quelle sorte d'incantation est-ce ? Dites-moi les mots."
+    },
+    {
+      "subtitle_index": 425,
+      "start_time": 3243.6,
+      "end_time": 3244.6,
+      "duration": 1.0,
+      "dialogue_text": "Il se déplace !"
+    },
+    {
+      "subtitle_index": 426,
+      "start_time": 3250.5,
+      "end_time": 3253.5,
+      "duration": 3.0,
+      "dialogue_text": "Le robot... le robot est vivant ! Allô ? !"
+    },
+    {
+      "subtitle_index": 427,
+      "start_time": 3267.4,
+      "end_time": 3269.4,
+      "duration": 2.0,
+      "dialogue_text": "Sauvez nous ! Il est fou !"
+    },
+    {
+      "subtitle_index": 428,
+      "start_time": 3274.4,
+      "end_time": 3277.4,
+      "duration": 3.0,
+      "dialogue_text": "Il se déplace. Eteignez le feu. C'est le robot !"
+    },
+    {
+      "subtitle_index": 429,
+      "start_time": 3284.4,
+      "end_time": 3285.4,
+      "duration": 1.0,
+      "dialogue_text": "Le robot ? !"
+    },
+    {
+      "subtitle_index": 430,
+      "start_time": 3298.4,
+      "end_time": 3300.4,
+      "duration": 2.0,
+      "dialogue_text": "Où pensez-vous qu'il va ?"
+    },
+    {
+      "subtitle_index": 431,
+      "start_time": 3317.4,
+      "end_time": 3318.4,
+      "duration": 1.0,
+      "dialogue_text": "Stupéfiant !"
+    },
+    {
+      "subtitle_index": 432,
+      "start_time": 3326.5,
+      "end_time": 3327.5,
+      "duration": 1.0,
+      "dialogue_text": "Je vois !"
+    },
+    {
+      "subtitle_index": 433,
+      "start_time": 3329.6,
+      "end_time": 3334.6,
+      "duration": 5.0,
+      "dialogue_text": "C'est cette lumière ! Le repos du robot a été interrompu par la lumière sacrée."
+    },
+    {
+      "subtitle_index": 434,
+      "start_time": 3335.4,
+      "end_time": 3338.4,
+      "duration": 3.0,
+      "dialogue_text": "Il a ouvert la voie de Laputa ! Venez ici !"
+    },
+    {
+      "subtitle_index": 435,
+      "start_time": 3359.5,
+      "end_time": 3360.5,
+      "duration": 1.0,
+      "dialogue_text": "Il peut voler ? !"
+    },
+    {
+      "subtitle_index": 436,
+      "start_time": 3371.6,
+      "end_time": 3372.6,
+      "duration": 1.0,
+      "dialogue_text": "C'est dingue !"
+    },
+    {
+      "subtitle_index": 437,
+      "start_time": 3412.7,
+      "end_time": 3414.7,
+      "duration": 2.0,
+      "dialogue_text": "Il transperce le ciel."
+    },
+    {
+      "subtitle_index": 438,
+      "start_time": 3419.5,
+      "end_time": 3422.5,
+      "duration": 3.0,
+      "dialogue_text": "Laputa est dans la même direction que cette lumière."
+    },
+    {
+      "subtitle_index": 439,
+      "start_time": 3422.6,
+      "end_time": 3424.6,
+      "duration": 2.0,
+      "dialogue_text": "Pas encore prêt ? Dépêchez-vous !"
+    },
+    {
+      "subtitle_index": 440,
+      "start_time": 3424.6,
+      "end_time": 3428.6,
+      "duration": 4.0,
+      "dialogue_text": "De la poudre explosive ? Idiots ! Vous voulez détruire le fort ?"
+    },
+    {
+      "subtitle_index": 441,
+      "start_time": 3430.4,
+      "end_time": 3432.4,
+      "duration": 2.0,
+      "dialogue_text": "Allô ? Allô ? Mais qu'est-ce qui ne va pas ? !"
+    },
+    {
+      "subtitle_index": 442,
+      "start_time": 3433.5,
+      "end_time": 3435.5,
+      "duration": 2.0,
+      "dialogue_text": "C'est bon."
+    },
+    {
+      "subtitle_index": 443,
+      "start_time": 3434.4,
+      "end_time": 3435.4,
+      "duration": 1.0,
+      "dialogue_text": "Connexion établie."
+    },
+    {
+      "subtitle_index": 444,
+      "start_time": 3435.7,
+      "end_time": 3439.7,
+      "duration": 4.0,
+      "dialogue_text": "Ici le capitaine Muska. Le robot a coupé les lignes de transmission."
+    },
+    {
+      "subtitle_index": 445,
+      "start_time": 3440.4,
+      "end_time": 3443.4,
+      "duration": 3.0,
+      "dialogue_text": "Alerte rouge ! Je prends le commandement temporairement."
+    },
+    {
+      "subtitle_index": 446,
+      "start_time": 3443.5,
+      "end_time": 3446.4,
+      "duration": 2.900000000000091,
+      "dialogue_text": "Le robot cherche la fille sur la tour Est."
+    },
+    {
+      "subtitle_index": 447,
+      "start_time": 3446.5,
+      "end_time": 3451.4,
+      "duration": 4.900000000000091,
+      "dialogue_text": "Détruisez-le au moment où il se montrera. Armez les canons. Ne touchez pas la fille."
+    },
+    {
+      "subtitle_index": 448,
+      "start_time": 3457.4,
+      "end_time": 3458.4,
+      "duration": 1.0,
+      "dialogue_text": "Vite ! Vite !"
+    },
+    {
+      "subtitle_index": 449,
+      "start_time": 3480.4,
+      "end_time": 3481.4,
+      "duration": 1.0,
+      "dialogue_text": "Feu !"
+    },
+    {
+      "subtitle_index": 450,
+      "start_time": 3498.7,
+      "end_time": 3499.7,
+      "duration": 1.0,
+      "dialogue_text": "Reculez !"
+    },
+    {
+      "subtitle_index": 451,
+      "start_time": 3503.5,
+      "end_time": 3505.5,
+      "duration": 2.0,
+      "dialogue_text": "Il a son compte ! Bien."
+    },
+    {
+      "subtitle_index": 452,
+      "start_time": 3505.5,
+      "end_time": 3507.5,
+      "duration": 2.0,
+      "dialogue_text": "Prenez la fille !"
+    },
+    {
+      "subtitle_index": 453,
+      "start_time": 3510.7,
+      "end_time": 3512.4,
+      "duration": 1.7000000000002728,
+      "dialogue_text": "Elle est morte ?"
+    },
+    {
+      "subtitle_index": 454,
+      "start_time": 3512.5,
+      "end_time": 3514.5,
+      "duration": 2.0,
+      "dialogue_text": "Hé... debout."
+    },
+    {
+      "subtitle_index": 455,
+      "start_time": 3516.4,
+      "end_time": 3518.4,
+      "duration": 2.0,
+      "dialogue_text": "Elle est juste évanouie."
+    },
+    {
+      "subtitle_index": 456,
+      "start_time": 3517.5,
+      "end_time": 3518.5,
+      "duration": 1.0,
+      "dialogue_text": "Debout !"
+    },
+    {
+      "subtitle_index": 457,
+      "start_time": 3519.6,
+      "end_time": 3520.6,
+      "duration": 1.0,
+      "dialogue_text": "Il a bougé !"
+    },
+    {
+      "subtitle_index": 458,
+      "start_time": 3570.6,
+      "end_time": 3572.6,
+      "duration": 2.0,
+      "dialogue_text": "Que se passe-t-il ? On se croirait en pleine guerre !"
+    },
+    {
+      "subtitle_index": 459,
+      "start_time": 3572.6,
+      "end_time": 3573.6,
+      "duration": 1.0,
+      "dialogue_text": "En avant, Tantine !"
+    },
+    {
+      "subtitle_index": 460,
+      "start_time": 3573.6,
+      "end_time": 3575.7,
+      "duration": 2.099999999999909,
+      "dialogue_text": "Appelle-moi Capitaine !"
+    },
+    {
+      "subtitle_index": 461,
+      "start_time": 3581.7,
+      "end_time": 3583.7,
+      "duration": 2.0,
+      "dialogue_text": "Charles ! Un peu plus bas."
+    },
+    {
+      "subtitle_index": 462,
+      "start_time": 3602.6,
+      "end_time": 3606.6,
+      "duration": 4.0,
+      "dialogue_text": "Stop ! Arrêtez, s'il vous plaît !"
+    },
+    {
+      "subtitle_index": 463,
+      "start_time": 3615.4,
+      "end_time": 3617.4,
+      "duration": 2.0,
+      "dialogue_text": "Mama, le Goliath se déplace !"
+    },
+    {
+      "subtitle_index": 464,
+      "start_time": 3624.5,
+      "end_time": 3627.5,
+      "duration": 3.0,
+      "dialogue_text": "S'ils disparaissent, nous allons finir sous le feu de leurs canons."
+    },
+    {
+      "subtitle_index": 465,
+      "start_time": 3628.4,
+      "end_time": 3630.4,
+      "duration": 2.0,
+      "dialogue_text": "La voilà... c'est Shita."
+    },
+    {
+      "subtitle_index": 466,
+      "start_time": 3629.6,
+      "end_time": 3630.6,
+      "duration": 1.0,
+      "dialogue_text": "Quoi ?"
+    },
+    {
+      "subtitle_index": 467,
+      "start_time": 3632.6,
+      "end_time": 3634.5,
+      "duration": 1.900000000000091,
+      "dialogue_text": "Où ?"
+    },
+    {
+      "subtitle_index": 468,
+      "start_time": 3633.6,
+      "end_time": 3635.6,
+      "duration": 2.0,
+      "dialogue_text": "Droit devant !"
+    },
+    {
+      "subtitle_index": 469,
+      "start_time": 3635.5,
+      "end_time": 3637.5,
+      "duration": 2.0,
+      "dialogue_text": "Elle est en haut de la petite tour !"
+    },
+    {
+      "subtitle_index": 470,
+      "start_time": 3645.6,
+      "end_time": 3649.6,
+      "duration": 4.0,
+      "dialogue_text": "C'est une fille courageuse ! Vous tous, couvrez-nous !"
+    },
+    {
+      "subtitle_index": 471,
+      "start_time": 3664.7,
+      "end_time": 3666.7,
+      "duration": 2.0,
+      "dialogue_text": "Shita ! Viens !"
+    },
+    {
+      "subtitle_index": 472,
+      "start_time": 3670.5,
+      "end_time": 3672.5,
+      "duration": 2.0,
+      "dialogue_text": "Tantine, un peu plus près !"
+    },
+    {
+      "subtitle_index": 473,
+      "start_time": 3743.8,
+      "end_time": 3745.8,
+      "duration": 2.0,
+      "dialogue_text": "Montes !"
+    },
+    {
+      "subtitle_index": 474,
+      "start_time": 3752.0,
+      "end_time": 3755.0,
+      "duration": 3.0,
+      "dialogue_text": "Pazu, c'est notre dernière chance. Attrape-la au passage."
+    },
+    {
+      "subtitle_index": 475,
+      "start_time": 3758.1,
+      "end_time": 3759.1,
+      "duration": 1.0,
+      "dialogue_text": "Allez !"
+    },
+    {
+      "subtitle_index": 476,
+      "start_time": 3761.0,
+      "end_time": 3764.0,
+      "duration": 3.0,
+      "dialogue_text": "Dégagez le passage ! Mince !"
+    },
+    {
+      "subtitle_index": 477,
+      "start_time": 3770.8,
+      "end_time": 3772.8,
+      "duration": 2.0,
+      "dialogue_text": "Mais que fait le Goliath ?"
+    },
+    {
+      "subtitle_index": 478,
+      "start_time": 3779.0,
+      "end_time": 3781.0,
+      "duration": 2.0,
+      "dialogue_text": "Un écran de fumée ?"
+    },
+    {
+      "subtitle_index": 479,
+      "start_time": 3794.7,
+      "end_time": 3796.7,
+      "duration": 2.0,
+      "dialogue_text": "Muska, qu'est-il arrivé au robot ?"
+    },
+    {
+      "subtitle_index": 480,
+      "start_time": 3797.5,
+      "end_time": 3799.5,
+      "duration": 2.0,
+      "dialogue_text": "Le robot a été détruit. La fille s'est échappée."
+    },
+    {
+      "subtitle_index": 481,
+      "start_time": 3799.5,
+      "end_time": 3800.5,
+      "duration": 1.0,
+      "dialogue_text": "Comment ?"
+    },
+    {
+      "subtitle_index": 482,
+      "start_time": 3805.7,
+      "end_time": 3809.7,
+      "duration": 4.0,
+      "dialogue_text": "Fouillez attentivement... Eteignez les feux ! Formez des patrouilles de recherche !"
+    },
+    {
+      "subtitle_index": 483,
+      "start_time": 3823.7,
+      "end_time": 3826.7,
+      "duration": 3.0,
+      "dialogue_text": "Elle n'a pas perdu sa sainte lumière."
+    },
+    {
+      "subtitle_index": 484,
+      "start_time": 3828.6,
+      "end_time": 3830.6,
+      "duration": 2.0,
+      "dialogue_text": "Elle indique toujours la direction de Laputa."
+    },
+    {
+      "subtitle_index": 485,
+      "start_time": 3832.5,
+      "end_time": 3836.5,
+      "duration": 4.0,
+      "dialogue_text": "Informez le général que nous partons pour Laputa."
+    },
+    {
+      "subtitle_index": 486,
+      "start_time": 3873.7,
+      "end_time": 3875.7,
+      "duration": 2.0,
+      "dialogue_text": "Mignonne, n'est ce pas ?"
+    },
+    {
+      "subtitle_index": 487,
+      "start_time": 3875.6,
+      "end_time": 3879.5,
+      "duration": 3.900000000000091,
+      "dialogue_text": "C'est difficile de croire qu'en grandissant, elle va devenir comme Mama."
+    },
+    {
+      "subtitle_index": 488,
+      "start_time": 3884.6,
+      "end_time": 3888.6,
+      "duration": 4.0,
+      "dialogue_text": "La vallée est ici. Contente d'être débarrassée d'une paire aussi inutile."
+    },
+    {
+      "subtitle_index": 489,
+      "start_time": 3890.5,
+      "end_time": 3892.5,
+      "duration": 2.0,
+      "dialogue_text": "Tantine, s'il vous plaît, laissez-nous monter à bord de votre vaisseau."
+    },
+    {
+      "subtitle_index": 490,
+      "start_time": 3892.6,
+      "end_time": 3898.5,
+      "duration": 5.900000000000091,
+      "dialogue_text": "Appelle-moi capitaine ! Tu n’as plus la pierre, pourquoi viendrais-tu ?"
+    },
+    {
+      "subtitle_index": 491,
+      "start_time": 3898.5,
+      "end_time": 3899.6,
+      "duration": 1.099999999999909,
+      "dialogue_text": "Nous vous aiderons."
+    },
+    {
+      "subtitle_index": 492,
+      "start_time": 3899.6,
+      "end_time": 3903.6,
+      "duration": 4.0,
+      "dialogue_text": "Je voudrais voir Laputa de mes yeux."
+    },
+    {
+      "subtitle_index": 493,
+      "start_time": 3910.6,
+      "end_time": 3914.5,
+      "duration": 3.900000000000091,
+      "dialogue_text": "Et s'il n'y a pas de trésor ?"
+    },
+    {
+      "subtitle_index": 494,
+      "start_time": 3914.5,
+      "end_time": 3916.5,
+      "duration": 2.0,
+      "dialogue_text": "En plus, vous n'êtes pas faits pour la vie de pirate..."
+    },
+    {
+      "subtitle_index": 495,
+      "start_time": 3916.7,
+      "end_time": 3918.7,
+      "duration": 2.0,
+      "dialogue_text": "Mama, est-ce qu'elle peut venir ?"
+    },
+    {
+      "subtitle_index": 496,
+      "start_time": 3918.7,
+      "end_time": 3922.6,
+      "duration": 3.900000000000091,
+      "dialogue_text": "S'il y a le moindre problème, je te jetterai à la mer !"
+    },
+    {
+      "subtitle_index": 497,
+      "start_time": 3922.6,
+      "end_time": 3925.6,
+      "duration": 3.0,
+      "dialogue_text": "Hourra ! Une cuisinière !"
+    },
+    {
+      "subtitle_index": 498,
+      "start_time": 3925.7,
+      "end_time": 3927.5,
+      "duration": 1.800000000000182,
+      "dialogue_text": "Elle va faire la vaisselle !"
+    },
+    {
+      "subtitle_index": 499,
+      "start_time": 3927.6,
+      "end_time": 3929.6,
+      "duration": 2.0,
+      "dialogue_text": "Eplucher les patates !"
+    },
+    {
+      "subtitle_index": 500,
+      "start_time": 3934.7,
+      "end_time": 3937.6,
+      "duration": 2.900000000000091,
+      "dialogue_text": "Tu sais faire les puddings ?"
+    },
+    {
+      "subtitle_index": 501,
+      "start_time": 3937.6,
+      "end_time": 3940.4,
+      "duration": 2.800000000000182,
+      "dialogue_text": "J'aime le pâté en croûte !"
+    },
+    {
+      "subtitle_index": 502,
+      "start_time": 3940.5,
+      "end_time": 3943.4,
+      "duration": 2.900000000000091,
+      "dialogue_text": "Et moi ... attendez... j'avalerai n'importe quoi !"
+    },
+    {
+      "subtitle_index": 503,
+      "start_time": 3943.7,
+      "end_time": 3948.7,
+      "duration": 5.0,
+      "dialogue_text": "La ferme ! Vraiment, vous agissez comme des gosses."
+    },
+    {
+      "subtitle_index": 504,
+      "start_time": 3995.5,
+      "end_time": 3996.4,
+      "duration": 0.900000000000091,
+      "dialogue_text": "Attention !"
+    },
+    {
+      "subtitle_index": 505,
+      "start_time": 4000.6,
+      "end_time": 4002.6,
+      "duration": 2.0,
+      "dialogue_text": "C'est du tissu ! Ce vaisseau est fait en tissu !"
+    },
+    {
+      "subtitle_index": 506,
+      "start_time": 4002.7,
+      "end_time": 4003.7,
+      "duration": 1.0,
+      "dialogue_text": "Ne l'abime pas..."
+    },
+    {
+      "subtitle_index": 507,
+      "start_time": 4005.5,
+      "end_time": 4007.5,
+      "duration": 2.0,
+      "dialogue_text": "Ne reste pas là. C'est serré ici."
+    },
+    {
+      "subtitle_index": 508,
+      "start_time": 4014.5,
+      "end_time": 4016.4,
+      "duration": 1.900000000000091,
+      "dialogue_text": "Allez... par ici !"
+    },
+    {
+      "subtitle_index": 509,
+      "start_time": 4016.7,
+      "end_time": 4018.7,
+      "duration": 2.0,
+      "dialogue_text": "Je déteste les fainéants."
+    },
+    {
+      "subtitle_index": 510,
+      "start_time": 4018.7,
+      "end_time": 4020.7,
+      "duration": 2.0,
+      "dialogue_text": "Toi...par là."
+    },
+    {
+      "subtitle_index": 511,
+      "start_time": 4021.6,
+      "end_time": 4023.6,
+      "duration": 2.0,
+      "dialogue_text": "Il ne risque rien. Allez."
+    },
+    {
+      "subtitle_index": 512,
+      "start_time": 4024.5,
+      "end_time": 4026.5,
+      "duration": 2.0,
+      "dialogue_text": "Tu n’es pas là pour t'amuser."
+    },
+    {
+      "subtitle_index": 513,
+      "start_time": 4031.5,
+      "end_time": 4032.5,
+      "duration": 1.0,
+      "dialogue_text": "Quel moteur impressionnant."
+    },
+    {
+      "subtitle_index": 514,
+      "start_time": 4033.5,
+      "end_time": 4036.5,
+      "duration": 3.0,
+      "dialogue_text": "Où est-il passé ? Oncle, Oncle !"
+    },
+    {
+      "subtitle_index": 515,
+      "start_time": 4039.5,
+      "end_time": 4042.5,
+      "duration": 3.0,
+      "dialogue_text": "Oncle, voilà l'assistant que vous cherchiez."
+    },
+    {
+      "subtitle_index": 516,
+      "start_time": 4042.7,
+      "end_time": 4046.7,
+      "duration": 4.0,
+      "dialogue_text": "PAS SI FORT !! Je ne suis pas sourd."
+    },
+    {
+      "subtitle_index": 517,
+      "start_time": 4049.7,
+      "end_time": 4052.7,
+      "duration": 3.0,
+      "dialogue_text": "Il est plus sévère que Mama, fais gaffe."
+    },
+    {
+      "subtitle_index": 518,
+      "start_time": 4057.6,
+      "end_time": 4059.6,
+      "duration": 2.0,
+      "dialogue_text": "C'est trop étroit, ma main ne peut pas passer."
+    },
+    {
+      "subtitle_index": 519,
+      "start_time": 4061.6,
+      "end_time": 4063.4,
+      "duration": 1.800000000000182,
+      "dialogue_text": "C'est ce levier pas vrai ?"
+    },
+    {
+      "subtitle_index": 520,
+      "start_time": 4063.5,
+      "end_time": 4064.5,
+      "duration": 1.0,
+      "dialogue_text": "Quel est ton nom ?"
+    },
+    {
+      "subtitle_index": 521,
+      "start_time": 4067.5,
+      "end_time": 4073.5,
+      "duration": 6.0,
+      "dialogue_text": "La Lévistone pointe à l'est, non ?"
+    },
+    {
+      "subtitle_index": 522,
+      "start_time": 4073.6,
+      "end_time": 4078.6,
+      "duration": 5.0,
+      "dialogue_text": "De la tour j'ai pu voir le soleil se lever. Nous sommes à la saison des moissons."
+    },
+    {
+      "subtitle_index": 523,
+      "start_time": 4078.7,
+      "end_time": 4082.7,
+      "duration": 4.0,
+      "dialogue_text": "Donc le soleil est un petit peu plus au sud du vrai Est, le soleil se couche vers les montagnes."
+    },
+    {
+      "subtitle_index": 524,
+      "start_time": 4082.7,
+      "end_time": 4085.6,
+      "duration": 2.900000000000091,
+      "dialogue_text": "La lumière de Lévistone a croisé le côté gauche du bord du soleil."
+    },
+    {
+      "subtitle_index": 525,
+      "start_time": 4085.6,
+      "end_time": 4088.6,
+      "duration": 3.0,
+      "dialogue_text": "Bonne déduction. Qu'est-ce que tu as ?"
+    },
+    {
+      "subtitle_index": 526,
+      "start_time": 4088.7,
+      "end_time": 4090.7,
+      "duration": 2.0,
+      "dialogue_text": "Je ne reçois rien."
+    },
+    {
+      "subtitle_index": 527,
+      "start_time": 4091.5,
+      "end_time": 4093.5,
+      "duration": 2.0,
+      "dialogue_text": "Bon, ils évitent d'utiliser la radio afin de dissimuler leur position, pas vrai ?"
+    },
+    {
+      "subtitle_index": 528,
+      "start_time": 4093.7,
+      "end_time": 4097.7,
+      "duration": 4.0,
+      "dialogue_text": "Mama, le Goliath se déplace très vite. Qu'est qu'on fait ?"
+    },
+    {
+      "subtitle_index": 529,
+      "start_time": 4097.5,
+      "end_time": 4103.4,
+      "duration": 5.899999999999636,
+      "dialogue_text": "On va les suivre. Si nous utilisons les grandes ailes..."
+    },
+    {
+      "subtitle_index": 530,
+      "start_time": 4103.5,
+      "end_time": 4108.5,
+      "duration": 5.0,
+      "dialogue_text": "20 000 pieds... les réacteurs en action... avec un vent de force dix..."
+    },
+    {
+      "subtitle_index": 531,
+      "start_time": 4109.7,
+      "end_time": 4111.7,
+      "duration": 2.0,
+      "dialogue_text": "Nous le ferons d'une façon ou d'une autre."
+    },
+    {
+      "subtitle_index": 532,
+      "start_time": 4113.6,
+      "end_time": 4118.6,
+      "duration": 5.0,
+      "dialogue_text": "Que tous le monde écoute : On part pour Laputa !"
+    },
+    {
+      "subtitle_index": 533,
+      "start_time": 4118.5,
+      "end_time": 4121.5,
+      "duration": 3.0,
+      "dialogue_text": "Notre vaisseau va commencer une poursuite à grande vitesse."
+    },
+    {
+      "subtitle_index": 534,
+      "start_time": 4121.5,
+      "end_time": 4124.5,
+      "duration": 3.0,
+      "dialogue_text": "Grâce aux vents, nous devrions pouvoir y arriver dès demain."
+    },
+    {
+      "subtitle_index": 535,
+      "start_time": 4124.6,
+      "end_time": 4128.6,
+      "duration": 4.0,
+      "dialogue_text": "Et je donnerais 10 pièces d'or au premier qui la repèrera !"
+    },
+    {
+      "subtitle_index": 536,
+      "start_time": 4128.6,
+      "end_time": 4129.5,
+      "duration": 0.8999999999996362,
+      "dialogue_text": "10 pièces d'or !"
+    },
+    {
+      "subtitle_index": 537,
+      "start_time": 4129.6,
+      "end_time": 4132.6,
+      "duration": 3.0,
+      "dialogue_text": "Laputa est une sorte d'île volante..."
+    },
+    {
+      "subtitle_index": 538,
+      "start_time": 4133.5,
+      "end_time": 4135.5,
+      "duration": 2.0,
+      "dialogue_text": "Il y aura certainement une part de trésor pour tout le monde."
+    },
+    {
+      "subtitle_index": 539,
+      "start_time": 4135.7,
+      "end_time": 4138.7,
+      "duration": 3.0,
+      "dialogue_text": "Donc ! Tous... AU TRAVAIL !"
+    },
+    {
+      "subtitle_index": 540,
+      "start_time": 4146.7,
+      "end_time": 4147.7,
+      "duration": 1.0,
+      "dialogue_text": "Maintenant !"
+    },
+    {
+      "subtitle_index": 541,
+      "start_time": 4155.5,
+      "end_time": 4158.5,
+      "duration": 3.0,
+      "dialogue_text": "Course 98 ! Vitesse 40 !"
+    },
+    {
+      "subtitle_index": 542,
+      "start_time": 4188.5,
+      "end_time": 4191.5,
+      "duration": 3.0,
+      "dialogue_text": "Il n'y a rien à ta taille."
+    },
+    {
+      "subtitle_index": 543,
+      "start_time": 4192.5,
+      "end_time": 4193.5,
+      "duration": 1.0,
+      "dialogue_text": "Mets ça."
+    },
+    {
+      "subtitle_index": 544,
+      "start_time": 4204.6,
+      "end_time": 4205.6,
+      "duration": 1.0,
+      "dialogue_text": "Voilà ton poste."
+    },
+    {
+      "subtitle_index": 545,
+      "start_time": 4217.6,
+      "end_time": 4221.6,
+      "duration": 4.0,
+      "dialogue_text": "Cinq repas par jour. Economise l'eau."
+    },
+    {
+      "subtitle_index": 546,
+      "start_time": 4229.6,
+      "end_time": 4232.6,
+      "duration": 3.0,
+      "dialogue_text": "Fainéants ! Retournez au travail !"
+    },
+    {
+      "subtitle_index": 547,
+      "start_time": 4289.6,
+      "end_time": 4295.6,
+      "duration": 6.0,
+      "dialogue_text": "Désolé, le repas n'est pas encore prêt. C'est mon premier repas sur un vaisseau."
+    },
+    {
+      "subtitle_index": 548,
+      "start_time": 4297.5,
+      "end_time": 4299.5,
+      "duration": 2.0,
+      "dialogue_text": "Vous désirez quelque chose ?"
+    },
+    {
+      "subtitle_index": 549,
+      "start_time": 4304.6,
+      "end_time": 4307.6,
+      "duration": 3.0,
+      "dialogue_text": "J'ai un peu de temps libre, je pourrais peut-être t'aider un peu ?"
+    },
+    {
+      "subtitle_index": 550,
+      "start_time": 4307.6,
+      "end_time": 4311.6,
+      "duration": 4.0,
+      "dialogue_text": "Bien, merci. Voulez-vous faire la vaisselle ?"
+    },
+    {
+      "subtitle_index": 551,
+      "start_time": 4311.6,
+      "end_time": 4312.6,
+      "duration": 1.0,
+      "dialogue_text": "Pas de problème."
+    },
+    {
+      "subtitle_index": 552,
+      "start_time": 4316.6,
+      "end_time": 4319.7,
+      "duration": 3.0999999999994543,
+      "dialogue_text": "Eh... et tu as dit que tu avais mal au dos !"
+    },
+    {
+      "subtitle_index": 553,
+      "start_time": 4319.7,
+      "end_time": 4322.7,
+      "duration": 3.0,
+      "dialogue_text": "J'ai un peu de temps alors, je pensais que je pourrais aider."
+    },
+    {
+      "subtitle_index": 554,
+      "start_time": 4323.7,
+      "end_time": 4327.7,
+      "duration": 4.0,
+      "dialogue_text": "Dégagez !"
+    },
+    {
+      "subtitle_index": 555,
+      "start_time": 4325.5,
+      "end_time": 4327.5,
+      "duration": 2.0,
+      "dialogue_text": "Poussez pas."
+    },
+    {
+      "subtitle_index": 556,
+      "start_time": 4327.7,
+      "end_time": 4329.7,
+      "duration": 2.0,
+      "dialogue_text": "Hé, je peux être utile ?"
+    },
+    {
+      "subtitle_index": 557,
+      "start_time": 4339.5,
+      "end_time": 4344.5,
+      "duration": 5.0,
+      "dialogue_text": "Alors, tu as peur toi aussi ? Ils ont le Goliath avec eux pour les aider..."
+    },
+    {
+      "subtitle_index": 558,
+      "start_time": 4344.5,
+      "end_time": 4345.5,
+      "duration": 1.0,
+      "dialogue_text": "C'est sans espoir."
+    },
+    {
+      "subtitle_index": 559,
+      "start_time": 4346.5,
+      "end_time": 4349.5,
+      "duration": 3.0,
+      "dialogue_text": "C'est l'île de Laputa ! C'est pas merveilleux ?"
+    },
+    {
+      "subtitle_index": 560,
+      "start_time": 4349.7,
+      "end_time": 4352.7,
+      "duration": 3.0,
+      "dialogue_text": "Ce sont sûrement deux bons enfants..."
+    },
+    {
+      "subtitle_index": 561,
+      "start_time": 4352.7,
+      "end_time": 4354.7,
+      "duration": 2.0,
+      "dialogue_text": "Que veux-tu me faire comprendre, stupide vieil homme ?"
+    },
+    {
+      "subtitle_index": 562,
+      "start_time": 4355.5,
+      "end_time": 4359.5,
+      "duration": 4.0,
+      "dialogue_text": "Rien, mais.... tu pourrais me montrer plus de respect."
+    },
+    {
+      "subtitle_index": 563,
+      "start_time": 4359.7,
+      "end_time": 4361.7,
+      "duration": 2.0,
+      "dialogue_text": "Quoi ? !"
+    },
+    {
+      "subtitle_index": 564,
+      "start_time": 4361.4,
+      "end_time": 4363.4,
+      "duration": 2.0,
+      "dialogue_text": "C'est échec et mat, pas vrai ?"
+    },
+    {
+      "subtitle_index": 565,
+      "start_time": 4371.5,
+      "end_time": 4372.5,
+      "duration": 1.0,
+      "dialogue_text": "Humm... Si quelqu'un en veut encore..."
+    },
+    {
+      "subtitle_index": 566,
+      "start_time": 4374.5,
+      "end_time": 4375.5,
+      "duration": 1.0,
+      "dialogue_text": "Encore !"
+    },
+    {
+      "subtitle_index": 567,
+      "start_time": 4394.6,
+      "end_time": 4396.6,
+      "duration": 2.0,
+      "dialogue_text": "Hé ! Lève-toi."
+    },
+    {
+      "subtitle_index": 568,
+      "start_time": 4399.6,
+      "end_time": 4402.6,
+      "duration": 3.0,
+      "dialogue_text": "C'est ton tour. Mets ça, ça caille dehors."
+    },
+    {
+      "subtitle_index": 569,
+      "start_time": 4403.4,
+      "end_time": 4403.9,
+      "duration": 0.5,
+      "dialogue_text": "Faire un tour de garde ?"
+    },
+    {
+      "subtitle_index": 570,
+      "start_time": 4403.9,
+      "end_time": 4404.7,
+      "duration": 0.8000000000001819,
+      "dialogue_text": "Oui."
+    },
+    {
+      "subtitle_index": 571,
+      "start_time": 4410.6,
+      "end_time": 4412.3,
+      "duration": 1.699999999999818,
+      "dialogue_text": "Il fait froid... va en haut."
+    },
+    {
+      "subtitle_index": 572,
+      "start_time": 4420.7,
+      "end_time": 4421.8,
+      "duration": 1.1000000000003638,
+      "dialogue_text": "Je suis la relève."
+    },
+    {
+      "subtitle_index": 573,
+      "start_time": 4421.8,
+      "end_time": 4422.7,
+      "duration": 0.8999999999996362,
+      "dialogue_text": "Merci."
+    },
+    {
+      "subtitle_index": 574,
+      "start_time": 4442.5,
+      "end_time": 4443.5,
+      "duration": 1.0,
+      "dialogue_text": "J'ai eu peur !"
+    },
+    {
+      "subtitle_index": 575,
+      "start_time": 4445.6,
+      "end_time": 4446.6,
+      "duration": 1.0,
+      "dialogue_text": "Que c'est joli !"
+    },
+    {
+      "subtitle_index": 576,
+      "start_time": 4459.5,
+      "end_time": 4460.5,
+      "duration": 1.0,
+      "dialogue_text": "Mets ça."
+    },
+    {
+      "subtitle_index": 577,
+      "start_time": 4464.6,
+      "end_time": 4465.8,
+      "duration": 1.199999999999818,
+      "dialogue_text": "T'arrive pas à dormir ?"
+    },
+    {
+      "subtitle_index": 578,
+      "start_time": 4466.8,
+      "end_time": 4468.7,
+      "duration": 1.8999999999996362,
+      "dialogue_text": "C'est chaud."
+    },
+    {
+      "subtitle_index": 579,
+      "start_time": 4468.7,
+      "end_time": 4470.7,
+      "duration": 2.0,
+      "dialogue_text": "Shita, tu as l'air préoccupée..."
+    },
+    {
+      "subtitle_index": 580,
+      "start_time": 4477.6,
+      "end_time": 4479.6,
+      "duration": 2.0,
+      "dialogue_text": "J'ai peur au-delà des mots."
+    },
+    {
+      "subtitle_index": 581,
+      "start_time": 4480.7,
+      "end_time": 4483.7,
+      "duration": 3.0,
+      "dialogue_text": "En vérité, je ne veux plus aller sur Laputa..."
+    },
+    {
+      "subtitle_index": 582,
+      "start_time": 4483.7,
+      "end_time": 4487.7,
+      "duration": 4.0,
+      "dialogue_text": "J'espère qu'on ne trouvera pas le Goliath..."
+    },
+    {
+      "subtitle_index": 583,
+      "start_time": 4488.7,
+      "end_time": 4493.7,
+      "duration": 5.0,
+      "dialogue_text": "et puis j'ai peur de toutes ces incantations... Elles sont trop étranges et puissantes..."
+    },
+    {
+      "subtitle_index": 584,
+      "start_time": 4493.5,
+      "end_time": 4499.5,
+      "duration": 6.0,
+      "dialogue_text": "Tu veux dire comme ce qui s'est passé avec le robot ? C'était triste, pas vrai ?"
+    },
+    {
+      "subtitle_index": 585,
+      "start_time": 4500.7,
+      "end_time": 4505.7,
+      "duration": 5.0,
+      "dialogue_text": "Et c'est arrivé à cause d'une formule que m'a apprise ma grand-mère..."
+    },
+    {
+      "subtitle_index": 586,
+      "start_time": 4506.5,
+      "end_time": 4509.5,
+      "duration": 3.0,
+      "dialogue_text": "J'ai appris tant d'autres formules..."
+    },
+    {
+      "subtitle_index": 587,
+      "start_time": 4509.7,
+      "end_time": 4514.7,
+      "duration": 5.0,
+      "dialogue_text": "Pour trouver des choses, guérir des maladies, et des mots à ne jamais prononcer."
+    },
+    {
+      "subtitle_index": 588,
+      "start_time": 4514.7,
+      "end_time": 4516.6,
+      "duration": 1.9000000000005457,
+      "dialogue_text": "Des mots à ne jamais prononcer ?"
+    },
+    {
+      "subtitle_index": 589,
+      "start_time": 4516.6,
+      "end_time": 4520.6,
+      "duration": 4.0,
+      "dialogue_text": "Des formules de destruction, et pour accorder la puissance…"
+    },
+    {
+      "subtitle_index": 590,
+      "start_time": 4520.6,
+      "end_time": 4525.6,
+      "duration": 5.0,
+      "dialogue_text": "Elle m'a dit que je devais aussi les connaître mais ne jamais m'en servir."
+    },
+    {
+      "subtitle_index": 591,
+      "start_time": 4525.6,
+      "end_time": 4528.6,
+      "duration": 3.0,
+      "dialogue_text": "Dès que je les ai sus, je n'ai plus réussi à trouver le sommeil."
+    },
+    {
+      "subtitle_index": 592,
+      "start_time": 4529.4,
+      "end_time": 4532.4,
+      "duration": 3.0,
+      "dialogue_text": "Tout ça à cause de la pierre..."
+    },
+    {
+      "subtitle_index": 593,
+      "start_time": 4532.6,
+      "end_time": 4537.6,
+      "duration": 5.0,
+      "dialogue_text": "Elle a toujours été cachée prés du foyer, et n'a jamais été utilisée, sauf pendant les mariages..."
+    },
+    {
+      "subtitle_index": 594,
+      "start_time": 4537.7,
+      "end_time": 4543.6,
+      "duration": 5.900000000000546,
+      "dialogue_text": "Maman, grand-mère, et mon arrière grand-mère... tout le monde la craignait."
+    },
+    {
+      "subtitle_index": 595,
+      "start_time": 4543.6,
+      "end_time": 4545.6,
+      "duration": 2.0,
+      "dialogue_text": "Je voudrais qu'elle n'ait jamais existé..."
+    },
+    {
+      "subtitle_index": 596,
+      "start_time": 4546.5,
+      "end_time": 4550.5,
+      "duration": 4.0,
+      "dialogue_text": "Tu as tort, je t'ai rencontrée grâce à cette pierre."
+    },
+    {
+      "subtitle_index": 597,
+      "start_time": 4551.5,
+      "end_time": 4554.5,
+      "duration": 3.0,
+      "dialogue_text": "Grâce a elle, Laputa ne sera bientôt plus une île perdue..."
+    },
+    {
+      "subtitle_index": 598,
+      "start_time": 4554.6,
+      "end_time": 4559.6,
+      "duration": 5.0,
+      "dialogue_text": "Imagine un peu tout les progrès qu'on pourra faire avec les machines qui s'y trouvent ! Et personne ne l'a vue, sauf mon père."
+    },
+    {
+      "subtitle_index": 599,
+      "start_time": 4560.5,
+      "end_time": 4564.5,
+      "duration": 4.0,
+      "dialogue_text": "Et si Laputa est vraiment une île de la terreur,"
+    },
+    {
+      "subtitle_index": 600,
+      "start_time": 4564.7,
+      "end_time": 4567.7,
+      "duration": 3.0,
+      "dialogue_text": "Elle ne doit pas tomber entre les mains de Muska et des autres."
+    },
+    {
+      "subtitle_index": 601,
+      "start_time": 4567.7,
+      "end_time": 4573.6,
+      "duration": 5.900000000000546,
+      "dialogue_text": "Par contre... Si on s'enfuit maintenant, ils nous poursuivront toute notre vie !"
+    },
+    {
+      "subtitle_index": 602,
+      "start_time": 4573.6,
+      "end_time": 4576.5,
+      "duration": 2.899999999999636,
+      "dialogue_text": "Je ne veux pas faire de toi un pirate."
+    },
+    {
+      "subtitle_index": 603,
+      "start_time": 4576.7,
+      "end_time": 4579.7,
+      "duration": 3.0,
+      "dialogue_text": "Je ne deviendrai pas un pirate."
+    },
+    {
+      "subtitle_index": 604,
+      "start_time": 4579.5,
+      "end_time": 4583.5,
+      "duration": 4.0,
+      "dialogue_text": "Dora comprendra, je pense que c'est vraiment quelqu'un de bien."
+    },
+    {
+      "subtitle_index": 605,
+      "start_time": 4583.7,
+      "end_time": 4587.7,
+      "duration": 4.0,
+      "dialogue_text": "Quand ce sera terminé, je suis sûr qu'elle nous laissera retourner à Gondoa."
+    },
+    {
+      "subtitle_index": 606,
+      "start_time": 4587.7,
+      "end_time": 4592.7,
+      "duration": 5.0,
+      "dialogue_text": "Je veux la voir, la vieille maison où tu es né, et les yaks."
+    },
+    {
+      "subtitle_index": 607,
+      "start_time": 4596.6,
+      "end_time": 4597.6,
+      "duration": 1.0,
+      "dialogue_text": "Qu'est-ce que c'est que ça ? !"
+    },
+    {
+      "subtitle_index": 608,
+      "start_time": 4598.5,
+      "end_time": 4600.5,
+      "duration": 2.0,
+      "dialogue_text": "Sous le vaisseau... là !"
+    },
+    {
+      "subtitle_index": 609,
+      "start_time": 4607.7,
+      "end_time": 4609.7,
+      "duration": 2.0,
+      "dialogue_text": "C'est le Goliath. On est juste au dessus de lui !"
+    },
+    {
+      "subtitle_index": 610,
+      "start_time": 4615.5,
+      "end_time": 4617.5,
+      "duration": 2.0,
+      "dialogue_text": "Alerte à l'équipage !"
+    },
+    {
+      "subtitle_index": 611,
+      "start_time": 4647.6,
+      "end_time": 4650.6,
+      "duration": 3.0,
+      "dialogue_text": "Muska, pourquoi ne pas les avoir poursuivis ? Ils sont partis !"
+    },
+    {
+      "subtitle_index": 612,
+      "start_time": 4650.8,
+      "end_time": 4653.4,
+      "duration": 2.5999999999994543,
+      "dialogue_text": "Pas facile, dans ces nuages."
+    },
+    {
+      "subtitle_index": 613,
+      "start_time": 4653.9,
+      "end_time": 4656.5,
+      "duration": 2.600000000000364,
+      "dialogue_text": "De toute façon, ils peuvent aller très vite."
+    },
+    {
+      "subtitle_index": 614,
+      "start_time": 4657.3,
+      "end_time": 4659.8,
+      "duration": 2.5,
+      "dialogue_text": "Nous somme en course, et tout doit se poursuivre calmement."
+    },
+    {
+      "subtitle_index": 615,
+      "start_time": 4672.2,
+      "end_time": 4675.0,
+      "duration": 2.800000000000182,
+      "dialogue_text": "Par le nord."
+    },
+    {
+      "subtitle_index": 616,
+      "start_time": 4675.0,
+      "end_time": 4680.0,
+      "duration": 5.0,
+      "dialogue_text": "Pazu, on n'a pas le temps. Ecoute ! Si on ne se débarrasse pas du Goliath, on est foutu."
+    },
+    {
+      "subtitle_index": 617,
+      "start_time": 4680.0,
+      "end_time": 4683.0,
+      "duration": 3.0,
+      "dialogue_text": "Tu as de bons yeux. Je veux que tu restes dans la vigie. Si on quitte les nuages, ils nous repèrerons."
+    },
+    {
+      "subtitle_index": 618,
+      "start_time": 4683.1,
+      "end_time": 4684.1,
+      "duration": 1.0,
+      "dialogue_text": "Qu'est-ce que je dois faire ?"
+    },
+    {
+      "subtitle_index": 619,
+      "start_time": 4684.2,
+      "end_time": 4687.9,
+      "duration": 3.699999999999818,
+      "dialogue_text": "La vigie peut se transformer en cerf-volant. Il devrait y avoir une manivelle à l'intérieur."
+    },
+    {
+      "subtitle_index": 620,
+      "start_time": 4688.0,
+      "end_time": 4689.0,
+      "duration": 1.0,
+      "dialogue_text": "Trouve-la !"
+    },
+    {
+      "subtitle_index": 621,
+      "start_time": 4689.1,
+      "end_time": 4692.1,
+      "duration": 3.0,
+      "dialogue_text": "Si tu la tournes dans le sens des aiguilles d'une montre, elle se dépliera."
+    },
+    {
+      "subtitle_index": 622,
+      "start_time": 4693.9,
+      "end_time": 4696.9,
+      "duration": 3.0,
+      "dialogue_text": "Si tu tournes la manivelle du haut, les ailes s'ouvriront !"
+    },
+    {
+      "subtitle_index": 623,
+      "start_time": 4702.2,
+      "end_time": 4706.1,
+      "duration": 3.9000000000005457,
+      "dialogue_text": "Une fois ouvertes, ne reste pas crispé sur le manche. Rappelle-toi de l'accompagner avec ton corps."
+    },
+    {
+      "subtitle_index": 624,
+      "start_time": 4706.5,
+      "end_time": 4708.0,
+      "duration": 1.5,
+      "dialogue_text": "Est-ce que Shita est là ?"
+    },
+    {
+      "subtitle_index": 625,
+      "start_time": 4708.6,
+      "end_time": 4710.2,
+      "duration": 1.5999999999994543,
+      "dialogue_text": "Tu devrais redescendre !"
+    },
+    {
+      "subtitle_index": 626,
+      "start_time": 4710.2,
+      "end_time": 4711.2,
+      "duration": 1.0,
+      "dialogue_text": "Pourquoi ?"
+    },
+    {
+      "subtitle_index": 627,
+      "start_time": 4711.8,
+      "end_time": 4714.0,
+      "duration": 2.199999999999818,
+      "dialogue_text": "POURQUOI ? Parce que tu es une petite fille."
+    },
+    {
+      "subtitle_index": 628,
+      "start_time": 4714.2,
+      "end_time": 4719.2,
+      "duration": 5.0,
+      "dialogue_text": "Tantine, tu es une fille aussi ! En plus, je suis une montagnarde et j'ai de bons yeux."
+    },
+    {
+      "subtitle_index": 629,
+      "start_time": 4720.5,
+      "end_time": 4721.9,
+      "duration": 1.3999999999996362,
+      "dialogue_text": "Pazu est d’accord avec moi !"
+    },
+    {
+      "subtitle_index": 630,
+      "start_time": 4725.2,
+      "end_time": 4729.2,
+      "duration": 4.0,
+      "dialogue_text": "Si vous restez, n'utilisez pas le système de communication."
+    },
+    {
+      "subtitle_index": 631,
+      "start_time": 4731.2,
+      "end_time": 4733.2,
+      "duration": 2.0,
+      "dialogue_text": "Est-ce que c'est le téléphone dont vous parliez, Tantine ?"
+    },
+    {
+      "subtitle_index": 632,
+      "start_time": 4733.1,
+      "end_time": 4734.1,
+      "duration": 1.0,
+      "dialogue_text": "Whaou."
+    },
+    {
+      "subtitle_index": 633,
+      "start_time": 4734.5,
+      "end_time": 4737.5,
+      "duration": 3.0,
+      "dialogue_text": "Oui...essayons. Montons plus haut !"
+    },
+    {
+      "subtitle_index": 634,
+      "start_time": 4737.5,
+      "end_time": 4738.5,
+      "duration": 1.0,
+      "dialogue_text": "Allez !"
+    },
+    {
+      "subtitle_index": 635,
+      "start_time": 4758.6,
+      "end_time": 4759.6,
+      "duration": 1.0,
+      "dialogue_text": "Je ne peux pas le voir."
+    },
+    {
+      "subtitle_index": 636,
+      "start_time": 4759.7,
+      "end_time": 4761.7,
+      "duration": 2.0,
+      "dialogue_text": "Ils ont plongé dans les nuages."
+    },
+    {
+      "subtitle_index": 637,
+      "start_time": 4761.7,
+      "end_time": 4764.7,
+      "duration": 3.0,
+      "dialogue_text": "Soyez prudents. Ils ne doivent pas se retrouver en face de nous !"
+    },
+    {
+      "subtitle_index": 638,
+      "start_time": 4765.5,
+      "end_time": 4766.5,
+      "duration": 1.0,
+      "dialogue_text": "Okay !"
+    },
+    {
+      "subtitle_index": 639,
+      "start_time": 4768.6,
+      "end_time": 4770.6,
+      "duration": 2.0,
+      "dialogue_text": "Accroche-toi bien !"
+    },
+    {
+      "subtitle_index": 640,
+      "start_time": 4776.6,
+      "end_time": 4777.7,
+      "duration": 1.0999999999994543,
+      "dialogue_text": "Qu'est-ce qui ne va pas ? !"
+    },
+    {
+      "subtitle_index": 641,
+      "start_time": 4777.7,
+      "end_time": 4779.7,
+      "duration": 2.0,
+      "dialogue_text": "Une turbulence... ça va !"
+    },
+    {
+      "subtitle_index": 642,
+      "start_time": 4780.6,
+      "end_time": 4782.6,
+      "duration": 2.0,
+      "dialogue_text": "Juste un peu secoués !"
+    },
+    {
+      "subtitle_index": 643,
+      "start_time": 4783.6,
+      "end_time": 4785.6,
+      "duration": 2.0,
+      "dialogue_text": "Oui ! Je vais continuer à chercher."
+    },
+    {
+      "subtitle_index": 644,
+      "start_time": 4786.5,
+      "end_time": 4787.5,
+      "duration": 1.0,
+      "dialogue_text": "Tu as peur ?"
+    },
+    {
+      "subtitle_index": 645,
+      "start_time": 4788.6,
+      "end_time": 4791.6,
+      "duration": 3.0,
+      "dialogue_text": "Je l'ai bien en main maintenant. Le temps est un peu instable."
+    },
+    {
+      "subtitle_index": 646,
+      "start_time": 4795.5,
+      "end_time": 4798.5,
+      "duration": 3.0,
+      "dialogue_text": "Shita, sors la corde de mon sac."
+    },
+    {
+      "subtitle_index": 647,
+      "start_time": 4799.7,
+      "end_time": 4801.7,
+      "duration": 2.0,
+      "dialogue_text": "Attache-nous ensemble avec."
+    },
+    {
+      "subtitle_index": 648,
+      "start_time": 4801.7,
+      "end_time": 4802.7,
+      "duration": 1.0,
+      "dialogue_text": "Okay."
+    },
+    {
+      "subtitle_index": 649,
+      "start_time": 4806.5,
+      "end_time": 4808.5,
+      "duration": 2.0,
+      "dialogue_text": "Le baromètre tombe vite, Mama."
+    },
+    {
+      "subtitle_index": 650,
+      "start_time": 4808.5,
+      "end_time": 4811.1,
+      "duration": 2.600000000000364,
+      "dialogue_text": "Un orage. Quelle chance pourrie."
+    },
+    {
+      "subtitle_index": 651,
+      "start_time": 4811.2,
+      "end_time": 4812.3,
+      "duration": 1.1000000000003638,
+      "dialogue_text": "Combien de temps avant que le soleil revienne ?"
+    },
+    {
+      "subtitle_index": 652,
+      "start_time": 4812.5,
+      "end_time": 4813.5,
+      "duration": 1.0,
+      "dialogue_text": "Une heure !"
+    },
+    {
+      "subtitle_index": 653,
+      "start_time": 4830.5,
+      "end_time": 4831.5,
+      "duration": 1.0,
+      "dialogue_text": "C'est l'aube !"
+    },
+    {
+      "subtitle_index": 654,
+      "start_time": 4832.5,
+      "end_time": 4835.5,
+      "duration": 3.0,
+      "dialogue_text": "Pazu, c'est bizarre... Le soleil se lève de ce côté."
+    },
+    {
+      "subtitle_index": 655,
+      "start_time": 4835.5,
+      "end_time": 4839.5,
+      "duration": 4.0,
+      "dialogue_text": "Je comprends ! On doit aller au nord, pas à l'est ! Le pont !"
+    },
+    {
+      "subtitle_index": 656,
+      "start_time": 4840.5,
+      "end_time": 4841.5,
+      "duration": 1.0,
+      "dialogue_text": "On va au nord, tu dis ? !"
+    },
+    {
+      "subtitle_index": 657,
+      "start_time": 4842.5,
+      "end_time": 4843.5,
+      "duration": 1.0,
+      "dialogue_text": "Le compas pointe à l'est !"
+    },
+    {
+      "subtitle_index": 658,
+      "start_time": 4843.7,
+      "end_time": 4847.7,
+      "duration": 4.0,
+      "dialogue_text": "Le vent a changé ! On est dans la mauvaise direction !"
+    },
+    {
+      "subtitle_index": 659,
+      "start_time": 4847.6,
+      "end_time": 4848.6,
+      "duration": 1.0,
+      "dialogue_text": "Regarde... là-bas !"
+    },
+    {
+      "subtitle_index": 660,
+      "start_time": 4848.6,
+      "end_time": 4850.6,
+      "duration": 2.0,
+      "dialogue_text": "Quel est le problème... Le Goliath ? ?"
+    },
+    {
+      "subtitle_index": 661,
+      "start_time": 4850.7,
+      "end_time": 4853.7,
+      "duration": 3.0,
+      "dialogue_text": "Les nuages ? Ils sont énormes."
+    },
+    {
+      "subtitle_index": 662,
+      "start_time": 4854.5,
+      "end_time": 4855.5,
+      "duration": 1.0,
+      "dialogue_text": "Les nuages ?"
+    },
+    {
+      "subtitle_index": 663,
+      "start_time": 4855.6,
+      "end_time": 4858.7,
+      "duration": 3.0999999999994543,
+      "dialogue_text": "Ils arrivent de là-bas !"
+    },
+    {
+      "subtitle_index": 664,
+      "start_time": 4871.7,
+      "end_time": 4872.7,
+      "duration": 1.0,
+      "dialogue_text": "C'est un château du ciel...."
+    },
+    {
+      "subtitle_index": 665,
+      "start_time": 4872.7,
+      "end_time": 4878.7,
+      "duration": 6.0,
+      "dialogue_text": "C'est un centre de basse pression ! Le vaisseau ne résistera pas au vent. Pleine puissance ! Direction Nord !"
+    },
+    {
+      "subtitle_index": 666,
+      "start_time": 4897.5,
+      "end_time": 4898.5,
+      "duration": 1.0,
+      "dialogue_text": "Ça se rapproche !"
+    },
+    {
+      "subtitle_index": 667,
+      "start_time": 4898.7,
+      "end_time": 4900.7,
+      "duration": 2.0,
+      "dialogue_text": "Très bien ! Essayons !"
+    },
+    {
+      "subtitle_index": 668,
+      "start_time": 4908.5,
+      "end_time": 4909.6,
+      "duration": 1.1000000000003638,
+      "dialogue_text": "Le gouvernail ne veut pas bouger !"
+    },
+    {
+      "subtitle_index": 669,
+      "start_time": 4909.6,
+      "end_time": 4911.6,
+      "duration": 2.0,
+      "dialogue_text": "Toujours ce satané moteur ! Qu'est-ce qui ne va pas ?"
+    },
+    {
+      "subtitle_index": 670,
+      "start_time": 4912.5,
+      "end_time": 4914.5,
+      "duration": 2.0,
+      "dialogue_text": "Dora ! Le moteur va exploser !"
+    },
+    {
+      "subtitle_index": 671,
+      "start_time": 4915.5,
+      "end_time": 4918.5,
+      "duration": 3.0,
+      "dialogue_text": "Je ne veux pas de plaintes ! Fais-le !"
+    },
+    {
+      "subtitle_index": 672,
+      "start_time": 4919.6,
+      "end_time": 4921.6,
+      "duration": 2.0,
+      "dialogue_text": "Sortons des nuages !"
+    },
+    {
+      "subtitle_index": 673,
+      "start_time": 4927.7,
+      "end_time": 4929.7,
+      "duration": 2.0,
+      "dialogue_text": "Shita, c'est l'océan !"
+    },
+    {
+      "subtitle_index": 674,
+      "start_time": 4942.5,
+      "end_time": 4943.5,
+      "duration": 1.0,
+      "dialogue_text": "L'oeil du cyclone. (*ou en japonais : nid du dragon)"
+    },
+    {
+      "subtitle_index": 675,
+      "start_time": 4943.7,
+      "end_time": 4946.7,
+      "duration": 3.0,
+      "dialogue_text": "C'est... l'oeil du cyclone ? !"
+    },
+    {
+      "subtitle_index": 676,
+      "start_time": 4956.7,
+      "end_time": 4960.7,
+      "duration": 4.0,
+      "dialogue_text": "Le vent souffle dans la mauvaise direction, comme disait Papa."
+    },
+    {
+      "subtitle_index": 677,
+      "start_time": 4964.6,
+      "end_time": 4966.6,
+      "duration": 2.0,
+      "dialogue_text": "C'est un mur de vent !"
+    },
+    {
+      "subtitle_index": 678,
+      "start_time": 4967.5,
+      "end_time": 4969.5,
+      "duration": 2.0,
+      "dialogue_text": "Mama, on peut pas sortir !"
+    },
+    {
+      "subtitle_index": 679,
+      "start_time": 4969.6,
+      "end_time": 4971.6,
+      "duration": 2.0,
+      "dialogue_text": "On est aspiré. Le vent ne nous lâche pas."
+    },
+    {
+      "subtitle_index": 680,
+      "start_time": 4971.7,
+      "end_time": 4974.7,
+      "duration": 3.0,
+      "dialogue_text": "Le pont ! Laputa est là !"
+    },
+    {
+      "subtitle_index": 681,
+      "start_time": 4974.6,
+      "end_time": 4975.6,
+      "duration": 1.0,
+      "dialogue_text": "Quoi ?"
+    },
+    {
+      "subtitle_index": 682,
+      "start_time": 4975.7,
+      "end_time": 4979.7,
+      "duration": 4.0,
+      "dialogue_text": "Mon père a vu Laputa dans l'oeil du cyclone."
+    },
+    {
+      "subtitle_index": 683,
+      "start_time": 4979.5,
+      "end_time": 4982.5,
+      "duration": 3.0,
+      "dialogue_text": "Tu es fou ! Si on y rentre, on se fait broyer !"
+    },
+    {
+      "subtitle_index": 684,
+      "start_time": 4983.7,
+      "end_time": 4984.7,
+      "duration": 1.0,
+      "dialogue_text": "Là-bas !"
+    },
+    {
+      "subtitle_index": 685,
+      "start_time": 4988.6,
+      "end_time": 4990.6,
+      "duration": 2.0,
+      "dialogue_text": "Maintenant, ou jamais... !"
+    },
+    {
+      "subtitle_index": 686,
+      "start_time": 5001.7,
+      "end_time": 5006.7,
+      "duration": 5.0,
+      "dialogue_text": "Allons-y, Tantine ! C’est la route que mon père a prise, et il en est revenu !"
+    },
+    {
+      "subtitle_index": 687,
+      "start_time": 5006.6,
+      "end_time": 5009.6,
+      "duration": 3.0,
+      "dialogue_text": "TRES BIEN ! Allons... dans l'oeil du cyclone !"
+    },
+    {
+      "subtitle_index": 688,
+      "start_time": 5021.5,
+      "end_time": 5023.5,
+      "duration": 2.0,
+      "dialogue_text": "Ouais ! On l'a fait !"
+    },
+    {
+      "subtitle_index": 689,
+      "start_time": 5023.7,
+      "end_time": 5026.7,
+      "duration": 3.0,
+      "dialogue_text": "Notre vaisseau est en danger ! Nous devons reculer."
+    },
+    {
+      "subtitle_index": 690,
+      "start_time": 5026.4,
+      "end_time": 5027.4,
+      "duration": 1.0,
+      "dialogue_text": "Non, continuez !"
+    },
+    {
+      "subtitle_index": 691,
+      "start_time": 5028.4,
+      "end_time": 5031.4,
+      "duration": 3.0,
+      "dialogue_text": "La lumière indique toujours le tourbillon au centre des nuages."
+    },
+    {
+      "subtitle_index": 692,
+      "start_time": 5032.7,
+      "end_time": 5036.7,
+      "duration": 4.0,
+      "dialogue_text": "Laputa est à l'intérieur de la tempête. On y va !"
+    },
+    {
+      "subtitle_index": 693,
+      "start_time": 5037.7,
+      "end_time": 5039.7,
+      "duration": 2.0,
+      "dialogue_text": "Il doit y avoir une entrée."
+    },
+    {
+      "subtitle_index": 694,
+      "start_time": 5051.7,
+      "end_time": 5053.7,
+      "duration": 2.0,
+      "dialogue_text": "Accroche-toi, Shita !"
+    },
+    {
+      "subtitle_index": 695,
+      "start_time": 5232.4,
+      "end_time": 5234.4,
+      "duration": 2.0,
+      "dialogue_text": "Shita !"
+    },
+    {
+      "subtitle_index": 696,
+      "start_time": 5234.5,
+      "end_time": 5236.5,
+      "duration": 2.0,
+      "dialogue_text": "Ça va ?"
+    },
+    {
+      "subtitle_index": 697,
+      "start_time": 5241.4,
+      "end_time": 5243.5,
+      "duration": 2.100000000000364,
+      "dialogue_text": "Regarde..."
+    },
+    {
+      "subtitle_index": 698,
+      "start_time": 5257.3,
+      "end_time": 5258.3,
+      "duration": 1.0,
+      "dialogue_text": "Laputa..."
+    },
+    {
+      "subtitle_index": 699,
+      "start_time": 5260.4,
+      "end_time": 5262.4,
+      "duration": 2.0,
+      "dialogue_text": "Désolé !"
+    },
+    {
+      "subtitle_index": 700,
+      "start_time": 5262.4,
+      "end_time": 5265.4,
+      "duration": 3.0,
+      "dialogue_text": "Attends, tout est drôlement calme..."
+    },
+    {
+      "subtitle_index": 701,
+      "start_time": 5269.3,
+      "end_time": 5270.3,
+      "duration": 1.0,
+      "dialogue_text": "Mes mains tremblent."
+    },
+    {
+      "subtitle_index": 702,
+      "start_time": 5310.4,
+      "end_time": 5312.4,
+      "duration": 2.0,
+      "dialogue_text": "Il y a des oiseaux, ici."
+    },
+    {
+      "subtitle_index": 703,
+      "start_time": 5313.3,
+      "end_time": 5316.3,
+      "duration": 3.0,
+      "dialogue_text": "Qu'est-ce que tu crois qu'il est arrivé à tout le monde ?"
+    },
+    {
+      "subtitle_index": 704,
+      "start_time": 5325.8,
+      "end_time": 5327.4,
+      "duration": 1.5999999999994543,
+      "dialogue_text": "Il vient te rencontrer, Shita."
+    },
+    {
+      "subtitle_index": 705,
+      "start_time": 5327.4,
+      "end_time": 5330.0,
+      "duration": 2.600000000000364,
+      "dialogue_text": "Mais je n'ai pas la Lévistone !"
+    },
+    {
+      "subtitle_index": 706,
+      "start_time": 5330.1,
+      "end_time": 5331.3,
+      "duration": 1.199999999999818,
+      "dialogue_text": "Un couteau nous libèrera."
+    },
+    {
+      "subtitle_index": 707,
+      "start_time": 5351.4,
+      "end_time": 5352.4,
+      "duration": 1.0,
+      "dialogue_text": "Qu'est ce que tu fais ! ?"
+    },
+    {
+      "subtitle_index": 708,
+      "start_time": 5352.4,
+      "end_time": 5353.4,
+      "duration": 1.0,
+      "dialogue_text": "Attends !"
+    },
+    {
+      "subtitle_index": 709,
+      "start_time": 5353.5,
+      "end_time": 5358.5,
+      "duration": 5.0,
+      "dialogue_text": "S’il te plait, ne le casse pas. On ne peut pas repartir sans."
+    },
+    {
+      "subtitle_index": 710,
+      "start_time": 5374.2,
+      "end_time": 5375.3,
+      "duration": 1.1000000000003638,
+      "dialogue_text": "C'est un nid d'Hitaki !"
+    },
+    {
+      "subtitle_index": 711,
+      "start_time": 5375.5,
+      "end_time": 5377.5,
+      "duration": 2.0,
+      "dialogue_text": "Il est venu pour ça ?"
+    },
+    {
+      "subtitle_index": 712,
+      "start_time": 5383.3,
+      "end_time": 5385.2,
+      "duration": 1.8999999999996362,
+      "dialogue_text": "Oh, bien... les oeufs ne sont pas cassés."
+    },
+    {
+      "subtitle_index": 713,
+      "start_time": 5386.3,
+      "end_time": 5387.3,
+      "duration": 1.0,
+      "dialogue_text": "Ils n'ont pas peur ?"
+    },
+    {
+      "subtitle_index": 714,
+      "start_time": 5395.4,
+      "end_time": 5396.3,
+      "duration": 0.9000000000005457,
+      "dialogue_text": "Suivons-le."
+    },
+    {
+      "subtitle_index": 715,
+      "start_time": 5396.4,
+      "end_time": 5397.3,
+      "duration": 0.9000000000005457,
+      "dialogue_text": "Connais-tu les mots ?"
+    },
+    {
+      "subtitle_index": 716,
+      "start_time": 5397.4,
+      "end_time": 5398.4,
+      "duration": 1.0,
+      "dialogue_text": "Ne t'en fais pas pour ça !"
+    },
+    {
+      "subtitle_index": 717,
+      "start_time": 5423.3,
+      "end_time": 5424.3,
+      "duration": 1.0,
+      "dialogue_text": "C'est une ville !"
+    },
+    {
+      "subtitle_index": 718,
+      "start_time": 5452.3,
+      "end_time": 5454.3,
+      "duration": 2.0,
+      "dialogue_text": "Nous devons aller à l'intérieur des bâtiments."
+    },
+    {
+      "subtitle_index": 719,
+      "start_time": 5458.5,
+      "end_time": 5460.4,
+      "duration": 1.8999999999996362,
+      "dialogue_text": "Shita, le ciel..."
+    },
+    {
+      "subtitle_index": 720,
+      "start_time": 5470.4,
+      "end_time": 5472.4,
+      "duration": 2.0,
+      "dialogue_text": "Il ressemble aux murs en pierre de l'extérieur."
+    },
+    {
+      "subtitle_index": 721,
+      "start_time": 5472.4,
+      "end_time": 5475.4,
+      "duration": 3.0,
+      "dialogue_text": "Mais, si leur science est si avancée, pourquoi... ?"
+    },
+    {
+      "subtitle_index": 722,
+      "start_time": 5533.4,
+      "end_time": 5536.4,
+      "duration": 3.0,
+      "dialogue_text": "C'est une tombe, non ?"
+    },
+    {
+      "subtitle_index": 723,
+      "start_time": 5539.4,
+      "end_time": 5540.4,
+      "duration": 1.0,
+      "dialogue_text": "Des écritures oubliées..."
+    },
+    {
+      "subtitle_index": 724,
+      "start_time": 5544.5,
+      "end_time": 5547.5,
+      "duration": 3.0,
+      "dialogue_text": "C'est toi qui les as écrites ?"
+    },
+    {
+      "subtitle_index": 725,
+      "start_time": 5549.4,
+      "end_time": 5551.4,
+      "duration": 2.0,
+      "dialogue_text": "Ce n'est est pas le même robot que tout à l'heure !"
+    },
+    {
+      "subtitle_index": 726,
+      "start_time": 5556.3,
+      "end_time": 5558.3,
+      "duration": 2.0,
+      "dialogue_text": "Ça doit être un robot gardien."
+    },
+    {
+      "subtitle_index": 727,
+      "start_time": 5571.3,
+      "end_time": 5574.3,
+      "duration": 3.0,
+      "dialogue_text": "Il n'y a personne ici..."
+    },
+    {
+      "subtitle_index": 728,
+      "start_time": 5574.5,
+      "end_time": 5578.5,
+      "duration": 4.0,
+      "dialogue_text": "Qui sait depuis combien de temps il garde cet endroit."
+    },
+    {
+      "subtitle_index": 729,
+      "start_time": 5593.3,
+      "end_time": 5596.3,
+      "duration": 3.0,
+      "dialogue_text": "Tu déposes ces fleurs sur cette tombe ?"
+    },
+    {
+      "subtitle_index": 730,
+      "start_time": 5599.3,
+      "end_time": 5601.3,
+      "duration": 2.0,
+      "dialogue_text": "Merci."
+    },
+    {
+      "subtitle_index": 731,
+      "start_time": 5602.3,
+      "end_time": 5604.3,
+      "duration": 2.0,
+      "dialogue_text": "Vous êtes seul ?"
+    },
+    {
+      "subtitle_index": 732,
+      "start_time": 5604.4,
+      "end_time": 5606.4,
+      "duration": 2.0,
+      "dialogue_text": "Il n'y a pas d'autres robots, ici ?"
+    },
+    {
+      "subtitle_index": 733,
+      "start_time": 5633.3,
+      "end_time": 5635.3,
+      "duration": 2.0,
+      "dialogue_text": "Il n'a pas l'air seul, on dirait."
+    },
+    {
+      "subtitle_index": 734,
+      "start_time": 5635.4,
+      "end_time": 5640.4,
+      "duration": 5.0,
+      "dialogue_text": "Il a des amis. Il prend soin des nids d'hitakis, aussi. Il ne mourra pas."
+    },
+    {
+      "subtitle_index": 735,
+      "start_time": 5656.4,
+      "end_time": 5657.4,
+      "duration": 1.0,
+      "dialogue_text": "Par ici !"
+    },
+    {
+      "subtitle_index": 736,
+      "start_time": 5669.4,
+      "end_time": 5670.4,
+      "duration": 1.0,
+      "dialogue_text": "Le sol a tremblé."
+    },
+    {
+      "subtitle_index": 737,
+      "start_time": 5690.4,
+      "end_time": 5692.3,
+      "duration": 1.9000000000005457,
+      "dialogue_text": "C'est le Goliath qui a fait ça."
+    },
+    {
+      "subtitle_index": 738,
+      "start_time": 5692.4,
+      "end_time": 5694.3,
+      "duration": 1.9000000000005457,
+      "dialogue_text": "Tantine et les autres doivent aller bien."
+    },
+    {
+      "subtitle_index": 739,
+      "start_time": 5696.4,
+      "end_time": 5698.4,
+      "duration": 2.0,
+      "dialogue_text": "Shita...là-bas !"
+    },
+    {
+      "subtitle_index": 740,
+      "start_time": 5698.7,
+      "end_time": 5700.5,
+      "duration": 1.800000000000182,
+      "dialogue_text": "Ils ont tous été capturés !"
+    },
+    {
+      "subtitle_index": 741,
+      "start_time": 5701.3,
+      "end_time": 5702.3,
+      "duration": 1.0,
+      "dialogue_text": "Ils les ont attachés."
+    },
+    {
+      "subtitle_index": 742,
+      "start_time": 5703.3,
+      "end_time": 5704.3,
+      "duration": 1.0,
+      "dialogue_text": "Est-ce qu'on peut les sauver ?"
+    },
+    {
+      "subtitle_index": 743,
+      "start_time": 5704.3,
+      "end_time": 5705.3,
+      "duration": 1.0,
+      "dialogue_text": "Allons-y !"
+    },
+    {
+      "subtitle_index": 744,
+      "start_time": 5711.3,
+      "end_time": 5713.3,
+      "duration": 2.0,
+      "dialogue_text": "On a ouvert un passage dans la ville."
+    },
+    {
+      "subtitle_index": 745,
+      "start_time": 5713.5,
+      "end_time": 5716.5,
+      "duration": 3.0,
+      "dialogue_text": "Regardez ça... une montagne de trésors !"
+    },
+    {
+      "subtitle_index": 746,
+      "start_time": 5719.3,
+      "end_time": 5721.3,
+      "duration": 2.0,
+      "dialogue_text": "Whaou."
+    },
+    {
+      "subtitle_index": 747,
+      "start_time": 5721.4,
+      "end_time": 5726.4,
+      "duration": 5.0,
+      "dialogue_text": "Vous aimez ça ? Vous en voulez ? Vous en aurez assez... il y a la corde !"
+    },
+    {
+      "subtitle_index": 748,
+      "start_time": 5726.5,
+      "end_time": 5729.4,
+      "duration": 2.899999999999636,
+      "dialogue_text": "Vous avez informé notre pays de la découverte de Laputa ?"
+    },
+    {
+      "subtitle_index": 749,
+      "start_time": 5729.4,
+      "end_time": 5730.4,
+      "duration": 1.0,
+      "dialogue_text": "Je vais le faire tout de suite."
+    },
+    {
+      "subtitle_index": 750,
+      "start_time": 5730.4,
+      "end_time": 5733.4,
+      "duration": 3.0,
+      "dialogue_text": "Essayez de trouver un codage plus compliqué."
+    },
+    {
+      "subtitle_index": 751,
+      "start_time": 5733.5,
+      "end_time": 5736.5,
+      "duration": 3.0,
+      "dialogue_text": "Hé ! PAS DE VOL !"
+    },
+    {
+      "subtitle_index": 752,
+      "start_time": 5738.3,
+      "end_time": 5741.3,
+      "duration": 3.0,
+      "dialogue_text": "Ces imbéciles sont aveugles."
+    },
+    {
+      "subtitle_index": 753,
+      "start_time": 5758.3,
+      "end_time": 5759.3,
+      "duration": 1.0,
+      "dialogue_text": "Stupéfiantes, ces racines..."
+    },
+    {
+      "subtitle_index": 754,
+      "start_time": 5759.5,
+      "end_time": 5762.5,
+      "duration": 3.0,
+      "dialogue_text": "Shita, tu peux grimper aux arbres, vrai ?"
+    },
+    {
+      "subtitle_index": 755,
+      "start_time": 5764.3,
+      "end_time": 5765.3,
+      "duration": 1.0,
+      "dialogue_text": "Allons-y."
+    },
+    {
+      "subtitle_index": 756,
+      "start_time": 5799.3,
+      "end_time": 5801.3,
+      "duration": 2.0,
+      "dialogue_text": "Ce qu'ils font est terrible..."
+    },
+    {
+      "subtitle_index": 757,
+      "start_time": 5801.4,
+      "end_time": 5804.4,
+      "duration": 3.0,
+      "dialogue_text": "S'ils montent jusqu'au jardin..."
+    },
+    {
+      "subtitle_index": 758,
+      "start_time": 5804.4,
+      "end_time": 5808.4,
+      "duration": 4.0,
+      "dialogue_text": "Shita, on doit récupérer ta Lévistone."
+    },
+    {
+      "subtitle_index": 759,
+      "start_time": 5808.4,
+      "end_time": 5811.4,
+      "duration": 3.0,
+      "dialogue_text": "Il n'y a que ça qui protègera cet endroit de ces voleurs."
+    },
+    {
+      "subtitle_index": 760,
+      "start_time": 5811.5,
+      "end_time": 5814.5,
+      "duration": 3.0,
+      "dialogue_text": "Pourquoi les nuages ont-ils disparu ?"
+    },
+    {
+      "subtitle_index": 761,
+      "start_time": 5814.4,
+      "end_time": 5818.4,
+      "duration": 4.0,
+      "dialogue_text": "S'ils n'avaient pas été comme ça, ils n'auraient pas pu débarquer."
+    },
+    {
+      "subtitle_index": 762,
+      "start_time": 5818.4,
+      "end_time": 5820.4,
+      "duration": 2.0,
+      "dialogue_text": "L'effet de ma formule..."
+    },
+    {
+      "subtitle_index": 763,
+      "start_time": 5820.4,
+      "end_time": 5825.5,
+      "duration": 5.100000000000364,
+      "dialogue_text": "C’est de ça que parlait Muska quand il disait \"le charme est rompu.\""
+    },
+    {
+      "subtitle_index": 764,
+      "start_time": 5825.3,
+      "end_time": 5831.3,
+      "duration": 6.0,
+      "dialogue_text": "Cette île est réveillée, parce que la Lévistone s'est approchée de la tempête."
+    },
+    {
+      "subtitle_index": 765,
+      "start_time": 5831.4,
+      "end_time": 5834.4,
+      "duration": 3.0,
+      "dialogue_text": "Si on ne fait rien, Muska deviendra le Roi..."
+    },
+    {
+      "subtitle_index": 766,
+      "start_time": 5834.5,
+      "end_time": 5837.2,
+      "duration": 2.699999999999818,
+      "dialogue_text": "et, après le pillage, des choses terribles commenceront à se produire."
+    },
+    {
+      "subtitle_index": 767,
+      "start_time": 5837.2,
+      "end_time": 5841.3,
+      "duration": 4.100000000000364,
+      "dialogue_text": "Mais comment récupérer la Lévistone ?"
+    },
+    {
+      "subtitle_index": 768,
+      "start_time": 5842.4,
+      "end_time": 5843.4,
+      "duration": 1.0,
+      "dialogue_text": "Ces mots..."
+    },
+    {
+      "subtitle_index": 769,
+      "start_time": 5843.5,
+      "end_time": 5845.5,
+      "duration": 2.0,
+      "dialogue_text": "Ces mots ?"
+    },
+    {
+      "subtitle_index": 770,
+      "start_time": 5845.5,
+      "end_time": 5848.5,
+      "duration": 3.0,
+      "dialogue_text": "Impossible... mais..."
+    },
+    {
+      "subtitle_index": 771,
+      "start_time": 5875.3,
+      "end_time": 5876.3,
+      "duration": 1.0,
+      "dialogue_text": "On va passer dessous."
+    },
+    {
+      "subtitle_index": 772,
+      "start_time": 5894.5,
+      "end_time": 5895.5,
+      "duration": 1.0,
+      "dialogue_text": "Je saute d'abord."
+    },
+    {
+      "subtitle_index": 773,
+      "start_time": 5915.4,
+      "end_time": 5916.4,
+      "duration": 1.0,
+      "dialogue_text": "C'est près d'ici."
+    },
+    {
+      "subtitle_index": 774,
+      "start_time": 5927.3,
+      "end_time": 5928.3,
+      "duration": 1.0,
+      "dialogue_text": "Mon Dieu..."
+    },
+    {
+      "subtitle_index": 775,
+      "start_time": 5934.4,
+      "end_time": 5935.4,
+      "duration": 1.0,
+      "dialogue_text": "C'est ça."
+    },
+    {
+      "subtitle_index": 776,
+      "start_time": 5946.4,
+      "end_time": 5948.4,
+      "duration": 2.0,
+      "dialogue_text": "C'est ce gosse !"
+    },
+    {
+      "subtitle_index": 777,
+      "start_time": 5951.5,
+      "end_time": 5952.5,
+      "duration": 1.0,
+      "dialogue_text": "Mince !"
+    },
+    {
+      "subtitle_index": 778,
+      "start_time": 5952.5,
+      "end_time": 5954.5,
+      "duration": 2.0,
+      "dialogue_text": "Ne tirez pas ! Je vais l'attraper !"
+    },
+    {
+      "subtitle_index": 779,
+      "start_time": 5956.3,
+      "end_time": 5958.2,
+      "duration": 1.8999999999996362,
+      "dialogue_text": "Tiens, tiens... une reine."
+    },
+    {
+      "subtitle_index": 780,
+      "start_time": 5963.5,
+      "end_time": 5965.5,
+      "duration": 2.0,
+      "dialogue_text": "Capitaine, que se passe-t-il ?"
+    },
+    {
+      "subtitle_index": 781,
+      "start_time": 5966.3,
+      "end_time": 5969.3,
+      "duration": 3.0,
+      "dialogue_text": "Le reste des pirates. L'un d'eux se cache sous vos pieds."
+    },
+    {
+      "subtitle_index": 782,
+      "start_time": 5970.3,
+      "end_time": 5971.3,
+      "duration": 1.0,
+      "dialogue_text": "Oui, Monsieur ! Trouvez-le !"
+    },
+    {
+      "subtitle_index": 783,
+      "start_time": 5975.5,
+      "end_time": 5976.5,
+      "duration": 1.0,
+      "dialogue_text": "Résiste !"
+    },
+    {
+      "subtitle_index": 784,
+      "start_time": 5982.3,
+      "end_time": 5983.3,
+      "duration": 1.0,
+      "dialogue_text": "Donnez-moi une grenade !"
+    },
+    {
+      "subtitle_index": 785,
+      "start_time": 5983.4,
+      "end_time": 5985.4,
+      "duration": 2.0,
+      "dialogue_text": "C'est Pazu."
+    },
+    {
+      "subtitle_index": 786,
+      "start_time": 5989.3,
+      "end_time": 5990.3,
+      "duration": 1.0,
+      "dialogue_text": "Quoi ?"
+    },
+    {
+      "subtitle_index": 787,
+      "start_time": 5991.4,
+      "end_time": 5993.5,
+      "duration": 2.100000000000364,
+      "dialogue_text": "Ce n'est pas ce que tu penses !"
+    },
+    {
+      "subtitle_index": 788,
+      "start_time": 6003.4,
+      "end_time": 6005.4,
+      "duration": 2.0,
+      "dialogue_text": "Gardes, descendez ! Vite !"
+    },
+    {
+      "subtitle_index": 789,
+      "start_time": 6013.3,
+      "end_time": 6014.3,
+      "duration": 1.0,
+      "dialogue_text": "Tantine !"
+    },
+    {
+      "subtitle_index": 790,
+      "start_time": 6014.5,
+      "end_time": 6017.5,
+      "duration": 3.0,
+      "dialogue_text": "Ils ont Shita. Je vais aller la sauver."
+    },
+    {
+      "subtitle_index": 791,
+      "start_time": 6018.2,
+      "end_time": 6021.2,
+      "duration": 3.0,
+      "dialogue_text": "Dès que j'aurais coupé vos liens, partez vite d'ici"
+    },
+    {
+      "subtitle_index": 792,
+      "start_time": 6028.4,
+      "end_time": 6029.4,
+      "duration": 1.0,
+      "dialogue_text": "Partez loin d'ici !"
+    },
+    {
+      "subtitle_index": 793,
+      "start_time": 6030.3,
+      "end_time": 6031.8,
+      "duration": 1.5,
+      "dialogue_text": "Hé, attends !"
+    },
+    {
+      "subtitle_index": 794,
+      "start_time": 6034.3,
+      "end_time": 6035.3,
+      "duration": 1.0,
+      "dialogue_text": "Prends ça."
+    },
+    {
+      "subtitle_index": 795,
+      "start_time": 6037.2,
+      "end_time": 6038.0,
+      "duration": 0.8000000000001819,
+      "dialogue_text": "Merci."
+    },
+    {
+      "subtitle_index": 796,
+      "start_time": 6041.5,
+      "end_time": 6043.4,
+      "duration": 1.8999999999996362,
+      "dialogue_text": "Ce garçon ira loin."
+    },
+    {
+      "subtitle_index": 797,
+      "start_time": 6044.3,
+      "end_time": 6048.3,
+      "duration": 4.0,
+      "dialogue_text": "Quoi ? ! Muska a détruit toutes les radios ?"
+    },
+    {
+      "subtitle_index": 798,
+      "start_time": 6048.3,
+      "end_time": 6051.3,
+      "duration": 3.0,
+      "dialogue_text": "Oui, Monsieur. Nous avons attrapé un de ses hommes sur le vaisseau !"
+    },
+    {
+      "subtitle_index": 799,
+      "start_time": 6051.5,
+      "end_time": 6054.2,
+      "duration": 2.699999999999818,
+      "dialogue_text": "Une grande partie de l'équipage est blessée."
+    },
+    {
+      "subtitle_index": 800,
+      "start_time": 6054.3,
+      "end_time": 6059.3,
+      "duration": 5.0,
+      "dialogue_text": "Le capitaine est à l'intérieur du bâtiment inférieur. Certains des hommes l'ont vu entrer."
+    },
+    {
+      "subtitle_index": 801,
+      "start_time": 6059.4,
+      "end_time": 6062.4,
+      "duration": 3.0,
+      "dialogue_text": "Le traître ! Il a finalement dévoilé son vrai visage."
+    },
+    {
+      "subtitle_index": 802,
+      "start_time": 6062.4,
+      "end_time": 6064.4,
+      "duration": 2.0,
+      "dialogue_text": "Rassemblez les troupes. Cherchez les espions !"
+    },
+    {
+      "subtitle_index": 803,
+      "start_time": 6064.5,
+      "end_time": 6067.5,
+      "duration": 3.0,
+      "dialogue_text": "Rassemblez les escouades ! Dépêchez-vous, escouade numéro 3."
+    },
+    {
+      "subtitle_index": 804,
+      "start_time": 6068.4,
+      "end_time": 6070.4,
+      "duration": 2.0,
+      "dialogue_text": "Muska et ses hommes doivent être abattus à vue."
+    },
+    {
+      "subtitle_index": 805,
+      "start_time": 6070.4,
+      "end_time": 6072.4,
+      "duration": 2.0,
+      "dialogue_text": "Trouvez l'entrée !"
+    },
+    {
+      "subtitle_index": 806,
+      "start_time": 6094.3,
+      "end_time": 6096.3,
+      "duration": 2.0,
+      "dialogue_text": "Capitaine, qu'est-ce que c'est que cet endroit ?"
+    },
+    {
+      "subtitle_index": 807,
+      "start_time": 6096.4,
+      "end_time": 6101.4,
+      "duration": 5.0,
+      "dialogue_text": "Le centre nerveux de Laputa. Le château et son trésor ne sont que des broutilles."
+    },
+    {
+      "subtitle_index": 808,
+      "start_time": 6101.3,
+      "end_time": 6104.3,
+      "duration": 3.0,
+      "dialogue_text": "Toute la science de Laputa est stockée ici."
+    },
+    {
+      "subtitle_index": 809,
+      "start_time": 6111.2,
+      "end_time": 6112.2,
+      "duration": 1.0,
+      "dialogue_text": "Vous allez attendre ici."
+    },
+    {
+      "subtitle_index": 810,
+      "start_time": 6112.5,
+      "end_time": 6113.5,
+      "duration": 1.0,
+      "dialogue_text": "Capitaine !"
+    },
+    {
+      "subtitle_index": 811,
+      "start_time": 6114.4,
+      "end_time": 6117.4,
+      "duration": 3.0,
+      "dialogue_text": "Ici, personne d'autre que la famille royale ne peut entrer. C'est un sanctuaire."
+    },
+    {
+      "subtitle_index": 812,
+      "start_time": 6120.5,
+      "end_time": 6122.5,
+      "duration": 2.0,
+      "dialogue_text": "Qu'est ce que c'est ?"
+    },
+    {
+      "subtitle_index": 813,
+      "start_time": 6125.3,
+      "end_time": 6127.3,
+      "duration": 2.0,
+      "dialogue_text": "Des racines, à cette profondeur ?"
+    },
+    {
+      "subtitle_index": 814,
+      "start_time": 6129.4,
+      "end_time": 6132.4,
+      "duration": 3.0,
+      "dialogue_text": "Une phrase, et tout sera réduit en cendres."
+    },
+    {
+      "subtitle_index": 815,
+      "start_time": 6133.3,
+      "end_time": 6134.3,
+      "duration": 1.0,
+      "dialogue_text": "Venez... par ici."
+    },
+    {
+      "subtitle_index": 816,
+      "start_time": 6149.4,
+      "end_time": 6151.4,
+      "duration": 2.0,
+      "dialogue_text": "C'est ici !"
+    },
+    {
+      "subtitle_index": 817,
+      "start_time": 6158.3,
+      "end_time": 6159.3,
+      "duration": 1.0,
+      "dialogue_text": "Ici, aussi ?"
+    },
+    {
+      "subtitle_index": 818,
+      "start_time": 6175.3,
+      "end_time": 6176.3,
+      "duration": 1.0,
+      "dialogue_text": "Trouvé !"
+    },
+    {
+      "subtitle_index": 819,
+      "start_time": 6180.3,
+      "end_time": 6182.3,
+      "duration": 2.0,
+      "dialogue_text": "Regardez cette énorme Lévistone !"
+    },
+    {
+      "subtitle_index": 820,
+      "start_time": 6183.2,
+      "end_time": 6186.2,
+      "duration": 3.0,
+      "dialogue_text": "C'est la source du pouvoir de Laputa."
+    },
+    {
+      "subtitle_index": 821,
+      "start_time": 6186.4,
+      "end_time": 6191.4,
+      "duration": 5.0,
+      "dialogue_text": "Excellent. Ça fait 700 ans qu'elle attend le retour du Roi."
+    },
+    {
+      "subtitle_index": 822,
+      "start_time": 6191.4,
+      "end_time": 6193.4,
+      "duration": 2.0,
+      "dialogue_text": "700 ans ?"
+    },
+    {
+      "subtitle_index": 823,
+      "start_time": 6193.4,
+      "end_time": 6197.4,
+      "duration": 4.0,
+      "dialogue_text": "Votre clan a oublié, n'est-ce pas ?"
+    },
+    {
+      "subtitle_index": 824,
+      "start_time": 6203.4,
+      "end_time": 6207.4,
+      "duration": 4.0,
+      "dialogue_text": "C'est la pierre noire ! Comme dans la légende !"
+    },
+    {
+      "subtitle_index": 825,
+      "start_time": 6213.5,
+      "end_time": 6216.5,
+      "duration": 3.0,
+      "dialogue_text": "J'arrive à le lire ! Je peux le lire !"
+    },
+    {
+      "subtitle_index": 826,
+      "start_time": 6217.3,
+      "end_time": 6219.3,
+      "duration": 2.0,
+      "dialogue_text": "Mais qui est-ce que vous êtes ?"
+    },
+    {
+      "subtitle_index": 827,
+      "start_time": 6220.3,
+      "end_time": 6224.3,
+      "duration": 4.0,
+      "dialogue_text": "J'ai aussi un vieux nom secret, Lucita."
+    },
+    {
+      "subtitle_index": 828,
+      "start_time": 6225.4,
+      "end_time": 6228.4,
+      "duration": 3.0,
+      "dialogue_text": "Mon nom est Romuska Palo Ul Laputa."
+    },
+    {
+      "subtitle_index": 829,
+      "start_time": 6231.4,
+      "end_time": 6236.4,
+      "duration": 5.0,
+      "dialogue_text": "Votre clan et le mien sont originaires d'une même famille royale."
+    },
+    {
+      "subtitle_index": 830,
+      "start_time": 6236.4,
+      "end_time": 6239.4,
+      "duration": 3.0,
+      "dialogue_text": "Mais quand nous sommes revenus sur terre, Ils se sont séparés."
+    },
+    {
+      "subtitle_index": 831,
+      "start_time": 6249.3,
+      "end_time": 6250.4,
+      "duration": 1.0999999999994543,
+      "dialogue_text": "C'est pas une blague..."
+    },
+    {
+      "subtitle_index": 832,
+      "start_time": 6250.5,
+      "end_time": 6252.5,
+      "duration": 2.0,
+      "dialogue_text": "Ce n'est pas une pierre ordinaire."
+    },
+    {
+      "subtitle_index": 833,
+      "start_time": 6252.5,
+      "end_time": 6254.5,
+      "duration": 2.0,
+      "dialogue_text": "Utilisez tous les explosifs qu'on a !"
+    },
+    {
+      "subtitle_index": 834,
+      "start_time": 6254.4,
+      "end_time": 6258.4,
+      "duration": 4.0,
+      "dialogue_text": "Votre Excellence, vous ne pourrez pas entrer comme ça..."
+    },
+    {
+      "subtitle_index": 835,
+      "start_time": 6258.3,
+      "end_time": 6260.3,
+      "duration": 2.0,
+      "dialogue_text": "Muska, où êtes-vous ?"
+    },
+    {
+      "subtitle_index": 836,
+      "start_time": 6313.4,
+      "end_time": 6316.4,
+      "duration": 3.0,
+      "dialogue_text": "Hé bien... Qu'est ce que vous attendez ?"
+    },
+    {
+      "subtitle_index": 837,
+      "start_time": 6316.4,
+      "end_time": 6318.4,
+      "duration": 2.0,
+      "dialogue_text": "Venez à l'intérieur, votre Excellence."
+    },
+    {
+      "subtitle_index": 838,
+      "start_time": 6319.3,
+      "end_time": 6322.3,
+      "duration": 3.0,
+      "dialogue_text": "Oui. Suivez moi !"
+    },
+    {
+      "subtitle_index": 839,
+      "start_time": 6320.4,
+      "end_time": 6322.4,
+      "duration": 2.0,
+      "dialogue_text": "Suivez son Excellence !"
+    },
+    {
+      "subtitle_index": 840,
+      "start_time": 6336.4,
+      "end_time": 6340.4,
+      "duration": 4.0,
+      "dialogue_text": "Qu'... qu'est-ce que c'est que cet endroit ? Muska... Sortez !"
+    },
+    {
+      "subtitle_index": 841,
+      "start_time": 6340.5,
+      "end_time": 6342.5,
+      "duration": 2.0,
+      "dialogue_text": "Silence."
+    },
+    {
+      "subtitle_index": 842,
+      "start_time": 6347.3,
+      "end_time": 6348.3,
+      "duration": 1.0,
+      "dialogue_text": "Qu'est-ce que c'est que cette plaisanterie ?"
+    },
+    {
+      "subtitle_index": 843,
+      "start_time": 6351.3,
+      "end_time": 6355.3,
+      "duration": 4.0,
+      "dialogue_text": "Taisez vous. Vous êtes devant le roi de Laputa."
+    },
+    {
+      "subtitle_index": 844,
+      "start_time": 6355.4,
+      "end_time": 6357.4,
+      "duration": 2.0,
+      "dialogue_text": "Vous êtes fou ?"
+    },
+    {
+      "subtitle_index": 845,
+      "start_time": 6357.4,
+      "end_time": 6364.4,
+      "duration": 7.0,
+      "dialogue_text": "Aujourd'hui, nous célébrons le retour de la monarchie. La renaissance d'un empire sous les ordres d'un roi."
+    },
+    {
+      "subtitle_index": 846,
+      "start_time": 6365.4,
+      "end_time": 6369.5,
+      "duration": 4.100000000000364,
+      "dialogue_text": "Laissez moi vous montrer, Messieurs, la puissance de Laputa."
+    },
+    {
+      "subtitle_index": 847,
+      "start_time": 6393.3,
+      "end_time": 6397.3,
+      "duration": 4.0,
+      "dialogue_text": "C'est le feu sacré qui a détruit Sodome et Gomorrhe dans l'ancien testament,"
+    },
+    {
+      "subtitle_index": 848,
+      "start_time": 6397.4,
+      "end_time": 6401.4,
+      "duration": 4.0,
+      "dialogue_text": "et aussi les flèches du paradis qui ont rasées Ramayana, Indora et Atlantis."
+    },
+    {
+      "subtitle_index": 849,
+      "start_time": 6401.4,
+      "end_time": 6405.4,
+      "duration": 4.0,
+      "dialogue_text": "Le monde sera à nouveau sous le contrôle de Laputa !"
+    },
+    {
+      "subtitle_index": 850,
+      "start_time": 6406.4,
+      "end_time": 6410.0,
+      "duration": 3.600000000000364,
+      "dialogue_text": "Excellent, Muska... vous êtes un héros."
+    },
+    {
+      "subtitle_index": 851,
+      "start_time": 6410.6,
+      "end_time": 6412.5,
+      "duration": 1.8999999999996362,
+      "dialogue_text": "Voici maintenant votre récompense."
+    },
+    {
+      "subtitle_index": 852,
+      "start_time": 6419.3,
+      "end_time": 6422.3,
+      "duration": 3.0,
+      "dialogue_text": "Le regard sur votre visage !"
+    },
+    {
+      "subtitle_index": 853,
+      "start_time": 6425.4,
+      "end_time": 6426.4,
+      "duration": 1.0,
+      "dialogue_text": "Courez, tous !"
+    },
+    {
+      "subtitle_index": 854,
+      "start_time": 6428.1,
+      "end_time": 6429.1,
+      "duration": 1.0,
+      "dialogue_text": "Mourez !"
+    },
+    {
+      "subtitle_index": 855,
+      "start_time": 6456.4,
+      "end_time": 6457.4,
+      "duration": 1.0,
+      "dialogue_text": "Quels imbéciles !"
+    },
+    {
+      "subtitle_index": 856,
+      "start_time": 6457.4,
+      "end_time": 6458.4,
+      "duration": 1.0,
+      "dialogue_text": "C'est rempli de robots..."
+    },
+    {
+      "subtitle_index": 857,
+      "start_time": 6458.4,
+      "end_time": 6460.4,
+      "duration": 2.0,
+      "dialogue_text": "Tout le monde... COUREZ !"
+    },
+    {
+      "subtitle_index": 858,
+      "start_time": 6464.3,
+      "end_time": 6466.3,
+      "duration": 2.0,
+      "dialogue_text": "Vérifiez les hélices !"
+    },
+    {
+      "subtitle_index": 859,
+      "start_time": 6468.3,
+      "end_time": 6469.3,
+      "duration": 1.0,
+      "dialogue_text": "Mama, envolons-nous !"
+    },
+    {
+      "subtitle_index": 860,
+      "start_time": 6469.4,
+      "end_time": 6470.4,
+      "duration": 1.0,
+      "dialogue_text": "Vite, partons !"
+    },
+    {
+      "subtitle_index": 861,
+      "start_time": 6470.5,
+      "end_time": 6473.5,
+      "duration": 3.0,
+      "dialogue_text": "Taisez-vous. N'élevez pas la voix."
+    },
+    {
+      "subtitle_index": 862,
+      "start_time": 6481.3,
+      "end_time": 6485.3,
+      "duration": 4.0,
+      "dialogue_text": "Pourquoi ces deux-là traînent derrière ? Ils vont finir par tomber"
+    },
+    {
+      "subtitle_index": 863,
+      "start_time": 6487.3,
+      "end_time": 6489.3,
+      "duration": 2.0,
+      "dialogue_text": "J'espère que vous ne m'irriterez plus..."
+    },
+    {
+      "subtitle_index": 864,
+      "start_time": 6492.4,
+      "end_time": 6495.4,
+      "duration": 3.0,
+      "dialogue_text": "...parce qu'il semble qu'on va passer un moment ensemble."
+    },
+    {
+      "subtitle_index": 865,
+      "start_time": 6501.5,
+      "end_time": 6503.5,
+      "duration": 2.0,
+      "dialogue_text": "J'espère qu'ils n'essaient pas de partir."
+    },
+    {
+      "subtitle_index": 866,
+      "start_time": 6507.5,
+      "end_time": 6510.5,
+      "duration": 3.0,
+      "dialogue_text": "Ils ont vraiment l'intention de me combattre."
+    },
+    {
+      "subtitle_index": 867,
+      "start_time": 6538.3,
+      "end_time": 6539.3,
+      "duration": 1.0,
+      "dialogue_text": "Robots."
+    },
+    {
+      "subtitle_index": 868,
+      "start_time": 6585.9,
+      "end_time": 6586.9,
+      "duration": 1.0,
+      "dialogue_text": "Excellent !"
+    },
+    {
+      "subtitle_index": 869,
+      "start_time": 6588.2,
+      "end_time": 6590.5,
+      "duration": 2.300000000000182,
+      "dialogue_text": "Ne pensez vous pas que c'est la meilleure partie du spectacle ?"
+    },
+    {
+      "subtitle_index": 870,
+      "start_time": 6592.9,
+      "end_time": 6595.8,
+      "duration": 2.9000000000005457,
+      "dialogue_text": "Regardez ! Ces hommes tombent comme des gravats."
+    },
+    {
+      "subtitle_index": 871,
+      "start_time": 6597.8,
+      "end_time": 6598.8,
+      "duration": 1.0,
+      "dialogue_text": "Qu'est-ce que vous faites ?"
+    },
+    {
+      "subtitle_index": 872,
+      "start_time": 6611.9,
+      "end_time": 6615.9,
+      "duration": 4.0,
+      "dialogue_text": "Rendez-moi ça ! Soyez une bonne fille. Revenez."
+    },
+    {
+      "subtitle_index": 873,
+      "start_time": 6615.8,
+      "end_time": 6617.8,
+      "duration": 2.0,
+      "dialogue_text": "S'il vous plaît... ouvrez !"
+    },
+    {
+      "subtitle_index": 874,
+      "start_time": 6626.8,
+      "end_time": 6629.8,
+      "duration": 3.0,
+      "dialogue_text": "Où croyez-vous aller ?"
+    },
+    {
+      "subtitle_index": 875,
+      "start_time": 6630.8,
+      "end_time": 6632.8,
+      "duration": 2.0,
+      "dialogue_text": "Ouvrez !"
+    },
+    {
+      "subtitle_index": 876,
+      "start_time": 6682.7,
+      "end_time": 6683.7,
+      "duration": 1.0,
+      "dialogue_text": "Shita ! Je vais passer à travers !"
+    },
+    {
+      "subtitle_index": 877,
+      "start_time": 6685.7,
+      "end_time": 6686.7,
+      "duration": 1.0,
+      "dialogue_text": "Baisse-toi"
+    },
+    {
+      "subtitle_index": 878,
+      "start_time": 6687.6,
+      "end_time": 6690.6,
+      "duration": 3.0,
+      "dialogue_text": "Vite, prends ça ! Muska est ici !"
+    },
+    {
+      "subtitle_index": 879,
+      "start_time": 6698.7,
+      "end_time": 6700.7,
+      "duration": 2.0,
+      "dialogue_text": "Jette-la dans l'océan."
+    },
+    {
+      "subtitle_index": 880,
+      "start_time": 6706.9,
+      "end_time": 6710.9,
+      "duration": 4.0,
+      "dialogue_text": "La pierre que vous possédez est d'une importance capitale."
+    },
+    {
+      "subtitle_index": 881,
+      "start_time": 6739.9,
+      "end_time": 6742.8,
+      "duration": 2.9000000000005457,
+      "dialogue_text": "Levez-vous ! La partie est terminée."
+    },
+    {
+      "subtitle_index": 882,
+      "start_time": 6749.8,
+      "end_time": 6753.8,
+      "duration": 4.0,
+      "dialogue_text": "L'ancienne chambre du trône n'est pas très belle, n’est ce pas ? Venez ici !"
+    },
+    {
+      "subtitle_index": 883,
+      "start_time": 6753.9,
+      "end_time": 6759.9,
+      "duration": 6.0,
+      "dialogue_text": "Vous dites que c'est la chambre du trône ? C'est votre tombe."
+    },
+    {
+      "subtitle_index": 884,
+      "start_time": 6759.9,
+      "end_time": 6763.8,
+      "duration": 3.9000000000005457,
+      "dialogue_text": "Notre pays a été détruit, et un roi de votre espèce a survécu. Comme c'est tragique !"
+    },
+    {
+      "subtitle_index": 885,
+      "start_time": 6763.9,
+      "end_time": 6770.6,
+      "duration": 6.700000000000728,
+      "dialogue_text": "Je ne vous donnerai pas la pierre. Vous ne pouvez pas me laisser ici sans me tuer."
+    },
+    {
+      "subtitle_index": 886,
+      "start_time": 6770.7,
+      "end_time": 6774.7,
+      "duration": 4.0,
+      "dialogue_text": "Pourquoi Laputa a été détruite ? Je ne le sais que trop bien."
+    },
+    {
+      "subtitle_index": 887,
+      "start_time": 6775.7,
+      "end_time": 6777.7,
+      "duration": 2.0,
+      "dialogue_text": "Il y a une chanson dans la vallée de Gondoa."
+    },
+    {
+      "subtitle_index": 888,
+      "start_time": 6778.7,
+      "end_time": 6781.9,
+      "duration": 3.199999999999818,
+      "dialogue_text": "\"Laisser nos âmes à la terre, Ne faire qu'un avec les vents.\""
+    },
+    {
+      "subtitle_index": 889,
+      "start_time": 6781.9,
+      "end_time": 6786.8,
+      "duration": 4.900000000000546,
+      "dialogue_text": "\"Passer l'hiver avec les graines, et chanter le printemps avec les oiseaux.\""
+    },
+    {
+      "subtitle_index": 890,
+      "start_time": 6786.8,
+      "end_time": 6791.8,
+      "duration": 5.0,
+      "dialogue_text": "\"Qu'importe le nombre d'armes que vous ayez, ou combien de pauvres robots vous utilisez.\""
+    },
+    {
+      "subtitle_index": 891,
+      "start_time": 6792.4,
+      "end_time": 6794.7,
+      "duration": 2.300000000000182,
+      "dialogue_text": "\"Vous ne pourrez pas vivre séparé de la terre.\""
+    },
+    {
+      "subtitle_index": 892,
+      "start_time": 6798.9,
+      "end_time": 6802.7,
+      "duration": 3.800000000000182,
+      "dialogue_text": "\"Laputa ne sera pas détruite. Cependant, combien de fois elle renaîtra.\""
+    },
+    {
+      "subtitle_index": 893,
+      "start_time": 6802.8,
+      "end_time": 6805.8,
+      "duration": 3.0,
+      "dialogue_text": "\"La puissance de Laputa incarne le rêve de l'espèce humaine.\""
+    },
+    {
+      "subtitle_index": 894,
+      "start_time": 6807.8,
+      "end_time": 6809.8,
+      "duration": 2.0,
+      "dialogue_text": "Vos oreilles vont suivre."
+    },
+    {
+      "subtitle_index": 895,
+      "start_time": 6809.9,
+      "end_time": 6815.1,
+      "duration": 5.200000000000728,
+      "dialogue_text": "A genoux ! Priez pour votre vie ! Récupérez la pierre du gosse !"
+    },
+    {
+      "subtitle_index": 896,
+      "start_time": 6816.3,
+      "end_time": 6817.7,
+      "duration": 1.3999999999996362,
+      "dialogue_text": "ATTENDEZ !"
+    },
+    {
+      "subtitle_index": 897,
+      "start_time": 6818.7,
+      "end_time": 6822.7,
+      "duration": 4.0,
+      "dialogue_text": "J'ai caché la pierre. Si vous la tuez, je ne vous la rendrai pas."
+    },
+    {
+      "subtitle_index": 898,
+      "start_time": 6822.9,
+      "end_time": 6827.9,
+      "duration": 5.0,
+      "dialogue_text": "Pazu... N'approche pas ! Il va nous tuer, de toute façon !"
+    },
+    {
+      "subtitle_index": 899,
+      "start_time": 6827.8,
+      "end_time": 6832.8,
+      "duration": 5.0,
+      "dialogue_text": "Gamin... la vie de la fille contre la pierre. Dis-moi où elle est."
+    },
+    {
+      "subtitle_index": 900,
+      "start_time": 6832.8,
+      "end_time": 6837.8,
+      "duration": 5.0,
+      "dialogue_text": "Ou, est-ce tu essaies de m'effrayer avec ce canon ?"
+    },
+    {
+      "subtitle_index": 901,
+      "start_time": 6838.9,
+      "end_time": 6841.9,
+      "duration": 3.0,
+      "dialogue_text": "Je veux parler avec Shita... seul."
+    },
+    {
+      "subtitle_index": 902,
+      "start_time": 6841.7,
+      "end_time": 6844.7,
+      "duration": 3.0,
+      "dialogue_text": "Pas besoin... jette la pierre et cours !"
+    },
+    {
+      "subtitle_index": 903,
+      "start_time": 6845.7,
+      "end_time": 6848.7,
+      "duration": 3.0,
+      "dialogue_text": "Je vous donne 3 minutes."
+    },
+    {
+      "subtitle_index": 904,
+      "start_time": 6869.7,
+      "end_time": 6874.7,
+      "duration": 5.0,
+      "dialogue_text": "Shita... calme-toi. Ecoute attentivement."
+    },
+    {
+      "subtitle_index": 905,
+      "start_time": 6875.9,
+      "end_time": 6884.9,
+      "duration": 9.0,
+      "dialogue_text": "Dis-moi les mots. Je les dirais aussi. La pierre est dans ma main gauche."
+    },
+    {
+      "subtitle_index": 906,
+      "start_time": 6890.8,
+      "end_time": 6893.8,
+      "duration": 3.0,
+      "dialogue_text": "J'ai libéré Tantine et les autres."
+    },
+    {
+      "subtitle_index": 907,
+      "start_time": 6897.8,
+      "end_time": 6899.8,
+      "duration": 2.0,
+      "dialogue_text": "Terminé ! Donnez-moi votre réponse."
+    },
+    {
+      "subtitle_index": 908,
+      "start_time": 6911.9,
+      "end_time": 6912.9,
+      "duration": 1.0,
+      "dialogue_text": "Ba lusu !"
+    },
+    {
+      "subtitle_index": 909,
+      "start_time": 6942.8,
+      "end_time": 6945.8,
+      "duration": 3.0,
+      "dialogue_text": "Mes yeux... ... mes yeux !"
+    },
+    {
+      "subtitle_index": 910,
+      "start_time": 6951.7,
+      "end_time": 6952.7,
+      "duration": 1.0,
+      "dialogue_text": "Mes yeux... !"
+    },
+    {
+      "subtitle_index": 911,
+      "start_time": 6966.6,
+      "end_time": 6967.7,
+      "duration": 1.0999999999994543,
+      "dialogue_text": "Mama, ça s'effondre !"
+    },
+    {
+      "subtitle_index": 912,
+      "start_time": 6968.6,
+      "end_time": 6970.7,
+      "duration": 2.0999999999994543,
+      "dialogue_text": "On ne peut plus rien faire... partons !"
+    },
+    {
+      "subtitle_index": 913,
+      "start_time": 6970.8,
+      "end_time": 6971.8,
+      "duration": 1.0,
+      "dialogue_text": "Vite !"
+    },
+    {
+      "subtitle_index": 914,
+      "start_time": 6983.7,
+      "end_time": 6986.7,
+      "duration": 3.0,
+      "dialogue_text": "Mama, regarde ! La voûte s’écroule !"
+    },
+    {
+      "subtitle_index": 915,
+      "start_time": 7036.8,
+      "end_time": 7039.8,
+      "duration": 3.0,
+      "dialogue_text": "Shita était une gentille fille."
+    },
+    {
+      "subtitle_index": 916,
+      "start_time": 7039.8,
+      "end_time": 7042.7,
+      "duration": 2.899999999999636,
+      "dialogue_text": "Elle a utilisé les mots de destruction..."
+    },
+    {
+      "subtitle_index": 917,
+      "start_time": 7042.8,
+      "end_time": 7046.8,
+      "duration": 4.0,
+      "dialogue_text": "Ces enfants ont protégé Laputa de ces idiots."
+    },
+    {
+      "subtitle_index": 918,
+      "start_time": 7049.0,
+      "end_time": 7051.9,
+      "duration": 2.899999999999636,
+      "dialogue_text": "L'effondrement s'est arrêté !"
+    },
+    {
+      "subtitle_index": 919,
+      "start_time": 7057.7,
+      "end_time": 7060.7,
+      "duration": 3.0,
+      "dialogue_text": "C'est la Lévistone ! Quelle chance !"
+    },
+    {
+      "subtitle_index": 920,
+      "start_time": 7060.8,
+      "end_time": 7062.8,
+      "duration": 2.0,
+      "dialogue_text": "Il monte."
+    },
+    {
+      "subtitle_index": 921,
+      "start_time": 7068.7,
+      "end_time": 7074.7,
+      "duration": 6.0,
+      "dialogue_text": "L'arbre ! Il doit les retenir ! Suivons-le !"
+    },
+    {
+      "subtitle_index": 922,
+      "start_time": 7119.7,
+      "end_time": 7121.7,
+      "duration": 2.0,
+      "dialogue_text": "Les racines de l'arbre nous ont sauvés."
+    },
+    {
+      "subtitle_index": 923,
+      "start_time": 7137.9,
+      "end_time": 7139.9,
+      "duration": 2.0,
+      "dialogue_text": "On casse la racine."
+    },
+    {
+      "subtitle_index": 924,
+      "start_time": 7140.7,
+      "end_time": 7141.7,
+      "duration": 1.0,
+      "dialogue_text": "Allons-y."
+    },
+    {
+      "subtitle_index": 925,
+      "start_time": 7211.7,
+      "end_time": 7214.7,
+      "duration": 3.0,
+      "dialogue_text": "Qu'est ce que vous faites ? Nous sommes censés monter !"
+    },
+    {
+      "subtitle_index": 926,
+      "start_time": 7214.8,
+      "end_time": 7216.8,
+      "duration": 2.0,
+      "dialogue_text": "On ne peut pas faire ça !"
+    },
+    {
+      "subtitle_index": 927,
+      "start_time": 7222.6,
+      "end_time": 7223.6,
+      "duration": 1.0,
+      "dialogue_text": "C'est Shita !"
+    },
+    {
+      "subtitle_index": 928,
+      "start_time": 7223.7,
+      "end_time": 7224.7,
+      "duration": 1.0,
+      "dialogue_text": "C'est Shita !"
+    },
+    {
+      "subtitle_index": 929,
+      "start_time": 7224.9,
+      "end_time": 7225.9,
+      "duration": 1.0,
+      "dialogue_text": "Ils sont vivants."
+    },
+    {
+      "subtitle_index": 930,
+      "start_time": 7225.9,
+      "end_time": 7226.9,
+      "duration": 1.0,
+      "dialogue_text": "C'est l'apprentie."
+    },
+    {
+      "subtitle_index": 931,
+      "start_time": 7230.9,
+      "end_time": 7231.5,
+      "duration": 0.6000000000003638,
+      "dialogue_text": "Tantine !"
+    },
+    {
+      "subtitle_index": 932,
+      "start_time": 7232.8,
+      "end_time": 7234.8,
+      "duration": 2.0,
+      "dialogue_text": "Vous êtes sains et saufs ?"
+    },
+    {
+      "subtitle_index": 933,
+      "start_time": 7234.8,
+      "end_time": 7235.8,
+      "duration": 1.0,
+      "dialogue_text": "Tout le monde va bien !"
+    },
+    {
+      "subtitle_index": 934,
+      "start_time": 7236.7,
+      "end_time": 7240.7,
+      "duration": 4.0,
+      "dialogue_text": "Tout le monde va bien, excepté mon pauvre bateau, déchiré en lambeaux."
+    },
+    {
+      "subtitle_index": 935,
+      "start_time": 7241.7,
+      "end_time": 7245.7,
+      "duration": 4.0,
+      "dialogue_text": "Ne sois pas aussi sentimental. Tu peux construire un autre vaisseau."
+    },
+    {
+      "subtitle_index": 936,
+      "start_time": 7245.8,
+      "end_time": 7249.8,
+      "duration": 4.0,
+      "dialogue_text": "Pauvre chose... Quel destin cruel de finir coupé..."
+    },
+    {
+      "subtitle_index": 937,
+      "start_time": 7250.8,
+      "end_time": 7253.8,
+      "duration": 3.0,
+      "dialogue_text": "Tantine... Aïe !"
+    },
+    {
+      "subtitle_index": 938,
+      "start_time": 7251.9,
+      "end_time": 7253.9,
+      "duration": 2.0,
+      "dialogue_text": "Oh, pardon."
+    },
+    {
+      "subtitle_index": 939,
+      "start_time": 7254.8,
+      "end_time": 7258.8,
+      "duration": 4.0,
+      "dialogue_text": "N'est ce pas terrible ? S'inquiéter autant de ces choses."
+    },
+    {
+      "subtitle_index": 940,
+      "start_time": 7261.7,
+      "end_time": 7264.7,
+      "duration": 3.0,
+      "dialogue_text": "En tout cas, ce qui nous inquiète, c'est le temps qu'il nous reste..."
+    }
+  ]
+}

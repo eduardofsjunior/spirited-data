@@ -1,0 +1,7593 @@
+{
+  "metadata": {
+    "film_name": "Ponyo",
+    "film_slug": "ponyo_ja",
+    "language_code": "ja",
+    "total_subtitles": 1083,
+    "total_duration": 7368.04,
+    "parse_timestamp": "2025-10-30T17:09:42.412969"
+  },
+  "subtitles": [
+    {
+      "subtitle_index": 1,
+      "start_time": 30.712,
+      "end_time": 33.698,
+      "duration": 2.9860000000000007,
+      "dialogue_text": "映画で楽しく冒険だ！ シネマボーイ 加藤清史郎です。"
+    },
+    {
+      "subtitle_index": 2,
+      "start_time": 33.698,
+      "end_time": 35.717,
+      "duration": 2.0189999999999984,
+      "dialogue_text": "今日の映画は こちら！"
+    },
+    {
+      "subtitle_index": 3,
+      "start_time": 35.717,
+      "end_time": 38.72,
+      "duration": 3.003,
+      "dialogue_text": "あれ？ どこ行っちゃったのかな？"
+    },
+    {
+      "subtitle_index": 4,
+      "start_time": 38.72,
+      "end_time": 41.206,
+      "duration": 2.486000000000004,
+      "dialogue_text": "あっ いた！ 今日の主役 発見！"
+    },
+    {
+      "subtitle_index": 5,
+      "start_time": 41.206,
+      "end_time": 43.725,
+      "duration": 2.5189999999999984,
+      "dialogue_text": "うわ～ たくさん出て来た。"
+    },
+    {
+      "subtitle_index": 6,
+      "start_time": 43.725,
+      "end_time": 45.725,
+      "duration": 2.0,
+      "dialogue_text": "＜今日は…＞"
+    },
+    {
+      "subtitle_index": 7,
+      "start_time": 46.778,
+      "end_time": 49.697,
+      "duration": 2.919000000000004,
+      "dialogue_text": "＜人間になりたいと願う…＞"
+    },
+    {
+      "subtitle_index": 8,
+      "start_time": 49.697,
+      "end_time": 52.217,
+      "duration": 2.519999999999996,
+      "dialogue_text": "＜心優しい…＞"
+    },
+    {
+      "subtitle_index": 9,
+      "start_time": 52.217,
+      "end_time": 54.702,
+      "duration": 2.4849999999999994,
+      "dialogue_text": "（ポニョ） ポニョ 宗介 好き！"
+    },
+    {
+      "subtitle_index": 10,
+      "start_time": 54.702,
+      "end_time": 57.188,
+      "duration": 2.486000000000004,
+      "dialogue_text": "（宗介） 僕が守ってあげるからね。"
+    },
+    {
+      "subtitle_index": 11,
+      "start_time": 57.188,
+      "end_time": 59.707,
+      "duration": 2.5189999999999984,
+      "dialogue_text": "＜果たして ポニョは 人間になれるのか？＞"
+    },
+    {
+      "subtitle_index": 12,
+      "start_time": 59.707,
+      "end_time": 62.71,
+      "duration": 3.003,
+      "dialogue_text": "＜宗介は 約束を守ることが できるのか？＞"
+    },
+    {
+      "subtitle_index": 13,
+      "start_time": 62.71,
+      "end_time": 65.747,
+      "duration": 3.036999999999999,
+      "dialogue_text": "＜優しくて心温まる 最高のファンタジー＞"
+    },
+    {
+      "subtitle_index": 14,
+      "start_time": 65.747,
+      "end_time": 69.701,
+      "duration": 3.9539999999999935,
+      "dialogue_text": "＜宗介の約束を果たす大冒険に いざ 出発！＞"
+    },
+    {
+      "subtitle_index": 15,
+      "start_time": 69.701,
+      "end_time": 71.719,
+      "duration": 2.0180000000000007,
+      "dialogue_text": "今日の入り込みポイントは→"
+    },
+    {
+      "subtitle_index": 16,
+      "start_time": 71.719,
+      "end_time": 74.706,
+      "duration": 2.987000000000009,
+      "dialogue_text": "宗介の 最後まで あきらめない強い心。"
+    },
+    {
+      "subtitle_index": 17,
+      "start_time": 74.706,
+      "end_time": 77.709,
+      "duration": 3.003,
+      "dialogue_text": "そして 手書きに こだわった アニメーションは→"
+    },
+    {
+      "subtitle_index": 18,
+      "start_time": 77.709,
+      "end_time": 79.694,
+      "duration": 1.9849999999999994,
+      "dialogue_text": "どのシーンも美しい。"
+    },
+    {
+      "subtitle_index": 19,
+      "start_time": 79.694,
+      "end_time": 82.697,
+      "duration": 3.003,
+      "dialogue_text": "『金曜ロードＳＨＯＷ！』と 楽しい夏の夜を。"
+    },
+    {
+      "subtitle_index": 20,
+      "start_time": 82.697,
+      "end_time": 84.732,
+      "duration": 2.0349999999999966,
+      "dialogue_text": "入り込んで～！"
+    },
+    {
+      "subtitle_index": 21,
+      "start_time": 84.732,
+      "end_time": 86.732,
+      "duration": 2.0,
+      "dialogue_text": "わっ！ ポニョ 待って～！"
+    },
+    {
+      "subtitle_index": 22,
+      "start_time": 281.679,
+      "end_time": 285.679,
+      "duration": 4.0,
+      "dialogue_text": "（汽笛）"
+    },
+    {
+      "subtitle_index": 23,
+      "start_time": 286.667,
+      "end_time": 306.671,
+      "duration": 20.00400000000002,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 24,
+      "start_time": 306.671,
+      "end_time": 326.691,
+      "duration": 20.019999999999982,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 25,
+      "start_time": 326.691,
+      "end_time": 346.661,
+      "duration": 19.970000000000027,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 26,
+      "start_time": 346.661,
+      "end_time": 366.681,
+      "duration": 20.019999999999982,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 27,
+      "start_time": 366.681,
+      "end_time": 386.684,
+      "duration": 20.003000000000043,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 28,
+      "start_time": 386.684,
+      "end_time": 406.671,
+      "duration": 19.986999999999966,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 29,
+      "start_time": 406.671,
+      "end_time": 426.674,
+      "duration": 20.002999999999986,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 30,
+      "start_time": 426.674,
+      "end_time": 446.694,
+      "duration": 20.02000000000004,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 31,
+      "start_time": 446.694,
+      "end_time": 460.191,
+      "duration": 13.496999999999957,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 32,
+      "start_time": 460.191,
+      "end_time": 464.662,
+      "duration": 4.471000000000004,
+      "dialogue_text": "（ポニョの妹） ♪♪～ バイバイ！ バイバ～イ！"
+    },
+    {
+      "subtitle_index": 33,
+      "start_time": 464.662,
+      "end_time": 484.665,
+      "duration": 20.003000000000043,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 34,
+      "start_time": 484.665,
+      "end_time": 504.685,
+      "duration": 20.019999999999982,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 35,
+      "start_time": 504.685,
+      "end_time": 524.655,
+      "duration": 19.96999999999997,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 36,
+      "start_time": 524.655,
+      "end_time": 540.155,
+      "duration": 15.5,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 37,
+      "start_time": 542.239,
+      "end_time": 547.678,
+      "duration": 5.4389999999999645,
+      "dialogue_text": "♪♪～ 『海のおかあさん』"
+    },
+    {
+      "subtitle_index": 38,
+      "start_time": 547.678,
+      "end_time": 554.185,
+      "duration": 6.506999999999948,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 39,
+      "start_time": 554.185,
+      "end_time": 564.228,
+      "duration": 10.043000000000006,
+      "dialogue_text": "♪♪～ 海ゆりゆれる"
+    },
+    {
+      "subtitle_index": 40,
+      "start_time": 564.228,
+      "end_time": 573.687,
+      "duration": 9.45900000000006,
+      "dialogue_text": "♪♪～ 青いうち"
+    },
+    {
+      "subtitle_index": 41,
+      "start_time": 573.687,
+      "end_time": 583.164,
+      "duration": 9.476999999999975,
+      "dialogue_text": "♪♪～ かぞえきれない"
+    },
+    {
+      "subtitle_index": 42,
+      "start_time": 583.164,
+      "end_time": 589.22,
+      "duration": 6.05600000000004,
+      "dialogue_text": "♪♪～ きょうだいたちと"
+    },
+    {
+      "subtitle_index": 43,
+      "start_time": 589.22,
+      "end_time": 595.676,
+      "duration": 6.456000000000017,
+      "dialogue_text": "♪♪～ あぶくのことばで"
+    },
+    {
+      "subtitle_index": 44,
+      "start_time": 595.676,
+      "end_time": 602.666,
+      "duration": 6.990000000000009,
+      "dialogue_text": "♪♪～ はなしていたの"
+    },
+    {
+      "subtitle_index": 45,
+      "start_time": 602.666,
+      "end_time": 611.725,
+      "duration": 9.058999999999969,
+      "dialogue_text": "♪♪～ おぼえていますか"
+    },
+    {
+      "subtitle_index": 46,
+      "start_time": 611.725,
+      "end_time": 621.185,
+      "duration": 9.459999999999923,
+      "dialogue_text": "♪♪～ ずっと昔に"
+    },
+    {
+      "subtitle_index": 47,
+      "start_time": 621.185,
+      "end_time": 630.177,
+      "duration": 8.992000000000075,
+      "dialogue_text": "♪♪～ お前は青いうみに"
+    },
+    {
+      "subtitle_index": 48,
+      "start_time": 630.177,
+      "end_time": 639.653,
+      "duration": 9.475999999999999,
+      "dialogue_text": "♪♪～ いっしょにくらしていたの"
+    },
+    {
+      "subtitle_index": 49,
+      "start_time": 639.653,
+      "end_time": 644.191,
+      "duration": 4.538000000000011,
+      "dialogue_text": "♪♪～ クラゲもウニも"
+    },
+    {
+      "subtitle_index": 50,
+      "start_time": 644.191,
+      "end_time": 649.163,
+      "duration": 4.97199999999998,
+      "dialogue_text": "♪♪～ サカナもカニも"
+    },
+    {
+      "subtitle_index": 51,
+      "start_time": 649.163,
+      "end_time": 664.678,
+      "duration": 15.514999999999986,
+      "dialogue_text": "♪♪～ みんな きょうだいだった"
+    },
+    {
+      "subtitle_index": 52,
+      "start_time": 664.678,
+      "end_time": 675.689,
+      "duration": 11.010999999999967,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 53,
+      "start_time": 675.689,
+      "end_time": 678.692,
+      "duration": 3.0030000000000427,
+      "dialogue_text": "（リサ） 宗介！ すぐ戻るのよ！"
+    },
+    {
+      "subtitle_index": 54,
+      "start_time": 678.692,
+      "end_time": 680.692,
+      "duration": 2.0,
+      "dialogue_text": "（宗介） うん！"
+    },
+    {
+      "subtitle_index": 55,
+      "start_time": 758.172,
+      "end_time": 759.672,
+      "duration": 1.5,
+      "dialogue_text": "ん？"
+    },
+    {
+      "subtitle_index": 56,
+      "start_time": 780.177,
+      "end_time": 782.177,
+      "duration": 2.0,
+      "dialogue_text": "金魚だ。"
+    },
+    {
+      "subtitle_index": 57,
+      "start_time": 794.224,
+      "end_time": 796.224,
+      "duration": 2.0,
+      "dialogue_text": "取れないや。"
+    },
+    {
+      "subtitle_index": 58,
+      "start_time": 813.193,
+      "end_time": 815.193,
+      "duration": 2.0,
+      "dialogue_text": "変なの。"
+    },
+    {
+      "subtitle_index": 59,
+      "start_time": 820.234,
+      "end_time": 821.734,
+      "duration": 1.5,
+      "dialogue_text": "うっ！"
+    },
+    {
+      "subtitle_index": 60,
+      "start_time": 825.189,
+      "end_time": 826.689,
+      "duration": 1.5,
+      "dialogue_text": "イテっ！"
+    },
+    {
+      "subtitle_index": 61,
+      "start_time": 829.176,
+      "end_time": 831.676,
+      "duration": 2.5,
+      "dialogue_text": "死んじゃったかなぁ…。"
+    },
+    {
+      "subtitle_index": 62,
+      "start_time": 835.182,
+      "end_time": 837.682,
+      "duration": 2.5,
+      "dialogue_text": "なめた！ 生きてる！"
+    },
+    {
+      "subtitle_index": 63,
+      "start_time": 840.22,
+      "end_time": 842.773,
+      "duration": 2.5529999999999973,
+      "dialogue_text": "宗介！ 行くよ！"
+    },
+    {
+      "subtitle_index": 64,
+      "start_time": 842.773,
+      "end_time": 846.273,
+      "duration": 3.5,
+      "dialogue_text": "リサ～！ 金魚！ 宗介～！"
+    },
+    {
+      "subtitle_index": 65,
+      "start_time": 856.186,
+      "end_time": 858.188,
+      "duration": 2.0019999999999527,
+      "dialogue_text": "変な風ね。"
+    },
+    {
+      "subtitle_index": 66,
+      "start_time": 858.188,
+      "end_time": 861.188,
+      "duration": 3.0,
+      "dialogue_text": "宗介！ エンジンかけてるよ！"
+    },
+    {
+      "subtitle_index": 67,
+      "start_time": 869.683,
+      "end_time": 871.683,
+      "duration": 2.0,
+      "dialogue_text": "（フジモト） 見つけたか！"
+    },
+    {
+      "subtitle_index": 68,
+      "start_time": 876.673,
+      "end_time": 880.173,
+      "duration": 3.5,
+      "dialogue_text": "えっ！ 人間に捕まったって!?"
+    },
+    {
+      "subtitle_index": 69,
+      "start_time": 882.663,
+      "end_time": 885.663,
+      "duration": 3.0,
+      "dialogue_text": "マズい ものすごくマズい。"
+    },
+    {
+      "subtitle_index": 70,
+      "start_time": 911.742,
+      "end_time": 914.242,
+      "duration": 2.5,
+      "dialogue_text": "死んじゃったかなぁ…。"
+    },
+    {
+      "subtitle_index": 71,
+      "start_time": 921.668,
+      "end_time": 923.168,
+      "duration": 1.5,
+      "dialogue_text": "生きてる！"
+    },
+    {
+      "subtitle_index": 72,
+      "start_time": 925.656,
+      "end_time": 927.157,
+      "duration": 1.50100000000009,
+      "dialogue_text": "わっ！"
+    },
+    {
+      "subtitle_index": 73,
+      "start_time": 927.157,
+      "end_time": 930.657,
+      "duration": 3.5,
+      "dialogue_text": "ハハハハ…。"
+    },
+    {
+      "subtitle_index": 74,
+      "start_time": 932.179,
+      "end_time": 936.733,
+      "duration": 4.553999999999974,
+      "dialogue_text": "宗介！ 遅刻しちゃうよ！"
+    },
+    {
+      "subtitle_index": 75,
+      "start_time": 936.733,
+      "end_time": 940.187,
+      "duration": 3.4540000000000646,
+      "dialogue_text": "リサ！ 金魚 生きてた！"
+    },
+    {
+      "subtitle_index": 76,
+      "start_time": 940.187,
+      "end_time": 941.688,
+      "duration": 1.5009999999999764,
+      "dialogue_text": "金魚？"
+    },
+    {
+      "subtitle_index": 77,
+      "start_time": 941.688,
+      "end_time": 943.657,
+      "duration": 1.969000000000051,
+      "dialogue_text": "海で拾ったの！"
+    },
+    {
+      "subtitle_index": 78,
+      "start_time": 943.657,
+      "end_time": 945.157,
+      "duration": 1.5,
+      "dialogue_text": "へぇ～。"
+    },
+    {
+      "subtitle_index": 79,
+      "start_time": 952.182,
+      "end_time": 953.682,
+      "duration": 1.5,
+      "dialogue_text": "ん？"
+    },
+    {
+      "subtitle_index": 80,
+      "start_time": 969.666,
+      "end_time": 973.67,
+      "duration": 4.003999999999905,
+      "dialogue_text": "どなたか存じませんが ここで 除草剤をまかないでください！"
+    },
+    {
+      "subtitle_index": 81,
+      "start_time": 973.67,
+      "end_time": 975.672,
+      "duration": 2.0020000000000664,
+      "dialogue_text": "ん!?"
+    },
+    {
+      "subtitle_index": 82,
+      "start_time": 975.672,
+      "end_time": 978.675,
+      "duration": 3.002999999999929,
+      "dialogue_text": "いや これは除草剤ではありません。"
+    },
+    {
+      "subtitle_index": 83,
+      "start_time": 978.675,
+      "end_time": 981.728,
+      "duration": 3.0529999999999973,
+      "dialogue_text": "過度の乾燥をさけるため 深い海のきれいな水を…。"
+    },
+    {
+      "subtitle_index": 84,
+      "start_time": 981.728,
+      "end_time": 984.681,
+      "duration": 2.953000000000088,
+      "dialogue_text": "除草剤じゃないなら結構です。"
+    },
+    {
+      "subtitle_index": 85,
+      "start_time": 984.681,
+      "end_time": 986.681,
+      "duration": 2.0,
+      "dialogue_text": "失礼します。"
+    },
+    {
+      "subtitle_index": 86,
+      "start_time": 991.672,
+      "end_time": 993.172,
+      "duration": 1.5,
+      "dialogue_text": "あっ。"
+    },
+    {
+      "subtitle_index": 87,
+      "start_time": 994.191,
+      "end_time": 996.691,
+      "duration": 2.5,
+      "dialogue_text": "マズい ますますマズい。"
+    },
+    {
+      "subtitle_index": 88,
+      "start_time": 1150.163,
+      "end_time": 1152.182,
+      "duration": 2.0190000000000055,
+      "dialogue_text": "何よ あの不気味男！"
+    },
+    {
+      "subtitle_index": 89,
+      "start_time": 1152.182,
+      "end_time": 1155.669,
+      "duration": 3.48700000000008,
+      "dialogue_text": "…な～んて言っちゃダメよ 宗介 人は見かけじゃないんだからね。"
+    },
+    {
+      "subtitle_index": 90,
+      "start_time": 1155.669,
+      "end_time": 1157.154,
+      "duration": 1.4849999999999,
+      "dialogue_text": "僕 言わないよ。"
+    },
+    {
+      "subtitle_index": 91,
+      "start_time": 1157.154,
+      "end_time": 1160.157,
+      "duration": 3.002999999999929,
+      "dialogue_text": "あっ それ保育園に持って行くの？ うん。"
+    },
+    {
+      "subtitle_index": 92,
+      "start_time": 1160.157,
+      "end_time": 1162.175,
+      "duration": 2.018000000000029,
+      "dialogue_text": "先生 ダメって言わない？"
+    },
+    {
+      "subtitle_index": 93,
+      "start_time": 1162.175,
+      "end_time": 1166.246,
+      "duration": 4.07100000000014,
+      "dialogue_text": "大丈夫だよ 僕が守ってあげるからね。"
+    },
+    {
+      "subtitle_index": 94,
+      "start_time": 1166.246,
+      "end_time": 1168.246,
+      "duration": 2.0,
+      "dialogue_text": "かわいいじゃない。"
+    },
+    {
+      "subtitle_index": 95,
+      "start_time": 1174.655,
+      "end_time": 1176.655,
+      "duration": 2.0,
+      "dialogue_text": "船が入る日なんだわ！"
+    },
+    {
+      "subtitle_index": 96,
+      "start_time": 1178.175,
+      "end_time": 1180.675,
+      "duration": 2.5,
+      "dialogue_text": "宗介 着く前に食べなさい。"
+    },
+    {
+      "subtitle_index": 97,
+      "start_time": 1181.678,
+      "end_time": 1184.181,
+      "duration": 2.502999999999929,
+      "dialogue_text": "これ 食べるかなぁ。"
+    },
+    {
+      "subtitle_index": 98,
+      "start_time": 1184.181,
+      "end_time": 1186.181,
+      "duration": 2.0,
+      "dialogue_text": "食べる？"
+    },
+    {
+      "subtitle_index": 99,
+      "start_time": 1187.167,
+      "end_time": 1189.667,
+      "duration": 2.5,
+      "dialogue_text": "あれ!? ケガがない！"
+    },
+    {
+      "subtitle_index": 100,
+      "start_time": 1192.656,
+      "end_time": 1195.175,
+      "duration": 2.5190000000000055,
+      "dialogue_text": "リサ このコは ポニョっていうんだよ。"
+    },
+    {
+      "subtitle_index": 101,
+      "start_time": 1195.175,
+      "end_time": 1196.677,
+      "duration": 1.5019999999999527,
+      "dialogue_text": "ん？"
+    },
+    {
+      "subtitle_index": 102,
+      "start_time": 1196.677,
+      "end_time": 1199.68,
+      "duration": 3.0030000000001564,
+      "dialogue_text": "ポニョってしてるし 魔法が使えるもん。"
+    },
+    {
+      "subtitle_index": 103,
+      "start_time": 1199.68,
+      "end_time": 1202.68,
+      "duration": 3.0,
+      "dialogue_text": "ポニョが なめたら ケガが治ったんだよ。"
+    },
+    {
+      "subtitle_index": 104,
+      "start_time": 1212.676,
+      "end_time": 1214.676,
+      "duration": 2.0,
+      "dialogue_text": "ハム 食べる？"
+    },
+    {
+      "subtitle_index": 105,
+      "start_time": 1229.743,
+      "end_time": 1232.179,
+      "duration": 2.436000000000149,
+      "dialogue_text": "リサ！ ポニョはハムが好きなんだよ。"
+    },
+    {
+      "subtitle_index": 106,
+      "start_time": 1232.179,
+      "end_time": 1234.181,
+      "duration": 2.0019999999999527,
+      "dialogue_text": "私みたいね。"
+    },
+    {
+      "subtitle_index": 107,
+      "start_time": 1234.181,
+      "end_time": 1254.167,
+      "duration": 19.985999999999876,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 108,
+      "start_time": 1254.167,
+      "end_time": 1257.17,
+      "duration": 3.0030000000001564,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 109,
+      "start_time": 1257.17,
+      "end_time": 1259.172,
+      "duration": 2.0019999999999527,
+      "dialogue_text": "イヤイヤ！"
+    },
+    {
+      "subtitle_index": 110,
+      "start_time": 1259.172,
+      "end_time": 1263.677,
+      "duration": 4.504999999999882,
+      "dialogue_text": "う～！ イヤイヤイヤ！"
+    },
+    {
+      "subtitle_index": 111,
+      "start_time": 1263.677,
+      "end_time": 1265.677,
+      "duration": 2.0,
+      "dialogue_text": "リサさん 早く！"
+    },
+    {
+      "subtitle_index": 112,
+      "start_time": 1274.171,
+      "end_time": 1276.671,
+      "duration": 2.5,
+      "dialogue_text": "（フジモト） 汚い！ 汚いぞ！"
+    },
+    {
+      "subtitle_index": 113,
+      "start_time": 1278.175,
+      "end_time": 1280.675,
+      "duration": 2.5,
+      "dialogue_text": "おはようございま～す！"
+    },
+    {
+      "subtitle_index": 114,
+      "start_time": 1286.683,
+      "end_time": 1290.183,
+      "duration": 3.5,
+      "dialogue_text": "ポニョ お家が見えるよ ほら！"
+    },
+    {
+      "subtitle_index": 115,
+      "start_time": 1299.679,
+      "end_time": 1301.179,
+      "duration": 1.5,
+      "dialogue_text": "おはよう！"
+    },
+    {
+      "subtitle_index": 116,
+      "start_time": 1311.174,
+      "end_time": 1313.176,
+      "duration": 2.0019999999999527,
+      "dialogue_text": "ここでいいね。 うん。"
+    },
+    {
+      "subtitle_index": 117,
+      "start_time": 1313.176,
+      "end_time": 1315.676,
+      "duration": 2.5,
+      "dialogue_text": "いってらっしゃい。 いってきま～す。"
+    },
+    {
+      "subtitle_index": 118,
+      "start_time": 1317.264,
+      "end_time": 1319.182,
+      "duration": 1.91800000000012,
+      "dialogue_text": "おはようございます！ ごめんね！"
+    },
+    {
+      "subtitle_index": 119,
+      "start_time": 1319.182,
+      "end_time": 1321.682,
+      "duration": 2.5,
+      "dialogue_text": "（島さん） のり子さんのイス お願い。 は～い！"
+    },
+    {
+      "subtitle_index": 120,
+      "start_time": 1336.283,
+      "end_time": 1338.168,
+      "duration": 1.884999999999991,
+      "dialogue_text": "（ヨシエ） 宗ちゃん おはよう。"
+    },
+    {
+      "subtitle_index": 121,
+      "start_time": 1338.168,
+      "end_time": 1341.171,
+      "duration": 3.0030000000001564,
+      "dialogue_text": "ヨシエさん 今 忙しいんで 後でね。"
+    },
+    {
+      "subtitle_index": 122,
+      "start_time": 1341.171,
+      "end_time": 1344.174,
+      "duration": 3.002999999999929,
+      "dialogue_text": "あらあら。 （トキ） 宗介ちゃん。"
+    },
+    {
+      "subtitle_index": 123,
+      "start_time": 1344.174,
+      "end_time": 1346.674,
+      "duration": 2.5,
+      "dialogue_text": "トキさん 後でね。 あら！"
+    },
+    {
+      "subtitle_index": 124,
+      "start_time": 1353.717,
+      "end_time": 1356.717,
+      "duration": 3.0,
+      "dialogue_text": "先生 ダメって言うかなぁ…。"
+    },
+    {
+      "subtitle_index": 125,
+      "start_time": 1357.671,
+      "end_time": 1359.171,
+      "duration": 1.5,
+      "dialogue_text": "決めた！"
+    },
+    {
+      "subtitle_index": 126,
+      "start_time": 1362.676,
+      "end_time": 1366.176,
+      "duration": 3.5,
+      "dialogue_text": "ここで待っててね すぐ来るからね。"
+    },
+    {
+      "subtitle_index": 127,
+      "start_time": 1368.164,
+      "end_time": 1370.664,
+      "duration": 2.5,
+      "dialogue_text": "猫 来ないかなぁ。"
+    },
+    {
+      "subtitle_index": 128,
+      "start_time": 1381.161,
+      "end_time": 1385.161,
+      "duration": 4.0,
+      "dialogue_text": "じっとしてるんだよ すぐ戻って来るからね。"
+    },
+    {
+      "subtitle_index": 129,
+      "start_time": 1392.689,
+      "end_time": 1394.689,
+      "duration": 2.0,
+      "dialogue_text": "じゃあね… あら トシちゃん。"
+    },
+    {
+      "subtitle_index": 130,
+      "start_time": 1396.192,
+      "end_time": 1400.28,
+      "duration": 4.087999999999965,
+      "dialogue_text": "（保母） ちょっと熱があるけど 元気だから大丈夫でしょ ねぇ？"
+    },
+    {
+      "subtitle_index": 131,
+      "start_time": 1400.28,
+      "end_time": 1402.666,
+      "duration": 2.3859999999999673,
+      "dialogue_text": "お願いします バイバイ。"
+    },
+    {
+      "subtitle_index": 132,
+      "start_time": 1402.666,
+      "end_time": 1404.684,
+      "duration": 2.018000000000029,
+      "dialogue_text": "先生！ おはよう！"
+    },
+    {
+      "subtitle_index": 133,
+      "start_time": 1404.684,
+      "end_time": 1407.684,
+      "duration": 3.0,
+      "dialogue_text": "（保母） おはよう 宗ちゃん。 宗ちゃん 元気？"
+    },
+    {
+      "subtitle_index": 134,
+      "start_time": 1412.659,
+      "end_time": 1415.178,
+      "duration": 2.5190000000000055,
+      "dialogue_text": "（クミコ） 宗介！ ハッ！ クミコちゃん！"
+    },
+    {
+      "subtitle_index": 135,
+      "start_time": 1415.178,
+      "end_time": 1418.214,
+      "duration": 3.035999999999831,
+      "dialogue_text": "見て きれい？ ママが買ってくれたの！"
+    },
+    {
+      "subtitle_index": 136,
+      "start_time": 1418.214,
+      "end_time": 1419.749,
+      "duration": 1.5350000000000819,
+      "dialogue_text": "フ～ン。"
+    },
+    {
+      "subtitle_index": 137,
+      "start_time": 1419.749,
+      "end_time": 1423.67,
+      "duration": 3.921000000000049,
+      "dialogue_text": "（カレン） 宗介 遊ぼう。 僕 今 忙しいから いい。"
+    },
+    {
+      "subtitle_index": 138,
+      "start_time": 1423.67,
+      "end_time": 1427.19,
+      "duration": 3.519999999999982,
+      "dialogue_text": "ここで何してるの？ だから忙しいの。"
+    },
+    {
+      "subtitle_index": 139,
+      "start_time": 1427.19,
+      "end_time": 1429.159,
+      "duration": 1.969000000000051,
+      "dialogue_text": "変な宗介。"
+    },
+    {
+      "subtitle_index": 140,
+      "start_time": 1429.159,
+      "end_time": 1431.659,
+      "duration": 2.5,
+      "dialogue_text": "変なの フン！"
+    },
+    {
+      "subtitle_index": 141,
+      "start_time": 1444.157,
+      "end_time": 1445.657,
+      "duration": 1.5,
+      "dialogue_text": "あっ！"
+    },
+    {
+      "subtitle_index": 142,
+      "start_time": 1451.665,
+      "end_time": 1453.165,
+      "duration": 1.5,
+      "dialogue_text": "ポニョ！"
+    },
+    {
+      "subtitle_index": 143,
+      "start_time": 1456.67,
+      "end_time": 1460.223,
+      "duration": 3.5529999999998836,
+      "dialogue_text": "アハハ…。"
+    },
+    {
+      "subtitle_index": 144,
+      "start_time": 1460.223,
+      "end_time": 1462.258,
+      "duration": 2.035000000000082,
+      "dialogue_text": "（クミコ） 宗介。"
+    },
+    {
+      "subtitle_index": 145,
+      "start_time": 1462.258,
+      "end_time": 1464.678,
+      "duration": 2.4200000000000728,
+      "dialogue_text": "クミコちゃん！ それ なぁに？"
+    },
+    {
+      "subtitle_index": 146,
+      "start_time": 1464.678,
+      "end_time": 1467.681,
+      "duration": 3.002999999999929,
+      "dialogue_text": "園に何か持って来ちゃ いけないんだよ。"
+    },
+    {
+      "subtitle_index": 147,
+      "start_time": 1467.681,
+      "end_time": 1469.666,
+      "duration": 1.9849999999999,
+      "dialogue_text": "この木は 園のじゃないもん。"
+    },
+    {
+      "subtitle_index": 148,
+      "start_time": 1469.666,
+      "end_time": 1472.185,
+      "duration": 2.5190000000000055,
+      "dialogue_text": "『ひまわりの家』のだから いいんです。"
+    },
+    {
+      "subtitle_index": 149,
+      "start_time": 1472.185,
+      "end_time": 1474.17,
+      "duration": 1.9850000000001273,
+      "dialogue_text": "見せて～。"
+    },
+    {
+      "subtitle_index": 150,
+      "start_time": 1474.17,
+      "end_time": 1476.172,
+      "duration": 2.0019999999999527,
+      "dialogue_text": "あっ 金魚！"
+    },
+    {
+      "subtitle_index": 151,
+      "start_time": 1476.172,
+      "end_time": 1478.191,
+      "duration": 2.0190000000000055,
+      "dialogue_text": "金魚じゃないよ ポニョだよ。"
+    },
+    {
+      "subtitle_index": 152,
+      "start_time": 1478.191,
+      "end_time": 1480.744,
+      "duration": 2.5529999999998836,
+      "dialogue_text": "ポニョ？ 見た～い。"
+    },
+    {
+      "subtitle_index": 153,
+      "start_time": 1480.744,
+      "end_time": 1484.744,
+      "duration": 4.0,
+      "dialogue_text": "見せたら誰にも言わない？ うん！ 言わない！"
+    },
+    {
+      "subtitle_index": 154,
+      "start_time": 1486.182,
+      "end_time": 1488.682,
+      "duration": 2.5,
+      "dialogue_text": "ほら かわいいでしょ？"
+    },
+    {
+      "subtitle_index": 155,
+      "start_time": 1494.674,
+      "end_time": 1498.674,
+      "duration": 4.0,
+      "dialogue_text": "変なの！ デブだし ウチの金魚のほうが かわいい。"
+    },
+    {
+      "subtitle_index": 156,
+      "start_time": 1499.679,
+      "end_time": 1501.179,
+      "duration": 1.5,
+      "dialogue_text": "ヒィ～！"
+    },
+    {
+      "subtitle_index": 157,
+      "start_time": 1504.668,
+      "end_time": 1507.671,
+      "duration": 3.0030000000001564,
+      "dialogue_text": "あああ…。"
+    },
+    {
+      "subtitle_index": 158,
+      "start_time": 1507.671,
+      "end_time": 1517.171,
+      "duration": 9.5,
+      "dialogue_text": "（泣き声）"
+    },
+    {
+      "subtitle_index": 159,
+      "start_time": 1520.2,
+      "end_time": 1522.752,
+      "duration": 2.5519999999999072,
+      "dialogue_text": "クミコちゃんが いけないんだよ。"
+    },
+    {
+      "subtitle_index": 160,
+      "start_time": 1522.752,
+      "end_time": 1525.752,
+      "duration": 3.0,
+      "dialogue_text": "ポニョの悪口 言うからだよね。"
+    },
+    {
+      "subtitle_index": 161,
+      "start_time": 1528.675,
+      "end_time": 1531.175,
+      "duration": 2.5,
+      "dialogue_text": "水 足してあげるね。"
+    },
+    {
+      "subtitle_index": 162,
+      "start_time": 1537.667,
+      "end_time": 1539.167,
+      "duration": 1.5,
+      "dialogue_text": "あっ！"
+    },
+    {
+      "subtitle_index": 163,
+      "start_time": 1553.183,
+      "end_time": 1554.683,
+      "duration": 1.5,
+      "dialogue_text": "ポニョ！"
+    },
+    {
+      "subtitle_index": 164,
+      "start_time": 1558.671,
+      "end_time": 1563.171,
+      "duration": 4.5,
+      "dialogue_text": "あっ！ アハハ… よかった。"
+    },
+    {
+      "subtitle_index": 165,
+      "start_time": 1565.695,
+      "end_time": 1567.697,
+      "duration": 2.0019999999999527,
+      "dialogue_text": "フフフ…。"
+    },
+    {
+      "subtitle_index": 166,
+      "start_time": 1567.697,
+      "end_time": 1573.67,
+      "duration": 5.973000000000184,
+      "dialogue_text": "（ヨシエ） ≪おかしいねぇ 宗介ちゃんの声がするねぇ≫"
+    },
+    {
+      "subtitle_index": 167,
+      "start_time": 1573.67,
+      "end_time": 1580.693,
+      "duration": 7.022999999999911,
+      "dialogue_text": "でも宗介ちゃんは保育園に 行ってるはずだし 空耳かなぁ。"
+    },
+    {
+      "subtitle_index": 168,
+      "start_time": 1580.693,
+      "end_time": 1583.693,
+      "duration": 3.0,
+      "dialogue_text": "ヨシエさん 僕 いるよ。"
+    },
+    {
+      "subtitle_index": 169,
+      "start_time": 1584.681,
+      "end_time": 1588.681,
+      "duration": 4.0,
+      "dialogue_text": "あらあら 宗介ちゃんがいる！"
+    },
+    {
+      "subtitle_index": 170,
+      "start_time": 1589.719,
+      "end_time": 1593.173,
+      "duration": 3.453999999999951,
+      "dialogue_text": "僕 いいもの持ってるか？ （ヨシエ） 持ってる！"
+    },
+    {
+      "subtitle_index": 171,
+      "start_time": 1593.173,
+      "end_time": 1598.178,
+      "duration": 5.005000000000109,
+      "dialogue_text": "当たり！ じゃあね 何色でしょう？"
+    },
+    {
+      "subtitle_index": 172,
+      "start_time": 1598.178,
+      "end_time": 1602.165,
+      "duration": 3.9869999999998527,
+      "dialogue_text": "う～ん… 赤！ （のり子） 赤！"
+    },
+    {
+      "subtitle_index": 173,
+      "start_time": 1602.165,
+      "end_time": 1604.184,
+      "duration": 2.0190000000000055,
+      "dialogue_text": "当たり！"
+    },
+    {
+      "subtitle_index": 174,
+      "start_time": 1604.184,
+      "end_time": 1607.187,
+      "duration": 3.002999999999929,
+      "dialogue_text": "どうして分かったのかなぁ。"
+    },
+    {
+      "subtitle_index": 175,
+      "start_time": 1607.187,
+      "end_time": 1609.687,
+      "duration": 2.5,
+      "dialogue_text": "（ヨシエ：のり子） 見せて。 うん！"
+    },
+    {
+      "subtitle_index": 176,
+      "start_time": 1612.158,
+      "end_time": 1615.161,
+      "duration": 3.0030000000001564,
+      "dialogue_text": "あら きれい。 かわいいねぇ。"
+    },
+    {
+      "subtitle_index": 177,
+      "start_time": 1615.161,
+      "end_time": 1617.18,
+      "duration": 2.0190000000000055,
+      "dialogue_text": "ポニョっていうの。"
+    },
+    {
+      "subtitle_index": 178,
+      "start_time": 1617.18,
+      "end_time": 1620.683,
+      "duration": 3.502999999999929,
+      "dialogue_text": "ハムが好きで 魔法も使えるんだよ。"
+    },
+    {
+      "subtitle_index": 179,
+      "start_time": 1620.683,
+      "end_time": 1623.169,
+      "duration": 2.4860000000001037,
+      "dialogue_text": "ここのケガが なくなっちゃったもん。"
+    },
+    {
+      "subtitle_index": 180,
+      "start_time": 1623.169,
+      "end_time": 1625.188,
+      "duration": 2.0190000000000055,
+      "dialogue_text": "ポニョが なめたから。"
+    },
+    {
+      "subtitle_index": 181,
+      "start_time": 1625.188,
+      "end_time": 1627.19,
+      "duration": 2.0019999999999527,
+      "dialogue_text": "へぇ～！"
+    },
+    {
+      "subtitle_index": 182,
+      "start_time": 1627.19,
+      "end_time": 1631.277,
+      "duration": 4.086999999999989,
+      "dialogue_text": "私達の足も なめてくれないかしらねぇ。"
+    },
+    {
+      "subtitle_index": 183,
+      "start_time": 1631.277,
+      "end_time": 1635.181,
+      "duration": 3.9039999999999964,
+      "dialogue_text": "もう一回 宗ちゃんみたいに かけっこできたらねぇ。"
+    },
+    {
+      "subtitle_index": 184,
+      "start_time": 1635.181,
+      "end_time": 1639.169,
+      "duration": 3.9880000000000564,
+      "dialogue_text": "う～ん ポニョに聞いてみないと 分からない。"
+    },
+    {
+      "subtitle_index": 185,
+      "start_time": 1639.169,
+      "end_time": 1643.169,
+      "duration": 4.0,
+      "dialogue_text": "私にも見しとくれ。 いいよ トキさん。"
+    },
+    {
+      "subtitle_index": 186,
+      "start_time": 1644.691,
+      "end_time": 1648.191,
+      "duration": 3.5,
+      "dialogue_text": "う～ イヤだ！ 人面魚じゃないか！"
+    },
+    {
+      "subtitle_index": 187,
+      "start_time": 1649.179,
+      "end_time": 1653.266,
+      "duration": 4.086999999999989,
+      "dialogue_text": "早く海に戻しとくれ！ 津波を呼ぶよ～！"
+    },
+    {
+      "subtitle_index": 188,
+      "start_time": 1653.266,
+      "end_time": 1656.686,
+      "duration": 3.4199999999998454,
+      "dialogue_text": "またトキさんが 津波だなんて。"
+    },
+    {
+      "subtitle_index": 189,
+      "start_time": 1656.686,
+      "end_time": 1659.689,
+      "duration": 3.0030000000001564,
+      "dialogue_text": "人面魚が浜にあがると 津波が来るんだ→"
+    },
+    {
+      "subtitle_index": 190,
+      "start_time": 1659.689,
+      "end_time": 1662.175,
+      "duration": 2.4859999999998763,
+      "dialogue_text": "昔から そういうんだよ！"
+    },
+    {
+      "subtitle_index": 191,
+      "start_time": 1662.175,
+      "end_time": 1668.681,
+      "duration": 6.5060000000000855,
+      "dialogue_text": "あ～～！ 津波だ！ 津波が来た～！"
+    },
+    {
+      "subtitle_index": 192,
+      "start_time": 1668.681,
+      "end_time": 1673.253,
+      "duration": 4.571999999999889,
+      "dialogue_text": "津波が来た！ あっ あっ 津波～！"
+    },
+    {
+      "subtitle_index": 193,
+      "start_time": 1673.253,
+      "end_time": 1674.753,
+      "duration": 1.5,
+      "dialogue_text": "あっ！"
+    },
+    {
+      "subtitle_index": 194,
+      "start_time": 1675.672,
+      "end_time": 1680.672,
+      "duration": 5.0,
+      "dialogue_text": "どうしました？ トキさん。 あ～ 服が台無し～。"
+    },
+    {
+      "subtitle_index": 195,
+      "start_time": 1688.184,
+      "end_time": 1690.184,
+      "duration": 2.0,
+      "dialogue_text": "≪宗介！≫"
+    },
+    {
+      "subtitle_index": 196,
+      "start_time": 1694.657,
+      "end_time": 1697.157,
+      "duration": 2.5,
+      "dialogue_text": "≪宗介～！≫"
+    },
+    {
+      "subtitle_index": 197,
+      "start_time": 1698.678,
+      "end_time": 1701.178,
+      "duration": 2.5,
+      "dialogue_text": "≪宗介！≫"
+    },
+    {
+      "subtitle_index": 198,
+      "start_time": 1702.165,
+      "end_time": 1707.665,
+      "duration": 5.5,
+      "dialogue_text": "宗介！ トキさんに謝りなさ～い！"
+    },
+    {
+      "subtitle_index": 199,
+      "start_time": 1716.679,
+      "end_time": 1720.679,
+      "duration": 4.0,
+      "dialogue_text": "心配しなくていいよ 僕が守ってあげるからね。"
+    },
+    {
+      "subtitle_index": 200,
+      "start_time": 1722.185,
+      "end_time": 1724.185,
+      "duration": 2.0,
+      "dialogue_text": "（ポニョ） そ～すけ。"
+    },
+    {
+      "subtitle_index": 201,
+      "start_time": 1727.19,
+      "end_time": 1729.175,
+      "duration": 1.9849999999999,
+      "dialogue_text": "宗介！"
+    },
+    {
+      "subtitle_index": 202,
+      "start_time": 1729.175,
+      "end_time": 1731.675,
+      "duration": 2.5,
+      "dialogue_text": "あっ ああ…！"
+    },
+    {
+      "subtitle_index": 203,
+      "start_time": 1732.745,
+      "end_time": 1734.745,
+      "duration": 2.0,
+      "dialogue_text": "ポニョ！"
+    },
+    {
+      "subtitle_index": 204,
+      "start_time": 1736.182,
+      "end_time": 1737.684,
+      "duration": 1.5019999999999527,
+      "dialogue_text": "ポニョ。"
+    },
+    {
+      "subtitle_index": 205,
+      "start_time": 1737.684,
+      "end_time": 1739.669,
+      "duration": 1.9850000000001273,
+      "dialogue_text": "宗介。"
+    },
+    {
+      "subtitle_index": 206,
+      "start_time": 1739.669,
+      "end_time": 1743.669,
+      "duration": 4.0,
+      "dialogue_text": "ポニョ 宗介 好き！"
+    },
+    {
+      "subtitle_index": 207,
+      "start_time": 1749.178,
+      "end_time": 1751.214,
+      "duration": 2.035999999999831,
+      "dialogue_text": "僕も好き！"
+    },
+    {
+      "subtitle_index": 208,
+      "start_time": 1751.214,
+      "end_time": 1753.766,
+      "duration": 2.5520000000001346,
+      "dialogue_text": "ポニョ 宗介 好き！"
+    },
+    {
+      "subtitle_index": 209,
+      "start_time": 1753.766,
+      "end_time": 1756.169,
+      "duration": 2.40300000000002,
+      "dialogue_text": "クックック…！"
+    },
+    {
+      "subtitle_index": 210,
+      "start_time": 1756.169,
+      "end_time": 1776.172,
+      "duration": 20.00299999999993,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 211,
+      "start_time": 1776.172,
+      "end_time": 1788.184,
+      "duration": 12.011999999999944,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 212,
+      "start_time": 1788.184,
+      "end_time": 1790.703,
+      "duration": 2.5190000000000055,
+      "dialogue_text": "♪♪～ あっ！ あっ！"
+    },
+    {
+      "subtitle_index": 213,
+      "start_time": 1790.703,
+      "end_time": 1794.274,
+      "duration": 3.5709999999999127,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 214,
+      "start_time": 1794.274,
+      "end_time": 1796.274,
+      "duration": 2.0,
+      "dialogue_text": "ポニョ～！"
+    },
+    {
+      "subtitle_index": 215,
+      "start_time": 1797.176,
+      "end_time": 1800.697,
+      "duration": 3.520999999999958,
+      "dialogue_text": "ポニョ！ ポニョ！"
+    },
+    {
+      "subtitle_index": 216,
+      "start_time": 1800.697,
+      "end_time": 1802.697,
+      "duration": 2.0,
+      "dialogue_text": "ポニョ!?"
+    },
+    {
+      "subtitle_index": 217,
+      "start_time": 1803.683,
+      "end_time": 1807.17,
+      "duration": 3.48700000000008,
+      "dialogue_text": "あっ！ ポニョ！ ポニョ～！"
+    },
+    {
+      "subtitle_index": 218,
+      "start_time": 1807.17,
+      "end_time": 1809.67,
+      "duration": 2.5,
+      "dialogue_text": "ポニョ！ 宗介～！"
+    },
+    {
+      "subtitle_index": 219,
+      "start_time": 1810.673,
+      "end_time": 1814.761,
+      "duration": 4.087999999999965,
+      "dialogue_text": "ポニョ～！ ポニョ！"
+    },
+    {
+      "subtitle_index": 220,
+      "start_time": 1814.761,
+      "end_time": 1817.761,
+      "duration": 3.0,
+      "dialogue_text": "ポニョ！ ポニョ！"
+    },
+    {
+      "subtitle_index": 221,
+      "start_time": 1819.165,
+      "end_time": 1821.184,
+      "duration": 2.0190000000000055,
+      "dialogue_text": "ポニョ！"
+    },
+    {
+      "subtitle_index": 222,
+      "start_time": 1821.184,
+      "end_time": 1832.161,
+      "duration": 10.97700000000009,
+      "dialogue_text": "（泣き声）"
+    },
+    {
+      "subtitle_index": 223,
+      "start_time": 1832.161,
+      "end_time": 1844.661,
+      "duration": 12.5,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 224,
+      "start_time": 2100.146,
+      "end_time": 2103.649,
+      "duration": 3.5029999999997017,
+      "dialogue_text": "宗介さ 運命っていうのがあるんだよ。"
+    },
+    {
+      "subtitle_index": 225,
+      "start_time": 2103.649,
+      "end_time": 2106.686,
+      "duration": 3.037000000000262,
+      "dialogue_text": "つらくても 運命は変えられないんだよ。"
+    },
+    {
+      "subtitle_index": 226,
+      "start_time": 2106.686,
+      "end_time": 2109.238,
+      "duration": 2.55199999999968,
+      "dialogue_text": "ポニョは海で生きるように 生まれたから→"
+    },
+    {
+      "subtitle_index": 227,
+      "start_time": 2109.238,
+      "end_time": 2111.641,
+      "duration": 2.4030000000002474,
+      "dialogue_text": "海に戻ったんだって思うな。"
+    },
+    {
+      "subtitle_index": 228,
+      "start_time": 2111.641,
+      "end_time": 2115.141,
+      "duration": 3.5,
+      "dialogue_text": "あの除草剤男は 確かに怪しいけどね。"
+    },
+    {
+      "subtitle_index": 229,
+      "start_time": 2116.128,
+      "end_time": 2118.147,
+      "duration": 2.018999999999778,
+      "dialogue_text": "ひと口ちょうだい。"
+    },
+    {
+      "subtitle_index": 230,
+      "start_time": 2118.147,
+      "end_time": 2120.147,
+      "duration": 2.0,
+      "dialogue_text": "ほら たれるよ。"
+    },
+    {
+      "subtitle_index": 231,
+      "start_time": 2123.152,
+      "end_time": 2125.152,
+      "duration": 2.0,
+      "dialogue_text": "おいしいじゃん！"
+    },
+    {
+      "subtitle_index": 232,
+      "start_time": 2129.725,
+      "end_time": 2133.663,
+      "duration": 3.938000000000102,
+      "dialogue_text": "元気を出しな 今日は耕一が 帰って来る日なんだから。"
+    },
+    {
+      "subtitle_index": 233,
+      "start_time": 2133.663,
+      "end_time": 2137.65,
+      "duration": 3.98700000000008,
+      "dialogue_text": "宗介が元気じゃないと がっかりするよ。"
+    },
+    {
+      "subtitle_index": 234,
+      "start_time": 2137.65,
+      "end_time": 2157.653,
+      "duration": 20.0029999999997,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 235,
+      "start_time": 2157.653,
+      "end_time": 2163.142,
+      "duration": 5.489000000000033,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 236,
+      "start_time": 2163.142,
+      "end_time": 2165.645,
+      "duration": 2.5030000000001564,
+      "dialogue_text": "今日はもう ♪♪～ 海に下りないでね。"
+    },
+    {
+      "subtitle_index": 237,
+      "start_time": 2165.645,
+      "end_time": 2167.129,
+      "duration": 1.4839999999999236,
+      "dialogue_text": "♪♪～ うん…。"
+    },
+    {
+      "subtitle_index": 238,
+      "start_time": 2167.129,
+      "end_time": 2187.149,
+      "duration": 20.019999999999982,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 239,
+      "start_time": 2187.149,
+      "end_time": 2191.654,
+      "duration": 4.505000000000109,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 240,
+      "start_time": 2191.654,
+      "end_time": 2195.157,
+      "duration": 3.5030000000001564,
+      "dialogue_text": "（窓が開く音） ≪宗介≫"
+    },
+    {
+      "subtitle_index": 241,
+      "start_time": 2195.157,
+      "end_time": 2197.677,
+      "duration": 2.519999999999982,
+      "dialogue_text": "もう お家に入りなさい。"
+    },
+    {
+      "subtitle_index": 242,
+      "start_time": 2197.677,
+      "end_time": 2199.712,
+      "duration": 2.0349999999998545,
+      "dialogue_text": "ここにバケツ置いとけば→"
+    },
+    {
+      "subtitle_index": 243,
+      "start_time": 2199.712,
+      "end_time": 2202.148,
+      "duration": 2.436000000000149,
+      "dialogue_text": "ポニョが来た時 この家って分かるよね？"
+    },
+    {
+      "subtitle_index": 244,
+      "start_time": 2202.148,
+      "end_time": 2206.135,
+      "duration": 3.98700000000008,
+      "dialogue_text": "そうね 宗介がしたかったら そうしてあげな。"
+    },
+    {
+      "subtitle_index": 245,
+      "start_time": 2206.135,
+      "end_time": 2207.636,
+      "duration": 1.500999999999749,
+      "dialogue_text": "うん。"
+    },
+    {
+      "subtitle_index": 246,
+      "start_time": 2207.636,
+      "end_time": 2216.662,
+      "duration": 9.02599999999984,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 247,
+      "start_time": 2216.662,
+      "end_time": 2219.732,
+      "duration": 3.0700000000001637,
+      "dialogue_text": "[TEL]（ベル）"
+    },
+    {
+      "subtitle_index": 248,
+      "start_time": 2219.732,
+      "end_time": 2223.232,
+      "duration": 3.5,
+      "dialogue_text": "宗介 先に出て きっと耕一だよ。"
+    },
+    {
+      "subtitle_index": 249,
+      "start_time": 2225.154,
+      "end_time": 2229.158,
+      "duration": 4.003999999999905,
+      "dialogue_text": "もしもし… うん 僕だよ。"
+    },
+    {
+      "subtitle_index": 250,
+      "start_time": 2229.158,
+      "end_time": 2231.16,
+      "duration": 2.0019999999999527,
+      "dialogue_text": "[TEL] うん 元気だよ。"
+    },
+    {
+      "subtitle_index": 251,
+      "start_time": 2231.16,
+      "end_time": 2233.646,
+      "duration": 2.486000000000331,
+      "dialogue_text": "[TEL]（耕一） 今日な 帰れなくなっちゃったんだ。"
+    },
+    {
+      "subtitle_index": 252,
+      "start_time": 2233.646,
+      "end_time": 2236.132,
+      "duration": 2.4859999999998763,
+      "dialogue_text": "[TEL] 沖を通るから いつもの信号 頼むな。"
+    },
+    {
+      "subtitle_index": 253,
+      "start_time": 2236.132,
+      "end_time": 2238.632,
+      "duration": 2.5,
+      "dialogue_text": "うん リサに代わるよ。"
+    },
+    {
+      "subtitle_index": 254,
+      "start_time": 2239.685,
+      "end_time": 2243.639,
+      "duration": 3.9540000000001783,
+      "dialogue_text": "耕一？ うん… ええっ!?"
+    },
+    {
+      "subtitle_index": 255,
+      "start_time": 2243.639,
+      "end_time": 2246.158,
+      "duration": 2.518999999999778,
+      "dialogue_text": "だって そんなの 断ればいいじゃない！"
+    },
+    {
+      "subtitle_index": 256,
+      "start_time": 2246.158,
+      "end_time": 2249.645,
+      "duration": 3.48700000000008,
+      "dialogue_text": "そうやって 崖の上に女房と子供を 放り出しておけばいいでしょ！"
+    },
+    {
+      "subtitle_index": 257,
+      "start_time": 2249.645,
+      "end_time": 2251.645,
+      "duration": 2.0,
+      "dialogue_text": "もう知らない！"
+    },
+    {
+      "subtitle_index": 258,
+      "start_time": 2254.65,
+      "end_time": 2256.669,
+      "duration": 2.018999999999778,
+      "dialogue_text": "何よ！"
+    },
+    {
+      "subtitle_index": 259,
+      "start_time": 2256.669,
+      "end_time": 2259.688,
+      "duration": 3.019000000000233,
+      "dialogue_text": "宗介！ 今夜は外に食べに行こう！"
+    },
+    {
+      "subtitle_index": 260,
+      "start_time": 2259.688,
+      "end_time": 2262.688,
+      "duration": 3.0,
+      "dialogue_text": "僕 お家で食べたい…。"
+    },
+    {
+      "subtitle_index": 261,
+      "start_time": 2270.166,
+      "end_time": 2271.667,
+      "duration": 1.500999999999749,
+      "dialogue_text": "あっ！"
+    },
+    {
+      "subtitle_index": 262,
+      "start_time": 2271.667,
+      "end_time": 2290.653,
+      "duration": 18.985999999999876,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 263,
+      "start_time": 2290.653,
+      "end_time": 2295.157,
+      "duration": 4.50400000000036,
+      "dialogue_text": "耕一だ！ リサ 耕一の船だよ！ 電気 消して！"
+    },
+    {
+      "subtitle_index": 264,
+      "start_time": 2295.157,
+      "end_time": 2315.127,
+      "duration": 19.9699999999998,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 265,
+      "start_time": 2315.127,
+      "end_time": 2318.647,
+      "duration": 3.519999999999982,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 266,
+      "start_time": 2318.647,
+      "end_time": 2322.635,
+      "duration": 3.9880000000002838,
+      "dialogue_text": "（耕一） 宗介だ！ あいつは天才だ まだ５歳だぞ！"
+    },
+    {
+      "subtitle_index": 267,
+      "start_time": 2322.635,
+      "end_time": 2325.135,
+      "duration": 2.5,
+      "dialogue_text": "（新井） 奥さん 怒ってるでしょうね。"
+    },
+    {
+      "subtitle_index": 268,
+      "start_time": 2329.175,
+      "end_time": 2333.128,
+      "duration": 3.9529999999999745,
+      "dialogue_text": "「ご・め・ん」 リサ 「ごめん」って言ってるよ。"
+    },
+    {
+      "subtitle_index": 269,
+      "start_time": 2333.128,
+      "end_time": 2336.128,
+      "duration": 3.0,
+      "dialogue_text": "Ｂ・Ａ・Ｋ・Ａ。"
+    },
+    {
+      "subtitle_index": 270,
+      "start_time": 2339.652,
+      "end_time": 2343.152,
+      "duration": 3.5,
+      "dialogue_text": "Ａ・Ａ・Ａ・Ａ・Ａ・Ａ…。"
+    },
+    {
+      "subtitle_index": 271,
+      "start_time": 2347.66,
+      "end_time": 2350.713,
+      "duration": 3.0530000000003383,
+      "dialogue_text": "リサ 「愛してる」って！"
+    },
+    {
+      "subtitle_index": 272,
+      "start_time": 2350.713,
+      "end_time": 2353.713,
+      "duration": 3.0,
+      "dialogue_text": "「とっても とっても」って 言ってるよ。"
+    },
+    {
+      "subtitle_index": 273,
+      "start_time": 2366.128,
+      "end_time": 2369.648,
+      "duration": 3.519999999999982,
+      "dialogue_text": "うわぁ きれいだねぇ。"
+    },
+    {
+      "subtitle_index": 274,
+      "start_time": 2369.648,
+      "end_time": 2389.652,
+      "duration": 20.003999999999905,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 275,
+      "start_time": 2389.652,
+      "end_time": 2402.731,
+      "duration": 13.079000000000178,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 276,
+      "start_time": 2402.731,
+      "end_time": 2405.651,
+      "duration": 2.919999999999618,
+      "dialogue_text": "リサ 泣かないの。"
+    },
+    {
+      "subtitle_index": 277,
+      "start_time": 2405.651,
+      "end_time": 2408.654,
+      "duration": 3.0030000000001564,
+      "dialogue_text": "僕も泣かないから。"
+    },
+    {
+      "subtitle_index": 278,
+      "start_time": 2408.654,
+      "end_time": 2413.654,
+      "duration": 5.0,
+      "dialogue_text": "僕ね ポニョを守ってあげるって 約束したの。"
+    },
+    {
+      "subtitle_index": 279,
+      "start_time": 2417.146,
+      "end_time": 2420.646,
+      "duration": 3.5,
+      "dialogue_text": "ポニョ 泣いてないかなぁ…。"
+    },
+    {
+      "subtitle_index": 280,
+      "start_time": 2423.736,
+      "end_time": 2427.236,
+      "duration": 3.5,
+      "dialogue_text": "うわっ！ よし！ 元気出すぞ～！"
+    },
+    {
+      "subtitle_index": 281,
+      "start_time": 2428.157,
+      "end_time": 2431.143,
+      "duration": 2.9859999999998763,
+      "dialogue_text": "♪～ わたしはげんき"
+    },
+    {
+      "subtitle_index": 282,
+      "start_time": 2431.143,
+      "end_time": 2433.162,
+      "duration": 2.018999999999778,
+      "dialogue_text": "痛い…。"
+    },
+    {
+      "subtitle_index": 283,
+      "start_time": 2433.162,
+      "end_time": 2435.147,
+      "duration": 1.9850000000001273,
+      "dialogue_text": "宗介も元気出しな！"
+    },
+    {
+      "subtitle_index": 284,
+      "start_time": 2435.147,
+      "end_time": 2438.133,
+      "duration": 2.9859999999998763,
+      "dialogue_text": "リサと同じに ポニョも きっと元気だよ！"
+    },
+    {
+      "subtitle_index": 285,
+      "start_time": 2438.133,
+      "end_time": 2439.633,
+      "duration": 1.5,
+      "dialogue_text": "うん。"
+    },
+    {
+      "subtitle_index": 286,
+      "start_time": 2440.653,
+      "end_time": 2445.153,
+      "duration": 4.5,
+      "dialogue_text": "さぁ ご飯食べよう！ 耕一の分も食べちゃお～っと！"
+    },
+    {
+      "subtitle_index": 287,
+      "start_time": 2454.166,
+      "end_time": 2456.652,
+      "duration": 2.4859999999998763,
+      "dialogue_text": "（フジモト） まったく 私としたことが→"
+    },
+    {
+      "subtitle_index": 288,
+      "start_time": 2456.652,
+      "end_time": 2459.138,
+      "duration": 2.4859999999998763,
+      "dialogue_text": "お前達に 農場の仕事を見せようなんて→"
+    },
+    {
+      "subtitle_index": 289,
+      "start_time": 2459.138,
+      "end_time": 2461.657,
+      "duration": 2.519000000000233,
+      "dialogue_text": "連れて来たのが いけなかったのだ。"
+    },
+    {
+      "subtitle_index": 290,
+      "start_time": 2461.657,
+      "end_time": 2464.66,
+      "duration": 3.0029999999997017,
+      "dialogue_text": "人間の水と息が どれほど汚れているものか→"
+    },
+    {
+      "subtitle_index": 291,
+      "start_time": 2464.66,
+      "end_time": 2467.146,
+      "duration": 2.486000000000331,
+      "dialogue_text": "あれほど教えたではないか。"
+    },
+    {
+      "subtitle_index": 292,
+      "start_time": 2467.146,
+      "end_time": 2470.215,
+      "duration": 3.06899999999996,
+      "dialogue_text": "さぁ これを食べなさい コレっ！"
+    },
+    {
+      "subtitle_index": 293,
+      "start_time": 2470.215,
+      "end_time": 2473.152,
+      "duration": 2.936999999999898,
+      "dialogue_text": "聞こえないのか ブリュンヒルデ。"
+    },
+    {
+      "subtitle_index": 294,
+      "start_time": 2473.152,
+      "end_time": 2475.154,
+      "duration": 2.0019999999999527,
+      "dialogue_text": "ハムがいい！"
+    },
+    {
+      "subtitle_index": 295,
+      "start_time": 2475.154,
+      "end_time": 2476.655,
+      "duration": 1.5010000000002037,
+      "dialogue_text": "ブッ！"
+    },
+    {
+      "subtitle_index": 296,
+      "start_time": 2476.655,
+      "end_time": 2479.158,
+      "duration": 2.5029999999997017,
+      "dialogue_text": "ハ… ハム!?"
+    },
+    {
+      "subtitle_index": 297,
+      "start_time": 2479.158,
+      "end_time": 2481.644,
+      "duration": 2.4859999999998763,
+      "dialogue_text": "あんな恐ろしいものを どこで知ったんだ→"
+    },
+    {
+      "subtitle_index": 298,
+      "start_time": 2481.644,
+      "end_time": 2483.646,
+      "duration": 2.0020000000004075,
+      "dialogue_text": "言いなさい ブリュンヒルデ。"
+    },
+    {
+      "subtitle_index": 299,
+      "start_time": 2483.646,
+      "end_time": 2487.166,
+      "duration": 3.519999999999982,
+      "dialogue_text": "ブリュンヒルデじゃないもん ポニョだもん。"
+    },
+    {
+      "subtitle_index": 300,
+      "start_time": 2487.166,
+      "end_time": 2489.201,
+      "duration": 2.0349999999998545,
+      "dialogue_text": "ポ… ポ… ポニョ!?"
+    },
+    {
+      "subtitle_index": 301,
+      "start_time": 2489.201,
+      "end_time": 2491.754,
+      "duration": 2.5529999999998836,
+      "dialogue_text": "ポニョ 宗介 好き！"
+    },
+    {
+      "subtitle_index": 302,
+      "start_time": 2491.754,
+      "end_time": 2494.657,
+      "duration": 2.9030000000002474,
+      "dialogue_text": "ポニョ 人間になる～！"
+    },
+    {
+      "subtitle_index": 303,
+      "start_time": 2494.657,
+      "end_time": 2496.642,
+      "duration": 1.9849999999996726,
+      "dialogue_text": "人間に!?"
+    },
+    {
+      "subtitle_index": 304,
+      "start_time": 2496.642,
+      "end_time": 2500.145,
+      "duration": 3.5030000000001564,
+      "dialogue_text": "あんな愚かで忌まわしい生き物の どこがいいのだ！"
+    },
+    {
+      "subtitle_index": 305,
+      "start_time": 2500.145,
+      "end_time": 2503.666,
+      "duration": 3.5210000000001855,
+      "dialogue_text": "人間は海から命を奪い取るだけだ。"
+    },
+    {
+      "subtitle_index": 306,
+      "start_time": 2503.666,
+      "end_time": 2506.669,
+      "duration": 3.0029999999997017,
+      "dialogue_text": "私も かつては人間だった。"
+    },
+    {
+      "subtitle_index": 307,
+      "start_time": 2506.669,
+      "end_time": 2509.688,
+      "duration": 3.019000000000233,
+      "dialogue_text": "人間をやめるために 私が どれほど…。"
+    },
+    {
+      "subtitle_index": 308,
+      "start_time": 2509.688,
+      "end_time": 2512.241,
+      "duration": 2.5529999999998836,
+      "dialogue_text": "ポニョ 手 ほしい！"
+    },
+    {
+      "subtitle_index": 309,
+      "start_time": 2512.241,
+      "end_time": 2515.16,
+      "duration": 2.918999999999869,
+      "dialogue_text": "足 こんなの イヤだ～！"
+    },
+    {
+      "subtitle_index": 310,
+      "start_time": 2515.16,
+      "end_time": 2518.63,
+      "duration": 3.4700000000002547,
+      "dialogue_text": "宗介みたいな足 ほしい！"
+    },
+    {
+      "subtitle_index": 311,
+      "start_time": 2518.63,
+      "end_time": 2521.15,
+      "duration": 2.519999999999982,
+      "dialogue_text": "いいかげんに… あっ！"
+    },
+    {
+      "subtitle_index": 312,
+      "start_time": 2521.15,
+      "end_time": 2528.14,
+      "duration": 6.989999999999782,
+      "dialogue_text": "う～～～～…！"
+    },
+    {
+      "subtitle_index": 313,
+      "start_time": 2528.14,
+      "end_time": 2530.175,
+      "duration": 2.0350000000003092,
+      "dialogue_text": "うっ！ うっ！"
+    },
+    {
+      "subtitle_index": 314,
+      "start_time": 2530.175,
+      "end_time": 2532.175,
+      "duration": 2.0,
+      "dialogue_text": "ああっ！"
+    },
+    {
+      "subtitle_index": 315,
+      "start_time": 2538.133,
+      "end_time": 2539.635,
+      "duration": 1.5020000000004075,
+      "dialogue_text": "うっ！"
+    },
+    {
+      "subtitle_index": 316,
+      "start_time": 2539.635,
+      "end_time": 2543.655,
+      "duration": 4.019999999999982,
+      "dialogue_text": "手 出た！ 足 出た～！"
+    },
+    {
+      "subtitle_index": 317,
+      "start_time": 2543.655,
+      "end_time": 2548.16,
+      "duration": 4.504999999999654,
+      "dialogue_text": "そなた まさか 人間の血を なめたんじゃないだろうな？"
+    },
+    {
+      "subtitle_index": 318,
+      "start_time": 2548.16,
+      "end_time": 2550.129,
+      "duration": 1.969000000000051,
+      "dialogue_text": "宗介んとこ行く！"
+    },
+    {
+      "subtitle_index": 319,
+      "start_time": 2550.129,
+      "end_time": 2554.183,
+      "duration": 4.054000000000087,
+      "dialogue_text": "いかん！ 個体の先天的劣等因子が ＤＮＡの汚染で覚醒した！"
+    },
+    {
+      "subtitle_index": 320,
+      "start_time": 2554.183,
+      "end_time": 2558.654,
+      "duration": 4.471000000000004,
+      "dialogue_text": "戻れ 戻れ 戻れ 戻れ 戻れ 戻れ…。"
+    },
+    {
+      "subtitle_index": 321,
+      "start_time": 2558.654,
+      "end_time": 2562.141,
+      "duration": 3.48700000000008,
+      "dialogue_text": "うわっ！ おおっ！"
+    },
+    {
+      "subtitle_index": 322,
+      "start_time": 2562.141,
+      "end_time": 2566.141,
+      "duration": 4.0,
+      "dialogue_text": "グレグレグレグレ… え～い！"
+    },
+    {
+      "subtitle_index": 323,
+      "start_time": 2569.148,
+      "end_time": 2572.148,
+      "duration": 3.0,
+      "dialogue_text": "いかん！ パワーが足りない！"
+    },
+    {
+      "subtitle_index": 324,
+      "start_time": 2573.685,
+      "end_time": 2576.185,
+      "duration": 2.5,
+      "dialogue_text": "出～る！ 出～る！"
+    },
+    {
+      "subtitle_index": 325,
+      "start_time": 2577.139,
+      "end_time": 2579.639,
+      "duration": 2.5,
+      "dialogue_text": "出～る！ 出～る！"
+    },
+    {
+      "subtitle_index": 326,
+      "start_time": 2581.16,
+      "end_time": 2583.645,
+      "duration": 2.4850000000001273,
+      "dialogue_text": "出～る！ 出～る！"
+    },
+    {
+      "subtitle_index": 327,
+      "start_time": 2583.645,
+      "end_time": 2586.648,
+      "duration": 3.0030000000001564,
+      "dialogue_text": "う～！ う～！ 出～る！"
+    },
+    {
+      "subtitle_index": 328,
+      "start_time": 2586.648,
+      "end_time": 2589.651,
+      "duration": 3.0029999999997017,
+      "dialogue_text": "よこしまなる血よ しずまるがいい。"
+    },
+    {
+      "subtitle_index": 329,
+      "start_time": 2589.651,
+      "end_time": 2592.651,
+      "duration": 3.0,
+      "dialogue_text": "もど もど もど もど もど…。"
+    },
+    {
+      "subtitle_index": 330,
+      "start_time": 2600.145,
+      "end_time": 2602.164,
+      "duration": 2.019000000000233,
+      "dialogue_text": "フ～…。"
+    },
+    {
+      "subtitle_index": 331,
+      "start_time": 2602.164,
+      "end_time": 2605.664,
+      "duration": 3.5,
+      "dialogue_text": "さすがに あの人の血を引く子だ 強い。"
+    },
+    {
+      "subtitle_index": 332,
+      "start_time": 2610.639,
+      "end_time": 2614.639,
+      "duration": 4.0,
+      "dialogue_text": "いつまでも幼く無垢であれば いいものを…。"
+    },
+    {
+      "subtitle_index": 333,
+      "start_time": 2635.164,
+      "end_time": 2638.15,
+      "duration": 2.9859999999998763,
+      "dialogue_text": "私の力では 抑えても一時だ。"
+    },
+    {
+      "subtitle_index": 334,
+      "start_time": 2638.15,
+      "end_time": 2640.686,
+      "duration": 2.536000000000058,
+      "dialogue_text": "やはり あの人に来てもらわねば。"
+    },
+    {
+      "subtitle_index": 335,
+      "start_time": 2640.686,
+      "end_time": 2642.686,
+      "duration": 2.0,
+      "dialogue_text": "あ？ ん？"
+    },
+    {
+      "subtitle_index": 336,
+      "start_time": 2649.645,
+      "end_time": 2652.648,
+      "duration": 3.0030000000001564,
+      "dialogue_text": "いかん！ 君達に それは強すぎる！"
+    },
+    {
+      "subtitle_index": 337,
+      "start_time": 2652.648,
+      "end_time": 2655.651,
+      "duration": 3.0029999999997017,
+      "dialogue_text": "シッ！ シッ！ ダメだよ！"
+    },
+    {
+      "subtitle_index": 338,
+      "start_time": 2655.651,
+      "end_time": 2658.654,
+      "duration": 3.0030000000001564,
+      "dialogue_text": "危ない危ない カニよけの結界が ゆるんでいたとは。"
+    },
+    {
+      "subtitle_index": 339,
+      "start_time": 2658.654,
+      "end_time": 2661.14,
+      "duration": 2.4859999999998763,
+      "dialogue_text": "生態系のバランスを崩すところだ。"
+    },
+    {
+      "subtitle_index": 340,
+      "start_time": 2661.14,
+      "end_time": 2662.641,
+      "duration": 1.5010000000002037,
+      "dialogue_text": "落ち着け 落ち着け。"
+    },
+    {
+      "subtitle_index": 341,
+      "start_time": 2662.641,
+      "end_time": 2666.211,
+      "duration": 3.569999999999709,
+      "dialogue_text": "あぁ あの人に会えるかと思うと 胸が苦しくなって来た！"
+    },
+    {
+      "subtitle_index": 342,
+      "start_time": 2666.211,
+      "end_time": 2669.711,
+      "duration": 3.5,
+      "dialogue_text": "しまった しまった これは精製が終わってるんだった。"
+    },
+    {
+      "subtitle_index": 343,
+      "start_time": 2678.157,
+      "end_time": 2680.657,
+      "duration": 2.5,
+      "dialogue_text": "ここは ゆるんでないな。"
+    },
+    {
+      "subtitle_index": 344,
+      "start_time": 2683.645,
+      "end_time": 2687.145,
+      "duration": 3.5,
+      "dialogue_text": "う～！ 立て付け悪いぞ。"
+    },
+    {
+      "subtitle_index": 345,
+      "start_time": 2692.221,
+      "end_time": 2694.221,
+      "duration": 2.0,
+      "dialogue_text": "後で直さなきゃ。"
+    },
+    {
+      "subtitle_index": 346,
+      "start_time": 2700.646,
+      "end_time": 2703.649,
+      "duration": 3.0029999999997017,
+      "dialogue_text": "フナムシ１匹入っても大ごとだ。"
+    },
+    {
+      "subtitle_index": 347,
+      "start_time": 2703.649,
+      "end_time": 2723.151,
+      "duration": 19.501999999999953,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 348,
+      "start_time": 2723.151,
+      "end_time": 2725.151,
+      "duration": 2.0,
+      "dialogue_text": "んっ!?"
+    },
+    {
+      "subtitle_index": 349,
+      "start_time": 2727.139,
+      "end_time": 2729.157,
+      "duration": 2.018000000000029,
+      "dialogue_text": "いい仕上がりだ。"
+    },
+    {
+      "subtitle_index": 350,
+      "start_time": 2729.157,
+      "end_time": 2733.662,
+      "duration": 4.504999999999654,
+      "dialogue_text": "海の力がＤＮＡの らせんの隅々にまで染み渡る。"
+    },
+    {
+      "subtitle_index": 351,
+      "start_time": 2733.662,
+      "end_time": 2738.183,
+      "duration": 4.5210000000001855,
+      "dialogue_text": "この井戸が いっぱいになった時 再び海の時代が始まるのだ。"
+    },
+    {
+      "subtitle_index": 352,
+      "start_time": 2738.183,
+      "end_time": 2741.637,
+      "duration": 3.4540000000001783,
+      "dialogue_text": "カンブリア紀にも比肩する 生命の爆発。"
+    },
+    {
+      "subtitle_index": 353,
+      "start_time": 2741.637,
+      "end_time": 2744.637,
+      "duration": 3.0,
+      "dialogue_text": "忌まわしい人間の時代が 終わるのだ。"
+    },
+    {
+      "subtitle_index": 354,
+      "start_time": 2749.645,
+      "end_time": 2751.645,
+      "duration": 2.0,
+      "dialogue_text": "ゆる… ゆるんでるな…。"
+    },
+    {
+      "subtitle_index": 355,
+      "start_time": 2979.658,
+      "end_time": 2987.658,
+      "duration": 8.0,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 356,
+      "start_time": 3031.643,
+      "end_time": 3051.663,
+      "duration": 20.019999999999982,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 357,
+      "start_time": 3051.663,
+      "end_time": 3061.189,
+      "duration": 9.52599999999984,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 358,
+      "start_time": 3061.189,
+      "end_time": 3063.241,
+      "duration": 2.0520000000001346,
+      "dialogue_text": "♪♪～ 歯～！"
+    },
+    {
+      "subtitle_index": 359,
+      "start_time": 3063.241,
+      "end_time": 3065.66,
+      "duration": 2.418999999999869,
+      "dialogue_text": "♪♪～ あら！ あら！ あら！"
+    },
+    {
+      "subtitle_index": 360,
+      "start_time": 3065.66,
+      "end_time": 3070.649,
+      "duration": 4.989000000000033,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 361,
+      "start_time": 3070.649,
+      "end_time": 3073.168,
+      "duration": 2.519000000000233,
+      "dialogue_text": "♪♪～ 宗介んとこ行く！"
+    },
+    {
+      "subtitle_index": 362,
+      "start_time": 3073.168,
+      "end_time": 3082.744,
+      "duration": 9.576000000000022,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 363,
+      "start_time": 3082.744,
+      "end_time": 3085.163,
+      "duration": 2.418999999999869,
+      "dialogue_text": "♪♪～ （妹達） あ～！"
+    },
+    {
+      "subtitle_index": 364,
+      "start_time": 3085.163,
+      "end_time": 3105.15,
+      "duration": 19.98700000000008,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 365,
+      "start_time": 3105.15,
+      "end_time": 3118.15,
+      "duration": 13.0,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 366,
+      "start_time": 3168.146,
+      "end_time": 3188.166,
+      "duration": 20.019999999999982,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 367,
+      "start_time": 3188.166,
+      "end_time": 3202.681,
+      "duration": 14.514999999999873,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 368,
+      "start_time": 3202.681,
+      "end_time": 3205.233,
+      "duration": 2.5520000000001346,
+      "dialogue_text": "♪♪～ え～～い！"
+    },
+    {
+      "subtitle_index": 369,
+      "start_time": 3205.233,
+      "end_time": 3224.169,
+      "duration": 18.935999999999694,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 370,
+      "start_time": 3224.169,
+      "end_time": 3227.672,
+      "duration": 3.5030000000001564,
+      "dialogue_text": "（耕一） 竜巻か!? ♪♪～ （新井） 船長！ あれ あれ！"
+    },
+    {
+      "subtitle_index": 371,
+      "start_time": 3227.672,
+      "end_time": 3231.242,
+      "duration": 3.5700000000001637,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 372,
+      "start_time": 3231.242,
+      "end_time": 3234.162,
+      "duration": 2.919999999999618,
+      "dialogue_text": "（新井） 津波だ～！ ♪♪～ （耕一） 船を波に立てろ！"
+    },
+    {
+      "subtitle_index": 373,
+      "start_time": 3234.162,
+      "end_time": 3235.663,
+      "duration": 1.5010000000002037,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 374,
+      "start_time": 3235.663,
+      "end_time": 3238.149,
+      "duration": 2.4859999999998763,
+      "dialogue_text": "♪♪～ 何だ？ ありゃ…。"
+    },
+    {
+      "subtitle_index": 375,
+      "start_time": 3238.149,
+      "end_time": 3242.17,
+      "duration": 4.0210000000001855,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 376,
+      "start_time": 3242.17,
+      "end_time": 3245.64,
+      "duration": 3.4699999999998,
+      "dialogue_text": "（新井） 船長！ 無線も ♪♪～ レーダーもダメです！"
+    },
+    {
+      "subtitle_index": 377,
+      "start_time": 3245.64,
+      "end_time": 3249.194,
+      "duration": 3.5540000000000873,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 378,
+      "start_time": 3249.194,
+      "end_time": 3252.764,
+      "duration": 3.5700000000001637,
+      "dialogue_text": "女の子だ！ ♪♪～ 宗介と同じくらいの子だ！"
+    },
+    {
+      "subtitle_index": 379,
+      "start_time": 3252.764,
+      "end_time": 3261.673,
+      "duration": 8.90899999999965,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 380,
+      "start_time": 3261.673,
+      "end_time": 3265.173,
+      "duration": 3.5,
+      "dialogue_text": "バイバ～イ。 またね。"
+    },
+    {
+      "subtitle_index": 381,
+      "start_time": 3266.161,
+      "end_time": 3269.647,
+      "duration": 3.4859999999998763,
+      "dialogue_text": "お世話さま。 （保母） ご苦労さま。"
+    },
+    {
+      "subtitle_index": 382,
+      "start_time": 3269.647,
+      "end_time": 3273.668,
+      "duration": 4.0210000000001855,
+      "dialogue_text": "宗ちゃん ここで待ってたら？ 先生 一緒にいてあげるよ。"
+    },
+    {
+      "subtitle_index": 383,
+      "start_time": 3273.668,
+      "end_time": 3275.703,
+      "duration": 2.0349999999998545,
+      "dialogue_text": "抜け穴を通るから平気。"
+    },
+    {
+      "subtitle_index": 384,
+      "start_time": 3275.703,
+      "end_time": 3278.64,
+      "duration": 2.936999999999898,
+      "dialogue_text": "先生 さようなら。 さようなら。"
+    },
+    {
+      "subtitle_index": 385,
+      "start_time": 3278.64,
+      "end_time": 3280.64,
+      "duration": 2.0,
+      "dialogue_text": "気をつけてね。"
+    },
+    {
+      "subtitle_index": 386,
+      "start_time": 3322.667,
+      "end_time": 3324.669,
+      "duration": 2.0019999999999527,
+      "dialogue_text": "あ… 宗介 ごめん。"
+    },
+    {
+      "subtitle_index": 387,
+      "start_time": 3324.669,
+      "end_time": 3327.672,
+      "duration": 3.0030000000001564,
+      "dialogue_text": "ドア開かなかったでしょ 停電しちゃったの。"
+    },
+    {
+      "subtitle_index": 388,
+      "start_time": 3327.672,
+      "end_time": 3330.158,
+      "duration": 2.4859999999998763,
+      "dialogue_text": "園は大丈夫だった？ うん。"
+    },
+    {
+      "subtitle_index": 389,
+      "start_time": 3330.158,
+      "end_time": 3333.194,
+      "duration": 3.036000000000058,
+      "dialogue_text": "（ナオミ） リサさん 大丈夫だから帰って。"
+    },
+    {
+      "subtitle_index": 390,
+      "start_time": 3333.194,
+      "end_time": 3335.23,
+      "duration": 2.036000000000058,
+      "dialogue_text": "金子さん まだでしょ？"
+    },
+    {
+      "subtitle_index": 391,
+      "start_time": 3335.23,
+      "end_time": 3337.665,
+      "duration": 2.4349999999999454,
+      "dialogue_text": "（ナオミ） 平気よ ちょっと遅れてるだけよ きっと。"
+    },
+    {
+      "subtitle_index": 392,
+      "start_time": 3337.665,
+      "end_time": 3340.652,
+      "duration": 2.98700000000008,
+      "dialogue_text": "今夜は どうせ 私達 お泊まりだから。"
+    },
+    {
+      "subtitle_index": 393,
+      "start_time": 3340.652,
+      "end_time": 3344.172,
+      "duration": 3.519999999999982,
+      "dialogue_text": "帰れるうちに帰ったほうが いいわよ。"
+    },
+    {
+      "subtitle_index": 394,
+      "start_time": 3344.172,
+      "end_time": 3346.658,
+      "duration": 2.4859999999998763,
+      "dialogue_text": "宗介 ちょっと待っててね。"
+    },
+    {
+      "subtitle_index": 395,
+      "start_time": 3346.658,
+      "end_time": 3348.158,
+      "duration": 1.5,
+      "dialogue_text": "うん。"
+    },
+    {
+      "subtitle_index": 396,
+      "start_time": 3358.152,
+      "end_time": 3360.154,
+      "duration": 2.0019999999999527,
+      "dialogue_text": "ヨシエさん。"
+    },
+    {
+      "subtitle_index": 397,
+      "start_time": 3360.154,
+      "end_time": 3365.643,
+      "duration": 5.489000000000033,
+      "dialogue_text": "あらあら 宗ちゃんね 真っ暗で よく見えないわ。"
+    },
+    {
+      "subtitle_index": 398,
+      "start_time": 3365.643,
+      "end_time": 3368.143,
+      "duration": 2.5,
+      "dialogue_text": "あのね これ あげる。"
+    },
+    {
+      "subtitle_index": 399,
+      "start_time": 3370.148,
+      "end_time": 3373.184,
+      "duration": 3.036000000000058,
+      "dialogue_text": "まあ 何かしら？"
+    },
+    {
+      "subtitle_index": 400,
+      "start_time": 3373.184,
+      "end_time": 3375.22,
+      "duration": 2.0359999999996035,
+      "dialogue_text": "のり子さんにもあげるね。"
+    },
+    {
+      "subtitle_index": 401,
+      "start_time": 3375.22,
+      "end_time": 3376.754,
+      "duration": 1.5340000000001055,
+      "dialogue_text": "ありがとう。"
+    },
+    {
+      "subtitle_index": 402,
+      "start_time": 3376.754,
+      "end_time": 3379.157,
+      "duration": 2.4030000000002474,
+      "dialogue_text": "（トキ） 真っ暗で何も見えやしない。"
+    },
+    {
+      "subtitle_index": 403,
+      "start_time": 3379.157,
+      "end_time": 3382.16,
+      "duration": 3.0029999999997017,
+      "dialogue_text": "たかが こんな嵐で停電だなんて→"
+    },
+    {
+      "subtitle_index": 404,
+      "start_time": 3382.16,
+      "end_time": 3385.66,
+      "duration": 3.5,
+      "dialogue_text": "だから私は お泊まりはイヤだよ って言ったんだ。"
+    },
+    {
+      "subtitle_index": 405,
+      "start_time": 3388.666,
+      "end_time": 3391.152,
+      "duration": 2.4859999999998763,
+      "dialogue_text": "ついたわ！ よかった。"
+    },
+    {
+      "subtitle_index": 406,
+      "start_time": 3391.152,
+      "end_time": 3393.671,
+      "duration": 2.518999999999778,
+      "dialogue_text": "明るいねぇ… 金魚！"
+    },
+    {
+      "subtitle_index": 407,
+      "start_time": 3393.671,
+      "end_time": 3398.142,
+      "duration": 4.471000000000004,
+      "dialogue_text": "宗ちゃんが来てくれたから 電気がついたのかしらね。"
+    },
+    {
+      "subtitle_index": 408,
+      "start_time": 3398.142,
+      "end_time": 3401.145,
+      "duration": 3.0030000000001564,
+      "dialogue_text": "[TV] 突如 発生した 超小型で猛烈な台風は→"
+    },
+    {
+      "subtitle_index": 409,
+      "start_time": 3401.145,
+      "end_time": 3404.145,
+      "duration": 3.0,
+      "dialogue_text": "非常に強い勢力を保ちながら…。"
+    },
+    {
+      "subtitle_index": 410,
+      "start_time": 3405.166,
+      "end_time": 3407.652,
+      "duration": 2.4859999999998763,
+      "dialogue_text": "ダメなテレビだねぇ。"
+    },
+    {
+      "subtitle_index": 411,
+      "start_time": 3407.652,
+      "end_time": 3412.19,
+      "duration": 4.538000000000011,
+      "dialogue_text": "気象台もだらしないよ 天気予報が ちっとも当たらないじゃないか。"
+    },
+    {
+      "subtitle_index": 412,
+      "start_time": 3412.19,
+      "end_time": 3414.726,
+      "duration": 2.536000000000058,
+      "dialogue_text": "（ヨシエ） 宗ちゃん もうお帰り。"
+    },
+    {
+      "subtitle_index": 413,
+      "start_time": 3414.726,
+      "end_time": 3419.647,
+      "duration": 4.920999999999822,
+      "dialogue_text": "金魚のお守りをもらったから 私達は もう怖くない。"
+    },
+    {
+      "subtitle_index": 414,
+      "start_time": 3419.647,
+      "end_time": 3421.147,
+      "duration": 1.5,
+      "dialogue_text": "うん。"
+    },
+    {
+      "subtitle_index": 415,
+      "start_time": 3427.672,
+      "end_time": 3430.172,
+      "duration": 2.5,
+      "dialogue_text": "トキさんにもあげる。"
+    },
+    {
+      "subtitle_index": 416,
+      "start_time": 3433.161,
+      "end_time": 3437.231,
+      "duration": 4.070000000000164,
+      "dialogue_text": "クシャクシャだねぇ 何だい？ これ。"
+    },
+    {
+      "subtitle_index": 417,
+      "start_time": 3437.231,
+      "end_time": 3438.731,
+      "duration": 1.5,
+      "dialogue_text": "こうだよ。"
+    },
+    {
+      "subtitle_index": 418,
+      "start_time": 3440.652,
+      "end_time": 3442.67,
+      "duration": 2.018000000000029,
+      "dialogue_text": "分かった！ バッタだ！"
+    },
+    {
+      "subtitle_index": 419,
+      "start_time": 3442.67,
+      "end_time": 3445.156,
+      "duration": 2.4859999999998763,
+      "dialogue_text": "違うよ 『小金井丸』だよ。"
+    },
+    {
+      "subtitle_index": 420,
+      "start_time": 3445.156,
+      "end_time": 3449.143,
+      "duration": 3.98700000000008,
+      "dialogue_text": "宗ちゃんのお父さんの船よね？ うん。"
+    },
+    {
+      "subtitle_index": 421,
+      "start_time": 3449.143,
+      "end_time": 3451.663,
+      "duration": 2.519999999999982,
+      "dialogue_text": "バッタみたいに見えるよ。"
+    },
+    {
+      "subtitle_index": 422,
+      "start_time": 3451.663,
+      "end_time": 3456.2,
+      "duration": 4.536999999999807,
+      "dialogue_text": "宗介 失礼するから 皆さんに ごあいさつしてね。"
+    },
+    {
+      "subtitle_index": 423,
+      "start_time": 3456.2,
+      "end_time": 3457.719,
+      "duration": 1.5190000000002328,
+      "dialogue_text": "うん。"
+    },
+    {
+      "subtitle_index": 424,
+      "start_time": 3457.719,
+      "end_time": 3460.672,
+      "duration": 2.9529999999999745,
+      "dialogue_text": "皆さん さようなら。"
+    },
+    {
+      "subtitle_index": 425,
+      "start_time": 3460.672,
+      "end_time": 3462.64,
+      "duration": 1.9679999999998472,
+      "dialogue_text": "（ヨシエ：のり子） さようなら。"
+    },
+    {
+      "subtitle_index": 426,
+      "start_time": 3462.64,
+      "end_time": 3466.16,
+      "duration": 3.519999999999982,
+      "dialogue_text": "風に飛ばされるんじゃないよ！"
+    },
+    {
+      "subtitle_index": 427,
+      "start_time": 3466.16,
+      "end_time": 3468.16,
+      "duration": 2.0,
+      "dialogue_text": "こっちから乗りな。"
+    },
+    {
+      "subtitle_index": 428,
+      "start_time": 3472.667,
+      "end_time": 3475.167,
+      "duration": 2.5,
+      "dialogue_text": "電話も通じないみたい。"
+    },
+    {
+      "subtitle_index": 429,
+      "start_time": 3498.159,
+      "end_time": 3500.659,
+      "duration": 2.5,
+      "dialogue_text": "海が ふくらんでるね。"
+    },
+    {
+      "subtitle_index": 430,
+      "start_time": 3504.265,
+      "end_time": 3506.651,
+      "duration": 2.3859999999999673,
+      "dialogue_text": "お船 沈没しないかなぁ。"
+    },
+    {
+      "subtitle_index": 431,
+      "start_time": 3506.651,
+      "end_time": 3509.654,
+      "duration": 3.0030000000001564,
+      "dialogue_text": "沖に出たほうが 船は嵐に強いの。"
+    },
+    {
+      "subtitle_index": 432,
+      "start_time": 3509.654,
+      "end_time": 3512.154,
+      "duration": 2.5,
+      "dialogue_text": "耕一も きっと そうしてるわ。"
+    },
+    {
+      "subtitle_index": 433,
+      "start_time": 3513.174,
+      "end_time": 3523.217,
+      "duration": 10.04300000000012,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 434,
+      "start_time": 3523.217,
+      "end_time": 3527.155,
+      "duration": 3.938000000000102,
+      "dialogue_text": "お魚だ！ リサ お魚だよ！ ♪♪～ ベルトしてなさい！"
+    },
+    {
+      "subtitle_index": 435,
+      "start_time": 3527.155,
+      "end_time": 3537.648,
+      "duration": 10.492999999999938,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 436,
+      "start_time": 3537.648,
+      "end_time": 3540.168,
+      "duration": 2.519999999999982,
+      "dialogue_text": "リサさん！ ここは もう渡れん！"
+    },
+    {
+      "subtitle_index": 437,
+      "start_time": 3540.168,
+      "end_time": 3542.687,
+      "duration": 2.518999999999778,
+      "dialogue_text": "さっき町の者に 避難命令が出たんぞ！"
+    },
+    {
+      "subtitle_index": 438,
+      "start_time": 3542.687,
+      "end_time": 3545.239,
+      "duration": 2.5520000000001346,
+      "dialogue_text": "避難って 『ひまわりの家』には→"
+    },
+    {
+      "subtitle_index": 439,
+      "start_time": 3545.239,
+      "end_time": 3547.675,
+      "duration": 2.436000000000149,
+      "dialogue_text": "お泊まりの おばあちゃん達がいるわ！"
+    },
+    {
+      "subtitle_index": 440,
+      "start_time": 3547.675,
+      "end_time": 3551.662,
+      "duration": 3.9869999999996253,
+      "dialogue_text": "あそこは島陰だし 堤防も高いから大丈夫だ！"
+    },
+    {
+      "subtitle_index": 441,
+      "start_time": 3551.662,
+      "end_time": 3554.665,
+      "duration": 3.0030000000001564,
+      "dialogue_text": "とにかく いったん家に帰らなきゃ！"
+    },
+    {
+      "subtitle_index": 442,
+      "start_time": 3554.665,
+      "end_time": 3558.165,
+      "duration": 3.5,
+      "dialogue_text": "ここは無理だ！ 山に回りなさい！"
+    },
+    {
+      "subtitle_index": 443,
+      "start_time": 3560.655,
+      "end_time": 3563.207,
+      "duration": 2.55199999999968,
+      "dialogue_text": "宗介 行くよ！ うん！"
+    },
+    {
+      "subtitle_index": 444,
+      "start_time": 3563.207,
+      "end_time": 3567.207,
+      "duration": 4.0,
+      "dialogue_text": "あっ やめなさい！ でかい波が来たぞ！"
+    },
+    {
+      "subtitle_index": 445,
+      "start_time": 3572.667,
+      "end_time": 3576.667,
+      "duration": 4.0,
+      "dialogue_text": "来るぞ！ 逃げろ リサさ～ん！"
+    },
+    {
+      "subtitle_index": 446,
+      "start_time": 3577.672,
+      "end_time": 3586.664,
+      "duration": 8.99200000000019,
+      "dialogue_text": "（エンジンを吹かす音）"
+    },
+    {
+      "subtitle_index": 447,
+      "start_time": 3586.664,
+      "end_time": 3606.651,
+      "duration": 19.986999999999625,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 448,
+      "start_time": 3606.651,
+      "end_time": 3616.26,
+      "duration": 9.609000000000378,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 449,
+      "start_time": 3616.26,
+      "end_time": 3619.647,
+      "duration": 3.3869999999997162,
+      "dialogue_text": "お魚がついて来る！ ♪♪～ ベルトしなさい 宗介！"
+    },
+    {
+      "subtitle_index": 450,
+      "start_time": 3619.647,
+      "end_time": 3628.639,
+      "duration": 8.99200000000019,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 451,
+      "start_time": 3628.639,
+      "end_time": 3630.141,
+      "duration": 1.5019999999999527,
+      "dialogue_text": "♪♪～ うわっ！"
+    },
+    {
+      "subtitle_index": 452,
+      "start_time": 3630.141,
+      "end_time": 3632.66,
+      "duration": 2.518999999999778,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 453,
+      "start_time": 3632.66,
+      "end_time": 3635.179,
+      "duration": 2.519000000000233,
+      "dialogue_text": "♪♪～ さぁ すっ飛ばすわよ！"
+    },
+    {
+      "subtitle_index": 454,
+      "start_time": 3635.179,
+      "end_time": 3655.166,
+      "duration": 19.98700000000008,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 455,
+      "start_time": 3655.166,
+      "end_time": 3675.153,
+      "duration": 19.986999999999625,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 456,
+      "start_time": 3675.153,
+      "end_time": 3686.697,
+      "duration": 11.544000000000324,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 457,
+      "start_time": 3686.697,
+      "end_time": 3689.25,
+      "duration": 2.5529999999998836,
+      "dialogue_text": "♪♪～ 何て しつこい波なの！"
+    },
+    {
+      "subtitle_index": 458,
+      "start_time": 3689.25,
+      "end_time": 3699.143,
+      "duration": 9.893000000000029,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 459,
+      "start_time": 3699.143,
+      "end_time": 3701.662,
+      "duration": 2.518999999999778,
+      "dialogue_text": "女の子が落ちた！ ♪♪～ えっ!?"
+    },
+    {
+      "subtitle_index": 460,
+      "start_time": 3701.662,
+      "end_time": 3703.648,
+      "duration": 1.986000000000331,
+      "dialogue_text": "♪♪～ お魚の上に いたの！"
+    },
+    {
+      "subtitle_index": 461,
+      "start_time": 3703.648,
+      "end_time": 3708.152,
+      "duration": 4.503999999999905,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 462,
+      "start_time": 3708.152,
+      "end_time": 3709.654,
+      "duration": 1.5019999999999527,
+      "dialogue_text": "♪♪～ どこ!?"
+    },
+    {
+      "subtitle_index": 463,
+      "start_time": 3709.654,
+      "end_time": 3718.162,
+      "duration": 8.50799999999981,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 464,
+      "start_time": 3718.162,
+      "end_time": 3720.147,
+      "duration": 1.9850000000001273,
+      "dialogue_text": "海が高くなってる…。"
+    },
+    {
+      "subtitle_index": 465,
+      "start_time": 3720.147,
+      "end_time": 3722.667,
+      "duration": 2.519999999999982,
+      "dialogue_text": "宗介 どこで女の子を見たの？"
+    },
+    {
+      "subtitle_index": 466,
+      "start_time": 3722.667,
+      "end_time": 3725.152,
+      "duration": 2.4850000000001273,
+      "dialogue_text": "あっちで お魚の上を走ってたの！"
+    },
+    {
+      "subtitle_index": 467,
+      "start_time": 3725.152,
+      "end_time": 3727.152,
+      "duration": 2.0,
+      "dialogue_text": "お魚？"
+    },
+    {
+      "subtitle_index": 468,
+      "start_time": 3730.641,
+      "end_time": 3733.141,
+      "duration": 2.5,
+      "dialogue_text": "宗介 行こう！"
+    },
+    {
+      "subtitle_index": 469,
+      "start_time": 3734.729,
+      "end_time": 3736.729,
+      "duration": 2.0,
+      "dialogue_text": "うわぁ～っ！"
+    },
+    {
+      "subtitle_index": 470,
+      "start_time": 3748.643,
+      "end_time": 3752.143,
+      "duration": 3.5,
+      "dialogue_text": "しっかりしな 宗介！ もうすぐ お家だからね！"
+    },
+    {
+      "subtitle_index": 471,
+      "start_time": 3775.653,
+      "end_time": 3777.153,
+      "duration": 1.5,
+      "dialogue_text": "ハッ！"
+    },
+    {
+      "subtitle_index": 472,
+      "start_time": 3788.165,
+      "end_time": 3805.733,
+      "duration": 17.56800000000021,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 473,
+      "start_time": 3805.733,
+      "end_time": 3807.668,
+      "duration": 1.9349999999999454,
+      "dialogue_text": "女の子がいる！"
+    },
+    {
+      "subtitle_index": 474,
+      "start_time": 3807.668,
+      "end_time": 3810.655,
+      "duration": 2.98700000000008,
+      "dialogue_text": "危ないよ～！ こっちにおいで～！"
+    },
+    {
+      "subtitle_index": 475,
+      "start_time": 3810.655,
+      "end_time": 3813.155,
+      "duration": 2.5,
+      "dialogue_text": "宗介は ここにいな！"
+    },
+    {
+      "subtitle_index": 476,
+      "start_time": 3820.665,
+      "end_time": 3822.165,
+      "duration": 1.5,
+      "dialogue_text": "あ…!?"
+    },
+    {
+      "subtitle_index": 477,
+      "start_time": 3838.649,
+      "end_time": 3841.635,
+      "duration": 2.986000000000331,
+      "dialogue_text": "宗介 知ってる子なの？"
+    },
+    {
+      "subtitle_index": 478,
+      "start_time": 3841.635,
+      "end_time": 3862.156,
+      "duration": 20.52099999999973,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 479,
+      "start_time": 3862.156,
+      "end_time": 3864.141,
+      "duration": 1.9850000000001273,
+      "dialogue_text": "ポニョ？"
+    },
+    {
+      "subtitle_index": 480,
+      "start_time": 3864.141,
+      "end_time": 3866.66,
+      "duration": 2.518999999999778,
+      "dialogue_text": "うん！ ポニョだよ！"
+    },
+    {
+      "subtitle_index": 481,
+      "start_time": 3866.66,
+      "end_time": 3870.147,
+      "duration": 3.48700000000008,
+      "dialogue_text": "ポニョだ！ ハハハ！ ハハハ！"
+    },
+    {
+      "subtitle_index": 482,
+      "start_time": 3870.147,
+      "end_time": 3875.152,
+      "duration": 5.005000000000109,
+      "dialogue_text": "リサ！ ポニョが女の子になって 戻って来た！ わっ！"
+    },
+    {
+      "subtitle_index": 483,
+      "start_time": 3875.152,
+      "end_time": 3876.652,
+      "duration": 1.5,
+      "dialogue_text": "あぁ？"
+    },
+    {
+      "subtitle_index": 484,
+      "start_time": 3877.705,
+      "end_time": 3882.143,
+      "duration": 4.438000000000102,
+      "dialogue_text": "（妹達） わぁ～！ ハ～ハッハ～！"
+    },
+    {
+      "subtitle_index": 485,
+      "start_time": 3882.143,
+      "end_time": 3884.662,
+      "duration": 2.518999999999778,
+      "dialogue_text": "フフフ！ ハッハハ～！"
+    },
+    {
+      "subtitle_index": 486,
+      "start_time": 3884.662,
+      "end_time": 3887.665,
+      "duration": 3.0030000000001564,
+      "dialogue_text": "宗介んとこ来た～！"
+    },
+    {
+      "subtitle_index": 487,
+      "start_time": 3887.665,
+      "end_time": 3904.165,
+      "duration": 16.5,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 488,
+      "start_time": 3905.666,
+      "end_time": 3908.669,
+      "duration": 3.0029999999997017,
+      "dialogue_text": "いい？ 宗介とポニョ。"
+    },
+    {
+      "subtitle_index": 489,
+      "start_time": 3908.669,
+      "end_time": 3912.139,
+      "duration": 3.4700000000002547,
+      "dialogue_text": "どんなに不思議で うれしくて驚いてても→"
+    },
+    {
+      "subtitle_index": 490,
+      "start_time": 3912.139,
+      "end_time": 3914.658,
+      "duration": 2.518999999999778,
+      "dialogue_text": "今は落ち着くの いい？"
+    },
+    {
+      "subtitle_index": 491,
+      "start_time": 3914.658,
+      "end_time": 3916.16,
+      "duration": 1.5019999999999527,
+      "dialogue_text": "うん。 うん。"
+    },
+    {
+      "subtitle_index": 492,
+      "start_time": 3916.16,
+      "end_time": 3917.66,
+      "duration": 1.5,
+      "dialogue_text": "いい子ね。"
+    },
+    {
+      "subtitle_index": 493,
+      "start_time": 3920.698,
+      "end_time": 3923.25,
+      "duration": 2.5520000000001346,
+      "dialogue_text": "宗介はレインコートを脱ぎなさい。"
+    },
+    {
+      "subtitle_index": 494,
+      "start_time": 3923.25,
+      "end_time": 3925.169,
+      "duration": 1.918999999999869,
+      "dialogue_text": "ポニョは はだしね。"
+    },
+    {
+      "subtitle_index": 495,
+      "start_time": 3925.169,
+      "end_time": 3927.169,
+      "duration": 2.0,
+      "dialogue_text": "これを持ってて。"
+    },
+    {
+      "subtitle_index": 496,
+      "start_time": 3928.639,
+      "end_time": 3930.658,
+      "duration": 2.018999999999778,
+      "dialogue_text": "あ～…！"
+    },
+    {
+      "subtitle_index": 497,
+      "start_time": 3930.658,
+      "end_time": 3933.658,
+      "duration": 3.0,
+      "dialogue_text": "今 拭くものを持って来るね。"
+    },
+    {
+      "subtitle_index": 498,
+      "start_time": 3946.173,
+      "end_time": 3948.673,
+      "duration": 2.5,
+      "dialogue_text": "（ラジオのノイズ）"
+    },
+    {
+      "subtitle_index": 499,
+      "start_time": 3950.161,
+      "end_time": 3952.661,
+      "duration": 2.5,
+      "dialogue_text": "ポニョ こっち！ うわっ！"
+    },
+    {
+      "subtitle_index": 500,
+      "start_time": 3953.664,
+      "end_time": 3956.164,
+      "duration": 2.5,
+      "dialogue_text": "宗介のニオイがする！"
+    },
+    {
+      "subtitle_index": 501,
+      "start_time": 3959.153,
+      "end_time": 3961.153,
+      "duration": 2.0,
+      "dialogue_text": "イテっ。 ポニョ！"
+    },
+    {
+      "subtitle_index": 502,
+      "start_time": 3965.159,
+      "end_time": 3969.146,
+      "duration": 3.98700000000008,
+      "dialogue_text": "捕まえた！ ほら ぬれたままじゃダメよ。"
+    },
+    {
+      "subtitle_index": 503,
+      "start_time": 3969.146,
+      "end_time": 3973.167,
+      "duration": 4.020999999999731,
+      "dialogue_text": "あ… あうあうあう…。"
+    },
+    {
+      "subtitle_index": 504,
+      "start_time": 3973.167,
+      "end_time": 3975.653,
+      "duration": 2.4859999999998763,
+      "dialogue_text": "ポニョの髪は ステキな赤毛ね。"
+    },
+    {
+      "subtitle_index": 505,
+      "start_time": 3975.653,
+      "end_time": 3977.154,
+      "duration": 1.5010000000002037,
+      "dialogue_text": "あら？"
+    },
+    {
+      "subtitle_index": 506,
+      "start_time": 3977.154,
+      "end_time": 3980.191,
+      "duration": 3.036999999999807,
+      "dialogue_text": "え？ 服は ぬれてないね。"
+    },
+    {
+      "subtitle_index": 507,
+      "start_time": 3980.191,
+      "end_time": 3985.162,
+      "duration": 4.971000000000004,
+      "dialogue_text": "ポニョは お魚だったんだもん ぬれても平気だよね？"
+    },
+    {
+      "subtitle_index": 508,
+      "start_time": 3985.162,
+      "end_time": 3986.662,
+      "duration": 1.5,
+      "dialogue_text": "うん！"
+    },
+    {
+      "subtitle_index": 509,
+      "start_time": 3987.665,
+      "end_time": 3990.151,
+      "duration": 2.4859999999998763,
+      "dialogue_text": "ポニョ これ好き！"
+    },
+    {
+      "subtitle_index": 510,
+      "start_time": 3990.151,
+      "end_time": 3993.654,
+      "duration": 3.5030000000001564,
+      "dialogue_text": "よ～し それじゃあ お茶にしよっか。"
+    },
+    {
+      "subtitle_index": 511,
+      "start_time": 3993.654,
+      "end_time": 3996.157,
+      "duration": 2.5030000000001564,
+      "dialogue_text": "ポニョ 明かりをお願いしま～す。"
+    },
+    {
+      "subtitle_index": 512,
+      "start_time": 3996.157,
+      "end_time": 3997.641,
+      "duration": 1.4839999999999236,
+      "dialogue_text": "は～い！"
+    },
+    {
+      "subtitle_index": 513,
+      "start_time": 3997.641,
+      "end_time": 4000.194,
+      "duration": 2.5529999999998836,
+      "dialogue_text": "さぁ 水が出るかなぁ？"
+    },
+    {
+      "subtitle_index": 514,
+      "start_time": 4000.194,
+      "end_time": 4002.694,
+      "duration": 2.5,
+      "dialogue_text": "出る！ 出る！"
+    },
+    {
+      "subtitle_index": 515,
+      "start_time": 4005.666,
+      "end_time": 4008.652,
+      "duration": 2.9859999999998763,
+      "dialogue_text": "出た！ 出た！"
+    },
+    {
+      "subtitle_index": 516,
+      "start_time": 4008.652,
+      "end_time": 4011.652,
+      "duration": 3.0,
+      "dialogue_text": "丘の上に 水道タンクがあるからだよ。"
+    },
+    {
+      "subtitle_index": 517,
+      "start_time": 4012.656,
+      "end_time": 4015.176,
+      "duration": 2.519999999999982,
+      "dialogue_text": "ガスは つくかなぁ？"
+    },
+    {
+      "subtitle_index": 518,
+      "start_time": 4015.176,
+      "end_time": 4017.661,
+      "duration": 2.4850000000001273,
+      "dialogue_text": "つけ！ やった！"
+    },
+    {
+      "subtitle_index": 519,
+      "start_time": 4017.661,
+      "end_time": 4021.161,
+      "duration": 3.5,
+      "dialogue_text": "やった～！ プロパンだからだよ。"
+    },
+    {
+      "subtitle_index": 520,
+      "start_time": 4023.234,
+      "end_time": 4025.669,
+      "duration": 2.4349999999999454,
+      "dialogue_text": "さぁ 席に着いてください。"
+    },
+    {
+      "subtitle_index": 521,
+      "start_time": 4025.669,
+      "end_time": 4027.655,
+      "duration": 1.986000000000331,
+      "dialogue_text": "は～い。 は～い。"
+    },
+    {
+      "subtitle_index": 522,
+      "start_time": 4027.655,
+      "end_time": 4029.655,
+      "duration": 2.0,
+      "dialogue_text": "ポニョ こっちだよ。"
+    },
+    {
+      "subtitle_index": 523,
+      "start_time": 4034.678,
+      "end_time": 4037.178,
+      "duration": 2.5,
+      "dialogue_text": "こうするんだよ。"
+    },
+    {
+      "subtitle_index": 524,
+      "start_time": 4039.683,
+      "end_time": 4042.183,
+      "duration": 2.5,
+      "dialogue_text": "こうやって置くんだよ。"
+    },
+    {
+      "subtitle_index": 525,
+      "start_time": 4043.754,
+      "end_time": 4045.656,
+      "duration": 1.9020000000000437,
+      "dialogue_text": "手が使えないよ。"
+    },
+    {
+      "subtitle_index": 526,
+      "start_time": 4045.656,
+      "end_time": 4047.656,
+      "duration": 2.0,
+      "dialogue_text": "足ある！"
+    },
+    {
+      "subtitle_index": 527,
+      "start_time": 4050.661,
+      "end_time": 4052.161,
+      "duration": 1.5,
+      "dialogue_text": "すごい！"
+    },
+    {
+      "subtitle_index": 528,
+      "start_time": 4054.648,
+      "end_time": 4057.151,
+      "duration": 2.5029999999997017,
+      "dialogue_text": "わぁ なぁに？"
+    },
+    {
+      "subtitle_index": 529,
+      "start_time": 4057.151,
+      "end_time": 4060.151,
+      "duration": 3.0,
+      "dialogue_text": "ポニョの足 手みたいだよ。"
+    },
+    {
+      "subtitle_index": 530,
+      "start_time": 4079.156,
+      "end_time": 4081.156,
+      "duration": 2.0,
+      "dialogue_text": "どうぞ。"
+    },
+    {
+      "subtitle_index": 531,
+      "start_time": 4082.159,
+      "end_time": 4083.659,
+      "duration": 1.5,
+      "dialogue_text": "はい。"
+    },
+    {
+      "subtitle_index": 532,
+      "start_time": 4088.232,
+      "end_time": 4090.232,
+      "duration": 2.0,
+      "dialogue_text": "いただきま～す！"
+    },
+    {
+      "subtitle_index": 533,
+      "start_time": 4107.151,
+      "end_time": 4109.151,
+      "duration": 2.0,
+      "dialogue_text": "ん～…！"
+    },
+    {
+      "subtitle_index": 534,
+      "start_time": 4111.689,
+      "end_time": 4116.66,
+      "duration": 4.970999999999549,
+      "dialogue_text": "フ～ フ～ フ～。"
+    },
+    {
+      "subtitle_index": 535,
+      "start_time": 4116.66,
+      "end_time": 4120.147,
+      "duration": 3.48700000000008,
+      "dialogue_text": "ブ～っ ブ～っ ブ～っ。"
+    },
+    {
+      "subtitle_index": 536,
+      "start_time": 4120.147,
+      "end_time": 4121.647,
+      "duration": 1.5,
+      "dialogue_text": "フフ…。"
+    },
+    {
+      "subtitle_index": 537,
+      "start_time": 4131.191,
+      "end_time": 4133.191,
+      "duration": 2.0,
+      "dialogue_text": "ハァ～… ヒック！"
+    },
+    {
+      "subtitle_index": 538,
+      "start_time": 4134.244,
+      "end_time": 4136.744,
+      "duration": 2.5,
+      "dialogue_text": "フ～…。"
+    },
+    {
+      "subtitle_index": 539,
+      "start_time": 4137.665,
+      "end_time": 4140.668,
+      "duration": 3.0029999999997017,
+      "dialogue_text": "あぁ おいしかった。"
+    },
+    {
+      "subtitle_index": 540,
+      "start_time": 4140.668,
+      "end_time": 4144.154,
+      "duration": 3.486000000000786,
+      "dialogue_text": "さぁ 次は何をしよっかなぁ。"
+    },
+    {
+      "subtitle_index": 541,
+      "start_time": 4144.154,
+      "end_time": 4146.156,
+      "duration": 2.001999999999498,
+      "dialogue_text": "ポニョ ハムがいい！"
+    },
+    {
+      "subtitle_index": 542,
+      "start_time": 4146.156,
+      "end_time": 4148.656,
+      "duration": 2.5,
+      "dialogue_text": "ポニョはハムが好きなんだ。"
+    },
+    {
+      "subtitle_index": 543,
+      "start_time": 4149.66,
+      "end_time": 4152.179,
+      "duration": 2.519000000000233,
+      "dialogue_text": "では ご飯を食べましょう。"
+    },
+    {
+      "subtitle_index": 544,
+      "start_time": 4152.179,
+      "end_time": 4155.766,
+      "duration": 3.5869999999995343,
+      "dialogue_text": "でも その前に 発電機を回さなきゃね。"
+    },
+    {
+      "subtitle_index": 545,
+      "start_time": 4155.766,
+      "end_time": 4160.17,
+      "duration": 4.404000000000451,
+      "dialogue_text": "電気をおこして 耕一と通信するんだよ。"
+    },
+    {
+      "subtitle_index": 546,
+      "start_time": 4160.17,
+      "end_time": 4163.173,
+      "duration": 3.0029999999997017,
+      "dialogue_text": "耕一は 僕のお父さんだよ。"
+    },
+    {
+      "subtitle_index": 547,
+      "start_time": 4163.173,
+      "end_time": 4165.142,
+      "duration": 1.969000000000051,
+      "dialogue_text": "悪い魔法使い？"
+    },
+    {
+      "subtitle_index": 548,
+      "start_time": 4165.142,
+      "end_time": 4168.662,
+      "duration": 3.5200000000004366,
+      "dialogue_text": "違うよ 『小金井丸』の船長だよ。"
+    },
+    {
+      "subtitle_index": 549,
+      "start_time": 4168.662,
+      "end_time": 4171.665,
+      "duration": 3.0029999999997017,
+      "dialogue_text": "ポニョのお父さんは？"
+    },
+    {
+      "subtitle_index": 550,
+      "start_time": 4171.665,
+      "end_time": 4174.685,
+      "duration": 3.0200000000004366,
+      "dialogue_text": "フジモト！ ポニョを閉じ込めるの！"
+    },
+    {
+      "subtitle_index": 551,
+      "start_time": 4174.685,
+      "end_time": 4177.755,
+      "duration": 3.069999999999709,
+      "dialogue_text": "へぇ～。 ポニョ 逃げ出して来たの。"
+    },
+    {
+      "subtitle_index": 552,
+      "start_time": 4177.755,
+      "end_time": 4179.156,
+      "duration": 1.40099999999984,
+      "dialogue_text": "へぇ～！"
+    },
+    {
+      "subtitle_index": 553,
+      "start_time": 4179.156,
+      "end_time": 4181.175,
+      "duration": 2.019000000000233,
+      "dialogue_text": "ポニョのお母さんは？"
+    },
+    {
+      "subtitle_index": 554,
+      "start_time": 4181.175,
+      "end_time": 4184.645,
+      "duration": 3.4700000000002547,
+      "dialogue_text": "お母さん だ～い好き！"
+    },
+    {
+      "subtitle_index": 555,
+      "start_time": 4184.645,
+      "end_time": 4187.164,
+      "duration": 2.5189999999993233,
+      "dialogue_text": "と～っても怖いよ！"
+    },
+    {
+      "subtitle_index": 556,
+      "start_time": 4187.164,
+      "end_time": 4189.149,
+      "duration": 1.985000000000582,
+      "dialogue_text": "リサみたいだ。"
+    },
+    {
+      "subtitle_index": 557,
+      "start_time": 4189.149,
+      "end_time": 4191.649,
+      "duration": 2.5,
+      "dialogue_text": "アハハ！"
+    },
+    {
+      "subtitle_index": 558,
+      "start_time": 4193.671,
+      "end_time": 4196.171,
+      "duration": 2.5,
+      "dialogue_text": "ポニョ お願いね。"
+    },
+    {
+      "subtitle_index": 559,
+      "start_time": 4211.171,
+      "end_time": 4214.641,
+      "duration": 3.469999999999345,
+      "dialogue_text": "ありゃ？ ガソリン腐っちゃったかなぁ。"
+    },
+    {
+      "subtitle_index": 560,
+      "start_time": 4214.641,
+      "end_time": 4216.66,
+      "duration": 2.019000000000233,
+      "dialogue_text": "詰まってる？"
+    },
+    {
+      "subtitle_index": 561,
+      "start_time": 4216.66,
+      "end_time": 4219.66,
+      "duration": 3.0,
+      "dialogue_text": "詰まってる あそこ詰まってる。"
+    },
+    {
+      "subtitle_index": 562,
+      "start_time": 4221.215,
+      "end_time": 4230.674,
+      "duration": 9.458999999999833,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 563,
+      "start_time": 4230.674,
+      "end_time": 4234.661,
+      "duration": 3.98700000000008,
+      "dialogue_text": "（エンジン音）"
+    },
+    {
+      "subtitle_index": 564,
+      "start_time": 4234.661,
+      "end_time": 4236.663,
+      "duration": 2.001999999999498,
+      "dialogue_text": "やった～！"
+    },
+    {
+      "subtitle_index": 565,
+      "start_time": 4236.663,
+      "end_time": 4238.663,
+      "duration": 2.0,
+      "dialogue_text": "明る～い！"
+    },
+    {
+      "subtitle_index": 566,
+      "start_time": 4239.666,
+      "end_time": 4242.166,
+      "duration": 2.5,
+      "dialogue_text": "ポニョ すご～い。"
+    },
+    {
+      "subtitle_index": 567,
+      "start_time": 4243.654,
+      "end_time": 4260.154,
+      "duration": 16.5,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 568,
+      "start_time": 4260.154,
+      "end_time": 4262.172,
+      "duration": 2.0179999999991196,
+      "dialogue_text": "アンテナ！ アンテナ～！"
+    },
+    {
+      "subtitle_index": 569,
+      "start_time": 4262.172,
+      "end_time": 4265.659,
+      "duration": 3.48700000000008,
+      "dialogue_text": "リサ みんな沈没しちゃったのかなぁ？"
+    },
+    {
+      "subtitle_index": 570,
+      "start_time": 4265.659,
+      "end_time": 4268.645,
+      "duration": 2.986000000000786,
+      "dialogue_text": "明かりが１つもないね。"
+    },
+    {
+      "subtitle_index": 571,
+      "start_time": 4268.645,
+      "end_time": 4284.645,
+      "duration": 16.0,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 572,
+      "start_time": 4284.645,
+      "end_time": 4286.647,
+      "duration": 2.001999999999498,
+      "dialogue_text": "（無線のノイズ）"
+    },
+    {
+      "subtitle_index": 573,
+      "start_time": 4286.647,
+      "end_time": 4288.148,
+      "duration": 1.5010000000002037,
+      "dialogue_text": "うるさ～い！"
+    },
+    {
+      "subtitle_index": 574,
+      "start_time": 4288.148,
+      "end_time": 4290.167,
+      "duration": 2.019000000000233,
+      "dialogue_text": "通じない？"
+    },
+    {
+      "subtitle_index": 575,
+      "start_time": 4290.167,
+      "end_time": 4293.637,
+      "duration": 3.469999999999345,
+      "dialogue_text": "電波という電波がダメみたいね。"
+    },
+    {
+      "subtitle_index": 576,
+      "start_time": 4293.637,
+      "end_time": 4298.742,
+      "duration": 5.105000000000473,
+      "dialogue_text": "こちらは ＪＡ４ＬＬ ＪＡ４ＬＬ。"
+    },
+    {
+      "subtitle_index": 577,
+      "start_time": 4298.742,
+      "end_time": 4300.661,
+      "duration": 1.918999999999869,
+      "dialogue_text": "[無線] 耕一 聞こえますか？"
+    },
+    {
+      "subtitle_index": 578,
+      "start_time": 4300.661,
+      "end_time": 4303.147,
+      "duration": 2.4859999999998763,
+      "dialogue_text": "[無線] こちらは リサと宗介とポニョです。"
+    },
+    {
+      "subtitle_index": 579,
+      "start_time": 4303.147,
+      "end_time": 4305.649,
+      "duration": 2.5020000000004075,
+      "dialogue_text": "[無線] みんな元気ですよ～！"
+    },
+    {
+      "subtitle_index": 580,
+      "start_time": 4305.649,
+      "end_time": 4308.635,
+      "duration": 2.9859999999998763,
+      "dialogue_text": "これから ご飯を食べるよ！"
+    },
+    {
+      "subtitle_index": 581,
+      "start_time": 4308.635,
+      "end_time": 4310.635,
+      "duration": 2.0,
+      "dialogue_text": "ハム～!!"
+    },
+    {
+      "subtitle_index": 582,
+      "start_time": 4319.146,
+      "end_time": 4322.646,
+      "duration": 3.5,
+      "dialogue_text": "入れましたか？ 熱いから気をつけて。"
+    },
+    {
+      "subtitle_index": 583,
+      "start_time": 4338.248,
+      "end_time": 4340.15,
+      "duration": 1.9020000000000437,
+      "dialogue_text": "まだですよ。"
+    },
+    {
+      "subtitle_index": 584,
+      "start_time": 4340.15,
+      "end_time": 4342.15,
+      "duration": 2.0,
+      "dialogue_text": "３分だよ。"
+    },
+    {
+      "subtitle_index": 585,
+      "start_time": 4356.7,
+      "end_time": 4359.653,
+      "duration": 2.9530000000004293,
+      "dialogue_text": "目をつむってくださ～い。"
+    },
+    {
+      "subtitle_index": 586,
+      "start_time": 4359.653,
+      "end_time": 4361.653,
+      "duration": 2.0,
+      "dialogue_text": "まだですよ。"
+    },
+    {
+      "subtitle_index": 587,
+      "start_time": 4363.156,
+      "end_time": 4365.656,
+      "duration": 2.5,
+      "dialogue_text": "ポニョ 目。"
+    },
+    {
+      "subtitle_index": 588,
+      "start_time": 4369.162,
+      "end_time": 4371.648,
+      "duration": 2.4859999999998763,
+      "dialogue_text": "はい いいですよ。"
+    },
+    {
+      "subtitle_index": 589,
+      "start_time": 4371.648,
+      "end_time": 4374.668,
+      "duration": 3.019999999999527,
+      "dialogue_text": "召し上が～れ！"
+    },
+    {
+      "subtitle_index": 590,
+      "start_time": 4374.668,
+      "end_time": 4377.168,
+      "duration": 2.5,
+      "dialogue_text": "あ～っ！ あ～っ！"
+    },
+    {
+      "subtitle_index": 591,
+      "start_time": 4380.641,
+      "end_time": 4383.644,
+      "duration": 3.003000000000611,
+      "dialogue_text": "ハムだ～!! ポニョ よかったね。"
+    },
+    {
+      "subtitle_index": 592,
+      "start_time": 4383.644,
+      "end_time": 4385.145,
+      "duration": 1.5010000000002037,
+      "dialogue_text": "あっ！"
+    },
+    {
+      "subtitle_index": 593,
+      "start_time": 4385.145,
+      "end_time": 4387.664,
+      "duration": 2.5189999999993233,
+      "dialogue_text": "アチっ！ アチっ！ アチアチ…！"
+    },
+    {
+      "subtitle_index": 594,
+      "start_time": 4387.664,
+      "end_time": 4404.648,
+      "duration": 16.98400000000038,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 595,
+      "start_time": 4404.648,
+      "end_time": 4407.148,
+      "duration": 2.5,
+      "dialogue_text": "リサ ポニョ寝ちゃった。"
+    },
+    {
+      "subtitle_index": 596,
+      "start_time": 4413.64,
+      "end_time": 4416.643,
+      "duration": 3.0029999999997017,
+      "dialogue_text": "ポニョ 遠くから来たのかなぁ。"
+    },
+    {
+      "subtitle_index": 597,
+      "start_time": 4416.643,
+      "end_time": 4419.162,
+      "duration": 2.519000000000233,
+      "dialogue_text": "そうね きっと…。"
+    },
+    {
+      "subtitle_index": 598,
+      "start_time": 4419.162,
+      "end_time": 4433.66,
+      "duration": 14.497999999999593,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 599,
+      "start_time": 4433.66,
+      "end_time": 4437.648,
+      "duration": 3.9880000000002838,
+      "dialogue_text": "宗介 見て 波が静まってる。"
+    },
+    {
+      "subtitle_index": 600,
+      "start_time": 4437.648,
+      "end_time": 4440.167,
+      "duration": 2.519000000000233,
+      "dialogue_text": "ポニョが寝たからかなぁ。"
+    },
+    {
+      "subtitle_index": 601,
+      "start_time": 4440.167,
+      "end_time": 4442.167,
+      "duration": 2.0,
+      "dialogue_text": "宗介 あそこ。"
+    },
+    {
+      "subtitle_index": 602,
+      "start_time": 4449.259,
+      "end_time": 4452.162,
+      "duration": 2.9030000000002474,
+      "dialogue_text": "動いてる 誰か あそこにいるんだわ。"
+    },
+    {
+      "subtitle_index": 603,
+      "start_time": 4452.162,
+      "end_time": 4454.662,
+      "duration": 2.5,
+      "dialogue_text": "ヨシエさん達かな？"
+    },
+    {
+      "subtitle_index": 604,
+      "start_time": 4460.654,
+      "end_time": 4464.154,
+      "duration": 3.5,
+      "dialogue_text": "消えちゃったね。 山の上の道だわ。"
+    },
+    {
+      "subtitle_index": 605,
+      "start_time": 4467.194,
+      "end_time": 4470.194,
+      "duration": 3.0,
+      "dialogue_text": "宗介はポニョのとこにいて。"
+    },
+    {
+      "subtitle_index": 606,
+      "start_time": 4480.674,
+      "end_time": 4485.174,
+      "duration": 4.5,
+      "dialogue_text": "今なら通れそう 山を回れば行けるかもしれない。"
+    },
+    {
+      "subtitle_index": 607,
+      "start_time": 4487.664,
+      "end_time": 4490.15,
+      "duration": 2.4859999999998763,
+      "dialogue_text": "宗介 私『ひまわり』へ行って来る。"
+    },
+    {
+      "subtitle_index": 608,
+      "start_time": 4490.15,
+      "end_time": 4492.185,
+      "duration": 2.035000000000764,
+      "dialogue_text": "僕も行く！"
+    },
+    {
+      "subtitle_index": 609,
+      "start_time": 4492.185,
+      "end_time": 4495.255,
+      "duration": 3.069999999999709,
+      "dialogue_text": "宗介は ポニョと ここにいて。"
+    },
+    {
+      "subtitle_index": 610,
+      "start_time": 4495.255,
+      "end_time": 4498.675,
+      "duration": 3.4200000000000728,
+      "dialogue_text": "やっぱり僕も行く！ ポニョも 連れて行けばいいんだもん！"
+    },
+    {
+      "subtitle_index": 611,
+      "start_time": 4498.675,
+      "end_time": 4501.175,
+      "duration": 2.5,
+      "dialogue_text": "リサと行く！"
+    },
+    {
+      "subtitle_index": 612,
+      "start_time": 4502.663,
+      "end_time": 4506.65,
+      "duration": 3.98700000000008,
+      "dialogue_text": "宗介ね 今この家は 嵐の中の灯台なの。"
+    },
+    {
+      "subtitle_index": 613,
+      "start_time": 4506.65,
+      "end_time": 4510.637,
+      "duration": 3.98700000000008,
+      "dialogue_text": "真っ暗な中にいる人は みんな この光に励まされているわ。"
+    },
+    {
+      "subtitle_index": 614,
+      "start_time": 4510.637,
+      "end_time": 4513.707,
+      "duration": 3.0700000000006185,
+      "dialogue_text": "だから 誰かがいなきゃダメ。"
+    },
+    {
+      "subtitle_index": 615,
+      "start_time": 4513.707,
+      "end_time": 4516.259,
+      "duration": 2.55199999999968,
+      "dialogue_text": "不思議なことが いっぱい起こってるけど→"
+    },
+    {
+      "subtitle_index": 616,
+      "start_time": 4516.259,
+      "end_time": 4520.664,
+      "duration": 4.404999999999745,
+      "dialogue_text": "今は なぜなのかは分からない でも そのうちに分かるでしょ。"
+    },
+    {
+      "subtitle_index": 617,
+      "start_time": 4520.664,
+      "end_time": 4523.667,
+      "duration": 3.003000000000611,
+      "dialogue_text": "今は『ひまわり』の人達が心配なの。"
+    },
+    {
+      "subtitle_index": 618,
+      "start_time": 4523.667,
+      "end_time": 4528.171,
+      "duration": 4.503999999999905,
+      "dialogue_text": "宗介が ここを守ってくれてた ほうが リサの力が出るの。"
+    },
+    {
+      "subtitle_index": 619,
+      "start_time": 4528.171,
+      "end_time": 4531.641,
+      "duration": 3.469999999999345,
+      "dialogue_text": "大丈夫 絶対戻って来るから。"
+    },
+    {
+      "subtitle_index": 620,
+      "start_time": 4531.641,
+      "end_time": 4534.161,
+      "duration": 2.5200000000004366,
+      "dialogue_text": "絶対？"
+    },
+    {
+      "subtitle_index": 621,
+      "start_time": 4534.161,
+      "end_time": 4536.713,
+      "duration": 2.55199999999968,
+      "dialogue_text": "絶対！"
+    },
+    {
+      "subtitle_index": 622,
+      "start_time": 4536.713,
+      "end_time": 4538.749,
+      "duration": 2.036000000000058,
+      "dialogue_text": "絶対だよ。"
+    },
+    {
+      "subtitle_index": 623,
+      "start_time": 4538.749,
+      "end_time": 4541.151,
+      "duration": 2.4020000000000437,
+      "dialogue_text": "宗介 大好き。"
+    },
+    {
+      "subtitle_index": 624,
+      "start_time": 4541.151,
+      "end_time": 4561.171,
+      "duration": 20.020000000000437,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 625,
+      "start_time": 4561.171,
+      "end_time": 4581.141,
+      "duration": 19.969999999999345,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 626,
+      "start_time": 4581.141,
+      "end_time": 4590.641,
+      "duration": 9.5,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 627,
+      "start_time": 4716.643,
+      "end_time": 4720.163,
+      "duration": 3.519999999999527,
+      "dialogue_text": "（新井） 月が出ました！ 町の明かりが見えます！"
+    },
+    {
+      "subtitle_index": 628,
+      "start_time": 4720.163,
+      "end_time": 4723.166,
+      "duration": 3.003000000000611,
+      "dialogue_text": "（耕一） ありがてぇ これで針路がとれるぞ！"
+    },
+    {
+      "subtitle_index": 629,
+      "start_time": 4723.166,
+      "end_time": 4726.166,
+      "duration": 3.0,
+      "dialogue_text": "（新井） 見たことのない町ですね。"
+    },
+    {
+      "subtitle_index": 630,
+      "start_time": 4731.658,
+      "end_time": 4734.658,
+      "duration": 3.0,
+      "dialogue_text": "アメリカにでも 着いちまったんですかねぇ。"
+    },
+    {
+      "subtitle_index": 631,
+      "start_time": 4750.26,
+      "end_time": 4752.145,
+      "duration": 1.8850000000002183,
+      "dialogue_text": "ん～…。"
+    },
+    {
+      "subtitle_index": 632,
+      "start_time": 4752.145,
+      "end_time": 4755.649,
+      "duration": 3.5039999999999054,
+      "dialogue_text": "ありゃ山じゃねえ それに港でもねえ。"
+    },
+    {
+      "subtitle_index": 633,
+      "start_time": 4755.649,
+      "end_time": 4757.667,
+      "duration": 2.018000000000029,
+      "dialogue_text": "ぜ～んぶ船だ。"
+    },
+    {
+      "subtitle_index": 634,
+      "start_time": 4757.667,
+      "end_time": 4766.66,
+      "duration": 8.992999999999483,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 635,
+      "start_time": 4766.66,
+      "end_time": 4770.747,
+      "duration": 4.087000000000444,
+      "dialogue_text": "（耕一） あそこへ海の水が集まって 山になってるんだ。"
+    },
+    {
+      "subtitle_index": 636,
+      "start_time": 4770.747,
+      "end_time": 4775.151,
+      "duration": 4.403999999999542,
+      "dialogue_text": "（新井） 船の墓場ですよ きっと… あの世の入り口が開いたんだ！"
+    },
+    {
+      "subtitle_index": 637,
+      "start_time": 4775.151,
+      "end_time": 4776.651,
+      "duration": 1.5,
+      "dialogue_text": "（耕一） ん？"
+    },
+    {
+      "subtitle_index": 638,
+      "start_time": 4779.656,
+      "end_time": 4781.658,
+      "duration": 2.0020000000004075,
+      "dialogue_text": "（操舵手） エンジン停止!!"
+    },
+    {
+      "subtitle_index": 639,
+      "start_time": 4781.658,
+      "end_time": 4785.145,
+      "duration": 3.48700000000008,
+      "dialogue_text": "（耕一） 船を潮に立てろ！ シーアンカーを下ろすぞ！"
+    },
+    {
+      "subtitle_index": 640,
+      "start_time": 4785.145,
+      "end_time": 4786.646,
+      "duration": 1.5009999999992942,
+      "dialogue_text": "（新井） はい！"
+    },
+    {
+      "subtitle_index": 641,
+      "start_time": 4786.646,
+      "end_time": 4799.159,
+      "duration": 12.51299999999992,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 642,
+      "start_time": 4799.159,
+      "end_time": 4801.645,
+      "duration": 2.486000000000786,
+      "dialogue_text": "♪♪～ 後ろから何か来るぞ！"
+    },
+    {
+      "subtitle_index": 643,
+      "start_time": 4801.645,
+      "end_time": 4811.671,
+      "duration": 10.02599999999984,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 644,
+      "start_time": 4811.671,
+      "end_time": 4815.208,
+      "duration": 3.5369999999993524,
+      "dialogue_text": "♪♪～ （耕一） うわ～～っ!!"
+    },
+    {
+      "subtitle_index": 645,
+      "start_time": 4815.208,
+      "end_time": 4829.155,
+      "duration": 13.947000000000116,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 646,
+      "start_time": 4829.155,
+      "end_time": 4831.174,
+      "duration": 2.019000000000233,
+      "dialogue_text": "♪♪～ 観音様が見えた！"
+    },
+    {
+      "subtitle_index": 647,
+      "start_time": 4831.174,
+      "end_time": 4833.143,
+      "duration": 1.969000000000051,
+      "dialogue_text": "♪♪～ あっ！ えっ？"
+    },
+    {
+      "subtitle_index": 648,
+      "start_time": 4833.143,
+      "end_time": 4841.217,
+      "duration": 8.073999999999614,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 649,
+      "start_time": 4841.217,
+      "end_time": 4843.653,
+      "duration": 2.436000000000604,
+      "dialogue_text": "動いたぞ！ ♪♪～ 助かった！"
+    },
+    {
+      "subtitle_index": 650,
+      "start_time": 4843.653,
+      "end_time": 4847.157,
+      "duration": 3.5039999999999054,
+      "dialogue_text": "観音様だ ♪♪～ 観音様の御神渡りだ！"
+    },
+    {
+      "subtitle_index": 651,
+      "start_time": 4847.157,
+      "end_time": 4851.144,
+      "duration": 3.98700000000008,
+      "dialogue_text": "ナンマンダブ ナンマンダブ ♪♪～ ナンマンダブ…。"
+    },
+    {
+      "subtitle_index": 652,
+      "start_time": 4851.144,
+      "end_time": 4866.144,
+      "duration": 15.0,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 653,
+      "start_time": 4877.67,
+      "end_time": 4879.67,
+      "duration": 2.0,
+      "dialogue_text": "もっと もっと…。"
+    },
+    {
+      "subtitle_index": 654,
+      "start_time": 4886.246,
+      "end_time": 4887.746,
+      "duration": 1.5,
+      "dialogue_text": "ハッ！"
+    },
+    {
+      "subtitle_index": 655,
+      "start_time": 4893.153,
+      "end_time": 4895.672,
+      "duration": 2.5189999999993233,
+      "dialogue_text": "本格的な結界が張ってある。"
+    },
+    {
+      "subtitle_index": 656,
+      "start_time": 4895.672,
+      "end_time": 4898.672,
+      "duration": 3.0,
+      "dialogue_text": "一体 どこで こんなことを覚えたんだ？"
+    },
+    {
+      "subtitle_index": 657,
+      "start_time": 4914.657,
+      "end_time": 4918.645,
+      "duration": 3.9880000000002838,
+      "dialogue_text": "あっ！ 何ということだ！ 人間に化けている！"
+    },
+    {
+      "subtitle_index": 658,
+      "start_time": 4918.645,
+      "end_time": 4922.665,
+      "duration": 4.019999999999527,
+      "dialogue_text": "あっ 危ない！ こ… こら 何をしている！"
+    },
+    {
+      "subtitle_index": 659,
+      "start_time": 4922.665,
+      "end_time": 4925.168,
+      "duration": 2.5029999999997017,
+      "dialogue_text": "おっ！ おっ！ うおっ！"
+    },
+    {
+      "subtitle_index": 660,
+      "start_time": 4925.168,
+      "end_time": 4930.707,
+      "duration": 5.539000000000669,
+      "dialogue_text": "（水魚の笑い声）"
+    },
+    {
+      "subtitle_index": 661,
+      "start_time": 4930.707,
+      "end_time": 4934.16,
+      "duration": 3.45299999999952,
+      "dialogue_text": "お前達！ ああっ 危ない…。"
+    },
+    {
+      "subtitle_index": 662,
+      "start_time": 4934.16,
+      "end_time": 4938.148,
+      "duration": 3.9880000000002838,
+      "dialogue_text": "おっ… おおっ… やめなさい！"
+    },
+    {
+      "subtitle_index": 663,
+      "start_time": 4938.148,
+      "end_time": 4940.166,
+      "duration": 2.018000000000029,
+      "dialogue_text": "ああ～っ！"
+    },
+    {
+      "subtitle_index": 664,
+      "start_time": 4940.166,
+      "end_time": 4941.666,
+      "duration": 1.5,
+      "dialogue_text": "うわっ！"
+    },
+    {
+      "subtitle_index": 665,
+      "start_time": 4945.655,
+      "end_time": 4949.155,
+      "duration": 3.5,
+      "dialogue_text": "お前達 父は おねえちゃんを思えば…。"
+    },
+    {
+      "subtitle_index": 666,
+      "start_time": 4954.147,
+      "end_time": 4957.647,
+      "duration": 3.5,
+      "dialogue_text": "あの人だ！ き… 来てくれたんだ！"
+    },
+    {
+      "subtitle_index": 667,
+      "start_time": 4965.658,
+      "end_time": 4985.645,
+      "duration": 19.98700000000008,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 668,
+      "start_time": 4985.645,
+      "end_time": 4993.136,
+      "duration": 7.4909999999999854,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 669,
+      "start_time": 4993.136,
+      "end_time": 4995.188,
+      "duration": 2.05199999999968,
+      "dialogue_text": "（グランマンマーレ） フジモト…。"
+    },
+    {
+      "subtitle_index": 670,
+      "start_time": 4995.188,
+      "end_time": 4998.241,
+      "duration": 3.0529999999998836,
+      "dialogue_text": "お前 来てくれたのか！"
+    },
+    {
+      "subtitle_index": 671,
+      "start_time": 4998.241,
+      "end_time": 5000.741,
+      "duration": 2.5,
+      "dialogue_text": "ステキな海！"
+    },
+    {
+      "subtitle_index": 672,
+      "start_time": 5004.147,
+      "end_time": 5006.649,
+      "duration": 2.5020000000004075,
+      "dialogue_text": "魔法の力に満ちていて→"
+    },
+    {
+      "subtitle_index": 673,
+      "start_time": 5006.649,
+      "end_time": 5009.169,
+      "duration": 2.519999999999527,
+      "dialogue_text": "まるでデボン紀の海に戻ったよう。"
+    },
+    {
+      "subtitle_index": 674,
+      "start_time": 5009.169,
+      "end_time": 5011.654,
+      "duration": 2.485000000000582,
+      "dialogue_text": "ポニョが人間の血を飲んだんだ。"
+    },
+    {
+      "subtitle_index": 675,
+      "start_time": 5011.654,
+      "end_time": 5015.642,
+      "duration": 3.9879999999993743,
+      "dialogue_text": "私の蓄えた生命の水も ぜ～んぶだ！"
+    },
+    {
+      "subtitle_index": 676,
+      "start_time": 5015.642,
+      "end_time": 5020.142,
+      "duration": 4.5,
+      "dialogue_text": "ポニョ？ フフ… いい名をもらったのねぇ。"
+    },
+    {
+      "subtitle_index": 677,
+      "start_time": 5024.651,
+      "end_time": 5027.637,
+      "duration": 2.9859999999998763,
+      "dialogue_text": "私の失敗だ→"
+    },
+    {
+      "subtitle_index": 678,
+      "start_time": 5027.637,
+      "end_time": 5032.141,
+      "duration": 4.503999999999905,
+      "dialogue_text": "ポニョは魔法を使い放題だ 世界に大穴を開けてしまった。"
+    },
+    {
+      "subtitle_index": 679,
+      "start_time": 5032.141,
+      "end_time": 5035.144,
+      "duration": 3.003000000000611,
+      "dialogue_text": "自分のしていることを 分かってないんだ→"
+    },
+    {
+      "subtitle_index": 680,
+      "start_time": 5035.144,
+      "end_time": 5037.163,
+      "duration": 2.0189999999993233,
+      "dialogue_text": "しかも人間に化けて→"
+    },
+    {
+      "subtitle_index": 681,
+      "start_time": 5037.163,
+      "end_time": 5041.201,
+      "duration": 4.038000000000466,
+      "dialogue_text": "人間のボーイフレンドの家に 上がり込んでいる始末だ。"
+    },
+    {
+      "subtitle_index": 682,
+      "start_time": 5041.201,
+      "end_time": 5045.171,
+      "duration": 3.9700000000002547,
+      "dialogue_text": "このままにしておいては 世界は破滅する！"
+    },
+    {
+      "subtitle_index": 683,
+      "start_time": 5045.171,
+      "end_time": 5047.671,
+      "duration": 2.5,
+      "dialogue_text": "ん!? あっ！"
+    },
+    {
+      "subtitle_index": 684,
+      "start_time": 5053.663,
+      "end_time": 5057.166,
+      "duration": 3.503000000000611,
+      "dialogue_text": "いかん！ 人工衛星まで落ち始めた！"
+    },
+    {
+      "subtitle_index": 685,
+      "start_time": 5057.166,
+      "end_time": 5060.703,
+      "duration": 3.537000000000262,
+      "dialogue_text": "星の重力場の崩壊 第２段階…。"
+    },
+    {
+      "subtitle_index": 686,
+      "start_time": 5060.703,
+      "end_time": 5063.203,
+      "duration": 2.5,
+      "dialogue_text": "静かに…。"
+    },
+    {
+      "subtitle_index": 687,
+      "start_time": 5069.646,
+      "end_time": 5074.146,
+      "duration": 4.5,
+      "dialogue_text": "ソウスケ… 宗介という子なのね。"
+    },
+    {
+      "subtitle_index": 688,
+      "start_time": 5077.153,
+      "end_time": 5081.153,
+      "duration": 4.0,
+      "dialogue_text": "あなた達は おねえちゃんが大好きなのね。"
+    },
+    {
+      "subtitle_index": 689,
+      "start_time": 5084.16,
+      "end_time": 5088.248,
+      "duration": 4.087999999999738,
+      "dialogue_text": "ねぇ あなた ポニョを 人間にしてしまえばいいのよ。"
+    },
+    {
+      "subtitle_index": 690,
+      "start_time": 5088.248,
+      "end_time": 5090.65,
+      "duration": 2.4020000000000437,
+      "dialogue_text": "えっ!? 古い魔法。"
+    },
+    {
+      "subtitle_index": 691,
+      "start_time": 5090.65,
+      "end_time": 5093.169,
+      "duration": 2.519000000000233,
+      "dialogue_text": "男の子の心が揺らがなければ→"
+    },
+    {
+      "subtitle_index": 692,
+      "start_time": 5093.169,
+      "end_time": 5096.172,
+      "duration": 3.0029999999997017,
+      "dialogue_text": "ポニョは人間になって 魔法を失うわ。"
+    },
+    {
+      "subtitle_index": 693,
+      "start_time": 5096.172,
+      "end_time": 5100.677,
+      "duration": 4.505000000000109,
+      "dialogue_text": "しかし あの方法は しくじると ポニョは泡になってしまう。"
+    },
+    {
+      "subtitle_index": 694,
+      "start_time": 5100.677,
+      "end_time": 5104.664,
+      "duration": 3.98700000000008,
+      "dialogue_text": "あら 私達は もともと 泡から生まれたのよ。"
+    },
+    {
+      "subtitle_index": 695,
+      "start_time": 5104.664,
+      "end_time": 5107.216,
+      "duration": 2.5520000000005894,
+      "dialogue_text": "（フジモト） でも たった５歳で…→"
+    },
+    {
+      "subtitle_index": 696,
+      "start_time": 5107.216,
+      "end_time": 5109.216,
+      "duration": 2.0,
+      "dialogue_text": "無理だ。 シ～。"
+    },
+    {
+      "subtitle_index": 697,
+      "start_time": 5112.672,
+      "end_time": 5116.672,
+      "duration": 4.0,
+      "dialogue_text": "（グランマンマーレ） 今は静かにおやすみ 子供達。"
+    },
+    {
+      "subtitle_index": 698,
+      "start_time": 5129.656,
+      "end_time": 5131.156,
+      "duration": 1.5,
+      "dialogue_text": "宗介！"
+    },
+    {
+      "subtitle_index": 699,
+      "start_time": 5132.175,
+      "end_time": 5134.143,
+      "duration": 1.9679999999998472,
+      "dialogue_text": "宗介！"
+    },
+    {
+      "subtitle_index": 700,
+      "start_time": 5134.143,
+      "end_time": 5136.643,
+      "duration": 2.5,
+      "dialogue_text": "うっ！ イテ～！"
+    },
+    {
+      "subtitle_index": 701,
+      "start_time": 5138.648,
+      "end_time": 5140.667,
+      "duration": 2.019000000000233,
+      "dialogue_text": "ポニョ おはよう！"
+    },
+    {
+      "subtitle_index": 702,
+      "start_time": 5140.667,
+      "end_time": 5143.667,
+      "duration": 3.0,
+      "dialogue_text": "宗介 おはよう！"
+    },
+    {
+      "subtitle_index": 703,
+      "start_time": 5146.723,
+      "end_time": 5149.158,
+      "duration": 2.4350000000004,
+      "dialogue_text": "あ～！"
+    },
+    {
+      "subtitle_index": 704,
+      "start_time": 5149.158,
+      "end_time": 5152.158,
+      "duration": 3.0,
+      "dialogue_text": "海 すれすれになってる。"
+    },
+    {
+      "subtitle_index": 705,
+      "start_time": 5175.168,
+      "end_time": 5177.136,
+      "duration": 1.9680000000007567,
+      "dialogue_text": "リサ いないねぇ。"
+    },
+    {
+      "subtitle_index": 706,
+      "start_time": 5177.136,
+      "end_time": 5179.656,
+      "duration": 2.519999999999527,
+      "dialogue_text": "道が沈没しちゃったからだよ。"
+    },
+    {
+      "subtitle_index": 707,
+      "start_time": 5179.656,
+      "end_time": 5183.156,
+      "duration": 3.5,
+      "dialogue_text": "あ～あ 船があったらなぁ。"
+    },
+    {
+      "subtitle_index": 708,
+      "start_time": 5185.211,
+      "end_time": 5187.711,
+      "duration": 2.5,
+      "dialogue_text": "船あるよ。"
+    },
+    {
+      "subtitle_index": 709,
+      "start_time": 5189.148,
+      "end_time": 5192.648,
+      "duration": 3.5,
+      "dialogue_text": "乗れないもん。 乗れるよ。"
+    },
+    {
+      "subtitle_index": 710,
+      "start_time": 5196.639,
+      "end_time": 5199.642,
+      "duration": 3.0029999999997017,
+      "dialogue_text": "う～～～…！"
+    },
+    {
+      "subtitle_index": 711,
+      "start_time": 5199.642,
+      "end_time": 5201.142,
+      "duration": 1.5,
+      "dialogue_text": "あ～っ！"
+    },
+    {
+      "subtitle_index": 712,
+      "start_time": 5205.198,
+      "end_time": 5206.698,
+      "duration": 1.5,
+      "dialogue_text": "あ…。"
+    },
+    {
+      "subtitle_index": 713,
+      "start_time": 5208.251,
+      "end_time": 5210.251,
+      "duration": 2.0,
+      "dialogue_text": "しめた！"
+    },
+    {
+      "subtitle_index": 714,
+      "start_time": 5211.17,
+      "end_time": 5214.157,
+      "duration": 2.98700000000008,
+      "dialogue_text": "わぁ ロウソクも大きくなってる。"
+    },
+    {
+      "subtitle_index": 715,
+      "start_time": 5214.157,
+      "end_time": 5217.16,
+      "duration": 3.0029999999997017,
+      "dialogue_text": "乗れるよ！ うん 立派だね。"
+    },
+    {
+      "subtitle_index": 716,
+      "start_time": 5217.16,
+      "end_time": 5220.163,
+      "duration": 3.0029999999997017,
+      "dialogue_text": "立派だねぇ。 そっちを持って。"
+    },
+    {
+      "subtitle_index": 717,
+      "start_time": 5220.163,
+      "end_time": 5221.663,
+      "duration": 1.5,
+      "dialogue_text": "うん！"
+    },
+    {
+      "subtitle_index": 718,
+      "start_time": 5223.166,
+      "end_time": 5225.168,
+      "duration": 2.001999999999498,
+      "dialogue_text": "い～い？"
+    },
+    {
+      "subtitle_index": 719,
+      "start_time": 5225.168,
+      "end_time": 5227.22,
+      "duration": 2.0520000000005894,
+      "dialogue_text": "いいよ～！ わっ！"
+    },
+    {
+      "subtitle_index": 720,
+      "start_time": 5227.22,
+      "end_time": 5231.14,
+      "duration": 3.9200000000000728,
+      "dialogue_text": "わっ わっ うわっ！"
+    },
+    {
+      "subtitle_index": 721,
+      "start_time": 5231.14,
+      "end_time": 5232.64,
+      "duration": 1.5,
+      "dialogue_text": "あ～っ！"
+    },
+    {
+      "subtitle_index": 722,
+      "start_time": 5239.148,
+      "end_time": 5241.651,
+      "duration": 2.5029999999997017,
+      "dialogue_text": "浮いてる！"
+    },
+    {
+      "subtitle_index": 723,
+      "start_time": 5241.651,
+      "end_time": 5245.671,
+      "duration": 4.020000000000437,
+      "dialogue_text": "ハハハ！ しめしめ 水もれ なしだ。"
+    },
+    {
+      "subtitle_index": 724,
+      "start_time": 5245.671,
+      "end_time": 5249.242,
+      "duration": 3.5709999999999127,
+      "dialogue_text": "そうだ 管に水を入れなくちゃ。"
+    },
+    {
+      "subtitle_index": 725,
+      "start_time": 5249.242,
+      "end_time": 5252.145,
+      "duration": 2.9030000000002474,
+      "dialogue_text": "ここから水を入れて→"
+    },
+    {
+      "subtitle_index": 726,
+      "start_time": 5252.145,
+      "end_time": 5255.148,
+      "duration": 3.0029999999997017,
+      "dialogue_text": "あの丸いとこに入れるんだよ。"
+    },
+    {
+      "subtitle_index": 727,
+      "start_time": 5255.148,
+      "end_time": 5275.151,
+      "duration": 20.0029999999997,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 728,
+      "start_time": 5275.151,
+      "end_time": 5280.173,
+      "duration": 5.0219999999999345,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 729,
+      "start_time": 5280.173,
+      "end_time": 5284.173,
+      "duration": 4.0,
+      "dialogue_text": "ハハハ！ ロケットみたい！"
+    },
+    {
+      "subtitle_index": 730,
+      "start_time": 5288.664,
+      "end_time": 5290.7,
+      "duration": 2.036000000000058,
+      "dialogue_text": "フフフフ！"
+    },
+    {
+      "subtitle_index": 731,
+      "start_time": 5290.7,
+      "end_time": 5292.735,
+      "duration": 2.0349999999998545,
+      "dialogue_text": "ポニョ 上々だよ。"
+    },
+    {
+      "subtitle_index": 732,
+      "start_time": 5292.735,
+      "end_time": 5294.654,
+      "duration": 1.9190000000007785,
+      "dialogue_text": "ジョウジョウ？ うん。"
+    },
+    {
+      "subtitle_index": 733,
+      "start_time": 5294.654,
+      "end_time": 5297.14,
+      "duration": 2.4859999999998763,
+      "dialogue_text": "ジョウジョウ？ 上々。"
+    },
+    {
+      "subtitle_index": 734,
+      "start_time": 5297.14,
+      "end_time": 5301.64,
+      "duration": 4.5,
+      "dialogue_text": "ジョウジョ！ ジョウジョ！ ジョウジョ！ ジョウジョ！"
+    },
+    {
+      "subtitle_index": 735,
+      "start_time": 5322.648,
+      "end_time": 5325.648,
+      "duration": 3.0,
+      "dialogue_text": "アチィ？ アチっ！"
+    },
+    {
+      "subtitle_index": 736,
+      "start_time": 5329.155,
+      "end_time": 5332.155,
+      "duration": 3.0,
+      "dialogue_text": "アチっ！ アチ～！"
+    },
+    {
+      "subtitle_index": 737,
+      "start_time": 5333.726,
+      "end_time": 5336.145,
+      "duration": 2.4190000000007785,
+      "dialogue_text": "あ～ ついてる。"
+    },
+    {
+      "subtitle_index": 738,
+      "start_time": 5336.145,
+      "end_time": 5337.647,
+      "duration": 1.501999999999498,
+      "dialogue_text": "ついた！"
+    },
+    {
+      "subtitle_index": 739,
+      "start_time": 5337.647,
+      "end_time": 5341.147,
+      "duration": 3.5,
+      "dialogue_text": "アチっ！ アチっ！ アチっ！ アチっ！"
+    },
+    {
+      "subtitle_index": 740,
+      "start_time": 5348.658,
+      "end_time": 5350.676,
+      "duration": 2.018000000000029,
+      "dialogue_text": "アチィねぇ。"
+    },
+    {
+      "subtitle_index": 741,
+      "start_time": 5350.676,
+      "end_time": 5352.176,
+      "duration": 1.5,
+      "dialogue_text": "うん…。"
+    },
+    {
+      "subtitle_index": 742,
+      "start_time": 5361.17,
+      "end_time": 5363.17,
+      "duration": 2.0,
+      "dialogue_text": "しめた～！"
+    },
+    {
+      "subtitle_index": 743,
+      "start_time": 5364.657,
+      "end_time": 5367.643,
+      "duration": 2.9859999999998763,
+      "dialogue_text": "宗介 ジョウジョウだねぇ。 うん。"
+    },
+    {
+      "subtitle_index": 744,
+      "start_time": 5367.643,
+      "end_time": 5369.643,
+      "duration": 2.0,
+      "dialogue_text": "立派だねぇ。 うん。"
+    },
+    {
+      "subtitle_index": 745,
+      "start_time": 5554.663,
+      "end_time": 5556.663,
+      "duration": 2.0,
+      "dialogue_text": "わぁ！"
+    },
+    {
+      "subtitle_index": 746,
+      "start_time": 5557.666,
+      "end_time": 5561.187,
+      "duration": 3.520999999999731,
+      "dialogue_text": "宗介 うれしいねぇ。 うん。"
+    },
+    {
+      "subtitle_index": 747,
+      "start_time": 5561.187,
+      "end_time": 5564.24,
+      "duration": 3.0529999999998836,
+      "dialogue_text": "宗介 燃えてるねぇ。 うん。"
+    },
+    {
+      "subtitle_index": 748,
+      "start_time": 5564.24,
+      "end_time": 5567.176,
+      "duration": 2.936000000000604,
+      "dialogue_text": "宗介 アチィね。"
+    },
+    {
+      "subtitle_index": 749,
+      "start_time": 5567.176,
+      "end_time": 5569.178,
+      "duration": 2.001999999999498,
+      "dialogue_text": "ポニョは前を見張ってて。"
+    },
+    {
+      "subtitle_index": 750,
+      "start_time": 5569.178,
+      "end_time": 5571.664,
+      "duration": 2.4859999999998763,
+      "dialogue_text": "僕は舵をとるから。"
+    },
+    {
+      "subtitle_index": 751,
+      "start_time": 5571.664,
+      "end_time": 5574.166,
+      "duration": 2.5020000000004075,
+      "dialogue_text": "うん 見張るよ！"
+    },
+    {
+      "subtitle_index": 752,
+      "start_time": 5574.166,
+      "end_time": 5594.17,
+      "duration": 20.003999999999905,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 753,
+      "start_time": 5594.17,
+      "end_time": 5600.176,
+      "duration": 6.006000000000313,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 754,
+      "start_time": 5600.176,
+      "end_time": 5602.178,
+      "duration": 2.001999999999498,
+      "dialogue_text": "道あるよ。"
+    },
+    {
+      "subtitle_index": 755,
+      "start_time": 5602.178,
+      "end_time": 5604.678,
+      "duration": 2.5,
+      "dialogue_text": "リサの行った山の道だよ。"
+    },
+    {
+      "subtitle_index": 756,
+      "start_time": 5606.165,
+      "end_time": 5608.717,
+      "duration": 2.55199999999968,
+      "dialogue_text": "リサ いないね。"
+    },
+    {
+      "subtitle_index": 757,
+      "start_time": 5608.717,
+      "end_time": 5612.217,
+      "duration": 3.5,
+      "dialogue_text": "リサ いるよ 絶対って約束したもん。"
+    },
+    {
+      "subtitle_index": 758,
+      "start_time": 5616.675,
+      "end_time": 5620.179,
+      "duration": 3.5039999999999054,
+      "dialogue_text": "古代魚だ デボン紀の海の生き物だよ。"
+    },
+    {
+      "subtitle_index": 759,
+      "start_time": 5620.179,
+      "end_time": 5623.179,
+      "duration": 3.0,
+      "dialogue_text": "あれ ボトリオレピスだよ。"
+    },
+    {
+      "subtitle_index": 760,
+      "start_time": 5626.669,
+      "end_time": 5628.671,
+      "duration": 2.0020000000004075,
+      "dialogue_text": "これはねぇ…。"
+    },
+    {
+      "subtitle_index": 761,
+      "start_time": 5628.671,
+      "end_time": 5631.707,
+      "duration": 3.036000000000058,
+      "dialogue_text": "ディプノリンクス。 ディプノリンクス！"
+    },
+    {
+      "subtitle_index": 762,
+      "start_time": 5631.707,
+      "end_time": 5634.26,
+      "duration": 2.5529999999998836,
+      "dialogue_text": "わ～ 大きい！"
+    },
+    {
+      "subtitle_index": 763,
+      "start_time": 5634.26,
+      "end_time": 5636.178,
+      "duration": 1.9179999999996653,
+      "dialogue_text": "デボネンクスだよ。"
+    },
+    {
+      "subtitle_index": 764,
+      "start_time": 5636.178,
+      "end_time": 5638.178,
+      "duration": 2.0,
+      "dialogue_text": "デボネンクス！"
+    },
+    {
+      "subtitle_index": 765,
+      "start_time": 5644.186,
+      "end_time": 5646.672,
+      "duration": 2.4859999999998763,
+      "dialogue_text": "（青年） お～い！"
+    },
+    {
+      "subtitle_index": 766,
+      "start_time": 5646.672,
+      "end_time": 5649.158,
+      "duration": 2.486000000000786,
+      "dialogue_text": "（婦人） お～い！"
+    },
+    {
+      "subtitle_index": 767,
+      "start_time": 5649.158,
+      "end_time": 5651.71,
+      "duration": 2.55199999999968,
+      "dialogue_text": "（青年） お～い！ 船だ！"
+    },
+    {
+      "subtitle_index": 768,
+      "start_time": 5651.71,
+      "end_time": 5654.78,
+      "duration": 3.069999999999709,
+      "dialogue_text": "（婦人） お～い！"
+    },
+    {
+      "subtitle_index": 769,
+      "start_time": 5654.78,
+      "end_time": 5657.683,
+      "duration": 2.9030000000002474,
+      "dialogue_text": "「お～い」だって。"
+    },
+    {
+      "subtitle_index": 770,
+      "start_time": 5657.683,
+      "end_time": 5660.683,
+      "duration": 3.0,
+      "dialogue_text": "お～～い！"
+    },
+    {
+      "subtitle_index": 771,
+      "start_time": 5661.67,
+      "end_time": 5663.17,
+      "duration": 1.5,
+      "dialogue_text": "アチっ！"
+    },
+    {
+      "subtitle_index": 772,
+      "start_time": 5665.191,
+      "end_time": 5667.191,
+      "duration": 2.0,
+      "dialogue_text": "わっ あれ？"
+    },
+    {
+      "subtitle_index": 773,
+      "start_time": 5669.178,
+      "end_time": 5672.178,
+      "duration": 3.0,
+      "dialogue_text": "わ～！ やり方 分かったよ。"
+    },
+    {
+      "subtitle_index": 774,
+      "start_time": 5675.267,
+      "end_time": 5677.186,
+      "duration": 1.918999999999869,
+      "dialogue_text": "ポニョ いいよ！"
+    },
+    {
+      "subtitle_index": 775,
+      "start_time": 5677.186,
+      "end_time": 5678.686,
+      "duration": 1.5,
+      "dialogue_text": "ブ～っ！"
+    },
+    {
+      "subtitle_index": 776,
+      "start_time": 5683.192,
+      "end_time": 5685.678,
+      "duration": 2.4859999999998763,
+      "dialogue_text": "こんにちは。 こんにちは。"
+    },
+    {
+      "subtitle_index": 777,
+      "start_time": 5685.678,
+      "end_time": 5688.164,
+      "duration": 2.4859999999998763,
+      "dialogue_text": "やぁ 素晴らしいボートだな。"
+    },
+    {
+      "subtitle_index": 778,
+      "start_time": 5688.164,
+      "end_time": 5691.7,
+      "duration": 3.536000000000058,
+      "dialogue_text": "誰かと思ったら宗ちゃんね リサさんとこの。"
+    },
+    {
+      "subtitle_index": 779,
+      "start_time": 5691.7,
+      "end_time": 5694.253,
+      "duration": 2.5529999999998836,
+      "dialogue_text": "宗ちゃんじゃないよ 宗介だよ。"
+    },
+    {
+      "subtitle_index": 780,
+      "start_time": 5694.253,
+      "end_time": 5696.172,
+      "duration": 1.918999999999869,
+      "dialogue_text": "ポニョだよ。"
+    },
+    {
+      "subtitle_index": 781,
+      "start_time": 5696.172,
+      "end_time": 5699.175,
+      "duration": 3.003000000000611,
+      "dialogue_text": "ポニョ お魚だったの。"
+    },
+    {
+      "subtitle_index": 782,
+      "start_time": 5699.175,
+      "end_time": 5703.679,
+      "duration": 4.503999999999905,
+      "dialogue_text": "お魚？ フフフ ポニョってステキな名前ね。"
+    },
+    {
+      "subtitle_index": 783,
+      "start_time": 5703.679,
+      "end_time": 5705.681,
+      "duration": 2.001999999999498,
+      "dialogue_text": "ん！"
+    },
+    {
+      "subtitle_index": 784,
+      "start_time": 5705.681,
+      "end_time": 5709.668,
+      "duration": 3.98700000000008,
+      "dialogue_text": "おじさん リサ知らない？ （青年） リサさん？"
+    },
+    {
+      "subtitle_index": 785,
+      "start_time": 5709.668,
+      "end_time": 5711.72,
+      "duration": 2.0520000000005894,
+      "dialogue_text": "一緒じゃなかったんだ。"
+    },
+    {
+      "subtitle_index": 786,
+      "start_time": 5711.72,
+      "end_time": 5714.773,
+      "duration": 3.0529999999998836,
+      "dialogue_text": "『ひまわり』へ行ったの。 『ひまわり』に？"
+    },
+    {
+      "subtitle_index": 787,
+      "start_time": 5714.773,
+      "end_time": 5716.773,
+      "duration": 2.0,
+      "dialogue_text": "赤ちゃんよ。"
+    },
+    {
+      "subtitle_index": 788,
+      "start_time": 5737.213,
+      "end_time": 5739.713,
+      "duration": 2.5,
+      "dialogue_text": "う… う…。"
+    },
+    {
+      "subtitle_index": 789,
+      "start_time": 5744.169,
+      "end_time": 5746.155,
+      "duration": 1.9859999999998763,
+      "dialogue_text": "うう～…。"
+    },
+    {
+      "subtitle_index": 790,
+      "start_time": 5746.155,
+      "end_time": 5749.158,
+      "duration": 3.003000000000611,
+      "dialogue_text": "あらあら どうしたのかしら？"
+    },
+    {
+      "subtitle_index": 791,
+      "start_time": 5749.158,
+      "end_time": 5754.163,
+      "duration": 5.0049999999992,
+      "dialogue_text": "う～ うぅ～…。"
+    },
+    {
+      "subtitle_index": 792,
+      "start_time": 5754.163,
+      "end_time": 5757.163,
+      "duration": 3.0,
+      "dialogue_text": "ん！ まぁ くれるの？"
+    },
+    {
+      "subtitle_index": 793,
+      "start_time": 5770.162,
+      "end_time": 5772.162,
+      "duration": 2.0,
+      "dialogue_text": "ちょっと貸してね。"
+    },
+    {
+      "subtitle_index": 794,
+      "start_time": 5776.669,
+      "end_time": 5778.671,
+      "duration": 2.0020000000004075,
+      "dialogue_text": "ありがとう。"
+    },
+    {
+      "subtitle_index": 795,
+      "start_time": 5778.671,
+      "end_time": 5780.671,
+      "duration": 2.0,
+      "dialogue_text": "いただきま～す。"
+    },
+    {
+      "subtitle_index": 796,
+      "start_time": 5783.692,
+      "end_time": 5786.245,
+      "duration": 2.5529999999998836,
+      "dialogue_text": "あっ おいしいスープ！"
+    },
+    {
+      "subtitle_index": 797,
+      "start_time": 5786.245,
+      "end_time": 5788.664,
+      "duration": 2.418999999999869,
+      "dialogue_text": "リサが作ったの。"
+    },
+    {
+      "subtitle_index": 798,
+      "start_time": 5788.664,
+      "end_time": 5791.166,
+      "duration": 2.5020000000004075,
+      "dialogue_text": "赤ちゃんの！"
+    },
+    {
+      "subtitle_index": 799,
+      "start_time": 5791.166,
+      "end_time": 5796.171,
+      "duration": 5.005000000000109,
+      "dialogue_text": "あぁ ごめんね 赤ちゃんは まだスープを飲めないの。"
+    },
+    {
+      "subtitle_index": 800,
+      "start_time": 5796.171,
+      "end_time": 5800.676,
+      "duration": 4.505000000000109,
+      "dialogue_text": "でも 私が飲むとオッパイになって 赤ちゃんが飲めるのよ。"
+    },
+    {
+      "subtitle_index": 801,
+      "start_time": 5800.676,
+      "end_time": 5802.678,
+      "duration": 2.001999999999498,
+      "dialogue_text": "フ～ン…。"
+    },
+    {
+      "subtitle_index": 802,
+      "start_time": 5802.678,
+      "end_time": 5805.23,
+      "duration": 2.55199999999968,
+      "dialogue_text": "僕もリサのオッパイ飲んだんだよ。"
+    },
+    {
+      "subtitle_index": 803,
+      "start_time": 5805.23,
+      "end_time": 5808.684,
+      "duration": 3.454000000000633,
+      "dialogue_text": "ポニョ このスープ 私がいただいていいかしら？"
+    },
+    {
+      "subtitle_index": 804,
+      "start_time": 5808.684,
+      "end_time": 5810.653,
+      "duration": 1.969000000000051,
+      "dialogue_text": "うん いいよ。"
+    },
+    {
+      "subtitle_index": 805,
+      "start_time": 5810.653,
+      "end_time": 5813.188,
+      "duration": 2.5349999999998545,
+      "dialogue_text": "ありがとう。"
+    },
+    {
+      "subtitle_index": 806,
+      "start_time": 5813.188,
+      "end_time": 5816.175,
+      "duration": 2.98700000000008,
+      "dialogue_text": "（かけ声） エイサっ！"
+    },
+    {
+      "subtitle_index": 807,
+      "start_time": 5816.175,
+      "end_time": 5829.688,
+      "duration": 13.51299999999992,
+      "dialogue_text": "エイサっ！ エイサっ！ エイサっ！ エイサっ！"
+    },
+    {
+      "subtitle_index": 808,
+      "start_time": 5829.688,
+      "end_time": 5833.676,
+      "duration": 3.9880000000002838,
+      "dialogue_text": "町の人だよ 船祭りみたいだ。"
+    },
+    {
+      "subtitle_index": 809,
+      "start_time": 5833.676,
+      "end_time": 5838.681,
+      "duration": 5.0049999999992,
+      "dialogue_text": "お～い！ 何かお手伝いすることは ありますか～！"
+    },
+    {
+      "subtitle_index": 810,
+      "start_time": 5838.681,
+      "end_time": 5844.203,
+      "duration": 5.522000000000844,
+      "dialogue_text": "ありがとう！ 今は大丈夫で～す！"
+    },
+    {
+      "subtitle_index": 811,
+      "start_time": 5844.203,
+      "end_time": 5849.658,
+      "duration": 5.454999999999927,
+      "dialogue_text": "では 船団に続いてください！ 山の上のホテルに移動しま～す！"
+    },
+    {
+      "subtitle_index": 812,
+      "start_time": 5849.658,
+      "end_time": 5853.158,
+      "duration": 3.5,
+      "dialogue_text": "（青年） は～い 分かりました～！"
+    },
+    {
+      "subtitle_index": 813,
+      "start_time": 5854.163,
+      "end_time": 5856.165,
+      "duration": 2.0020000000004075,
+      "dialogue_text": "いっぱいいるね。"
+    },
+    {
+      "subtitle_index": 814,
+      "start_time": 5856.165,
+      "end_time": 5858.667,
+      "duration": 2.5020000000004075,
+      "dialogue_text": "よかったわ みんな無事かしら？"
+    },
+    {
+      "subtitle_index": 815,
+      "start_time": 5858.667,
+      "end_time": 5862.667,
+      "duration": 4.0,
+      "dialogue_text": "ポニョ 火をつけるよ。 ちょっと待って え～っと…。"
+    },
+    {
+      "subtitle_index": 816,
+      "start_time": 5867.76,
+      "end_time": 5869.678,
+      "duration": 1.9179999999996653,
+      "dialogue_text": "オッパイだよ。"
+    },
+    {
+      "subtitle_index": 817,
+      "start_time": 5869.678,
+      "end_time": 5871.68,
+      "duration": 2.0020000000004075,
+      "dialogue_text": "まぁ！"
+    },
+    {
+      "subtitle_index": 818,
+      "start_time": 5871.68,
+      "end_time": 5873.665,
+      "duration": 1.9849999999996726,
+      "dialogue_text": "オッパイ！"
+    },
+    {
+      "subtitle_index": 819,
+      "start_time": 5873.665,
+      "end_time": 5876.185,
+      "duration": 2.5200000000004366,
+      "dialogue_text": "ハムはポニョが みんな食べちゃったんだよ。"
+    },
+    {
+      "subtitle_index": 820,
+      "start_time": 5876.185,
+      "end_time": 5879.671,
+      "duration": 3.4859999999998763,
+      "dialogue_text": "ありがとう きっといいオッパイになるわ。"
+    },
+    {
+      "subtitle_index": 821,
+      "start_time": 5879.671,
+      "end_time": 5883.675,
+      "duration": 4.003999999999905,
+      "dialogue_text": "宗介くん 使い残りなんだけど これ いるかな？"
+    },
+    {
+      "subtitle_index": 822,
+      "start_time": 5883.675,
+      "end_time": 5887.763,
+      "duration": 4.087999999999738,
+      "dialogue_text": "うん ポニョが大きくする ありがとう！"
+    },
+    {
+      "subtitle_index": 823,
+      "start_time": 5887.763,
+      "end_time": 5890.763,
+      "duration": 3.0,
+      "dialogue_text": "気をつけて。 ありがとうね。"
+    },
+    {
+      "subtitle_index": 824,
+      "start_time": 5895.17,
+      "end_time": 5898.173,
+      "duration": 3.0029999999997017,
+      "dialogue_text": "（泣き声） どうしたの？"
+    },
+    {
+      "subtitle_index": 825,
+      "start_time": 5898.173,
+      "end_time": 5902.678,
+      "duration": 4.505000000000109,
+      "dialogue_text": "（泣き声）"
+    },
+    {
+      "subtitle_index": 826,
+      "start_time": 5902.678,
+      "end_time": 5907.182,
+      "duration": 4.503999999999905,
+      "dialogue_text": "よし よし よし…。 （泣き声）"
+    },
+    {
+      "subtitle_index": 827,
+      "start_time": 5907.182,
+      "end_time": 5911.22,
+      "duration": 4.038000000000466,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 828,
+      "start_time": 5911.22,
+      "end_time": 5912.755,
+      "duration": 1.5349999999998545,
+      "dialogue_text": "♪♪～ あっ！"
+    },
+    {
+      "subtitle_index": 829,
+      "start_time": 5912.755,
+      "end_time": 5914.673,
+      "duration": 1.9179999999996653,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 830,
+      "start_time": 5914.673,
+      "end_time": 5916.175,
+      "duration": 1.5020000000004075,
+      "dialogue_text": "♪♪～ あっ！"
+    },
+    {
+      "subtitle_index": 831,
+      "start_time": 5916.175,
+      "end_time": 5923.165,
+      "duration": 6.989999999999782,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 832,
+      "start_time": 5923.165,
+      "end_time": 5925.184,
+      "duration": 2.019000000000233,
+      "dialogue_text": "♪♪～ ポニョ！"
+    },
+    {
+      "subtitle_index": 833,
+      "start_time": 5925.184,
+      "end_time": 5933.659,
+      "duration": 8.474999999999454,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 834,
+      "start_time": 5933.659,
+      "end_time": 5935.16,
+      "duration": 1.5010000000002037,
+      "dialogue_text": "♪♪～ まぁ…。"
+    },
+    {
+      "subtitle_index": 835,
+      "start_time": 5935.16,
+      "end_time": 5937.679,
+      "duration": 2.519000000000233,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 836,
+      "start_time": 5937.679,
+      "end_time": 5940.182,
+      "duration": 2.5029999999997017,
+      "dialogue_text": "宗ちゃん！ 宗ちゃんよ！"
+    },
+    {
+      "subtitle_index": 837,
+      "start_time": 5940.182,
+      "end_time": 5942.184,
+      "duration": 2.0020000000004075,
+      "dialogue_text": "カッコいいな。 リサさんは？"
+    },
+    {
+      "subtitle_index": 838,
+      "start_time": 5942.184,
+      "end_time": 5944.169,
+      "duration": 1.9849999999996726,
+      "dialogue_text": "リサさんは どうしたの？"
+    },
+    {
+      "subtitle_index": 839,
+      "start_time": 5944.169,
+      "end_time": 5947.673,
+      "duration": 3.5039999999999054,
+      "dialogue_text": "『ひまわり』に行ったの 迎えに行くとこ！"
+    },
+    {
+      "subtitle_index": 840,
+      "start_time": 5947.673,
+      "end_time": 5950.742,
+      "duration": 3.0690000000004147,
+      "dialogue_text": "じゃあ リサさんは あの波を突っ切ったんだ！"
+    },
+    {
+      "subtitle_index": 841,
+      "start_time": 5950.742,
+      "end_time": 5954.179,
+      "duration": 3.436999999999898,
+      "dialogue_text": "すげぇや！ 宗介！ 私も乗せて！"
+    },
+    {
+      "subtitle_index": 842,
+      "start_time": 5954.179,
+      "end_time": 5957.666,
+      "duration": 3.48700000000008,
+      "dialogue_text": "クミコちゃん 忙しいから後でね！"
+    },
+    {
+      "subtitle_index": 843,
+      "start_time": 5957.666,
+      "end_time": 5961.17,
+      "duration": 3.5039999999999054,
+      "dialogue_text": "（警官） 『ひまわり』の人は 前山公園に避難してる！"
+    },
+    {
+      "subtitle_index": 844,
+      "start_time": 5961.17,
+      "end_time": 5963.672,
+      "duration": 2.501999999999498,
+      "dialogue_text": "しっかりな！ 頑張れ！"
+    },
+    {
+      "subtitle_index": 845,
+      "start_time": 5963.672,
+      "end_time": 5967.693,
+      "duration": 4.02100000000064,
+      "dialogue_text": "手が空き次第 私達のボートも 『ひまわり』へ行く！"
+    },
+    {
+      "subtitle_index": 846,
+      "start_time": 5967.693,
+      "end_time": 5970.245,
+      "duration": 2.55199999999968,
+      "dialogue_text": "奮闘を期待する！"
+    },
+    {
+      "subtitle_index": 847,
+      "start_time": 5970.245,
+      "end_time": 5990.165,
+      "duration": 19.920000000000073,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 848,
+      "start_time": 5990.165,
+      "end_time": 6010.169,
+      "duration": 20.003999999999905,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 849,
+      "start_time": 6010.169,
+      "end_time": 6018.694,
+      "duration": 8.525000000000546,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 850,
+      "start_time": 6018.694,
+      "end_time": 6022.194,
+      "duration": 3.5,
+      "dialogue_text": "ポニョ ロウソクを替えなきゃ。"
+    },
+    {
+      "subtitle_index": 851,
+      "start_time": 6025.167,
+      "end_time": 6029.671,
+      "duration": 4.503999999999905,
+      "dialogue_text": "平気だよ さっきもらったのがあるから。"
+    },
+    {
+      "subtitle_index": 852,
+      "start_time": 6029.671,
+      "end_time": 6032.671,
+      "duration": 3.0,
+      "dialogue_text": "アチっ！ まだ熱いや。"
+    },
+    {
+      "subtitle_index": 853,
+      "start_time": 6037.162,
+      "end_time": 6040.716,
+      "duration": 3.5540000000000873,
+      "dialogue_text": "バイ…バイ…。"
+    },
+    {
+      "subtitle_index": 854,
+      "start_time": 6040.716,
+      "end_time": 6044.67,
+      "duration": 3.9539999999997235,
+      "dialogue_text": "ポニョ これ大きくできる？"
+    },
+    {
+      "subtitle_index": 855,
+      "start_time": 6044.67,
+      "end_time": 6046.67,
+      "duration": 2.0,
+      "dialogue_text": "いいよ…。"
+    },
+    {
+      "subtitle_index": 856,
+      "start_time": 6051.176,
+      "end_time": 6054.676,
+      "duration": 3.5,
+      "dialogue_text": "ポニョ 眠いの？"
+    },
+    {
+      "subtitle_index": 857,
+      "start_time": 6061.236,
+      "end_time": 6064.236,
+      "duration": 3.0,
+      "dialogue_text": "ポニョ？ ん？"
+    },
+    {
+      "subtitle_index": 858,
+      "start_time": 6066.174,
+      "end_time": 6067.674,
+      "duration": 1.5,
+      "dialogue_text": "ん！"
+    },
+    {
+      "subtitle_index": 859,
+      "start_time": 6078.186,
+      "end_time": 6081.186,
+      "duration": 3.0,
+      "dialogue_text": "ポニョ？ ポニョ？"
+    },
+    {
+      "subtitle_index": 860,
+      "start_time": 6108.75,
+      "end_time": 6128.67,
+      "duration": 19.920000000000073,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 861,
+      "start_time": 6128.67,
+      "end_time": 6138.664,
+      "duration": 9.993999999999687,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 862,
+      "start_time": 6138.664,
+      "end_time": 6141.183,
+      "duration": 2.519000000000233,
+      "dialogue_text": "♪♪～ しめた！ 足が着いた！"
+    },
+    {
+      "subtitle_index": 863,
+      "start_time": 6141.183,
+      "end_time": 6151.176,
+      "duration": 9.993000000000393,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 864,
+      "start_time": 6151.176,
+      "end_time": 6162.671,
+      "duration": 11.49499999999989,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 865,
+      "start_time": 6162.671,
+      "end_time": 6164.172,
+      "duration": 1.5009999999992942,
+      "dialogue_text": "♪♪～ あっ。"
+    },
+    {
+      "subtitle_index": 866,
+      "start_time": 6164.172,
+      "end_time": 6167.159,
+      "duration": 2.98700000000008,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 867,
+      "start_time": 6167.159,
+      "end_time": 6169.177,
+      "duration": 2.018000000000029,
+      "dialogue_text": "♪♪～ 道が出てる。"
+    },
+    {
+      "subtitle_index": 868,
+      "start_time": 6169.177,
+      "end_time": 6178.72,
+      "duration": 9.543000000000575,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 869,
+      "start_time": 6178.72,
+      "end_time": 6180.756,
+      "duration": 2.036000000000058,
+      "dialogue_text": "あっ！"
+    },
+    {
+      "subtitle_index": 870,
+      "start_time": 6180.756,
+      "end_time": 6183.256,
+      "duration": 2.5,
+      "dialogue_text": "ああっ！ ボートが！"
+    },
+    {
+      "subtitle_index": 871,
+      "start_time": 6184.693,
+      "end_time": 6186.194,
+      "duration": 1.5010000000002037,
+      "dialogue_text": "ポニョ！"
+    },
+    {
+      "subtitle_index": 872,
+      "start_time": 6186.194,
+      "end_time": 6205.18,
+      "duration": 18.985999999999876,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 873,
+      "start_time": 6205.18,
+      "end_time": 6207.165,
+      "duration": 1.9849999999996726,
+      "dialogue_text": "ポニョ！"
+    },
+    {
+      "subtitle_index": 874,
+      "start_time": 6207.165,
+      "end_time": 6210.165,
+      "duration": 3.0,
+      "dialogue_text": "ポニョ 起きな！"
+    },
+    {
+      "subtitle_index": 875,
+      "start_time": 6211.653,
+      "end_time": 6214.653,
+      "duration": 3.0,
+      "dialogue_text": "宗介…。"
+    },
+    {
+      "subtitle_index": 876,
+      "start_time": 6216.158,
+      "end_time": 6219.695,
+      "duration": 3.5369999999993524,
+      "dialogue_text": "ファ～…。"
+    },
+    {
+      "subtitle_index": 877,
+      "start_time": 6219.695,
+      "end_time": 6221.747,
+      "duration": 2.0520000000005894,
+      "dialogue_text": "よかった。"
+    },
+    {
+      "subtitle_index": 878,
+      "start_time": 6221.747,
+      "end_time": 6225.247,
+      "duration": 3.5,
+      "dialogue_text": "ポニョが 金魚になっちゃうかと思った。"
+    },
+    {
+      "subtitle_index": 879,
+      "start_time": 6232.174,
+      "end_time": 6233.674,
+      "duration": 1.5,
+      "dialogue_text": "ハッ！"
+    },
+    {
+      "subtitle_index": 880,
+      "start_time": 6236.678,
+      "end_time": 6238.663,
+      "duration": 1.9849999999996726,
+      "dialogue_text": "リサカーだ！"
+    },
+    {
+      "subtitle_index": 881,
+      "start_time": 6238.663,
+      "end_time": 6241.163,
+      "duration": 2.5,
+      "dialogue_text": "ポニョ リサの車あった！"
+    },
+    {
+      "subtitle_index": 882,
+      "start_time": 6244.686,
+      "end_time": 6246.722,
+      "duration": 2.036000000000058,
+      "dialogue_text": "リサ～！"
+    },
+    {
+      "subtitle_index": 883,
+      "start_time": 6246.722,
+      "end_time": 6248.222,
+      "duration": 1.5,
+      "dialogue_text": "リサ！"
+    },
+    {
+      "subtitle_index": 884,
+      "start_time": 6249.674,
+      "end_time": 6251.676,
+      "duration": 2.0020000000004075,
+      "dialogue_text": "リサ～!!"
+    },
+    {
+      "subtitle_index": 885,
+      "start_time": 6251.676,
+      "end_time": 6253.676,
+      "duration": 2.0,
+      "dialogue_text": "リサ！"
+    },
+    {
+      "subtitle_index": 886,
+      "start_time": 6255.163,
+      "end_time": 6257.163,
+      "duration": 2.0,
+      "dialogue_text": "リサ～!!"
+    },
+    {
+      "subtitle_index": 887,
+      "start_time": 6259.184,
+      "end_time": 6261.184,
+      "duration": 2.0,
+      "dialogue_text": "リサ～!!"
+    },
+    {
+      "subtitle_index": 888,
+      "start_time": 6262.187,
+      "end_time": 6263.687,
+      "duration": 1.5,
+      "dialogue_text": "リサ！"
+    },
+    {
+      "subtitle_index": 889,
+      "start_time": 6265.724,
+      "end_time": 6267.224,
+      "duration": 1.5,
+      "dialogue_text": "リサ！"
+    },
+    {
+      "subtitle_index": 890,
+      "start_time": 6269.177,
+      "end_time": 6271.177,
+      "duration": 2.0,
+      "dialogue_text": "リサ～!!"
+    },
+    {
+      "subtitle_index": 891,
+      "start_time": 6274.182,
+      "end_time": 6275.684,
+      "duration": 1.5020000000004075,
+      "dialogue_text": "リサ!!"
+    },
+    {
+      "subtitle_index": 892,
+      "start_time": 6275.684,
+      "end_time": 6295.67,
+      "duration": 19.985999999999876,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 893,
+      "start_time": 6295.67,
+      "end_time": 6303.678,
+      "duration": 8.00799999999981,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 894,
+      "start_time": 6303.678,
+      "end_time": 6306.164,
+      "duration": 2.4859999999998763,
+      "dialogue_text": "♪♪～ 宗介 お船。"
+    },
+    {
+      "subtitle_index": 895,
+      "start_time": 6306.164,
+      "end_time": 6309.201,
+      "duration": 3.037000000000262,
+      "dialogue_text": "♪♪～ お目めから 水出てる。"
+    },
+    {
+      "subtitle_index": 896,
+      "start_time": 6309.201,
+      "end_time": 6315.674,
+      "duration": 6.472999999999956,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 897,
+      "start_time": 6315.674,
+      "end_time": 6319.661,
+      "duration": 3.98700000000008,
+      "dialogue_text": "リサ さがそう。 ♪♪～ うん。"
+    },
+    {
+      "subtitle_index": 898,
+      "start_time": 6319.661,
+      "end_time": 6329.661,
+      "duration": 10.0,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 899,
+      "start_time": 6491.666,
+      "end_time": 6509.768,
+      "duration": 18.10199999999986,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 900,
+      "start_time": 6509.768,
+      "end_time": 6514.689,
+      "duration": 4.9210000000002765,
+      "dialogue_text": "（おばあちゃん達） アハハハハ！ ア～ハハハ！"
+    },
+    {
+      "subtitle_index": 901,
+      "start_time": 6514.689,
+      "end_time": 6518.159,
+      "duration": 3.469999999999345,
+      "dialogue_text": "（リツコ） 待って ひざかけが。 （ひな） いいじゃない そんなもの。"
+    },
+    {
+      "subtitle_index": 902,
+      "start_time": 6518.159,
+      "end_time": 6522.18,
+      "duration": 4.02100000000064,
+      "dialogue_text": "（ヨシエ） 早く クジラさんよ。 （ハナ） 立派ねぇ！"
+    },
+    {
+      "subtitle_index": 903,
+      "start_time": 6522.18,
+      "end_time": 6525.183,
+      "duration": 3.0029999999997017,
+      "dialogue_text": "（ひな） あの世もいいわねぇ！ （リツコ） ヒザも痛くないし。"
+    },
+    {
+      "subtitle_index": 904,
+      "start_time": 6525.183,
+      "end_time": 6528.219,
+      "duration": 3.036000000000058,
+      "dialogue_text": "（ヨシエ） 怖がるんじゃなかったねぇ。 （のり子） あの世なの？"
+    },
+    {
+      "subtitle_index": 905,
+      "start_time": 6528.219,
+      "end_time": 6532.691,
+      "duration": 4.471999999999753,
+      "dialogue_text": "（カヨ） 竜宮城だと思ってたの？ アハハハ！"
+    },
+    {
+      "subtitle_index": 906,
+      "start_time": 6532.691,
+      "end_time": 6536.678,
+      "duration": 3.98700000000008,
+      "dialogue_text": "皆さ～ん！ お集まりくださ～い！"
+    },
+    {
+      "subtitle_index": 907,
+      "start_time": 6536.678,
+      "end_time": 6539.681,
+      "duration": 3.0029999999997017,
+      "dialogue_text": "は～い！ 行きましょう！"
+    },
+    {
+      "subtitle_index": 908,
+      "start_time": 6539.681,
+      "end_time": 6541.683,
+      "duration": 2.0020000000004075,
+      "dialogue_text": "ハハハハ！"
+    },
+    {
+      "subtitle_index": 909,
+      "start_time": 6541.683,
+      "end_time": 6543.668,
+      "duration": 1.9849999999996726,
+      "dialogue_text": "走れるってステキね。"
+    },
+    {
+      "subtitle_index": 910,
+      "start_time": 6543.668,
+      "end_time": 6546.168,
+      "duration": 2.5,
+      "dialogue_text": "（カヨ） お先に～！"
+    },
+    {
+      "subtitle_index": 911,
+      "start_time": 6549.24,
+      "end_time": 6552.66,
+      "duration": 3.4200000000000728,
+      "dialogue_text": "１着！ アハハハ！"
+    },
+    {
+      "subtitle_index": 912,
+      "start_time": 6552.66,
+      "end_time": 6555.663,
+      "duration": 3.0029999999997017,
+      "dialogue_text": "（ハナ） カヨさん速い！"
+    },
+    {
+      "subtitle_index": 913,
+      "start_time": 6555.663,
+      "end_time": 6558.183,
+      "duration": 2.5200000000004366,
+      "dialogue_text": "皆さん お静かに！"
+    },
+    {
+      "subtitle_index": 914,
+      "start_time": 6558.183,
+      "end_time": 6561.186,
+      "duration": 3.0029999999997017,
+      "dialogue_text": "いよいよ 運命の時は近づきました→"
+    },
+    {
+      "subtitle_index": 915,
+      "start_time": 6561.186,
+      "end_time": 6563.671,
+      "duration": 2.485000000000582,
+      "dialogue_text": "宗介くんとポニョは ここへ向かって来ています。"
+    },
+    {
+      "subtitle_index": 916,
+      "start_time": 6563.671,
+      "end_time": 6567.192,
+      "duration": 3.520999999999731,
+      "dialogue_text": "キャ～ どうしよう！ 愛の試練よ。"
+    },
+    {
+      "subtitle_index": 917,
+      "start_time": 6567.192,
+      "end_time": 6570.762,
+      "duration": 3.569999999999709,
+      "dialogue_text": "（リツコ） 胸がドキドキして来たわ。 アハハハ！"
+    },
+    {
+      "subtitle_index": 918,
+      "start_time": 6570.762,
+      "end_time": 6575.166,
+      "duration": 4.404000000000451,
+      "dialogue_text": "お静かに！ 皆さんは この神聖な試練の立会人です。"
+    },
+    {
+      "subtitle_index": 919,
+      "start_time": 6575.166,
+      "end_time": 6578.169,
+      "duration": 3.0029999999997017,
+      "dialogue_text": "どうか 今しばらく お待ちください。"
+    },
+    {
+      "subtitle_index": 920,
+      "start_time": 6578.169,
+      "end_time": 6580.171,
+      "duration": 2.0020000000004075,
+      "dialogue_text": "フジモトさん→"
+    },
+    {
+      "subtitle_index": 921,
+      "start_time": 6580.171,
+      "end_time": 6583.691,
+      "duration": 3.519999999999527,
+      "dialogue_text": "まさか 宗ちゃんやポニョに ひどいことは しないでしょうね？"
+    },
+    {
+      "subtitle_index": 922,
+      "start_time": 6583.691,
+      "end_time": 6586.678,
+      "duration": 2.98700000000008,
+      "dialogue_text": "≪そうよ！≫ ≪当然よ！≫"
+    },
+    {
+      "subtitle_index": 923,
+      "start_time": 6586.678,
+      "end_time": 6591.216,
+      "duration": 4.538000000000466,
+      "dialogue_text": "それは もちろん ポニョが寝てさえくれれば…。"
+    },
+    {
+      "subtitle_index": 924,
+      "start_time": 6591.216,
+      "end_time": 6592.716,
+      "duration": 1.5,
+      "dialogue_text": "では。"
+    },
+    {
+      "subtitle_index": 925,
+      "start_time": 6601.176,
+      "end_time": 6603.661,
+      "duration": 2.4849999999996726,
+      "dialogue_text": "いい人なんでしょうけど…。"
+    },
+    {
+      "subtitle_index": 926,
+      "start_time": 6603.661,
+      "end_time": 6606.181,
+      "duration": 2.519999999999527,
+      "dialogue_text": "リサさん どうしてるかしら？"
+    },
+    {
+      "subtitle_index": 927,
+      "start_time": 6606.181,
+      "end_time": 6611.681,
+      "duration": 5.5,
+      "dialogue_text": "ほら あそこ ポニョのお母さんと ず～っと話してるわ。"
+    },
+    {
+      "subtitle_index": 928,
+      "start_time": 6618.76,
+      "end_time": 6621.663,
+      "duration": 2.902999999999338,
+      "dialogue_text": "リサさん つらいでしょうねぇ。"
+    },
+    {
+      "subtitle_index": 929,
+      "start_time": 6621.663,
+      "end_time": 6624.182,
+      "duration": 2.519000000000233,
+      "dialogue_text": "何を話してるのかな？"
+    },
+    {
+      "subtitle_index": 930,
+      "start_time": 6624.182,
+      "end_time": 6627.669,
+      "duration": 3.48700000000008,
+      "dialogue_text": "呼んでみるわね リサさ～ん！"
+    },
+    {
+      "subtitle_index": 931,
+      "start_time": 6627.669,
+      "end_time": 6631.169,
+      "duration": 3.5,
+      "dialogue_text": "リサさ～～ん！"
+    },
+    {
+      "subtitle_index": 932,
+      "start_time": 6636.194,
+      "end_time": 6643.194,
+      "duration": 7.0,
+      "dialogue_text": "私達みんな 宗介ちゃんとポニョの 味方だからね～！"
+    },
+    {
+      "subtitle_index": 933,
+      "start_time": 6656.164,
+      "end_time": 6659.167,
+      "duration": 3.003000000000611,
+      "dialogue_text": "リサさん！ 心配でしょ？"
+    },
+    {
+      "subtitle_index": 934,
+      "start_time": 6659.167,
+      "end_time": 6662.203,
+      "duration": 3.036000000000058,
+      "dialogue_text": "宗ちゃんは大丈夫よ 強い子だもん！"
+    },
+    {
+      "subtitle_index": 935,
+      "start_time": 6662.203,
+      "end_time": 6664.239,
+      "duration": 2.0359999999991487,
+      "dialogue_text": "真っすぐな子よ！"
+    },
+    {
+      "subtitle_index": 936,
+      "start_time": 6664.239,
+      "end_time": 6668.176,
+      "duration": 3.9370000000008076,
+      "dialogue_text": "ありがとう みんなで応援してください。"
+    },
+    {
+      "subtitle_index": 937,
+      "start_time": 6668.176,
+      "end_time": 6670.676,
+      "duration": 2.5,
+      "dialogue_text": "うん！ もちろん！"
+    },
+    {
+      "subtitle_index": 938,
+      "start_time": 6677.168,
+      "end_time": 6679.668,
+      "duration": 2.5,
+      "dialogue_text": "ポニョ トンネルだよ。"
+    },
+    {
+      "subtitle_index": 939,
+      "start_time": 6694.185,
+      "end_time": 6697.655,
+      "duration": 3.469999999999345,
+      "dialogue_text": "ここ 通ったことあるよ。"
+    },
+    {
+      "subtitle_index": 940,
+      "start_time": 6697.655,
+      "end_time": 6699.674,
+      "duration": 2.019000000000233,
+      "dialogue_text": "ポニョ？"
+    },
+    {
+      "subtitle_index": 941,
+      "start_time": 6699.674,
+      "end_time": 6702.174,
+      "duration": 2.5,
+      "dialogue_text": "ここ 嫌い…。"
+    },
+    {
+      "subtitle_index": 942,
+      "start_time": 6705.163,
+      "end_time": 6707.682,
+      "duration": 2.519000000000233,
+      "dialogue_text": "手 離しちゃダメだよ。"
+    },
+    {
+      "subtitle_index": 943,
+      "start_time": 6707.682,
+      "end_time": 6709.682,
+      "duration": 2.0,
+      "dialogue_text": "ん…。"
+    },
+    {
+      "subtitle_index": 944,
+      "start_time": 6729.654,
+      "end_time": 6741.182,
+      "duration": 11.527999999999338,
+      "dialogue_text": "（バケツを引きずる音）"
+    },
+    {
+      "subtitle_index": 945,
+      "start_time": 6741.182,
+      "end_time": 6742.682,
+      "duration": 1.5,
+      "dialogue_text": "あっ!?"
+    },
+    {
+      "subtitle_index": 946,
+      "start_time": 6745.169,
+      "end_time": 6747.655,
+      "duration": 2.4859999999998763,
+      "dialogue_text": "ポニョ！"
+    },
+    {
+      "subtitle_index": 947,
+      "start_time": 6747.655,
+      "end_time": 6766.691,
+      "duration": 19.036000000000058,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 948,
+      "start_time": 6766.691,
+      "end_time": 6768.176,
+      "duration": 1.485000000000582,
+      "dialogue_text": "♪♪～ ポニョ！"
+    },
+    {
+      "subtitle_index": 949,
+      "start_time": 6768.176,
+      "end_time": 6775.683,
+      "duration": 7.506999999999607,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 950,
+      "start_time": 6775.683,
+      "end_time": 6777.185,
+      "duration": 1.5020000000004075,
+      "dialogue_text": "♪♪～ ポニョ！"
+    },
+    {
+      "subtitle_index": 951,
+      "start_time": 6777.185,
+      "end_time": 6780.188,
+      "duration": 3.0029999999997017,
+      "dialogue_text": "♪♪～ ああ… ああ…。"
+    },
+    {
+      "subtitle_index": 952,
+      "start_time": 6780.188,
+      "end_time": 6798.673,
+      "duration": 18.484999999999673,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 953,
+      "start_time": 6798.673,
+      "end_time": 6801.192,
+      "duration": 2.519000000000233,
+      "dialogue_text": "ポニョ！ 死んじゃダメだよ！"
+    },
+    {
+      "subtitle_index": 954,
+      "start_time": 6801.192,
+      "end_time": 6802.692,
+      "duration": 1.5,
+      "dialogue_text": "ポニョ！"
+    },
+    {
+      "subtitle_index": 955,
+      "start_time": 6803.678,
+      "end_time": 6806.197,
+      "duration": 2.519000000000233,
+      "dialogue_text": "ポニョ！ 起きな ポニョ！"
+    },
+    {
+      "subtitle_index": 956,
+      "start_time": 6806.197,
+      "end_time": 6809.767,
+      "duration": 3.569999999999709,
+      "dialogue_text": "（フジモト） シ～！ 起こさないで。"
+    },
+    {
+      "subtitle_index": 957,
+      "start_time": 6809.767,
+      "end_time": 6812.17,
+      "duration": 2.4030000000002474,
+      "dialogue_text": "宗介くん よく来たね。"
+    },
+    {
+      "subtitle_index": 958,
+      "start_time": 6812.17,
+      "end_time": 6816.19,
+      "duration": 4.019999999999527,
+      "dialogue_text": "リサさんも おばあちゃん達も み～んな待っているよ。"
+    },
+    {
+      "subtitle_index": 959,
+      "start_time": 6816.19,
+      "end_time": 6817.692,
+      "duration": 1.5020000000004075,
+      "dialogue_text": "リサが？"
+    },
+    {
+      "subtitle_index": 960,
+      "start_time": 6817.692,
+      "end_time": 6821.692,
+      "duration": 4.0,
+      "dialogue_text": "私と一緒に来てくれないか？ ポニョも一緒に。"
+    },
+    {
+      "subtitle_index": 961,
+      "start_time": 6823.681,
+      "end_time": 6826.684,
+      "duration": 3.003000000000611,
+      "dialogue_text": "ポニョは寝たままにして そ～っと行こう…。"
+    },
+    {
+      "subtitle_index": 962,
+      "start_time": 6826.684,
+      "end_time": 6829.237,
+      "duration": 2.5529999999998836,
+      "dialogue_text": "（トキ） ≪宗介～！≫ ん!?"
+    },
+    {
+      "subtitle_index": 963,
+      "start_time": 6829.237,
+      "end_time": 6832.69,
+      "duration": 3.45299999999952,
+      "dialogue_text": "そんなヤツに だまされちゃダメだよ～！"
+    },
+    {
+      "subtitle_index": 964,
+      "start_time": 6832.69,
+      "end_time": 6836.16,
+      "duration": 3.4700000000002547,
+      "dialogue_text": "うまいこと言って みんなを 連れて行ってしまったんだ！"
+    },
+    {
+      "subtitle_index": 965,
+      "start_time": 6836.16,
+      "end_time": 6839.681,
+      "duration": 3.520999999999731,
+      "dialogue_text": "トキさん！ （トキ）私は だまされないからね！"
+    },
+    {
+      "subtitle_index": 966,
+      "start_time": 6839.681,
+      "end_time": 6843.184,
+      "duration": 3.503000000000611,
+      "dialogue_text": "だから もう時間がないんです！"
+    },
+    {
+      "subtitle_index": 967,
+      "start_time": 6843.184,
+      "end_time": 6845.67,
+      "duration": 2.4859999999998763,
+      "dialogue_text": "あれが見えないんですか！"
+    },
+    {
+      "subtitle_index": 968,
+      "start_time": 6845.67,
+      "end_time": 6849.24,
+      "duration": 3.569999999999709,
+      "dialogue_text": "これ以上 月が近づいたら 取り返しがつかないんです！"
+    },
+    {
+      "subtitle_index": 969,
+      "start_time": 6849.24,
+      "end_time": 6852.66,
+      "duration": 3.4200000000000728,
+      "dialogue_text": "ウソなら もうちっとマシなウソを つくんだね！"
+    },
+    {
+      "subtitle_index": 970,
+      "start_time": 6852.66,
+      "end_time": 6855.663,
+      "duration": 3.0029999999997017,
+      "dialogue_text": "あ～ も～う！ （トキ） 宗介 こっちにおいで！"
+    },
+    {
+      "subtitle_index": 971,
+      "start_time": 6855.663,
+      "end_time": 6857.682,
+      "duration": 2.019000000000233,
+      "dialogue_text": "宗介くん 一緒に行こう！"
+    },
+    {
+      "subtitle_index": 972,
+      "start_time": 6857.682,
+      "end_time": 6861.185,
+      "duration": 3.503000000000611,
+      "dialogue_text": "君しか世界は救えないんだ！ 乱暴は したくない。"
+    },
+    {
+      "subtitle_index": 973,
+      "start_time": 6861.185,
+      "end_time": 6862.687,
+      "duration": 1.501999999999498,
+      "dialogue_text": "あっ！"
+    },
+    {
+      "subtitle_index": 974,
+      "start_time": 6862.687,
+      "end_time": 6864.188,
+      "duration": 1.5010000000002037,
+      "dialogue_text": "ポニョ！"
+    },
+    {
+      "subtitle_index": 975,
+      "start_time": 6864.188,
+      "end_time": 6868.242,
+      "duration": 4.054000000000087,
+      "dialogue_text": "あ～っ！ 実の父に何てことを！"
+    },
+    {
+      "subtitle_index": 976,
+      "start_time": 6868.242,
+      "end_time": 6874.182,
+      "duration": 5.9399999999996,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 977,
+      "start_time": 6874.182,
+      "end_time": 6876.184,
+      "duration": 2.0020000000004075,
+      "dialogue_text": "♪♪～ ポニョ！"
+    },
+    {
+      "subtitle_index": 978,
+      "start_time": 6876.184,
+      "end_time": 6879.187,
+      "duration": 3.0029999999997017,
+      "dialogue_text": "♪♪～ 宗介！ おいで～！"
+    },
+    {
+      "subtitle_index": 979,
+      "start_time": 6879.187,
+      "end_time": 6881.172,
+      "duration": 1.9849999999996726,
+      "dialogue_text": "♪♪～ 違うのに！"
+    },
+    {
+      "subtitle_index": 980,
+      "start_time": 6881.172,
+      "end_time": 6886.177,
+      "duration": 5.005000000000109,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 981,
+      "start_time": 6886.177,
+      "end_time": 6888.196,
+      "duration": 2.019000000000233,
+      "dialogue_text": "♪♪～ 頑張れ～！"
+    },
+    {
+      "subtitle_index": 982,
+      "start_time": 6888.196,
+      "end_time": 6889.714,
+      "duration": 1.518000000000029,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 983,
+      "start_time": 6889.714,
+      "end_time": 6891.766,
+      "duration": 2.05199999999968,
+      "dialogue_text": "♪♪～ とびな～！"
+    },
+    {
+      "subtitle_index": 984,
+      "start_time": 6891.766,
+      "end_time": 6901.692,
+      "duration": 9.926000000000386,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 985,
+      "start_time": 6901.692,
+      "end_time": 6911.192,
+      "duration": 9.5,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 986,
+      "start_time": 6918.159,
+      "end_time": 6928.653,
+      "duration": 10.494000000000597,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 987,
+      "start_time": 6928.653,
+      "end_time": 6932.673,
+      "duration": 4.019999999999527,
+      "dialogue_text": "♪♪～ あっ！ お前達！"
+    },
+    {
+      "subtitle_index": 988,
+      "start_time": 6932.673,
+      "end_time": 6952.66,
+      "duration": 19.98700000000008,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 989,
+      "start_time": 6952.66,
+      "end_time": 6972.68,
+      "duration": 20.020000000000437,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 990,
+      "start_time": 6972.68,
+      "end_time": 6987.195,
+      "duration": 14.514999999999418,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 991,
+      "start_time": 6987.195,
+      "end_time": 6989.23,
+      "duration": 2.0349999999998545,
+      "dialogue_text": "リサ！ ♪♪～ 宗介。"
+    },
+    {
+      "subtitle_index": 992,
+      "start_time": 6989.23,
+      "end_time": 6990.765,
+      "duration": 1.535000000000764,
+      "dialogue_text": "♪♪～ ポニョ！"
+    },
+    {
+      "subtitle_index": 993,
+      "start_time": 6990.765,
+      "end_time": 6995.169,
+      "duration": 4.403999999999542,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 994,
+      "start_time": 6995.169,
+      "end_time": 6997.188,
+      "duration": 2.019000000000233,
+      "dialogue_text": "♪♪～ ほら あっち！"
+    },
+    {
+      "subtitle_index": 995,
+      "start_time": 6997.188,
+      "end_time": 6999.674,
+      "duration": 2.4859999999998763,
+      "dialogue_text": "♪♪～ ここは… どこ!?"
+    },
+    {
+      "subtitle_index": 996,
+      "start_time": 6999.674,
+      "end_time": 7009.183,
+      "duration": 9.509000000000015,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 997,
+      "start_time": 7009.183,
+      "end_time": 7011.736,
+      "duration": 2.5529999999998836,
+      "dialogue_text": "宗介さんですね？"
+    },
+    {
+      "subtitle_index": 998,
+      "start_time": 7011.736,
+      "end_time": 7015.189,
+      "duration": 3.4530000000004293,
+      "dialogue_text": "こんにちは ポニョのお母さん？"
+    },
+    {
+      "subtitle_index": 999,
+      "start_time": 7015.189,
+      "end_time": 7017.158,
+      "duration": 1.969000000000051,
+      "dialogue_text": "はい→"
+    },
+    {
+      "subtitle_index": 1000,
+      "start_time": 7017.158,
+      "end_time": 7021.662,
+      "duration": 4.503999999999905,
+      "dialogue_text": "よくポニョを連れて来て くれましたね ありがとう。"
+    },
+    {
+      "subtitle_index": 1001,
+      "start_time": 7021.662,
+      "end_time": 7025.183,
+      "duration": 3.520999999999731,
+      "dialogue_text": "宗介さん ポニョは人間になりたくて→"
+    },
+    {
+      "subtitle_index": 1002,
+      "start_time": 7025.183,
+      "end_time": 7028.169,
+      "duration": 2.9859999999998763,
+      "dialogue_text": "魔法のフタを開けてしまいました。"
+    },
+    {
+      "subtitle_index": 1003,
+      "start_time": 7028.169,
+      "end_time": 7032.256,
+      "duration": 4.087000000000444,
+      "dialogue_text": "人間になるには ポニョの本当の姿を知りながら→"
+    },
+    {
+      "subtitle_index": 1004,
+      "start_time": 7032.256,
+      "end_time": 7035.676,
+      "duration": 3.4200000000000728,
+      "dialogue_text": "それでもいいと言う男の子が いるんです。"
+    },
+    {
+      "subtitle_index": 1005,
+      "start_time": 7035.676,
+      "end_time": 7040.181,
+      "duration": 4.5049999999992,
+      "dialogue_text": "あなたは ポニョが お魚だったのを知っていますか？"
+    },
+    {
+      "subtitle_index": 1006,
+      "start_time": 7040.181,
+      "end_time": 7041.682,
+      "duration": 1.5010000000002037,
+      "dialogue_text": "うん。"
+    },
+    {
+      "subtitle_index": 1007,
+      "start_time": 7041.682,
+      "end_time": 7045.186,
+      "duration": 3.5039999999999054,
+      "dialogue_text": "（グランマンマーレ） ポニョは あなたの血をなめて 半魚人になったんです。"
+    },
+    {
+      "subtitle_index": 1008,
+      "start_time": 7045.186,
+      "end_time": 7050.191,
+      "duration": 5.005000000000109,
+      "dialogue_text": "そうか！ ポニョはね 僕のケガをなめて治してくれたの。"
+    },
+    {
+      "subtitle_index": 1009,
+      "start_time": 7050.191,
+      "end_time": 7053.261,
+      "duration": 3.0700000000006185,
+      "dialogue_text": "それで半魚人になったんだ。"
+    },
+    {
+      "subtitle_index": 1010,
+      "start_time": 7053.261,
+      "end_time": 7057.665,
+      "duration": 4.403999999999542,
+      "dialogue_text": "ポニョの正体が 半魚人でもいいですか？"
+    },
+    {
+      "subtitle_index": 1011,
+      "start_time": 7057.665,
+      "end_time": 7061.168,
+      "duration": 3.5029999999997017,
+      "dialogue_text": "うん！ 僕 お魚のポニョも 半魚人のポニョも→"
+    },
+    {
+      "subtitle_index": 1012,
+      "start_time": 7061.168,
+      "end_time": 7064.668,
+      "duration": 3.5,
+      "dialogue_text": "人間のポニョも みんな好きだよ。"
+    },
+    {
+      "subtitle_index": 1013,
+      "start_time": 7067.174,
+      "end_time": 7070.177,
+      "duration": 3.0029999999997017,
+      "dialogue_text": "アハっ フフっ…。"
+    },
+    {
+      "subtitle_index": 1014,
+      "start_time": 7070.177,
+      "end_time": 7073.677,
+      "duration": 3.5,
+      "dialogue_text": "フフフ…。"
+    },
+    {
+      "subtitle_index": 1015,
+      "start_time": 7078.185,
+      "end_time": 7081.185,
+      "duration": 3.0,
+      "dialogue_text": "ポニョ ここへおいで。"
+    },
+    {
+      "subtitle_index": 1016,
+      "start_time": 7094.752,
+      "end_time": 7100.252,
+      "duration": 5.5,
+      "dialogue_text": "ポニョ 宗介さんが あなたの 身元引受人になってくれます。"
+    },
+    {
+      "subtitle_index": 1017,
+      "start_time": 7102.193,
+      "end_time": 7106.697,
+      "duration": 4.503999999999905,
+      "dialogue_text": "人間になるには 魔法を 捨てなければなりませんよ→"
+    },
+    {
+      "subtitle_index": 1018,
+      "start_time": 7106.697,
+      "end_time": 7108.666,
+      "duration": 1.969000000000051,
+      "dialogue_text": "できる？"
+    },
+    {
+      "subtitle_index": 1019,
+      "start_time": 7108.666,
+      "end_time": 7110.666,
+      "duration": 2.0,
+      "dialogue_text": "うん！"
+    },
+    {
+      "subtitle_index": 1020,
+      "start_time": 7118.743,
+      "end_time": 7122.163,
+      "duration": 3.4199999999991633,
+      "dialogue_text": "地上に戻ったら この泡にキスしてください。"
+    },
+    {
+      "subtitle_index": 1021,
+      "start_time": 7122.163,
+      "end_time": 7127.163,
+      "duration": 5.0,
+      "dialogue_text": "ポニョは あなたと同じ ５歳の女の子になります。"
+    },
+    {
+      "subtitle_index": 1022,
+      "start_time": 7129.67,
+      "end_time": 7132.673,
+      "duration": 3.0029999999997017,
+      "dialogue_text": "ポニョ よかったね。"
+    },
+    {
+      "subtitle_index": 1023,
+      "start_time": 7132.673,
+      "end_time": 7135.673,
+      "duration": 3.0,
+      "dialogue_text": "ありがとう ポニョのお母さん。"
+    },
+    {
+      "subtitle_index": 1024,
+      "start_time": 7141.165,
+      "end_time": 7145.186,
+      "duration": 4.020999999999731,
+      "dialogue_text": "皆さん 世界のほころびは 閉じられました！"
+    },
+    {
+      "subtitle_index": 1025,
+      "start_time": 7145.186,
+      "end_time": 7147.672,
+      "duration": 2.4859999999998763,
+      "dialogue_text": "わ～！ やりぃ！"
+    },
+    {
+      "subtitle_index": 1026,
+      "start_time": 7147.672,
+      "end_time": 7150.157,
+      "duration": 2.485000000000582,
+      "dialogue_text": "宗ちゃん 立派よ～！"
+    },
+    {
+      "subtitle_index": 1027,
+      "start_time": 7150.157,
+      "end_time": 7154.157,
+      "duration": 4.0,
+      "dialogue_text": "宗介！ 宗介！"
+    },
+    {
+      "subtitle_index": 1028,
+      "start_time": 7155.68,
+      "end_time": 7158.68,
+      "duration": 3.0,
+      "dialogue_text": "宗介…。"
+    },
+    {
+      "subtitle_index": 1029,
+      "start_time": 7160.668,
+      "end_time": 7173.681,
+      "duration": 13.01299999999992,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 1030,
+      "start_time": 7173.681,
+      "end_time": 7175.7,
+      "duration": 2.019000000000233,
+      "dialogue_text": "♪♪～ あ…！"
+    },
+    {
+      "subtitle_index": 1031,
+      "start_time": 7175.7,
+      "end_time": 7181.656,
+      "duration": 5.956000000000131,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 1032,
+      "start_time": 7181.656,
+      "end_time": 7184.175,
+      "duration": 2.519000000000233,
+      "dialogue_text": "♪♪～ リサ ありがとう。"
+    },
+    {
+      "subtitle_index": 1033,
+      "start_time": 7184.175,
+      "end_time": 7187.178,
+      "duration": 3.0029999999997017,
+      "dialogue_text": "あなたも！ ♪♪～ グランマンマーレ！"
+    },
+    {
+      "subtitle_index": 1034,
+      "start_time": 7187.178,
+      "end_time": 7193.678,
+      "duration": 6.5,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 1035,
+      "start_time": 7198.222,
+      "end_time": 7201.722,
+      "duration": 3.5,
+      "dialogue_text": "（サイトウ） 皆さ～ん！ ご無事でしたか！"
+    },
+    {
+      "subtitle_index": 1036,
+      "start_time": 7206.163,
+      "end_time": 7208.683,
+      "duration": 2.5200000000004366,
+      "dialogue_text": "今 車イスをお持ちします！"
+    },
+    {
+      "subtitle_index": 1037,
+      "start_time": 7208.683,
+      "end_time": 7211.168,
+      "duration": 2.4849999999996726,
+      "dialogue_text": "いいのよ 私達 歩くから。"
+    },
+    {
+      "subtitle_index": 1038,
+      "start_time": 7211.168,
+      "end_time": 7213.168,
+      "duration": 2.0,
+      "dialogue_text": "にぎやかねぇ。"
+    },
+    {
+      "subtitle_index": 1039,
+      "start_time": 7216.19,
+      "end_time": 7218.676,
+      "duration": 2.486000000000786,
+      "dialogue_text": "これを… 君の船だ。"
+    },
+    {
+      "subtitle_index": 1040,
+      "start_time": 7218.676,
+      "end_time": 7222.213,
+      "duration": 3.5369999999993524,
+      "dialogue_text": "あっ！ ありがとう！"
+    },
+    {
+      "subtitle_index": 1041,
+      "start_time": 7222.213,
+      "end_time": 7224.248,
+      "duration": 2.0349999999998545,
+      "dialogue_text": "いろいろ すまなかった。"
+    },
+    {
+      "subtitle_index": 1042,
+      "start_time": 7224.248,
+      "end_time": 7227.248,
+      "duration": 3.0,
+      "dialogue_text": "あの… いいかな？"
+    },
+    {
+      "subtitle_index": 1043,
+      "start_time": 7231.672,
+      "end_time": 7234.172,
+      "duration": 2.5,
+      "dialogue_text": "ポニョをよろしく頼む。"
+    },
+    {
+      "subtitle_index": 1044,
+      "start_time": 7236.16,
+      "end_time": 7238.16,
+      "duration": 2.0,
+      "dialogue_text": "耕一の船だ！"
+    },
+    {
+      "subtitle_index": 1045,
+      "start_time": 7242.166,
+      "end_time": 7244.168,
+      "duration": 2.001999999999498,
+      "dialogue_text": "耕一！"
+    },
+    {
+      "subtitle_index": 1046,
+      "start_time": 7244.168,
+      "end_time": 7248.222,
+      "duration": 4.054000000000087,
+      "dialogue_text": "お～い！ お～い！"
+    },
+    {
+      "subtitle_index": 1047,
+      "start_time": 7248.222,
+      "end_time": 7251.675,
+      "duration": 3.4530000000004293,
+      "dialogue_text": "あっ リサだ！ 宗介もいる！"
+    },
+    {
+      "subtitle_index": 1048,
+      "start_time": 7251.675,
+      "end_time": 7253.677,
+      "duration": 2.001999999999498,
+      "dialogue_text": "お～い！"
+    },
+    {
+      "subtitle_index": 1049,
+      "start_time": 7253.677,
+      "end_time": 7257.164,
+      "duration": 3.48700000000008,
+      "dialogue_text": "ポニョ 耕一の船だよ。"
+    },
+    {
+      "subtitle_index": 1050,
+      "start_time": 7257.164,
+      "end_time": 7258.666,
+      "duration": 1.5020000000004075,
+      "dialogue_text": "あっ！"
+    },
+    {
+      "subtitle_index": 1051,
+      "start_time": 7258.666,
+      "end_time": 7270.666,
+      "duration": 12.0,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 1052,
+      "start_time": 7272.68,
+      "end_time": 7277.685,
+      "duration": 5.005000000000109,
+      "dialogue_text": "♪♪～ 『崖の上のポニョ』"
+    },
+    {
+      "subtitle_index": 1053,
+      "start_time": 7277.685,
+      "end_time": 7281.672,
+      "duration": 3.9869999999991705,
+      "dialogue_text": "♪♪～ ポーニョ ポーニョ ポニョ さかなの子"
+    },
+    {
+      "subtitle_index": 1054,
+      "start_time": 7281.672,
+      "end_time": 7285.659,
+      "duration": 3.98700000000008,
+      "dialogue_text": "♪♪～ 青い海からやってきた"
+    },
+    {
+      "subtitle_index": 1055,
+      "start_time": 7285.659,
+      "end_time": 7289.747,
+      "duration": 4.088000000000648,
+      "dialogue_text": "♪♪～ ポーニョ ポーニョ ポニョ ふくらんだ"
+    },
+    {
+      "subtitle_index": 1056,
+      "start_time": 7289.747,
+      "end_time": 7293.684,
+      "duration": 3.936999999999898,
+      "dialogue_text": "♪♪～ まんまるおなかの女の子"
+    },
+    {
+      "subtitle_index": 1057,
+      "start_time": 7293.684,
+      "end_time": 7301.692,
+      "duration": 8.00799999999981,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 1058,
+      "start_time": 7301.692,
+      "end_time": 7305.679,
+      "duration": 3.98700000000008,
+      "dialogue_text": "♪♪～ ペータペタ ピョーンピョン"
+    },
+    {
+      "subtitle_index": 1059,
+      "start_time": 7305.679,
+      "end_time": 7309.733,
+      "duration": 4.054000000000087,
+      "dialogue_text": "♪♪～ 足っていいな かけちゃお！"
+    },
+    {
+      "subtitle_index": 1060,
+      "start_time": 7309.733,
+      "end_time": 7313.17,
+      "duration": 3.436999999999898,
+      "dialogue_text": "♪♪～ ニーギニギ ブーンブン"
+    },
+    {
+      "subtitle_index": 1061,
+      "start_time": 7313.17,
+      "end_time": 7315.673,
+      "duration": 2.5029999999997017,
+      "dialogue_text": "♪♪～ おててはいいな"
+    },
+    {
+      "subtitle_index": 1062,
+      "start_time": 7315.673,
+      "end_time": 7318.192,
+      "duration": 2.519000000000233,
+      "dialogue_text": "♪♪～ つないじゃお！"
+    },
+    {
+      "subtitle_index": 1063,
+      "start_time": 7318.192,
+      "end_time": 7321.662,
+      "duration": 3.4700000000002547,
+      "dialogue_text": "♪♪～ あの子とはねると"
+    },
+    {
+      "subtitle_index": 1064,
+      "start_time": 7321.662,
+      "end_time": 7325.683,
+      "duration": 4.020999999999731,
+      "dialogue_text": "♪♪～ 心もおどるよ"
+    },
+    {
+      "subtitle_index": 1065,
+      "start_time": 7325.683,
+      "end_time": 7327.701,
+      "duration": 2.018000000000029,
+      "dialogue_text": "♪♪～ パークパクチュッギュッ！"
+    },
+    {
+      "subtitle_index": 1066,
+      "start_time": 7327.701,
+      "end_time": 7330.254,
+      "duration": 2.5529999999998836,
+      "dialogue_text": "♪♪～ パークパクチュッギュッ！"
+    },
+    {
+      "subtitle_index": 1067,
+      "start_time": 7330.254,
+      "end_time": 7335.676,
+      "duration": 5.42200000000048,
+      "dialogue_text": "♪♪～ あの子が大好き"
+    },
+    {
+      "subtitle_index": 1068,
+      "start_time": 7335.676,
+      "end_time": 7337.695,
+      "duration": 2.0189999999993233,
+      "dialogue_text": "♪♪～ まっかっかの"
+    },
+    {
+      "subtitle_index": 1069,
+      "start_time": 7337.695,
+      "end_time": 7341.682,
+      "duration": 3.98700000000008,
+      "dialogue_text": "♪♪～ ポーニョ ポーニョ ポニョ さかなの子"
+    },
+    {
+      "subtitle_index": 1070,
+      "start_time": 7341.682,
+      "end_time": 7345.669,
+      "duration": 3.98700000000008,
+      "dialogue_text": "♪♪～ 青い海からやってきた"
+    },
+    {
+      "subtitle_index": 1071,
+      "start_time": 7345.669,
+      "end_time": 7349.69,
+      "duration": 4.020999999999731,
+      "dialogue_text": "♪♪～ ポーニョ ポーニョ ポニョ ふくらんだ"
+    },
+    {
+      "subtitle_index": 1072,
+      "start_time": 7349.69,
+      "end_time": 7354.161,
+      "duration": 4.471000000000458,
+      "dialogue_text": "♪♪～ まんまるおなかの女の子"
+    },
+    {
+      "subtitle_index": 1073,
+      "start_time": 7354.161,
+      "end_time": 7365.161,
+      "duration": 11.0,
+      "dialogue_text": "♪♪～"
+    },
+    {
+      "subtitle_index": 1074,
+      "start_time": 7369.693,
+      "end_time": 7373.264,
+      "duration": 3.5709999999999127,
+      "dialogue_text": "『崖の上のポニョ』 最後の最後まで入り込んだな。"
+    },
+    {
+      "subtitle_index": 1075,
+      "start_time": 7373.264,
+      "end_time": 7375.764,
+      "duration": 2.5,
+      "dialogue_text": "今日の映画メモは…。"
+    },
+    {
+      "subtitle_index": 1076,
+      "start_time": 7377.685,
+      "end_time": 7379.186,
+      "duration": 1.5009999999992942,
+      "dialogue_text": "とりあえず僕は→"
+    },
+    {
+      "subtitle_index": 1077,
+      "start_time": 7379.186,
+      "end_time": 7381.686,
+      "duration": 2.5,
+      "dialogue_text": "夏休みの宿題を あきらめない。"
+    },
+    {
+      "subtitle_index": 1078,
+      "start_time": 7382.656,
+      "end_time": 7385.175,
+      "duration": 2.519000000000233,
+      "dialogue_text": "あっ！ あ～…。"
+    },
+    {
+      "subtitle_index": 1079,
+      "start_time": 7385.175,
+      "end_time": 7387.678,
+      "duration": 2.5029999999997017,
+      "dialogue_text": "＜次回の『金曜ロードＳＨＯＷ！』は 『ベスト・キッド』＞"
+    },
+    {
+      "subtitle_index": 1080,
+      "start_time": 7387.678,
+      "end_time": 7390.164,
+      "duration": 2.4859999999998763,
+      "dialogue_text": "＜あの伝説が中国でよみがえる＞"
+    },
+    {
+      "subtitle_index": 1081,
+      "start_time": 7390.164,
+      "end_time": 7392.199,
+      "duration": 2.0349999999998545,
+      "dialogue_text": "（ハン） 人に どうやって接するか。"
+    },
+    {
+      "subtitle_index": 1082,
+      "start_time": 7392.199,
+      "end_time": 7394.752,
+      "duration": 2.553000000000793,
+      "dialogue_text": "全てがカンフーだ。"
+    },
+    {
+      "subtitle_index": 1083,
+      "start_time": 7394.752,
+      "end_time": 7398.752,
+      "duration": 4.0,
+      "dialogue_text": "＜世界最高の師弟コンビ誕生を 見逃すな！＞"
+    }
+  ]
+}

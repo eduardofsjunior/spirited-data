@@ -1,0 +1,3785 @@
+{
+  "metadata": {
+    "film_name": "The Cat Returns V2",
+    "film_slug": "the_cat_returns_nl_v2",
+    "language_code": "nl",
+    "total_subtitles": 539,
+    "total_duration": 3574.066,
+    "parse_timestamp": "2025-11-18T12:08:11.881134"
+  },
+  "subtitles": [
+    {
+      "subtitle_index": 1,
+      "start_time": 81.509,
+      "end_time": 84.52,
+      "duration": 3.0109999999999957,
+      "dialogue_text": "Je kunt niet passeren! - Gandalf!"
+    },
+    {
+      "subtitle_index": 2,
+      "start_time": 89.538,
+      "end_time": 94.756,
+      "duration": 5.2180000000000035,
+      "dialogue_text": "Ik ben de dienaar van het geheime vuur, houder van de vlam van Anor."
+    },
+    {
+      "subtitle_index": 3,
+      "start_time": 102.864,
+      "end_time": 105.072,
+      "duration": 2.2079999999999984,
+      "dialogue_text": "Ga terug naar de schaduwwereld!"
+    },
+    {
+      "subtitle_index": 4,
+      "start_time": 106.798,
+      "end_time": 110.812,
+      "duration": 4.013999999999996,
+      "dialogue_text": "Het duistere vuur zal je niet helpen! Vlam van Udun!"
+    },
+    {
+      "subtitle_index": 5,
+      "start_time": 114.304,
+      "end_time": 118.318,
+      "duration": 4.013999999999996,
+      "dialogue_text": "Gij zult niet passeren!"
+    },
+    {
+      "subtitle_index": 6,
+      "start_time": 145.934,
+      "end_time": 147.731,
+      "duration": 1.796999999999997,
+      "dialogue_text": "Nee! Nee!"
+    },
+    {
+      "subtitle_index": 7,
+      "start_time": 148.012,
+      "end_time": 149.737,
+      "duration": 1.7249999999999943,
+      "dialogue_text": "Gandalf!"
+    },
+    {
+      "subtitle_index": 8,
+      "start_time": 157.454,
+      "end_time": 159.05,
+      "duration": 1.5960000000000036,
+      "dialogue_text": "Vlucht, dwazen!"
+    },
+    {
+      "subtitle_index": 9,
+      "start_time": 159.773,
+      "end_time": 161.779,
+      "duration": 2.0060000000000002,
+      "dialogue_text": "Nee!"
+    },
+    {
+      "subtitle_index": 10,
+      "start_time": 234.523,
+      "end_time": 235.848,
+      "duration": 1.325000000000017,
+      "dialogue_text": "Gandalf!"
+    },
+    {
+      "subtitle_index": 11,
+      "start_time": 237.333,
+      "end_time": 239.14,
+      "duration": 1.806999999999988,
+      "dialogue_text": "Wat is er meneer Frodo?"
+    },
+    {
+      "subtitle_index": 12,
+      "start_time": 241.347,
+      "end_time": 242.671,
+      "duration": 1.3239999999999839,
+      "dialogue_text": "Niets."
+    },
+    {
+      "subtitle_index": 13,
+      "start_time": 250.7,
+      "end_time": 252.305,
+      "duration": 1.6050000000000182,
+      "dialogue_text": "Gewoon een droom."
+    },
+    {
+      "subtitle_index": 14,
+      "start_time": 268.642,
+      "end_time": 272.977,
+      "duration": 4.3349999999999795,
+      "dialogue_text": "Mordor. Net de plaats in Midden Aarde die we niet dichterbij willen zien."
+    },
+    {
+      "subtitle_index": 15,
+      "start_time": 273.66,
+      "end_time": 275.586,
+      "duration": 1.9259999999999877,
+      "dialogue_text": "Maar het is de plaats waar we proberen te komen."
+    },
+    {
+      "subtitle_index": 16,
+      "start_time": 276.188,
+      "end_time": 278.196,
+      "duration": 2.008000000000038,
+      "dialogue_text": "Net waar we niet kunnen komen."
+    },
+    {
+      "subtitle_index": 17,
+      "start_time": 279.39,
+      "end_time": 282.4,
+      "duration": 3.009999999999991,
+      "dialogue_text": "Zie het onder ogen meneer Frodo. We zijn verdwaald."
+    },
+    {
+      "subtitle_index": 18,
+      "start_time": 284.819,
+      "end_time": 287.297,
+      "duration": 2.4780000000000086,
+      "dialogue_text": "Ik denk niet dat het Gandalfs bedoeling was deze kant op te gaan."
+    },
+    {
+      "subtitle_index": 19,
+      "start_time": 289.114,
+      "end_time": 291.843,
+      "duration": 2.729000000000042,
+      "dialogue_text": "Er waren wel meer dingen niet zijn bedoeling, Sam..."
+    },
+    {
+      "subtitle_index": 20,
+      "start_time": 293.248,
+      "end_time": 294.934,
+      "duration": 1.6860000000000355,
+      "dialogue_text": "...maar ze gebeurden wel."
+    },
+    {
+      "subtitle_index": 21,
+      "start_time": 307.98,
+      "end_time": 309.585,
+      "duration": 1.6049999999999613,
+      "dialogue_text": "Meneer Frodo?"
+    },
+    {
+      "subtitle_index": 22,
+      "start_time": 312.997,
+      "end_time": 314.723,
+      "duration": 1.725999999999999,
+      "dialogue_text": "Het is de Ring, nietwaar?"
+    },
+    {
+      "subtitle_index": 23,
+      "start_time": 315.395,
+      "end_time": 317.131,
+      "duration": 1.73599999999999,
+      "dialogue_text": "Hij wordt zwaarder."
+    },
+    {
+      "subtitle_index": 24,
+      "start_time": 330.447,
+      "end_time": 333.388,
+      "duration": 2.940999999999974,
+      "dialogue_text": "Wat voor eten hebben we nog? - Eens even kijken."
+    },
+    {
+      "subtitle_index": 25,
+      "start_time": 334.07,
+      "end_time": 335.676,
+      "duration": 1.6059999999999945,
+      "dialogue_text": "Oh ja, heerlijk"
+    },
+    {
+      "subtitle_index": 26,
+      "start_time": 336.399,
+      "end_time": 337.683,
+      "duration": 1.2839999999999918,
+      "dialogue_text": "Lembas brood!"
+    },
+    {
+      "subtitle_index": 27,
+      "start_time": 337.883,
+      "end_time": 339.088,
+      "duration": 1.205000000000041,
+      "dialogue_text": "En kijk!"
+    },
+    {
+      "subtitle_index": 28,
+      "start_time": 341.606,
+      "end_time": 343.825,
+      "duration": 2.218999999999994,
+      "dialogue_text": "Nog meer lembas brood."
+    },
+    {
+      "subtitle_index": 29,
+      "start_time": 354.462,
+      "end_time": 356.549,
+      "duration": 2.086999999999989,
+      "dialogue_text": "Ik hou normaal niet zo van vreemd eten,"
+    },
+    {
+      "subtitle_index": 30,
+      "start_time": 356.749,
+      "end_time": 359.278,
+      "duration": 2.5289999999999964,
+      "dialogue_text": "maar dit elvenspul is niet slecht."
+    },
+    {
+      "subtitle_index": 31,
+      "start_time": 360.482,
+      "end_time": 363.172,
+      "duration": 2.6899999999999977,
+      "dialogue_text": "Er is ook niets wat jouw humeur kan verpesten, of wel Sam?"
+    },
+    {
+      "subtitle_index": 32,
+      "start_time": 369.916,
+      "end_time": 371.922,
+      "duration": 2.0060000000000286,
+      "dialogue_text": "Die regenwolken misschien wel."
+    },
+    {
+      "subtitle_index": 33,
+      "start_time": 385.37,
+      "end_time": 387.777,
+      "duration": 2.4069999999999823,
+      "dialogue_text": "Dit komt me bekend voor."
+    },
+    {
+      "subtitle_index": 34,
+      "start_time": 388.862,
+      "end_time": 390.788,
+      "duration": 1.9259999999999877,
+      "dialogue_text": "Dat is omdat we hier al geweest zijn!"
+    },
+    {
+      "subtitle_index": 35,
+      "start_time": 391.791,
+      "end_time": 393.598,
+      "duration": 1.8070000000000164,
+      "dialogue_text": "We lopen in rondjes!"
+    },
+    {
+      "subtitle_index": 36,
+      "start_time": 395.284,
+      "end_time": 397.01,
+      "duration": 1.725999999999999,
+      "dialogue_text": "Wat is dat voor vreselijke stank?"
+    },
+    {
+      "subtitle_index": 37,
+      "start_time": 397.09,
+      "end_time": 399.217,
+      "duration": 2.1270000000000095,
+      "dialogue_text": "Er is zeker een smerig moeras in de buurt."
+    },
+    {
+      "subtitle_index": 38,
+      "start_time": 399.298,
+      "end_time": 401.425,
+      "duration": 2.1270000000000095,
+      "dialogue_text": "Ruik je het?"
+    },
+    {
+      "subtitle_index": 39,
+      "start_time": 403.231,
+      "end_time": 404.637,
+      "duration": 1.406000000000006,
+      "dialogue_text": "Ja ik ruik het."
+    },
+    {
+      "subtitle_index": 40,
+      "start_time": 408.731,
+      "end_time": 410.657,
+      "duration": 1.9259999999999877,
+      "dialogue_text": "We zijn niet alleen."
+    },
+    {
+      "subtitle_index": 41,
+      "start_time": 424.907,
+      "end_time": 429.202,
+      "duration": 4.295000000000016,
+      "dialogue_text": "De dieven!"
+    },
+    {
+      "subtitle_index": 42,
+      "start_time": 429.322,
+      "end_time": 432.935,
+      "duration": 3.6129999999999995,
+      "dialogue_text": "De smerige kleine dieven!"
+    },
+    {
+      "subtitle_index": 43,
+      "start_time": 433.818,
+      "end_time": 435.825,
+      "duration": 2.007000000000005,
+      "dialogue_text": "Waar is hij?"
+    },
+    {
+      "subtitle_index": 44,
+      "start_time": 436.227,
+      "end_time": 438.635,
+      "duration": 2.4080000000000155,
+      "dialogue_text": "Waar is hij?"
+    },
+    {
+      "subtitle_index": 45,
+      "start_time": 439.558,
+      "end_time": 442.77,
+      "duration": 3.211999999999989,
+      "dialogue_text": "Ze hebben hem gestolen."
+    },
+    {
+      "subtitle_index": 46,
+      "start_time": 443.051,
+      "end_time": 446.784,
+      "duration": 3.733000000000004,
+      "dialogue_text": "Mijn Lieveling."
+    },
+    {
+      "subtitle_index": 47,
+      "start_time": 448.188,
+      "end_time": 451.4,
+      "duration": 3.211999999999989,
+      "dialogue_text": "We haten ze! We haten ze!"
+    },
+    {
+      "subtitle_index": 48,
+      "start_time": 451.6,
+      "end_time": 455.213,
+      "duration": 3.6129999999999995,
+      "dialogue_text": "We willen hem!"
+    },
+    {
+      "subtitle_index": 49,
+      "start_time": 510.807,
+      "end_time": 512.493,
+      "duration": 1.6860000000000355,
+      "dialogue_text": "Dit is Prik."
+    },
+    {
+      "subtitle_index": 50,
+      "start_time": 512.693,
+      "end_time": 514.499,
+      "duration": 1.80600000000004,
+      "dialogue_text": "Je hebt hem al eerder gezien!"
+    },
+    {
+      "subtitle_index": 51,
+      "start_time": 514.621,
+      "end_time": 517.229,
+      "duration": 2.608000000000061,
+      "dialogue_text": "Is het niet, Gollem!"
+    },
+    {
+      "subtitle_index": 52,
+      "start_time": 521.042,
+      "end_time": 524.454,
+      "duration": 3.411999999999921,
+      "dialogue_text": "Laat hem los of ik snij je keel door!"
+    },
+    {
+      "subtitle_index": 53,
+      "start_time": 540.58,
+      "end_time": 542.397,
+      "duration": 1.8170000000000073,
+      "dialogue_text": "Het brandt!"
+    },
+    {
+      "subtitle_index": 54,
+      "start_time": 542.518,
+      "end_time": 544.323,
+      "duration": 1.80499999999995,
+      "dialogue_text": "Het brandt ons!"
+    },
+    {
+      "subtitle_index": 55,
+      "start_time": 546.411,
+      "end_time": 548.217,
+      "duration": 1.80600000000004,
+      "dialogue_text": "Haal het eraf!"
+    },
+    {
+      "subtitle_index": 56,
+      "start_time": 552.151,
+      "end_time": 555.041,
+      "duration": 2.8900000000001,
+      "dialogue_text": "Stil jij!"
+    },
+    {
+      "subtitle_index": 57,
+      "start_time": 558.172,
+      "end_time": 561.584,
+      "duration": 3.411999999999921,
+      "dialogue_text": "Het is hopeloos! Iedere Ork in Mordor zal dit gekrijs horen!"
+    },
+    {
+      "subtitle_index": 58,
+      "start_time": 562.387,
+      "end_time": 565.277,
+      "duration": 2.8900000000001,
+      "dialogue_text": "Laten we hem vastbinden en hier achterlaten! - Nee!"
+    },
+    {
+      "subtitle_index": 59,
+      "start_time": 565.478,
+      "end_time": 568.408,
+      "duration": 2.9300000000000637,
+      "dialogue_text": "Dat zal ons doden. Doden!"
+    },
+    {
+      "subtitle_index": 60,
+      "start_time": 569.291,
+      "end_time": 571.097,
+      "duration": 1.8059999999999263,
+      "dialogue_text": "Dat verdien je gewoon!"
+    },
+    {
+      "subtitle_index": 61,
+      "start_time": 573.425,
+      "end_time": 575.311,
+      "duration": 1.886000000000081,
+      "dialogue_text": "Misschien verdient hij wel te sterven."
+    },
+    {
+      "subtitle_index": 62,
+      "start_time": 577.921,
+      "end_time": 581.453,
+      "duration": 3.5319999999999254,
+      "dialogue_text": "Nu ik hem zie, heb ik medelijden met hem."
+    },
+    {
+      "subtitle_index": 63,
+      "start_time": 584.946,
+      "end_time": 589.281,
+      "duration": 4.334999999999923,
+      "dialogue_text": "We zullen heel aardig zijn tegen de hobbits, als jullie aardig voor ons zijn."
+    },
+    {
+      "subtitle_index": 64,
+      "start_time": 595.984,
+      "end_time": 601.122,
+      "duration": 5.13799999999992,
+      "dialogue_text": "We zweren dat we doen wat jullie willen. We zweren het!"
+    },
+    {
+      "subtitle_index": 65,
+      "start_time": 602.406,
+      "end_time": 604.805,
+      "duration": 2.399000000000001,
+      "dialogue_text": "Er is geen enkele belofte van jou die ik vertrouw."
+    },
+    {
+      "subtitle_index": 66,
+      "start_time": 607.424,
+      "end_time": 609.15,
+      "duration": 1.725999999999999,
+      "dialogue_text": "We zweren ..."
+    },
+    {
+      "subtitle_index": 67,
+      "start_time": 609.431,
+      "end_time": 611.438,
+      "duration": 2.006999999999948,
+      "dialogue_text": "...om de Meester te dienen..."
+    },
+    {
+      "subtitle_index": 68,
+      "start_time": 611.558,
+      "end_time": 613.766,
+      "duration": 2.20799999999997,
+      "dialogue_text": "...van de Lieveling."
+    },
+    {
+      "subtitle_index": 69,
+      "start_time": 615.572,
+      "end_time": 617.659,
+      "duration": 2.086999999999989,
+      "dialogue_text": "We zweren het..."
+    },
+    {
+      "subtitle_index": 70,
+      "start_time": 618.061,
+      "end_time": 620.188,
+      "duration": 2.1269999999999527,
+      "dialogue_text": "...op de Lieveling."
+    },
+    {
+      "subtitle_index": 71,
+      "start_time": 620.269,
+      "end_time": 622.075,
+      "duration": 1.80600000000004,
+      "dialogue_text": "Gollem, Gollem."
+    },
+    {
+      "subtitle_index": 72,
+      "start_time": 622.677,
+      "end_time": 626.882,
+      "duration": 4.204999999999927,
+      "dialogue_text": "De Ring is verradelijk. Hij houdt je aan je woorden."
+    },
+    {
+      "subtitle_index": 73,
+      "start_time": 627.885,
+      "end_time": 629.219,
+      "duration": 1.33400000000006,
+      "dialogue_text": "Ja..."
+    },
+    {
+      "subtitle_index": 74,
+      "start_time": 629.702,
+      "end_time": 632.23,
+      "duration": 2.52800000000002,
+      "dialogue_text": "...op de Lieveling."
+    },
+    {
+      "subtitle_index": 75,
+      "start_time": 634.639,
+      "end_time": 636.916,
+      "duration": 2.2770000000000437,
+      "dialogue_text": "Op de Lieveling."
+    },
+    {
+      "subtitle_index": 76,
+      "start_time": 638.041,
+      "end_time": 639.536,
+      "duration": 1.4949999999998909,
+      "dialogue_text": "Ik geloof jou niet!"
+    },
+    {
+      "subtitle_index": 77,
+      "start_time": 641.543,
+      "end_time": 642.867,
+      "duration": 1.3239999999999554,
+      "dialogue_text": "Op de grond!"
+    },
+    {
+      "subtitle_index": 78,
+      "start_time": 642.938,
+      "end_time": 644.945,
+      "duration": 2.007000000000062,
+      "dialogue_text": "Op de grond! - Sam!"
+    },
+    {
+      "subtitle_index": 79,
+      "start_time": 645.356,
+      "end_time": 646.952,
+      "duration": 1.5960000000000036,
+      "dialogue_text": "Hij probeert ons te bedriegen!"
+    },
+    {
+      "subtitle_index": 80,
+      "start_time": 647.363,
+      "end_time": 649.691,
+      "duration": 2.3279999999999745,
+      "dialogue_text": "Als we hem laten gaan, wurgt hij ons in onze slaap!"
+    },
+    {
+      "subtitle_index": 81,
+      "start_time": 661.733,
+      "end_time": 665.226,
+      "duration": 3.493000000000052,
+      "dialogue_text": "Ken je de weg naar Mordor? - Ja."
+    },
+    {
+      "subtitle_index": 82,
+      "start_time": 669.36,
+      "end_time": 671.366,
+      "duration": 2.005999999999972,
+      "dialogue_text": "Ben je daar eerder geweest?"
+    },
+    {
+      "subtitle_index": 83,
+      "start_time": 672.04,
+      "end_time": 673.454,
+      "duration": 1.4139999999999873,
+      "dialogue_text": "Ja."
+    },
+    {
+      "subtitle_index": 84,
+      "start_time": 684.412,
+      "end_time": 686.62,
+      "duration": 2.20799999999997,
+      "dialogue_text": "Leidt ons naar de Zwarte Poort."
+    },
+    {
+      "subtitle_index": 85,
+      "start_time": 707.975,
+      "end_time": 709.299,
+      "duration": 1.3239999999999554,
+      "dialogue_text": "Merijn!"
+    },
+    {
+      "subtitle_index": 86,
+      "start_time": 710.383,
+      "end_time": 711.587,
+      "duration": 1.2039999999999509,
+      "dialogue_text": "Merijn!"
+    },
+    {
+      "subtitle_index": 87,
+      "start_time": 714.397,
+      "end_time": 716.323,
+      "duration": 1.9259999999999309,
+      "dialogue_text": "Wat is er? Wat ruik je?"
+    },
+    {
+      "subtitle_index": 88,
+      "start_time": 718.01,
+      "end_time": 719.735,
+      "duration": 1.7250000000000227,
+      "dialogue_text": "Mensenvlees."
+    },
+    {
+      "subtitle_index": 89,
+      "start_time": 720.016,
+      "end_time": 721.422,
+      "duration": 1.4060000000000628,
+      "dialogue_text": "Aragorn."
+    },
+    {
+      "subtitle_index": 90,
+      "start_time": 722.345,
+      "end_time": 724.231,
+      "duration": 1.8859999999999673,
+      "dialogue_text": "Ze hebben onze sporen gevonden."
+    },
+    {
+      "subtitle_index": 91,
+      "start_time": 724.753,
+      "end_time": 726.238,
+      "duration": 1.4850000000000136,
+      "dialogue_text": "Kom we gaan!"
+    },
+    {
+      "subtitle_index": 92,
+      "start_time": 748.316,
+      "end_time": 750.322,
+      "duration": 2.005999999999972,
+      "dialogue_text": "Ze gaan sneller."
+    },
+    {
+      "subtitle_index": 93,
+      "start_time": 752.049,
+      "end_time": 754.055,
+      "duration": 2.005999999999972,
+      "dialogue_text": "Ze hebben ons zeker opgemerkt."
+    },
+    {
+      "subtitle_index": 94,
+      "start_time": 754.256,
+      "end_time": 755.862,
+      "duration": 1.6059999999999945,
+      "dialogue_text": "Vlug!"
+    },
+    {
+      "subtitle_index": 95,
+      "start_time": 759.554,
+      "end_time": 761.281,
+      "duration": 1.7269999999999754,
+      "dialogue_text": "Kom nu Gimli!"
+    },
+    {
+      "subtitle_index": 96,
+      "start_time": 765.375,
+      "end_time": 767.503,
+      "duration": 2.1280000000000427,
+      "dialogue_text": "Een achtervolging van drie dagen en nachten."
+    },
+    {
+      "subtitle_index": 97,
+      "start_time": 767.703,
+      "end_time": 770.111,
+      "duration": 2.4080000000000155,
+      "dialogue_text": "Geen eten.... Geen rust"
+    },
+    {
+      "subtitle_index": 98,
+      "start_time": 770.914,
+      "end_time": 774.807,
+      "duration": 3.893000000000029,
+      "dialogue_text": "en geen ander teken dan wat de kale rotsen ons vertellen."
+    },
+    {
+      "subtitle_index": 99,
+      "start_time": 806.318,
+      "end_time": 809.127,
+      "duration": 2.808999999999969,
+      "dialogue_text": "Niet tevergeefs vallen de bladeren van Lorien."
+    },
+    {
+      "subtitle_index": 100,
+      "start_time": 810.853,
+      "end_time": 813.141,
+      "duration": 2.288000000000011,
+      "dialogue_text": "Ze kunnen nog in leven zijn."
+    },
+    {
+      "subtitle_index": 101,
+      "start_time": 814.145,
+      "end_time": 816.553,
+      "duration": 2.4080000000000155,
+      "dialogue_text": "Minder dan een dag te gaan, kom!"
+    },
+    {
+      "subtitle_index": 102,
+      "start_time": 819.363,
+      "end_time": 821.772,
+      "duration": 2.408999999999992,
+      "dialogue_text": "Kom Gimli! We halen ze in."
+    },
+    {
+      "subtitle_index": 103,
+      "start_time": 821.972,
+      "end_time": 826.388,
+      "duration": 4.416000000000054,
+      "dialogue_text": "Lange afstanden is niks voor mij. Wij Dwergen zijn van nature sprinters."
+    },
+    {
+      "subtitle_index": 104,
+      "start_time": 826.99,
+      "end_time": 829.398,
+      "duration": 2.4080000000000155,
+      "dialogue_text": "Erg gevaarlijk over de korte afstand."
+    },
+    {
+      "subtitle_index": 105,
+      "start_time": 841.841,
+      "end_time": 846.056,
+      "duration": 4.215000000000032,
+      "dialogue_text": "Rohan, land van de paardenheren."
+    },
+    {
+      "subtitle_index": 106,
+      "start_time": 847.661,
+      "end_time": 850.19,
+      "duration": 2.52900000000011,
+      "dialogue_text": "Er is hier iets vreemds aan de hand."
+    },
+    {
+      "subtitle_index": 107,
+      "start_time": 850.592,
+      "end_time": 853.482,
+      "duration": 2.8899999999999864,
+      "dialogue_text": "Iets slechts geeft snelheid aan deze monsters."
+    },
+    {
+      "subtitle_index": 108,
+      "start_time": 853.683,
+      "end_time": 855.891,
+      "duration": 2.20799999999997,
+      "dialogue_text": "Zet het tegen ons op."
+    },
+    {
+      "subtitle_index": 109,
+      "start_time": 861.831,
+      "end_time": 864.842,
+      "duration": 3.0109999999999673,
+      "dialogue_text": "Legolas! Wat zien jouw elvenogen?"
+    },
+    {
+      "subtitle_index": 110,
+      "start_time": 864.922,
+      "end_time": 866.929,
+      "duration": 2.006999999999948,
+      "dialogue_text": "De Orks gaan richting het noord-oosten."
+    },
+    {
+      "subtitle_index": 111,
+      "start_time": 868.334,
+      "end_time": 870.743,
+      "duration": 2.4090000000001055,
+      "dialogue_text": "Ze nemen de hobbits naar Isengard!"
+    },
+    {
+      "subtitle_index": 112,
+      "start_time": 871.465,
+      "end_time": 873.07,
+      "duration": 1.6050000000000182,
+      "dialogue_text": "Saruman."
+    },
+    {
+      "subtitle_index": 113,
+      "start_time": 880.978,
+      "end_time": 883.587,
+      "duration": 2.6090000000000373,
+      "dialogue_text": "De wereld verandert."
+    },
+    {
+      "subtitle_index": 114,
+      "start_time": 884.39,
+      "end_time": 889.407,
+      "duration": 5.017000000000053,
+      "dialogue_text": "Wie heeft nu de kracht om op te staan tegen het leger van Isengard"
+    },
+    {
+      "subtitle_index": 115,
+      "start_time": 890.612,
+      "end_time": 892.538,
+      "duration": 1.9260000000000446,
+      "dialogue_text": "...en Mordor?"
+    },
+    {
+      "subtitle_index": 116,
+      "start_time": 895.228,
+      "end_time": 900.446,
+      "duration": 5.218000000000075,
+      "dialogue_text": "Om op te staan tegen de krachten van Sauron en Saruman..."
+    },
+    {
+      "subtitle_index": 117,
+      "start_time": 901.047,
+      "end_time": 904.58,
+      "duration": 3.5330000000000155,
+      "dialogue_text": "...en de unie van de twee torens?"
+    },
+    {
+      "subtitle_index": 118,
+      "start_time": 911.003,
+      "end_time": 914.013,
+      "duration": 3.009999999999991,
+      "dialogue_text": "Samen, Heer Sauron..."
+    },
+    {
+      "subtitle_index": 119,
+      "start_time": 914.294,
+      "end_time": 917.626,
+      "duration": 3.3319999999999936,
+      "dialogue_text": "...zullen we heersen over Midden-aarde."
+    },
+    {
+      "subtitle_index": 120,
+      "start_time": 933.762,
+      "end_time": 938.579,
+      "duration": 4.817000000000007,
+      "dialogue_text": "De oude wereld zal verbranden in het vuur van de industrie."
+    },
+    {
+      "subtitle_index": 121,
+      "start_time": 938.9,
+      "end_time": 941.79,
+      "duration": 2.8899999999999864,
+      "dialogue_text": "Bossen zullen omgehakt worden."
+    },
+    {
+      "subtitle_index": 122,
+      "start_time": 943.998,
+      "end_time": 947.008,
+      "duration": 3.009999999999991,
+      "dialogue_text": "Een nieuwe orde zal opstaan."
+    },
+    {
+      "subtitle_index": 123,
+      "start_time": 948.012,
+      "end_time": 951.825,
+      "duration": 3.813000000000102,
+      "dialogue_text": "We zullen de oorlog bedrijven met het zwaard..."
+    },
+    {
+      "subtitle_index": 124,
+      "start_time": 951.946,
+      "end_time": 956.04,
+      "duration": 4.093999999999937,
+      "dialogue_text": "...de speer met de strenge hand van de Orks."
+    },
+    {
+      "subtitle_index": 125,
+      "start_time": 966.195,
+      "end_time": 970.289,
+      "duration": 4.093999999999937,
+      "dialogue_text": "We moeten nu alleen nog de mensen uit te roeien die tegen ons zijn."
+    },
+    {
+      "subtitle_index": 126,
+      "start_time": 972.417,
+      "end_time": 974.826,
+      "duration": 2.408999999999992,
+      "dialogue_text": "De paardenheren hebben jullie land overgenomen."
+    },
+    {
+      "subtitle_index": 127,
+      "start_time": 974.906,
+      "end_time": 979.12,
+      "duration": 4.2140000000000555,
+      "dialogue_text": "Ze hebben jullie de heuvels in verdreven om hier het eten van de rotsen te schrapen."
+    },
+    {
+      "subtitle_index": 128,
+      "start_time": 979.241,
+      "end_time": 980.846,
+      "duration": 1.6050000000000182,
+      "dialogue_text": "Moordenaars!"
+    },
+    {
+      "subtitle_index": 129,
+      "start_time": 981.85,
+      "end_time": 984.057,
+      "duration": 2.2069999999999936,
+      "dialogue_text": "Neem het land terug dat ze van jullie hebben gestolen."
+    },
+    {
+      "subtitle_index": 130,
+      "start_time": 984.138,
+      "end_time": 986.065,
+      "duration": 1.927000000000021,
+      "dialogue_text": "Verbrand elk dorp!"
+    },
+    {
+      "subtitle_index": 131,
+      "start_time": 992.687,
+      "end_time": 995.497,
+      "duration": 2.8099999999999454,
+      "dialogue_text": "Het zal beginnen in Rohan."
+    },
+    {
+      "subtitle_index": 132,
+      "start_time": 996.3,
+      "end_time": 999.912,
+      "duration": 3.61200000000008,
+      "dialogue_text": "Die boeren hebben jullie te lang onderdrukt."
+    },
+    {
+      "subtitle_index": 133,
+      "start_time": 999.993,
+      "end_time": 1001.92,
+      "duration": 1.9269999999999072,
+      "dialogue_text": "Maar niet voor lang meer."
+    },
+    {
+      "subtitle_index": 134,
+      "start_time": 1002.0,
+      "end_time": 1004.007,
+      "duration": 2.006999999999948,
+      "dialogue_text": "Éothain! Éothain!"
+    },
+    {
+      "subtitle_index": 135,
+      "start_time": 1006.415,
+      "end_time": 1009.346,
+      "duration": 2.93100000000004,
+      "dialogue_text": "Neem je zusje mee. Met z'n tweeën ga je sneller."
+    },
+    {
+      "subtitle_index": 136,
+      "start_time": 1009.426,
+      "end_time": 1012.035,
+      "duration": 2.6089999999999236,
+      "dialogue_text": "Maar vader heeft gezegd dat Éothain niet mag rijden."
+    },
+    {
+      "subtitle_index": 137,
+      "start_time": 1012.155,
+      "end_time": 1013.962,
+      "duration": 1.8070000000000164,
+      "dialogue_text": "Hij is te groot voor hem!"
+    },
+    {
+      "subtitle_index": 138,
+      "start_time": 1014.042,
+      "end_time": 1017.173,
+      "duration": 3.130999999999972,
+      "dialogue_text": "Luister! Rijdt naar Edoras en sla alarm."
+    },
+    {
+      "subtitle_index": 139,
+      "start_time": 1017.253,
+      "end_time": 1019.581,
+      "duration": 2.3279999999999745,
+      "dialogue_text": "Begrijpen jullie me? - Ja mama!"
+    },
+    {
+      "subtitle_index": 140,
+      "start_time": 1019.862,
+      "end_time": 1022.993,
+      "duration": 3.1310000000000855,
+      "dialogue_text": "Ik wil niet! Ik wil niet gaan, mama!"
+    },
+    {
+      "subtitle_index": 141,
+      "start_time": 1023.073,
+      "end_time": 1026.405,
+      "duration": 3.3319999999999936,
+      "dialogue_text": "Freda, luister is naar me. Ik zal jullie daar weer zien."
+    },
+    {
+      "subtitle_index": 142,
+      "start_time": 1031.502,
+      "end_time": 1033.028,
+      "duration": 1.5260000000000673,
+      "dialogue_text": "Snel!"
+    },
+    {
+      "subtitle_index": 143,
+      "start_time": 1039.933,
+      "end_time": 1041.658,
+      "duration": 1.724999999999909,
+      "dialogue_text": "Rijden, kind!"
+    },
+    {
+      "subtitle_index": 144,
+      "start_time": 1052.095,
+      "end_time": 1054.101,
+      "duration": 2.0060000000000855,
+      "dialogue_text": "Rohan, mijn Heer..."
+    },
+    {
+      "subtitle_index": 145,
+      "start_time": 1054.584,
+      "end_time": 1056.791,
+      "duration": 2.20699999999988,
+      "dialogue_text": "...staat op het punt te vallen."
+    },
+    {
+      "subtitle_index": 146,
+      "start_time": 1081.879,
+      "end_time": 1083.203,
+      "duration": 1.3240000000000691,
+      "dialogue_text": "Théodred!"
+    },
+    {
+      "subtitle_index": 147,
+      "start_time": 1097.443,
+      "end_time": 1100.665,
+      "duration": 3.22199999999998,
+      "dialogue_text": "Uw zoon is zwaargewond, mijn heer."
+    },
+    {
+      "subtitle_index": 148,
+      "start_time": 1100.865,
+      "end_time": 1103.072,
+      "duration": 2.20699999999988,
+      "dialogue_text": "Hij was in een hinderlaag van Orks gelopen."
+    },
+    {
+      "subtitle_index": 149,
+      "start_time": 1104.879,
+      "end_time": 1108.773,
+      "duration": 3.8940000000000055,
+      "dialogue_text": "Als we ons land niet verdedigen, neemt Saruman het met brute kracht in."
+    },
+    {
+      "subtitle_index": 150,
+      "start_time": 1108.893,
+      "end_time": 1110.779,
+      "duration": 1.8859999999999673,
+      "dialogue_text": "Dat is een leugen!"
+    },
+    {
+      "subtitle_index": 151,
+      "start_time": 1111.1,
+      "end_time": 1116.72,
+      "duration": 5.620000000000118,
+      "dialogue_text": "Sarumen de Witte is altijd onze vriend en bondgenoot geweest."
+    },
+    {
+      "subtitle_index": 152,
+      "start_time": 1118.205,
+      "end_time": 1119.811,
+      "duration": 1.6059999999999945,
+      "dialogue_text": "Grimá."
+    },
+    {
+      "subtitle_index": 153,
+      "start_time": 1121.738,
+      "end_time": 1123.142,
+      "duration": 1.4039999999999964,
+      "dialogue_text": "Grimá."
+    },
+    {
+      "subtitle_index": 154,
+      "start_time": 1126.032,
+      "end_time": 1127.548,
+      "duration": 1.5160000000000764,
+      "dialogue_text": "Grimá."
+    },
+    {
+      "subtitle_index": 155,
+      "start_time": 1128.361,
+      "end_time": 1131.05,
+      "duration": 2.688999999999851,
+      "dialogue_text": "Orks zwerven vrijuit door onze landen."
+    },
+    {
+      "subtitle_index": 156,
+      "start_time": 1131.974,
+      "end_time": 1135.185,
+      "duration": 3.2110000000000127,
+      "dialogue_text": "Ongehinderd, onbetwist, moordend na overdenking."
+    },
+    {
+      "subtitle_index": 157,
+      "start_time": 1136.268,
+      "end_time": 1138.676,
+      "duration": 2.4079999999999018,
+      "dialogue_text": "De Orks dragen de Witte Hand van Saruman."
+    },
+    {
+      "subtitle_index": 158,
+      "start_time": 1147.026,
+      "end_time": 1152.324,
+      "duration": 5.298000000000002,
+      "dialogue_text": "Waarom leg je deze problemen voor op een al zeer verontruste geest?"
+    },
+    {
+      "subtitle_index": 159,
+      "start_time": 1152.926,
+      "end_time": 1154.934,
+      "duration": 2.008000000000038,
+      "dialogue_text": "Kun je het niet zien?"
+    },
+    {
+      "subtitle_index": 160,
+      "start_time": 1155.536,
+      "end_time": 1160.272,
+      "duration": 4.735999999999876,
+      "dialogue_text": "Je oom is jouw ontevredenheid meer dan zat."
+    },
+    {
+      "subtitle_index": 161,
+      "start_time": 1160.753,
+      "end_time": 1163.162,
+      "duration": 2.4090000000001055,
+      "dialogue_text": "...je oorlogshitserij."
+    },
+    {
+      "subtitle_index": 162,
+      "start_time": 1165.369,
+      "end_time": 1166.895,
+      "duration": 1.5260000000000673,
+      "dialogue_text": "Oorlogshitserij?"
+    },
+    {
+      "subtitle_index": 163,
+      "start_time": 1167.377,
+      "end_time": 1170.107,
+      "duration": 2.730000000000018,
+      "dialogue_text": "Wanneer kocht Saruman jouw om?"
+    },
+    {
+      "subtitle_index": 164,
+      "start_time": 1170.699,
+      "end_time": 1172.996,
+      "duration": 2.2970000000000255,
+      "dialogue_text": "Wat was de afgesproken prijs, Grimá?"
+    },
+    {
+      "subtitle_index": 165,
+      "start_time": 1173.318,
+      "end_time": 1176.127,
+      "duration": 2.808999999999969,
+      "dialogue_text": "Als iedereen dood is neem jij een deel van de schat mee?"
+    },
+    {
+      "subtitle_index": 166,
+      "start_time": 1189.454,
+      "end_time": 1191.862,
+      "duration": 2.408000000000129,
+      "dialogue_text": "Te lang heb je mijn zuster gadegeslagen."
+    },
+    {
+      "subtitle_index": 167,
+      "start_time": 1192.384,
+      "end_time": 1194.672,
+      "duration": 2.288000000000011,
+      "dialogue_text": "Te lang heb je haar voetstappen gevolgd."
+    },
+    {
+      "subtitle_index": 168,
+      "start_time": 1202.419,
+      "end_time": 1205.911,
+      "duration": 3.491999999999962,
+      "dialogue_text": "Je ziet veel, Èomer, zoon van Èomund."
+    },
+    {
+      "subtitle_index": 169,
+      "start_time": 1206.824,
+      "end_time": 1208.24,
+      "duration": 1.41599999999994,
+      "dialogue_text": "Te veel."
+    },
+    {
+      "subtitle_index": 170,
+      "start_time": 1210.326,
+      "end_time": 1214.942,
+      "duration": 4.6159999999999854,
+      "dialogue_text": "Je bent vanaf nu verbannen uit het koninkrijk van Rohan..."
+    },
+    {
+      "subtitle_index": 171,
+      "start_time": 1216.348,
+      "end_time": 1219.077,
+      "duration": 2.729000000000042,
+      "dialogue_text": "...op straffe van de dood."
+    },
+    {
+      "subtitle_index": 172,
+      "start_time": 1249.583,
+      "end_time": 1252.072,
+      "duration": 2.4889999999998054,
+      "dialogue_text": "Blijf ademen, dat is de sleutel!"
+    },
+    {
+      "subtitle_index": 173,
+      "start_time": 1252.393,
+      "end_time": 1253.477,
+      "duration": 1.08400000000006,
+      "dialogue_text": "Adem! Ho!"
+    },
+    {
+      "subtitle_index": 174,
+      "start_time": 1258.294,
+      "end_time": 1261.506,
+      "duration": 3.211999999999989,
+      "dialogue_text": "Ze rennen alsof ze met de zweep krijgen van hun meesters."
+    },
+    {
+      "subtitle_index": 175,
+      "start_time": 1278.364,
+      "end_time": 1280.37,
+      "duration": 2.005999999999858,
+      "dialogue_text": "We gaan niet verder..."
+    },
+    {
+      "subtitle_index": 176,
+      "start_time": 1280.692,
+      "end_time": 1282.98,
+      "duration": 2.288000000000011,
+      "dialogue_text": "...voor we op adem gekomen zijn."
+    },
+    {
+      "subtitle_index": 177,
+      "start_time": 1283.18,
+      "end_time": 1284.987,
+      "duration": 1.8070000000000164,
+      "dialogue_text": "Maak een kampvuur!"
+    },
+    {
+      "subtitle_index": 178,
+      "start_time": 1289.322,
+      "end_time": 1290.406,
+      "duration": 1.08400000000006,
+      "dialogue_text": "Merijn!"
+    },
+    {
+      "subtitle_index": 179,
+      "start_time": 1291.208,
+      "end_time": 1292.413,
+      "duration": 1.2049999999999272,
+      "dialogue_text": "Merijn!"
+    },
+    {
+      "subtitle_index": 180,
+      "start_time": 1294.339,
+      "end_time": 1299.036,
+      "duration": 4.697000000000116,
+      "dialogue_text": "Ik denk, dat we een foutje hebben gemaakt door de Gouw te verlaten, Pepijn."
+    },
+    {
+      "subtitle_index": 181,
+      "start_time": 1308.991,
+      "end_time": 1310.877,
+      "duration": 1.8859999999999673,
+      "dialogue_text": "Waar komt die herrie vandaan?"
+    },
+    {
+      "subtitle_index": 182,
+      "start_time": 1312.603,
+      "end_time": 1314.088,
+      "duration": 1.4849999999999,
+      "dialogue_text": "Het zijn de bomen."
+    },
+    {
+      "subtitle_index": 183,
+      "start_time": 1314.69,
+      "end_time": 1315.895,
+      "duration": 1.2049999999999272,
+      "dialogue_text": "Wat?"
+    },
+    {
+      "subtitle_index": 184,
+      "start_time": 1316.206,
+      "end_time": 1319.628,
+      "duration": 3.4220000000000255,
+      "dialogue_text": "Herinner je je het Oude Woud? Op de grens met Bokland?"
+    },
+    {
+      "subtitle_index": 185,
+      "start_time": 1320.31,
+      "end_time": 1324.445,
+      "duration": 4.134999999999991,
+      "dialogue_text": "De mensen zeiden altijd dat er iets in het water zat dat de bomen lang maakte..."
+    },
+    {
+      "subtitle_index": 186,
+      "start_time": 1324.926,
+      "end_time": 1326.653,
+      "duration": 1.7270000000000891,
+      "dialogue_text": "...en tot leven bracht."
+    },
+    {
+      "subtitle_index": 187,
+      "start_time": 1326.733,
+      "end_time": 1328.138,
+      "duration": 1.4049999999999727,
+      "dialogue_text": "Tot leven?"
+    },
+    {
+      "subtitle_index": 188,
+      "start_time": 1329.251,
+      "end_time": 1331.148,
+      "duration": 1.8969999999999345,
+      "dialogue_text": "Bomen die konden fluisteren..."
+    },
+    {
+      "subtitle_index": 189,
+      "start_time": 1331.951,
+      "end_time": 1333.957,
+      "duration": 2.0060000000000855,
+      "dialogue_text": "...met elkaar spraken..."
+    },
+    {
+      "subtitle_index": 190,
+      "start_time": 1334.681,
+      "end_time": 1336.486,
+      "duration": 1.8050000000000637,
+      "dialogue_text": "...zelfs bewegen."
+    },
+    {
+      "subtitle_index": 191,
+      "start_time": 1338.093,
+      "end_time": 1339.979,
+      "duration": 1.8859999999999673,
+      "dialogue_text": "Ik sterf van de honger."
+    },
+    {
+      "subtitle_index": 192,
+      "start_time": 1340.5,
+      "end_time": 1345.116,
+      "duration": 4.6159999999999854,
+      "dialogue_text": "We hebben niets anders gehad dan brood met maden de laatste drie rotdagen!"
+    },
+    {
+      "subtitle_index": 193,
+      "start_time": 1345.197,
+      "end_time": 1346.0,
+      "duration": 0.803000000000111,
+      "dialogue_text": "Ja!"
+    },
+    {
+      "subtitle_index": 194,
+      "start_time": 1346.522,
+      "end_time": 1348.729,
+      "duration": 2.2070000000001073,
+      "dialogue_text": "Waarom kunnen we geen vlees krijgen?"
+    },
+    {
+      "subtitle_index": 195,
+      "start_time": 1352.021,
+      "end_time": 1353.547,
+      "duration": 1.5260000000000673,
+      "dialogue_text": "Wat van hen?"
+    },
+    {
+      "subtitle_index": 196,
+      "start_time": 1354.429,
+      "end_time": 1356.035,
+      "duration": 1.6059999999999945,
+      "dialogue_text": "Zij zijn van vlees!"
+    },
+    {
+      "subtitle_index": 197,
+      "start_time": 1357.038,
+      "end_time": 1359.968,
+      "duration": 2.9300000000000637,
+      "dialogue_text": "Zij zijn niet om te eten!"
+    },
+    {
+      "subtitle_index": 198,
+      "start_time": 1366.873,
+      "end_time": 1368.8,
+      "duration": 1.9269999999999072,
+      "dialogue_text": "Wat van hun benen?"
+    },
+    {
+      "subtitle_index": 199,
+      "start_time": 1369.0,
+      "end_time": 1370.806,
+      "duration": 1.80600000000004,
+      "dialogue_text": "Die hebben ze niet nodig."
+    },
+    {
+      "subtitle_index": 200,
+      "start_time": 1372.493,
+      "end_time": 1374.218,
+      "duration": 1.7250000000001364,
+      "dialogue_text": "Die zien er lekker uit!"
+    },
+    {
+      "subtitle_index": 201,
+      "start_time": 1377.51,
+      "end_time": 1378.714,
+      "duration": 1.2039999999999509,
+      "dialogue_text": "Weg daar!"
+    },
+    {
+      "subtitle_index": 202,
+      "start_time": 1378.714,
+      "end_time": 1380.038,
+      "duration": 1.3240000000000691,
+      "dialogue_text": "Een klein hapje maar?"
+    },
+    {
+      "subtitle_index": 203,
+      "start_time": 1380.119,
+      "end_time": 1381.042,
+      "duration": 0.9230000000000018,
+      "dialogue_text": "Nee!"
+    },
+    {
+      "subtitle_index": 204,
+      "start_time": 1383.851,
+      "end_time": 1386.862,
+      "duration": 3.0109999999999673,
+      "dialogue_text": "Het ziet er uit dat er weer vlees op het menu staat jongens!"
+    },
+    {
+      "subtitle_index": 205,
+      "start_time": 1394.087,
+      "end_time": 1395.091,
+      "duration": 1.0039999999999054,
+      "dialogue_text": "Pepijn!"
+    },
+    {
+      "subtitle_index": 206,
+      "start_time": 1395.371,
+      "end_time": 1396.496,
+      "duration": 1.125,
+      "dialogue_text": "Gaan!"
+    },
+    {
+      "subtitle_index": 207,
+      "start_time": 1405.527,
+      "end_time": 1406.811,
+      "duration": 1.2839999999998781,
+      "dialogue_text": "Toe maar,"
+    },
+    {
+      "subtitle_index": 208,
+      "start_time": 1407.334,
+      "end_time": 1408.939,
+      "duration": 1.6050000000000182,
+      "dialogue_text": "roep maar om hulp."
+    },
+    {
+      "subtitle_index": 209,
+      "start_time": 1410.143,
+      "end_time": 1411.228,
+      "duration": 1.0850000000000364,
+      "dialogue_text": "Gil maar!"
+    },
+    {
+      "subtitle_index": 210,
+      "start_time": 1411.549,
+      "end_time": 1414.358,
+      "duration": 2.808999999999969,
+      "dialogue_text": "Niemand zal je nu redden!"
+    },
+    {
+      "subtitle_index": 211,
+      "start_time": 1423.871,
+      "end_time": 1424.995,
+      "duration": 1.1239999999997963,
+      "dialogue_text": "Pepijn!"
+    },
+    {
+      "subtitle_index": 212,
+      "start_time": 1449.561,
+      "end_time": 1451.488,
+      "duration": 1.9270000000001346,
+      "dialogue_text": "Een rode zon komt op."
+    },
+    {
+      "subtitle_index": 213,
+      "start_time": 1452.571,
+      "end_time": 1454.699,
+      "duration": 2.1280000000001564,
+      "dialogue_text": "Er is bloed verspild vanacht."
+    },
+    {
+      "subtitle_index": 214,
+      "start_time": 1486.811,
+      "end_time": 1489.019,
+      "duration": 2.2080000000000837,
+      "dialogue_text": "Rijders van Rohan!"
+    },
+    {
+      "subtitle_index": 215,
+      "start_time": 1489.099,
+      "end_time": 1491.227,
+      "duration": 2.1280000000001564,
+      "dialogue_text": "Wat is er voor nieuws uit de Mark?"
+    },
+    {
+      "subtitle_index": 216,
+      "start_time": 1519.324,
+      "end_time": 1523.619,
+      "duration": 4.294999999999845,
+      "dialogue_text": "Wat hebben een Elf, een mens en een Dwerg te zoeken in de Riddermark?"
+    },
+    {
+      "subtitle_index": 217,
+      "start_time": 1524.542,
+      "end_time": 1526.148,
+      "duration": 1.6059999999999945,
+      "dialogue_text": "Spreek snel!"
+    },
+    {
+      "subtitle_index": 218,
+      "start_time": 1526.229,
+      "end_time": 1529.962,
+      "duration": 3.7329999999999472,
+      "dialogue_text": "Geef me uw naam, paardenheer, en ik zal u de mijne geven."
+    },
+    {
+      "subtitle_index": 219,
+      "start_time": 1539.876,
+      "end_time": 1542.606,
+      "duration": 2.730000000000018,
+      "dialogue_text": "Ik zou je hoofd eraf hakken, Dwerg..."
+    },
+    {
+      "subtitle_index": 220,
+      "start_time": 1542.886,
+      "end_time": 1545.496,
+      "duration": 2.6100000000001273,
+      "dialogue_text": "...als het ook maar iets verder van de grond af was."
+    },
+    {
+      "subtitle_index": 221,
+      "start_time": 1546.419,
+      "end_time": 1549.028,
+      "duration": 2.6089999999999236,
+      "dialogue_text": "Je sterft voordat je de klap hoort!"
+    },
+    {
+      "subtitle_index": 222,
+      "start_time": 1557.136,
+      "end_time": 1559.263,
+      "duration": 2.1269999999999527,
+      "dialogue_text": "Ik ben Aragorn, zoon van Arathorn."
+    },
+    {
+      "subtitle_index": 223,
+      "start_time": 1559.544,
+      "end_time": 1563.077,
+      "duration": 3.5329999999999018,
+      "dialogue_text": "Dit is Gimli, zoon van Gloin en Legolas uit het Demsterwold."
+    },
+    {
+      "subtitle_index": 224,
+      "start_time": 1563.759,
+      "end_time": 1566.97,
+      "duration": 3.2110000000000127,
+      "dialogue_text": "We zijn vrienden van Rohan en van Théoden, haar koning."
+    },
+    {
+      "subtitle_index": 225,
+      "start_time": 1568.897,
+      "end_time": 1571.988,
+      "duration": 3.091000000000122,
+      "dialogue_text": "Théoden herkent niet langer vriend van vijand."
+    },
+    {
+      "subtitle_index": 226,
+      "start_time": 1572.791,
+      "end_time": 1574.998,
+      "duration": 2.2070000000001073,
+      "dialogue_text": "Zelfs niet zijn eigen familie."
+    },
+    {
+      "subtitle_index": 227,
+      "start_time": 1579.615,
+      "end_time": 1583.749,
+      "duration": 4.1340000000000146,
+      "dialogue_text": "Saruman heeft het verstand vergiftigd van de koning en eist de heerschappij over dit land."
+    },
+    {
+      "subtitle_index": 228,
+      "start_time": 1585.435,
+      "end_time": 1588.245,
+      "duration": 2.8099999999999454,
+      "dialogue_text": "Mijn compagnie is trouw aan Rohan."
+    },
+    {
+      "subtitle_index": 229,
+      "start_time": 1588.766,
+      "end_time": 1590.975,
+      "duration": 2.2089999999998327,
+      "dialogue_text": "En daarvoor, zijn we verbannen."
+    },
+    {
+      "subtitle_index": 230,
+      "start_time": 1592.58,
+      "end_time": 1595.47,
+      "duration": 2.8900000000001,
+      "dialogue_text": "De Witte Tovenaar is sluw."
+    },
+    {
+      "subtitle_index": 231,
+      "start_time": 1596.594,
+      "end_time": 1598.802,
+      "duration": 2.2079999999998563,
+      "dialogue_text": "Hij loopt hier en daar, zegt men..."
+    },
+    {
+      "subtitle_index": 232,
+      "start_time": 1598.882,
+      "end_time": 1601.491,
+      "duration": 2.6089999999999236,
+      "dialogue_text": "...als een oude man. In een mantel met kap."
+    },
+    {
+      "subtitle_index": 233,
+      "start_time": 1603.097,
+      "end_time": 1606.308,
+      "duration": 3.2110000000000127,
+      "dialogue_text": "En overal kruipen zijn spionnen door de mazen van onze netten."
+    },
+    {
+      "subtitle_index": 234,
+      "start_time": 1606.91,
+      "end_time": 1608.836,
+      "duration": 1.9259999999999309,
+      "dialogue_text": "Wij zijn geen spionnen."
+    },
+    {
+      "subtitle_index": 235,
+      "start_time": 1609.318,
+      "end_time": 1612.248,
+      "duration": 2.9300000000000637,
+      "dialogue_text": "We volgen een groep van Uruk-Hai over de vlakten richting het westen."
+    },
+    {
+      "subtitle_index": 236,
+      "start_time": 1612.65,
+      "end_time": 1614.657,
+      "duration": 2.0069999999998345,
+      "dialogue_text": "Ze houden twee van onze vrienden gevangen."
+    },
+    {
+      "subtitle_index": 237,
+      "start_time": 1615.741,
+      "end_time": 1618.47,
+      "duration": 2.729000000000042,
+      "dialogue_text": "De Uruks zijn vernietigd. We hebben ze tijdens de nacht afgemaakt."
+    },
+    {
+      "subtitle_index": 238,
+      "start_time": 1618.551,
+      "end_time": 1621.561,
+      "duration": 3.009999999999991,
+      "dialogue_text": "Maar er waren twee hobbits. Heb je twee hobbits tussen hen gezien?"
+    },
+    {
+      "subtitle_index": 239,
+      "start_time": 1621.682,
+      "end_time": 1624.691,
+      "duration": 3.0090000000000146,
+      "dialogue_text": "Ze zijn klein. Slechts kinderen in uw ogen."
+    },
+    {
+      "subtitle_index": 240,
+      "start_time": 1627.983,
+      "end_time": 1629.79,
+      "duration": 1.8070000000000164,
+      "dialogue_text": "We hebben niemand in leven gelaten."
+    },
+    {
+      "subtitle_index": 241,
+      "start_time": 1630.713,
+      "end_time": 1633.322,
+      "duration": 2.6089999999999236,
+      "dialogue_text": "We hebben de lijken op een hoop gegooid en verbrand."
+    },
+    {
+      "subtitle_index": 242,
+      "start_time": 1639.022,
+      "end_time": 1640.426,
+      "duration": 1.4039999999999964,
+      "dialogue_text": "Ze zijn dood?"
+    },
+    {
+      "subtitle_index": 243,
+      "start_time": 1643.557,
+      "end_time": 1644.963,
+      "duration": 1.405999999999949,
+      "dialogue_text": "Het spijt me."
+    },
+    {
+      "subtitle_index": 244,
+      "start_time": 1650.582,
+      "end_time": 1652.389,
+      "duration": 1.806999999999789,
+      "dialogue_text": "Hasufel! Arod!"
+    },
+    {
+      "subtitle_index": 245,
+      "start_time": 1654.797,
+      "end_time": 1658.891,
+      "duration": 4.094000000000051,
+      "dialogue_text": "Dat deze paarden je meer geluk brengen dan hun vorige meesters."
+    },
+    {
+      "subtitle_index": 246,
+      "start_time": 1660.698,
+      "end_time": 1662.102,
+      "duration": 1.4039999999999964,
+      "dialogue_text": "Vaarwel."
+    },
+    {
+      "subtitle_index": 247,
+      "start_time": 1667.522,
+      "end_time": 1669.448,
+      "duration": 1.9260000000001583,
+      "dialogue_text": "Zoek je vrienden,"
+    },
+    {
+      "subtitle_index": 248,
+      "start_time": 1670.451,
+      "end_time": 1672.459,
+      "duration": 2.008000000000038,
+      "dialogue_text": "maar vertrouw niet op hoop."
+    },
+    {
+      "subtitle_index": 249,
+      "start_time": 1674.064,
+      "end_time": 1676.272,
+      "duration": 2.2079999999998563,
+      "dialogue_text": "Hoop heeft dit land in de steek gelaten."
+    },
+    {
+      "subtitle_index": 250,
+      "start_time": 1676.874,
+      "end_time": 1678.68,
+      "duration": 1.80600000000004,
+      "dialogue_text": "We gaan naar het noorden!"
+    },
+    {
+      "subtitle_index": 251,
+      "start_time": 1729.738,
+      "end_time": 1731.945,
+      "duration": 2.20699999999988,
+      "dialogue_text": "Het is een van hun gordels."
+    },
+    {
+      "subtitle_index": 252,
+      "start_time": 1745.112,
+      "end_time": 1746.918,
+      "duration": 1.8059999999998126,
+      "dialogue_text": "We hebben ze gemist."
+    },
+    {
+      "subtitle_index": 253,
+      "start_time": 1761.449,
+      "end_time": 1763.055,
+      "duration": 1.6059999999999945,
+      "dialogue_text": "Een hobbit lag hier"
+    },
+    {
+      "subtitle_index": 254,
+      "start_time": 1765.463,
+      "end_time": 1767.269,
+      "duration": 1.80600000000004,
+      "dialogue_text": "en de andere..."
+    },
+    {
+      "subtitle_index": 255,
+      "start_time": 1777.906,
+      "end_time": 1779.632,
+      "duration": 1.7260000000001128,
+      "dialogue_text": "Ze kropen."
+    },
+    {
+      "subtitle_index": 256,
+      "start_time": 1783.646,
+      "end_time": 1786.055,
+      "duration": 2.4090000000001055,
+      "dialogue_text": "Hun handen waren gebonden."
+    },
+    {
+      "subtitle_index": 257,
+      "start_time": 1798.177,
+      "end_time": 1799.903,
+      "duration": 1.7260000000001128,
+      "dialogue_text": "Het touw was doorgesneden."
+    },
+    {
+      "subtitle_index": 258,
+      "start_time": 1815.437,
+      "end_time": 1817.645,
+      "duration": 2.2080000000000837,
+      "dialogue_text": "Ze renden hierheen..."
+    },
+    {
+      "subtitle_index": 259,
+      "start_time": 1820.977,
+      "end_time": 1822.582,
+      "duration": 1.6050000000000182,
+      "dialogue_text": "...en werden achtervolgd."
+    },
+    {
+      "subtitle_index": 260,
+      "start_time": 1825.392,
+      "end_time": 1826.676,
+      "duration": 1.2839999999998781,
+      "dialogue_text": "De gordel!"
+    },
+    {
+      "subtitle_index": 261,
+      "start_time": 1830.489,
+      "end_time": 1832.096,
+      "duration": 1.606999999999971,
+      "dialogue_text": "Ren!"
+    },
+    {
+      "subtitle_index": 262,
+      "start_time": 1835.627,
+      "end_time": 1837.915,
+      "duration": 2.288000000000011,
+      "dialogue_text": "De sporen gaan van het slagveld...."
+    },
+    {
+      "subtitle_index": 263,
+      "start_time": 1842.25,
+      "end_time": 1844.539,
+      "duration": 2.2889999999999873,
+      "dialogue_text": "...in de richting van het Fangorn woud."
+    },
+    {
+      "subtitle_index": 264,
+      "start_time": 1845.06,
+      "end_time": 1846.545,
+      "duration": 1.4850000000001273,
+      "dialogue_text": "Fangorn?"
+    },
+    {
+      "subtitle_index": 265,
+      "start_time": 1846.866,
+      "end_time": 1849.476,
+      "duration": 2.6100000000001273,
+      "dialogue_text": "Hoe komen ze zo gek daarheen te gaan?"
+    },
+    {
+      "subtitle_index": 266,
+      "start_time": 1867.218,
+      "end_time": 1869.626,
+      "duration": 2.4079999999999018,
+      "dialogue_text": "Hebben we hem afgeschudt? Ik denk het."
+    },
+    {
+      "subtitle_index": 267,
+      "start_time": 1876.771,
+      "end_time": 1879.982,
+      "duration": 3.2110000000000127,
+      "dialogue_text": "Ik ruk jullie hoofden eraf!"
+    },
+    {
+      "subtitle_index": 268,
+      "start_time": 1886.485,
+      "end_time": 1888.09,
+      "duration": 1.6050000000000182,
+      "dialogue_text": "Kom hier!"
+    },
+    {
+      "subtitle_index": 269,
+      "start_time": 1893.107,
+      "end_time": 1895.717,
+      "duration": 2.6100000000001273,
+      "dialogue_text": "Bomen! Klim in een boom!"
+    },
+    {
+      "subtitle_index": 270,
+      "start_time": 1904.869,
+      "end_time": 1906.154,
+      "duration": 1.2850000000000819,
+      "dialogue_text": "Hij is weg."
+    },
+    {
+      "subtitle_index": 271,
+      "start_time": 1919.118,
+      "end_time": 1920.805,
+      "duration": 1.6870000000001255,
+      "dialogue_text": "Merijn!"
+    },
+    {
+      "subtitle_index": 272,
+      "start_time": 1932.445,
+      "end_time": 1937.262,
+      "duration": 4.817000000000007,
+      "dialogue_text": "Laten we een gaatje in jouw buik maken."
+    },
+    {
+      "subtitle_index": 273,
+      "start_time": 1943.885,
+      "end_time": 1945.41,
+      "duration": 1.525000000000091,
+      "dialogue_text": "Ren, Merijn!"
+    },
+    {
+      "subtitle_index": 274,
+      "start_time": 1955.526,
+      "end_time": 1959.46,
+      "duration": 3.933999999999969,
+      "dialogue_text": "Kleine Orks!"
+    },
+    {
+      "subtitle_index": 275,
+      "start_time": 1960.142,
+      "end_time": 1962.551,
+      "duration": 2.408999999999878,
+      "dialogue_text": "Hij praat. Merijn, de boom praat."
+    },
+    {
+      "subtitle_index": 276,
+      "start_time": 1962.671,
+      "end_time": 1963.875,
+      "duration": 1.2039999999999509,
+      "dialogue_text": "Boom?"
+    },
+    {
+      "subtitle_index": 277,
+      "start_time": 1964.677,
+      "end_time": 1967.166,
+      "duration": 2.4890000000000327,
+      "dialogue_text": "Ik ben geen boom!"
+    },
+    {
+      "subtitle_index": 278,
+      "start_time": 1968.089,
+      "end_time": 1969.775,
+      "duration": 1.6860000000001492,
+      "dialogue_text": "Ik ben een Ent."
+    },
+    {
+      "subtitle_index": 279,
+      "start_time": 1970.699,
+      "end_time": 1972.585,
+      "duration": 1.8859999999999673,
+      "dialogue_text": "Een boomhoeder!"
+    },
+    {
+      "subtitle_index": 280,
+      "start_time": 1972.986,
+      "end_time": 1974.793,
+      "duration": 1.806999999999789,
+      "dialogue_text": "Herder van het woud."
+    },
+    {
+      "subtitle_index": 281,
+      "start_time": 1974.994,
+      "end_time": 1976.8,
+      "duration": 1.80600000000004,
+      "dialogue_text": "Praat niet met hem Merijn."
+    },
+    {
+      "subtitle_index": 282,
+      "start_time": 1977.0,
+      "end_time": 1978.807,
+      "duration": 1.8070000000000164,
+      "dialogue_text": "Moedig hem niet aan."
+    },
+    {
+      "subtitle_index": 283,
+      "start_time": 1979.008,
+      "end_time": 1982.54,
+      "duration": 3.5319999999999254,
+      "dialogue_text": "Men noemt mij Boombaard."
+    },
+    {
+      "subtitle_index": 284,
+      "start_time": 1983.744,
+      "end_time": 1985.35,
+      "duration": 1.6059999999999945,
+      "dialogue_text": "En aan wiens kant sta je?"
+    },
+    {
+      "subtitle_index": 285,
+      "start_time": 1985.43,
+      "end_time": 1986.835,
+      "duration": 1.4049999999999727,
+      "dialogue_text": "Kant?"
+    },
+    {
+      "subtitle_index": 286,
+      "start_time": 1987.437,
+      "end_time": 1990.247,
+      "duration": 2.810000000000173,
+      "dialogue_text": "Ik sta aan niemands kant..."
+    },
+    {
+      "subtitle_index": 287,
+      "start_time": 1990.769,
+      "end_time": 1995.786,
+      "duration": 5.017000000000053,
+      "dialogue_text": "...omdat niemand aan mijn kant staat, kleine Ork."
+    },
+    {
+      "subtitle_index": 288,
+      "start_time": 1996.79,
+      "end_time": 2001.085,
+      "duration": 4.295000000000073,
+      "dialogue_text": "Niemand geeft nog om de bossen..."
+    },
+    {
+      "subtitle_index": 289,
+      "start_time": 2001.887,
+      "end_time": 2004.617,
+      "duration": 2.730000000000018,
+      "dialogue_text": "We zijn geen Orks. We zijn Hobbits!"
+    },
+    {
+      "subtitle_index": 290,
+      "start_time": 2004.698,
+      "end_time": 2006.222,
+      "duration": 1.5239999999998872,
+      "dialogue_text": "Hobbits?"
+    },
+    {
+      "subtitle_index": 291,
+      "start_time": 2007.707,
+      "end_time": 2010.838,
+      "duration": 3.130999999999858,
+      "dialogue_text": "Nog nooit van een hobbit gehoord."
+    },
+    {
+      "subtitle_index": 292,
+      "start_time": 2014.05,
+      "end_time": 2017.943,
+      "duration": 3.893000000000029,
+      "dialogue_text": "Dat klinkt als Orks verraad!"
+    },
+    {
+      "subtitle_index": 293,
+      "start_time": 2018.866,
+      "end_time": 2021.074,
+      "duration": 2.2080000000000837,
+      "dialogue_text": "Ze komen met vuur,"
+    },
+    {
+      "subtitle_index": 294,
+      "start_time": 2021.275,
+      "end_time": 2023.161,
+      "duration": 1.8859999999999673,
+      "dialogue_text": "ze komen met bijlen."
+    },
+    {
+      "subtitle_index": 295,
+      "start_time": 2023.684,
+      "end_time": 2028.3,
+      "duration": 4.6159999999999854,
+      "dialogue_text": "Bijten, breken, hakken, branden. Vernielers en indringers."
+    },
+    {
+      "subtitle_index": 296,
+      "start_time": 2028.982,
+      "end_time": 2031.31,
+      "duration": 2.3279999999999745,
+      "dialogue_text": "Vervloekt, zijn ze!"
+    },
+    {
+      "subtitle_index": 297,
+      "start_time": 2032.916,
+      "end_time": 2035.605,
+      "duration": 2.689000000000078,
+      "dialogue_text": "Nee! Je begrijpt het niet. We zijn hobbits!"
+    },
+    {
+      "subtitle_index": 298,
+      "start_time": 2036.207,
+      "end_time": 2037.612,
+      "duration": 1.4049999999999727,
+      "dialogue_text": "Halflingen!"
+    },
+    {
+      "subtitle_index": 299,
+      "start_time": 2037.812,
+      "end_time": 2039.138,
+      "duration": 1.3260000000000218,
+      "dialogue_text": "Gouwvolk!"
+    },
+    {
+      "subtitle_index": 300,
+      "start_time": 2039.218,
+      "end_time": 2041.224,
+      "duration": 2.005999999999858,
+      "dialogue_text": "Misschien..."
+    },
+    {
+      "subtitle_index": 301,
+      "start_time": 2042.228,
+      "end_time": 2044.757,
+      "duration": 2.5289999999999964,
+      "dialogue_text": "...en misschien niet."
+    },
+    {
+      "subtitle_index": 302,
+      "start_time": 2046.764,
+      "end_time": 2050.578,
+      "duration": 3.814000000000078,
+      "dialogue_text": "De Witte Tovenaar weet het."
+    },
+    {
+      "subtitle_index": 303,
+      "start_time": 2051.46,
+      "end_time": 2053.066,
+      "duration": 1.6059999999997672,
+      "dialogue_text": "Witte Tovenaar?"
+    },
+    {
+      "subtitle_index": 304,
+      "start_time": 2054.993,
+      "end_time": 2056.678,
+      "duration": 1.6849999999999454,
+      "dialogue_text": "Saruman!"
+    },
+    {
+      "subtitle_index": 305,
+      "start_time": 2069.041,
+      "end_time": 2070.527,
+      "duration": 1.4859999999998763,
+      "dialogue_text": "Kijk, kijk!"
+    },
+    {
+      "subtitle_index": 306,
+      "start_time": 2070.848,
+      "end_time": 2072.533,
+      "duration": 1.6849999999999454,
+      "dialogue_text": "Wij hebben jullie eruit geleid!"
+    },
+    {
+      "subtitle_index": 307,
+      "start_time": 2073.337,
+      "end_time": 2075.865,
+      "duration": 2.5279999999997926,
+      "dialogue_text": "Snel, snel!"
+    },
+    {
+      "subtitle_index": 308,
+      "start_time": 2079.077,
+      "end_time": 2081.164,
+      "duration": 2.086999999999989,
+      "dialogue_text": "Gelukkig vonden wij je."
+    },
+    {
+      "subtitle_index": 309,
+      "start_time": 2088.308,
+      "end_time": 2089.794,
+      "duration": 1.4859999999998763,
+      "dialogue_text": "Lieve hobbit."
+    },
+    {
+      "subtitle_index": 310,
+      "start_time": 2092.925,
+      "end_time": 2096.217,
+      "duration": 3.2919999999999163,
+      "dialogue_text": "Het is een moeras! Hij heeft ons een moeras in gelokt!"
+    },
+    {
+      "subtitle_index": 311,
+      "start_time": 2096.417,
+      "end_time": 2099.427,
+      "duration": 3.0100000000002183,
+      "dialogue_text": "Moeras, ja, ja!"
+    },
+    {
+      "subtitle_index": 312,
+      "start_time": 2099.628,
+      "end_time": 2104.365,
+      "duration": 4.736999999999625,
+      "dialogue_text": "Kom meester. Wij brengen u over veilige paden, door de mist."
+    },
+    {
+      "subtitle_index": 313,
+      "start_time": 2106.652,
+      "end_time": 2109.864,
+      "duration": 3.211999999999989,
+      "dialogue_text": "Kom hobbits, kom. We gaan snel!"
+    },
+    {
+      "subtitle_index": 314,
+      "start_time": 2113.396,
+      "end_time": 2116.006,
+      "duration": 2.6099999999996726,
+      "dialogue_text": "Ik heb het gevonden."
+    },
+    {
+      "subtitle_index": 315,
+      "start_time": 2116.407,
+      "end_time": 2118.604,
+      "duration": 2.1969999999996617,
+      "dialogue_text": "De weg door het moeras."
+    },
+    {
+      "subtitle_index": 316,
+      "start_time": 2119.015,
+      "end_time": 2122.508,
+      "duration": 3.492999999999938,
+      "dialogue_text": "Orks gebruiken die niet. Orks kennen die niet."
+    },
+    {
+      "subtitle_index": 317,
+      "start_time": 2122.829,
+      "end_time": 2126.844,
+      "duration": 4.014999999999873,
+      "dialogue_text": "Zij lopen eromheen. Mijlen en mijlen."
+    },
+    {
+      "subtitle_index": 318,
+      "start_time": 2127.115,
+      "end_time": 2128.639,
+      "duration": 1.524000000000342,
+      "dialogue_text": "Kom snel."
+    },
+    {
+      "subtitle_index": 319,
+      "start_time": 2128.93,
+      "end_time": 2132.744,
+      "duration": 3.8140000000003056,
+      "dialogue_text": "Rap en snel."
+    },
+    {
+      "subtitle_index": 320,
+      "start_time": 2150.004,
+      "end_time": 2151.529,
+      "duration": 1.525000000000091,
+      "dialogue_text": "Er zijn dode dingen!"
+    },
+    {
+      "subtitle_index": 321,
+      "start_time": 2152.131,
+      "end_time": 2154.209,
+      "duration": 2.0779999999999745,
+      "dialogue_text": "Dode gezichten in het water!"
+    },
+    {
+      "subtitle_index": 322,
+      "start_time": 2158.634,
+      "end_time": 2160.44,
+      "duration": 1.80600000000004,
+      "dialogue_text": "Allemaal dood."
+    },
+    {
+      "subtitle_index": 323,
+      "start_time": 2160.962,
+      "end_time": 2162.849,
+      "duration": 1.887000000000171,
+      "dialogue_text": "Allemaal verrot."
+    },
+    {
+      "subtitle_index": 324,
+      "start_time": 2162.969,
+      "end_time": 2166.461,
+      "duration": 3.4919999999997344,
+      "dialogue_text": "Elven en mensen en Orks."
+    },
+    {
+      "subtitle_index": 325,
+      "start_time": 2167.184,
+      "end_time": 2170.997,
+      "duration": 3.812999999999647,
+      "dialogue_text": "Een groot gevecht lang geleden."
+    },
+    {
+      "subtitle_index": 326,
+      "start_time": 2171.599,
+      "end_time": 2173.275,
+      "duration": 1.6759999999999309,
+      "dialogue_text": "De dode moerassen."
+    },
+    {
+      "subtitle_index": 327,
+      "start_time": 2173.486,
+      "end_time": 2176.215,
+      "duration": 2.729000000000269,
+      "dialogue_text": "Ja, ja! Dat is de naam."
+    },
+    {
+      "subtitle_index": 328,
+      "start_time": 2177.901,
+      "end_time": 2179.507,
+      "duration": 1.606000000000222,
+      "dialogue_text": "Deze kant."
+    },
+    {
+      "subtitle_index": 329,
+      "start_time": 2179.818,
+      "end_time": 2181.915,
+      "duration": 2.0969999999997526,
+      "dialogue_text": "Volg de lichtjes niet!"
+    },
+    {
+      "subtitle_index": 330,
+      "start_time": 2184.042,
+      "end_time": 2185.247,
+      "duration": 1.2049999999999272,
+      "dialogue_text": "Voorzichtig nu!"
+    },
+    {
+      "subtitle_index": 331,
+      "start_time": 2185.317,
+      "end_time": 2188.328,
+      "duration": 3.0109999999999673,
+      "dialogue_text": "Of hobbits zinken, net als andere doden..."
+    },
+    {
+      "subtitle_index": 332,
+      "start_time": 2188.458,
+      "end_time": 2191.951,
+      "duration": 3.492999999999938,
+      "dialogue_text": "...en branden hun eigen kaarsjes."
+    },
+    {
+      "subtitle_index": 333,
+      "start_time": 2216.837,
+      "end_time": 2218.161,
+      "duration": 1.3240000000000691,
+      "dialogue_text": "Frodo!"
+    },
+    {
+      "subtitle_index": 334,
+      "start_time": 2262.918,
+      "end_time": 2266.33,
+      "duration": 3.411999999999807,
+      "dialogue_text": "Gollem? - Ga niet achter de lichtjes aan!"
+    },
+    {
+      "subtitle_index": 335,
+      "start_time": 2267.534,
+      "end_time": 2268.738,
+      "duration": 1.2039999999997235,
+      "dialogue_text": "Gollem! - Meester Frodo!"
+    },
+    {
+      "subtitle_index": 336,
+      "start_time": 2269.822,
+      "end_time": 2271.136,
+      "duration": 1.3139999999998508,
+      "dialogue_text": "Alles in orde?"
+    },
+    {
+      "subtitle_index": 337,
+      "start_time": 2300.529,
+      "end_time": 2303.249,
+      "duration": 2.7199999999998,
+      "dialogue_text": "Zo helder,"
+    },
+    {
+      "subtitle_index": 338,
+      "start_time": 2303.941,
+      "end_time": 2307.353,
+      "duration": 3.412000000000262,
+      "dialogue_text": "zo mooi."
+    },
+    {
+      "subtitle_index": 339,
+      "start_time": 2307.554,
+      "end_time": 2310.966,
+      "duration": 3.411999999999807,
+      "dialogue_text": "Ah, liefje."
+    },
+    {
+      "subtitle_index": 340,
+      "start_time": 2312.972,
+      "end_time": 2314.699,
+      "duration": 1.7269999999998618,
+      "dialogue_text": "Wat zei je?"
+    },
+    {
+      "subtitle_index": 341,
+      "start_time": 2314.769,
+      "end_time": 2316.775,
+      "duration": 2.006000000000313,
+      "dialogue_text": "Meester moet rusten."
+    },
+    {
+      "subtitle_index": 342,
+      "start_time": 2316.906,
+      "end_time": 2320.719,
+      "duration": 3.813000000000102,
+      "dialogue_text": "Meester moet zijn krachten sparen."
+    },
+    {
+      "subtitle_index": 343,
+      "start_time": 2323.008,
+      "end_time": 2324.131,
+      "duration": 1.1230000000000473,
+      "dialogue_text": "Wie ben je?"
+    },
+    {
+      "subtitle_index": 344,
+      "start_time": 2324.211,
+      "end_time": 2326.42,
+      "duration": 2.2090000000002874,
+      "dialogue_text": "Moet ons niet om naam vragen, niet zijn zaak."
+    },
+    {
+      "subtitle_index": 345,
+      "start_time": 2326.54,
+      "end_time": 2328.145,
+      "duration": 1.6050000000000182,
+      "dialogue_text": "Gollem, Gollem."
+    },
+    {
+      "subtitle_index": 346,
+      "start_time": 2328.225,
+      "end_time": 2330.153,
+      "duration": 1.9279999999998836,
+      "dialogue_text": "Gandalf vertelde me dat je van het Riviervolk was."
+    },
+    {
+      "subtitle_index": 347,
+      "start_time": 2330.233,
+      "end_time": 2334.357,
+      "duration": 4.123999999999796,
+      "dialogue_text": "Koud is hart en rots en bot. En roept elke reiziger ver van huis."
+    },
+    {
+      "subtitle_index": 348,
+      "start_time": 2334.447,
+      "end_time": 2336.364,
+      "duration": 1.9169999999999163,
+      "dialogue_text": "Hij zei dat je leven een zielig verhaal was."
+    },
+    {
+      "subtitle_index": 349,
+      "start_time": 2336.454,
+      "end_time": 2340.588,
+      "duration": 4.1340000000000146,
+      "dialogue_text": "Ze zien niet wat komen zal wanneer de zon verbleekt en de maan dood is."
+    },
+    {
+      "subtitle_index": 350,
+      "start_time": 2340.859,
+      "end_time": 2343.679,
+      "duration": 2.8200000000001637,
+      "dialogue_text": "Jij was niet veel anders dan een hobbit..."
+    },
+    {
+      "subtitle_index": 351,
+      "start_time": 2344.081,
+      "end_time": 2345.396,
+      "duration": 1.3150000000000546,
+      "dialogue_text": "...ooit..."
+    },
+    {
+      "subtitle_index": 352,
+      "start_time": 2348.095,
+      "end_time": 2349.891,
+      "duration": 1.7960000000002765,
+      "dialogue_text": "Sméagol?"
+    },
+    {
+      "subtitle_index": 353,
+      "start_time": 2354.909,
+      "end_time": 2356.433,
+      "duration": 1.5239999999998872,
+      "dialogue_text": "Hoe noemde u mij?"
+    },
+    {
+      "subtitle_index": 354,
+      "start_time": 2359.053,
+      "end_time": 2361.542,
+      "duration": 2.4890000000000327,
+      "dialogue_text": "Dat was toch je naam, ooit?"
+    },
+    {
+      "subtitle_index": 355,
+      "start_time": 2362.264,
+      "end_time": 2364.15,
+      "duration": 1.8859999999999673,
+      "dialogue_text": "Lang geleden."
+    },
+    {
+      "subtitle_index": 356,
+      "start_time": 2365.556,
+      "end_time": 2366.88,
+      "duration": 1.3240000000000691,
+      "dialogue_text": "Mijn..."
+    },
+    {
+      "subtitle_index": 357,
+      "start_time": 2368.687,
+      "end_time": 2370.172,
+      "duration": 1.4850000000001273,
+      "dialogue_text": "Mijn naam"
+    },
+    {
+      "subtitle_index": 358,
+      "start_time": 2377.196,
+      "end_time": 2379.203,
+      "duration": 2.007000000000062,
+      "dialogue_text": "Sméagol."
+    },
+    {
+      "subtitle_index": 359,
+      "start_time": 2383.82,
+      "end_time": 2384.943,
+      "duration": 1.1230000000000473,
+      "dialogue_text": "Een Ringgeest!"
+    },
+    {
+      "subtitle_index": 360,
+      "start_time": 2385.144,
+      "end_time": 2387.02,
+      "duration": 1.8760000000002037,
+      "dialogue_text": "Verstoppen! Verstoppen!"
+    },
+    {
+      "subtitle_index": 361,
+      "start_time": 2387.432,
+      "end_time": 2388.436,
+      "duration": 1.0040000000003602,
+      "dialogue_text": "Verstoppen!"
+    },
+    {
+      "subtitle_index": 362,
+      "start_time": 2397.467,
+      "end_time": 2399.585,
+      "duration": 2.117999999999938,
+      "dialogue_text": "Kom op Frodo, kom op!"
+    },
+    {
+      "subtitle_index": 363,
+      "start_time": 2399.795,
+      "end_time": 2403.408,
+      "duration": 3.612999999999829,
+      "dialogue_text": "Ze zullen ons zien! Ze zullen ons zien."
+    },
+    {
+      "subtitle_index": 364,
+      "start_time": 2404.491,
+      "end_time": 2406.82,
+      "duration": 2.3290000000001783,
+      "dialogue_text": "Ik dacht dat ze dood waren! - Dood?"
+    },
+    {
+      "subtitle_index": 365,
+      "start_time": 2407.302,
+      "end_time": 2409.83,
+      "duration": 2.5279999999997926,
+      "dialogue_text": "Nee, je kunt ze niet doden. Nee."
+    },
+    {
+      "subtitle_index": 366,
+      "start_time": 2437.326,
+      "end_time": 2438.611,
+      "duration": 1.2849999999998545,
+      "dialogue_text": "Ringgeesten!"
+    },
+    {
+      "subtitle_index": 367,
+      "start_time": 2438.811,
+      "end_time": 2440.617,
+      "duration": 1.80600000000004,
+      "dialogue_text": "Geesten op vleugels!"
+    },
+    {
+      "subtitle_index": 368,
+      "start_time": 2448.967,
+      "end_time": 2450.853,
+      "duration": 1.8859999999999673,
+      "dialogue_text": "Ze roepen om de Lieveling."
+    },
+    {
+      "subtitle_index": 369,
+      "start_time": 2451.174,
+      "end_time": 2453.864,
+      "duration": 2.6900000000000546,
+      "dialogue_text": "Ze roepen om de Lieveling."
+    },
+    {
+      "subtitle_index": 370,
+      "start_time": 2456.995,
+      "end_time": 2459.001,
+      "duration": 2.006000000000313,
+      "dialogue_text": "Meester Frodo! Het is goed."
+    },
+    {
+      "subtitle_index": 371,
+      "start_time": 2459.202,
+      "end_time": 2460.688,
+      "duration": 1.4859999999998763,
+      "dialogue_text": "Ik ben hier."
+    },
+    {
+      "subtitle_index": 372,
+      "start_time": 2476.543,
+      "end_time": 2477.948,
+      "duration": 1.4049999999997453,
+      "dialogue_text": "Snel, kobbits."
+    },
+    {
+      "subtitle_index": 373,
+      "start_time": 2478.549,
+      "end_time": 2481.681,
+      "duration": 3.132000000000062,
+      "dialogue_text": "De Zwarte Poort is dichtbij."
+    },
+    {
+      "subtitle_index": 374,
+      "start_time": 2489.187,
+      "end_time": 2490.903,
+      "duration": 1.7159999999998945,
+      "dialogue_text": "Ork bloed!"
+    },
+    {
+      "subtitle_index": 375,
+      "start_time": 2501.028,
+      "end_time": 2503.156,
+      "duration": 2.1280000000001564,
+      "dialogue_text": "Dit zijn vreemde sporen."
+    },
+    {
+      "subtitle_index": 376,
+      "start_time": 2504.159,
+      "end_time": 2506.247,
+      "duration": 2.087999999999738,
+      "dialogue_text": "De lucht is zo benauwd hier"
+    },
+    {
+      "subtitle_index": 377,
+      "start_time": 2507.37,
+      "end_time": 2508.966,
+      "duration": 1.5960000000000036,
+      "dialogue_text": "Dit bos is oud."
+    },
+    {
+      "subtitle_index": 378,
+      "start_time": 2510.582,
+      "end_time": 2511.976,
+      "duration": 1.3940000000002328,
+      "dialogue_text": "Heel oud."
+    },
+    {
+      "subtitle_index": 379,
+      "start_time": 2514.275,
+      "end_time": 2516.081,
+      "duration": 1.80600000000004,
+      "dialogue_text": "Vol van herinneringen..."
+    },
+    {
+      "subtitle_index": 380,
+      "start_time": 2519.212,
+      "end_time": 2520.696,
+      "duration": 1.4839999999999236,
+      "dialogue_text": "...en woede."
+    },
+    {
+      "subtitle_index": 381,
+      "start_time": 2527.721,
+      "end_time": 2529.729,
+      "duration": 2.007999999999811,
+      "dialogue_text": "De bomen zijn met elkaar aan het praten."
+    },
+    {
+      "subtitle_index": 382,
+      "start_time": 2530.852,
+      "end_time": 2532.046,
+      "duration": 1.19399999999996,
+      "dialogue_text": "Gimli!"
+    },
+    {
+      "subtitle_index": 383,
+      "start_time": 2532.528,
+      "end_time": 2534.054,
+      "duration": 1.5260000000002947,
+      "dialogue_text": "Doe je bijl omlaag."
+    },
+    {
+      "subtitle_index": 384,
+      "start_time": 2540.164,
+      "end_time": 2541.891,
+      "duration": 1.7269999999998618,
+      "dialogue_text": "Aragorn, er is daar iets!"
+    },
+    {
+      "subtitle_index": 385,
+      "start_time": 2548.795,
+      "end_time": 2550.4,
+      "duration": 1.6050000000000182,
+      "dialogue_text": "Wat zie je?"
+    },
+    {
+      "subtitle_index": 386,
+      "start_time": 2551.323,
+      "end_time": 2554.214,
+      "duration": 2.8910000000000764,
+      "dialogue_text": "De Witte Tovenaar nadert."
+    },
+    {
+      "subtitle_index": 387,
+      "start_time": 2559.954,
+      "end_time": 2563.245,
+      "duration": 3.2909999999997126,
+      "dialogue_text": "Laat hem niet spreken. Hij zal een spreuk op ons loslaten!"
+    },
+    {
+      "subtitle_index": 388,
+      "start_time": 2574.002,
+      "end_time": 2575.679,
+      "duration": 1.6770000000001346,
+      "dialogue_text": "We moeten snel zijn."
+    },
+    {
+      "subtitle_index": 389,
+      "start_time": 2591.664,
+      "end_time": 2595.157,
+      "duration": 3.492999999999938,
+      "dialogue_text": "Jullie volgen de sporen van twee jonge hobbits."
+    },
+    {
+      "subtitle_index": 390,
+      "start_time": 2595.959,
+      "end_time": 2597.274,
+      "duration": 1.3150000000000546,
+      "dialogue_text": "Waar zijn ze?"
+    },
+    {
+      "subtitle_index": 391,
+      "start_time": 2597.564,
+      "end_time": 2600.284,
+      "duration": 2.7200000000002547,
+      "dialogue_text": "Ze zijn eergisteren hier langs gekomen."
+    },
+    {
+      "subtitle_index": 392,
+      "start_time": 2601.498,
+      "end_time": 2604.298,
+      "duration": 2.799999999999727,
+      "dialogue_text": "Ze hebben iemand ontmoet die zij niet verwachtten."
+    },
+    {
+      "subtitle_index": 393,
+      "start_time": 2607.79,
+      "end_time": 2609.607,
+      "duration": 1.8170000000000073,
+      "dialogue_text": "Stelt dat je gerust?"
+    },
+    {
+      "subtitle_index": 394,
+      "start_time": 2611.614,
+      "end_time": 2613.139,
+      "duration": 1.525000000000091,
+      "dialogue_text": "Wie ben je? Kom tevoorschijn!"
+    },
+    {
+      "subtitle_index": 395,
+      "start_time": 2622.251,
+      "end_time": 2623.846,
+      "duration": 1.5949999999998,
+      "dialogue_text": "Dat kan niet!"
+    },
+    {
+      "subtitle_index": 396,
+      "start_time": 2634.012,
+      "end_time": 2635.617,
+      "duration": 1.6050000000000182,
+      "dialogue_text": "Je viel!"
+    },
+    {
+      "subtitle_index": 397,
+      "start_time": 2636.822,
+      "end_time": 2638.508,
+      "duration": 1.6859999999996944,
+      "dialogue_text": "Door vuur..."
+    },
+    {
+      "subtitle_index": 398,
+      "start_time": 2639.23,
+      "end_time": 2640.635,
+      "duration": 1.4050000000002,
+      "dialogue_text": "...en water."
+    },
+    {
+      "subtitle_index": 399,
+      "start_time": 2642.321,
+      "end_time": 2644.92,
+      "duration": 2.59900000000016,
+      "dialogue_text": "Van de diepste kerker tot de hoogste top..."
+    },
+    {
+      "subtitle_index": 400,
+      "start_time": 2645.051,
+      "end_time": 2647.941,
+      "duration": 2.8899999999998727,
+      "dialogue_text": "bestreed ik hem, de Balrog van Morgoth."
+    },
+    {
+      "subtitle_index": 401,
+      "start_time": 2664.599,
+      "end_time": 2667.329,
+      "duration": 2.730000000000018,
+      "dialogue_text": "Tot ik, uiteindelijk, mijn vijand versloeg..."
+    },
+    {
+      "subtitle_index": 402,
+      "start_time": 2667.409,
+      "end_time": 2671.142,
+      "duration": 3.73299999999972,
+      "dialogue_text": "...en zijn onderkomen op de berg vernietigde."
+    },
+    {
+      "subtitle_index": 403,
+      "start_time": 2677.965,
+      "end_time": 2680.374,
+      "duration": 2.4089999999996508,
+      "dialogue_text": "Duisternis omringde me..."
+    },
+    {
+      "subtitle_index": 404,
+      "start_time": 2681.176,
+      "end_time": 2685.19,
+      "duration": 4.014000000000124,
+      "dialogue_text": "...en ik gleed weg uit mijn geest en uit de tijd."
+    },
+    {
+      "subtitle_index": 405,
+      "start_time": 2686.074,
+      "end_time": 2688.883,
+      "duration": 2.8089999999997417,
+      "dialogue_text": "Sterren gleden voorbij..."
+    },
+    {
+      "subtitle_index": 406,
+      "start_time": 2689.284,
+      "end_time": 2693.901,
+      "duration": 4.616999999999734,
+      "dialogue_text": "...en elke dag was net zo lang als het bestaan van de aarde. Maar het was het einde niet."
+    },
+    {
+      "subtitle_index": 407,
+      "start_time": 2698.437,
+      "end_time": 2701.246,
+      "duration": 2.8090000000001965,
+      "dialogue_text": "Ik voelde het leven terugkomen."
+    },
+    {
+      "subtitle_index": 408,
+      "start_time": 2703.053,
+      "end_time": 2704.939,
+      "duration": 1.8859999999999673,
+      "dialogue_text": "Ik werd teruggestuurd..."
+    },
+    {
+      "subtitle_index": 409,
+      "start_time": 2705.542,
+      "end_time": 2707.548,
+      "duration": 2.005999999999858,
+      "dialogue_text": "...tot mijn taak is volbracht."
+    },
+    {
+      "subtitle_index": 410,
+      "start_time": 2707.869,
+      "end_time": 2709.155,
+      "duration": 1.2860000000000582,
+      "dialogue_text": "Gandalf!"
+    },
+    {
+      "subtitle_index": 411,
+      "start_time": 2710.358,
+      "end_time": 2711.883,
+      "duration": 1.5249999999996362,
+      "dialogue_text": "Gandalf?"
+    },
+    {
+      "subtitle_index": 412,
+      "start_time": 2712.968,
+      "end_time": 2714.091,
+      "duration": 1.1230000000000473,
+      "dialogue_text": "Oh ja."
+    },
+    {
+      "subtitle_index": 413,
+      "start_time": 2717.383,
+      "end_time": 2719.39,
+      "duration": 2.007000000000062,
+      "dialogue_text": "Zo werd ik altijd genoemd."
+    },
+    {
+      "subtitle_index": 414,
+      "start_time": 2722.2,
+      "end_time": 2723.925,
+      "duration": 1.7250000000003638,
+      "dialogue_text": "Gandalf de Grijze."
+    },
+    {
+      "subtitle_index": 415,
+      "start_time": 2725.612,
+      "end_time": 2727.538,
+      "duration": 1.9259999999999309,
+      "dialogue_text": "Dat was mijn naam."
+    },
+    {
+      "subtitle_index": 416,
+      "start_time": 2727.618,
+      "end_time": 2728.823,
+      "duration": 1.2049999999999272,
+      "dialogue_text": "Gandalf!"
+    },
+    {
+      "subtitle_index": 417,
+      "start_time": 2731.15,
+      "end_time": 2733.238,
+      "duration": 2.087999999999738,
+      "dialogue_text": "Ik heet nu Gandalf de Witte."
+    },
+    {
+      "subtitle_index": 418,
+      "start_time": 2736.249,
+      "end_time": 2738.456,
+      "duration": 2.2070000000003347,
+      "dialogue_text": "En ik keer nu naar jullie terug..."
+    },
+    {
+      "subtitle_index": 419,
+      "start_time": 2739.581,
+      "end_time": 2741.667,
+      "duration": 2.0859999999997854,
+      "dialogue_text": "bij het keren van het tij."
+    },
+    {
+      "subtitle_index": 420,
+      "start_time": 2741.988,
+      "end_time": 2744.999,
+      "duration": 3.0109999999999673,
+      "dialogue_text": "Een deel van de reis is voorbij, een volgend deel begint."
+    },
+    {
+      "subtitle_index": 421,
+      "start_time": 2745.28,
+      "end_time": 2749.414,
+      "duration": 4.1340000000000146,
+      "dialogue_text": "Oorlog is over Rohan gekomen. We moeten zo snel mogelijk naar Edoras."
+    },
+    {
+      "subtitle_index": 422,
+      "start_time": 2771.773,
+      "end_time": 2773.378,
+      "duration": 1.6050000000000182,
+      "dialogue_text": "Dat is een van de Mearas..."
+    },
+    {
+      "subtitle_index": 423,
+      "start_time": 2773.498,
+      "end_time": 2775.907,
+      "duration": 2.4090000000001055,
+      "dialogue_text": ".. of een vloek laat mijn ogen mij bedriegen."
+    },
+    {
+      "subtitle_index": 424,
+      "start_time": 2793.97,
+      "end_time": 2795.776,
+      "duration": 1.80600000000004,
+      "dialogue_text": "Schaduwvacht."
+    },
+    {
+      "subtitle_index": 425,
+      "start_time": 2798.586,
+      "end_time": 2800.673,
+      "duration": 2.086999999999989,
+      "dialogue_text": "Hij is de heer van alle paarden..."
+    },
+    {
+      "subtitle_index": 426,
+      "start_time": 2802.881,
+      "end_time": 2806.012,
+      "duration": 3.131000000000313,
+      "dialogue_text": "...en heeft als vriend heel wat gevaren met mij doorstaan."
+    },
+    {
+      "subtitle_index": 427,
+      "start_time": 2821.546,
+      "end_time": 2826.764,
+      "duration": 5.218000000000302,
+      "dialogue_text": "Mijn thuis. Ik slaap in dit woud."
+    },
+    {
+      "subtitle_index": 428,
+      "start_time": 2826.965,
+      "end_time": 2829.775,
+      "duration": 2.8099999999999454,
+      "dialogue_text": "Het begin van de bergen."
+    },
+    {
+      "subtitle_index": 429,
+      "start_time": 2832.304,
+      "end_time": 2835.796,
+      "duration": 3.4919999999997344,
+      "dialogue_text": "Ik heb Gandalf beloofd jullie te beschermen."
+    },
+    {
+      "subtitle_index": 430,
+      "start_time": 2835.997,
+      "end_time": 2839.609,
+      "duration": 3.61200000000008,
+      "dialogue_text": "En ik zal je in veiligheid houden."
+    },
+    {
+      "subtitle_index": 431,
+      "start_time": 2840.532,
+      "end_time": 2843.944,
+      "duration": 3.411999999999807,
+      "dialogue_text": "De bomen zijn wild en gevaarlijk geworden."
+    },
+    {
+      "subtitle_index": 432,
+      "start_time": 2845.028,
+      "end_time": 2848.039,
+      "duration": 3.011000000000422,
+      "dialogue_text": "Hun hart is vervuld van woede."
+    },
+    {
+      "subtitle_index": 433,
+      "start_time": 2848.36,
+      "end_time": 2851.049,
+      "duration": 2.688999999999851,
+      "dialogue_text": "Ze zullen je kwaad doen."
+    },
+    {
+      "subtitle_index": 434,
+      "start_time": 2851.972,
+      "end_time": 2854.582,
+      "duration": 2.6099999999996726,
+      "dialogue_text": "Er zijn er nog te weinig van ons over."
+    },
+    {
+      "subtitle_index": 435,
+      "start_time": 2855.264,
+      "end_time": 2859.198,
+      "duration": 3.9339999999997417,
+      "dialogue_text": "Te weinig om ze de baas te kunnen."
+    },
+    {
+      "subtitle_index": 436,
+      "start_time": 2867.707,
+      "end_time": 2871.44,
+      "duration": 3.7330000000001746,
+      "dialogue_text": "De Zwarte Poort van Mordor."
+    },
+    {
+      "subtitle_index": 437,
+      "start_time": 2883.883,
+      "end_time": 2887.376,
+      "duration": 3.493000000000393,
+      "dialogue_text": "Mijn ouwe baas zou zijn woordje wel klaar hebben als hij dit zag."
+    },
+    {
+      "subtitle_index": 438,
+      "start_time": 2889.584,
+      "end_time": 2893.999,
+      "duration": 4.414999999999964,
+      "dialogue_text": "Meester zegt, wijs hem de weg naar Mordor."
+    },
+    {
+      "subtitle_index": 439,
+      "start_time": 2893.999,
+      "end_time": 2897.732,
+      "duration": 3.7330000000001746,
+      "dialogue_text": "Dus goeie ouwe Sméagol doet wat meester zegt."
+    },
+    {
+      "subtitle_index": 440,
+      "start_time": 2897.812,
+      "end_time": 2899.016,
+      "duration": 1.2040000000001783,
+      "dialogue_text": "Dat heb ik gedaan."
+    },
+    {
+      "subtitle_index": 441,
+      "start_time": 2911.259,
+      "end_time": 2912.865,
+      "duration": 1.6059999999997672,
+      "dialogue_text": "We kunnen er niet langs."
+    },
+    {
+      "subtitle_index": 442,
+      "start_time": 2957.821,
+      "end_time": 2958.825,
+      "duration": 1.0039999999999054,
+      "dialogue_text": "Kijk!"
+    },
+    {
+      "subtitle_index": 443,
+      "start_time": 2959.226,
+      "end_time": 2961.756,
+      "duration": 2.5299999999997453,
+      "dialogue_text": "De poort gaat open!"
+    },
+    {
+      "subtitle_index": 444,
+      "start_time": 2969.663,
+      "end_time": 2971.188,
+      "duration": 1.525000000000091,
+      "dialogue_text": "Ik zie een weg er doorheen."
+    },
+    {
+      "subtitle_index": 445,
+      "start_time": 2972.271,
+      "end_time": 2973.797,
+      "duration": 1.52599999999984,
+      "dialogue_text": "Sam! Nee!"
+    },
+    {
+      "subtitle_index": 446,
+      "start_time": 2976.687,
+      "end_time": 2977.892,
+      "duration": 1.2049999999999272,
+      "dialogue_text": "Meester!"
+    },
+    {
+      "subtitle_index": 447,
+      "start_time": 3061.905,
+      "end_time": 3064.995,
+      "duration": 3.0899999999996908,
+      "dialogue_text": "Je hoeft niet met me mee te gaan, Sam. - Ik weet het meester Frodo."
+    },
+    {
+      "subtitle_index": 448,
+      "start_time": 3066.32,
+      "end_time": 3068.929,
+      "duration": 2.6089999999999236,
+      "dialogue_text": "Ik vraag me af of deze Elfenmantels zullen helpen."
+    },
+    {
+      "subtitle_index": 449,
+      "start_time": 3069.933,
+      "end_time": 3071.136,
+      "duration": 1.2029999999999745,
+      "dialogue_text": "Nu!"
+    },
+    {
+      "subtitle_index": 450,
+      "start_time": 3072.421,
+      "end_time": 3074.147,
+      "duration": 1.7260000000001128,
+      "dialogue_text": "Nee! Nee! Nee, meester!"
+    },
+    {
+      "subtitle_index": 451,
+      "start_time": 3074.428,
+      "end_time": 3076.957,
+      "duration": 2.5289999999999964,
+      "dialogue_text": "Ze zullen u pakken! Ze pakken u."
+    },
+    {
+      "subtitle_index": 452,
+      "start_time": 3078.964,
+      "end_time": 3081.974,
+      "duration": 3.0100000000002183,
+      "dialogue_text": "Breng het niet naar Hem."
+    },
+    {
+      "subtitle_index": 453,
+      "start_time": 3084.383,
+      "end_time": 3086.47,
+      "duration": 2.086999999999989,
+      "dialogue_text": "Hij wil de Lieveling."
+    },
+    {
+      "subtitle_index": 454,
+      "start_time": 3086.871,
+      "end_time": 3089.882,
+      "duration": 3.0109999999999673,
+      "dialogue_text": "Hij zoekt het altijd!"
+    },
+    {
+      "subtitle_index": 455,
+      "start_time": 3090.283,
+      "end_time": 3093.816,
+      "duration": 3.5329999999999018,
+      "dialogue_text": "En de Lieveling wil naar hem terugkeren."
+    },
+    {
+      "subtitle_index": 456,
+      "start_time": 3094.699,
+      "end_time": 3098.432,
+      "duration": 3.73299999999972,
+      "dialogue_text": "Maar hij moet het niet krijgen."
+    },
+    {
+      "subtitle_index": 457,
+      "start_time": 3104.533,
+      "end_time": 3105.938,
+      "duration": 1.4050000000002,
+      "dialogue_text": "Nee!"
+    },
+    {
+      "subtitle_index": 458,
+      "start_time": 3106.058,
+      "end_time": 3109.871,
+      "duration": 3.813000000000102,
+      "dialogue_text": "Er is nog een weg. Een geheime en donkere weg."
+    },
+    {
+      "subtitle_index": 459,
+      "start_time": 3110.152,
+      "end_time": 3112.08,
+      "duration": 1.9279999999998836,
+      "dialogue_text": "Waarom heb je dat niet eerder gezegd?"
+    },
+    {
+      "subtitle_index": 460,
+      "start_time": 3112.16,
+      "end_time": 3114.166,
+      "duration": 2.006000000000313,
+      "dialogue_text": "Omdat meester het niet vroeg!"
+    },
+    {
+      "subtitle_index": 461,
+      "start_time": 3114.287,
+      "end_time": 3115.893,
+      "duration": 1.606000000000222,
+      "dialogue_text": "Hij is iets van plan."
+    },
+    {
+      "subtitle_index": 462,
+      "start_time": 3115.973,
+      "end_time": 3118.18,
+      "duration": 2.20699999999988,
+      "dialogue_text": "Bedoel je dat er een andere weg naar Mordor is?"
+    },
+    {
+      "subtitle_index": 463,
+      "start_time": 3118.783,
+      "end_time": 3119.987,
+      "duration": 1.2040000000001783,
+      "dialogue_text": "Ja."
+    },
+    {
+      "subtitle_index": 464,
+      "start_time": 3120.107,
+      "end_time": 3121.592,
+      "duration": 1.4850000000001273,
+      "dialogue_text": "Er is een pad..."
+    },
+    {
+      "subtitle_index": 465,
+      "start_time": 3121.713,
+      "end_time": 3124.001,
+      "duration": 2.288000000000011,
+      "dialogue_text": "...en er zijn trappen."
+    },
+    {
+      "subtitle_index": 466,
+      "start_time": 3124.121,
+      "end_time": 3126.008,
+      "duration": 1.8869999999997162,
+      "dialogue_text": "En dan..."
+    },
+    {
+      "subtitle_index": 467,
+      "start_time": 3127.212,
+      "end_time": 3128.938,
+      "duration": 1.7260000000001128,
+      "dialogue_text": "...een tunnel."
+    },
+    {
+      "subtitle_index": 468,
+      "start_time": 3143.67,
+      "end_time": 3145.597,
+      "duration": 1.9270000000001346,
+      "dialogue_text": "Hij heeft ons ook tot hier gebracht, Sam."
+    },
+    {
+      "subtitle_index": 469,
+      "start_time": 3145.677,
+      "end_time": 3147.603,
+      "duration": 1.9259999999999309,
+      "dialogue_text": "Meester Frodo, nee!"
+    },
+    {
+      "subtitle_index": 470,
+      "start_time": 3148.285,
+      "end_time": 3149.811,
+      "duration": 1.5260000000002947,
+      "dialogue_text": "Hij is z'n woord nagekomen"
+    },
+    {
+      "subtitle_index": 471,
+      "start_time": 3154.628,
+      "end_time": 3155.631,
+      "duration": 1.0029999999997017,
+      "dialogue_text": "Nee!"
+    },
+    {
+      "subtitle_index": 472,
+      "start_time": 3157.839,
+      "end_time": 3159.525,
+      "duration": 1.6860000000001492,
+      "dialogue_text": "Ga maar voor, Sméagol."
+    },
+    {
+      "subtitle_index": 473,
+      "start_time": 3160.046,
+      "end_time": 3163.338,
+      "duration": 3.292000000000371,
+      "dialogue_text": "Goede Sméagol altijd helpen."
+    },
+    {
+      "subtitle_index": 474,
+      "start_time": 3190.553,
+      "end_time": 3194.366,
+      "duration": 3.813000000000102,
+      "dialogue_text": "Edoras en de Gouden Hal van Meduseld"
+    },
+    {
+      "subtitle_index": 475,
+      "start_time": 3195.249,
+      "end_time": 3197.858,
+      "duration": 2.6090000000003783,
+      "dialogue_text": "Hier woont de koning van Rohan..."
+    },
+    {
+      "subtitle_index": 476,
+      "start_time": 3198.46,
+      "end_time": 3200.789,
+      "duration": 2.3290000000001783,
+      "dialogue_text": "...die gehersenspoeld is..."
+    },
+    {
+      "subtitle_index": 477,
+      "start_time": 3201.391,
+      "end_time": 3205.084,
+      "duration": 3.6929999999997563,
+      "dialogue_text": "en Saruman's macht over Koning Théoden is nu erg sterk."
+    },
+    {
+      "subtitle_index": 478,
+      "start_time": 3206.288,
+      "end_time": 3208.897,
+      "duration": 2.6089999999999236,
+      "dialogue_text": "Hoogheid, uw zoon..."
+    },
+    {
+      "subtitle_index": 479,
+      "start_time": 3209.82,
+      "end_time": 3211.506,
+      "duration": 1.6859999999996944,
+      "dialogue_text": "...is dood."
+    },
+    {
+      "subtitle_index": 480,
+      "start_time": 3213.433,
+      "end_time": 3215.039,
+      "duration": 1.606000000000222,
+      "dialogue_text": "Mijn heer?"
+    },
+    {
+      "subtitle_index": 481,
+      "start_time": 3216.524,
+      "end_time": 3217.727,
+      "duration": 1.2029999999999745,
+      "dialogue_text": "Oom?"
+    },
+    {
+      "subtitle_index": 482,
+      "start_time": 3224.551,
+      "end_time": 3226.358,
+      "duration": 1.8070000000002437,
+      "dialogue_text": "Ga je niet naar hem toe?"
+    },
+    {
+      "subtitle_index": 483,
+      "start_time": 3230.091,
+      "end_time": 3232.098,
+      "duration": 2.007000000000062,
+      "dialogue_text": "Doe je niets?"
+    },
+    {
+      "subtitle_index": 484,
+      "start_time": 3232.7,
+      "end_time": 3234.507,
+      "duration": 1.8070000000002437,
+      "dialogue_text": "Wees voorzichtig met wat je zegt."
+    },
+    {
+      "subtitle_index": 485,
+      "start_time": 3234.707,
+      "end_time": 3236.714,
+      "duration": 2.007000000000062,
+      "dialogue_text": "Verwacht geen warm welkom."
+    },
+    {
+      "subtitle_index": 486,
+      "start_time": 3261.28,
+      "end_time": 3264.893,
+      "duration": 3.612999999999829,
+      "dialogue_text": "Hij moet tijdens de nacht gestorven zijn."
+    },
+    {
+      "subtitle_index": 487,
+      "start_time": 3265.294,
+      "end_time": 3268.023,
+      "duration": 2.729000000000269,
+      "dialogue_text": "Wat een tragedie voor de koning..."
+    },
+    {
+      "subtitle_index": 488,
+      "start_time": 3268.104,
+      "end_time": 3270.712,
+      "duration": 2.6080000000001746,
+      "dialogue_text": "...om zijn zoon en erfgenaam te verliezen."
+    },
+    {
+      "subtitle_index": 489,
+      "start_time": 3271.836,
+      "end_time": 3276.533,
+      "duration": 4.697000000000116,
+      "dialogue_text": "Ik begrijp dat zijn heengaan moeilijk te accepteren is..."
+    },
+    {
+      "subtitle_index": 490,
+      "start_time": 3276.854,
+      "end_time": 3281.149,
+      "duration": 4.295000000000073,
+      "dialogue_text": "...zeker nu je broer je in de steek heeft gelaten."
+    },
+    {
+      "subtitle_index": 491,
+      "start_time": 3281.55,
+      "end_time": 3283.156,
+      "duration": 1.6059999999997672,
+      "dialogue_text": "Laat me alleen, slang!"
+    },
+    {
+      "subtitle_index": 492,
+      "start_time": 3284.481,
+      "end_time": 3286.367,
+      "duration": 1.8859999999999673,
+      "dialogue_text": "Oh, maar je bent alleen."
+    },
+    {
+      "subtitle_index": 493,
+      "start_time": 3287.893,
+      "end_time": 3292.107,
+      "duration": 4.213999999999942,
+      "dialogue_text": "Wie weet wat je in het duister wel niet gezegd hebt."
+    },
+    {
+      "subtitle_index": 494,
+      "start_time": 3292.91,
+      "end_time": 3295.72,
+      "duration": 2.8099999999999454,
+      "dialogue_text": "De moeilijke uren tijdens de nacht..."
+    },
+    {
+      "subtitle_index": 495,
+      "start_time": 3296.402,
+      "end_time": 3299.614,
+      "duration": 3.211999999999989,
+      "dialogue_text": "...als je leven lijkt weg te smelten."
+    },
+    {
+      "subtitle_index": 496,
+      "start_time": 3300.216,
+      "end_time": 3304.23,
+      "duration": 4.014000000000124,
+      "dialogue_text": "Als de muren..."
+    },
+    {
+      "subtitle_index": 497,
+      "start_time": 3304.751,
+      "end_time": 3307.762,
+      "duration": 3.0109999999999673,
+      "dialogue_text": "...op je af komen."
+    },
+    {
+      "subtitle_index": 498,
+      "start_time": 3309.568,
+      "end_time": 3311.375,
+      "duration": 1.806999999999789,
+      "dialogue_text": "Zo kil."
+    },
+    {
+      "subtitle_index": 499,
+      "start_time": 3312.98,
+      "end_time": 3314.666,
+      "duration": 1.6860000000001492,
+      "dialogue_text": "Zo koud."
+    },
+    {
+      "subtitle_index": 500,
+      "start_time": 3315.669,
+      "end_time": 3318.801,
+      "duration": 3.132000000000062,
+      "dialogue_text": "als een lenteochtend..."
+    },
+    {
+      "subtitle_index": 501,
+      "start_time": 3318.881,
+      "end_time": 3321.409,
+      "duration": 2.5280000000002474,
+      "dialogue_text": "...die vasthoudt aan de winter."
+    },
+    {
+      "subtitle_index": 502,
+      "start_time": 3335.458,
+      "end_time": 3337.867,
+      "duration": 2.4090000000001055,
+      "dialogue_text": "Je woorden zijn als gif."
+    },
+    {
+      "subtitle_index": 503,
+      "start_time": 3430.59,
+      "end_time": 3433.601,
+      "duration": 3.0109999999999673,
+      "dialogue_text": "Deze plek is net zo opbeurend als een kerkhof."
+    },
+    {
+      "subtitle_index": 504,
+      "start_time": 3447.73,
+      "end_time": 3451.744,
+      "duration": 4.014000000000124,
+      "dialogue_text": "Zo gewapend kan ik je niet toelaten bij koning Théoden, Gandalf."
+    },
+    {
+      "subtitle_index": 505,
+      "start_time": 3452.868,
+      "end_time": 3455.759,
+      "duration": 2.8910000000000764,
+      "dialogue_text": "Orders van Grimá Slangtong."
+    },
+    {
+      "subtitle_index": 506,
+      "start_time": 3472.818,
+      "end_time": 3474.222,
+      "duration": 1.4039999999999964,
+      "dialogue_text": "Je staf."
+    },
+    {
+      "subtitle_index": 507,
+      "start_time": 3477.835,
+      "end_time": 3481.166,
+      "duration": 3.331000000000131,
+      "dialogue_text": "Oh nee, je wil een oude man toch niet zijn wandelstok afnemen?"
+    },
+    {
+      "subtitle_index": 508,
+      "start_time": 3500.313,
+      "end_time": 3503.324,
+      "duration": 3.0109999999999673,
+      "dialogue_text": "Mijn heer. Gandalf de Grijze is hier."
+    },
+    {
+      "subtitle_index": 509,
+      "start_time": 3511.553,
+      "end_time": 3513.359,
+      "duration": 1.80600000000004,
+      "dialogue_text": "Boodschapper van rampspoed."
+    },
+    {
+      "subtitle_index": 510,
+      "start_time": 3513.56,
+      "end_time": 3518.176,
+      "duration": 4.6159999999999854,
+      "dialogue_text": "De hoflijkheid is hier wel achteruit gegaan sinds..."
+    },
+    {
+      "subtitle_index": 511,
+      "start_time": 3518.778,
+      "end_time": 3520.584,
+      "duration": 1.80600000000004,
+      "dialogue_text": "...koning Théoden."
+    },
+    {
+      "subtitle_index": 512,
+      "start_time": 3521.187,
+      "end_time": 3522.992,
+      "duration": 1.805000000000291,
+      "dialogue_text": "Hij is niet welkom."
+    },
+    {
+      "subtitle_index": 513,
+      "start_time": 3524.598,
+      "end_time": 3529.536,
+      "duration": 4.938000000000102,
+      "dialogue_text": "Waarom zou ik u verwelkomen..."
+    },
+    {
+      "subtitle_index": 514,
+      "start_time": 3530.218,
+      "end_time": 3533.83,
+      "duration": 3.61200000000008,
+      "dialogue_text": "...Gandalf, Gandalf Stormkraai?"
+    },
+    {
+      "subtitle_index": 515,
+      "start_time": 3534.232,
+      "end_time": 3537.242,
+      "duration": 3.0100000000002183,
+      "dialogue_text": "Een uitstekende vraag mijn heer."
+    },
+    {
+      "subtitle_index": 516,
+      "start_time": 3537.563,
+      "end_time": 3540.454,
+      "duration": 2.8910000000000764,
+      "dialogue_text": "Donker is het uur..."
+    },
+    {
+      "subtitle_index": 517,
+      "start_time": 3540.574,
+      "end_time": 3545.07,
+      "duration": 4.496000000000095,
+      "dialogue_text": "...waarop deze tovenaar verschijnt."
+    },
+    {
+      "subtitle_index": 518,
+      "start_time": 3545.471,
+      "end_time": 3547.477,
+      "duration": 2.005999999999858,
+      "dialogue_text": "Doembrenger noem ik hem."
+    },
+    {
+      "subtitle_index": 519,
+      "start_time": 3547.599,
+      "end_time": 3550.689,
+      "duration": 3.0899999999996908,
+      "dialogue_text": "Slecht nieuws is een slechte gast."
+    },
+    {
+      "subtitle_index": 520,
+      "start_time": 3550.809,
+      "end_time": 3554.703,
+      "duration": 3.893999999999778,
+      "dialogue_text": "Stilte! Houd je gespleten tong achter je tanden."
+    },
+    {
+      "subtitle_index": 521,
+      "start_time": 3555.506,
+      "end_time": 3558.436,
+      "duration": 2.930000000000291,
+      "dialogue_text": "Ik ben hier niet om te redetwisten..."
+    },
+    {
+      "subtitle_index": 522,
+      "start_time": 3558.516,
+      "end_time": 3561.527,
+      "duration": 3.0109999999999673,
+      "dialogue_text": "...met een hersenloze worm."
+    },
+    {
+      "subtitle_index": 523,
+      "start_time": 3561.848,
+      "end_time": 3563.334,
+      "duration": 1.4859999999998763,
+      "dialogue_text": "Je staf."
+    },
+    {
+      "subtitle_index": 524,
+      "start_time": 3563.936,
+      "end_time": 3567.548,
+      "duration": 3.6119999999996253,
+      "dialogue_text": "Ik heb je gezegd de staf van de tovenaar te nemen!"
+    },
+    {
+      "subtitle_index": 525,
+      "start_time": 3571.562,
+      "end_time": 3573.167,
+      "duration": 1.6050000000000182,
+      "dialogue_text": "Théoden..."
+    },
+    {
+      "subtitle_index": 526,
+      "start_time": 3574.09,
+      "end_time": 3576.178,
+      "duration": 2.087999999999738,
+      "dialogue_text": "...zoon van Thengel..."
+    },
+    {
+      "subtitle_index": 527,
+      "start_time": 3578.386,
+      "end_time": 3581.115,
+      "duration": 2.7289999999998145,
+      "dialogue_text": ".. te lang ben je verbleven in de schaduwen."
+    },
+    {
+      "subtitle_index": 528,
+      "start_time": 3583.925,
+      "end_time": 3587.217,
+      "duration": 3.2919999999999163,
+      "dialogue_text": "Ik zou me maar rustig houden..."
+    },
+    {
+      "subtitle_index": 529,
+      "start_time": 3587.337,
+      "end_time": 3588.541,
+      "duration": 1.2040000000001783,
+      "dialogue_text": "...als ik jou was!"
+    },
+    {
+      "subtitle_index": 530,
+      "start_time": 3594.843,
+      "end_time": 3596.769,
+      "duration": 1.9259999999999309,
+      "dialogue_text": "Ik zal je bevrijden..."
+    },
+    {
+      "subtitle_index": 531,
+      "start_time": 3597.171,
+      "end_time": 3598.978,
+      "duration": 1.8070000000002437,
+      "dialogue_text": "...van de betovering."
+    },
+    {
+      "subtitle_index": 532,
+      "start_time": 3610.498,
+      "end_time": 3613.629,
+      "duration": 3.130999999999858,
+      "dialogue_text": "Je hebt hier geen krachten..."
+    },
+    {
+      "subtitle_index": 533,
+      "start_time": 3613.91,
+      "end_time": 3616.72,
+      "duration": 2.8099999999999454,
+      "dialogue_text": "...Gandalf de Grijze."
+    },
+    {
+      "subtitle_index": 534,
+      "start_time": 3622.74,
+      "end_time": 3628.08,
+      "duration": 5.3400000000001455,
+      "dialogue_text": "Ik zal je verwijderen, Saruman, als gif dat uit een wond wordt gezogen."
+    },
+    {
+      "subtitle_index": 535,
+      "start_time": 3628.16,
+      "end_time": 3629.564,
+      "duration": 1.4039999999999964,
+      "dialogue_text": "Wacht."
+    },
+    {
+      "subtitle_index": 536,
+      "start_time": 3640.523,
+      "end_time": 3644.416,
+      "duration": 3.893000000000029,
+      "dialogue_text": "Als ik ga, zal Théoden sterven."
+    },
+    {
+      "subtitle_index": 537,
+      "start_time": 3645.219,
+      "end_time": 3647.025,
+      "duration": 1.80600000000004,
+      "dialogue_text": "Je hebt mij niet vermoord..."
+    },
+    {
+      "subtitle_index": 538,
+      "start_time": 3647.347,
+      "end_time": 3649.754,
+      "duration": 2.406999999999698,
+      "dialogue_text": "...en dus hem ook niet."
+    },
+    {
+      "subtitle_index": 539,
+      "start_time": 3653.367,
+      "end_time": 3655.575,
+      "duration": 2.207999999999629,
+      "dialogue_text": "Rohan is van mij!"
+    }
+  ]
+}

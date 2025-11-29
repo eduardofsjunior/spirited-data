@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "film_name": "Film1",
+    "film_slug": "film1_ja",
+    "language_code": "ja",
+    "total_subtitles": 1,
+    "total_duration": 1.0,
+    "parse_timestamp": "2025-11-17T18:08:10.511387"
+  },
+  "subtitles": [
+    {
+      "subtitle_index": 1,
+      "start_time": 0.0,
+      "end_time": 1.0,
+      "duration": 1.0,
+      "dialogue_text": "Test"
+    }
+  ]
+}

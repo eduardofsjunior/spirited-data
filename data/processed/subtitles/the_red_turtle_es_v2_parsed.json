@@ -1,0 +1,4800 @@
+{
+  "metadata": {
+    "film_name": "The Red Turtle V2",
+    "film_slug": "the_red_turtle_es_v2",
+    "language_code": "es",
+    "total_subtitles": 684,
+    "total_duration": 5481.530000000001,
+    "parse_timestamp": "2025-11-18T12:08:12.308074"
+  },
+  "subtitles": [
+    {
+      "subtitle_index": 1,
+      "start_time": 45.61,
+      "end_time": 47.89,
+      "duration": 2.280000000000001,
+      "dialogue_text": "La Gran Muralla China ha resaltado como una de las maravillas"
+    },
+    {
+      "subtitle_index": 2,
+      "start_time": 47.91,
+      "end_time": 49.71,
+      "duration": 1.8000000000000043,
+      "dialogue_text": "más duraderas de la humanidad."
+    },
+    {
+      "subtitle_index": 3,
+      "start_time": 63.01,
+      "end_time": 67.02,
+      "duration": 4.009999999999998,
+      "dialogue_text": "Se extiende por más de 5500 millas y su construcción tomó más de 1 700 años."
+    },
+    {
+      "subtitle_index": 4,
+      "start_time": 72.94,
+      "end_time": 77.03,
+      "duration": 4.090000000000003,
+      "dialogue_text": "Ha protegido de varios peligros. Algunos son conocidos. Otros leyenda."
+    },
+    {
+      "subtitle_index": 5,
+      "start_time": 78.61,
+      "end_time": 81.07,
+      "duration": 2.4599999999999937,
+      "dialogue_text": "Esta es una de las leyendas."
+    },
+    {
+      "subtitle_index": 6,
+      "start_time": 106.39,
+      "end_time": 111.27,
+      "duration": 4.8799999999999955,
+      "dialogue_text": "La Gran Muralla."
+    },
+    {
+      "subtitle_index": 7,
+      "start_time": 151.56,
+      "end_time": 153.48,
+      "duration": 1.9199999999999875,
+      "dialogue_text": "¡Corta la cuerda de los caballos!"
+    },
+    {
+      "subtitle_index": 8,
+      "start_time": 205.53,
+      "end_time": 206.66,
+      "duration": 1.1299999999999955,
+      "dialogue_text": "Tenémos que regresar."
+    },
+    {
+      "subtitle_index": 9,
+      "start_time": 207.49,
+      "end_time": 210.7,
+      "duration": 3.2099999999999795,
+      "dialogue_text": "Hemos estado asi por seis meses y hemos perdido a 20 hombres."
+    },
+    {
+      "subtitle_index": 10,
+      "start_time": 211.16,
+      "end_time": 213.58,
+      "duration": 2.420000000000016,
+      "dialogue_text": "- Pero hemos sobrevivido. - Si, de milagro."
+    },
+    {
+      "subtitle_index": 11,
+      "start_time": 214.79,
+      "end_time": 217.19,
+      "duration": 2.4000000000000057,
+      "dialogue_text": "Cualquiera de nosotros podria haber corrido el mismo destino."
+    },
+    {
+      "subtitle_index": 12,
+      "start_time": 218.25,
+      "end_time": 219.25,
+      "duration": 1.0,
+      "dialogue_text": "Somos los más fuertes."
+    },
+    {
+      "subtitle_index": 13,
+      "start_time": 220.63,
+      "end_time": 222.19,
+      "duration": 1.5600000000000023,
+      "dialogue_text": "Recuerda la razón por la que estás aquí."
+    },
+    {
+      "subtitle_index": 14,
+      "start_time": 222.21,
+      "end_time": 224.3,
+      "duration": 2.0900000000000034,
+      "dialogue_text": "En el oeste seriamos enemigos y tendría que matarte."
+    },
+    {
+      "subtitle_index": 15,
+      "start_time": 226.38,
+      "end_time": 228.05,
+      "duration": 1.670000000000016,
+      "dialogue_text": "Al menos aquí tenemos un objetivo común."
+    },
+    {
+      "subtitle_index": 16,
+      "start_time": 228.85,
+      "end_time": 230.51,
+      "duration": 1.6599999999999966,
+      "dialogue_text": "Si. El polvo negro."
+    },
+    {
+      "subtitle_index": 17,
+      "start_time": 231.81,
+      "end_time": 233.35,
+      "duration": 1.539999999999992,
+      "dialogue_text": "Transforma el aire en fuego."
+    },
+    {
+      "subtitle_index": 18,
+      "start_time": 234.48,
+      "end_time": 236.08,
+      "duration": 1.6000000000000227,
+      "dialogue_text": "Y mata a una docena de hombres a la vez."
+    },
+    {
+      "subtitle_index": 19,
+      "start_time": 236.56,
+      "end_time": 239.77,
+      "duration": 3.210000000000008,
+      "dialogue_text": "- Es el arma de nuestro sueño. - ¿Y que si no significa nada?"
+    },
+    {
+      "subtitle_index": 20,
+      "start_time": 240.77,
+      "end_time": 242.67,
+      "duration": 1.8999999999999773,
+      "dialogue_text": "Mis hombres han enviado señales de que es real."
+    },
+    {
+      "subtitle_index": 21,
+      "start_time": 242.69,
+      "end_time": 243.69,
+      "duration": 1.0,
+      "dialogue_text": "Y están muertos."
+    },
+    {
+      "subtitle_index": 22,
+      "start_time": 244.61,
+      "end_time": 245.61,
+      "duration": 1.0,
+      "dialogue_text": "Seremos los siguientes."
+    },
+    {
+      "subtitle_index": 23,
+      "start_time": 246.28,
+      "end_time": 248.16,
+      "duration": 1.8799999999999955,
+      "dialogue_text": "No tenemos mapa, ni medicina."
+    },
+    {
+      "subtitle_index": 24,
+      "start_time": 249.16,
+      "end_time": 250.16,
+      "duration": 1.0,
+      "dialogue_text": "O comida."
+    },
+    {
+      "subtitle_index": 25,
+      "start_time": 250.41,
+      "end_time": 251.62,
+      "duration": 1.210000000000008,
+      "dialogue_text": "Nadíe va a regresar."
+    },
+    {
+      "subtitle_index": 26,
+      "start_time": 253.12,
+      "end_time": 254.66,
+      "duration": 1.539999999999992,
+      "dialogue_text": "Tomaremos lo que nos queda."
+    },
+    {
+      "subtitle_index": 27,
+      "start_time": 256.21,
+      "end_time": 257.49,
+      "duration": 1.2800000000000296,
+      "dialogue_text": "Y terminaremos lo que empezamos."
+    },
+    {
+      "subtitle_index": 28,
+      "start_time": 258.67,
+      "end_time": 259.67,
+      "duration": 1.0,
+      "dialogue_text": "No queda mucho."
+    },
+    {
+      "subtitle_index": 29,
+      "start_time": 261.63,
+      "end_time": 264.31,
+      "duration": 2.680000000000007,
+      "dialogue_text": "La luna está fuerte. Cuando los caballos estén frescos, avanzaremos."
+    },
+    {
+      "subtitle_index": 30,
+      "start_time": 264.84,
+      "end_time": 265.84,
+      "duration": 1.0,
+      "dialogue_text": "¿A dónde?"
+    },
+    {
+      "subtitle_index": 31,
+      "start_time": 265.97,
+      "end_time": 266.97,
+      "duration": 1.0,
+      "dialogue_text": "Norte."
+    },
+    {
+      "subtitle_index": 32,
+      "start_time": 267.38,
+      "end_time": 269.7,
+      "duration": 2.319999999999993,
+      "dialogue_text": "Los llevaremos tras nosotros y los mataremos en la montaña."
+    },
+    {
+      "subtitle_index": 33,
+      "start_time": 270.6,
+      "end_time": 272.1,
+      "duration": 1.5,
+      "dialogue_text": "El imán..."
+    },
+    {
+      "subtitle_index": 34,
+      "start_time": 274.02,
+      "end_time": 275.02,
+      "duration": 1.0,
+      "dialogue_text": "Muy pesado."
+    },
+    {
+      "subtitle_index": 35,
+      "start_time": 275.68,
+      "end_time": 277.19,
+      "duration": 1.509999999999991,
+      "dialogue_text": "- Lnútil. - Lo llevaré."
+    },
+    {
+      "subtitle_index": 36,
+      "start_time": 279.35,
+      "end_time": 280.44,
+      "duration": 1.089999999999975,
+      "dialogue_text": "Es todo tuyo."
+    },
+    {
+      "subtitle_index": 37,
+      "start_time": 286.4,
+      "end_time": 289.08,
+      "duration": 2.680000000000007,
+      "dialogue_text": "Amigo solo tú tuviste la curiosidad de traer un magneto al desierto."
+    },
+    {
+      "subtitle_index": 38,
+      "start_time": 289.2,
+      "end_time": 290.64,
+      "duration": 1.4399999999999977,
+      "dialogue_text": "Puedo usarlo para hacer una brújula."
+    },
+    {
+      "subtitle_index": 39,
+      "start_time": 293.2,
+      "end_time": 294.99,
+      "duration": 1.7900000000000205,
+      "dialogue_text": "Escúchame cuidadosamente."
+    },
+    {
+      "subtitle_index": 40,
+      "start_time": 296.12,
+      "end_time": 299.54,
+      "duration": 3.420000000000016,
+      "dialogue_text": "La herida que tiene se infesta. Estaremos arrastrando cadáveres."
+    },
+    {
+      "subtitle_index": 41,
+      "start_time": 300.08,
+      "end_time": 301.08,
+      "duration": 1.0,
+      "dialogue_text": "¡Oí eso!"
+    },
+    {
+      "subtitle_index": 42,
+      "start_time": 303.09,
+      "end_time": 304.69,
+      "duration": 1.6000000000000227,
+      "dialogue_text": "Tienen el derecho de morir donde quiera."
+    },
+    {
+      "subtitle_index": 43,
+      "start_time": 307.05,
+      "end_time": 308.77,
+      "duration": 1.7199999999999704,
+      "dialogue_text": "He estado a punto de morir en dos ocasiones."
+    },
+    {
+      "subtitle_index": 44,
+      "start_time": 308.8,
+      "end_time": 309.84,
+      "duration": 1.0399999999999636,
+      "dialogue_text": "¿Tuviste suerte?"
+    },
+    {
+      "subtitle_index": 45,
+      "start_time": 310.43,
+      "end_time": 312.05,
+      "duration": 1.6200000000000045,
+      "dialogue_text": "Si, las personas que me abandonaron."
+    },
+    {
+      "subtitle_index": 46,
+      "start_time": 338.75,
+      "end_time": 339.87,
+      "duration": 1.1200000000000045,
+      "dialogue_text": "¿Dónde están?"
+    },
+    {
+      "subtitle_index": 47,
+      "start_time": 352.55,
+      "end_time": 353.55,
+      "duration": 1.0,
+      "dialogue_text": "¿Ruge?"
+    },
+    {
+      "subtitle_index": 48,
+      "start_time": 354.55,
+      "end_time": 355.6,
+      "duration": 1.0500000000000114,
+      "dialogue_text": "No es un hombre."
+    },
+    {
+      "subtitle_index": 49,
+      "start_time": 357.31,
+      "end_time": 358.31,
+      "duration": 1.0,
+      "dialogue_text": "¿Entonces, que es?"
+    },
+    {
+      "subtitle_index": 50,
+      "start_time": 359.27,
+      "end_time": 362.31,
+      "duration": 3.0400000000000205,
+      "dialogue_text": "Lo que sea... ¡está aquí!"
+    },
+    {
+      "subtitle_index": 51,
+      "start_time": 373.45,
+      "end_time": 374.37,
+      "duration": 0.9200000000000159,
+      "dialogue_text": "¿Qué fue eso?"
+    },
+    {
+      "subtitle_index": 52,
+      "start_time": 374.45,
+      "end_time": 375.66,
+      "duration": 1.2100000000000364,
+      "dialogue_text": "No lo sé."
+    },
+    {
+      "subtitle_index": 53,
+      "start_time": 376.37,
+      "end_time": 377.37,
+      "duration": 1.0,
+      "dialogue_text": "Tomé la oportunidad."
+    },
+    {
+      "subtitle_index": 54,
+      "start_time": 377.79,
+      "end_time": 381.08,
+      "duration": 3.2899999999999636,
+      "dialogue_text": "- Tenemos que irnos. - De acuerdo... llevaré la mano con nosotros."
+    },
+    {
+      "subtitle_index": 55,
+      "start_time": 381.58,
+      "end_time": 382.58,
+      "duration": 1.0,
+      "dialogue_text": "¿Para qué demonios?"
+    },
+    {
+      "subtitle_index": 56,
+      "start_time": 383.63,
+      "end_time": 385.35,
+      "duration": 1.7200000000000273,
+      "dialogue_text": "Para que alguien me diga que acabo de matar."
+    },
+    {
+      "subtitle_index": 57,
+      "start_time": 402.52,
+      "end_time": 404.08,
+      "duration": 1.5600000000000023,
+      "dialogue_text": "¿Son resistentes los bastardos, verdad?"
+    },
+    {
+      "subtitle_index": 58,
+      "start_time": 405.4,
+      "end_time": 407.86,
+      "duration": 2.4600000000000364,
+      "dialogue_text": "Subiremos la colina, haremos quue se paren ahi."
+    },
+    {
+      "subtitle_index": 59,
+      "start_time": 409.19,
+      "end_time": 411.03,
+      "duration": 1.839999999999975,
+      "dialogue_text": "De ninguna jodida manera voy a morir."
+    },
+    {
+      "subtitle_index": 60,
+      "start_time": 459.62,
+      "end_time": 460.62,
+      "duration": 1.0,
+      "dialogue_text": "¡Madre de dios!"
+    },
+    {
+      "subtitle_index": 61,
+      "start_time": 497.82,
+      "end_time": 499.24,
+      "duration": 1.420000000000016,
+      "dialogue_text": "No tengo necesidad de pelar."
+    },
+    {
+      "subtitle_index": 62,
+      "start_time": 500.78,
+      "end_time": 501.78,
+      "duration": 1.0,
+      "dialogue_text": "De acuerdo."
+    },
+    {
+      "subtitle_index": 63,
+      "start_time": 503.2,
+      "end_time": 505.88,
+      "duration": 2.680000000000007,
+      "dialogue_text": "Propongo que tomemos las oportunidades de los que tenemos al frente."
+    },
+    {
+      "subtitle_index": 64,
+      "start_time": 506.25,
+      "end_time": 507.46,
+      "duration": 1.2099999999999795,
+      "dialogue_text": "No me he rendido en un tiempo."
+    },
+    {
+      "subtitle_index": 65,
+      "start_time": 510.84,
+      "end_time": 511.84,
+      "duration": 1.0,
+      "dialogue_text": "Regresará a ti."
+    },
+    {
+      "subtitle_index": 66,
+      "start_time": 519.93,
+      "end_time": 521.97,
+      "duration": 2.0400000000000773,
+      "dialogue_text": "Haz lo que yo. Estaremos bien."
+    },
+    {
+      "subtitle_index": 67,
+      "start_time": 523.18,
+      "end_time": 524.18,
+      "duration": 1.0,
+      "dialogue_text": "Por supuesto, amigo."
+    },
+    {
+      "subtitle_index": 68,
+      "start_time": 524.72,
+      "end_time": 525.72,
+      "duration": 1.0,
+      "dialogue_text": "A donde vayas te seguiré."
+    },
+    {
+      "subtitle_index": 69,
+      "start_time": 526.48,
+      "end_time": 527.88,
+      "duration": 1.3999999999999773,
+      "dialogue_text": "Ya has hecho uun excelente trabajo."
+    },
+    {
+      "subtitle_index": 70,
+      "start_time": 533.36,
+      "end_time": 535.0,
+      "duration": 1.6399999999999864,
+      "dialogue_text": "Abran paso! ¡Cuidado!"
+    },
+    {
+      "subtitle_index": 71,
+      "start_time": 535.86,
+      "end_time": 537.98,
+      "duration": 2.1200000000000045,
+      "dialogue_text": "Abran paso! ¡Cuidado!"
+    },
+    {
+      "subtitle_index": 72,
+      "start_time": 540.16,
+      "end_time": 542.6,
+      "duration": 2.4400000000000546,
+      "dialogue_text": "A un lado! ¡A un lado!"
+    },
+    {
+      "subtitle_index": 73,
+      "start_time": 547.52,
+      "end_time": 549.4,
+      "duration": 1.8799999999999955,
+      "dialogue_text": "Quitense cabrones!"
+    },
+    {
+      "subtitle_index": 74,
+      "start_time": 550.66,
+      "end_time": 553.4,
+      "duration": 2.740000000000009,
+      "dialogue_text": "Abran paso!"
+    },
+    {
+      "subtitle_index": 75,
+      "start_time": 554.18,
+      "end_time": 556.5,
+      "duration": 2.32000000000005,
+      "dialogue_text": "Dejenme pasar!"
+    },
+    {
+      "subtitle_index": 76,
+      "start_time": 557.16,
+      "end_time": 560.14,
+      "duration": 2.980000000000018,
+      "dialogue_text": "Se requiere su presencia mi senora!"
+    },
+    {
+      "subtitle_index": 77,
+      "start_time": 569.98,
+      "end_time": 570.98,
+      "duration": 1.0,
+      "dialogue_text": "Saben lo que es."
+    },
+    {
+      "subtitle_index": 78,
+      "start_time": 571.94,
+      "end_time": 572.98,
+      "duration": 1.0399999999999636,
+      "dialogue_text": "No parecen feliz de verlo."
+    },
+    {
+      "subtitle_index": 79,
+      "start_time": 573.48,
+      "end_time": 575.11,
+      "duration": 1.6299999999999955,
+      "dialogue_text": "Mayor razón para salir de aquí."
+    },
+    {
+      "subtitle_index": 80,
+      "start_time": 576.28,
+      "end_time": 577.6,
+      "duration": 1.32000000000005,
+      "dialogue_text": "Nuestras armas están en esa mesa."
+    },
+    {
+      "subtitle_index": 81,
+      "start_time": 579.82,
+      "end_time": 580.82,
+      "duration": 1.0,
+      "dialogue_text": "¿Te has vuelto loco?"
+    },
+    {
+      "subtitle_index": 82,
+      "start_time": 581.24,
+      "end_time": 583.56,
+      "duration": 2.3199999999999363,
+      "dialogue_text": "Puedo encargarme de los guardias del perímetro con el arco."
+    },
+    {
+      "subtitle_index": 83,
+      "start_time": 584.37,
+      "end_time": 585.91,
+      "duration": 1.5399999999999636,
+      "dialogue_text": "Tú le cortas el cuello a lo oficíales."
+    },
+    {
+      "subtitle_index": 84,
+      "start_time": 586.37,
+      "end_time": 588.25,
+      "duration": 1.8799999999999955,
+      "dialogue_text": "Debo confesarte que este no es mi plan favorito."
+    },
+    {
+      "subtitle_index": 85,
+      "start_time": 588.75,
+      "end_time": 589.75,
+      "duration": 1.0,
+      "dialogue_text": "¿Dónde la encontraron?"
+    },
+    {
+      "subtitle_index": 86,
+      "start_time": 593.63,
+      "end_time": 594.67,
+      "duration": 1.0399999999999636,
+      "dialogue_text": "¿Hablas inglés?"
+    },
+    {
+      "subtitle_index": 87,
+      "start_time": 596.05,
+      "end_time": 597.05,
+      "duration": 1.0,
+      "dialogue_text": "Fantástico."
+    },
+    {
+      "subtitle_index": 88,
+      "start_time": 600.09,
+      "end_time": 601.26,
+      "duration": 1.169999999999959,
+      "dialogue_text": "¿Dónde la encontraron?"
+    },
+    {
+      "subtitle_index": 89,
+      "start_time": 602.89,
+      "end_time": 603.89,
+      "duration": 1.0,
+      "dialogue_text": "No fue encontrada."
+    },
+    {
+      "subtitle_index": 90,
+      "start_time": 605.14,
+      "end_time": 606.14,
+      "duration": 1.0,
+      "dialogue_text": "Fue tomada."
+    },
+    {
+      "subtitle_index": 91,
+      "start_time": 606.81,
+      "end_time": 608.97,
+      "duration": 2.160000000000082,
+      "dialogue_text": "Esa cosa mató a tres hombres antes que la derribáramos."
+    },
+    {
+      "subtitle_index": 92,
+      "start_time": 609.35,
+      "end_time": 610.35,
+      "duration": 1.0,
+      "dialogue_text": "¿Dónde?"
+    },
+    {
+      "subtitle_index": 93,
+      "start_time": 611.02,
+      "end_time": 612.02,
+      "duration": 1.0,
+      "dialogue_text": "Dos días de cabalgata."
+    },
+    {
+      "subtitle_index": 94,
+      "start_time": 612.6,
+      "end_time": 612.85,
+      "duration": 0.25,
+      "dialogue_text": "Al Norte."
+    },
+    {
+      "subtitle_index": 95,
+      "start_time": 613.56,
+      "end_time": 614.56,
+      "duration": 1.0,
+      "dialogue_text": "En las montañas."
+    },
+    {
+      "subtitle_index": 96,
+      "start_time": 615.44,
+      "end_time": 617.88,
+      "duration": 2.439999999999941,
+      "dialogue_text": "Dicen que la tomaron y que no fue encontrada."
+    },
+    {
+      "subtitle_index": 97,
+      "start_time": 618.04,
+      "end_time": 620.36,
+      "duration": 2.32000000000005,
+      "dialogue_text": "Al norte en las montanas."
+    },
+    {
+      "subtitle_index": 98,
+      "start_time": 620.36,
+      "end_time": 622.0,
+      "duration": 1.6399999999999864,
+      "dialogue_text": "Puta madre!"
+    },
+    {
+      "subtitle_index": 99,
+      "start_time": 622.26,
+      "end_time": 624.48,
+      "duration": 2.2200000000000273,
+      "dialogue_text": "Hay que preparar las tropas para lo que viene."
+    },
+    {
+      "subtitle_index": 100,
+      "start_time": 624.7,
+      "end_time": 626.26,
+      "duration": 1.5599999999999454,
+      "dialogue_text": "Entendido?"
+    },
+    {
+      "subtitle_index": 101,
+      "start_time": 626.6,
+      "end_time": 629.16,
+      "duration": 2.5599999999999454,
+      "dialogue_text": "Si mi General, a huevo."
+    },
+    {
+      "subtitle_index": 102,
+      "start_time": 629.32,
+      "end_time": 631.08,
+      "duration": 1.759999999999991,
+      "dialogue_text": "Preguntale mas."
+    },
+    {
+      "subtitle_index": 103,
+      "start_time": 631.87,
+      "end_time": 633.92,
+      "duration": 2.0499999999999545,
+      "dialogue_text": "¿Ustedes hicieron esto?"
+    },
+    {
+      "subtitle_index": 104,
+      "start_time": 635.29,
+      "end_time": 636.13,
+      "duration": 0.8400000000000318,
+      "dialogue_text": "Bueno... eso es..."
+    },
+    {
+      "subtitle_index": 105,
+      "start_time": 636.21,
+      "end_time": 637.21,
+      "duration": 1.0,
+      "dialogue_text": "Yo lo maté."
+    },
+    {
+      "subtitle_index": 106,
+      "start_time": 637.25,
+      "end_time": 638.46,
+      "duration": 1.2100000000000364,
+      "dialogue_text": "¿Solo?"
+    },
+    {
+      "subtitle_index": 107,
+      "start_time": 642.3,
+      "end_time": 644.56,
+      "duration": 2.259999999999991,
+      "dialogue_text": "- Dice que el lo mato. - ¿Pero como?"
+    },
+    {
+      "subtitle_index": 108,
+      "start_time": 645.16,
+      "end_time": 646.8,
+      "duration": 1.6399999999999864,
+      "dialogue_text": "Preguntale como."
+    },
+    {
+      "subtitle_index": 109,
+      "start_time": 648.26,
+      "end_time": 649.27,
+      "duration": 1.009999999999991,
+      "dialogue_text": "¿Dime cómo?"
+    },
+    {
+      "subtitle_index": 110,
+      "start_time": 650.93,
+      "end_time": 651.94,
+      "duration": 1.0100000000001046,
+      "dialogue_text": "Con la espada..."
+    },
+    {
+      "subtitle_index": 111,
+      "start_time": 652.69,
+      "end_time": 653.85,
+      "duration": 1.1599999999999682,
+      "dialogue_text": "le corté la mano."
+    },
+    {
+      "subtitle_index": 112,
+      "start_time": 654.81,
+      "end_time": 656.19,
+      "duration": 1.3800000000001091,
+      "dialogue_text": "La bestia retrocedió y cayó."
+    },
+    {
+      "subtitle_index": 113,
+      "start_time": 657.94,
+      "end_time": 658.94,
+      "duration": 1.0,
+      "dialogue_text": "¿Por qué están aquí?"
+    },
+    {
+      "subtitle_index": 114,
+      "start_time": 659.61,
+      "end_time": 662.4,
+      "duration": 2.7899999999999636,
+      "dialogue_text": "Vinimos a intercambiar y fuimos emboscados."
+    },
+    {
+      "subtitle_index": 115,
+      "start_time": 664.91,
+      "end_time": 665.95,
+      "duration": 1.0400000000000773,
+      "dialogue_text": "Levántenlos."
+    },
+    {
+      "subtitle_index": 116,
+      "start_time": 677.59,
+      "end_time": 678.59,
+      "duration": 1.0,
+      "dialogue_text": "Son soldados."
+    },
+    {
+      "subtitle_index": 117,
+      "start_time": 681.96,
+      "end_time": 685.24,
+      "duration": 3.2799999999999727,
+      "dialogue_text": "Que inteligente, hija mia."
+    },
+    {
+      "subtitle_index": 118,
+      "start_time": 695.56,
+      "end_time": 699.34,
+      "duration": 3.7800000000000864,
+      "dialogue_text": "Mi General, dejeme usarlos como mortero para la muralla."
+    },
+    {
+      "subtitle_index": 119,
+      "start_time": 700.26,
+      "end_time": 704.32,
+      "duration": 4.060000000000059,
+      "dialogue_text": "- Imposible. - No pegaria bien. -Asi es."
+    },
+    {
+      "subtitle_index": 120,
+      "start_time": 705.08,
+      "end_time": 707.22,
+      "duration": 2.1399999999999864,
+      "dialogue_text": "Podriamos esperar a que ataquen los monstruos..."
+    },
+    {
+      "subtitle_index": 121,
+      "start_time": 707.22,
+      "end_time": 709.46,
+      "duration": 2.240000000000009,
+      "dialogue_text": "Y dejarlos a que los devoren..."
+    },
+    {
+      "subtitle_index": 122,
+      "start_time": 709.46,
+      "end_time": 712.42,
+      "duration": 2.9599999999999227,
+      "dialogue_text": "Asi comprobariamos lo que dice."
+    },
+    {
+      "subtitle_index": 123,
+      "start_time": 712.42,
+      "end_time": 714.26,
+      "duration": 1.8400000000000318,
+      "dialogue_text": "Me parece que mienten."
+    },
+    {
+      "subtitle_index": 124,
+      "start_time": 717.96,
+      "end_time": 722.5,
+      "duration": 4.539999999999964,
+      "dialogue_text": "Mi General, dejeme ponerles polvo negro y hacerlos volar por los aires."
+    },
+    {
+      "subtitle_index": 125,
+      "start_time": 723.0,
+      "end_time": 726.24,
+      "duration": 3.240000000000009,
+      "dialogue_text": "- Eso es muy rapido. - ¡Deben sufrir!."
+    },
+    {
+      "subtitle_index": 126,
+      "start_time": 728.08,
+      "end_time": 729.5,
+      "duration": 1.419999999999959,
+      "dialogue_text": "Asi es."
+    },
+    {
+      "subtitle_index": 127,
+      "start_time": 729.98,
+      "end_time": 735.54,
+      "duration": 5.559999999999945,
+      "dialogue_text": "Como la mujer que se paso buscando a su esposo muerto en la muralla."
+    },
+    {
+      "subtitle_index": 128,
+      "start_time": 735.56,
+      "end_time": 736.56,
+      "duration": 1.0,
+      "dialogue_text": "¡Señor!"
+    },
+    {
+      "subtitle_index": 129,
+      "start_time": 739.52,
+      "end_time": 742.68,
+      "duration": 3.159999999999968,
+      "dialogue_text": "Han sido vistos, se hacercan por el norte!"
+    },
+    {
+      "subtitle_index": 130,
+      "start_time": 742.74,
+      "end_time": 745.04,
+      "duration": 2.2999999999999545,
+      "dialogue_text": "Te he dicho que no entres asi."
+    },
+    {
+      "subtitle_index": 131,
+      "start_time": 745.14,
+      "end_time": 747.62,
+      "duration": 2.480000000000018,
+      "dialogue_text": "Vamos, ya saben que hacer, a las armas."
+    },
+    {
+      "subtitle_index": 132,
+      "start_time": 747.62,
+      "end_time": 749.8,
+      "duration": 2.17999999999995,
+      "dialogue_text": "Mi general, no volvera a pasar."
+    },
+    {
+      "subtitle_index": 133,
+      "start_time": 770.22,
+      "end_time": 771.26,
+      "duration": 1.0399999999999636,
+      "dialogue_text": "¿Nos vas a matar?"
+    },
+    {
+      "subtitle_index": 134,
+      "start_time": 772.85,
+      "end_time": 774.02,
+      "duration": 1.169999999999959,
+      "dialogue_text": "¿A dos viajeros perdidos?"
+    },
+    {
+      "subtitle_index": 135,
+      "start_time": 775.36,
+      "end_time": 779.26,
+      "duration": 3.8999999999999773,
+      "dialogue_text": "What are we doing here my friend? This bitch its gonna kill us."
+    },
+    {
+      "subtitle_index": 136,
+      "start_time": 779.48,
+      "end_time": 780.52,
+      "duration": 1.0399999999999636,
+      "dialogue_text": "Creo que le gustaría."
+    },
+    {
+      "subtitle_index": 137,
+      "start_time": 782.27,
+      "end_time": 785.53,
+      "duration": 3.259999999999991,
+      "dialogue_text": "Que triste, hermano. Necesitamos tiempo para rezar."
+    },
+    {
+      "subtitle_index": 138,
+      "start_time": 787.15,
+      "end_time": 788.15,
+      "duration": 1.0,
+      "dialogue_text": "Estoy tratando."
+    },
+    {
+      "subtitle_index": 139,
+      "start_time": 789.7,
+      "end_time": 791.34,
+      "duration": 1.6399999999999864,
+      "dialogue_text": "Hermana, conozco una crisis cuando la veo."
+    },
+    {
+      "subtitle_index": 140,
+      "start_time": 793.16,
+      "end_time": 795.2,
+      "duration": 2.0400000000000773,
+      "dialogue_text": "¿Que cosa viene que están así?"
+    },
+    {
+      "subtitle_index": 141,
+      "start_time": 795.83,
+      "end_time": 797.15,
+      "duration": 1.3199999999999363,
+      "dialogue_text": "¿Qué demonios matamos ahi afuera?"
+    },
+    {
+      "subtitle_index": 142,
+      "start_time": 797.46,
+      "end_time": 798.46,
+      "duration": 1.0,
+      "dialogue_text": "Taotie."
+    },
+    {
+      "subtitle_index": 143,
+      "start_time": 799.5,
+      "end_time": 800.75,
+      "duration": 1.25,
+      "dialogue_text": "Un soldado."
+    },
+    {
+      "subtitle_index": 144,
+      "start_time": 801.92,
+      "end_time": 802.92,
+      "duration": 1.0,
+      "dialogue_text": "Mataron a un solitario."
+    },
+    {
+      "subtitle_index": 145,
+      "start_time": 804.21,
+      "end_time": 806.21,
+      "duration": 2.0,
+      "dialogue_text": "Tienen razón. Estamos bajo asedio."
+    },
+    {
+      "subtitle_index": 146,
+      "start_time": 807.59,
+      "end_time": 810.09,
+      "duration": 2.5,
+      "dialogue_text": "No esperábamos que atacaran en los próximos nueve dias."
+    },
+    {
+      "subtitle_index": 147,
+      "start_time": 810.55,
+      "end_time": 811.55,
+      "duration": 1.0,
+      "dialogue_text": "¿Atacaran?"
+    },
+    {
+      "subtitle_index": 148,
+      "start_time": 811.85,
+      "end_time": 812.85,
+      "duration": 1.0,
+      "dialogue_text": "¿Taotie?"
+    },
+    {
+      "subtitle_index": 149,
+      "start_time": 813.1,
+      "end_time": 814.18,
+      "duration": 1.0799999999999272,
+      "dialogue_text": "¿Qué demonios es un taotie?"
+    },
+    {
+      "subtitle_index": 150,
+      "start_time": 814.89,
+      "end_time": 816.68,
+      "duration": 1.7899999999999636,
+      "dialogue_text": "Muchas cosas de su historia han sido ciertas."
+    },
+    {
+      "subtitle_index": 151,
+      "start_time": 817.64,
+      "end_time": 818.77,
+      "duration": 1.1299999999999955,
+      "dialogue_text": "No estas."
+    },
+    {
+      "subtitle_index": 152,
+      "start_time": 824.88,
+      "end_time": 829.2,
+      "duration": 4.32000000000005,
+      "dialogue_text": "- Kuai! - Digame mi senor, hare lo que diga."
+    },
+    {
+      "subtitle_index": 153,
+      "start_time": 829.2,
+      "end_time": 832.86,
+      "duration": 3.659999999999968,
+      "dialogue_text": "Prepara las senales de humo para las otras atalayas!"
+    },
+    {
+      "subtitle_index": 154,
+      "start_time": 841.36,
+      "end_time": 843.38,
+      "duration": 2.019999999999982,
+      "dialogue_text": "He llegado tarde?"
+    },
+    {
+      "subtitle_index": 155,
+      "start_time": 843.48,
+      "end_time": 844.74,
+      "duration": 1.259999999999991,
+      "dialogue_text": "No."
+    },
+    {
+      "subtitle_index": 156,
+      "start_time": 845.7,
+      "end_time": 848.52,
+      "duration": 2.8199999999999363,
+      "dialogue_text": "De todos modos tu no peleas."
+    },
+    {
+      "subtitle_index": 157,
+      "start_time": 848.52,
+      "end_time": 850.76,
+      "duration": 2.240000000000009,
+      "dialogue_text": "Lo siento, deberia pelear?"
+    },
+    {
+      "subtitle_index": 158,
+      "start_time": 852.14,
+      "end_time": 853.14,
+      "duration": 1.0,
+      "dialogue_text": "No."
+    },
+    {
+      "subtitle_index": 159,
+      "start_time": 854.34,
+      "end_time": 856.12,
+      "duration": 1.7799999999999727,
+      "dialogue_text": "Mejor dame un masaje en los pies."
+    },
+    {
+      "subtitle_index": 160,
+      "start_time": 935.38,
+      "end_time": 937.74,
+      "duration": 2.3600000000000136,
+      "dialogue_text": "Abajo!"
+    },
+    {
+      "subtitle_index": 161,
+      "start_time": 980.64,
+      "end_time": 981.89,
+      "duration": 1.25,
+      "dialogue_text": "Los negros son lanceros.."
+    },
+    {
+      "subtitle_index": 162,
+      "start_time": 983.52,
+      "end_time": 984.27,
+      "duration": 0.75,
+      "dialogue_text": "¿Los rojos?"
+    },
+    {
+      "subtitle_index": 163,
+      "start_time": 984.35,
+      "end_time": 985.44,
+      "duration": 1.0900000000000318,
+      "dialogue_text": "Son los arqueros."
+    },
+    {
+      "subtitle_index": 164,
+      "start_time": 1002.41,
+      "end_time": 1003.41,
+      "duration": 1.0,
+      "dialogue_text": "¿Y los azules?"
+    },
+    {
+      "subtitle_index": 165,
+      "start_time": 1004.16,
+      "end_time": 1005.16,
+      "duration": 1.0,
+      "dialogue_text": "Todas son mujeres."
+    },
+    {
+      "subtitle_index": 166,
+      "start_time": 1005.96,
+      "end_time": 1006.96,
+      "duration": 1.0,
+      "dialogue_text": "¿Que van a hacer?"
+    },
+    {
+      "subtitle_index": 167,
+      "start_time": 1020.97,
+      "end_time": 1022.18,
+      "duration": 1.2099999999999227,
+      "dialogue_text": "Son unn ejército."
+    },
+    {
+      "subtitle_index": 168,
+      "start_time": 1024.14,
+      "end_time": 1025.73,
+      "duration": 1.5899999999999181,
+      "dialogue_text": "¿Habías vísto algo como esto?"
+    },
+    {
+      "subtitle_index": 169,
+      "start_time": 1026.31,
+      "end_time": 1027.31,
+      "duration": 1.0,
+      "dialogue_text": "Lncreible."
+    },
+    {
+      "subtitle_index": 170,
+      "start_time": 1032.94,
+      "end_time": 1033.94,
+      "duration": 1.0,
+      "dialogue_text": "Lanza!"
+    },
+    {
+      "subtitle_index": 171,
+      "start_time": 1047.37,
+      "end_time": 1048.71,
+      "duration": 1.3400000000001455,
+      "dialogue_text": "La mirada que tienen."
+    },
+    {
+      "subtitle_index": 172,
+      "start_time": 1051.13,
+      "end_time": 1052.69,
+      "duration": 1.5599999999999454,
+      "dialogue_text": "Están acostumbrados a cosas como estas."
+    },
+    {
+      "subtitle_index": 173,
+      "start_time": 1072.19,
+      "end_time": 1073.19,
+      "duration": 1.0,
+      "dialogue_text": "¿Lo oyes?"
+    },
+    {
+      "subtitle_index": 174,
+      "start_time": 1080.74,
+      "end_time": 1083.76,
+      "duration": 3.019999999999982,
+      "dialogue_text": "Tambores!¡ General pide los tambores de guerra!"
+    },
+    {
+      "subtitle_index": 175,
+      "start_time": 1096.72,
+      "end_time": 1097.82,
+      "duration": 1.099999999999909,
+      "dialogue_text": "Listo!"
+    },
+    {
+      "subtitle_index": 176,
+      "start_time": 1102.04,
+      "end_time": 1103.06,
+      "duration": 1.0199999999999818,
+      "dialogue_text": "Fuego!"
+    },
+    {
+      "subtitle_index": 177,
+      "start_time": 1138.96,
+      "end_time": 1142.22,
+      "duration": 3.259999999999991,
+      "dialogue_text": "Suelten las lanzas! ¡Suelten las lanzas!"
+    },
+    {
+      "subtitle_index": 178,
+      "start_time": 1161.64,
+      "end_time": 1163.84,
+      "duration": 2.199999999999818,
+      "dialogue_text": "Suelten a la carnada!"
+    },
+    {
+      "subtitle_index": 179,
+      "start_time": 1225.93,
+      "end_time": 1227.64,
+      "duration": 1.7100000000000364,
+      "dialogue_text": "¡William mira para alla!"
+    },
+    {
+      "subtitle_index": 180,
+      "start_time": 1230.18,
+      "end_time": 1231.18,
+      "duration": 1.0,
+      "dialogue_text": "¿Que estara tramando?"
+    },
+    {
+      "subtitle_index": 181,
+      "start_time": 1232.93,
+      "end_time": 1234.56,
+      "duration": 1.6299999999998818,
+      "dialogue_text": "No es como ellos."
+    },
+    {
+      "subtitle_index": 182,
+      "start_time": 1255.93,
+      "end_time": 1259.31,
+      "duration": 3.3799999999998818,
+      "dialogue_text": "General, se acabaron las mujeres, sus familiares las reemplazaran."
+    },
+    {
+      "subtitle_index": 183,
+      "start_time": 1259.39,
+      "end_time": 1261.34,
+      "duration": 1.949999999999818,
+      "dialogue_text": "O sus hijos!"
+    },
+    {
+      "subtitle_index": 184,
+      "start_time": 1298.25,
+      "end_time": 1302.3,
+      "duration": 4.0499999999999545,
+      "dialogue_text": "Tamborcitos! -¡Si!¡, General quiere los tamborcitos!"
+    },
+    {
+      "subtitle_index": 185,
+      "start_time": 1326.07,
+      "end_time": 1326.65,
+      "duration": 0.5800000000001546,
+      "dialogue_text": "¡Tenemos que movernos!"
+    },
+    {
+      "subtitle_index": 186,
+      "start_time": 1326.73,
+      "end_time": 1328.19,
+      "duration": 1.4600000000000364,
+      "dialogue_text": "¡Tenemos que salir de este lugar!"
+    },
+    {
+      "subtitle_index": 187,
+      "start_time": 1346.55,
+      "end_time": 1347.55,
+      "duration": 1.0,
+      "dialogue_text": "Ve. ¡Ve!"
+    },
+    {
+      "subtitle_index": 188,
+      "start_time": 1348.97,
+      "end_time": 1349.97,
+      "duration": 1.0,
+      "dialogue_text": "¡Ve y pelea!"
+    },
+    {
+      "subtitle_index": 189,
+      "start_time": 1358.18,
+      "end_time": 1359.18,
+      "duration": 1.0,
+      "dialogue_text": "¡Ahora!"
+    },
+    {
+      "subtitle_index": 190,
+      "start_time": 1362.31,
+      "end_time": 1363.31,
+      "duration": 1.0,
+      "dialogue_text": "¿A donde corremos?"
+    },
+    {
+      "subtitle_index": 191,
+      "start_time": 1363.44,
+      "end_time": 1364.44,
+      "duration": 1.0,
+      "dialogue_text": "A cualquier lugar."
+    },
+    {
+      "subtitle_index": 192,
+      "start_time": 1370.9,
+      "end_time": 1371.9,
+      "duration": 1.0,
+      "dialogue_text": "¡Apunta a los ojos!"
+    },
+    {
+      "subtitle_index": 193,
+      "start_time": 1412.49,
+      "end_time": 1413.49,
+      "duration": 1.0,
+      "dialogue_text": "¡Toma!"
+    },
+    {
+      "subtitle_index": 194,
+      "start_time": 1438.81,
+      "end_time": 1439.93,
+      "duration": 1.1200000000001182,
+      "dialogue_text": "¡Aqui! ¡Bestia!"
+    },
+    {
+      "subtitle_index": 195,
+      "start_time": 1458.28,
+      "end_time": 1459.28,
+      "duration": 1.0,
+      "dialogue_text": "Necesito unn tiro."
+    },
+    {
+      "subtitle_index": 196,
+      "start_time": 1506.83,
+      "end_time": 1508.08,
+      "duration": 1.25,
+      "dialogue_text": "¿Qué dios hízo esas criaturas?"
+    },
+    {
+      "subtitle_index": 197,
+      "start_time": 1510.13,
+      "end_time": 1511.34,
+      "duration": 1.209999999999809,
+      "dialogue_text": "Ninguno que conozcamos."
+    },
+    {
+      "subtitle_index": 198,
+      "start_time": 1530.1,
+      "end_time": 1531.1,
+      "duration": 1.0,
+      "dialogue_text": "Puedenn colgarnos ahora."
+    },
+    {
+      "subtitle_index": 199,
+      "start_time": 1531.81,
+      "end_time": 1532.81,
+      "duration": 1.0,
+      "dialogue_text": "Podría descannsar."
+    },
+    {
+      "subtitle_index": 200,
+      "start_time": 1558.97,
+      "end_time": 1560.7,
+      "duration": 1.7300000000000182,
+      "dialogue_text": "El General esta feliz!"
+    },
+    {
+      "subtitle_index": 201,
+      "start_time": 1561.26,
+      "end_time": 1562.94,
+      "duration": 1.6800000000000637,
+      "dialogue_text": "Se hann ganado el favor del General Slhao."
+    },
+    {
+      "subtitle_index": 202,
+      "start_time": 1563.76,
+      "end_time": 1564.76,
+      "duration": 1.0,
+      "dialogue_text": "¿Regresarán?"
+    },
+    {
+      "subtitle_index": 203,
+      "start_time": 1565.18,
+      "end_time": 1566.18,
+      "duration": 1.0,
+      "dialogue_text": "Si."
+    },
+    {
+      "subtitle_index": 204,
+      "start_time": 1566.43,
+      "end_time": 1568.03,
+      "duration": 1.599999999999909,
+      "dialogue_text": "Todo lo que podemos hacer es prepararnos."
+    },
+    {
+      "subtitle_index": 205,
+      "start_time": 1570.46,
+      "end_time": 1573.61,
+      "duration": 3.1499999999998636,
+      "dialogue_text": "Viste eso? ¡Ni tu ni yo tuvimos que pelear!"
+    },
+    {
+      "subtitle_index": 206,
+      "start_time": 1602.24,
+      "end_time": 1604.19,
+      "duration": 1.9500000000000455,
+      "dialogue_text": "Gracias guapo!"
+    },
+    {
+      "subtitle_index": 207,
+      "start_time": 1627.24,
+      "end_time": 1629.4,
+      "duration": 2.160000000000082,
+      "dialogue_text": "Hija..."
+    },
+    {
+      "subtitle_index": 208,
+      "start_time": 1630.33,
+      "end_time": 1632.59,
+      "duration": 2.259999999999991,
+      "dialogue_text": "Tengo que pediirte algo..."
+    },
+    {
+      "subtitle_index": 209,
+      "start_time": 1633.2,
+      "end_time": 1635.61,
+      "duration": 2.4099999999998545,
+      "dialogue_text": "No dejes que tu hermano se enamore de el."
+    },
+    {
+      "subtitle_index": 210,
+      "start_time": 1636.08,
+      "end_time": 1638.09,
+      "duration": 2.009999999999991,
+      "dialogue_text": "Recuerda lo que paso la ultima vez..."
+    },
+    {
+      "subtitle_index": 211,
+      "start_time": 1638.09,
+      "end_time": 1640.09,
+      "duration": 2.0,
+      "dialogue_text": "No quiero que se repita."
+    },
+    {
+      "subtitle_index": 212,
+      "start_time": 1642.08,
+      "end_time": 1644.62,
+      "duration": 2.5399999999999636,
+      "dialogue_text": "El es el futuro heredero al trono..."
+    },
+    {
+      "subtitle_index": 213,
+      "start_time": 1645.5,
+      "end_time": 1647.31,
+      "duration": 1.8099999999999454,
+      "dialogue_text": "Debe ser un hombre para entonces."
+    },
+    {
+      "subtitle_index": 214,
+      "start_time": 1648.65,
+      "end_time": 1652.27,
+      "duration": 3.619999999999891,
+      "dialogue_text": "Desearia que hubiera muerto heroicamente en la batalla..."
+    },
+    {
+      "subtitle_index": 215,
+      "start_time": 1655.55,
+      "end_time": 1658.65,
+      "duration": 3.1000000000001364,
+      "dialogue_text": "Trata de enamorarlo tu..."
+    },
+    {
+      "subtitle_index": 216,
+      "start_time": 1658.65,
+      "end_time": 1661.87,
+      "duration": 3.2199999999998,
+      "dialogue_text": "- Asi no podra competir. - Si padre."
+    },
+    {
+      "subtitle_index": 217,
+      "start_time": 1671.29,
+      "end_time": 1672.29,
+      "duration": 1.0,
+      "dialogue_text": "Tranquilos."
+    },
+    {
+      "subtitle_index": 218,
+      "start_time": 1674.92,
+      "end_time": 1675.92,
+      "duration": 1.0,
+      "dialogue_text": "Soy Vadert."
+    },
+    {
+      "subtitle_index": 219,
+      "start_time": 1678.21,
+      "end_time": 1679.21,
+      "duration": 1.0,
+      "dialogue_text": "William."
+    },
+    {
+      "subtitle_index": 220,
+      "start_time": 1680.59,
+      "end_time": 1681.63,
+      "duration": 1.040000000000191,
+      "dialogue_text": "Este es Tovar."
+    },
+    {
+      "subtitle_index": 221,
+      "start_time": 1683.01,
+      "end_time": 1684.01,
+      "duration": 1.0,
+      "dialogue_text": "¿Qué hacen aquui?"
+    },
+    {
+      "subtitle_index": 222,
+      "start_time": 1685.8,
+      "end_time": 1687.35,
+      "duration": 1.5499999999999545,
+      "dialogue_text": "Estamos buscando el polvo negro."
+    },
+    {
+      "subtitle_index": 223,
+      "start_time": 1688.14,
+      "end_time": 1689.18,
+      "duration": 1.0399999999999636,
+      "dialogue_text": "Seguro que sí."
+    },
+    {
+      "subtitle_index": 224,
+      "start_time": 1690.14,
+      "end_time": 1692.31,
+      "duration": 2.1699999999998454,
+      "dialogue_text": "Vine con el mismo objetivo."
+    },
+    {
+      "subtitle_index": 225,
+      "start_time": 1693.27,
+      "end_time": 1694.27,
+      "duration": 1.0,
+      "dialogue_text": "Hace 25 años."
+    },
+    {
+      "subtitle_index": 226,
+      "start_time": 1695.56,
+      "end_time": 1696.27,
+      "duration": 0.7100000000000364,
+      "dialogue_text": "¿Y lo encontraste?"
+    },
+    {
+      "subtitle_index": 227,
+      "start_time": 1696.35,
+      "end_time": 1699.48,
+      "duration": 3.130000000000109,
+      "dialogue_text": "Encontrarlo es vivir una vida dentro de estas paredes."
+    },
+    {
+      "subtitle_index": 228,
+      "start_time": 1703.61,
+      "end_time": 1706.45,
+      "duration": 2.8400000000001455,
+      "dialogue_text": "Salvar la torre oeste fue extremadamente diplomático."
+    },
+    {
+      "subtitle_index": 229,
+      "start_time": 1706.87,
+      "end_time": 1708.19,
+      "duration": 1.3200000000001637,
+      "dialogue_text": "No estábamos siendo diplomáticos."
+    },
+    {
+      "subtitle_index": 230,
+      "start_time": 1709.08,
+      "end_time": 1710.48,
+      "duration": 1.400000000000091,
+      "dialogue_text": "Tratábamos de mantenernos con vida."
+    },
+    {
+      "subtitle_index": 231,
+      "start_time": 1713.0,
+      "end_time": 1714.46,
+      "duration": 1.4600000000000364,
+      "dialogue_text": "Huelen a caníbales."
+    },
+    {
+      "subtitle_index": 232,
+      "start_time": 1715.08,
+      "end_time": 1716.08,
+      "duration": 1.0,
+      "dialogue_text": "Gracias."
+    },
+    {
+      "subtitle_index": 233,
+      "start_time": 1721.55,
+      "end_time": 1724.8,
+      "duration": 3.25,
+      "dialogue_text": "Limpiense y les alimentarán."
+    },
+    {
+      "subtitle_index": 234,
+      "start_time": 1728.76,
+      "end_time": 1729.84,
+      "duration": 1.0799999999999272,
+      "dialogue_text": "Sabe donde está la pólvora."
+    },
+    {
+      "subtitle_index": 235,
+      "start_time": 1731.47,
+      "end_time": 1732.63,
+      "duration": 1.1600000000000819,
+      "dialogue_text": "¿Entonces por qué sigue aqui?"
+    },
+    {
+      "subtitle_index": 236,
+      "start_time": 1733.93,
+      "end_time": 1735.23,
+      "duration": 1.2999999999999545,
+      "dialogue_text": "¿Ves otro lugar para ir?"
+    },
+    {
+      "subtitle_index": 237,
+      "start_time": 1736.48,
+      "end_time": 1737.48,
+      "duration": 1.0,
+      "dialogue_text": "Verdad."
+    },
+    {
+      "subtitle_index": 238,
+      "start_time": 1738.1,
+      "end_time": 1739.1,
+      "duration": 1.0,
+      "dialogue_text": "Jugamos nuestro papel."
+    },
+    {
+      "subtitle_index": 239,
+      "start_time": 1739.73,
+      "end_time": 1740.73,
+      "duration": 1.0,
+      "dialogue_text": "Tomamos la pólvora."
+    },
+    {
+      "subtitle_index": 240,
+      "start_time": 1741.82,
+      "end_time": 1742.86,
+      "duration": 1.0399999999999636,
+      "dialogue_text": "Y nos vamos a casa."
+    },
+    {
+      "subtitle_index": 241,
+      "start_time": 1743.78,
+      "end_time": 1745.07,
+      "duration": 1.2899999999999636,
+      "dialogue_text": "Esto está rarísimo."
+    },
+    {
+      "subtitle_index": 242,
+      "start_time": 1745.57,
+      "end_time": 1746.57,
+      "duration": 1.0,
+      "dialogue_text": "¿Que parte?"
+    },
+    {
+      "subtitle_index": 243,
+      "start_time": 1748.41,
+      "end_time": 1749.41,
+      "duration": 1.0,
+      "dialogue_text": "Toda."
+    },
+    {
+      "subtitle_index": 244,
+      "start_time": 1749.62,
+      "end_time": 1750.91,
+      "duration": 1.290000000000191,
+      "dialogue_text": "Los monjes y los monstruos."
+    },
+    {
+      "subtitle_index": 245,
+      "start_time": 1751.74,
+      "end_time": 1752.74,
+      "duration": 1.0,
+      "dialogue_text": "Hay mucho más."
+    },
+    {
+      "subtitle_index": 246,
+      "start_time": 1756.5,
+      "end_time": 1757.62,
+      "duration": 1.1199999999998909,
+      "dialogue_text": "Realmente apestamos."
+    },
+    {
+      "subtitle_index": 247,
+      "start_time": 1790.82,
+      "end_time": 1794.91,
+      "duration": 4.0900000000001455,
+      "dialogue_text": "El general Xiao los recibe como miembros de honor de la orden sin nombre"
+    },
+    {
+      "subtitle_index": 248,
+      "start_time": 1795.7,
+      "end_time": 1797.87,
+      "duration": 2.1699999999998454,
+      "dialogue_text": "y les agradece por su habilidad y coraje."
+    },
+    {
+      "subtitle_index": 249,
+      "start_time": 1800.33,
+      "end_time": 1803.44,
+      "duration": 3.1100000000001273,
+      "dialogue_text": "Estamos honrados de ser honrados."
+    },
+    {
+      "subtitle_index": 250,
+      "start_time": 1805.76,
+      "end_time": 1807.08,
+      "duration": 1.3199999999999363,
+      "dialogue_text": "¿Es todo lo que tienes que decir?"
+    },
+    {
+      "subtitle_index": 251,
+      "start_time": 1811.6,
+      "end_time": 1812.6,
+      "duration": 1.0,
+      "dialogue_text": "Puedo?"
+    },
+    {
+      "subtitle_index": 252,
+      "start_time": 1814.76,
+      "end_time": 1817.55,
+      "duration": 2.7899999999999636,
+      "dialogue_text": "Permitanme agradecerles..."
+    },
+    {
+      "subtitle_index": 253,
+      "start_time": 1817.55,
+      "end_time": 1822.0,
+      "duration": 4.4500000000000455,
+      "dialogue_text": "Y regalarles esta arma que es mejor que las que usan."
+    },
+    {
+      "subtitle_index": 254,
+      "start_time": 1824.4,
+      "end_time": 1827.82,
+      "duration": 3.4199999999998454,
+      "dialogue_text": "El comandante Sheng cree que su arco no es merecedor de su habilidad."
+    },
+    {
+      "subtitle_index": 255,
+      "start_time": 1828.53,
+      "end_time": 1830.03,
+      "duration": 1.5,
+      "dialogue_text": "Dile que no hay mejor arma aqui."
+    },
+    {
+      "subtitle_index": 256,
+      "start_time": 1830.91,
+      "end_time": 1834.56,
+      "duration": 3.6499999999998636,
+      "dialogue_text": "Dice que el mejor arco es el de su trasero."
+    },
+    {
+      "subtitle_index": 257,
+      "start_time": 1838.28,
+      "end_time": 1839.9,
+      "duration": 1.6200000000001182,
+      "dialogue_text": "Eso tengo que verlo..."
+    },
+    {
+      "subtitle_index": 258,
+      "start_time": 1840.33,
+      "end_time": 1842.14,
+      "duration": 1.8100000000001728,
+      "dialogue_text": "Pero que no use su trasero."
+    },
+    {
+      "subtitle_index": 259,
+      "start_time": 1849.13,
+      "end_time": 1850.59,
+      "duration": 1.459999999999809,
+      "dialogue_text": "Quieren verte disparar."
+    },
+    {
+      "subtitle_index": 260,
+      "start_time": 1850.72,
+      "end_time": 1851.93,
+      "duration": 1.2100000000000364,
+      "dialogue_text": "¿Aqui?"
+    },
+    {
+      "subtitle_index": 261,
+      "start_time": 1851.93,
+      "end_time": 1855.58,
+      "duration": 3.6499999999998636,
+      "dialogue_text": "A menos que te de miedo, que cosas, entiendo ingles!"
+    },
+    {
+      "subtitle_index": 262,
+      "start_time": 1856.43,
+      "end_time": 1857.43,
+      "duration": 1.0,
+      "dialogue_text": "¿Qué fue eso?"
+    },
+    {
+      "subtitle_index": 263,
+      "start_time": 1857.47,
+      "end_time": 1858.47,
+      "duration": 1.0,
+      "dialogue_text": "Cree que tienes miedo."
+    },
+    {
+      "subtitle_index": 264,
+      "start_time": 1860.06,
+      "end_time": 1861.39,
+      "duration": 1.3300000000001546,
+      "dialogue_text": "Demasiadas personas."
+    },
+    {
+      "subtitle_index": 265,
+      "start_time": 1864.98,
+      "end_time": 1866.32,
+      "duration": 1.3399999999999181,
+      "dialogue_text": "- Consígueme una taza. - ¿Qué?"
+    },
+    {
+      "subtitle_index": 266,
+      "start_time": 1866.77,
+      "end_time": 1868.29,
+      "duration": 1.5199999999999818,
+      "dialogue_text": "- Consigueme algo. - ¿Cuando comeremos?"
+    },
+    {
+      "subtitle_index": 267,
+      "start_time": 1877.24,
+      "end_time": 1879.08,
+      "duration": 1.8399999999999181,
+      "dialogue_text": "- ¿Seguro que quieres hacer esto? - Estoy bien."
+    },
+    {
+      "subtitle_index": 268,
+      "start_time": 1879.41,
+      "end_time": 1884.13,
+      "duration": 4.720000000000027,
+      "dialogue_text": "De acuerdo. Diez yardas. Seis brazos a la derecha."
+    },
+    {
+      "subtitle_index": 269,
+      "start_time": 1885.25,
+      "end_time": 1887.34,
+      "duration": 2.089999999999918,
+      "dialogue_text": "De acuerdo. Vas a hacer eso por mí."
+    },
+    {
+      "subtitle_index": 270,
+      "start_time": 1888.17,
+      "end_time": 1889.17,
+      "duration": 1.0,
+      "dialogue_text": "¿De acuerdo?"
+    },
+    {
+      "subtitle_index": 271,
+      "start_time": 1889.96,
+      "end_time": 1890.96,
+      "duration": 1.0,
+      "dialogue_text": "Uno."
+    },
+    {
+      "subtitle_index": 272,
+      "start_time": 1891.59,
+      "end_time": 1892.59,
+      "duration": 1.0,
+      "dialogue_text": "Dos."
+    },
+    {
+      "subtitle_index": 273,
+      "start_time": 1893.51,
+      "end_time": 1894.51,
+      "duration": 1.0,
+      "dialogue_text": "Tres."
+    },
+    {
+      "subtitle_index": 274,
+      "start_time": 1896.72,
+      "end_time": 1897.72,
+      "duration": 1.0,
+      "dialogue_text": "Tira."
+    },
+    {
+      "subtitle_index": 275,
+      "start_time": 1933.38,
+      "end_time": 1934.38,
+      "duration": 1.0,
+      "dialogue_text": "Buenna suerte con eso."
+    },
+    {
+      "subtitle_index": 276,
+      "start_time": 1934.93,
+      "end_time": 1935.93,
+      "duration": 1.0,
+      "dialogue_text": "Quiero comida."
+    },
+    {
+      "subtitle_index": 277,
+      "start_time": 1936.93,
+      "end_time": 1937.93,
+      "duration": 1.0,
+      "dialogue_text": "¿Quien te enseñó inglés?"
+    },
+    {
+      "subtitle_index": 278,
+      "start_time": 1938.76,
+      "end_time": 1939.76,
+      "duration": 1.0,
+      "dialogue_text": "Sir Vadert."
+    },
+    {
+      "subtitle_index": 279,
+      "start_time": 1941.52,
+      "end_time": 1942.52,
+      "duration": 1.0,
+      "dialogue_text": "Lnglés y latín."
+    },
+    {
+      "subtitle_index": 280,
+      "start_time": 1944.06,
+      "end_time": 1945.52,
+      "duration": 1.4600000000000364,
+      "dialogue_text": "Dice que ha estado aqui por 25 años."
+    },
+    {
+      "subtitle_index": 281,
+      "start_time": 1946.69,
+      "end_time": 1947.69,
+      "duration": 1.0,
+      "dialogue_text": "Quien lo creería."
+    },
+    {
+      "subtitle_index": 282,
+      "start_time": 1949.02,
+      "end_time": 1950.32,
+      "duration": 1.2999999999999545,
+      "dialogue_text": "Debe permanecer aquí."
+    },
+    {
+      "subtitle_index": 283,
+      "start_time": 1951.23,
+      "end_time": 1952.23,
+      "duration": 1.0,
+      "dialogue_text": "¿Qué hay de nosotros?"
+    },
+    {
+      "subtitle_index": 284,
+      "start_time": 1955.36,
+      "end_time": 1958.16,
+      "duration": 2.800000000000182,
+      "dialogue_text": "Sirvete. Las comidas son abundantes."
+    },
+    {
+      "subtitle_index": 285,
+      "start_time": 1959.28,
+      "end_time": 1960.64,
+      "duration": 1.3600000000001273,
+      "dialogue_text": "¿Por qué te quedaste tanto tiempo?"
+    },
+    {
+      "subtitle_index": 286,
+      "start_time": 1961.24,
+      "end_time": 1964.58,
+      "duration": 3.339999999999918,
+      "dialogue_text": "Me gusta su objetivo. Pero les aconsejo que mantengan sus planes en privado."
+    },
+    {
+      "subtitle_index": 287,
+      "start_time": 1965.96,
+      "end_time": 1968.76,
+      "duration": 2.7999999999999545,
+      "dialogue_text": "No son los primeros orientales que vienen aqui buscando el polvo negro."
+    },
+    {
+      "subtitle_index": 288,
+      "start_time": 1970.42,
+      "end_time": 1971.5,
+      "duration": 1.0799999999999272,
+      "dialogue_text": "Lo discutiremos esta noche."
+    },
+    {
+      "subtitle_index": 289,
+      "start_time": 1972.21,
+      "end_time": 1973.21,
+      "duration": 1.0,
+      "dialogue_text": "Trae a tu compañero."
+    },
+    {
+      "subtitle_index": 290,
+      "start_time": 1973.84,
+      "end_time": 1974.84,
+      "duration": 1.0,
+      "dialogue_text": "¿Hace cuanto estás aquí?"
+    },
+    {
+      "subtitle_index": 291,
+      "start_time": 1975.43,
+      "end_time": 1976.43,
+      "duration": 1.0,
+      "dialogue_text": "Síempre."
+    },
+    {
+      "subtitle_index": 292,
+      "start_time": 1976.84,
+      "end_time": 1978.93,
+      "duration": 2.0900000000001455,
+      "dialogue_text": "No tenía ni 5 años cuando llegué aquí."
+    },
+    {
+      "subtitle_index": 293,
+      "start_time": 1979.76,
+      "end_time": 1980.8,
+      "duration": 1.0399999999999636,
+      "dialogue_text": "No he tenido otra familia."
+    },
+    {
+      "subtitle_index": 294,
+      "start_time": 1981.64,
+      "end_time": 1982.64,
+      "duration": 1.0,
+      "dialogue_text": "Somos iguales."
+    },
+    {
+      "subtitle_index": 295,
+      "start_time": 1983.77,
+      "end_time": 1984.89,
+      "duration": 1.1200000000001182,
+      "dialogue_text": "Fui entregado a un ejército."
+    },
+    {
+      "subtitle_index": 296,
+      "start_time": 1985.44,
+      "end_time": 1986.44,
+      "duration": 1.0,
+      "dialogue_text": "Es lo que puedo recordar."
+    },
+    {
+      "subtitle_index": 297,
+      "start_time": 1986.77,
+      "end_time": 1987.77,
+      "duration": 1.0,
+      "dialogue_text": "¿Eres un soldado?"
+    },
+    {
+      "subtitle_index": 298,
+      "start_time": 1988.35,
+      "end_time": 1989.35,
+      "duration": 1.0,
+      "dialogue_text": "Peor."
+    },
+    {
+      "subtitle_index": 299,
+      "start_time": 1989.52,
+      "end_time": 1990.52,
+      "duration": 1.0,
+      "dialogue_text": "Era un limpiador."
+    },
+    {
+      "subtitle_index": 300,
+      "start_time": 1991.15,
+      "end_time": 1992.15,
+      "duration": 1.0,
+      "dialogue_text": "Alimentaba a los niños."
+    },
+    {
+      "subtitle_index": 301,
+      "start_time": 1992.48,
+      "end_time": 1993.48,
+      "duration": 1.0,
+      "dialogue_text": "Limpiaba el baño."
+    },
+    {
+      "subtitle_index": 302,
+      "start_time": 1994.11,
+      "end_time": 1995.4,
+      "duration": 1.290000000000191,
+      "dialogue_text": "Fue cuando todo acabó."
+    },
+    {
+      "subtitle_index": 303,
+      "start_time": 1996.07,
+      "end_time": 1997.15,
+      "duration": 1.0800000000001546,
+      "dialogue_text": "Me convertí en un luchador."
+    },
+    {
+      "subtitle_index": 304,
+      "start_time": 1998.24,
+      "end_time": 1999.24,
+      "duration": 1.0,
+      "dialogue_text": "Un chico sin hogar."
+    },
+    {
+      "subtitle_index": 305,
+      "start_time": 1999.87,
+      "end_time": 2000.87,
+      "duration": 1.0,
+      "dialogue_text": "Para tu país."
+    },
+    {
+      "subtitle_index": 306,
+      "start_time": 2001.45,
+      "end_time": 2003.33,
+      "duration": 1.8799999999998818,
+      "dialogue_text": "No, peleaba por comida."
+    },
+    {
+      "subtitle_index": 307,
+      "start_time": 2005.37,
+      "end_time": 2006.37,
+      "duration": 1.0,
+      "dialogue_text": "Peleaba para comer."
+    },
+    {
+      "subtitle_index": 308,
+      "start_time": 2007.87,
+      "end_time": 2009.51,
+      "duration": 1.6400000000001,
+      "dialogue_text": "Vivi lo suficiente para pelear por dinero."
+    },
+    {
+      "subtitle_index": 309,
+      "start_time": 2010.5,
+      "end_time": 2011.9,
+      "duration": 1.400000000000091,
+      "dialogue_text": "¿Para cuantas banderas has peleado?"
+    },
+    {
+      "subtitle_index": 310,
+      "start_time": 2014.26,
+      "end_time": 2015.26,
+      "duration": 1.0,
+      "dialogue_text": "No lo sé."
+    },
+    {
+      "subtitle_index": 311,
+      "start_time": 2017.72,
+      "end_time": 2018.72,
+      "duration": 1.0,
+      "dialogue_text": "Pelee para ayudar."
+    },
+    {
+      "subtitle_index": 312,
+      "start_time": 2018.93,
+      "end_time": 2019.93,
+      "duration": 1.0,
+      "dialogue_text": "Contra los daneses."
+    },
+    {
+      "subtitle_index": 313,
+      "start_time": 2020.39,
+      "end_time": 2021.43,
+      "duration": 1.0399999999999636,
+      "dialogue_text": "Salvé la vida de un Duque."
+    },
+    {
+      "subtitle_index": 314,
+      "start_time": 2021.85,
+      "end_time": 2023.01,
+      "duration": 1.1600000000000819,
+      "dialogue_text": "Peleé por el hasta que muríó."
+    },
+    {
+      "subtitle_index": 315,
+      "start_time": 2023.89,
+      "end_time": 2025.45,
+      "duration": 1.5599999999999454,
+      "dialogue_text": "Peleé por España, contra los franceses."
+    },
+    {
+      "subtitle_index": 316,
+      "start_time": 2027.02,
+      "end_time": 2028.58,
+      "duration": 1.5599999999999454,
+      "dialogue_text": "Peleé con los franceses contra Polonia."
+    },
+    {
+      "subtitle_index": 317,
+      "start_time": 2029.19,
+      "end_time": 2030.19,
+      "duration": 1.0,
+      "dialogue_text": "Peleé para el Papa."
+    },
+    {
+      "subtitle_index": 318,
+      "start_time": 2032.65,
+      "end_time": 2033.65,
+      "duration": 1.0,
+      "dialogue_text": "Muchas banderas."
+    },
+    {
+      "subtitle_index": 319,
+      "start_time": 2037.86,
+      "end_time": 2038.91,
+      "duration": 1.050000000000182,
+      "dialogue_text": "No somos iguales."
+    },
+    {
+      "subtitle_index": 320,
+      "start_time": 2044.79,
+      "end_time": 2047.12,
+      "duration": 2.3299999999999272,
+      "dialogue_text": "Sigueme, tengo algo que mostrarte."
+    },
+    {
+      "subtitle_index": 321,
+      "start_time": 2051.67,
+      "end_time": 2052.95,
+      "duration": 1.2799999999997453,
+      "dialogue_text": "Deberías tener cuidado con ella."
+    },
+    {
+      "subtitle_index": 322,
+      "start_time": 2054.09,
+      "end_time": 2055.38,
+      "duration": 1.2899999999999636,
+      "dialogue_text": "Aquí es muy influyente."
+    },
+    {
+      "subtitle_index": 323,
+      "start_time": 2056.17,
+      "end_time": 2057.47,
+      "duration": 1.2999999999997272,
+      "dialogue_text": "Pero es un concurso justo."
+    },
+    {
+      "subtitle_index": 324,
+      "start_time": 2068.02,
+      "end_time": 2069.02,
+      "duration": 1.0,
+      "dialogue_text": "Ven."
+    },
+    {
+      "subtitle_index": 325,
+      "start_time": 2082.28,
+      "end_time": 2083.28,
+      "duration": 1.0,
+      "dialogue_text": "¿Quieres intentarlo?"
+    },
+    {
+      "subtitle_index": 326,
+      "start_time": 2092.46,
+      "end_time": 2094.38,
+      "duration": 1.9200000000000728,
+      "dialogue_text": "Dice que los hombres tienen mucho que enseñar."
+    },
+    {
+      "subtitle_index": 327,
+      "start_time": 2101.55,
+      "end_time": 2103.05,
+      "duration": 1.5,
+      "dialogue_text": "No creo que eso sea lo que dijo."
+    },
+    {
+      "subtitle_index": 328,
+      "start_time": 2104.01,
+      "end_time": 2105.01,
+      "duration": 1.0,
+      "dialogue_text": "¿Sabes que creo?"
+    },
+    {
+      "subtitle_index": 329,
+      "start_time": 2106.68,
+      "end_time": 2107.72,
+      "duration": 1.0399999999999636,
+      "dialogue_text": "Creo que tienes miedo."
+    },
+    {
+      "subtitle_index": 330,
+      "start_time": 2110.19,
+      "end_time": 2111.19,
+      "duration": 1.0,
+      "dialogue_text": "Dijiste eso esta mañana."
+    },
+    {
+      "subtitle_index": 331,
+      "start_time": 2112.94,
+      "end_time": 2114.44,
+      "duration": 1.5,
+      "dialogue_text": "Y así todo."
+    },
+    {
+      "subtitle_index": 332,
+      "start_time": 2115.27,
+      "end_time": 2116.27,
+      "duration": 1.0,
+      "dialogue_text": "Aquí estoy."
+    },
+    {
+      "subtitle_index": 333,
+      "start_time": 2116.57,
+      "end_time": 2117.57,
+      "duration": 1.0,
+      "dialogue_text": "Si."
+    },
+    {
+      "subtitle_index": 334,
+      "start_time": 2117.78,
+      "end_time": 2118.78,
+      "duration": 1.0,
+      "dialogue_text": "Aquí estas."
+    },
+    {
+      "subtitle_index": 335,
+      "start_time": 2135.17,
+      "end_time": 2136.17,
+      "duration": 1.0,
+      "dialogue_text": "¿Salatarás?"
+    },
+    {
+      "subtitle_index": 336,
+      "start_time": 2136.63,
+      "end_time": 2137.63,
+      "duration": 1.0,
+      "dialogue_text": "¿O no?"
+    },
+    {
+      "subtitle_index": 337,
+      "start_time": 2140.67,
+      "end_time": 2142.03,
+      "duration": 1.3600000000001273,
+      "dialogue_text": "¿Estos hombres saben lo que hacen?"
+    },
+    {
+      "subtitle_index": 338,
+      "start_time": 2142.93,
+      "end_time": 2143.93,
+      "duration": 1.0,
+      "dialogue_text": "Pregunta equivocada."
+    },
+    {
+      "subtitle_index": 339,
+      "start_time": 2148.18,
+      "end_time": 2152.94,
+      "duration": 4.760000000000218,
+      "dialogue_text": "¿Vale o no vale lo que el cable ata? Esa es la pregunta."
+    },
+    {
+      "subtitle_index": 340,
+      "start_time": 2156.44,
+      "end_time": 2157.44,
+      "duration": 1.0,
+      "dialogue_text": "Y la respuesta es..."
+    },
+    {
+      "subtitle_index": 341,
+      "start_time": 2163.15,
+      "end_time": 2164.53,
+      "duration": 1.3800000000001091,
+      "dialogue_text": "Significa confianza."
+    },
+    {
+      "subtitle_index": 342,
+      "start_time": 2165.16,
+      "end_time": 2166.16,
+      "duration": 1.0,
+      "dialogue_text": "Tener fe."
+    },
+    {
+      "subtitle_index": 343,
+      "start_time": 2167.62,
+      "end_time": 2172.29,
+      "duration": 4.670000000000073,
+      "dialogue_text": "Aqui, en este ejercito, peleamos más que por comida o dinero."
+    },
+    {
+      "subtitle_index": 344,
+      "start_time": 2174.0,
+      "end_time": 2175.63,
+      "duration": 1.6300000000001091,
+      "dialogue_text": "Mantenemos nuestras vidas por algo más."
+    },
+    {
+      "subtitle_index": 345,
+      "start_time": 2178.09,
+      "end_time": 2179.37,
+      "duration": 1.2799999999997453,
+      "dialogue_text": "La confianza es nuestra bandera."
+    },
+    {
+      "subtitle_index": 346,
+      "start_time": 2180.71,
+      "end_time": 2181.76,
+      "duration": 1.050000000000182,
+      "dialogue_text": "Confiar en el otro."
+    },
+    {
+      "subtitle_index": 347,
+      "start_time": 2183.26,
+      "end_time": 2186.14,
+      "duration": 2.8799999999996544,
+      "dialogue_text": "De todas las formas y todo el tiempo."
+    },
+    {
+      "subtitle_index": 348,
+      "start_time": 2200.61,
+      "end_time": 2203.15,
+      "duration": 2.5399999999999636,
+      "dialogue_text": "Eso esta muy bien y lindo, pero no voy a saltar."
+    },
+    {
+      "subtitle_index": 349,
+      "start_time": 2203.61,
+      "end_time": 2205.74,
+      "duration": 2.1299999999996544,
+      "dialogue_text": "Hoy estoy vivo porque no confio en nadie."
+    },
+    {
+      "subtitle_index": 350,
+      "start_time": 2208.16,
+      "end_time": 2211.41,
+      "duration": 3.25,
+      "dialogue_text": "Un hombre que no confia. No puede ser confiable."
+    },
+    {
+      "subtitle_index": 351,
+      "start_time": 2212.95,
+      "end_time": 2213.95,
+      "duration": 1.0,
+      "dialogue_text": "Entonces tienes razón."
+    },
+    {
+      "subtitle_index": 352,
+      "start_time": 2215.58,
+      "end_time": 2216.67,
+      "duration": 1.0900000000001455,
+      "dialogue_text": "No somos iguales."
+    },
+    {
+      "subtitle_index": 353,
+      "start_time": 2231.06,
+      "end_time": 2232.06,
+      "duration": 1.0,
+      "dialogue_text": "¡Dios mío!"
+    },
+    {
+      "subtitle_index": 354,
+      "start_time": 2233.89,
+      "end_time": 2239.52,
+      "duration": 5.630000000000109,
+      "dialogue_text": "Una prueba de las grandes cualidades que tiene el polvo negro."
+    },
+    {
+      "subtitle_index": 355,
+      "start_time": 2241.61,
+      "end_time": 2245.24,
+      "duration": 3.6299999999996544,
+      "dialogue_text": "Estos bastardos la tienen escondida como un elemento de amenaza."
+    },
+    {
+      "subtitle_index": 356,
+      "start_time": 2246.03,
+      "end_time": 2247.11,
+      "duration": 1.0799999999999272,
+      "dialogue_text": "Podría ser usada como arma."
+    },
+    {
+      "subtitle_index": 357,
+      "start_time": 2247.66,
+      "end_time": 2250.37,
+      "duration": 2.7100000000000364,
+      "dialogue_text": "Hay armas aqui. ¿Por qué no la usan?"
+    },
+    {
+      "subtitle_index": 358,
+      "start_time": 2251.91,
+      "end_time": 2253.41,
+      "duration": 1.5,
+      "dialogue_text": "Crees que no lo he considerado."
+    },
+    {
+      "subtitle_index": 359,
+      "start_time": 2254.29,
+      "end_time": 2258.88,
+      "duration": 4.5900000000001455,
+      "dialogue_text": "Hay que rezar por muchas cosas antes de llevarlas a cabo."
+    },
+    {
+      "subtitle_index": 360,
+      "start_time": 2262.96,
+      "end_time": 2267.05,
+      "duration": 4.0900000000001455,
+      "dialogue_text": "Pero nos marcharemos, cuando las bestias vuelvan a la batalla."
+    },
+    {
+      "subtitle_index": 361,
+      "start_time": 2267.88,
+      "end_time": 2271.68,
+      "duration": 3.799999999999727,
+      "dialogue_text": "Vendrán y descuidarán la guardia por vigilar las murallas."
+    },
+    {
+      "subtitle_index": 362,
+      "start_time": 2272.14,
+      "end_time": 2274.1,
+      "duration": 1.9600000000000364,
+      "dialogue_text": "Ese será nuestro momento."
+    },
+    {
+      "subtitle_index": 363,
+      "start_time": 2275.98,
+      "end_time": 2277.23,
+      "duration": 1.25,
+      "dialogue_text": "Nos escaparemos..."
+    },
+    {
+      "subtitle_index": 364,
+      "start_time": 2278.14,
+      "end_time": 2279.31,
+      "duration": 1.1700000000000728,
+      "dialogue_text": "Cuando comience la batalla."
+    },
+    {
+      "subtitle_index": 365,
+      "start_time": 2282.02,
+      "end_time": 2284.57,
+      "duration": 2.550000000000182,
+      "dialogue_text": "Y la puerta de la arsenal. ¿Tienes la llave?"
+    },
+    {
+      "subtitle_index": 366,
+      "start_time": 2285.24,
+      "end_time": 2286.65,
+      "duration": 1.4100000000003092,
+      "dialogue_text": "Tengo el polvo negro."
+    },
+    {
+      "subtitle_index": 367,
+      "start_time": 2287.24,
+      "end_time": 2288.66,
+      "duration": 1.4200000000000728,
+      "dialogue_text": "Suficiente para todos."
+    },
+    {
+      "subtitle_index": 368,
+      "start_time": 2289.57,
+      "end_time": 2290.82,
+      "duration": 1.25,
+      "dialogue_text": "Él nos ayudará a salir."
+    },
+    {
+      "subtitle_index": 369,
+      "start_time": 2296.54,
+      "end_time": 2299.62,
+      "duration": 3.0799999999999272,
+      "dialogue_text": "Piensa bien. ¿De dónde sacaste esta piedra?"
+    },
+    {
+      "subtitle_index": 370,
+      "start_time": 2300.71,
+      "end_time": 2301.71,
+      "duration": 1.0,
+      "dialogue_text": "Mis maletas."
+    },
+    {
+      "subtitle_index": 371,
+      "start_time": 2304.84,
+      "end_time": 2306.59,
+      "duration": 1.75,
+      "dialogue_text": "No es una fuerza conocida. Es poderosa."
+    },
+    {
+      "subtitle_index": 372,
+      "start_time": 2307.05,
+      "end_time": 2309.34,
+      "duration": 2.2899999999999636,
+      "dialogue_text": "Creo que la piedra nos podria ayudar."
+    },
+    {
+      "subtitle_index": 373,
+      "start_time": 2311.76,
+      "end_time": 2312.76,
+      "duration": 1.0,
+      "dialogue_text": "¿Lo intentarás?"
+    },
+    {
+      "subtitle_index": 374,
+      "start_time": 2314.89,
+      "end_time": 2315.97,
+      "duration": 1.0799999999999272,
+      "dialogue_text": "¿Dónde están los Taotie?"
+    },
+    {
+      "subtitle_index": 375,
+      "start_time": 2317.06,
+      "end_time": 2319.14,
+      "duration": 2.0799999999999272,
+      "dialogue_text": "Reagrupándose."
+    },
+    {
+      "subtitle_index": 376,
+      "start_time": 2320.52,
+      "end_time": 2321.52,
+      "duration": 1.0,
+      "dialogue_text": "¿De dónde vienen?"
+    },
+    {
+      "subtitle_index": 377,
+      "start_time": 2323.57,
+      "end_time": 2324.86,
+      "duration": 1.2899999999999636,
+      "dialogue_text": "Hace alrededor de 20 siglos."
+    },
+    {
+      "subtitle_index": 378,
+      "start_time": 2325.94,
+      "end_time": 2329.82,
+      "duration": 3.880000000000109,
+      "dialogue_text": "Hubo un emperador cuya avaricia ocasionó un gran sufrimiento a China."
+    },
+    {
+      "subtitle_index": 379,
+      "start_time": 2330.53,
+      "end_time": 2334.03,
+      "duration": 3.5,
+      "dialogue_text": "El cielo envió un meteorito contra su avaricia"
+    },
+    {
+      "subtitle_index": 380,
+      "start_time": 2334.08,
+      "end_time": 2336.33,
+      "duration": 2.25,
+      "dialogue_text": "y así se liberaron los Taotie."
+    },
+    {
+      "subtitle_index": 381,
+      "start_time": 2337.37,
+      "end_time": 2340.92,
+      "duration": 3.550000000000182,
+      "dialogue_text": "Desde ese dia, los Taotie se levantan cada 60 años."
+    },
+    {
+      "subtitle_index": 382,
+      "start_time": 2341.75,
+      "end_time": 2343.38,
+      "duration": 1.6300000000001091,
+      "dialogue_text": "Por todo el norte de China."
+    },
+    {
+      "subtitle_index": 383,
+      "start_time": 2344.54,
+      "end_time": 2349.01,
+      "duration": 4.470000000000255,
+      "dialogue_text": "Vienen a recordarnos lo que sucede cuando hay avaricia en nuestros corazones."
+    },
+    {
+      "subtitle_index": 384,
+      "start_time": 2350.26,
+      "end_time": 2351.26,
+      "duration": 1.0,
+      "dialogue_text": "Se comen lo que sea."
+    },
+    {
+      "subtitle_index": 385,
+      "start_time": 2351.97,
+      "end_time": 2353.05,
+      "duration": 1.080000000000382,
+      "dialogue_text": "La vida, el orden..."
+    },
+    {
+      "subtitle_index": 386,
+      "start_time": 2353.97,
+      "end_time": 2355.68,
+      "duration": 1.7100000000000364,
+      "dialogue_text": "Y le llevan comida a su reina."
+    },
+    {
+      "subtitle_index": 387,
+      "start_time": 2356.26,
+      "end_time": 2358.77,
+      "duration": 2.5099999999997635,
+      "dialogue_text": "Ella depende de sus soldados para que la alimenten."
+    },
+    {
+      "subtitle_index": 388,
+      "start_time": 2359.64,
+      "end_time": 2363.81,
+      "duration": 4.170000000000073,
+      "dialogue_text": "Solo con la comida que le proveen es capaz de multiplicarse."
+    },
+    {
+      "subtitle_index": 389,
+      "start_time": 2366.4,
+      "end_time": 2368.82,
+      "duration": 2.4200000000000728,
+      "dialogue_text": "La capital tiene 2 millones de personas."
+    },
+    {
+      "subtitle_index": 390,
+      "start_time": 2369.44,
+      "end_time": 2371.65,
+      "duration": 2.2100000000000364,
+      "dialogue_text": "Solo está a 800 leguas."
+    },
+    {
+      "subtitle_index": 391,
+      "start_time": 2372.49,
+      "end_time": 2375.58,
+      "duration": 3.0900000000001455,
+      "dialogue_text": "Si los Taotie tienen esa cantidad de personas."
+    },
+    {
+      "subtitle_index": 392,
+      "start_time": 2375.66,
+      "end_time": 2378.12,
+      "duration": 2.4600000000000364,
+      "dialogue_text": "Ningún rincón del mundo estará a salvo."
+    },
+    {
+      "subtitle_index": 393,
+      "start_time": 2379.66,
+      "end_time": 2381.25,
+      "duration": 1.5900000000001455,
+      "dialogue_text": "Maten a la reina."
+    },
+    {
+      "subtitle_index": 394,
+      "start_time": 2381.33,
+      "end_time": 2383.88,
+      "duration": 2.550000000000182,
+      "dialogue_text": "Varios han tratado, pero han desaparecido."
+    },
+    {
+      "subtitle_index": 395,
+      "start_time": 2384.42,
+      "end_time": 2385.88,
+      "duration": 1.4600000000000364,
+      "dialogue_text": "Nunca encontramos sus cuerpos."
+    },
+    {
+      "subtitle_index": 396,
+      "start_time": 2674.67,
+      "end_time": 2676.29,
+      "duration": 1.6199999999998909,
+      "dialogue_text": "Esta es la muralla."
+    },
+    {
+      "subtitle_index": 397,
+      "start_time": 2676.79,
+      "end_time": 2679.75,
+      "duration": 2.9600000000000364,
+      "dialogue_text": "Se ha traido para ayudar en la próxima batalla."
+    },
+    {
+      "subtitle_index": 398,
+      "start_time": 2684.22,
+      "end_time": 2686.3,
+      "duration": 2.080000000000382,
+      "dialogue_text": "Es unna batalla de 900 años."
+    },
+    {
+      "subtitle_index": 399,
+      "start_time": 2688.6,
+      "end_time": 2694.89,
+      "duration": 6.289999999999964,
+      "dialogue_text": "Solo eran tres bestias y mataron muchos hombres."
+    },
+    {
+      "subtitle_index": 400,
+      "start_time": 2698.19,
+      "end_time": 2700.36,
+      "duration": 2.1700000000000728,
+      "dialogue_text": "Entonnces por la gracia de los dioses..."
+    },
+    {
+      "subtitle_index": 401,
+      "start_time": 2700.98,
+      "end_time": 2703.82,
+      "duration": 2.8400000000001455,
+      "dialogue_text": "las bestias, se detuvieron..."
+    },
+    {
+      "subtitle_index": 402,
+      "start_time": 2706.61,
+      "end_time": 2709.03,
+      "duration": 2.4200000000000728,
+      "dialogue_text": "Y se retiraron."
+    },
+    {
+      "subtitle_index": 403,
+      "start_time": 2713.37,
+      "end_time": 2715.79,
+      "duration": 2.4200000000000728,
+      "dialogue_text": "La puerta de las bestias está hecha de piedras como estas."
+    },
+    {
+      "subtitle_index": 404,
+      "start_time": 2717.46,
+      "end_time": 2723.38,
+      "duration": 5.920000000000073,
+      "dialogue_text": "Creo que este objeto les fue dado a los orientales para sanar los daños."
+    },
+    {
+      "subtitle_index": 405,
+      "start_time": 2725.01,
+      "end_time": 2731.06,
+      "duration": 6.049999999999727,
+      "dialogue_text": "Creo que el imán hace que el túnel funcione y sostiene las estructuras de acero."
+    },
+    {
+      "subtitle_index": 406,
+      "start_time": 2736.56,
+      "end_time": 2737.64,
+      "duration": 1.0799999999999272,
+      "dialogue_text": "Le pregunta si está seguro."
+    },
+    {
+      "subtitle_index": 407,
+      "start_time": 2739.15,
+      "end_time": 2740.15,
+      "duration": 1.0,
+      "dialogue_text": "Podemos intentarlo."
+    },
+    {
+      "subtitle_index": 408,
+      "start_time": 2741.94,
+      "end_time": 2743.82,
+      "duration": 1.8800000000001091,
+      "dialogue_text": "Lr a lo de los Taotie y ver si funciona."
+    },
+    {
+      "subtitle_index": 409,
+      "start_time": 2748.07,
+      "end_time": 2749.82,
+      "duration": 1.75,
+      "dialogue_text": "Ninguno es lo suficientemente fuerte."
+    },
+    {
+      "subtitle_index": 410,
+      "start_time": 2750.24,
+      "end_time": 2753.58,
+      "duration": 3.3400000000001455,
+      "dialogue_text": "Cásenlos, como una ballena... ya saben lo que es..."
+    },
+    {
+      "subtitle_index": 411,
+      "start_time": 2754.83,
+      "end_time": 2756.08,
+      "duration": 1.25,
+      "dialogue_text": "Una bestia marina."
+    },
+    {
+      "subtitle_index": 412,
+      "start_time": 2756.46,
+      "end_time": 2758.75,
+      "duration": 2.2899999999999636,
+      "dialogue_text": "Cien veces del tamaño que alcanza un Taotie."
+    },
+    {
+      "subtitle_index": 413,
+      "start_time": 2759.63,
+      "end_time": 2763.55,
+      "duration": 3.9200000000000728,
+      "dialogue_text": "La lanza que usan, engancha el hueso y la halan."
+    },
+    {
+      "subtitle_index": 414,
+      "start_time": 2768.18,
+      "end_time": 2770.18,
+      "duration": 2.0,
+      "dialogue_text": "He visto antes hacer esto antes, en España."
+    },
+    {
+      "subtitle_index": 415,
+      "start_time": 2775.18,
+      "end_time": 2776.18,
+      "duration": 1.0,
+      "dialogue_text": "¿Qué demonios haces?"
+    },
+    {
+      "subtitle_index": 416,
+      "start_time": 2777.35,
+      "end_time": 2780.81,
+      "duration": 3.4600000000000364,
+      "dialogue_text": "Sabes que si los ayudamos no tendremos oportunidad de salir..."
+    },
+    {
+      "subtitle_index": 417,
+      "start_time": 2783.4,
+      "end_time": 2785.4,
+      "duration": 2.0,
+      "dialogue_text": "Si sales herido, serás una carga."
+    },
+    {
+      "subtitle_index": 418,
+      "start_time": 2786.95,
+      "end_time": 2787.95,
+      "duration": 1.0,
+      "dialogue_text": "Salte de esto."
+    },
+    {
+      "subtitle_index": 419,
+      "start_time": 2789.91,
+      "end_time": 2790.91,
+      "duration": 1.0,
+      "dialogue_text": "Hicimos lo suficiente."
+    },
+    {
+      "subtitle_index": 420,
+      "start_time": 2904.27,
+      "end_time": 2905.81,
+      "duration": 1.5399999999999636,
+      "dialogue_text": "- Estará aquí. - ¿Cuando?"
+    },
+    {
+      "subtitle_index": 421,
+      "start_time": 2906.77,
+      "end_time": 2907.77,
+      "duration": 1.0,
+      "dialogue_text": "¿Cuando nos venda?"
+    },
+    {
+      "subtitle_index": 422,
+      "start_time": 2907.86,
+      "end_time": 2908.94,
+      "duration": 1.0799999999999272,
+      "dialogue_text": "Va a pelear con nosotros."
+    },
+    {
+      "subtitle_index": 423,
+      "start_time": 2909.53,
+      "end_time": 2910.53,
+      "duration": 1.0,
+      "dialogue_text": "¿Comenzar?"
+    },
+    {
+      "subtitle_index": 424,
+      "start_time": 2910.86,
+      "end_time": 2912.03,
+      "duration": 1.1700000000000728,
+      "dialogue_text": "Vamos a vivir aqui."
+    },
+    {
+      "subtitle_index": 425,
+      "start_time": 2913.07,
+      "end_time": 2914.07,
+      "duration": 1.0,
+      "dialogue_text": "Tengo todo."
+    },
+    {
+      "subtitle_index": 426,
+      "start_time": 2914.32,
+      "end_time": 2915.87,
+      "duration": 1.5499999999997272,
+      "dialogue_text": "El polvo, las herramientas, mapas..."
+    },
+    {
+      "subtitle_index": 427,
+      "start_time": 2916.24,
+      "end_time": 2918.08,
+      "duration": 1.8400000000001455,
+      "dialogue_text": "Todo está escondido en una cueva del camino."
+    },
+    {
+      "subtitle_index": 428,
+      "start_time": 2918.54,
+      "end_time": 2919.62,
+      "duration": 1.0799999999999272,
+      "dialogue_text": "¿Qué esperamos?"
+    },
+    {
+      "subtitle_index": 429,
+      "start_time": 2920.08,
+      "end_time": 2921.08,
+      "duration": 1.0,
+      "dialogue_text": "No hay regreso."
+    },
+    {
+      "subtitle_index": 430,
+      "start_time": 3027.19,
+      "end_time": 3028.27,
+      "duration": 1.0799999999999272,
+      "dialogue_text": "- Lo encontrare. - Olvídalo."
+    },
+    {
+      "subtitle_index": 431,
+      "start_time": 3028.98,
+      "end_time": 3031.06,
+      "duration": 2.0799999999999272,
+      "dialogue_text": "Prefiere morir tratando de impresionar a la chica."
+    },
+    {
+      "subtitle_index": 432,
+      "start_time": 3031.73,
+      "end_time": 3035.44,
+      "duration": 3.7100000000000364,
+      "dialogue_text": "Todos los hombres valientes del mundo arrojan la llave."
+    },
+    {
+      "subtitle_index": 433,
+      "start_time": 3037.03,
+      "end_time": 3040.07,
+      "duration": 3.0399999999999636,
+      "dialogue_text": "- Dios, Tovar, el momento es ahora. - No nos podemos ir sin el."
+    },
+    {
+      "subtitle_index": 434,
+      "start_time": 3041.28,
+      "end_time": 3043.37,
+      "duration": 2.0899999999996908,
+      "dialogue_text": "- El tiempo es preciso... - Necesitamos su arco."
+    },
+    {
+      "subtitle_index": 435,
+      "start_time": 3047.63,
+      "end_time": 3048.64,
+      "duration": 1.0099999999997635,
+      "dialogue_text": "Ballestas!"
+    },
+    {
+      "subtitle_index": 436,
+      "start_time": 3048.78,
+      "end_time": 3051.88,
+      "duration": 3.099999999999909,
+      "dialogue_text": "- Ballestas ahora! - ¡Si! ¡Ballestas ahora!"
+    },
+    {
+      "subtitle_index": 437,
+      "start_time": 3055.72,
+      "end_time": 3056.96,
+      "duration": 1.2400000000002365,
+      "dialogue_text": "Disparen!"
+    },
+    {
+      "subtitle_index": 438,
+      "start_time": 3097.72,
+      "end_time": 3098.68,
+      "duration": 0.9600000000000364,
+      "dialogue_text": "Ahi!"
+    },
+    {
+      "subtitle_index": 439,
+      "start_time": 3098.68,
+      "end_time": 3100.68,
+      "duration": 2.0,
+      "dialogue_text": "- No resistira. - ¡Tiren mas fuerte!"
+    },
+    {
+      "subtitle_index": 440,
+      "start_time": 3126.75,
+      "end_time": 3127.9,
+      "duration": 1.150000000000091,
+      "dialogue_text": "Mas!"
+    },
+    {
+      "subtitle_index": 441,
+      "start_time": 3127.91,
+      "end_time": 3129.2,
+      "duration": 1.2899999999999636,
+      "dialogue_text": "No, no. Deténganse."
+    },
+    {
+      "subtitle_index": 442,
+      "start_time": 3129.91,
+      "end_time": 3131.46,
+      "duration": 1.550000000000182,
+      "dialogue_text": "Suéltenla, demasiada tensión."
+    },
+    {
+      "subtitle_index": 443,
+      "start_time": 3132.0,
+      "end_time": 3133.0,
+      "duration": 1.0,
+      "dialogue_text": "Se romperá."
+    },
+    {
+      "subtitle_index": 444,
+      "start_time": 3133.58,
+      "end_time": 3135.25,
+      "duration": 1.6700000000000728,
+      "dialogue_text": "Para allá. Vamos."
+    },
+    {
+      "subtitle_index": 445,
+      "start_time": 3140.09,
+      "end_time": 3141.09,
+      "duration": 1.0,
+      "dialogue_text": "Alto."
+    },
+    {
+      "subtitle_index": 446,
+      "start_time": 3141.88,
+      "end_time": 3143.72,
+      "duration": 1.8399999999996908,
+      "dialogue_text": "Necesitamos que se debilite para que funncione."
+    },
+    {
+      "subtitle_index": 447,
+      "start_time": 3149.02,
+      "end_time": 3150.02,
+      "duration": 1.0,
+      "dialogue_text": "Para allá."
+    },
+    {
+      "subtitle_index": 448,
+      "start_time": 3151.85,
+      "end_time": 3153.81,
+      "duration": 1.9600000000000364,
+      "dialogue_text": "Tenemos que aislarlo. Separarlo de los demás."
+    },
+    {
+      "subtitle_index": 449,
+      "start_time": 3184.8,
+      "end_time": 3185.8,
+      "duration": 1.0,
+      "dialogue_text": "Willíam, espera."
+    },
+    {
+      "subtitle_index": 450,
+      "start_time": 3189.81,
+      "end_time": 3191.6,
+      "duration": 1.7899999999999636,
+      "dialogue_text": "Estas flechas suenan."
+    },
+    {
+      "subtitle_index": 451,
+      "start_time": 3194.56,
+      "end_time": 3195.6,
+      "duration": 1.0399999999999636,
+      "dialogue_text": "Apunta al sur."
+    },
+    {
+      "subtitle_index": 452,
+      "start_time": 3279.56,
+      "end_time": 3281.94,
+      "duration": 2.380000000000109,
+      "dialogue_text": "Solo quiero tener la oportunidad de matarte yo mismo."
+    },
+    {
+      "subtitle_index": 453,
+      "start_time": 3284.57,
+      "end_time": 3286.11,
+      "duration": 1.5399999999999636,
+      "dialogue_text": "Agarra el hacha para defenderte."
+    },
+    {
+      "subtitle_index": 454,
+      "start_time": 3295.5,
+      "end_time": 3297.1,
+      "duration": 1.599999999999909,
+      "dialogue_text": "- Todavia... - Sé lo que tengo que hacer."
+    },
+    {
+      "subtitle_index": 455,
+      "start_time": 3327.74,
+      "end_time": 3328.86,
+      "duration": 1.1200000000003456,
+      "dialogue_text": "El fuego no los detiene."
+    },
+    {
+      "subtitle_index": 456,
+      "start_time": 3329.99,
+      "end_time": 3330.99,
+      "duration": 1.0,
+      "dialogue_text": "Bien hecho, hermano."
+    },
+    {
+      "subtitle_index": 457,
+      "start_time": 3337.83,
+      "end_time": 3339.21,
+      "duration": 1.3800000000001091,
+      "dialogue_text": "¿Qué demonios haces?"
+    },
+    {
+      "subtitle_index": 458,
+      "start_time": 3339.58,
+      "end_time": 3340.67,
+      "duration": 1.0900000000001455,
+      "dialogue_text": "Ella va a verlo."
+    },
+    {
+      "subtitle_index": 459,
+      "start_time": 3441.72,
+      "end_time": 3442.72,
+      "duration": 1.0,
+      "dialogue_text": "¿Funcionó?"
+    },
+    {
+      "subtitle_index": 460,
+      "start_time": 3443.35,
+      "end_time": 3443.85,
+      "duration": 0.5,
+      "dialogue_text": "Si."
+    },
+    {
+      "subtitle_index": 461,
+      "start_time": 3444.35,
+      "end_time": 3445.35,
+      "duration": 1.0,
+      "dialogue_text": "La bestia fue capturada."
+    },
+    {
+      "subtitle_index": 462,
+      "start_time": 3447.15,
+      "end_time": 3448.15,
+      "duration": 1.0,
+      "dialogue_text": "Mi amigo."
+    },
+    {
+      "subtitle_index": 463,
+      "start_time": 3449.27,
+      "end_time": 3450.27,
+      "duration": 1.0,
+      "dialogue_text": "Está ileso."
+    },
+    {
+      "subtitle_index": 464,
+      "start_time": 3461.41,
+      "end_time": 3462.66,
+      "duration": 1.25,
+      "dialogue_text": "¿Por qué bajaste?"
+    },
+    {
+      "subtitle_index": 465,
+      "start_time": 3468.43,
+      "end_time": 3470.03,
+      "duration": 1.6000000000003638,
+      "dialogue_text": "Heroismo."
+    },
+    {
+      "subtitle_index": 466,
+      "start_time": 3471.28,
+      "end_time": 3473.21,
+      "duration": 1.9299999999998363,
+      "dialogue_text": "¿Lo díje bien?"
+    },
+    {
+      "subtitle_index": 467,
+      "start_time": 3477.13,
+      "end_time": 3478.51,
+      "duration": 1.3800000000001091,
+      "dialogue_text": "Gracias."
+    },
+    {
+      "subtitle_index": 468,
+      "start_time": 3485.69,
+      "end_time": 3486.69,
+      "duration": 1.0,
+      "dialogue_text": "Polvo negro."
+    },
+    {
+      "subtitle_index": 469,
+      "start_time": 3489.06,
+      "end_time": 3490.15,
+      "duration": 1.0900000000001455,
+      "dialogue_text": "Es un arma terrible."
+    },
+    {
+      "subtitle_index": 470,
+      "start_time": 3492.11,
+      "end_time": 3494.9,
+      "duration": 2.7899999999999636,
+      "dialogue_text": "Sería mejor si no le hubieras visto nunca."
+    },
+    {
+      "subtitle_index": 471,
+      "start_time": 3500.28,
+      "end_time": 3502.33,
+      "duration": 2.049999999999727,
+      "dialogue_text": "No queremos que salga al mundo exterior."
+    },
+    {
+      "subtitle_index": 472,
+      "start_time": 3503.95,
+      "end_time": 3508.08,
+      "duration": 4.130000000000109,
+      "dialogue_text": "Pero me parece que la grandeza del hombre no debe ser regulada por los Taotie."
+    },
+    {
+      "subtitle_index": 473,
+      "start_time": 3509.75,
+      "end_time": 3510.75,
+      "duration": 1.0,
+      "dialogue_text": "¿No es así?"
+    },
+    {
+      "subtitle_index": 474,
+      "start_time": 3512.67,
+      "end_time": 3513.92,
+      "duration": 1.25,
+      "dialogue_text": "Destruyen lo que quieren."
+    },
+    {
+      "subtitle_index": 475,
+      "start_time": 3526.18,
+      "end_time": 3527.39,
+      "duration": 1.2100000000000364,
+      "dialogue_text": "Olvida lo que has visto."
+    },
+    {
+      "subtitle_index": 476,
+      "start_time": 3576.33,
+      "end_time": 3577.5,
+      "duration": 1.1700000000000728,
+      "dialogue_text": "Bueno..."
+    },
+    {
+      "subtitle_index": 477,
+      "start_time": 3577.72,
+      "end_time": 3580.09,
+      "duration": 2.3700000000003456,
+      "dialogue_text": "Un iman lo tranquiliza."
+    },
+    {
+      "subtitle_index": 478,
+      "start_time": 3580.09,
+      "end_time": 3582.92,
+      "duration": 2.8299999999999272,
+      "dialogue_text": "¡Imposible! ¿Y eso en que nos puede ayudar?"
+    },
+    {
+      "subtitle_index": 479,
+      "start_time": 3582.92,
+      "end_time": 3585.72,
+      "duration": 2.799999999999727,
+      "dialogue_text": "Mandare traer imanes para todos de tierras lejanas..."
+    },
+    {
+      "subtitle_index": 480,
+      "start_time": 3585.72,
+      "end_time": 3589.1,
+      "duration": 3.380000000000109,
+      "dialogue_text": "Es la mejor idea desde la creacion de la muralla."
+    },
+    {
+      "subtitle_index": 481,
+      "start_time": 3612.81,
+      "end_time": 3613.98,
+      "duration": 1.1700000000000728,
+      "dialogue_text": "Muy valiente lo de hoy."
+    },
+    {
+      "subtitle_index": 482,
+      "start_time": 3643.34,
+      "end_time": 3644.34,
+      "duration": 1.0,
+      "dialogue_text": "¿Tus heridas?"
+    },
+    {
+      "subtitle_index": 483,
+      "start_time": 3647.72,
+      "end_time": 3648.72,
+      "duration": 1.0,
+      "dialogue_text": "Estaba buscándote."
+    },
+    {
+      "subtitle_index": 484,
+      "start_time": 3650.39,
+      "end_time": 3651.39,
+      "duration": 1.0,
+      "dialogue_text": "Para agradecerte."
+    },
+    {
+      "subtitle_index": 485,
+      "start_time": 3657.69,
+      "end_time": 3658.69,
+      "duration": 1.0,
+      "dialogue_text": "¿Hiciste bien, no?"
+    },
+    {
+      "subtitle_index": 486,
+      "start_time": 3659.86,
+      "end_time": 3660.99,
+      "duration": 1.1299999999996544,
+      "dialogue_text": "Tal vez una hermosa canción."
+    },
+    {
+      "subtitle_index": 487,
+      "start_time": 3663.49,
+      "end_time": 3664.49,
+      "duration": 1.0,
+      "dialogue_text": "Te acompañaría."
+    },
+    {
+      "subtitle_index": 488,
+      "start_time": 3665.82,
+      "end_time": 3667.83,
+      "duration": 2.0099999999997635,
+      "dialogue_text": "Parece que salvaste a la agradecida china."
+    },
+    {
+      "subtitle_index": 489,
+      "start_time": 3669.45,
+      "end_time": 3670.83,
+      "duration": 1.3800000000001091,
+      "dialogue_text": "Tambíén estabas ahí, no digas eso."
+    },
+    {
+      "subtitle_index": 490,
+      "start_time": 3671.16,
+      "end_time": 3672.21,
+      "duration": 1.050000000000182,
+      "dialogue_text": "Tienen el polvo negro."
+    },
+    {
+      "subtitle_index": 491,
+      "start_time": 3673.83,
+      "end_time": 3674.99,
+      "duration": 1.1599999999998545,
+      "dialogue_text": "¿No se lo darán a sus amigos?"
+    },
+    {
+      "subtitle_index": 492,
+      "start_time": 3676.04,
+      "end_time": 3677.5,
+      "duration": 1.4600000000000364,
+      "dialogue_text": "El polvo negro no va a nnguna parte."
+    },
+    {
+      "subtitle_index": 493,
+      "start_time": 3677.96,
+      "end_time": 3679.21,
+      "duration": 1.25,
+      "dialogue_text": "El que no se va eres tú."
+    },
+    {
+      "subtitle_index": 494,
+      "start_time": 3684.05,
+      "end_time": 3685.13,
+      "duration": 1.0799999999999272,
+      "dialogue_text": "Dime que quieres de esto."
+    },
+    {
+      "subtitle_index": 495,
+      "start_time": 3687.22,
+      "end_time": 3688.68,
+      "duration": 1.4600000000000364,
+      "dialogue_text": "¿Crees que eres un tipo de heroe?"
+    },
+    {
+      "subtitle_index": 496,
+      "start_time": 3690.14,
+      "end_time": 3691.14,
+      "duration": 1.0,
+      "dialogue_text": "¿Tienes una virtud?"
+    },
+    {
+      "subtitle_index": 497,
+      "start_time": 3692.31,
+      "end_time": 3693.35,
+      "duration": 1.0399999999999636,
+      "dialogue_text": "Tal vez puedas engañarles."
+    },
+    {
+      "subtitle_index": 498,
+      "start_time": 3694.85,
+      "end_time": 3695.85,
+      "duration": 1.0,
+      "dialogue_text": "Pero se lo que eres."
+    },
+    {
+      "subtitle_index": 499,
+      "start_time": 3697.73,
+      "end_time": 3699.73,
+      "duration": 2.0,
+      "dialogue_text": "Tú sabes lo que eres."
+    },
+    {
+      "subtitle_index": 500,
+      "start_time": 3701.53,
+      "end_time": 3703.7,
+      "duration": 2.169999999999618,
+      "dialogue_text": "Un ladrón, un mentiroso..."
+    },
+    {
+      "subtitle_index": 501,
+      "start_time": 3707.16,
+      "end_time": 3708.16,
+      "duration": 1.0,
+      "dialogue_text": "Un asesino."
+    },
+    {
+      "subtitle_index": 502,
+      "start_time": 3711.04,
+      "end_time": 3712.75,
+      "duration": 1.7100000000000364,
+      "dialogue_text": "No puedes deshacer lo que se ha hecho."
+    },
+    {
+      "subtitle_index": 503,
+      "start_time": 3714.16,
+      "end_time": 3715.16,
+      "duration": 1.0,
+      "dialogue_text": "Nunca lo harás."
+    },
+    {
+      "subtitle_index": 504,
+      "start_time": 3746.95,
+      "end_time": 3747.95,
+      "duration": 1.0,
+      "dialogue_text": "- ¿Ayudará? - ¿No?"
+    },
+    {
+      "subtitle_index": 505,
+      "start_time": 3748.57,
+      "end_time": 3750.57,
+      "duration": 2.0,
+      "dialogue_text": "- ¿Como sabes que no nos traicionará? - No lo hará."
+    },
+    {
+      "subtitle_index": 506,
+      "start_time": 3751.16,
+      "end_time": 3752.62,
+      "duration": 1.4600000000000364,
+      "dialogue_text": "Entonces mátalo. Mátalo ya."
+    },
+    {
+      "subtitle_index": 507,
+      "start_time": 3753.33,
+      "end_time": 3754.54,
+      "duration": 1.2100000000000364,
+      "dialogue_text": "Ya alguien lo hará."
+    },
+    {
+      "subtitle_index": 508,
+      "start_time": 3756.37,
+      "end_time": 3757.37,
+      "duration": 1.0,
+      "dialogue_text": "No nos perseguirá."
+    },
+    {
+      "subtitle_index": 509,
+      "start_time": 3800.54,
+      "end_time": 3801.54,
+      "duration": 1.0,
+      "dialogue_text": "¡Aleja eso!"
+    },
+    {
+      "subtitle_index": 510,
+      "start_time": 3802.79,
+      "end_time": 3803.79,
+      "duration": 1.0,
+      "dialogue_text": "¡Aquí hay pólvora!"
+    },
+    {
+      "subtitle_index": 511,
+      "start_time": 3815.6,
+      "end_time": 3816.6,
+      "duration": 1.0,
+      "dialogue_text": "Tovar."
+    },
+    {
+      "subtitle_index": 512,
+      "start_time": 3848.67,
+      "end_time": 3849.67,
+      "duration": 1.0,
+      "dialogue_text": "¡Por aquí!"
+    },
+    {
+      "subtitle_index": 513,
+      "start_time": 3876.7,
+      "end_time": 3877.7,
+      "duration": 1.0,
+      "dialogue_text": "Echa un vistaZo."
+    },
+    {
+      "subtitle_index": 514,
+      "start_time": 3877.74,
+      "end_time": 3878.9,
+      "duration": 1.1600000000003092,
+      "dialogue_text": "Mira a ver si está encendido."
+    },
+    {
+      "subtitle_index": 515,
+      "start_time": 3879.45,
+      "end_time": 3880.45,
+      "duration": 1.0,
+      "dialogue_text": "¿Es seguro?"
+    },
+    {
+      "subtitle_index": 516,
+      "start_time": 3880.96,
+      "end_time": 3881.96,
+      "duration": 1.0,
+      "dialogue_text": "Por supuesto que si."
+    },
+    {
+      "subtitle_index": 517,
+      "start_time": 3911.19,
+      "end_time": 3912.19,
+      "duration": 1.0,
+      "dialogue_text": "Vamos."
+    },
+    {
+      "subtitle_index": 518,
+      "start_time": 3912.57,
+      "end_time": 3913.57,
+      "duration": 1.0,
+      "dialogue_text": "Adelante."
+    },
+    {
+      "subtitle_index": 519,
+      "start_time": 3916.99,
+      "end_time": 3918.59,
+      "duration": 1.6000000000003638,
+      "dialogue_text": "Pensé que dijiste que estábamos a salvo."
+    },
+    {
+      "subtitle_index": 520,
+      "start_time": 3920.08,
+      "end_time": 3921.28,
+      "duration": 1.2000000000002728,
+      "dialogue_text": "Lo estábamos de cierta manera."
+    },
+    {
+      "subtitle_index": 521,
+      "start_time": 3933.76,
+      "end_time": 3934.76,
+      "duration": 1.0,
+      "dialogue_text": "Están aquí."
+    },
+    {
+      "subtitle_index": 522,
+      "start_time": 3935.59,
+      "end_time": 3936.93,
+      "duration": 1.3399999999996908,
+      "dialogue_text": "¿Volviste en si, eh?"
+    },
+    {
+      "subtitle_index": 523,
+      "start_time": 3937.89,
+      "end_time": 3940.27,
+      "duration": 2.380000000000109,
+      "dialogue_text": "Volvamos al plan. Salir es fácil."
+    },
+    {
+      "subtitle_index": 524,
+      "start_time": 3941.06,
+      "end_time": 3942.81,
+      "duration": 1.75,
+      "dialogue_text": "Hay una puerta a 20 millas al oeste."
+    },
+    {
+      "subtitle_index": 525,
+      "start_time": 3943.43,
+      "end_time": 3944.64,
+      "duration": 1.2100000000000364,
+      "dialogue_text": "Podemos salir triunfantes."
+    },
+    {
+      "subtitle_index": 526,
+      "start_time": 3946.81,
+      "end_time": 3947.81,
+      "duration": 1.0,
+      "dialogue_text": "Podemos hacerlo."
+    },
+    {
+      "subtitle_index": 527,
+      "start_time": 3948.9,
+      "end_time": 3949.9,
+      "duration": 1.0,
+      "dialogue_text": "Nos van a ver."
+    },
+    {
+      "subtitle_index": 528,
+      "start_time": 3950.02,
+      "end_time": 3951.02,
+      "duration": 1.0,
+      "dialogue_text": "No nos detendrán."
+    },
+    {
+      "subtitle_index": 529,
+      "start_time": 3952.86,
+      "end_time": 3954.9,
+      "duration": 2.0399999999999636,
+      "dialogue_text": "- Estas personas están condenadas. - No seas idiota."
+    },
+    {
+      "subtitle_index": 530,
+      "start_time": 3955.11,
+      "end_time": 3956.15,
+      "duration": 1.0399999999999636,
+      "dialogue_text": "He estado siendo un tonto."
+    },
+    {
+      "subtitle_index": 531,
+      "start_time": 3956.49,
+      "end_time": 3957.49,
+      "duration": 1.0,
+      "dialogue_text": "¿Has terminado?"
+    },
+    {
+      "subtitle_index": 532,
+      "start_time": 3958.91,
+      "end_time": 3959.91,
+      "duration": 1.0,
+      "dialogue_text": "Hermano, por favor."
+    },
+    {
+      "subtitle_index": 533,
+      "start_time": 3961.45,
+      "end_time": 3962.45,
+      "duration": 1.0,
+      "dialogue_text": "Puedes pelear por nada."
+    },
+    {
+      "subtitle_index": 534,
+      "start_time": 3964.16,
+      "end_time": 3965.16,
+      "duration": 1.0,
+      "dialogue_text": "Por avaricia."
+    },
+    {
+      "subtitle_index": 535,
+      "start_time": 3967.29,
+      "end_time": 3971.09,
+      "duration": 3.800000000000182,
+      "dialogue_text": "Despues de lo planeado, del dolor y el frío."
+    },
+    {
+      "subtitle_index": 536,
+      "start_time": 3972.17,
+      "end_time": 3974.92,
+      "duration": 2.75,
+      "dialogue_text": "Podemos tomar este polvo negro y salir de aquí. Juntos."
+    },
+    {
+      "subtitle_index": 537,
+      "start_time": 3977.09,
+      "end_time": 3978.09,
+      "duration": 1.0,
+      "dialogue_text": "Vienes conmigo."
+    },
+    {
+      "subtitle_index": 538,
+      "start_time": 3980.43,
+      "end_time": 3981.43,
+      "duration": 1.0,
+      "dialogue_text": "No puedo hacer eso ahora."
+    },
+    {
+      "subtitle_index": 539,
+      "start_time": 3983.73,
+      "end_time": 3984.73,
+      "duration": 1.0,
+      "dialogue_text": "Quédense y peleen."
+    },
+    {
+      "subtitle_index": 540,
+      "start_time": 3986.1,
+      "end_time": 3987.1,
+      "duration": 1.0,
+      "dialogue_text": "William."
+    },
+    {
+      "subtitle_index": 541,
+      "start_time": 3992.03,
+      "end_time": 3994.23,
+      "duration": 2.199999999999818,
+      "dialogue_text": "- ¿Crees que está muerto? - Vas a necesitar más que eso."
+    },
+    {
+      "subtitle_index": 542,
+      "start_time": 3998.48,
+      "end_time": 4000.68,
+      "duration": 2.199999999999818,
+      "dialogue_text": "Los blancos han escapado..."
+    },
+    {
+      "subtitle_index": 543,
+      "start_time": 4000.78,
+      "end_time": 4002.78,
+      "duration": 2.0,
+      "dialogue_text": "Junto con el que ya teniamos..."
+    },
+    {
+      "subtitle_index": 544,
+      "start_time": 4005.16,
+      "end_time": 4007.68,
+      "duration": 2.519999999999982,
+      "dialogue_text": "Debimos usarlos como mortero."
+    },
+    {
+      "subtitle_index": 545,
+      "start_time": 4007.68,
+      "end_time": 4009.68,
+      "duration": 2.0,
+      "dialogue_text": "Y hacer que sus familiares tomen sus lugares."
+    },
+    {
+      "subtitle_index": 546,
+      "start_time": 4010.8,
+      "end_time": 4014.01,
+      "duration": 3.2100000000000364,
+      "dialogue_text": "Dejenme al del arco en el trasero..."
+    },
+    {
+      "subtitle_index": 547,
+      "start_time": 4014.33,
+      "end_time": 4016.12,
+      "duration": 1.7899999999999636,
+      "dialogue_text": "De el yo me encargo."
+    },
+    {
+      "subtitle_index": 548,
+      "start_time": 4016.83,
+      "end_time": 4018.41,
+      "duration": 1.5799999999999272,
+      "dialogue_text": "Como diga mi principe..."
+    },
+    {
+      "subtitle_index": 549,
+      "start_time": 4019.16,
+      "end_time": 4020.51,
+      "duration": 1.3500000000003638,
+      "dialogue_text": "Que camino tomaron?"
+    },
+    {
+      "subtitle_index": 550,
+      "start_time": 4020.51,
+      "end_time": 4021.95,
+      "duration": 1.4399999999995998,
+      "dialogue_text": "Al sur."
+    },
+    {
+      "subtitle_index": 551,
+      "start_time": 4021.95,
+      "end_time": 4023.88,
+      "duration": 1.930000000000291,
+      "dialogue_text": "Envien tropas a buscarlos."
+    },
+    {
+      "subtitle_index": 552,
+      "start_time": 4024.35,
+      "end_time": 4025.84,
+      "duration": 1.4900000000002365,
+      "dialogue_text": "Ire yo."
+    },
+    {
+      "subtitle_index": 553,
+      "start_time": 4026.2,
+      "end_time": 4028.08,
+      "duration": 1.8800000000001091,
+      "dialogue_text": "No es trabajo para una princesa."
+    },
+    {
+      "subtitle_index": 554,
+      "start_time": 4028.08,
+      "end_time": 4030.0,
+      "duration": 1.9200000000000728,
+      "dialogue_text": "Yo ire con ella."
+    },
+    {
+      "subtitle_index": 555,
+      "start_time": 4030.32,
+      "end_time": 4031.69,
+      "duration": 1.3699999999998909,
+      "dialogue_text": "Yo tambien."
+    },
+    {
+      "subtitle_index": 556,
+      "start_time": 4031.77,
+      "end_time": 4034.11,
+      "duration": 2.3400000000001455,
+      "dialogue_text": "Su valentia se recompensara."
+    },
+    {
+      "subtitle_index": 557,
+      "start_time": 4035.64,
+      "end_time": 4037.18,
+      "duration": 1.5399999999999636,
+      "dialogue_text": "Ya me arrepenti."
+    },
+    {
+      "subtitle_index": 558,
+      "start_time": 4059.72,
+      "end_time": 4064.18,
+      "duration": 4.460000000000036,
+      "dialogue_text": "La Capítal. Bianliang."
+    },
+    {
+      "subtitle_index": 559,
+      "start_time": 4097.64,
+      "end_time": 4099.4,
+      "duration": 1.7599999999993088,
+      "dialogue_text": "Es uno real."
+    },
+    {
+      "subtitle_index": 560,
+      "start_time": 4099.58,
+      "end_time": 4100.88,
+      "duration": 1.300000000000182,
+      "dialogue_text": "Si emperador."
+    },
+    {
+      "subtitle_index": 561,
+      "start_time": 4100.88,
+      "end_time": 4103.82,
+      "duration": 2.9399999999996,
+      "dialogue_text": "Emperador, esta calmado por el iman..."
+    },
+    {
+      "subtitle_index": 562,
+      "start_time": 4103.82,
+      "end_time": 4105.82,
+      "duration": 2.0,
+      "dialogue_text": "Al parecer los adormece..."
+    },
+    {
+      "subtitle_index": 563,
+      "start_time": 4106.4,
+      "end_time": 4110.72,
+      "duration": 4.3200000000006185,
+      "dialogue_text": "Con este conocimiento podriamos..."
+    },
+    {
+      "subtitle_index": 564,
+      "start_time": 4110.91,
+      "end_time": 4113.84,
+      "duration": 2.930000000000291,
+      "dialogue_text": "Mandar hacer collares anti monstruos."
+    },
+    {
+      "subtitle_index": 565,
+      "start_time": 4113.84,
+      "end_time": 4115.84,
+      "duration": 2.0,
+      "dialogue_text": "Traiganlo!"
+    },
+    {
+      "subtitle_index": 566,
+      "start_time": 4133.37,
+      "end_time": 4135.45,
+      "duration": 2.0799999999999272,
+      "dialogue_text": "- Trate de detener... - ¿Te atreves a hablar conmigo?"
+    },
+    {
+      "subtitle_index": 567,
+      "start_time": 4138.38,
+      "end_time": 4139.38,
+      "duration": 1.0,
+      "dialogue_text": "No hice esto."
+    },
+    {
+      "subtitle_index": 568,
+      "start_time": 4140.26,
+      "end_time": 4141.46,
+      "duration": 1.199999999999818,
+      "dialogue_text": "Y viniste aquí a intercambiar."
+    },
+    {
+      "subtitle_index": 569,
+      "start_time": 4143.09,
+      "end_time": 4144.84,
+      "duration": 1.75,
+      "dialogue_text": "Y no sabias nada del polvo negro."
+    },
+    {
+      "subtitle_index": 570,
+      "start_time": 4146.85,
+      "end_time": 4148.35,
+      "duration": 1.5,
+      "dialogue_text": "Que tonta debes creer que soy."
+    },
+    {
+      "subtitle_index": 571,
+      "start_time": 4149.97,
+      "end_time": 4152.77,
+      "duration": 2.800000000000182,
+      "dialogue_text": "Si hubiera estado con ellos. Por que estaria aquí. Traté de detenerlos."
+    },
+    {
+      "subtitle_index": 572,
+      "start_time": 4155.81,
+      "end_time": 4156.81,
+      "duration": 1.0,
+      "dialogue_text": "¡Mientes!"
+    },
+    {
+      "subtitle_index": 573,
+      "start_time": 4158.94,
+      "end_time": 4160.46,
+      "duration": 1.5200000000004366,
+      "dialogue_text": "Una parte de ti sabe que no es verdad."
+    },
+    {
+      "subtitle_index": 574,
+      "start_time": 4161.11,
+      "end_time": 4164.99,
+      "duration": 3.880000000000109,
+      "dialogue_text": "Si no fuera el general, te mataría yo misma."
+    },
+    {
+      "subtitle_index": 575,
+      "start_time": 4167.36,
+      "end_time": 4169.4,
+      "duration": 2.0399999999999636,
+      "dialogue_text": "Hermana!"
+    },
+    {
+      "subtitle_index": 576,
+      "start_time": 4172.68,
+      "end_time": 4174.25,
+      "duration": 1.569999999999709,
+      "dialogue_text": "Perdon, mi General."
+    },
+    {
+      "subtitle_index": 577,
+      "start_time": 4175.37,
+      "end_time": 4177.1,
+      "duration": 1.730000000000473,
+      "dialogue_text": "Que deseas?"
+    },
+    {
+      "subtitle_index": 578,
+      "start_time": 4178.09,
+      "end_time": 4180.12,
+      "duration": 2.0299999999997453,
+      "dialogue_text": "Permiteme llevarlo conmigo..."
+    },
+    {
+      "subtitle_index": 579,
+      "start_time": 4180.12,
+      "end_time": 4182.12,
+      "duration": 2.0,
+      "dialogue_text": "Se como hacerlo hablar."
+    },
+    {
+      "subtitle_index": 580,
+      "start_time": 4191.02,
+      "end_time": 4192.62,
+      "duration": 1.5999999999994543,
+      "dialogue_text": "Esta bien."
+    },
+    {
+      "subtitle_index": 581,
+      "start_time": 4195.61,
+      "end_time": 4198.17,
+      "duration": 2.5600000000004,
+      "dialogue_text": "Vas a hacer lo de la ultima vez? ¡Marica!"
+    },
+    {
+      "subtitle_index": 582,
+      "start_time": 4198.64,
+      "end_time": 4201.96,
+      "duration": 3.319999999999709,
+      "dialogue_text": "No, eso fue un malentendido, lo juro."
+    },
+    {
+      "subtitle_index": 583,
+      "start_time": 4215.71,
+      "end_time": 4217.165,
+      "duration": 1.4549999999999272,
+      "dialogue_text": "No podemos arriesgarnos..."
+    },
+    {
+      "subtitle_index": 584,
+      "start_time": 4217.166,
+      "end_time": 4219.34,
+      "duration": 2.173999999999978,
+      "dialogue_text": "Encierrenlo en lo que pienso que hacer."
+    },
+    {
+      "subtitle_index": 585,
+      "start_time": 4219.39,
+      "end_time": 4220.39,
+      "duration": 1.0,
+      "dialogue_text": "Si."
+    },
+    {
+      "subtitle_index": 586,
+      "start_time": 4245.11,
+      "end_time": 4246.51,
+      "duration": 1.4000000000005457,
+      "dialogue_text": "¿Hacia dónde? ¿Lzquierda o derecha?"
+    },
+    {
+      "subtitle_index": 587,
+      "start_time": 4247.61,
+      "end_time": 4248.62,
+      "duration": 1.0100000000002183,
+      "dialogue_text": "Tendremos que subir allá."
+    },
+    {
+      "subtitle_index": 588,
+      "start_time": 4264.13,
+      "end_time": 4266.8,
+      "duration": 2.6700000000000728,
+      "dialogue_text": "¡No! ¡Bastardo!"
+    },
+    {
+      "subtitle_index": 589,
+      "start_time": 4309.12,
+      "end_time": 4312.35,
+      "duration": 3.230000000000473,
+      "dialogue_text": "Listos para volar. -Vamos a volar."
+    },
+    {
+      "subtitle_index": 590,
+      "start_time": 4313.08,
+      "end_time": 4315.36,
+      "duration": 2.2799999999997453,
+      "dialogue_text": "Vamos a volar!"
+    },
+    {
+      "subtitle_index": 591,
+      "start_time": 4349.26,
+      "end_time": 4350.26,
+      "duration": 1.0,
+      "dialogue_text": "¡Esperen!"
+    },
+    {
+      "subtitle_index": 592,
+      "start_time": 4353.3,
+      "end_time": 4354.3,
+      "duration": 1.0,
+      "dialogue_text": "¿Qué sucede?"
+    },
+    {
+      "subtitle_index": 593,
+      "start_time": 4354.8,
+      "end_time": 4355.8,
+      "duration": 1.0,
+      "dialogue_text": "Hemos fallado."
+    },
+    {
+      "subtitle_index": 594,
+      "start_time": 4356.76,
+      "end_time": 4360.23,
+      "duration": 3.469999999999345,
+      "dialogue_text": "Los Taotie están en el pico. Eres libre."
+    },
+    {
+      "subtitle_index": 595,
+      "start_time": 4361.56,
+      "end_time": 4362.56,
+      "duration": 1.0,
+      "dialogue_text": "¿Que deberia hacer?"
+    },
+    {
+      "subtitle_index": 596,
+      "start_time": 4363.44,
+      "end_time": 4365.98,
+      "duration": 2.5399999999999636,
+      "dialogue_text": "- Fue la orden final de la generala. - ¿Dónde está?"
+    },
+    {
+      "subtitle_index": 597,
+      "start_time": 4371.49,
+      "end_time": 4373.07,
+      "duration": 1.5799999999999272,
+      "dialogue_text": "¿Para hacer qué? ¿Pelear?"
+    },
+    {
+      "subtitle_index": 598,
+      "start_time": 4374.03,
+      "end_time": 4375.03,
+      "duration": 1.0,
+      "dialogue_text": "¿Tiene oportuunidad?"
+    },
+    {
+      "subtitle_index": 599,
+      "start_time": 4375.45,
+      "end_time": 4377.62,
+      "duration": 2.1700000000000728,
+      "dialogue_text": "Solo una. Matar a la reina."
+    },
+    {
+      "subtitle_index": 600,
+      "start_time": 4379.25,
+      "end_time": 4381.37,
+      "duration": 2.119999999999891,
+      "dialogue_text": "Matar a la reina o todos moriremos."
+    },
+    {
+      "subtitle_index": 601,
+      "start_time": 4383.29,
+      "end_time": 4385.79,
+      "duration": 2.5,
+      "dialogue_text": "Vete. Dile al mundo lo que has visto."
+    },
+    {
+      "subtitle_index": 602,
+      "start_time": 4387.0,
+      "end_time": 4388.55,
+      "duration": 1.550000000000182,
+      "dialogue_text": "Y diles lo que se aproxima."
+    },
+    {
+      "subtitle_index": 603,
+      "start_time": 4412.45,
+      "end_time": 4413.45,
+      "duration": 1.0,
+      "dialogue_text": "Dame mí arco."
+    },
+    {
+      "subtitle_index": 604,
+      "start_time": 4417.74,
+      "end_time": 4419.1,
+      "duration": 1.360000000000582,
+      "dialogue_text": "Para unirmeles necesitaré mi arco."
+    },
+    {
+      "subtitle_index": 605,
+      "start_time": 4425.28,
+      "end_time": 4426.83,
+      "duration": 1.550000000000182,
+      "dialogue_text": "Disculpen!"
+    },
+    {
+      "subtitle_index": 606,
+      "start_time": 4427.2,
+      "end_time": 4429.61,
+      "duration": 2.4099999999998545,
+      "dialogue_text": "Gracias al cielo, puedo ir?"
+    },
+    {
+      "subtitle_index": 607,
+      "start_time": 4431.26,
+      "end_time": 4432.8,
+      "duration": 1.5399999999999636,
+      "dialogue_text": "Quiere unírsenos."
+    },
+    {
+      "subtitle_index": 608,
+      "start_time": 4455.44,
+      "end_time": 4457.31,
+      "duration": 1.8700000000008004,
+      "dialogue_text": "No hay problema..."
+    },
+    {
+      "subtitle_index": 609,
+      "start_time": 4457.31,
+      "end_time": 4459.31,
+      "duration": 2.0,
+      "dialogue_text": "Solo quiero comprobarlo..."
+    },
+    {
+      "subtitle_index": 610,
+      "start_time": 4460.86,
+      "end_time": 4465.15,
+      "duration": 4.289999999999964,
+      "dialogue_text": "Asi, esto deberia despertarlo..."
+    },
+    {
+      "subtitle_index": 611,
+      "start_time": 4465.31,
+      "end_time": 4467.58,
+      "duration": 2.269999999999527,
+      "dialogue_text": "Lo tengo bajo mi control."
+    },
+    {
+      "subtitle_index": 612,
+      "start_time": 4471.79,
+      "end_time": 4473.07,
+      "duration": 1.2799999999997453,
+      "dialogue_text": "Es un gatito."
+    },
+    {
+      "subtitle_index": 613,
+      "start_time": 4583.21,
+      "end_time": 4586.51,
+      "duration": 3.300000000000182,
+      "dialogue_text": "Abajo! Acercate mas."
+    },
+    {
+      "subtitle_index": 614,
+      "start_time": 4645.85,
+      "end_time": 4646.85,
+      "duration": 1.0,
+      "dialogue_text": "¡Arriba de tú!"
+    },
+    {
+      "subtitle_index": 615,
+      "start_time": 4656.02,
+      "end_time": 4657.02,
+      "duration": 1.0,
+      "dialogue_text": "Dame una."
+    },
+    {
+      "subtitle_index": 616,
+      "start_time": 4661.24,
+      "end_time": 4662.24,
+      "duration": 1.0,
+      "dialogue_text": "¡Detrás de ti!"
+    },
+    {
+      "subtitle_index": 617,
+      "start_time": 4675.33,
+      "end_time": 4676.33,
+      "duration": 1.0,
+      "dialogue_text": "Dije que eras libre."
+    },
+    {
+      "subtitle_index": 618,
+      "start_time": 4677.92,
+      "end_time": 4678.92,
+      "duration": 1.0,
+      "dialogue_text": "Y aquí estoy."
+    },
+    {
+      "subtitle_index": 619,
+      "start_time": 4681.01,
+      "end_time": 4682.01,
+      "duration": 1.0,
+      "dialogue_text": "Ahí está la reina."
+    },
+    {
+      "subtitle_index": 620,
+      "start_time": 4687.05,
+      "end_time": 4689.06,
+      "duration": 2.0100000000002183,
+      "dialogue_text": "No tendremos otra oportunidad con la reina."
+    },
+    {
+      "subtitle_index": 621,
+      "start_time": 4689.6,
+      "end_time": 4691.52,
+      "duration": 1.9200000000000728,
+      "dialogue_text": "Tenemos que aprovechar la oportuunidad."
+    },
+    {
+      "subtitle_index": 622,
+      "start_time": 4692.1,
+      "end_time": 4693.1,
+      "duration": 1.0,
+      "dialogue_text": "¡Agárrense!"
+    },
+    {
+      "subtitle_index": 623,
+      "start_time": 4777.14,
+      "end_time": 4778.52,
+      "duration": 1.3800000000001091,
+      "dialogue_text": "Dice que sí nos ayudarás."
+    },
+    {
+      "subtitle_index": 624,
+      "start_time": 4815.85,
+      "end_time": 4818.73,
+      "duration": 2.8799999999991996,
+      "dialogue_text": "- Ahi está la reina. - ¿La podemos alcanzar?"
+    },
+    {
+      "subtitle_index": 625,
+      "start_time": 4819.31,
+      "end_time": 4822.81,
+      "duration": 3.5,
+      "dialogue_text": "- Un túnel pasa por debajo. - ¿Y cuando la captuuremos?"
+    },
+    {
+      "subtitle_index": 626,
+      "start_time": 4824.07,
+      "end_time": 4826.07,
+      "duration": 2.0,
+      "dialogue_text": "Lo cargamos y le alimentamos."
+    },
+    {
+      "subtitle_index": 627,
+      "start_time": 4827.15,
+      "end_time": 4829.61,
+      "duration": 2.4600000000000364,
+      "dialogue_text": "- Y dejaremos que regrese con su reina. - Bien."
+    },
+    {
+      "subtitle_index": 628,
+      "start_time": 4910.28,
+      "end_time": 4912.78,
+      "duration": 2.5,
+      "dialogue_text": "Dejará una cicatriz, pero vivirás."
+    },
+    {
+      "subtitle_index": 629,
+      "start_time": 4914.07,
+      "end_time": 4915.07,
+      "duration": 1.0,
+      "dialogue_text": "Tenemos que seguir."
+    },
+    {
+      "subtitle_index": 630,
+      "start_time": 4915.99,
+      "end_time": 4916.99,
+      "duration": 1.0,
+      "dialogue_text": "Adelannte."
+    },
+    {
+      "subtitle_index": 631,
+      "start_time": 4936.14,
+      "end_time": 4937.22,
+      "duration": 1.0799999999999272,
+      "dialogue_text": "Ahí vienenn."
+    },
+    {
+      "subtitle_index": 632,
+      "start_time": 5019.43,
+      "end_time": 5021.72,
+      "duration": 2.2899999999999636,
+      "dialogue_text": "Pacienncia. Se irá."
+    },
+    {
+      "subtitle_index": 633,
+      "start_time": 5038.99,
+      "end_time": 5040.41,
+      "duration": 1.4200000000000728,
+      "dialogue_text": "Ahora irá a la reina."
+    },
+    {
+      "subtitle_index": 634,
+      "start_time": 5041.16,
+      "end_time": 5042.16,
+      "duration": 1.0,
+      "dialogue_text": "Y lo haremos."
+    },
+    {
+      "subtitle_index": 635,
+      "start_time": 5043.03,
+      "end_time": 5044.03,
+      "duration": 1.0,
+      "dialogue_text": "¿Estas seguro?"
+    },
+    {
+      "subtitle_index": 636,
+      "start_time": 5046.16,
+      "end_time": 5047.16,
+      "duration": 1.0,
+      "dialogue_text": "Funcionará."
+    },
+    {
+      "subtitle_index": 637,
+      "start_time": 5058.8,
+      "end_time": 5060.34,
+      "duration": 1.5399999999999636,
+      "dialogue_text": "Entra."
+    },
+    {
+      "subtitle_index": 638,
+      "start_time": 5084.37,
+      "end_time": 5085.57,
+      "duration": 1.199999999999818,
+      "dialogue_text": "Necesito un tiro desde arriba."
+    },
+    {
+      "subtitle_index": 639,
+      "start_time": 5090.87,
+      "end_time": 5091.87,
+      "duration": 1.0,
+      "dialogue_text": "¡Vayan!"
+    },
+    {
+      "subtitle_index": 640,
+      "start_time": 5091.92,
+      "end_time": 5092.92,
+      "duration": 1.0,
+      "dialogue_text": "Los sostendré."
+    },
+    {
+      "subtitle_index": 641,
+      "start_time": 5116.52,
+      "end_time": 5117.82,
+      "duration": 1.2999999999992724,
+      "dialogue_text": "Espera, todavia."
+    },
+    {
+      "subtitle_index": 642,
+      "start_time": 5125.66,
+      "end_time": 5126.74,
+      "duration": 1.0799999999999272,
+      "dialogue_text": "¡Golpea!"
+    },
+    {
+      "subtitle_index": 643,
+      "start_time": 5136.5,
+      "end_time": 5137.5,
+      "duration": 1.0,
+      "dialogue_text": "Vamos más alto."
+    },
+    {
+      "subtitle_index": 644,
+      "start_time": 5137.71,
+      "end_time": 5138.71,
+      "duration": 1.0,
+      "dialogue_text": "Tenemos otra oportunidad."
+    },
+    {
+      "subtitle_index": 645,
+      "start_time": 5157.69,
+      "end_time": 5159.86,
+      "duration": 2.1700000000000728,
+      "dialogue_text": "Generala, depende de usted ahora."
+    },
+    {
+      "subtitle_index": 646,
+      "start_time": 5213.29,
+      "end_time": 5214.89,
+      "duration": 1.6000000000003638,
+      "dialogue_text": "Solo tenemos una flecha con polvo negro."
+    },
+    {
+      "subtitle_index": 647,
+      "start_time": 5215.08,
+      "end_time": 5216.08,
+      "duration": 1.0,
+      "dialogue_text": "Dame la lanza."
+    },
+    {
+      "subtitle_index": 648,
+      "start_time": 5218.5,
+      "end_time": 5222.42,
+      "duration": 3.9200000000000728,
+      "dialogue_text": "He esperado por esto toda mi vida. Por ti."
+    },
+    {
+      "subtitle_index": 649,
+      "start_time": 5227.47,
+      "end_time": 5228.47,
+      "duration": 1.0,
+      "dialogue_text": "Lograré el disparo."
+    },
+    {
+      "subtitle_index": 650,
+      "start_time": 5274.31,
+      "end_time": 5275.31,
+      "duration": 1.0,
+      "dialogue_text": "Te tengo."
+    },
+    {
+      "subtitle_index": 651,
+      "start_time": 5353.18,
+      "end_time": 5354.89,
+      "duration": 1.7100000000000364,
+      "dialogue_text": "Entonces... ¿como es la vida sin mí?"
+    },
+    {
+      "subtitle_index": 652,
+      "start_time": 5356.31,
+      "end_time": 5357.31,
+      "duration": 1.0,
+      "dialogue_text": "Un poco lenta."
+    },
+    {
+      "subtitle_index": 653,
+      "start_time": 5361.39,
+      "end_time": 5362.55,
+      "duration": 1.1599999999998545,
+      "dialogue_text": "Estás seguro después de todo."
+    },
+    {
+      "subtitle_index": 654,
+      "start_time": 5363.1,
+      "end_time": 5365.77,
+      "duration": 2.6700000000000728,
+      "dialogue_text": "- Bueno, eres mi amigo. - Eso crees."
+    },
+    {
+      "subtitle_index": 655,
+      "start_time": 5367.15,
+      "end_time": 5368.63,
+      "duration": 1.480000000000473,
+      "dialogue_text": "Creo que te he dado muchos problemas."
+    },
+    {
+      "subtitle_index": 656,
+      "start_time": 5369.9,
+      "end_time": 5372.32,
+      "duration": 2.4200000000000728,
+      "dialogue_text": "Como un rayo. Parece que estas en la cinma del mundo."
+    },
+    {
+      "subtitle_index": 657,
+      "start_time": 5373.82,
+      "end_time": 5375.33,
+      "duration": 1.5100000000002183,
+      "dialogue_text": "Tengo todo el polvo negro que quiero."
+    },
+    {
+      "subtitle_index": 658,
+      "start_time": 5376.41,
+      "end_time": 5378.58,
+      "duration": 2.1700000000000728,
+      "dialogue_text": "Y los caballeros me llevarán a salvo a casa."
+    },
+    {
+      "subtitle_index": 659,
+      "start_time": 5380.37,
+      "end_time": 5381.83,
+      "duration": 1.4600000000000364,
+      "dialogue_text": "- Bueno, felicidades. - Gracias."
+    },
+    {
+      "subtitle_index": 660,
+      "start_time": 5383.71,
+      "end_time": 5386.17,
+      "duration": 2.4600000000000364,
+      "dialogue_text": "Parece que lo conseguiste."
+    },
+    {
+      "subtitle_index": 661,
+      "start_time": 5387.13,
+      "end_time": 5388.13,
+      "duration": 1.0,
+      "dialogue_text": "¿Me culpas?"
+    },
+    {
+      "subtitle_index": 662,
+      "start_time": 5388.88,
+      "end_time": 5390.67,
+      "duration": 1.7899999999999636,
+      "dialogue_text": "La última vez que me viste me dejaste muerto."
+    },
+    {
+      "subtitle_index": 663,
+      "start_time": 5391.05,
+      "end_time": 5393.55,
+      "duration": 2.5,
+      "dialogue_text": "- Y las veces que te salve la vida. - Verdad."
+    },
+    {
+      "subtitle_index": 664,
+      "start_time": 5396.6,
+      "end_time": 5398.04,
+      "duration": 1.4399999999995998,
+      "dialogue_text": "Sabes, el emperador me dio opciones."
+    },
+    {
+      "subtitle_index": 665,
+      "start_time": 5399.47,
+      "end_time": 5402.48,
+      "duration": 3.009999999999309,
+      "dialogue_text": "Podria tomar el polvo negro o a ti."
+    },
+    {
+      "subtitle_index": 666,
+      "start_time": 5406.27,
+      "end_time": 5407.79,
+      "duration": 1.519999999999527,
+      "dialogue_text": "Por favor dime que escogiste el polvo."
+    },
+    {
+      "subtitle_index": 667,
+      "start_time": 5415.45,
+      "end_time": 5416.49,
+      "duration": 1.0399999999999636,
+      "dialogue_text": "Ya ni siquiera te conozco."
+    },
+    {
+      "subtitle_index": 668,
+      "start_time": 5419.83,
+      "end_time": 5422.41,
+      "duration": 2.5799999999999272,
+      "dialogue_text": "Los caballos estarán listos, saldremos antes del anochecer."
+    },
+    {
+      "subtitle_index": 669,
+      "start_time": 5429.55,
+      "end_time": 5430.55,
+      "duration": 1.0,
+      "dialogue_text": "Vuelvo adentro."
+    },
+    {
+      "subtitle_index": 670,
+      "start_time": 5443.35,
+      "end_time": 5444.35,
+      "duration": 1.0,
+      "dialogue_text": "Vine a decir adios."
+    },
+    {
+      "subtitle_index": 671,
+      "start_time": 5447.06,
+      "end_time": 5449.07,
+      "duration": 2.009999999999309,
+      "dialogue_text": "Entiendo. Felicitaciones por tu condecoración."
+    },
+    {
+      "subtitle_index": 672,
+      "start_time": 5450.36,
+      "end_time": 5451.52,
+      "duration": 1.160000000000764,
+      "dialogue_text": "General del territorio Norte."
+    },
+    {
+      "subtitle_index": 673,
+      "start_time": 5453.61,
+      "end_time": 5454.61,
+      "duration": 1.0,
+      "dialogue_text": "Un honor."
+    },
+    {
+      "subtitle_index": 674,
+      "start_time": 5457.12,
+      "end_time": 5458.7,
+      "duration": 1.5799999999999272,
+      "dialogue_text": "Parece que ya elegiste."
+    },
+    {
+      "subtitle_index": 675,
+      "start_time": 5459.12,
+      "end_time": 5460.12,
+      "duration": 1.0,
+      "dialogue_text": "¿El?"
+    },
+    {
+      "subtitle_index": 676,
+      "start_time": 5460.45,
+      "end_time": 5462.95,
+      "duration": 2.5,
+      "dialogue_text": "Creeme, casi estoy pensando en tomar el polvo."
+    },
+    {
+      "subtitle_index": 677,
+      "start_time": 5463.83,
+      "end_time": 5464.83,
+      "duration": 1.0,
+      "dialogue_text": "Oí eso."
+    },
+    {
+      "subtitle_index": 678,
+      "start_time": 5471.25,
+      "end_time": 5472.73,
+      "duration": 1.4799999999995634,
+      "dialogue_text": "Tal vez estábamos equivocado los dos."
+    },
+    {
+      "subtitle_index": 679,
+      "start_time": 5475.09,
+      "end_time": 5476.63,
+      "duration": 1.5399999999999636,
+      "dialogue_text": "Somos más parecidos de lo que creemos."
+    },
+    {
+      "subtitle_index": 680,
+      "start_time": 5483.06,
+      "end_time": 5484.06,
+      "duration": 1.0,
+      "dialogue_text": "Gracias general."
+    },
+    {
+      "subtitle_index": 681,
+      "start_time": 5510.96,
+      "end_time": 5512.48,
+      "duration": 1.519999999999527,
+      "dialogue_text": "¿Estás seguro que no quieres regresar?"
+    },
+    {
+      "subtitle_index": 682,
+      "start_time": 5513.46,
+      "end_time": 5514.46,
+      "duration": 1.0,
+      "dialogue_text": "Por supuesto que quiero."
+    },
+    {
+      "subtitle_index": 683,
+      "start_time": 5515.3,
+      "end_time": 5517.14,
+      "duration": 1.8400000000001455,
+      "dialogue_text": "Es que no confio que puedas salir de aqui solo."
+    },
+    {
+      "subtitle_index": 684,
+      "start_time": 5519.14,
+      "end_time": 5527.14,
+      "duration": 8.0,
+      "dialogue_text": "Subtitle @tsrh2"
+    }
+  ]
+}

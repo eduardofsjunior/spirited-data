@@ -1,0 +1,29 @@
+================================================================================
+Graph Summary Report
+================================================================================
+
+Total Nodes: 118
+Total Edges: 163
+Graph Density: 0.0118
+
+Top 10 Nodes by Degree Centrality:
+--------------------------------------------------------------------------------
+ 1. Human (species): 0.3333
+ 2. Castle in the Sky (film): 0.1624
+ 3. My Neighbor Totoro (film): 0.1197
+ 4. Princess Mononoke (film): 0.1197
+ 5. Kiki's Delivery Service (film): 0.0855
+ 6. Cat (species): 0.0855
+ 7. Hayao Miyazaki (director): 0.0769
+ 8. The Cat Returns (film): 0.0684
+ 9. Earwig and the Witch (film): 0.0684
+10. Spirited Away (film): 0.0427
+
+Edge Type Distribution:
+--------------------------------------------------------------------------------
+  appears_in: 59
+  is_species: 56
+  filmed_at: 26
+  directed: 22
+
+================================================================================

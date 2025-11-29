@@ -1,0 +1,3687 @@
+{
+  "metadata": {
+    "film_name": "Kikis Delivery Service",
+    "film_slug": "kikis_delivery_service_en",
+    "language_code": "en",
+    "total_subtitles": 525,
+    "total_duration": 3161.0,
+    "parse_timestamp": "2025-10-30T17:09:42.779319"
+  },
+  "subtitles": [
+    {
+      "subtitle_index": 1,
+      "start_time": 7.0,
+      "end_time": 19.0,
+      "duration": 12.0,
+      "dialogue_text": "Kiki's Delivery Service"
+    },
+    {
+      "subtitle_index": 2,
+      "start_time": 19.0,
+      "end_time": 23.0,
+      "duration": 4.0,
+      "dialogue_text": "Now the latest weather forecast for northwest Koriko."
+    },
+    {
+      "subtitle_index": 3,
+      "start_time": 23.0,
+      "end_time": 30.0,
+      "duration": 7.0,
+      "dialogue_text": "Skies are clearing up thanks to a high pressure front, moving in from the continent."
+    },
+    {
+      "subtitle_index": 4,
+      "start_time": 30.0,
+      "end_time": 34.0,
+      "duration": 4.0,
+      "dialogue_text": "Mild winds will be blowing from the west"
+    },
+    {
+      "subtitle_index": 5,
+      "start_time": 34.0,
+      "end_time": 39.0,
+      "duration": 5.0,
+      "dialogue_text": "clearing up the clouds this evening"
+    },
+    {
+      "subtitle_index": 6,
+      "start_time": 39.0,
+      "end_time": 45.0,
+      "duration": 6.0,
+      "dialogue_text": "we'll also have a beautiful moon tonight"
+    },
+    {
+      "subtitle_index": 7,
+      "start_time": 45.0,
+      "end_time": 49.0,
+      "duration": 4.0,
+      "dialogue_text": "So get your picknic baskets because the weather will be just fine."
+    },
+    {
+      "subtitle_index": 8,
+      "start_time": 49.0,
+      "end_time": 80.0,
+      "duration": 31.0,
+      "dialogue_text": "More news in just a minute."
+    },
+    {
+      "subtitle_index": 9,
+      "start_time": 80.0,
+      "end_time": 85.0,
+      "duration": 5.0,
+      "dialogue_text": "Jiji, I've decided! I'm gonna do it tonight!"
+    },
+    {
+      "subtitle_index": 10,
+      "start_time": 85.0,
+      "end_time": 87.0,
+      "duration": 2.0,
+      "dialogue_text": "Mom!"
+    },
+    {
+      "subtitle_index": 11,
+      "start_time": 87.0,
+      "end_time": 89.0,
+      "duration": 2.0,
+      "dialogue_text": "Oh, hi, Miss Dora. It's gonna be completely clear tonight."
+    },
+    {
+      "subtitle_index": 12,
+      "start_time": 89.0,
+      "end_time": 90.0,
+      "duration": 1.0,
+      "dialogue_text": "Mom, I heard the weather forecast."
+    },
+    {
+      "subtitle_index": 13,
+      "start_time": 90.0,
+      "end_time": 94.0,
+      "duration": 4.0,
+      "dialogue_text": "There's gonna be a full moon."
+    },
+    {
+      "subtitle_index": 14,
+      "start_time": 94.0,
+      "end_time": 98.0,
+      "duration": 4.0,
+      "dialogue_text": "Kiki, did you borrow your fathers radio again without permission?"
+    },
+    {
+      "subtitle_index": 15,
+      "start_time": 98.0,
+      "end_time": 100.0,
+      "duration": 2.0,
+      "dialogue_text": "Yes, Im sorry."
+    },
+    {
+      "subtitle_index": 16,
+      "start_time": 100.0,
+      "end_time": 102.0,
+      "duration": 2.0,
+      "dialogue_text": "Happy to see you Miss Dora."
+    },
+    {
+      "subtitle_index": 17,
+      "start_time": 102.0,
+      "end_time": 104.0,
+      "duration": 2.0,
+      "dialogue_text": "Mom, my mind is made up. Its tonight!"
+    },
+    {
+      "subtitle_index": 18,
+      "start_time": 104.0,
+      "end_time": 107.0,
+      "duration": 3.0,
+      "dialogue_text": "Weren't you gonna put it off a month?"
+    },
+    {
+      "subtitle_index": 19,
+      "start_time": 107.0,
+      "end_time": 109.0,
+      "duration": 2.0,
+      "dialogue_text": "But the next full moon might be a cloudy night."
+    },
+    {
+      "subtitle_index": 20,
+      "start_time": 109.0,
+      "end_time": 112.0,
+      "duration": 3.0,
+      "dialogue_text": "I want to make sure I leave on the perfect night."
+    },
+    {
+      "subtitle_index": 21,
+      "start_time": 112.0,
+      "end_time": 118.0,
+      "duration": 6.0,
+      "dialogue_text": "Wait, Kiki!"
+    },
+    {
+      "subtitle_index": 22,
+      "start_time": 118.0,
+      "end_time": 121.0,
+      "duration": 3.0,
+      "dialogue_text": "My, my, whats this leaving business?"
+    },
+    {
+      "subtitle_index": 23,
+      "start_time": 121.0,
+      "end_time": 124.0,
+      "duration": 3.0,
+      "dialogue_text": "It's one of our old customs."
+    },
+    {
+      "subtitle_index": 24,
+      "start_time": 124.0,
+      "end_time": 128.0,
+      "duration": 4.0,
+      "dialogue_text": "When a witch turns 13, she leaves home for a year to begin her training."
+    },
+    {
+      "subtitle_index": 25,
+      "start_time": 128.0,
+      "end_time": 133.0,
+      "duration": 5.0,
+      "dialogue_text": "Your little baby is already 13? Time flies so quickly, doesn't it?"
+    },
+    {
+      "subtitle_index": 26,
+      "start_time": 133.0,
+      "end_time": 137.0,
+      "duration": 4.0,
+      "dialogue_text": "I'm afraid so. But nobody leaves home that young anymore."
+    },
+    {
+      "subtitle_index": 27,
+      "start_time": 137.0,
+      "end_time": 140.0,
+      "duration": 3.0,
+      "dialogue_text": "I remember perfectly well..."
+    },
+    {
+      "subtitle_index": 28,
+      "start_time": 140.0,
+      "end_time": 143.0,
+      "duration": 3.0,
+      "dialogue_text": "the exact day you arrived here in this town."
+    },
+    {
+      "subtitle_index": 29,
+      "start_time": 143.0,
+      "end_time": 145.0,
+      "duration": 2.0,
+      "dialogue_text": "A little 13-year old gitl came down from the sky..."
+    },
+    {
+      "subtitle_index": 30,
+      "start_time": 145.0,
+      "end_time": 149.0,
+      "duration": 4.0,
+      "dialogue_text": "riding a broomstick, her eyes shining."
+    },
+    {
+      "subtitle_index": 31,
+      "start_time": 149.0,
+      "end_time": 151.0,
+      "duration": 2.0,
+      "dialogue_text": "I had thought that"
+    },
+    {
+      "subtitle_index": 32,
+      "start_time": 151.0,
+      "end_time": 153.0,
+      "duration": 2.0,
+      "dialogue_text": "you were a bit stuck-up."
+    },
+    {
+      "subtitle_index": 33,
+      "start_time": 153.0,
+      "end_time": 155.0,
+      "duration": 2.0,
+      "dialogue_text": "But she knows not much besides flying."
+    },
+    {
+      "subtitle_index": 34,
+      "start_time": 155.0,
+      "end_time": 158.0,
+      "duration": 3.0,
+      "dialogue_text": "She hardly knows any of my formulas."
+    },
+    {
+      "subtitle_index": 35,
+      "start_time": 158.0,
+      "end_time": 161.0,
+      "duration": 3.0,
+      "dialogue_text": "After I'm gone, who will make this medicine?"
+    },
+    {
+      "subtitle_index": 36,
+      "start_time": 161.0,
+      "end_time": 165.0,
+      "duration": 4.0,
+      "dialogue_text": "Sign of time I'm afraid. Everything changes, bit by bit."
+    },
+    {
+      "subtitle_index": 37,
+      "start_time": 165.0,
+      "end_time": 171.0,
+      "duration": 6.0,
+      "dialogue_text": "But I have to say, nothing works as well for my rheumatism."
+    },
+    {
+      "subtitle_index": 38,
+      "start_time": 171.0,
+      "end_time": 175.0,
+      "duration": 4.0,
+      "dialogue_text": "You're always telling me to hurry! Now who's the slowpoke?"
+    },
+    {
+      "subtitle_index": 39,
+      "start_time": 175.0,
+      "end_time": 180.0,
+      "duration": 5.0,
+      "dialogue_text": "I think its better to leave with decorum and great dignity."
+    },
+    {
+      "subtitle_index": 40,
+      "start_time": 180.0,
+      "end_time": 182.0,
+      "duration": 2.0,
+      "dialogue_text": "If we put it off for a month..."
+    },
+    {
+      "subtitle_index": 41,
+      "start_time": 182.0,
+      "end_time": 184.0,
+      "duration": 2.0,
+      "dialogue_text": "and I find some wonderful boyfriend, then what?"
+    },
+    {
+      "subtitle_index": 42,
+      "start_time": 184.0,
+      "end_time": 187.0,
+      "duration": 3.0,
+      "dialogue_text": "We'll never leave!"
+    },
+    {
+      "subtitle_index": 43,
+      "start_time": 187.0,
+      "end_time": 190.0,
+      "duration": 3.0,
+      "dialogue_text": "I'm worried about once you decided, you can't go back."
+    },
+    {
+      "subtitle_index": 44,
+      "start_time": 190.0,
+      "end_time": 193.0,
+      "duration": 3.0,
+      "dialogue_text": "Sure, I know that."
+    },
+    {
+      "subtitle_index": 45,
+      "start_time": 193.0,
+      "end_time": 199.0,
+      "duration": 6.0,
+      "dialogue_text": "Good, it's there. I'm so exited! Its like getting a birthday present!"
+    },
+    {
+      "subtitle_index": 46,
+      "start_time": 199.0,
+      "end_time": 202.0,
+      "duration": 3.0,
+      "dialogue_text": "Oh!"
+    },
+    {
+      "subtitle_index": 47,
+      "start_time": 202.0,
+      "end_time": 204.0,
+      "duration": 2.0,
+      "dialogue_text": "Dad!"
+    },
+    {
+      "subtitle_index": 48,
+      "start_time": 204.0,
+      "end_time": 206.0,
+      "duration": 2.0,
+      "dialogue_text": "You know what? I've decided to go tonight!"
+    },
+    {
+      "subtitle_index": 49,
+      "start_time": 206.0,
+      "end_time": 207.0,
+      "duration": 1.0,
+      "dialogue_text": "Tonight?"
+    },
+    {
+      "subtitle_index": 50,
+      "start_time": 207.0,
+      "end_time": 209.0,
+      "duration": 2.0,
+      "dialogue_text": "Yes, I just made up my mind!"
+    },
+    {
+      "subtitle_index": 51,
+      "start_time": 209.0,
+      "end_time": 213.0,
+      "duration": 4.0,
+      "dialogue_text": "Well, yes, but what about our camping trip for this weekend?"
+    },
+    {
+      "subtitle_index": 52,
+      "start_time": 213.0,
+      "end_time": 216.0,
+      "duration": 3.0,
+      "dialogue_text": "I'm sorry!"
+    },
+    {
+      "subtitle_index": 53,
+      "start_time": 216.0,
+      "end_time": 225.0,
+      "duration": 9.0,
+      "dialogue_text": "But, ahm...."
+    },
+    {
+      "subtitle_index": 54,
+      "start_time": 225.0,
+      "end_time": 232.0,
+      "duration": 7.0,
+      "dialogue_text": "Yes, I'll expect you then. Thanks."
+    },
+    {
+      "subtitle_index": 55,
+      "start_time": 232.0,
+      "end_time": 242.0,
+      "duration": 10.0,
+      "dialogue_text": "Hi, Mom. I wanted to make sure you knew that Kiki is leaving tonight. Yes, midnight."
+    },
+    {
+      "subtitle_index": 56,
+      "start_time": 242.0,
+      "end_time": 244.0,
+      "duration": 2.0,
+      "dialogue_text": "Hey, looks great!"
+    },
+    {
+      "subtitle_index": 57,
+      "start_time": 244.0,
+      "end_time": 246.0,
+      "duration": 2.0,
+      "dialogue_text": "I wish it had a different color."
+    },
+    {
+      "subtitle_index": 58,
+      "start_time": 246.0,
+      "end_time": 250.0,
+      "duration": 4.0,
+      "dialogue_text": "Witches have worn that color for over a thousand years"
+    },
+    {
+      "subtitle_index": 59,
+      "start_time": 250.0,
+      "end_time": 253.0,
+      "duration": 3.0,
+      "dialogue_text": "Black cat, black clothes"
+    },
+    {
+      "subtitle_index": 60,
+      "start_time": 253.0,
+      "end_time": 256.0,
+      "duration": 3.0,
+      "dialogue_text": "Kiki, it's not important what color your dress is."
+    },
+    {
+      "subtitle_index": 61,
+      "start_time": 256.0,
+      "end_time": 258.0,
+      "duration": 2.0,
+      "dialogue_text": "What matters is the heart inside it."
+    },
+    {
+      "subtitle_index": 62,
+      "start_time": 258.0,
+      "end_time": 261.0,
+      "duration": 3.0,
+      "dialogue_text": "I know that having a good heart is very important."
+    },
+    {
+      "subtitle_index": 63,
+      "start_time": 261.0,
+      "end_time": 264.0,
+      "duration": 3.0,
+      "dialogue_text": "I wish I could show you that my heart is ready."
+    },
+    {
+      "subtitle_index": 64,
+      "start_time": 264.0,
+      "end_time": 266.0,
+      "duration": 2.0,
+      "dialogue_text": "Just follow that heart and keep smiling!"
+    },
+    {
+      "subtitle_index": 65,
+      "start_time": 266.0,
+      "end_time": 269.0,
+      "duration": 3.0,
+      "dialogue_text": "Jawohl!"
+    },
+    {
+      "subtitle_index": 66,
+      "start_time": 269.0,
+      "end_time": 273.0,
+      "duration": 4.0,
+      "dialogue_text": "Be sure to write home as soon as you've found a place."
+    },
+    {
+      "subtitle_index": 67,
+      "start_time": 273.0,
+      "end_time": 276.0,
+      "duration": 3.0,
+      "dialogue_text": "Dad! Can I please take the radio?"
+    },
+    {
+      "subtitle_index": 68,
+      "start_time": 276.0,
+      "end_time": 278.0,
+      "duration": 2.0,
+      "dialogue_text": "Mom, you said I could have his radio!"
+    },
+    {
+      "subtitle_index": 69,
+      "start_time": 278.0,
+      "end_time": 280.0,
+      "duration": 2.0,
+      "dialogue_text": "Yeah!"
+    },
+    {
+      "subtitle_index": 70,
+      "start_time": 280.0,
+      "end_time": 282.0,
+      "duration": 2.0,
+      "dialogue_text": "Well, that radio is yours now!"
+    },
+    {
+      "subtitle_index": 71,
+      "start_time": 282.0,
+      "end_time": 292.0,
+      "duration": 10.0,
+      "dialogue_text": "Okay, now let me have a look at my little witch."
+    },
+    {
+      "subtitle_index": 72,
+      "start_time": 292.0,
+      "end_time": 295.0,
+      "duration": 3.0,
+      "dialogue_text": "You look just like your mother did when she was your age."
+    },
+    {
+      "subtitle_index": 73,
+      "start_time": 295.0,
+      "end_time": 296.0,
+      "duration": 1.0,
+      "dialogue_text": "Daddy..."
+    },
+    {
+      "subtitle_index": 74,
+      "start_time": 296.0,
+      "end_time": 300.0,
+      "duration": 4.0,
+      "dialogue_text": "would you pick me up like you used to?"
+    },
+    {
+      "subtitle_index": 75,
+      "start_time": 300.0,
+      "end_time": 313.0,
+      "duration": 13.0,
+      "dialogue_text": "Well..."
+    },
+    {
+      "subtitle_index": 76,
+      "start_time": 313.0,
+      "end_time": 317.0,
+      "duration": 4.0,
+      "dialogue_text": "How come you never told me you were growing up so fast?"
+    },
+    {
+      "subtitle_index": 77,
+      "start_time": 317.0,
+      "end_time": 319.0,
+      "duration": 2.0,
+      "dialogue_text": "You can always come home if things don't work out."
+    },
+    {
+      "subtitle_index": 78,
+      "start_time": 319.0,
+      "end_time": 326.0,
+      "duration": 7.0,
+      "dialogue_text": "Come back to my old room? No way!"
+    },
+    {
+      "subtitle_index": 79,
+      "start_time": 326.0,
+      "end_time": 339.0,
+      "duration": 13.0,
+      "dialogue_text": "I hope you find a good town."
+    },
+    {
+      "subtitle_index": 80,
+      "start_time": 339.0,
+      "end_time": 343.0,
+      "duration": 4.0,
+      "dialogue_text": "I bet it's real tough to find a town to live in by yourself."
+    },
+    {
+      "subtitle_index": 81,
+      "start_time": 343.0,
+      "end_time": 345.0,
+      "duration": 2.0,
+      "dialogue_text": "Don't worry, Kiki will be fine."
+    },
+    {
+      "subtitle_index": 82,
+      "start_time": 345.0,
+      "end_time": 347.0,
+      "duration": 2.0,
+      "dialogue_text": "What kind of town are you looking for?"
+    },
+    {
+      "subtitle_index": 83,
+      "start_time": 347.0,
+      "end_time": 348.0,
+      "duration": 1.0,
+      "dialogue_text": "A big town?"
+    },
+    {
+      "subtitle_index": 84,
+      "start_time": 348.0,
+      "end_time": 350.0,
+      "duration": 2.0,
+      "dialogue_text": "Yeah. By the ocean I hope."
+    },
+    {
+      "subtitle_index": 85,
+      "start_time": 350.0,
+      "end_time": 354.0,
+      "duration": 4.0,
+      "dialogue_text": "Ohhh! I'm so jealous of you!"
+    },
+    {
+      "subtitle_index": 86,
+      "start_time": 354.0,
+      "end_time": 355.0,
+      "duration": 1.0,
+      "dialogue_text": "But I'm not going for a good time."
+    },
+    {
+      "subtitle_index": 87,
+      "start_time": 355.0,
+      "end_time": 357.0,
+      "duration": 2.0,
+      "dialogue_text": "I'll be training hard..."
+    },
+    {
+      "subtitle_index": 88,
+      "start_time": 357.0,
+      "end_time": 359.0,
+      "duration": 2.0,
+      "dialogue_text": "at least a year!"
+    },
+    {
+      "subtitle_index": 89,
+      "start_time": 359.0,
+      "end_time": 364.0,
+      "duration": 5.0,
+      "dialogue_text": "Yeah but they'll have discos, won't they?"
+    },
+    {
+      "subtitle_index": 90,
+      "start_time": 364.0,
+      "end_time": 366.0,
+      "duration": 2.0,
+      "dialogue_text": "Kiki, its almost time."
+    },
+    {
+      "subtitle_index": 91,
+      "start_time": 366.0,
+      "end_time": 369.0,
+      "duration": 3.0,
+      "dialogue_text": "Okay."
+    },
+    {
+      "subtitle_index": 92,
+      "start_time": 369.0,
+      "end_time": 371.0,
+      "duration": 2.0,
+      "dialogue_text": "Thats the broom you're leaving on?"
+    },
+    {
+      "subtitle_index": 93,
+      "start_time": 371.0,
+      "end_time": 374.0,
+      "duration": 3.0,
+      "dialogue_text": "Yeah, I just made it. Pretty cute huh?"
+    },
+    {
+      "subtitle_index": 94,
+      "start_time": 374.0,
+      "end_time": 376.0,
+      "duration": 2.0,
+      "dialogue_text": "It is cute, but you can't start witchin on a broom that's too small."
+    },
+    {
+      "subtitle_index": 95,
+      "start_time": 376.0,
+      "end_time": 378.0,
+      "duration": 2.0,
+      "dialogue_text": "Here, better take mine."
+    },
+    {
+      "subtitle_index": 96,
+      "start_time": 378.0,
+      "end_time": 380.0,
+      "duration": 2.0,
+      "dialogue_text": "But Mom, that one's so old!"
+    },
+    {
+      "subtitle_index": 97,
+      "start_time": 380.0,
+      "end_time": 382.0,
+      "duration": 2.0,
+      "dialogue_text": "That's why you should have it."
+    },
+    {
+      "subtitle_index": 98,
+      "start_time": 382.0,
+      "end_time": 386.0,
+      "duration": 4.0,
+      "dialogue_text": "It never loses its way, even in a storm."
+    },
+    {
+      "subtitle_index": 99,
+      "start_time": 386.0,
+      "end_time": 388.0,
+      "duration": 2.0,
+      "dialogue_text": "Kiki, trust me."
+    },
+    {
+      "subtitle_index": 100,
+      "start_time": 388.0,
+      "end_time": 392.0,
+      "duration": 4.0,
+      "dialogue_text": "But I worked so hard on it, right Jiji?"
+    },
+    {
+      "subtitle_index": 101,
+      "start_time": 392.0,
+      "end_time": 395.0,
+      "duration": 3.0,
+      "dialogue_text": "Your mothers broom would be better."
+    },
+    {
+      "subtitle_index": 102,
+      "start_time": 395.0,
+      "end_time": 396.0,
+      "duration": 1.0,
+      "dialogue_text": "You rotten traitor!"
+    },
+    {
+      "subtitle_index": 103,
+      "start_time": 396.0,
+      "end_time": 408.0,
+      "duration": 12.0,
+      "dialogue_text": "Kiki, he's right. You can make yourself another broom when you get settled down."
+    },
+    {
+      "subtitle_index": 104,
+      "start_time": 408.0,
+      "end_time": 410.0,
+      "duration": 2.0,
+      "dialogue_text": "Be careful."
+    },
+    {
+      "subtitle_index": 105,
+      "start_time": 410.0,
+      "end_time": 410.0,
+      "duration": 0.0,
+      "dialogue_text": "Go, get 'em."
+    },
+    {
+      "subtitle_index": 106,
+      "start_time": 410.0,
+      "end_time": 412.0,
+      "duration": 2.0,
+      "dialogue_text": "Good bye!"
+    },
+    {
+      "subtitle_index": 107,
+      "start_time": 412.0,
+      "end_time": 420.0,
+      "duration": 8.0,
+      "dialogue_text": "Go and have a good time!"
+    },
+    {
+      "subtitle_index": 108,
+      "start_time": 420.0,
+      "end_time": 436.0,
+      "duration": 16.0,
+      "dialogue_text": "Go Go! Kiki... Go Go! Kiki..."
+    },
+    {
+      "subtitle_index": 109,
+      "start_time": 436.0,
+      "end_time": 446.0,
+      "duration": 10.0,
+      "dialogue_text": "She hasn't quite got the hang of it yet."
+    },
+    {
+      "subtitle_index": 110,
+      "start_time": 446.0,
+      "end_time": 449.0,
+      "duration": 3.0,
+      "dialogue_text": "She's well past the lake and doing just fine."
+    },
+    {
+      "subtitle_index": 111,
+      "start_time": 449.0,
+      "end_time": 460.0,
+      "duration": 11.0,
+      "dialogue_text": "I'm going to miss the sound of that little bell..."
+    },
+    {
+      "subtitle_index": 112,
+      "start_time": 460.0,
+      "end_time": 461.0,
+      "duration": 1.0,
+      "dialogue_text": "Which way are we headed?"
+    },
+    {
+      "subtitle_index": 113,
+      "start_time": 461.0,
+      "end_time": 468.0,
+      "duration": 7.0,
+      "dialogue_text": "I think south, to the ocean."
+    },
+    {
+      "subtitle_index": 114,
+      "start_time": 468.0,
+      "end_time": 470.0,
+      "duration": 2.0,
+      "dialogue_text": "Jiji, climb up and turn on the radio."
+    },
+    {
+      "subtitle_index": 115,
+      "start_time": 470.0,
+      "end_time": 483.0,
+      "duration": 13.0,
+      "dialogue_text": "I don't think I can right now."
+    },
+    {
+      "subtitle_index": 116,
+      "start_time": 483.0,
+      "end_time": 565.0,
+      "duration": 82.0,
+      "dialogue_text": "KIKI'S DELIVERY SERVICE"
+    },
+    {
+      "subtitle_index": 117,
+      "start_time": 565.0,
+      "end_time": 568.0,
+      "duration": 3.0,
+      "dialogue_text": "Good evening!"
+    },
+    {
+      "subtitle_index": 118,
+      "start_time": 568.0,
+      "end_time": 572.0,
+      "duration": 4.0,
+      "dialogue_text": "It was.... Newcomer I suppose?"
+    },
+    {
+      "subtitle_index": 119,
+      "start_time": 572.0,
+      "end_time": 575.0,
+      "duration": 3.0,
+      "dialogue_text": "I sure am. I just left home tonight."
+    },
+    {
+      "subtitle_index": 120,
+      "start_time": 575.0,
+      "end_time": 578.0,
+      "duration": 3.0,
+      "dialogue_text": "Would you mind turning off that music?"
+    },
+    {
+      "subtitle_index": 121,
+      "start_time": 578.0,
+      "end_time": 583.0,
+      "duration": 5.0,
+      "dialogue_text": "I prefer to fly without accompaniment."
+    },
+    {
+      "subtitle_index": 122,
+      "start_time": 583.0,
+      "end_time": 588.0,
+      "duration": 5.0,
+      "dialogue_text": "Is it really hard to get settled in a place you've never been?"
+    },
+    {
+      "subtitle_index": 123,
+      "start_time": 588.0,
+      "end_time": 591.0,
+      "duration": 3.0,
+      "dialogue_text": "Oh yes, lots can go wrong."
+    },
+    {
+      "subtitle_index": 124,
+      "start_time": 591.0,
+      "end_time": 594.0,
+      "duration": 3.0,
+      "dialogue_text": "But since I'm good at fortune telling, I can handle everything."
+    },
+    {
+      "subtitle_index": 125,
+      "start_time": 594.0,
+      "end_time": 595.0,
+      "duration": 1.0,
+      "dialogue_text": "Fortunes?"
+    },
+    {
+      "subtitle_index": 126,
+      "start_time": 595.0,
+      "end_time": 599.0,
+      "duration": 4.0,
+      "dialogue_text": "In fact, I've started telling fortunes about love lately."
+    },
+    {
+      "subtitle_index": 127,
+      "start_time": 599.0,
+      "end_time": 601.0,
+      "duration": 2.0,
+      "dialogue_text": "Whats your special skill?"
+    },
+    {
+      "subtitle_index": 128,
+      "start_time": 601.0,
+      "end_time": 605.0,
+      "duration": 4.0,
+      "dialogue_text": "Oh... I haven't made up my mind yet."
+    },
+    {
+      "subtitle_index": 129,
+      "start_time": 605.0,
+      "end_time": 608.0,
+      "duration": 3.0,
+      "dialogue_text": "Uh-huh? Well, I'm nearly finished with my training period."
+    },
+    {
+      "subtitle_index": 130,
+      "start_time": 608.0,
+      "end_time": 612.0,
+      "duration": 4.0,
+      "dialogue_text": "It'll be terrific to go home with confidence."
+    },
+    {
+      "subtitle_index": 131,
+      "start_time": 612.0,
+      "end_time": 615.0,
+      "duration": 3.0,
+      "dialogue_text": "That's my town down there."
+    },
+    {
+      "subtitle_index": 132,
+      "start_time": 615.0,
+      "end_time": 618.0,
+      "duration": 3.0,
+      "dialogue_text": "It's not big or terrible interesting, but I like it."
+    },
+    {
+      "subtitle_index": 133,
+      "start_time": 618.0,
+      "end_time": 620.0,
+      "duration": 2.0,
+      "dialogue_text": "Good luck to you."
+    },
+    {
+      "subtitle_index": 134,
+      "start_time": 620.0,
+      "end_time": 622.0,
+      "duration": 2.0,
+      "dialogue_text": "Thanks!"
+    },
+    {
+      "subtitle_index": 135,
+      "start_time": 622.0,
+      "end_time": 627.0,
+      "duration": 5.0,
+      "dialogue_text": "Good bye!"
+    },
+    {
+      "subtitle_index": 136,
+      "start_time": 627.0,
+      "end_time": 632.0,
+      "duration": 5.0,
+      "dialogue_text": "Disgusting. What a stuck-up cat."
+    },
+    {
+      "subtitle_index": 137,
+      "start_time": 632.0,
+      "end_time": 638.0,
+      "duration": 6.0,
+      "dialogue_text": "I have to have a special skill."
+    },
+    {
+      "subtitle_index": 138,
+      "start_time": 638.0,
+      "end_time": 650.0,
+      "duration": 12.0,
+      "dialogue_text": "What was that about good weather?"
+    },
+    {
+      "subtitle_index": 139,
+      "start_time": 650.0,
+      "end_time": 664.0,
+      "duration": 14.0,
+      "dialogue_text": "I hope you're not going to do, what I think you're going to do?!"
+    },
+    {
+      "subtitle_index": 140,
+      "start_time": 664.0,
+      "end_time": 666.0,
+      "duration": 2.0,
+      "dialogue_text": "We'll sleep here until the storm is gone."
+    },
+    {
+      "subtitle_index": 141,
+      "start_time": 666.0,
+      "end_time": 668.0,
+      "duration": 2.0,
+      "dialogue_text": "Won't we get into trouble?"
+    },
+    {
+      "subtitle_index": 142,
+      "start_time": 668.0,
+      "end_time": 676.0,
+      "duration": 8.0,
+      "dialogue_text": "Not if nobody finds us."
+    },
+    {
+      "subtitle_index": 143,
+      "start_time": 676.0,
+      "end_time": 678.0,
+      "duration": 2.0,
+      "dialogue_text": "I'm soaked thorugh."
+    },
+    {
+      "subtitle_index": 144,
+      "start_time": 678.0,
+      "end_time": 682.0,
+      "duration": 4.0,
+      "dialogue_text": "Do you fell anything moving?"
+    },
+    {
+      "subtitle_index": 145,
+      "start_time": 682.0,
+      "end_time": 761.0,
+      "duration": 79.0,
+      "dialogue_text": "This smells great!"
+    },
+    {
+      "subtitle_index": 146,
+      "start_time": 761.0,
+      "end_time": 776.0,
+      "duration": 15.0,
+      "dialogue_text": "Sorry. We didn't mean to fall asleep in your breakfast."
+    },
+    {
+      "subtitle_index": 147,
+      "start_time": 776.0,
+      "end_time": 778.0,
+      "duration": 2.0,
+      "dialogue_text": "Jiji, you've got to see the ocean!"
+    },
+    {
+      "subtitle_index": 148,
+      "start_time": 778.0,
+      "end_time": 780.0,
+      "duration": 2.0,
+      "dialogue_text": "I don't belive it! It's huge!"
+    },
+    {
+      "subtitle_index": 149,
+      "start_time": 780.0,
+      "end_time": 783.0,
+      "duration": 3.0,
+      "dialogue_text": "It's only a puddle to me."
+    },
+    {
+      "subtitle_index": 150,
+      "start_time": 783.0,
+      "end_time": 793.0,
+      "duration": 10.0,
+      "dialogue_text": "Aw, come on!"
+    },
+    {
+      "subtitle_index": 151,
+      "start_time": 793.0,
+      "end_time": 797.0,
+      "duration": 4.0,
+      "dialogue_text": "That one is giant. Think there might be other witches there?"
+    },
+    {
+      "subtitle_index": 152,
+      "start_time": 797.0,
+      "end_time": 813.0,
+      "duration": 16.0,
+      "dialogue_text": "How would I know?"
+    },
+    {
+      "subtitle_index": 153,
+      "start_time": 813.0,
+      "end_time": 824.0,
+      "duration": 11.0,
+      "dialogue_text": "Let's go!"
+    },
+    {
+      "subtitle_index": 154,
+      "start_time": 824.0,
+      "end_time": 827.0,
+      "duration": 3.0,
+      "dialogue_text": "Jiji, you allright back there?"
+    },
+    {
+      "subtitle_index": 155,
+      "start_time": 827.0,
+      "end_time": 829.0,
+      "duration": 2.0,
+      "dialogue_text": "Look!"
+    },
+    {
+      "subtitle_index": 156,
+      "start_time": 829.0,
+      "end_time": 859.0,
+      "duration": 30.0,
+      "dialogue_text": "A big town by the sea!"
+    },
+    {
+      "subtitle_index": 157,
+      "start_time": 859.0,
+      "end_time": 862.0,
+      "duration": 3.0,
+      "dialogue_text": "Can you belive my luck ? A clocktower and everything!"
+    },
+    {
+      "subtitle_index": 158,
+      "start_time": 862.0,
+      "end_time": 865.0,
+      "duration": 3.0,
+      "dialogue_text": "What if there are some witches living here?"
+    },
+    {
+      "subtitle_index": 159,
+      "start_time": 865.0,
+      "end_time": 904.0,
+      "duration": 39.0,
+      "dialogue_text": "There may not be."
+    },
+    {
+      "subtitle_index": 160,
+      "start_time": 904.0,
+      "end_time": 906.0,
+      "duration": 2.0,
+      "dialogue_text": "Am I gonna like it here!"
+    },
+    {
+      "subtitle_index": 161,
+      "start_time": 906.0,
+      "end_time": 909.0,
+      "duration": 3.0,
+      "dialogue_text": "It's a little big for my taste."
+    },
+    {
+      "subtitle_index": 162,
+      "start_time": 909.0,
+      "end_time": 913.0,
+      "duration": 4.0,
+      "dialogue_text": "Bless my hourglass. If that ain't a witch!"
+    },
+    {
+      "subtitle_index": 163,
+      "start_time": 913.0,
+      "end_time": 917.0,
+      "duration": 4.0,
+      "dialogue_text": "Good morning! Are there any other witches in this town?"
+    },
+    {
+      "subtitle_index": 164,
+      "start_time": 917.0,
+      "end_time": 921.0,
+      "duration": 4.0,
+      "dialogue_text": "No, can't say I've seen a single one of 'em lately."
+    },
+    {
+      "subtitle_index": 165,
+      "start_time": 921.0,
+      "end_time": 924.0,
+      "duration": 3.0,
+      "dialogue_text": "How about that? Our trip is over, we'll settle down here!"
+    },
+    {
+      "subtitle_index": 166,
+      "start_time": 924.0,
+      "end_time": 926.0,
+      "duration": 2.0,
+      "dialogue_text": "Thanks mister! Bye!"
+    },
+    {
+      "subtitle_index": 167,
+      "start_time": 926.0,
+      "end_time": 933.0,
+      "duration": 7.0,
+      "dialogue_text": "Don't mention it."
+    },
+    {
+      "subtitle_index": 168,
+      "start_time": 933.0,
+      "end_time": 934.0,
+      "duration": 1.0,
+      "dialogue_text": "Tell me we're not landing down there."
+    },
+    {
+      "subtitle_index": 169,
+      "start_time": 934.0,
+      "end_time": 947.0,
+      "duration": 13.0,
+      "dialogue_text": "Of course we do."
+    },
+    {
+      "subtitle_index": 170,
+      "start_time": 947.0,
+      "end_time": 949.0,
+      "duration": 2.0,
+      "dialogue_text": "Everybody is looking at us."
+    },
+    {
+      "subtitle_index": 171,
+      "start_time": 949.0,
+      "end_time": 992.0,
+      "duration": 43.0,
+      "dialogue_text": "I know. Smile and make a good first impression."
+    },
+    {
+      "subtitle_index": 172,
+      "start_time": 992.0,
+      "end_time": 996.0,
+      "duration": 4.0,
+      "dialogue_text": "Well, you see, I'm a witch. My name is Kiki."
+    },
+    {
+      "subtitle_index": 173,
+      "start_time": 996.0,
+      "end_time": 997.0,
+      "duration": 1.0,
+      "dialogue_text": "This is my black cat Jiji."
+    },
+    {
+      "subtitle_index": 174,
+      "start_time": 997.0,
+      "end_time": 1004.0,
+      "duration": 7.0,
+      "dialogue_text": "We'd be honored of we could live here."
+    },
+    {
+      "subtitle_index": 175,
+      "start_time": 1004.0,
+      "end_time": 1006.0,
+      "duration": 2.0,
+      "dialogue_text": "We'd love to live here."
+    },
+    {
+      "subtitle_index": 176,
+      "start_time": 1006.0,
+      "end_time": 1009.0,
+      "duration": 3.0,
+      "dialogue_text": "You have a wonderful bell tower."
+    },
+    {
+      "subtitle_index": 177,
+      "start_time": 1009.0,
+      "end_time": 1020.0,
+      "duration": 11.0,
+      "dialogue_text": "We're glad you like it my dear. Bye!"
+    },
+    {
+      "subtitle_index": 178,
+      "start_time": 1020.0,
+      "end_time": 1024.0,
+      "duration": 4.0,
+      "dialogue_text": "Hey kid, what were you doing jumping into the street like that?"
+    },
+    {
+      "subtitle_index": 179,
+      "start_time": 1024.0,
+      "end_time": 1026.0,
+      "duration": 2.0,
+      "dialogue_text": "You almost caused an accident."
+    },
+    {
+      "subtitle_index": 180,
+      "start_time": 1026.0,
+      "end_time": 1029.0,
+      "duration": 3.0,
+      "dialogue_text": "You must be crazy, zooming around on a broom in public!"
+    },
+    {
+      "subtitle_index": 181,
+      "start_time": 1029.0,
+      "end_time": 1032.0,
+      "duration": 3.0,
+      "dialogue_text": "I'm a new witch, sir. We're supposed to fly around."
+    },
+    {
+      "subtitle_index": 182,
+      "start_time": 1032.0,
+      "end_time": 1035.0,
+      "duration": 3.0,
+      "dialogue_text": "You're supposed to obey the law the same as all other people."
+    },
+    {
+      "subtitle_index": 183,
+      "start_time": 1035.0,
+      "end_time": 1037.0,
+      "duration": 2.0,
+      "dialogue_text": "What's your name and address?"
+    },
+    {
+      "subtitle_index": 184,
+      "start_time": 1037.0,
+      "end_time": 1039.0,
+      "duration": 2.0,
+      "dialogue_text": "Are you gonna tell my parents?"
+    },
+    {
+      "subtitle_index": 185,
+      "start_time": 1039.0,
+      "end_time": 1042.0,
+      "duration": 3.0,
+      "dialogue_text": "Of course. If its necessary."
+    },
+    {
+      "subtitle_index": 186,
+      "start_time": 1042.0,
+      "end_time": 1046.0,
+      "duration": 4.0,
+      "dialogue_text": "I have to. You're a minor."
+    },
+    {
+      "subtitle_index": 187,
+      "start_time": 1046.0,
+      "end_time": 1047.0,
+      "duration": 1.0,
+      "dialogue_text": "Thief! Somebody stop him! Stop, thief!"
+    },
+    {
+      "subtitle_index": 188,
+      "start_time": 1047.0,
+      "end_time": 1071.0,
+      "duration": 24.0,
+      "dialogue_text": "Don't you move from there!"
+    },
+    {
+      "subtitle_index": 189,
+      "start_time": 1071.0,
+      "end_time": 1076.0,
+      "duration": 5.0,
+      "dialogue_text": "Kiki...."
+    },
+    {
+      "subtitle_index": 190,
+      "start_time": 1076.0,
+      "end_time": 1079.0,
+      "duration": 3.0,
+      "dialogue_text": "Wait! It worked out pretty good huh?"
+    },
+    {
+      "subtitle_index": 191,
+      "start_time": 1079.0,
+      "end_time": 1081.0,
+      "duration": 2.0,
+      "dialogue_text": "Good plan to get rid of that cop, huh?"
+    },
+    {
+      "subtitle_index": 192,
+      "start_time": 1081.0,
+      "end_time": 1085.0,
+      "duration": 4.0,
+      "dialogue_text": "I was the one yelling \"Thief!\""
+    },
+    {
+      "subtitle_index": 193,
+      "start_time": 1085.0,
+      "end_time": 1087.0,
+      "duration": 2.0,
+      "dialogue_text": "You are a real witch, right?"
+    },
+    {
+      "subtitle_index": 194,
+      "start_time": 1087.0,
+      "end_time": 1089.0,
+      "duration": 2.0,
+      "dialogue_text": "Can I take a look at that broom?"
+    },
+    {
+      "subtitle_index": 195,
+      "start_time": 1089.0,
+      "end_time": 1092.0,
+      "duration": 3.0,
+      "dialogue_text": "Hey Tombo!"
+    },
+    {
+      "subtitle_index": 196,
+      "start_time": 1092.0,
+      "end_time": 1094.0,
+      "duration": 2.0,
+      "dialogue_text": "Isn't it a bit early to go on girl hunting?"
+    },
+    {
+      "subtitle_index": 197,
+      "start_time": 1094.0,
+      "end_time": 1100.0,
+      "duration": 6.0,
+      "dialogue_text": "Hey you guys, shut up!"
+    },
+    {
+      "subtitle_index": 198,
+      "start_time": 1100.0,
+      "end_time": 1104.0,
+      "duration": 4.0,
+      "dialogue_text": "Let me look at your broom, please? Just for a minute."
+    },
+    {
+      "subtitle_index": 199,
+      "start_time": 1104.0,
+      "end_time": 1106.0,
+      "duration": 2.0,
+      "dialogue_text": "I didn't ask for your help."
+    },
+    {
+      "subtitle_index": 200,
+      "start_time": 1106.0,
+      "end_time": 1108.0,
+      "duration": 2.0,
+      "dialogue_text": "I guess I have to thank you..."
+    },
+    {
+      "subtitle_index": 201,
+      "start_time": 1108.0,
+      "end_time": 1110.0,
+      "duration": 2.0,
+      "dialogue_text": "but it was rude from you"
+    },
+    {
+      "subtitle_index": 202,
+      "start_time": 1110.0,
+      "end_time": 1114.0,
+      "duration": 4.0,
+      "dialogue_text": "to do something without introducing yourself"
+    },
+    {
+      "subtitle_index": 203,
+      "start_time": 1114.0,
+      "end_time": 1123.0,
+      "duration": 9.0,
+      "dialogue_text": "?"
+    },
+    {
+      "subtitle_index": 204,
+      "start_time": 1123.0,
+      "end_time": 1126.0,
+      "duration": 3.0,
+      "dialogue_text": "How old-fashioned. You sound like my grandma."
+    },
+    {
+      "subtitle_index": 205,
+      "start_time": 1126.0,
+      "end_time": 1139.0,
+      "duration": 13.0,
+      "dialogue_text": "Go away and leave me alone!"
+    },
+    {
+      "subtitle_index": 206,
+      "start_time": 1139.0,
+      "end_time": 1144.0,
+      "duration": 5.0,
+      "dialogue_text": "What a cool witch!"
+    },
+    {
+      "subtitle_index": 207,
+      "start_time": 1144.0,
+      "end_time": 1146.0,
+      "duration": 2.0,
+      "dialogue_text": "Stay here alone?"
+    },
+    {
+      "subtitle_index": 208,
+      "start_time": 1146.0,
+      "end_time": 1149.0,
+      "duration": 3.0,
+      "dialogue_text": "I don't understand. Aren't your parents here with you?"
+    },
+    {
+      "subtitle_index": 209,
+      "start_time": 1149.0,
+      "end_time": 1150.0,
+      "duration": 1.0,
+      "dialogue_text": "No. I'm a witch, so since I'm 13,..."
+    },
+    {
+      "subtitle_index": 210,
+      "start_time": 1150.0,
+      "end_time": 1153.0,
+      "duration": 3.0,
+      "dialogue_text": "I'm supposed to be completely independant."
+    },
+    {
+      "subtitle_index": 211,
+      "start_time": 1153.0,
+      "end_time": 1156.0,
+      "duration": 3.0,
+      "dialogue_text": "May I see your indentification?"
+    },
+    {
+      "subtitle_index": 212,
+      "start_time": 1156.0,
+      "end_time": 1172.0,
+      "duration": 16.0,
+      "dialogue_text": "Never mind then."
+    },
+    {
+      "subtitle_index": 213,
+      "start_time": 1172.0,
+      "end_time": 1173.0,
+      "duration": 1.0,
+      "dialogue_text": "Are you going to eat that?"
+    },
+    {
+      "subtitle_index": 214,
+      "start_time": 1173.0,
+      "end_time": 1179.0,
+      "duration": 6.0,
+      "dialogue_text": "You can have it."
+    },
+    {
+      "subtitle_index": 215,
+      "start_time": 1179.0,
+      "end_time": 1189.0,
+      "duration": 10.0,
+      "dialogue_text": "Its going to get dark fairly soon..."
+    },
+    {
+      "subtitle_index": 216,
+      "start_time": 1189.0,
+      "end_time": 1228.0,
+      "duration": 39.0,
+      "dialogue_text": "Let's go."
+    },
+    {
+      "subtitle_index": 217,
+      "start_time": 1228.0,
+      "end_time": 1230.0,
+      "duration": 2.0,
+      "dialogue_text": "Let's find another town."
+    },
+    {
+      "subtitle_index": 218,
+      "start_time": 1230.0,
+      "end_time": 1241.0,
+      "duration": 11.0,
+      "dialogue_text": "There must be plenty like this one, perhaps even bigger."
+    },
+    {
+      "subtitle_index": 219,
+      "start_time": 1241.0,
+      "end_time": 1245.0,
+      "duration": 4.0,
+      "dialogue_text": "Lady! Your pacifier!"
+    },
+    {
+      "subtitle_index": 220,
+      "start_time": 1245.0,
+      "end_time": 1250.0,
+      "duration": 5.0,
+      "dialogue_text": "Lady! You forgot this!"
+    },
+    {
+      "subtitle_index": 221,
+      "start_time": 1250.0,
+      "end_time": 1251.0,
+      "duration": 1.0,
+      "dialogue_text": "What am I going to do?"
+    },
+    {
+      "subtitle_index": 222,
+      "start_time": 1251.0,
+      "end_time": 1253.0,
+      "duration": 2.0,
+      "dialogue_text": "When that baby wakes up..."
+    },
+    {
+      "subtitle_index": 223,
+      "start_time": 1253.0,
+      "end_time": 1261.0,
+      "duration": 8.0,
+      "dialogue_text": "and doesn't find this, it's gonna cry."
+    },
+    {
+      "subtitle_index": 224,
+      "start_time": 1261.0,
+      "end_time": 1263.0,
+      "duration": 2.0,
+      "dialogue_text": "I'm sorry, sir, but could you wait just a minute?"
+    },
+    {
+      "subtitle_index": 225,
+      "start_time": 1263.0,
+      "end_time": 1269.0,
+      "duration": 6.0,
+      "dialogue_text": "I'll be right back."
+    },
+    {
+      "subtitle_index": 226,
+      "start_time": 1269.0,
+      "end_time": 1272.0,
+      "duration": 3.0,
+      "dialogue_text": "Should I bring it down to her?"
+    },
+    {
+      "subtitle_index": 227,
+      "start_time": 1272.0,
+      "end_time": 1274.0,
+      "duration": 2.0,
+      "dialogue_text": "What?"
+    },
+    {
+      "subtitle_index": 228,
+      "start_time": 1274.0,
+      "end_time": 1277.0,
+      "duration": 3.0,
+      "dialogue_text": "The woman with the baby carriage, right? It'd be easy. I'd really like to."
+    },
+    {
+      "subtitle_index": 229,
+      "start_time": 1277.0,
+      "end_time": 1280.0,
+      "duration": 3.0,
+      "dialogue_text": "That'd be a big help."
+    },
+    {
+      "subtitle_index": 230,
+      "start_time": 1280.0,
+      "end_time": 1281.0,
+      "duration": 1.0,
+      "dialogue_text": "Thank you very much."
+    },
+    {
+      "subtitle_index": 231,
+      "start_time": 1281.0,
+      "end_time": 1283.0,
+      "duration": 2.0,
+      "dialogue_text": "My pleasure."
+    },
+    {
+      "subtitle_index": 232,
+      "start_time": 1283.0,
+      "end_time": 1293.0,
+      "duration": 10.0,
+      "dialogue_text": "Jiji, let's go."
+    },
+    {
+      "subtitle_index": 233,
+      "start_time": 1293.0,
+      "end_time": 1306.0,
+      "duration": 13.0,
+      "dialogue_text": "Wow!"
+    },
+    {
+      "subtitle_index": 234,
+      "start_time": 1306.0,
+      "end_time": 1309.0,
+      "duration": 3.0,
+      "dialogue_text": "Sorry to startle you..."
+    },
+    {
+      "subtitle_index": 235,
+      "start_time": 1309.0,
+      "end_time": 1326.0,
+      "duration": 17.0,
+      "dialogue_text": "but you left this pacifier in the bakery."
+    },
+    {
+      "subtitle_index": 236,
+      "start_time": 1326.0,
+      "end_time": 1327.0,
+      "duration": 1.0,
+      "dialogue_text": "Here you go."
+    },
+    {
+      "subtitle_index": 237,
+      "start_time": 1327.0,
+      "end_time": 1329.0,
+      "duration": 2.0,
+      "dialogue_text": "I'd like one of those."
+    },
+    {
+      "subtitle_index": 238,
+      "start_time": 1329.0,
+      "end_time": 1339.0,
+      "duration": 10.0,
+      "dialogue_text": "Sure. Hi! Come on in!"
+    },
+    {
+      "subtitle_index": 239,
+      "start_time": 1339.0,
+      "end_time": 1342.0,
+      "duration": 3.0,
+      "dialogue_text": "Thank you."
+    },
+    {
+      "subtitle_index": 240,
+      "start_time": 1342.0,
+      "end_time": 1344.0,
+      "duration": 2.0,
+      "dialogue_text": "Thank you."
+    },
+    {
+      "subtitle_index": 241,
+      "start_time": 1344.0,
+      "end_time": 1349.0,
+      "duration": 5.0,
+      "dialogue_text": "Bye."
+    },
+    {
+      "subtitle_index": 242,
+      "start_time": 1349.0,
+      "end_time": 1356.0,
+      "duration": 7.0,
+      "dialogue_text": "There you go"
+    },
+    {
+      "subtitle_index": 243,
+      "start_time": 1356.0,
+      "end_time": 1359.0,
+      "duration": 3.0,
+      "dialogue_text": "I must say, I nearly fainted when I saw you fly off."
+    },
+    {
+      "subtitle_index": 244,
+      "start_time": 1359.0,
+      "end_time": 1365.0,
+      "duration": 6.0,
+      "dialogue_text": "That woman told me to give you this message right away."
+    },
+    {
+      "subtitle_index": 245,
+      "start_time": 1365.0,
+      "end_time": 1367.0,
+      "duration": 2.0,
+      "dialogue_text": "\"I got the pacifier you sent..."
+    },
+    {
+      "subtitle_index": 246,
+      "start_time": 1367.0,
+      "end_time": 1371.0,
+      "duration": 4.0,
+      "dialogue_text": "Be sure to thank your little friend. She's an absolute angel.\""
+    },
+    {
+      "subtitle_index": 247,
+      "start_time": 1371.0,
+      "end_time": 1373.0,
+      "duration": 2.0,
+      "dialogue_text": "I'm glad I could help. Bye."
+    },
+    {
+      "subtitle_index": 248,
+      "start_time": 1373.0,
+      "end_time": 1374.0,
+      "duration": 1.0,
+      "dialogue_text": "Where are you going so fast?"
+    },
+    {
+      "subtitle_index": 249,
+      "start_time": 1374.0,
+      "end_time": 1384.0,
+      "duration": 10.0,
+      "dialogue_text": "Wait, please have something to drink!"
+    },
+    {
+      "subtitle_index": 250,
+      "start_time": 1384.0,
+      "end_time": 1390.0,
+      "duration": 6.0,
+      "dialogue_text": "Come up here."
+    },
+    {
+      "subtitle_index": 251,
+      "start_time": 1390.0,
+      "end_time": 1393.0,
+      "duration": 3.0,
+      "dialogue_text": "Sit down and relax. Want some hot chocolate?"
+    },
+    {
+      "subtitle_index": 252,
+      "start_time": 1393.0,
+      "end_time": 1407.0,
+      "duration": 14.0,
+      "dialogue_text": "Yes..."
+    },
+    {
+      "subtitle_index": 253,
+      "start_time": 1407.0,
+      "end_time": 1408.0,
+      "duration": 1.0,
+      "dialogue_text": "Thank you."
+    },
+    {
+      "subtitle_index": 254,
+      "start_time": 1408.0,
+      "end_time": 1412.0,
+      "duration": 4.0,
+      "dialogue_text": "And this is for you."
+    },
+    {
+      "subtitle_index": 255,
+      "start_time": 1412.0,
+      "end_time": 1418.0,
+      "duration": 6.0,
+      "dialogue_text": "Let me guess, you're a witch in training?"
+    },
+    {
+      "subtitle_index": 256,
+      "start_time": 1418.0,
+      "end_time": 1421.0,
+      "duration": 3.0,
+      "dialogue_text": "Yes, but people don't seem fond of witches in this town."
+    },
+    {
+      "subtitle_index": 257,
+      "start_time": 1421.0,
+      "end_time": 1424.0,
+      "duration": 3.0,
+      "dialogue_text": "There are many kind people in this town who will like you."
+    },
+    {
+      "subtitle_index": 258,
+      "start_time": 1424.0,
+      "end_time": 1430.0,
+      "duration": 6.0,
+      "dialogue_text": "Take me for instance. I like you very much."
+    },
+    {
+      "subtitle_index": 259,
+      "start_time": 1430.0,
+      "end_time": 1436.0,
+      "duration": 6.0,
+      "dialogue_text": "Have you found a place to stay yet?"
+    },
+    {
+      "subtitle_index": 260,
+      "start_time": 1436.0,
+      "end_time": 1439.0,
+      "duration": 3.0,
+      "dialogue_text": "You should have told me you hadn't."
+    },
+    {
+      "subtitle_index": 261,
+      "start_time": 1439.0,
+      "end_time": 1442.0,
+      "duration": 3.0,
+      "dialogue_text": "We have a vavant room in the attic you can stay in."
+    },
+    {
+      "subtitle_index": 262,
+      "start_time": 1442.0,
+      "end_time": 1444.0,
+      "duration": 2.0,
+      "dialogue_text": "You'd give me a room?!"
+    },
+    {
+      "subtitle_index": 263,
+      "start_time": 1444.0,
+      "end_time": 1447.0,
+      "duration": 3.0,
+      "dialogue_text": "I'd be happy to."
+    },
+    {
+      "subtitle_index": 264,
+      "start_time": 1447.0,
+      "end_time": 1450.0,
+      "duration": 3.0,
+      "dialogue_text": "Let me introduce myself. I'm, Osono."
+    },
+    {
+      "subtitle_index": 265,
+      "start_time": 1450.0,
+      "end_time": 1468.0,
+      "duration": 18.0,
+      "dialogue_text": "My name is Kiki, and this is my cat Jiji."
+    },
+    {
+      "subtitle_index": 266,
+      "start_time": 1468.0,
+      "end_time": 1471.0,
+      "duration": 3.0,
+      "dialogue_text": "Its not very clean at the moment, but its all yours."
+    },
+    {
+      "subtitle_index": 267,
+      "start_time": 1471.0,
+      "end_time": 1471.0,
+      "duration": 0.0,
+      "dialogue_text": "Thanks."
+    },
+    {
+      "subtitle_index": 268,
+      "start_time": 1471.0,
+      "end_time": 1473.0,
+      "duration": 2.0,
+      "dialogue_text": "Bathroom and water are downstairs."
+    },
+    {
+      "subtitle_index": 269,
+      "start_time": 1473.0,
+      "end_time": 1475.0,
+      "duration": 2.0,
+      "dialogue_text": "Don't hesitate to ask for anything."
+    },
+    {
+      "subtitle_index": 270,
+      "start_time": 1475.0,
+      "end_time": 1481.0,
+      "duration": 6.0,
+      "dialogue_text": "Thank you!"
+    },
+    {
+      "subtitle_index": 271,
+      "start_time": 1481.0,
+      "end_time": 1496.0,
+      "duration": 15.0,
+      "dialogue_text": "There's flour everywhere."
+    },
+    {
+      "subtitle_index": 272,
+      "start_time": 1496.0,
+      "end_time": 1503.0,
+      "duration": 7.0,
+      "dialogue_text": "At this rate, I'll be a white cat by morning."
+    },
+    {
+      "subtitle_index": 273,
+      "start_time": 1503.0,
+      "end_time": 1512.0,
+      "duration": 9.0,
+      "dialogue_text": "Jiji, come take a look at the ocean from here."
+    },
+    {
+      "subtitle_index": 274,
+      "start_time": 1512.0,
+      "end_time": 1528.0,
+      "duration": 16.0,
+      "dialogue_text": "Shall we try to find another town?"
+    },
+    {
+      "subtitle_index": 275,
+      "start_time": 1528.0,
+      "end_time": 1547.0,
+      "duration": 19.0,
+      "dialogue_text": "What a snob she is."
+    },
+    {
+      "subtitle_index": 276,
+      "start_time": 1547.0,
+      "end_time": 1550.0,
+      "duration": 3.0,
+      "dialogue_text": "I've decided not to leave this town."
+    },
+    {
+      "subtitle_index": 277,
+      "start_time": 1550.0,
+      "end_time": 1552.0,
+      "duration": 2.0,
+      "dialogue_text": "Maybe I can find others like Osono..."
+    },
+    {
+      "subtitle_index": 278,
+      "start_time": 1552.0,
+      "end_time": 1670.0,
+      "duration": 118.0,
+      "dialogue_text": "who will accept me for what I am."
+    },
+    {
+      "subtitle_index": 279,
+      "start_time": 1670.0,
+      "end_time": 1673.0,
+      "duration": 3.0,
+      "dialogue_text": "How much do you think a phone would cost to put up here?"
+    },
+    {
+      "subtitle_index": 280,
+      "start_time": 1673.0,
+      "end_time": 1674.0,
+      "duration": 1.0,
+      "dialogue_text": "A phone?"
+    },
+    {
+      "subtitle_index": 281,
+      "start_time": 1674.0,
+      "end_time": 1698.0,
+      "duration": 24.0,
+      "dialogue_text": "Yeah, for my business."
+    },
+    {
+      "subtitle_index": 282,
+      "start_time": 1698.0,
+      "end_time": 1699.0,
+      "duration": 1.0,
+      "dialogue_text": "Good morning everyone."
+    },
+    {
+      "subtitle_index": 283,
+      "start_time": 1699.0,
+      "end_time": 1701.0,
+      "duration": 2.0,
+      "dialogue_text": "Did you sleep well?"
+    },
+    {
+      "subtitle_index": 284,
+      "start_time": 1701.0,
+      "end_time": 1726.0,
+      "duration": 25.0,
+      "dialogue_text": "Yes. That smells good. Can I help out?"
+    },
+    {
+      "subtitle_index": 285,
+      "start_time": 1726.0,
+      "end_time": 1728.0,
+      "duration": 2.0,
+      "dialogue_text": "A delivery service, huh?"
+    },
+    {
+      "subtitle_index": 286,
+      "start_time": 1728.0,
+      "end_time": 1731.0,
+      "duration": 3.0,
+      "dialogue_text": "I have one skill - flying- so I thought..."
+    },
+    {
+      "subtitle_index": 287,
+      "start_time": 1731.0,
+      "end_time": 1734.0,
+      "duration": 3.0,
+      "dialogue_text": "a delivery service would be a good idea."
+    },
+    {
+      "subtitle_index": 288,
+      "start_time": 1734.0,
+      "end_time": 1738.0,
+      "duration": 4.0,
+      "dialogue_text": "Everyone will love it. Kiki's Flying Deivery Service."
+    },
+    {
+      "subtitle_index": 289,
+      "start_time": 1738.0,
+      "end_time": 1741.0,
+      "duration": 3.0,
+      "dialogue_text": "And you can base your business out of you room upstairs..."
+    },
+    {
+      "subtitle_index": 290,
+      "start_time": 1741.0,
+      "end_time": 1743.0,
+      "duration": 2.0,
+      "dialogue_text": "if you want to."
+    },
+    {
+      "subtitle_index": 291,
+      "start_time": 1743.0,
+      "end_time": 1745.0,
+      "duration": 2.0,
+      "dialogue_text": "\"If I want to?\" Oh boy!"
+    },
+    {
+      "subtitle_index": 292,
+      "start_time": 1745.0,
+      "end_time": 1747.0,
+      "duration": 2.0,
+      "dialogue_text": "I'd like to put a phone up there."
+    },
+    {
+      "subtitle_index": 293,
+      "start_time": 1747.0,
+      "end_time": 1748.0,
+      "duration": 1.0,
+      "dialogue_text": "But a phone costs money."
+    },
+    {
+      "subtitle_index": 294,
+      "start_time": 1748.0,
+      "end_time": 1750.0,
+      "duration": 2.0,
+      "dialogue_text": "I've some saved up already."
+    },
+    {
+      "subtitle_index": 295,
+      "start_time": 1750.0,
+      "end_time": 1752.0,
+      "duration": 2.0,
+      "dialogue_text": "Don't waste it."
+    },
+    {
+      "subtitle_index": 296,
+      "start_time": 1752.0,
+      "end_time": 1755.0,
+      "duration": 3.0,
+      "dialogue_text": "Why not use our phone?"
+    },
+    {
+      "subtitle_index": 297,
+      "start_time": 1755.0,
+      "end_time": 1758.0,
+      "duration": 3.0,
+      "dialogue_text": "It takes time to get regular costumers."
+    },
+    {
+      "subtitle_index": 298,
+      "start_time": 1758.0,
+      "end_time": 1760.0,
+      "duration": 2.0,
+      "dialogue_text": "If you help in the bakery..."
+    },
+    {
+      "subtitle_index": 299,
+      "start_time": 1760.0,
+      "end_time": 1762.0,
+      "duration": 2.0,
+      "dialogue_text": "you won't have to pay the phone bill."
+    },
+    {
+      "subtitle_index": 300,
+      "start_time": 1762.0,
+      "end_time": 1765.0,
+      "duration": 3.0,
+      "dialogue_text": "I need a lot of help since I'm expecting a baby."
+    },
+    {
+      "subtitle_index": 301,
+      "start_time": 1765.0,
+      "end_time": 1767.0,
+      "duration": 2.0,
+      "dialogue_text": "And I'll throw in free breakfast too."
+    },
+    {
+      "subtitle_index": 302,
+      "start_time": 1767.0,
+      "end_time": 1769.0,
+      "duration": 2.0,
+      "dialogue_text": "Thank you!"
+    },
+    {
+      "subtitle_index": 303,
+      "start_time": 1769.0,
+      "end_time": 1773.0,
+      "duration": 4.0,
+      "dialogue_text": "I'll do my very best for you!"
+    },
+    {
+      "subtitle_index": 304,
+      "start_time": 1773.0,
+      "end_time": 1807.0,
+      "duration": 34.0,
+      "dialogue_text": "You're such a wonderful person."
+    },
+    {
+      "subtitle_index": 305,
+      "start_time": 1807.0,
+      "end_time": 1811.0,
+      "duration": 4.0,
+      "dialogue_text": "Jiji, come on! I'm all alone."
+    },
+    {
+      "subtitle_index": 306,
+      "start_time": 1811.0,
+      "end_time": 1829.0,
+      "duration": 18.0,
+      "dialogue_text": "It's time to go shopping."
+    },
+    {
+      "subtitle_index": 307,
+      "start_time": 1829.0,
+      "end_time": 1832.0,
+      "duration": 3.0,
+      "dialogue_text": "Stop jumping out on the street. We're not at home."
+    },
+    {
+      "subtitle_index": 308,
+      "start_time": 1832.0,
+      "end_time": 1851.0,
+      "duration": 19.0,
+      "dialogue_text": "I'm sorry. I won't do it again."
+    },
+    {
+      "subtitle_index": 309,
+      "start_time": 1851.0,
+      "end_time": 1864.0,
+      "duration": 13.0,
+      "dialogue_text": "I wish I had something pretty to wear besides this robe."
+    },
+    {
+      "subtitle_index": 310,
+      "start_time": 1864.0,
+      "end_time": 1866.0,
+      "duration": 2.0,
+      "dialogue_text": "Boy, this is expensive..."
+    },
+    {
+      "subtitle_index": 311,
+      "start_time": 1866.0,
+      "end_time": 1882.0,
+      "duration": 16.0,
+      "dialogue_text": "Kiki, look, its me!"
+    },
+    {
+      "subtitle_index": 312,
+      "start_time": 1882.0,
+      "end_time": 1883.0,
+      "duration": 1.0,
+      "dialogue_text": "Do you have any money left?"
+    },
+    {
+      "subtitle_index": 313,
+      "start_time": 1883.0,
+      "end_time": 1899.0,
+      "duration": 16.0,
+      "dialogue_text": "A little. We just have to eat pancakes for a while."
+    },
+    {
+      "subtitle_index": 314,
+      "start_time": 1899.0,
+      "end_time": 1907.0,
+      "duration": 8.0,
+      "dialogue_text": "Wow! Those are beautiful."
+    },
+    {
+      "subtitle_index": 315,
+      "start_time": 1907.0,
+      "end_time": 1909.0,
+      "duration": 2.0,
+      "dialogue_text": "Wait!"
+    },
+    {
+      "subtitle_index": 316,
+      "start_time": 1909.0,
+      "end_time": 1913.0,
+      "duration": 4.0,
+      "dialogue_text": "Pull over a second."
+    },
+    {
+      "subtitle_index": 317,
+      "start_time": 1913.0,
+      "end_time": 1918.0,
+      "duration": 5.0,
+      "dialogue_text": "Hey yo! Miss Witch! Turn around!"
+    },
+    {
+      "subtitle_index": 318,
+      "start_time": 1918.0,
+      "end_time": 1922.0,
+      "duration": 4.0,
+      "dialogue_text": "No flying today?"
+    },
+    {
+      "subtitle_index": 319,
+      "start_time": 1922.0,
+      "end_time": 1924.0,
+      "duration": 2.0,
+      "dialogue_text": "What did I tell you? Black is all she wears."
+    },
+    {
+      "subtitle_index": 320,
+      "start_time": 1924.0,
+      "end_time": 1941.0,
+      "duration": 17.0,
+      "dialogue_text": "Wait! Come back! I'm sorry, I was only kidding!"
+    },
+    {
+      "subtitle_index": 321,
+      "start_time": 1941.0,
+      "end_time": 1944.0,
+      "duration": 3.0,
+      "dialogue_text": "Kiki, perfect timing."
+    },
+    {
+      "subtitle_index": 322,
+      "start_time": 1944.0,
+      "end_time": 1946.0,
+      "duration": 2.0,
+      "dialogue_text": "A lady wants you to deliver something. She's your first customer."
+    },
+    {
+      "subtitle_index": 323,
+      "start_time": 1946.0,
+      "end_time": 1953.0,
+      "duration": 7.0,
+      "dialogue_text": "Customer? I'll be right back!"
+    },
+    {
+      "subtitle_index": 324,
+      "start_time": 1953.0,
+      "end_time": 1966.0,
+      "duration": 13.0,
+      "dialogue_text": "The map!"
+    },
+    {
+      "subtitle_index": 325,
+      "start_time": 1966.0,
+      "end_time": 1968.0,
+      "duration": 2.0,
+      "dialogue_text": "This lady is a customer of ours."
+    },
+    {
+      "subtitle_index": 326,
+      "start_time": 1968.0,
+      "end_time": 1971.0,
+      "duration": 3.0,
+      "dialogue_text": "We were talking about your delivery service."
+    },
+    {
+      "subtitle_index": 327,
+      "start_time": 1971.0,
+      "end_time": 1973.0,
+      "duration": 2.0,
+      "dialogue_text": "You are a cute little witch."
+    },
+    {
+      "subtitle_index": 328,
+      "start_time": 1973.0,
+      "end_time": 1974.0,
+      "duration": 1.0,
+      "dialogue_text": "My name is Kiki, ma'am."
+    },
+    {
+      "subtitle_index": 329,
+      "start_time": 1974.0,
+      "end_time": 1979.0,
+      "duration": 5.0,
+      "dialogue_text": "I've heard wonderful things about you. Could you deliver this tonight?"
+    },
+    {
+      "subtitle_index": 330,
+      "start_time": 1979.0,
+      "end_time": 1981.0,
+      "duration": 2.0,
+      "dialogue_text": "Yes."
+    },
+    {
+      "subtitle_index": 331,
+      "start_time": 1981.0,
+      "end_time": 1983.0,
+      "duration": 2.0,
+      "dialogue_text": "It's my nephews birthday."
+    },
+    {
+      "subtitle_index": 332,
+      "start_time": 1983.0,
+      "end_time": 1986.0,
+      "duration": 3.0,
+      "dialogue_text": "And urgent job came so I can't get there myself."
+    },
+    {
+      "subtitle_index": 333,
+      "start_time": 1986.0,
+      "end_time": 1991.0,
+      "duration": 5.0,
+      "dialogue_text": "Where do you want it delivered?"
+    },
+    {
+      "subtitle_index": 334,
+      "start_time": 1991.0,
+      "end_time": 1993.0,
+      "duration": 2.0,
+      "dialogue_text": "Thats me...."
+    },
+    {
+      "subtitle_index": 335,
+      "start_time": 1993.0,
+      "end_time": 1995.0,
+      "duration": 2.0,
+      "dialogue_text": "It won't be too far?"
+    },
+    {
+      "subtitle_index": 336,
+      "start_time": 1995.0,
+      "end_time": 1997.0,
+      "duration": 2.0,
+      "dialogue_text": "I ca fly there directly from here."
+    },
+    {
+      "subtitle_index": 337,
+      "start_time": 1997.0,
+      "end_time": 1998.0,
+      "duration": 1.0,
+      "dialogue_text": "How much do you want?"
+    },
+    {
+      "subtitle_index": 338,
+      "start_time": 1998.0,
+      "end_time": 2002.0,
+      "duration": 4.0,
+      "dialogue_text": "I haven't really set a price yet."
+    },
+    {
+      "subtitle_index": 339,
+      "start_time": 2002.0,
+      "end_time": 2008.0,
+      "duration": 6.0,
+      "dialogue_text": "Is this enough?"
+    },
+    {
+      "subtitle_index": 340,
+      "start_time": 2008.0,
+      "end_time": 2036.0,
+      "duration": 28.0,
+      "dialogue_text": "This is more than ehough. Thank you very much ma'am."
+    },
+    {
+      "subtitle_index": 341,
+      "start_time": 2036.0,
+      "end_time": 2037.0,
+      "duration": 1.0,
+      "dialogue_text": "Oh wow! That's great."
+    },
+    {
+      "subtitle_index": 342,
+      "start_time": 2037.0,
+      "end_time": 2039.0,
+      "duration": 2.0,
+      "dialogue_text": "I certainly wish that I could fly..."
+    },
+    {
+      "subtitle_index": 343,
+      "start_time": 2039.0,
+      "end_time": 2060.0,
+      "duration": 21.0,
+      "dialogue_text": "Yeah! Hey, do you know that girl?"
+    },
+    {
+      "subtitle_index": 344,
+      "start_time": 2060.0,
+      "end_time": 2063.0,
+      "duration": 3.0,
+      "dialogue_text": "How high do you intend to go?"
+    },
+    {
+      "subtitle_index": 345,
+      "start_time": 2063.0,
+      "end_time": 2068.0,
+      "duration": 5.0,
+      "dialogue_text": "Its my first delivery. I don't want to be stopped by that police officer."
+    },
+    {
+      "subtitle_index": 346,
+      "start_time": 2068.0,
+      "end_time": 2078.0,
+      "duration": 10.0,
+      "dialogue_text": "I was afraid you were going to deliver this to the angels."
+    },
+    {
+      "subtitle_index": 347,
+      "start_time": 2078.0,
+      "end_time": 2082.0,
+      "duration": 4.0,
+      "dialogue_text": "I'm guessing its just beyond the cape."
+    },
+    {
+      "subtitle_index": 348,
+      "start_time": 2082.0,
+      "end_time": 2092.0,
+      "duration": 10.0,
+      "dialogue_text": "Here we go!"
+    },
+    {
+      "subtitle_index": 349,
+      "start_time": 2092.0,
+      "end_time": 2094.0,
+      "duration": 2.0,
+      "dialogue_text": "Jiji, I'm liking this town more and more."
+    },
+    {
+      "subtitle_index": 350,
+      "start_time": 2094.0,
+      "end_time": 2096.0,
+      "duration": 2.0,
+      "dialogue_text": "I'm not suer what I think."
+    },
+    {
+      "subtitle_index": 351,
+      "start_time": 2096.0,
+      "end_time": 2118.0,
+      "duration": 22.0,
+      "dialogue_text": "I'll finally be able to write Mom."
+    },
+    {
+      "subtitle_index": 352,
+      "start_time": 2118.0,
+      "end_time": 2123.0,
+      "duration": 5.0,
+      "dialogue_text": "Those are wild geese. Wonderful!"
+    },
+    {
+      "subtitle_index": 353,
+      "start_time": 2123.0,
+      "end_time": 2151.0,
+      "duration": 28.0,
+      "dialogue_text": "They're flying along with us!"
+    },
+    {
+      "subtitle_index": 354,
+      "start_time": 2151.0,
+      "end_time": 2152.0,
+      "duration": 1.0,
+      "dialogue_text": "Why are they so upset?"
+    },
+    {
+      "subtitle_index": 355,
+      "start_time": 2152.0,
+      "end_time": 2154.0,
+      "duration": 2.0,
+      "dialogue_text": "They say a wind is comming."
+    },
+    {
+      "subtitle_index": 356,
+      "start_time": 2154.0,
+      "end_time": 2193.0,
+      "duration": 39.0,
+      "dialogue_text": "They also say they're going higher."
+    },
+    {
+      "subtitle_index": 357,
+      "start_time": 2193.0,
+      "end_time": 2200.0,
+      "duration": 7.0,
+      "dialogue_text": "I'm sorry! I-- Oww, oww!"
+    },
+    {
+      "subtitle_index": 358,
+      "start_time": 2200.0,
+      "end_time": 2213.0,
+      "duration": 13.0,
+      "dialogue_text": "Please! I'm sorry! I wasn't trying to steal your eggs!"
+    },
+    {
+      "subtitle_index": 359,
+      "start_time": 2213.0,
+      "end_time": 2215.0,
+      "duration": 2.0,
+      "dialogue_text": "I've never been so scared."
+    },
+    {
+      "subtitle_index": 360,
+      "start_time": 2215.0,
+      "end_time": 2217.0,
+      "duration": 2.0,
+      "dialogue_text": "Its your fault."
+    },
+    {
+      "subtitle_index": 361,
+      "start_time": 2217.0,
+      "end_time": 2219.0,
+      "duration": 2.0,
+      "dialogue_text": "They warned us of that wind, but you didn't listen."
+    },
+    {
+      "subtitle_index": 362,
+      "start_time": 2219.0,
+      "end_time": 2224.0,
+      "duration": 5.0,
+      "dialogue_text": "You're right."
+    },
+    {
+      "subtitle_index": 363,
+      "start_time": 2224.0,
+      "end_time": 2228.0,
+      "duration": 4.0,
+      "dialogue_text": "That's beautiful. They were able to fly that high up with the wind."
+    },
+    {
+      "subtitle_index": 364,
+      "start_time": 2228.0,
+      "end_time": 2230.0,
+      "duration": 2.0,
+      "dialogue_text": "Kiki!!"
+    },
+    {
+      "subtitle_index": 365,
+      "start_time": 2230.0,
+      "end_time": 2231.0,
+      "duration": 1.0,
+      "dialogue_text": "The toy is gone!"
+    },
+    {
+      "subtitle_index": 366,
+      "start_time": 2231.0,
+      "end_time": 2233.0,
+      "duration": 2.0,
+      "dialogue_text": "What? Oh no!"
+    },
+    {
+      "subtitle_index": 367,
+      "start_time": 2233.0,
+      "end_time": 2250.0,
+      "duration": 17.0,
+      "dialogue_text": "We've got to get back to where we fell!"
+    },
+    {
+      "subtitle_index": 368,
+      "start_time": 2250.0,
+      "end_time": 2252.0,
+      "duration": 2.0,
+      "dialogue_text": "They're saying \"The egg thief is coming again!\""
+    },
+    {
+      "subtitle_index": 369,
+      "start_time": 2252.0,
+      "end_time": 2270.0,
+      "duration": 18.0,
+      "dialogue_text": "What are we gonna do?"
+    },
+    {
+      "subtitle_index": 370,
+      "start_time": 2270.0,
+      "end_time": 2274.0,
+      "duration": 4.0,
+      "dialogue_text": "Hey! Don't do that! Stop it!"
+    },
+    {
+      "subtitle_index": 371,
+      "start_time": 2274.0,
+      "end_time": 2288.0,
+      "duration": 14.0,
+      "dialogue_text": "Stop it! Go away!"
+    },
+    {
+      "subtitle_index": 372,
+      "start_time": 2288.0,
+      "end_time": 2290.0,
+      "duration": 2.0,
+      "dialogue_text": "We're in trouble. They're still upset."
+    },
+    {
+      "subtitle_index": 373,
+      "start_time": 2290.0,
+      "end_time": 2293.0,
+      "duration": 3.0,
+      "dialogue_text": "Witches get no respect these days."
+    },
+    {
+      "subtitle_index": 374,
+      "start_time": 2293.0,
+      "end_time": 2296.0,
+      "duration": 3.0,
+      "dialogue_text": "Crows used to be witches servants."
+    },
+    {
+      "subtitle_index": 375,
+      "start_time": 2296.0,
+      "end_time": 2299.0,
+      "duration": 3.0,
+      "dialogue_text": "That was a long time ago, okay?"
+    },
+    {
+      "subtitle_index": 376,
+      "start_time": 2299.0,
+      "end_time": 2303.0,
+      "duration": 4.0,
+      "dialogue_text": "How about we go in after the forest is dark, get in and get out?"
+    },
+    {
+      "subtitle_index": 377,
+      "start_time": 2303.0,
+      "end_time": 2306.0,
+      "duration": 3.0,
+      "dialogue_text": "We'll never make it in time."
+    },
+    {
+      "subtitle_index": 378,
+      "start_time": 2306.0,
+      "end_time": 2309.0,
+      "duration": 3.0,
+      "dialogue_text": "There's only one way to do it."
+    },
+    {
+      "subtitle_index": 379,
+      "start_time": 2309.0,
+      "end_time": 2310.0,
+      "duration": 1.0,
+      "dialogue_text": "They'll find out I'm a fake!"
+    },
+    {
+      "subtitle_index": 380,
+      "start_time": 2310.0,
+      "end_time": 2317.0,
+      "duration": 7.0,
+      "dialogue_text": "After I find it, I'll be right back to help you out."
+    },
+    {
+      "subtitle_index": 381,
+      "start_time": 2317.0,
+      "end_time": 2318.0,
+      "duration": 1.0,
+      "dialogue_text": "Is that the place?"
+    },
+    {
+      "subtitle_index": 382,
+      "start_time": 2318.0,
+      "end_time": 2320.0,
+      "duration": 2.0,
+      "dialogue_text": "Yes. Don't move a muscle."
+    },
+    {
+      "subtitle_index": 383,
+      "start_time": 2320.0,
+      "end_time": 2321.0,
+      "duration": 1.0,
+      "dialogue_text": "Can I breathe?"
+    },
+    {
+      "subtitle_index": 384,
+      "start_time": 2321.0,
+      "end_time": 2340.0,
+      "duration": 19.0,
+      "dialogue_text": "Hold it as long as you can."
+    },
+    {
+      "subtitle_index": 385,
+      "start_time": 2340.0,
+      "end_time": 2345.0,
+      "duration": 5.0,
+      "dialogue_text": "Yea! Give me my present!"
+    },
+    {
+      "subtitle_index": 386,
+      "start_time": 2345.0,
+      "end_time": 2353.0,
+      "duration": 8.0,
+      "dialogue_text": "That's pretty weird."
+    },
+    {
+      "subtitle_index": 387,
+      "start_time": 2353.0,
+      "end_time": 2357.0,
+      "duration": 4.0,
+      "dialogue_text": "A bit late aren't you? After my sister telephoned we were wondering where you were."
+    },
+    {
+      "subtitle_index": 388,
+      "start_time": 2357.0,
+      "end_time": 2362.0,
+      "duration": 5.0,
+      "dialogue_text": "I'm sorry. Oh."
+    },
+    {
+      "subtitle_index": 389,
+      "start_time": 2362.0,
+      "end_time": 2366.0,
+      "duration": 4.0,
+      "dialogue_text": "Could I please have your signature?"
+    },
+    {
+      "subtitle_index": 390,
+      "start_time": 2366.0,
+      "end_time": 2369.0,
+      "duration": 3.0,
+      "dialogue_text": "Mom, can I put the canaries in here?"
+    },
+    {
+      "subtitle_index": 391,
+      "start_time": 2369.0,
+      "end_time": 2371.0,
+      "duration": 2.0,
+      "dialogue_text": "Uh-huh, but be careful you don't let any of them escape."
+    },
+    {
+      "subtitle_index": 392,
+      "start_time": 2371.0,
+      "end_time": 2376.0,
+      "duration": 5.0,
+      "dialogue_text": "Okay."
+    },
+    {
+      "subtitle_index": 393,
+      "start_time": 2376.0,
+      "end_time": 2389.0,
+      "duration": 13.0,
+      "dialogue_text": "Thank you, have a nice day."
+    },
+    {
+      "subtitle_index": 394,
+      "start_time": 2389.0,
+      "end_time": 2391.0,
+      "duration": 2.0,
+      "dialogue_text": "Come on birdie!"
+    },
+    {
+      "subtitle_index": 395,
+      "start_time": 2391.0,
+      "end_time": 2398.0,
+      "duration": 7.0,
+      "dialogue_text": "I'm gonna put you in a bigger house!"
+    },
+    {
+      "subtitle_index": 396,
+      "start_time": 2398.0,
+      "end_time": 2430.0,
+      "duration": 32.0,
+      "dialogue_text": "Kiki, please hurry!"
+    },
+    {
+      "subtitle_index": 397,
+      "start_time": 2430.0,
+      "end_time": 2447.0,
+      "duration": 17.0,
+      "dialogue_text": "I know it was here, so it's gotta be around somplace."
+    },
+    {
+      "subtitle_index": 398,
+      "start_time": 2447.0,
+      "end_time": 2454.0,
+      "duration": 7.0,
+      "dialogue_text": "There it is!"
+    },
+    {
+      "subtitle_index": 399,
+      "start_time": 2454.0,
+      "end_time": 2456.0,
+      "duration": 2.0,
+      "dialogue_text": "Excuse me, anybody home?"
+    },
+    {
+      "subtitle_index": 400,
+      "start_time": 2456.0,
+      "end_time": 2466.0,
+      "duration": 10.0,
+      "dialogue_text": "Can you please help me? Anybody?"
+    },
+    {
+      "subtitle_index": 401,
+      "start_time": 2466.0,
+      "end_time": 2468.0,
+      "duration": 2.0,
+      "dialogue_text": "Anybody here?"
+    },
+    {
+      "subtitle_index": 402,
+      "start_time": 2468.0,
+      "end_time": 2469.0,
+      "duration": 1.0,
+      "dialogue_text": "Yeah!"
+    },
+    {
+      "subtitle_index": 403,
+      "start_time": 2469.0,
+      "end_time": 2473.0,
+      "duration": 4.0,
+      "dialogue_text": "I can't come down right now."
+    },
+    {
+      "subtitle_index": 404,
+      "start_time": 2473.0,
+      "end_time": 2486.0,
+      "duration": 13.0,
+      "dialogue_text": "But why don't you come up?"
+    },
+    {
+      "subtitle_index": 405,
+      "start_time": 2486.0,
+      "end_time": 2488.0,
+      "duration": 2.0,
+      "dialogue_text": "What do you want?"
+    },
+    {
+      "subtitle_index": 406,
+      "start_time": 2488.0,
+      "end_time": 2491.0,
+      "duration": 3.0,
+      "dialogue_text": "That stuffed black cat you put behind your window?"
+    },
+    {
+      "subtitle_index": 407,
+      "start_time": 2491.0,
+      "end_time": 2495.0,
+      "duration": 4.0,
+      "dialogue_text": "I'm sorry, but its mine. I dropped it."
+    },
+    {
+      "subtitle_index": 408,
+      "start_time": 2495.0,
+      "end_time": 2500.0,
+      "duration": 5.0,
+      "dialogue_text": "Be good, and don't move yet."
+    },
+    {
+      "subtitle_index": 409,
+      "start_time": 2500.0,
+      "end_time": 2502.0,
+      "duration": 2.0,
+      "dialogue_text": "I found it in the forest."
+    },
+    {
+      "subtitle_index": 410,
+      "start_time": 2502.0,
+      "end_time": 2506.0,
+      "duration": 4.0,
+      "dialogue_text": "Would you give it back to me, please?"
+    },
+    {
+      "subtitle_index": 411,
+      "start_time": 2506.0,
+      "end_time": 2509.0,
+      "duration": 3.0,
+      "dialogue_text": "Hang on a minute, I just can't stop just now."
+    },
+    {
+      "subtitle_index": 412,
+      "start_time": 2509.0,
+      "end_time": 2512.0,
+      "duration": 3.0,
+      "dialogue_text": "Nice, very nice."
+    },
+    {
+      "subtitle_index": 413,
+      "start_time": 2512.0,
+      "end_time": 2523.0,
+      "duration": 11.0,
+      "dialogue_text": "You're beautiful just the way you are."
+    },
+    {
+      "subtitle_index": 414,
+      "start_time": 2523.0,
+      "end_time": 2529.0,
+      "duration": 6.0,
+      "dialogue_text": "You really should have told me you were in a hurry."
+    },
+    {
+      "subtitle_index": 415,
+      "start_time": 2529.0,
+      "end_time": 2531.0,
+      "duration": 2.0,
+      "dialogue_text": "I got sort of fond of it."
+    },
+    {
+      "subtitle_index": 416,
+      "start_time": 2531.0,
+      "end_time": 2535.0,
+      "duration": 4.0,
+      "dialogue_text": "I'm sorry."
+    },
+    {
+      "subtitle_index": 417,
+      "start_time": 2535.0,
+      "end_time": 2537.0,
+      "duration": 2.0,
+      "dialogue_text": "The stuffing is coming out!"
+    },
+    {
+      "subtitle_index": 418,
+      "start_time": 2537.0,
+      "end_time": 2540.0,
+      "duration": 3.0,
+      "dialogue_text": "I'd bet the crows did it. They were making a big fuss over it."
+    },
+    {
+      "subtitle_index": 419,
+      "start_time": 2540.0,
+      "end_time": 2545.0,
+      "duration": 5.0,
+      "dialogue_text": "What am I gonna do? I can't deliver it like this."
+    },
+    {
+      "subtitle_index": 420,
+      "start_time": 2545.0,
+      "end_time": 2550.0,
+      "duration": 5.0,
+      "dialogue_text": "Say, how about we work out a deal?"
+    },
+    {
+      "subtitle_index": 421,
+      "start_time": 2550.0,
+      "end_time": 2554.0,
+      "duration": 4.0,
+      "dialogue_text": "That's pretty exciting. And at 13 too!"
+    },
+    {
+      "subtitle_index": 422,
+      "start_time": 2554.0,
+      "end_time": 2556.0,
+      "duration": 2.0,
+      "dialogue_text": "To be completely independant. That's great."
+    },
+    {
+      "subtitle_index": 423,
+      "start_time": 2556.0,
+      "end_time": 2557.0,
+      "duration": 1.0,
+      "dialogue_text": "Can you fix it?"
+    },
+    {
+      "subtitle_index": 424,
+      "start_time": 2557.0,
+      "end_time": 2566.0,
+      "duration": 9.0,
+      "dialogue_text": "Trust me."
+    },
+    {
+      "subtitle_index": 425,
+      "start_time": 2566.0,
+      "end_time": 2571.0,
+      "duration": 5.0,
+      "dialogue_text": "Ketto!"
+    },
+    {
+      "subtitle_index": 426,
+      "start_time": 2571.0,
+      "end_time": 2578.0,
+      "duration": 7.0,
+      "dialogue_text": "Ketto! Time for your bath. The guests will be here soon!"
+    },
+    {
+      "subtitle_index": 427,
+      "start_time": 2578.0,
+      "end_time": 2639.0,
+      "duration": 61.0,
+      "dialogue_text": "Ketto!"
+    },
+    {
+      "subtitle_index": 428,
+      "start_time": 2639.0,
+      "end_time": 2640.0,
+      "duration": 1.0,
+      "dialogue_text": "I'm done!"
+    },
+    {
+      "subtitle_index": 429,
+      "start_time": 2640.0,
+      "end_time": 2641.0,
+      "duration": 1.0,
+      "dialogue_text": "Thank you so much!"
+    },
+    {
+      "subtitle_index": 430,
+      "start_time": 2641.0,
+      "end_time": 2644.0,
+      "duration": 3.0,
+      "dialogue_text": "You'd better help Jiji before it's too late!"
+    },
+    {
+      "subtitle_index": 431,
+      "start_time": 2644.0,
+      "end_time": 2645.0,
+      "duration": 1.0,
+      "dialogue_text": "But I haven't finished yet."
+    },
+    {
+      "subtitle_index": 432,
+      "start_time": 2645.0,
+      "end_time": 2648.0,
+      "duration": 3.0,
+      "dialogue_text": "You've done enough. Go help him!"
+    },
+    {
+      "subtitle_index": 433,
+      "start_time": 2648.0,
+      "end_time": 2660.0,
+      "duration": 12.0,
+      "dialogue_text": "Thanks!"
+    },
+    {
+      "subtitle_index": 434,
+      "start_time": 2660.0,
+      "end_time": 2663.0,
+      "duration": 3.0,
+      "dialogue_text": "Jeff likes my present more than me!"
+    },
+    {
+      "subtitle_index": 435,
+      "start_time": 2663.0,
+      "end_time": 2668.0,
+      "duration": 5.0,
+      "dialogue_text": "It is strange you know. He adores that stuffed cat. He won't leave it alone."
+    },
+    {
+      "subtitle_index": 436,
+      "start_time": 2668.0,
+      "end_time": 2670.0,
+      "duration": 2.0,
+      "dialogue_text": "He thinks its a puppy?"
+    },
+    {
+      "subtitle_index": 437,
+      "start_time": 2670.0,
+      "end_time": 2673.0,
+      "duration": 3.0,
+      "dialogue_text": "Your sister is not going to be happy to hear that."
+    },
+    {
+      "subtitle_index": 438,
+      "start_time": 2673.0,
+      "end_time": 2676.0,
+      "duration": 3.0,
+      "dialogue_text": "Thats okay. I gave it to Jeff anyway."
+    },
+    {
+      "subtitle_index": 439,
+      "start_time": 2676.0,
+      "end_time": 2678.0,
+      "duration": 2.0,
+      "dialogue_text": "Remember to tell Auntie \"thank you\"."
+    },
+    {
+      "subtitle_index": 440,
+      "start_time": 2678.0,
+      "end_time": 2681.0,
+      "duration": 3.0,
+      "dialogue_text": "You should be nice to him."
+    },
+    {
+      "subtitle_index": 441,
+      "start_time": 2681.0,
+      "end_time": 2684.0,
+      "duration": 3.0,
+      "dialogue_text": "Jeff is a very old dog."
+    },
+    {
+      "subtitle_index": 442,
+      "start_time": 2684.0,
+      "end_time": 2689.0,
+      "duration": 5.0,
+      "dialogue_text": "But Grandma, all he does is sleep!"
+    },
+    {
+      "subtitle_index": 443,
+      "start_time": 2689.0,
+      "end_time": 2695.0,
+      "duration": 6.0,
+      "dialogue_text": "Ketto, go open the door. Jeff wants to go out."
+    },
+    {
+      "subtitle_index": 444,
+      "start_time": 2695.0,
+      "end_time": 2706.0,
+      "duration": 11.0,
+      "dialogue_text": "Be sure to push the door shut when you finished."
+    },
+    {
+      "subtitle_index": 445,
+      "start_time": 2706.0,
+      "end_time": 2707.0,
+      "duration": 1.0,
+      "dialogue_text": "Jiji!"
+    },
+    {
+      "subtitle_index": 446,
+      "start_time": 2707.0,
+      "end_time": 2709.0,
+      "duration": 2.0,
+      "dialogue_text": "What took you so long?"
+    },
+    {
+      "subtitle_index": 447,
+      "start_time": 2709.0,
+      "end_time": 2711.0,
+      "duration": 2.0,
+      "dialogue_text": "I'm sorry."
+    },
+    {
+      "subtitle_index": 448,
+      "start_time": 2711.0,
+      "end_time": 2720.0,
+      "duration": 9.0,
+      "dialogue_text": "That marvelous dog helped me escape."
+    },
+    {
+      "subtitle_index": 449,
+      "start_time": 2720.0,
+      "end_time": 2729.0,
+      "duration": 9.0,
+      "dialogue_text": "He said he'd be happy to help us out if he could."
+    },
+    {
+      "subtitle_index": 450,
+      "start_time": 2729.0,
+      "end_time": 2761.0,
+      "duration": 32.0,
+      "dialogue_text": "Would you take this back in?"
+    },
+    {
+      "subtitle_index": 451,
+      "start_time": 2761.0,
+      "end_time": 2763.0,
+      "duration": 2.0,
+      "dialogue_text": "Whats the matter?"
+    },
+    {
+      "subtitle_index": 452,
+      "start_time": 2763.0,
+      "end_time": 2765.0,
+      "duration": 2.0,
+      "dialogue_text": "I'm famished."
+    },
+    {
+      "subtitle_index": 453,
+      "start_time": 2765.0,
+      "end_time": 2768.0,
+      "duration": 3.0,
+      "dialogue_text": "Yeah, me too."
+    },
+    {
+      "subtitle_index": 454,
+      "start_time": 2768.0,
+      "end_time": 2770.0,
+      "duration": 2.0,
+      "dialogue_text": "And I'm tired too."
+    },
+    {
+      "subtitle_index": 455,
+      "start_time": 2770.0,
+      "end_time": 2772.0,
+      "duration": 2.0,
+      "dialogue_text": "But it sure was a wonderful adventure. And that painter..."
+    },
+    {
+      "subtitle_index": 456,
+      "start_time": 2772.0,
+      "end_time": 2775.0,
+      "duration": 3.0,
+      "dialogue_text": "who found the stuffed cat wants to do a drawing with me in it."
+    },
+    {
+      "subtitle_index": 457,
+      "start_time": 2775.0,
+      "end_time": 2775.0,
+      "duration": 0.0,
+      "dialogue_text": "Naked?"
+    },
+    {
+      "subtitle_index": 458,
+      "start_time": 2775.0,
+      "end_time": 2781.0,
+      "duration": 6.0,
+      "dialogue_text": "Don't be silly."
+    },
+    {
+      "subtitle_index": 459,
+      "start_time": 2781.0,
+      "end_time": 2871.0,
+      "duration": 90.0,
+      "dialogue_text": "Kiki's Flying Delivery Sevice"
+    },
+    {
+      "subtitle_index": 460,
+      "start_time": 2871.0,
+      "end_time": 2882.0,
+      "duration": 11.0,
+      "dialogue_text": "Boring..."
+    },
+    {
+      "subtitle_index": 461,
+      "start_time": 2882.0,
+      "end_time": 2885.0,
+      "duration": 3.0,
+      "dialogue_text": "What are you doing? You are supposed to be minding this shop."
+    },
+    {
+      "subtitle_index": 462,
+      "start_time": 2885.0,
+      "end_time": 2887.0,
+      "duration": 2.0,
+      "dialogue_text": "I am. But nobody is coming in today."
+    },
+    {
+      "subtitle_index": 463,
+      "start_time": 2887.0,
+      "end_time": 2890.0,
+      "duration": 3.0,
+      "dialogue_text": "But it always gets busy around now."
+    },
+    {
+      "subtitle_index": 464,
+      "start_time": 2890.0,
+      "end_time": 2893.0,
+      "duration": 3.0,
+      "dialogue_text": "I know. but that's not what I mean. I mean my customers."
+    },
+    {
+      "subtitle_index": 465,
+      "start_time": 2893.0,
+      "end_time": 2898.0,
+      "duration": 5.0,
+      "dialogue_text": "Jiji, if nobody comes, I'll have to eat pancakes forever..."
+    },
+    {
+      "subtitle_index": 466,
+      "start_time": 2898.0,
+      "end_time": 2902.0,
+      "duration": 4.0,
+      "dialogue_text": "and be fat, fat, FAT."
+    },
+    {
+      "subtitle_index": 467,
+      "start_time": 2902.0,
+      "end_time": 2905.0,
+      "duration": 3.0,
+      "dialogue_text": "So what am I supposed to do?"
+    },
+    {
+      "subtitle_index": 468,
+      "start_time": 2905.0,
+      "end_time": 2909.0,
+      "duration": 4.0,
+      "dialogue_text": "I think pancakes are great, providing they're not burned of course."
+    },
+    {
+      "subtitle_index": 469,
+      "start_time": 2909.0,
+      "end_time": 2910.0,
+      "duration": 1.0,
+      "dialogue_text": "You're no help."
+    },
+    {
+      "subtitle_index": 470,
+      "start_time": 2910.0,
+      "end_time": 2911.0,
+      "duration": 1.0,
+      "dialogue_text": "When you get fat"
+    },
+    {
+      "subtitle_index": 471,
+      "start_time": 2911.0,
+      "end_time": 2920.0,
+      "duration": 9.0,
+      "dialogue_text": "see if I care..."
+    },
+    {
+      "subtitle_index": 472,
+      "start_time": 2920.0,
+      "end_time": 2922.0,
+      "duration": 2.0,
+      "dialogue_text": "Beautiful, isn't she?"
+    },
+    {
+      "subtitle_index": 473,
+      "start_time": 2922.0,
+      "end_time": 2924.0,
+      "duration": 2.0,
+      "dialogue_text": "Somebody told me she's a fashion designer."
+    },
+    {
+      "subtitle_index": 474,
+      "start_time": 2924.0,
+      "end_time": 2930.0,
+      "duration": 6.0,
+      "dialogue_text": "Personally I'm not very fond of her conceited cat."
+    },
+    {
+      "subtitle_index": 475,
+      "start_time": 2930.0,
+      "end_time": 2933.0,
+      "duration": 3.0,
+      "dialogue_text": "Hello, Gutiokiban Bakery."
+    },
+    {
+      "subtitle_index": 476,
+      "start_time": 2933.0,
+      "end_time": 2935.0,
+      "duration": 2.0,
+      "dialogue_text": "Pardon? Yes, ma'am."
+    },
+    {
+      "subtitle_index": 477,
+      "start_time": 2935.0,
+      "end_time": 2938.0,
+      "duration": 3.0,
+      "dialogue_text": "About time we got a customer."
+    },
+    {
+      "subtitle_index": 478,
+      "start_time": 2938.0,
+      "end_time": 2942.0,
+      "duration": 4.0,
+      "dialogue_text": "4:30 wil be perfect time to pick it up. If you'll just--"
+    },
+    {
+      "subtitle_index": 479,
+      "start_time": 2942.0,
+      "end_time": 2944.0,
+      "duration": 2.0,
+      "dialogue_text": "Uh-huh. And the address?"
+    },
+    {
+      "subtitle_index": 480,
+      "start_time": 2944.0,
+      "end_time": 2947.0,
+      "duration": 3.0,
+      "dialogue_text": "Yes, yes... the blue roof. Right."
+    },
+    {
+      "subtitle_index": 481,
+      "start_time": 2947.0,
+      "end_time": 2955.0,
+      "duration": 8.0,
+      "dialogue_text": "Yes, I'm sure I have it all. Thank you very much."
+    },
+    {
+      "subtitle_index": 482,
+      "start_time": 2955.0,
+      "end_time": 2964.0,
+      "duration": 9.0,
+      "dialogue_text": "Hi."
+    },
+    {
+      "subtitle_index": 483,
+      "start_time": 2964.0,
+      "end_time": 2967.0,
+      "duration": 3.0,
+      "dialogue_text": "I'll take this."
+    },
+    {
+      "subtitle_index": 484,
+      "start_time": 2967.0,
+      "end_time": 2974.0,
+      "duration": 7.0,
+      "dialogue_text": "Okay?"
+    },
+    {
+      "subtitle_index": 485,
+      "start_time": 2974.0,
+      "end_time": 2976.0,
+      "duration": 2.0,
+      "dialogue_text": "Thank you very much. Good afternoon."
+    },
+    {
+      "subtitle_index": 486,
+      "start_time": 2976.0,
+      "end_time": 2978.0,
+      "duration": 2.0,
+      "dialogue_text": "Are you still mad at me?"
+    },
+    {
+      "subtitle_index": 487,
+      "start_time": 2978.0,
+      "end_time": 2981.0,
+      "duration": 3.0,
+      "dialogue_text": "We're having a party at the club tonight."
+    },
+    {
+      "subtitle_index": 488,
+      "start_time": 2981.0,
+      "end_time": 2985.0,
+      "duration": 4.0,
+      "dialogue_text": "It's called the flying club, and we'd really like you to come."
+    },
+    {
+      "subtitle_index": 489,
+      "start_time": 2985.0,
+      "end_time": 2990.0,
+      "duration": 5.0,
+      "dialogue_text": "Here's your invitation."
+    },
+    {
+      "subtitle_index": 490,
+      "start_time": 2990.0,
+      "end_time": 2993.0,
+      "duration": 3.0,
+      "dialogue_text": "It really is a serious club."
+    },
+    {
+      "subtitle_index": 491,
+      "start_time": 2993.0,
+      "end_time": 2996.0,
+      "duration": 3.0,
+      "dialogue_text": "Everybody would be very happy if you came."
+    },
+    {
+      "subtitle_index": 492,
+      "start_time": 2996.0,
+      "end_time": 2997.0,
+      "duration": 1.0,
+      "dialogue_text": "May I help you?"
+    },
+    {
+      "subtitle_index": 493,
+      "start_time": 2997.0,
+      "end_time": 3000.0,
+      "duration": 3.0,
+      "dialogue_text": "They tell me you have a delivery service."
+    },
+    {
+      "subtitle_index": 494,
+      "start_time": 3000.0,
+      "end_time": 3003.0,
+      "duration": 3.0,
+      "dialogue_text": "Oh, pardon me. Yes, of course we do."
+    },
+    {
+      "subtitle_index": 495,
+      "start_time": 3003.0,
+      "end_time": 3006.0,
+      "duration": 3.0,
+      "dialogue_text": "Its urgent this package arrives tonight. can you do it?"
+    },
+    {
+      "subtitle_index": 496,
+      "start_time": 3006.0,
+      "end_time": 3009.0,
+      "duration": 3.0,
+      "dialogue_text": "Of course we can--"
+    },
+    {
+      "subtitle_index": 497,
+      "start_time": 3009.0,
+      "end_time": 3011.0,
+      "duration": 2.0,
+      "dialogue_text": "Are you gonna be allright?"
+    },
+    {
+      "subtitle_index": 498,
+      "start_time": 3011.0,
+      "end_time": 3012.0,
+      "duration": 1.0,
+      "dialogue_text": "Uh-huh, are you gonna be allright?"
+    },
+    {
+      "subtitle_index": 499,
+      "start_time": 3012.0,
+      "end_time": 3029.0,
+      "duration": 17.0,
+      "dialogue_text": "Uh-huh."
+    },
+    {
+      "subtitle_index": 500,
+      "start_time": 3029.0,
+      "end_time": 3034.0,
+      "duration": 5.0,
+      "dialogue_text": "I'll be back at 6, so make up your mind by then."
+    },
+    {
+      "subtitle_index": 501,
+      "start_time": 3034.0,
+      "end_time": 3035.0,
+      "duration": 1.0,
+      "dialogue_text": "How much will that be?"
+    },
+    {
+      "subtitle_index": 502,
+      "start_time": 3035.0,
+      "end_time": 3038.0,
+      "duration": 3.0,
+      "dialogue_text": "Will that be inside or outside the city limits?"
+    },
+    {
+      "subtitle_index": 503,
+      "start_time": 3038.0,
+      "end_time": 3039.0,
+      "duration": 1.0,
+      "dialogue_text": "I wrote it down on the box."
+    },
+    {
+      "subtitle_index": 504,
+      "start_time": 3039.0,
+      "end_time": 3045.0,
+      "duration": 6.0,
+      "dialogue_text": "The box? Oh, I'm sorry."
+    },
+    {
+      "subtitle_index": 505,
+      "start_time": 3045.0,
+      "end_time": 3047.0,
+      "duration": 2.0,
+      "dialogue_text": "Osona!"
+    },
+    {
+      "subtitle_index": 506,
+      "start_time": 3047.0,
+      "end_time": 3050.0,
+      "duration": 3.0,
+      "dialogue_text": "I got an invitation to a party at Tombo's flying club."
+    },
+    {
+      "subtitle_index": 507,
+      "start_time": 3050.0,
+      "end_time": 3052.0,
+      "duration": 2.0,
+      "dialogue_text": "Terrific. You'll have a wonderful time."
+    },
+    {
+      "subtitle_index": 508,
+      "start_time": 3052.0,
+      "end_time": 3055.0,
+      "duration": 3.0,
+      "dialogue_text": "But what am I gonna wear?"
+    },
+    {
+      "subtitle_index": 509,
+      "start_time": 3055.0,
+      "end_time": 3057.0,
+      "duration": 2.0,
+      "dialogue_text": "Kiki, I wouldn't worry too much."
+    },
+    {
+      "subtitle_index": 510,
+      "start_time": 3057.0,
+      "end_time": 3059.0,
+      "duration": 2.0,
+      "dialogue_text": "You look fine in that."
+    },
+    {
+      "subtitle_index": 511,
+      "start_time": 3059.0,
+      "end_time": 3061.0,
+      "duration": 2.0,
+      "dialogue_text": "It makes you look beautiful and mysterious."
+    },
+    {
+      "subtitle_index": 512,
+      "start_time": 3061.0,
+      "end_time": 3062.0,
+      "duration": 1.0,
+      "dialogue_text": "You mean it?"
+    },
+    {
+      "subtitle_index": 513,
+      "start_time": 3062.0,
+      "end_time": 3063.0,
+      "duration": 1.0,
+      "dialogue_text": "Any work yet?"
+    },
+    {
+      "subtitle_index": 514,
+      "start_time": 3063.0,
+      "end_time": 3065.0,
+      "duration": 2.0,
+      "dialogue_text": "I almost forgot about it!"
+    },
+    {
+      "subtitle_index": 515,
+      "start_time": 3065.0,
+      "end_time": 3069.0,
+      "duration": 4.0,
+      "dialogue_text": "It's already 4:00! Oh no!"
+    },
+    {
+      "subtitle_index": 516,
+      "start_time": 3069.0,
+      "end_time": 3071.0,
+      "duration": 2.0,
+      "dialogue_text": "Can you watch the store till I get back?"
+    },
+    {
+      "subtitle_index": 517,
+      "start_time": 3071.0,
+      "end_time": 3089.0,
+      "duration": 18.0,
+      "dialogue_text": "Jiji, Jiji!"
+    },
+    {
+      "subtitle_index": 518,
+      "start_time": 3089.0,
+      "end_time": 3093.0,
+      "duration": 4.0,
+      "dialogue_text": "Why are you going to that party when you're so mad at him?"
+    },
+    {
+      "subtitle_index": 519,
+      "start_time": 3093.0,
+      "end_time": 3116.0,
+      "duration": 23.0,
+      "dialogue_text": "I have to concentrate. This thing is so heavy so be quiet."
+    },
+    {
+      "subtitle_index": 520,
+      "start_time": 3116.0,
+      "end_time": 3118.0,
+      "duration": 2.0,
+      "dialogue_text": "Thank you."
+    },
+    {
+      "subtitle_index": 521,
+      "start_time": 3118.0,
+      "end_time": 3124.0,
+      "duration": 6.0,
+      "dialogue_text": "Come on!"
+    },
+    {
+      "subtitle_index": 522,
+      "start_time": 3124.0,
+      "end_time": 3141.0,
+      "duration": 17.0,
+      "dialogue_text": "Our next appointment is at 4:30."
+    },
+    {
+      "subtitle_index": 523,
+      "start_time": 3141.0,
+      "end_time": 3161.0,
+      "duration": 20.0,
+      "dialogue_text": "There's the blue roof!"
+    },
+    {
+      "subtitle_index": 524,
+      "start_time": 3161.0,
+      "end_time": 3166.0,
+      "duration": 5.0,
+      "dialogue_text": "Someone telephoned for a delivery service, so here I am. My name is Kiki."
+    },
+    {
+      "subtitle_index": 525,
+      "start_time": 3166.0,
+      "end_time": 3168.0,
+      "duration": 2.0,
+      "dialogue_text": "Right this way dear."
+    }
+  ]
+}

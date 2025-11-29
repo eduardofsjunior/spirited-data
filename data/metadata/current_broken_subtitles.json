@@ -1,0 +1,492 @@
+{
+  "total_fail": 42,
+  "total_warn": 18,
+  "fail_v1": 15,
+  "fail_v2": 27,
+  "warn_v1": 4,
+  "warn_v2": 14,
+  "broken_files": [
+    {
+      "film": "castle_in_the_sky",
+      "language": "ar",
+      "status": "FAIL",
+      "drift": 11.601263440860215,
+      "has_v2": true,
+      "version": "v2"
+    },
+    {
+      "film": "castle_in_the_sky",
+      "language": "ja",
+      "status": "FAIL",
+      "drift": 23.23,
+      "has_v2": false,
+      "version": "v1"
+    },
+    {
+      "film": "castle_in_the_sky",
+      "language": "nl",
+      "status": "FAIL",
+      "drift": 13.439865591397854,
+      "has_v2": true,
+      "version": "v2"
+    },
+    {
+      "film": "earwig_and_the_witch",
+      "language": "ar",
+      "status": "FAIL",
+      "drift": 23.402317073170735,
+      "has_v2": true,
+      "version": "v2"
+    },
+    {
+      "film": "earwig_and_the_witch",
+      "language": "es",
+      "status": "FAIL",
+      "drift": 17.499390243902425,
+      "has_v2": true,
+      "version": "v2"
+    },
+    {
+      "film": "earwig_and_the_witch",
+      "language": "fr",
+      "status": "FAIL",
+      "drift": 32.11721544715448,
+      "has_v2": true,
+      "version": "v2"
+    },
+    {
+      "film": "earwig_and_the_witch",
+      "language": "ja",
+      "status": "FAIL",
+      "drift": 46.29,
+      "has_v2": false,
+      "version": "v1"
+    },
+    {
+      "film": "earwig_and_the_witch",
+      "language": "nl",
+      "status": "FAIL",
+      "drift": 32.23880081300814,
+      "has_v2": true,
+      "version": "v2"
+    },
+    {
+      "film": "from_up_on_poppy_hill",
+      "language": "ja",
+      "status": "FAIL",
+      "drift": 22.15,
+      "has_v2": false,
+      "version": "v1"
+    },
+    {
+      "film": "grave_of_the_fireflies",
+      "language": "ja",
+      "status": "FAIL",
+      "drift": 6.35,
+      "has_v2": false,
+      "version": "v1"
+    },
+    {
+      "film": "howls_moving_castle",
+      "language": "ja",
+      "status": "FAIL",
+      "drift": 23.85,
+      "has_v2": false,
+      "version": "v1"
+    },
+    {
+      "film": "my_neighbors_the_yamadas",
+      "language": "ar",
+      "status": "FAIL",
+      "drift": 75.0736858974359,
+      "has_v2": true,
+      "version": "v2"
+    },
+    {
+      "film": "my_neighbors_the_yamadas",
+      "language": "fr",
+      "status": "FAIL",
+      "drift": 23.02115384615385,
+      "has_v2": true,
+      "version": "v2"
+    },
+    {
+      "film": "my_neighbors_the_yamadas",
+      "language": "ja",
+      "status": "FAIL",
+      "drift": 15.9,
+      "has_v2": false,
+      "version": "v1"
+    },
+    {
+      "film": "only_yesterday",
+      "language": "ja",
+      "status": "FAIL",
+      "drift": 25.25,
+      "has_v2": false,
+      "version": "v1"
+    },
+    {
+      "film": "pom_poko",
+      "language": "ar",
+      "status": "FAIL",
+      "drift": 52.855434173669465,
+      "has_v2": true,
+      "version": "v2"
+    },
+    {
+      "film": "pom_poko",
+      "language": "nl",
+      "status": "FAIL",
+      "drift": 6.836876750700284,
+      "has_v2": true,
+      "version": "v2"
+    },
+    {
+      "film": "ponyo",
+      "language": "ar",
+      "status": "FAIL",
+      "drift": 77.23085808580859,
+      "has_v2": true,
+      "version": "v2"
+    },
+    {
+      "film": "ponyo",
+      "language": "fr",
+      "status": "FAIL",
+      "drift": 5.116831683168316,
+      "has_v2": true,
+      "version": "v2"
+    },
+    {
+      "film": "ponyo",
+      "language": "ja",
+      "status": "FAIL",
+      "drift": 21.58,
+      "has_v2": false,
+      "version": "v1"
+    },
+    {
+      "film": "ponyo",
+      "language": "nl",
+      "status": "FAIL",
+      "drift": 6.845099009900991,
+      "has_v2": true,
+      "version": "v2"
+    },
+    {
+      "film": "porco_rosso",
+      "language": "ar",
+      "status": "FAIL",
+      "drift": 5.366985815602843,
+      "has_v2": true,
+      "version": "v2"
+    },
+    {
+      "film": "princess_mononoke",
+      "language": "ja",
+      "status": "FAIL",
+      "drift": 48.95,
+      "has_v2": false,
+      "version": "v1"
+    },
+    {
+      "film": "spirited_away",
+      "language": "ja",
+      "status": "FAIL",
+      "drift": 22.23,
+      "has_v2": false,
+      "version": "v1"
+    },
+    {
+      "film": "tales_from_earthsea",
+      "language": "es",
+      "status": "FAIL",
+      "drift": 16.24850724637681,
+      "has_v2": true,
+      "version": "v2"
+    },
+    {
+      "film": "tales_from_earthsea",
+      "language": "ja",
+      "status": "FAIL",
+      "drift": 21.58,
+      "has_v2": false,
+      "version": "v1"
+    },
+    {
+      "film": "the_cat_returns",
+      "language": "en",
+      "status": "FAIL",
+      "drift": 5.52,
+      "has_v2": false,
+      "version": "v1"
+    },
+    {
+      "film": "the_cat_returns",
+      "language": "es",
+      "status": "FAIL",
+      "drift": 185.00524444444443,
+      "has_v2": true,
+      "version": "v2"
+    },
+    {
+      "film": "the_cat_returns",
+      "language": "nl",
+      "status": "FAIL",
+      "drift": 20.576311111111114,
+      "has_v2": true,
+      "version": "v2"
+    },
+    {
+      "film": "the_red_turtle",
+      "language": "ar",
+      "status": "FAIL",
+      "drift": 28.803062499999992,
+      "has_v2": true,
+      "version": "v2"
+    },
+    {
+      "film": "the_red_turtle",
+      "language": "es",
+      "status": "FAIL",
+      "drift": 14.198541666666681,
+      "has_v2": true,
+      "version": "v2"
+    },
+    {
+      "film": "the_red_turtle",
+      "language": "fr",
+      "status": "FAIL",
+      "drift": 29.042187499999994,
+      "has_v2": true,
+      "version": "v2"
+    },
+    {
+      "film": "the_red_turtle",
+      "language": "ja",
+      "status": "FAIL",
+      "drift": 28.65,
+      "has_v2": false,
+      "version": "v1"
+    },
+    {
+      "film": "the_red_turtle",
+      "language": "nl",
+      "status": "FAIL",
+      "drift": 29.741958333333322,
+      "has_v2": true,
+      "version": "v2"
+    },
+    {
+      "film": "the_tale_of_the_princess_kaguya",
+      "language": "ar",
+      "status": "FAIL",
+      "drift": 10.162834549878347,
+      "has_v2": true,
+      "version": "v2"
+    },
+    {
+      "film": "the_tale_of_the_princess_kaguya",
+      "language": "ja",
+      "status": "FAIL",
+      "drift": 21.92,
+      "has_v2": false,
+      "version": "v1"
+    },
+    {
+      "film": "the_wind_rises",
+      "language": "fr",
+      "status": "FAIL",
+      "drift": 47.3320105820106,
+      "has_v2": true,
+      "version": "v2"
+    },
+    {
+      "film": "the_wind_rises",
+      "language": "nl",
+      "status": "FAIL",
+      "drift": 18.898809523809522,
+      "has_v2": true,
+      "version": "v2"
+    },
+    {
+      "film": "whisper_of_the_heart",
+      "language": "es",
+      "status": "FAIL",
+      "drift": 15.364879879879872,
+      "has_v2": true,
+      "version": "v2"
+    },
+    {
+      "film": "whisper_of_the_heart",
+      "language": "fr",
+      "status": "FAIL",
+      "drift": 45.11593093093093,
+      "has_v2": true,
+      "version": "v2"
+    },
+    {
+      "film": "whisper_of_the_heart",
+      "language": "ja",
+      "status": "FAIL",
+      "drift": 15.31,
+      "has_v2": false,
+      "version": "v1"
+    },
+    {
+      "film": "whisper_of_the_heart",
+      "language": "nl",
+      "status": "FAIL",
+      "drift": 16.07867867867868,
+      "has_v2": true,
+      "version": "v2"
+    }
+  ],
+  "warn_files": [
+    {
+      "film": "arrietty",
+      "language": "ja",
+      "status": "WARN",
+      "drift": 0.64,
+      "has_v2": false,
+      "version": "v1"
+    },
+    {
+      "film": "castle_in_the_sky",
+      "language": "fr",
+      "status": "WARN",
+      "drift": 2.4448924731182866,
+      "has_v2": true,
+      "version": "v2"
+    },
+    {
+      "film": "from_up_on_poppy_hill",
+      "language": "en",
+      "status": "WARN",
+      "drift": 2.69,
+      "has_v2": false,
+      "version": "v1"
+    },
+    {
+      "film": "grave_of_the_fireflies",
+      "language": "es",
+      "status": "WARN",
+      "drift": 4.497771535580534,
+      "has_v2": true,
+      "version": "v2"
+    },
+    {
+      "film": "grave_of_the_fireflies",
+      "language": "nl",
+      "status": "WARN",
+      "drift": 4.48662921348315,
+      "has_v2": true,
+      "version": "v2"
+    },
+    {
+      "film": "howls_moving_castle",
+      "language": "nl",
+      "status": "WARN",
+      "drift": 4.381358543417363,
+      "has_v2": true,
+      "version": "v2"
+    },
+    {
+      "film": "my_neighbor_totoro",
+      "language": "en",
+      "status": "WARN",
+      "drift": 4.302325581395349,
+      "has_v2": true,
+      "version": "v2"
+    },
+    {
+      "film": "my_neighbor_totoro",
+      "language": "ja",
+      "status": "WARN",
+      "drift": 3.0,
+      "has_v2": false,
+      "version": "v1"
+    },
+    {
+      "film": "my_neighbor_totoro",
+      "language": "nl",
+      "status": "WARN",
+      "drift": 3.3920542635658864,
+      "has_v2": true,
+      "version": "v2"
+    },
+    {
+      "film": "only_yesterday",
+      "language": "nl",
+      "status": "WARN",
+      "drift": 3.586454802259891,
+      "has_v2": true,
+      "version": "v2"
+    },
+    {
+      "film": "ponyo",
+      "language": "en",
+      "status": "WARN",
+      "drift": 4.812706270627057,
+      "has_v2": true,
+      "version": "v2"
+    },
+    {
+      "film": "ponyo",
+      "language": "es",
+      "status": "WARN",
+      "drift": 4.932343234323426,
+      "has_v2": true,
+      "version": "v2"
+    },
+    {
+      "film": "porco_rosso",
+      "language": "ja",
+      "status": "WARN",
+      "drift": 2.59,
+      "has_v2": false,
+      "version": "v1"
+    },
+    {
+      "film": "princess_mononoke",
+      "language": "ar",
+      "status": "WARN",
+      "drift": 4.702740740740735,
+      "has_v2": true,
+      "version": "v2"
+    },
+    {
+      "film": "spirited_away",
+      "language": "ar",
+      "status": "WARN",
+      "drift": 3.127599999999996,
+      "has_v2": true,
+      "version": "v2"
+    },
+    {
+      "film": "spirited_away",
+      "language": "nl",
+      "status": "WARN",
+      "drift": 3.301999999999995,
+      "has_v2": true,
+      "version": "v2"
+    },
+    {
+      "film": "the_red_turtle",
+      "language": "en",
+      "status": "WARN",
+      "drift": 2.611812500000004,
+      "has_v2": true,
+      "version": "v2"
+    },
+    {
+      "film": "when_marnie_was_there",
+      "language": "es",
+      "status": "WARN",
+      "drift": 4.432038834951451,
+      "has_v2": true,
+      "version": "v2"
+    }
+  ]
+}

@@ -1,0 +1,4681 @@
+{
+  "metadata": {
+    "film_name": "Howls Moving Castle",
+    "film_slug": "howls_moving_castle_nl",
+    "language_code": "nl",
+    "total_subtitles": 667,
+    "total_duration": 3931.2909999999997,
+    "parse_timestamp": "2025-10-30T17:09:42.891023"
+  },
+  "subtitles": [
+    {
+      "subtitle_index": 1,
+      "start_time": 6.206,
+      "end_time": 9.539,
+      "duration": 3.3329999999999993,
+      "dialogue_text": "Tokuma Shoten/Studio Ghibli, Nippon Television Network, Dentsu,"
+    },
+    {
+      "subtitle_index": 2,
+      "start_time": 9.909,
+      "end_time": 13.242,
+      "duration": 3.333,
+      "dialogue_text": "Buena Vista Home Entertainment, Mitsubishi en Toho presenteren"
+    },
+    {
+      "subtitle_index": 3,
+      "start_time": 66.199,
+      "end_time": 71.865,
+      "duration": 5.665999999999997,
+      "dialogue_text": "Howl's Moving Castle."
+    },
+    {
+      "subtitle_index": 4,
+      "start_time": 99.866,
+      "end_time": 100.798,
+      "duration": 0.9320000000000022,
+      "dialogue_text": "Sophie."
+    },
+    {
+      "subtitle_index": 5,
+      "start_time": 101.668,
+      "end_time": 103.295,
+      "duration": 1.6269999999999953,
+      "dialogue_text": "We hebben de winkel gesloten. Je hebt genoeg werk verricht."
+    },
+    {
+      "subtitle_index": 6,
+      "start_time": 103.403,
+      "end_time": 105.894,
+      "duration": 2.4909999999999997,
+      "dialogue_text": "Waarom ga je niet met ons mee?"
+    },
+    {
+      "subtitle_index": 7,
+      "start_time": 106.005,
+      "end_time": 109.031,
+      "duration": 3.0260000000000105,
+      "dialogue_text": "Nee, het is beter als ik dit afmaak. Veel plezier."
+    },
+    {
+      "subtitle_index": 8,
+      "start_time": 109.242,
+      "end_time": 111.176,
+      "duration": 1.9339999999999975,
+      "dialogue_text": "Oké, zoals je wilt."
+    },
+    {
+      "subtitle_index": 9,
+      "start_time": 112.078,
+      "end_time": 113.443,
+      "duration": 1.3649999999999949,
+      "dialogue_text": "Kom op dames."
+    },
+    {
+      "subtitle_index": 10,
+      "start_time": 114.414,
+      "end_time": 116.541,
+      "duration": 2.1269999999999953,
+      "dialogue_text": "Kijk, het is Howls kasteel."
+    },
+    {
+      "subtitle_index": 11,
+      "start_time": 116.649,
+      "end_time": 118.082,
+      "duration": 1.4329999999999927,
+      "dialogue_text": "Wat? Howl? Waar, waar?"
+    },
+    {
+      "subtitle_index": 12,
+      "start_time": 118.184,
+      "end_time": 120.209,
+      "duration": 2.0250000000000057,
+      "dialogue_text": "Ik heb het nog nooit zo dichtbij gezien."
+    },
+    {
+      "subtitle_index": 13,
+      "start_time": 120.753,
+      "end_time": 122.243,
+      "duration": 1.4899999999999949,
+      "dialogue_text": "Denk je dat hij ons kan zien?"
+    },
+    {
+      "subtitle_index": 14,
+      "start_time": 122.355,
+      "end_time": 124.346,
+      "duration": 1.9909999999999997,
+      "dialogue_text": "Is Howl in de stad?"
+    },
+    {
+      "subtitle_index": 15,
+      "start_time": 132.665,
+      "end_time": 133.461,
+      "duration": 0.7960000000000207,
+      "dialogue_text": "Hij is weg."
+    },
+    {
+      "subtitle_index": 16,
+      "start_time": 133.566,
+      "end_time": 136.262,
+      "duration": 2.695999999999998,
+      "dialogue_text": "Nee, hij verstopt zich in de mist vanwege de vliegtuigen."
+    },
+    {
+      "subtitle_index": 17,
+      "start_time": 136.369,
+      "end_time": 138.963,
+      "duration": 2.593999999999994,
+      "dialogue_text": "Heb je het gehoord? Martha, uit South Haven?"
+    },
+    {
+      "subtitle_index": 18,
+      "start_time": 139.072,
+      "end_time": 141.506,
+      "duration": 2.4339999999999975,
+      "dialogue_text": "Ze zeggen dat Howl haar hart eruit heeft gerukt."
+    },
+    {
+      "subtitle_index": 19,
+      "start_time": 142.542,
+      "end_time": 145.067,
+      "duration": 2.5250000000000057,
+      "dialogue_text": "Wees maar niet bang, hij heeft het alleen op mooie meisjes gemunt."
+    },
+    {
+      "subtitle_index": 20,
+      "start_time": 146.98,
+      "end_time": 148.174,
+      "duration": 1.1940000000000168,
+      "dialogue_text": "Kom we gaan."
+    },
+    {
+      "subtitle_index": 21,
+      "start_time": 149.582,
+      "end_time": 151.482,
+      "duration": 1.9000000000000057,
+      "dialogue_text": "Echt waar?"
+    },
+    {
+      "subtitle_index": 22,
+      "start_time": 151.918,
+      "end_time": 154.148,
+      "duration": 2.2299999999999898,
+      "dialogue_text": "Ach, schei toch uit."
+    },
+    {
+      "subtitle_index": 23,
+      "start_time": 274.507,
+      "end_time": 277.203,
+      "duration": 2.6959999999999695,
+      "dialogue_text": "Hé, een kleine muis is de weg kwijt."
+    },
+    {
+      "subtitle_index": 24,
+      "start_time": 277.577,
+      "end_time": 279.374,
+      "duration": 1.7970000000000255,
+      "dialogue_text": "Nee hoor, ik ben niet verdwaald."
+    },
+    {
+      "subtitle_index": 25,
+      "start_time": 279.912,
+      "end_time": 281.903,
+      "duration": 1.9910000000000423,
+      "dialogue_text": "Misschien heeft ze dorst?"
+    },
+    {
+      "subtitle_index": 26,
+      "start_time": 282.115,
+      "end_time": 283.275,
+      "duration": 1.1599999999999682,
+      "dialogue_text": "Wil ze een kopje thee met ons drinken?"
+    },
+    {
+      "subtitle_index": 27,
+      "start_time": 283.683,
+      "end_time": 284.98,
+      "duration": 1.2970000000000255,
+      "dialogue_text": "Bedankt, maar mijn zus verwacht me?"
+    },
+    {
+      "subtitle_index": 28,
+      "start_time": 285.084,
+      "end_time": 287.78,
+      "duration": 2.6959999999999695,
+      "dialogue_text": "Ze ziet er leuk uit voor een muis."
+    },
+    {
+      "subtitle_index": 29,
+      "start_time": 287.887,
+      "end_time": 290.151,
+      "duration": 2.26400000000001,
+      "dialogue_text": "Hoe oud ben je eigenlijk? Woon je hier in de buurt?"
+    },
+    {
+      "subtitle_index": 30,
+      "start_time": 290.79,
+      "end_time": 292.018,
+      "duration": 1.2279999999999518,
+      "dialogue_text": "Laat me met rust."
+    },
+    {
+      "subtitle_index": 31,
+      "start_time": 292.492,
+      "end_time": 295.484,
+      "duration": 2.991999999999962,
+      "dialogue_text": "Zie je, meisjes schrikken van je snor."
+    },
+    {
+      "subtitle_index": 32,
+      "start_time": 295.561,
+      "end_time": 297.797,
+      "duration": 2.236000000000047,
+      "dialogue_text": "Dus? Bang is ze nog schattiger."
+    },
+    {
+      "subtitle_index": 33,
+      "start_time": 298.031,
+      "end_time": 299.521,
+      "duration": 1.490000000000009,
+      "dialogue_text": "Daar ben je, schatje, sorry dat ik laat ben."
+    },
+    {
+      "subtitle_index": 34,
+      "start_time": 300.667,
+      "end_time": 301.895,
+      "duration": 1.2280000000000086,
+      "dialogue_text": "Ik heb overal naar je gezocht."
+    },
+    {
+      "subtitle_index": 35,
+      "start_time": 302.435,
+      "end_time": 303.265,
+      "duration": 0.8299999999999841,
+      "dialogue_text": "Hé, hé, we zijn bezig."
+    },
+    {
+      "subtitle_index": 36,
+      "start_time": 303.369,
+      "end_time": 304.859,
+      "duration": 1.4899999999999523,
+      "dialogue_text": "Echt waar?"
+    },
+    {
+      "subtitle_index": 37,
+      "start_time": 304.971,
+      "end_time": 307.838,
+      "duration": 2.8670000000000186,
+      "dialogue_text": "Het leek me dat jullie er net vandoor gingen."
+    },
+    {
+      "subtitle_index": 38,
+      "start_time": 310.209,
+      "end_time": 312.276,
+      "duration": 2.0670000000000073,
+      "dialogue_text": "Hé wat...?"
+    },
+    {
+      "subtitle_index": 39,
+      "start_time": 315.148,
+      "end_time": 316.815,
+      "duration": 1.6669999999999732,
+      "dialogue_text": "Je moet het ze niet kwalijk nemen."
+    },
+    {
+      "subtitle_index": 40,
+      "start_time": 317.383,
+      "end_time": 319.112,
+      "duration": 1.7290000000000418,
+      "dialogue_text": "Zo slecht zijn ze niet."
+    },
+    {
+      "subtitle_index": 41,
+      "start_time": 319.218,
+      "end_time": 322.483,
+      "duration": 3.2649999999999864,
+      "dialogue_text": "Waar moet je naar toe? Ik zal je vergezellen."
+    },
+    {
+      "subtitle_index": 42,
+      "start_time": 322.755,
+      "end_time": 325.087,
+      "duration": 2.3319999999999936,
+      "dialogue_text": "Ik was op weg naar de bakker."
+    },
+    {
+      "subtitle_index": 43,
+      "start_time": 325.525,
+      "end_time": 327.755,
+      "duration": 2.230000000000018,
+      "dialogue_text": "Wees niet bang als ik gevolgt word."
+    },
+    {
+      "subtitle_index": 44,
+      "start_time": 327.86,
+      "end_time": 329.088,
+      "duration": 1.2280000000000086,
+      "dialogue_text": "Net doen of er niets aan de hand is."
+    },
+    {
+      "subtitle_index": 45,
+      "start_time": 350.049,
+      "end_time": 352.244,
+      "duration": 2.19500000000005,
+      "dialogue_text": "Sorry, ik geloof dat je betrokken raakt."
+    },
+    {
+      "subtitle_index": 46,
+      "start_time": 356.389,
+      "end_time": 357.185,
+      "duration": 0.7959999999999923,
+      "dialogue_text": "Deze kant op."
+    },
+    {
+      "subtitle_index": 47,
+      "start_time": 365.064,
+      "end_time": 365.758,
+      "duration": 0.69399999999996,
+      "dialogue_text": "Hou je vast."
+    },
+    {
+      "subtitle_index": 48,
+      "start_time": 371.604,
+      "end_time": 374.272,
+      "duration": 2.6680000000000064,
+      "dialogue_text": "Strek je benen en begin met lopen."
+    },
+    {
+      "subtitle_index": 49,
+      "start_time": 379.278,
+      "end_time": 381.974,
+      "duration": 2.6959999999999695,
+      "dialogue_text": "Zie je, zo moeilijk is dat niet."
+    },
+    {
+      "subtitle_index": 50,
+      "start_time": 397.663,
+      "end_time": 398.96,
+      "duration": 1.2969999999999686,
+      "dialogue_text": "Je doet het fantastisch."
+    },
+    {
+      "subtitle_index": 51,
+      "start_time": 413.813,
+      "end_time": 415.713,
+      "duration": 1.900000000000034,
+      "dialogue_text": "Ik zal ze afleiden."
+    },
+    {
+      "subtitle_index": 52,
+      "start_time": 415.815,
+      "end_time": 417.612,
+      "duration": 1.7970000000000255,
+      "dialogue_text": "Wacht even voordat je naar buiten gaat."
+    },
+    {
+      "subtitle_index": 53,
+      "start_time": 418.184,
+      "end_time": 419.173,
+      "duration": 0.9889999999999759,
+      "dialogue_text": "Oké."
+    },
+    {
+      "subtitle_index": 54,
+      "start_time": 420.019,
+      "end_time": 421.35,
+      "duration": 1.3310000000000173,
+      "dialogue_text": "Grote meid."
+    },
+    {
+      "subtitle_index": 55,
+      "start_time": 434.133,
+      "end_time": 435.327,
+      "duration": 1.1940000000000168,
+      "dialogue_text": "Heb je ook Letties?"
+    },
+    {
+      "subtitle_index": 56,
+      "start_time": 435.435,
+      "end_time": 436.959,
+      "duration": 1.524000000000001,
+      "dialogue_text": "Die wil ik ook wel proberen."
+    },
+    {
+      "subtitle_index": 57,
+      "start_time": 437.069,
+      "end_time": 437.967,
+      "duration": 0.8979999999999677,
+      "dialogue_text": "Laat me er bij."
+    },
+    {
+      "subtitle_index": 58,
+      "start_time": 438.07,
+      "end_time": 439.162,
+      "duration": 1.0919999999999845,
+      "dialogue_text": "Hoe laat ben je vrij?"
+    },
+    {
+      "subtitle_index": 59,
+      "start_time": 439.272,
+      "end_time": 440.261,
+      "duration": 0.9890000000000327,
+      "dialogue_text": "Wat heeft ze gedaan?"
+    },
+    {
+      "subtitle_index": 60,
+      "start_time": 441.641,
+      "end_time": 443.7,
+      "duration": 2.058999999999969,
+      "dialogue_text": "Hé ik ben hier, waar ga je heen?"
+    },
+    {
+      "subtitle_index": 61,
+      "start_time": 447.547,
+      "end_time": 448.605,
+      "duration": 1.0579999999999927,
+      "dialogue_text": "Sophie?"
+    },
+    {
+      "subtitle_index": 62,
+      "start_time": 450.082,
+      "end_time": 451.637,
+      "duration": 1.5550000000000068,
+      "dialogue_text": "Wat is er gebeurd?"
+    },
+    {
+      "subtitle_index": 63,
+      "start_time": 451.687,
+      "end_time": 453.651,
+      "duration": 1.9639999999999986,
+      "dialogue_text": "Iemand zei me dat je net op het balkon geland bent?"
+    },
+    {
+      "subtitle_index": 64,
+      "start_time": 454.253,
+      "end_time": 456.813,
+      "duration": 2.5600000000000023,
+      "dialogue_text": "Dus het was geen droom?"
+    },
+    {
+      "subtitle_index": 65,
+      "start_time": 456.923,
+      "end_time": 459.118,
+      "duration": 2.194999999999993,
+      "dialogue_text": "Lettie, wil je mijn kantoor gebruiken?"
+    },
+    {
+      "subtitle_index": 66,
+      "start_time": 459.258,
+      "end_time": 462.659,
+      "duration": 3.4010000000000105,
+      "dialogue_text": "Nee bedankt, ik moet weer aan het werk."
+    },
+    {
+      "subtitle_index": 67,
+      "start_time": 463.93,
+      "end_time": 467.422,
+      "duration": 3.4920000000000186,
+      "dialogue_text": "Het moet een tovenaar geweest zijn?"
+    },
+    {
+      "subtitle_index": 68,
+      "start_time": 467.7,
+      "end_time": 469.497,
+      "duration": 1.7970000000000255,
+      "dialogue_text": "Maar hij was zo aardig."
+    },
+    {
+      "subtitle_index": 69,
+      "start_time": 470.369,
+      "end_time": 472.496,
+      "duration": 2.1269999999999527,
+      "dialogue_text": "Hij heeft me gered."
+    },
+    {
+      "subtitle_index": 70,
+      "start_time": 472.605,
+      "end_time": 475.369,
+      "duration": 2.76400000000001,
+      "dialogue_text": "Tuurlijk, hij probeerde je hart te stelen."
+    },
+    {
+      "subtitle_index": 71,
+      "start_time": 476.075,
+      "end_time": 480.068,
+      "duration": 3.992999999999995,
+      "dialogue_text": "Je hebt zoveel geluk Sophie, Howl had hem opgegeten."
+    },
+    {
+      "subtitle_index": 72,
+      "start_time": 480.713,
+      "end_time": 484.08,
+      "duration": 3.366999999999962,
+      "dialogue_text": "Nee hoor, dat doet hij alleen bij mooie meisjes."
+    },
+    {
+      "subtitle_index": 73,
+      "start_time": 484.45,
+      "end_time": 485.917,
+      "duration": 1.4669999999999845,
+      "dialogue_text": "Toe nou."
+    },
+    {
+      "subtitle_index": 74,
+      "start_time": 486.018,
+      "end_time": 489.249,
+      "duration": 3.2310000000000514,
+      "dialogue_text": "Je moet voorzichtiger zijn, het is gevaarlijk daar buiten."
+    },
+    {
+      "subtitle_index": 75,
+      "start_time": 489.355,
+      "end_time": 492.29,
+      "duration": 2.9350000000000023,
+      "dialogue_text": "Zelfs de heks van de wildernis is weer op pad."
+    },
+    {
+      "subtitle_index": 76,
+      "start_time": 493.793,
+      "end_time": 495.385,
+      "duration": 1.5919999999999845,
+      "dialogue_text": "Luister je wel?"
+    },
+    {
+      "subtitle_index": 77,
+      "start_time": 500.7,
+      "end_time": 502.827,
+      "duration": 2.1270000000000095,
+      "dialogue_text": "Lettie, de chocolaatjes zijn klaar."
+    },
+    {
+      "subtitle_index": 78,
+      "start_time": 503.469,
+      "end_time": 505.096,
+      "duration": 1.6270000000000095,
+      "dialogue_text": "Oké, ik kom er zo aan."
+    },
+    {
+      "subtitle_index": 79,
+      "start_time": 505.204,
+      "end_time": 506.501,
+      "duration": 1.2969999999999686,
+      "dialogue_text": "Dank je."
+    },
+    {
+      "subtitle_index": 80,
+      "start_time": 508.374,
+      "end_time": 509.898,
+      "duration": 1.524000000000001,
+      "dialogue_text": "Oké, ik moet er vandoor."
+    },
+    {
+      "subtitle_index": 81,
+      "start_time": 510.009,
+      "end_time": 512.239,
+      "duration": 2.230000000000018,
+      "dialogue_text": "Ik wilde alleen weten of het goed met je was."
+    },
+    {
+      "subtitle_index": 82,
+      "start_time": 514.313,
+      "end_time": 515.28,
+      "duration": 0.9669999999999845,
+      "dialogue_text": "Hallo, Lettie."
+    },
+    {
+      "subtitle_index": 83,
+      "start_time": 515.381,
+      "end_time": 516.575,
+      "duration": 1.1940000000000737,
+      "dialogue_text": "Hoe maakt u het?"
+    },
+    {
+      "subtitle_index": 84,
+      "start_time": 516.949,
+      "end_time": 520.544,
+      "duration": 3.5950000000000273,
+      "dialogue_text": "Sophie, wil je echt je hele leven in die hoedenwinkel blijven werken?"
+    },
+    {
+      "subtitle_index": 85,
+      "start_time": 521.988,
+      "end_time": 525.583,
+      "duration": 3.5949999999999136,
+      "dialogue_text": "De winkel was zo belangrijk voor vader en ik ben de oudste. Ik vind het niet erg."
+    },
+    {
+      "subtitle_index": 86,
+      "start_time": 525.691,
+      "end_time": 529.787,
+      "duration": 4.096000000000004,
+      "dialogue_text": "Ik vraag niet wat vader gewild had. Ik wil weten wat jij wilt."
+    },
+    {
+      "subtitle_index": 87,
+      "start_time": 531.397,
+      "end_time": 532.659,
+      "duration": 1.2619999999999436,
+      "dialogue_text": "Tot ziens, Lettie."
+    },
+    {
+      "subtitle_index": 88,
+      "start_time": 532.765,
+      "end_time": 534.13,
+      "duration": 1.365000000000009,
+      "dialogue_text": "Leuk dat je langs kwam."
+    },
+    {
+      "subtitle_index": 89,
+      "start_time": 534.233,
+      "end_time": 535.165,
+      "duration": 0.9320000000000164,
+      "dialogue_text": "'t zelfde."
+    },
+    {
+      "subtitle_index": 90,
+      "start_time": 535.268,
+      "end_time": 536.326,
+      "duration": 1.0579999999999927,
+      "dialogue_text": "Ik moet er vandoor."
+    },
+    {
+      "subtitle_index": 91,
+      "start_time": 536.435,
+      "end_time": 540.269,
+      "duration": 3.83400000000006,
+      "dialogue_text": "Het is jouw leven Sophie. Doe eens iets voor jezelf."
+    },
+    {
+      "subtitle_index": 92,
+      "start_time": 608.341,
+      "end_time": 610.536,
+      "duration": 2.1949999999999363,
+      "dialogue_text": "Sorry, we zijn gesloten mevrouw."
+    },
+    {
+      "subtitle_index": 93,
+      "start_time": 610.643,
+      "end_time": 613.168,
+      "duration": 2.5249999999999773,
+      "dialogue_text": "Ik zou zweren dat ik de deur gesloten had."
+    },
+    {
+      "subtitle_index": 94,
+      "start_time": 615.448,
+      "end_time": 620.181,
+      "duration": 4.733000000000061,
+      "dialogue_text": "Wat een vervallen winkel. Ik heb nog nooit zoveel ordinaire hoeden gezien."
+    },
+    {
+      "subtitle_index": 95,
+      "start_time": 621.253,
+      "end_time": 624.313,
+      "duration": 3.0599999999999454,
+      "dialogue_text": "En jij bent hier de ordinairste."
+    },
+    {
+      "subtitle_index": 96,
+      "start_time": 625.758,
+      "end_time": 628.249,
+      "duration": 2.4909999999999854,
+      "dialogue_text": "Ik ben bang dat ik u eruit moet laten."
+    },
+    {
+      "subtitle_index": 97,
+      "start_time": 634.6,
+      "end_time": 636.534,
+      "duration": 1.933999999999969,
+      "dialogue_text": "Hier is de deur mevrouw, we zijn gesloten."
+    },
+    {
+      "subtitle_index": 98,
+      "start_time": 637.603,
+      "end_time": 641.039,
+      "duration": 3.4360000000000355,
+      "dialogue_text": "Het opnemen tegen de heks van de wildernis, dat is moedig."
+    },
+    {
+      "subtitle_index": 99,
+      "start_time": 641.54,
+      "end_time": 643.167,
+      "duration": 1.6270000000000664,
+      "dialogue_text": "De heks van de wildernis."
+    },
+    {
+      "subtitle_index": 100,
+      "start_time": 650.85,
+      "end_time": 654.115,
+      "duration": 3.2649999999999864,
+      "dialogue_text": "Het beste van die betovering is dat je het niemand kunt vertellen."
+    },
+    {
+      "subtitle_index": 101,
+      "start_time": 654.22,
+      "end_time": 656.62,
+      "duration": 2.3999999999999773,
+      "dialogue_text": "Doe Howl de groeten."
+    },
+    {
+      "subtitle_index": 102,
+      "start_time": 703.069,
+      "end_time": 705.128,
+      "duration": 2.0590000000000828,
+      "dialogue_text": "Dat ben ik echt."
+    },
+    {
+      "subtitle_index": 103,
+      "start_time": 705.237,
+      "end_time": 707.398,
+      "duration": 2.161000000000058,
+      "dialogue_text": "Ik moet kalm blijven."
+    },
+    {
+      "subtitle_index": 104,
+      "start_time": 724.023,
+      "end_time": 725.65,
+      "duration": 1.6269999999999527,
+      "dialogue_text": "Ik moet kalm blijven."
+    },
+    {
+      "subtitle_index": 105,
+      "start_time": 725.791,
+      "end_time": 728.658,
+      "duration": 2.866999999999962,
+      "dialogue_text": "Het heeft geen zin om in paniek te raken."
+    },
+    {
+      "subtitle_index": 106,
+      "start_time": 730.396,
+      "end_time": 732.83,
+      "duration": 2.4340000000000828,
+      "dialogue_text": "Het is een nare droom. Ga naar binnen en naar bed."
+    },
+    {
+      "subtitle_index": 107,
+      "start_time": 734.533,
+      "end_time": 738.765,
+      "duration": 4.231999999999971,
+      "dialogue_text": "Niets aan de hand."
+    },
+    {
+      "subtitle_index": 108,
+      "start_time": 750.416,
+      "end_time": 751.61,
+      "duration": 1.19399999999996,
+      "dialogue_text": "Ik ben er weer."
+    },
+    {
+      "subtitle_index": 109,
+      "start_time": 751.851,
+      "end_time": 753.148,
+      "duration": 1.2970000000000255,
+      "dialogue_text": "Welkom terug, mevrouw."
+    },
+    {
+      "subtitle_index": 110,
+      "start_time": 753.252,
+      "end_time": 754.81,
+      "duration": 1.5579999999999927,
+      "dialogue_text": "Kijk u nou."
+    },
+    {
+      "subtitle_index": 111,
+      "start_time": 754.92,
+      "end_time": 756.785,
+      "duration": 1.865000000000009,
+      "dialogue_text": "Het is de nieuwe mode van Kingsbury."
+    },
+    {
+      "subtitle_index": 112,
+      "start_time": 756.889,
+      "end_time": 758.083,
+      "duration": 1.19399999999996,
+      "dialogue_text": "Fantastisch."
+    },
+    {
+      "subtitle_index": 113,
+      "start_time": 758.19,
+      "end_time": 759.122,
+      "duration": 0.9319999999999027,
+      "dialogue_text": "U ziet er prachtig uit."
+    },
+    {
+      "subtitle_index": 114,
+      "start_time": 759.258,
+      "end_time": 761.385,
+      "duration": 2.1269999999999527,
+      "dialogue_text": "De klanten zullen het prachtig vinden."
+    },
+    {
+      "subtitle_index": 115,
+      "start_time": 761.56,
+      "end_time": 762.492,
+      "duration": 0.9320000000000164,
+      "dialogue_text": "Sophie?"
+    },
+    {
+      "subtitle_index": 116,
+      "start_time": 764.096,
+      "end_time": 767.293,
+      "duration": 3.1970000000000027,
+      "dialogue_text": "Ik ben bang dat ze nog niet uit bed is mevrouw."
+    },
+    {
+      "subtitle_index": 117,
+      "start_time": 767.399,
+      "end_time": 769.299,
+      "duration": 1.8999999999999773,
+      "dialogue_text": "Dat is raar. Wat is er aan de hand?"
+    },
+    {
+      "subtitle_index": 118,
+      "start_time": 771.637,
+      "end_time": 773.298,
+      "duration": 1.6610000000000582,
+      "dialogue_text": "Sophie?"
+    },
+    {
+      "subtitle_index": 119,
+      "start_time": 780.079,
+      "end_time": 781.91,
+      "duration": 1.8310000000000173,
+      "dialogue_text": "Kom niet binnen."
+    },
+    {
+      "subtitle_index": 120,
+      "start_time": 782.014,
+      "end_time": 784.278,
+      "duration": 2.26400000000001,
+      "dialogue_text": "Ik ben vreselijk verkouden."
+    },
+    {
+      "subtitle_index": 121,
+      "start_time": 784.383,
+      "end_time": 786.146,
+      "duration": 1.76299999999992,
+      "dialogue_text": "Ik wil je niet aansteken."
+    },
+    {
+      "subtitle_index": 122,
+      "start_time": 786.886,
+      "end_time": 788.877,
+      "duration": 1.9909999999999854,
+      "dialogue_text": "Je klinkt verschrikkelijk."
+    },
+    {
+      "subtitle_index": 123,
+      "start_time": 788.988,
+      "end_time": 790.956,
+      "duration": 1.967999999999961,
+      "dialogue_text": "Als een 90 jaar oude vrouw."
+    },
+    {
+      "subtitle_index": 124,
+      "start_time": 791.056,
+      "end_time": 793.82,
+      "duration": 2.76400000000001,
+      "dialogue_text": "Ik blijf de hele dag in bed."
+    },
+    {
+      "subtitle_index": 125,
+      "start_time": 793.959,
+      "end_time": 796.655,
+      "duration": 2.6960000000000264,
+      "dialogue_text": "Oké, als je dat wilt."
+    },
+    {
+      "subtitle_index": 126,
+      "start_time": 798.464,
+      "end_time": 800.932,
+      "duration": 2.467999999999961,
+      "dialogue_text": "Daar gaan we."
+    },
+    {
+      "subtitle_index": 127,
+      "start_time": 812.044,
+      "end_time": 813.909,
+      "duration": 1.865000000000009,
+      "dialogue_text": "Zo erg is dit niet."
+    },
+    {
+      "subtitle_index": 128,
+      "start_time": 814.013,
+      "end_time": 818.177,
+      "duration": 4.163999999999987,
+      "dialogue_text": "Je bent nog steeds gezond en je kleren passen je eindelijk."
+    },
+    {
+      "subtitle_index": 129,
+      "start_time": 820.619,
+      "end_time": 823.019,
+      "duration": 2.3999999999999773,
+      "dialogue_text": "Maar hier kun je niet al te lang blijven."
+    },
+    {
+      "subtitle_index": 130,
+      "start_time": 834.9,
+      "end_time": 837.926,
+      "duration": 3.0260000000000673,
+      "dialogue_text": "Oud zijn is erger dan ik dacht."
+    },
+    {
+      "subtitle_index": 131,
+      "start_time": 843.413,
+      "end_time": 850.644,
+      "duration": 7.2309999999999945,
+      "dialogue_text": "Ze zeggen dat hun prins verdwenen is en ze geven ons de schuld."
+    },
+    {
+      "subtitle_index": 132,
+      "start_time": 862.494,
+      "end_time": 864.587,
+      "duration": 2.092999999999961,
+      "dialogue_text": "Kan ik u helpen?"
+    },
+    {
+      "subtitle_index": 133,
+      "start_time": 864.964,
+      "end_time": 868.627,
+      "duration": 3.6629999999998972,
+      "dialogue_text": "Het gaat wel. Bedankt voor het aanbod."
+    },
+    {
+      "subtitle_index": 134,
+      "start_time": 869.501,
+      "end_time": 872.368,
+      "duration": 2.8670000000000755,
+      "dialogue_text": "Natuurlijk, achter in is nog plaats, maar waar moet u heen?"
+    },
+    {
+      "subtitle_index": 135,
+      "start_time": 872.471,
+      "end_time": 875.065,
+      "duration": 2.594000000000051,
+      "dialogue_text": "Iets verder dan waar u heen gaat."
+    },
+    {
+      "subtitle_index": 136,
+      "start_time": 879.778,
+      "end_time": 881.803,
+      "duration": 2.0249999999999773,
+      "dialogue_text": "U bent gek oma."
+    },
+    {
+      "subtitle_index": 137,
+      "start_time": 881.914,
+      "end_time": 884.542,
+      "duration": 2.6280000000000427,
+      "dialogue_text": "Daarbuiten zijn alleen heksen en tovenaars."
+    },
+    {
+      "subtitle_index": 138,
+      "start_time": 884.65,
+      "end_time": 886.515,
+      "duration": 1.865000000000009,
+      "dialogue_text": "Dank u, ik zal er aan denken."
+    },
+    {
+      "subtitle_index": 139,
+      "start_time": 887.186,
+      "end_time": 889.484,
+      "duration": 2.298000000000002,
+      "dialogue_text": "Gaat ze alleen de wildernis in?"
+    },
+    {
+      "subtitle_index": 140,
+      "start_time": 889.588,
+      "end_time": 892.079,
+      "duration": 2.4909999999999854,
+      "dialogue_text": "Ze zegt dat ze haar zusje zoekt."
+    },
+    {
+      "subtitle_index": 141,
+      "start_time": 906.438,
+      "end_time": 909.134,
+      "duration": 2.6960000000000264,
+      "dialogue_text": "Met deze benen kom ik er nooit."
+    },
+    {
+      "subtitle_index": 142,
+      "start_time": 911.043,
+      "end_time": 914.308,
+      "duration": 3.2649999999999864,
+      "dialogue_text": "Gelukkig heb ik mijn tanden nog."
+    },
+    {
+      "subtitle_index": 143,
+      "start_time": 921.654,
+      "end_time": 923.713,
+      "duration": 2.058999999999969,
+      "dialogue_text": "Dat zou een goede wandelstok zijn."
+    },
+    {
+      "subtitle_index": 144,
+      "start_time": 923.889,
+      "end_time": 925.823,
+      "duration": 1.933999999999969,
+      "dialogue_text": "Overeind."
+    },
+    {
+      "subtitle_index": 145,
+      "start_time": 932.064,
+      "end_time": 934.396,
+      "duration": 2.3319999999999936,
+      "dialogue_text": "Misschien is hij te groot."
+    },
+    {
+      "subtitle_index": 146,
+      "start_time": 945.511,
+      "end_time": 946.944,
+      "duration": 1.4329999999999927,
+      "dialogue_text": "Wat een weerbarstige tak."
+    },
+    {
+      "subtitle_index": 147,
+      "start_time": 949.415,
+      "end_time": 951.781,
+      "duration": 2.3659999999999854,
+      "dialogue_text": "Dit oudje krijg je er niet onder."
+    },
+    {
+      "subtitle_index": 148,
+      "start_time": 952.284,
+      "end_time": 953.615,
+      "duration": 1.3310000000000173,
+      "dialogue_text": "til..."
+    },
+    {
+      "subtitle_index": 149,
+      "start_time": 964.463,
+      "end_time": 968.661,
+      "duration": 4.197999999999979,
+      "dialogue_text": "Alleen een vogelverschrikker. Ik dacht dat je een van die bobbelmannen was."
+    },
+    {
+      "subtitle_index": 150,
+      "start_time": 969.001,
+      "end_time": 971.97,
+      "duration": 2.969000000000051,
+      "dialogue_text": "Maar hoe sta je uit je zelf?"
+    },
+    {
+      "subtitle_index": 151,
+      "start_time": 974.573,
+      "end_time": 976.598,
+      "duration": 2.0249999999999773,
+      "dialogue_text": "Je hoofd is een raap."
+    },
+    {
+      "subtitle_index": 152,
+      "start_time": 976.976,
+      "end_time": 980.343,
+      "duration": 3.366999999999962,
+      "dialogue_text": "Van kinds af aan heb ik die al afschuwelijk gevonden."
+    },
+    {
+      "subtitle_index": 153,
+      "start_time": 980.479,
+      "end_time": 983.039,
+      "duration": 2.5599999999999454,
+      "dialogue_text": "Gelukkig sta je niet meer op de kop."
+    },
+    {
+      "subtitle_index": 154,
+      "start_time": 983.215,
+      "end_time": 984.876,
+      "duration": 1.6609999999999445,
+      "dialogue_text": "Tot ziens."
+    },
+    {
+      "subtitle_index": 155,
+      "start_time": 992.091,
+      "end_time": 993.854,
+      "duration": 1.7630000000000337,
+      "dialogue_text": "Het is te koud."
+    },
+    {
+      "subtitle_index": 156,
+      "start_time": 994.426,
+      "end_time": 996.656,
+      "duration": 2.2299999999999045,
+      "dialogue_text": "En de stad is nog zo dichtbij."
+    },
+    {
+      "subtitle_index": 157,
+      "start_time": 1002.167,
+      "end_time": 1006.763,
+      "duration": 4.596000000000004,
+      "dialogue_text": "Ga weg. Stop met me te vlogen. Je bent me niets verschuldigd."
+    },
+    {
+      "subtitle_index": 158,
+      "start_time": 1007.106,
+      "end_time": 1009.131,
+      "duration": 2.0249999999999773,
+      "dialogue_text": "Je bent betoverd"
+    },
+    {
+      "subtitle_index": 159,
+      "start_time": 1009.241,
+      "end_time": 1012.108,
+      "duration": 2.866999999999962,
+      "dialogue_text": "en van heksen en betoveringen heb ik genoeg gehad."
+    },
+    {
+      "subtitle_index": 160,
+      "start_time": 1012.678,
+      "end_time": 1015.511,
+      "duration": 2.83299999999997,
+      "dialogue_text": "Ga toch in een veld staan."
+    },
+    {
+      "subtitle_index": 161,
+      "start_time": 1036.568,
+      "end_time": 1040.004,
+      "duration": 3.435999999999922,
+      "dialogue_text": "Bedankt, deze stok is precies wat ik nodig heb."
+    },
+    {
+      "subtitle_index": 162,
+      "start_time": 1040.105,
+      "end_time": 1044.405,
+      "duration": 4.2999999999999545,
+      "dialogue_text": "Zou je me nog één plezier willen doen? Kun je een slaapplaats voor me vinden?"
+    },
+    {
+      "subtitle_index": 163,
+      "start_time": 1055.487,
+      "end_time": 1058.251,
+      "duration": 2.7639999999998963,
+      "dialogue_text": "Ik word erg sluw op mijn oude dag."
+    },
+    {
+      "subtitle_index": 164,
+      "start_time": 1069.134,
+      "end_time": 1070.999,
+      "duration": 1.865000000000009,
+      "dialogue_text": "Een oorlogsschip."
+    },
+    {
+      "subtitle_index": 165,
+      "start_time": 1072.639,
+      "end_time": 1079.137,
+      "duration": 6.498000000000047,
+      "dialogue_text": "Waarom word je zo koud als je oud bent. Zo dik, maar de wind blaast recht door me heen."
+    },
+    {
+      "subtitle_index": 166,
+      "start_time": 1094.293,
+      "end_time": 1098.559,
+      "duration": 4.266000000000076,
+      "dialogue_text": "Iemand stook een vuurtje. Misschien is er een hut in de buurt."
+    },
+    {
+      "subtitle_index": 167,
+      "start_time": 1118.217,
+      "end_time": 1120.947,
+      "duration": 2.729999999999791,
+      "dialogue_text": "Leeghoofd, dat is Howls kasteel."
+    },
+    {
+      "subtitle_index": 168,
+      "start_time": 1121.386,
+      "end_time": 1125.117,
+      "duration": 3.7309999999999945,
+      "dialogue_text": "Dat bedoelde ik niet toen ik om een slaapplaats vroeg."
+    },
+    {
+      "subtitle_index": 169,
+      "start_time": 1135.968,
+      "end_time": 1137.526,
+      "duration": 1.5579999999999927,
+      "dialogue_text": "Kijk nou."
+    },
+    {
+      "subtitle_index": 170,
+      "start_time": 1137.636,
+      "end_time": 1139.126,
+      "duration": 1.490000000000009,
+      "dialogue_text": "Dat noemen ze een kasteel?"
+    },
+    {
+      "subtitle_index": 171,
+      "start_time": 1159.324,
+      "end_time": 1161.417,
+      "duration": 2.092999999999847,
+      "dialogue_text": "Is dat de ingang?"
+    },
+    {
+      "subtitle_index": 172,
+      "start_time": 1163.328,
+      "end_time": 1165.262,
+      "duration": 1.933999999999969,
+      "dialogue_text": "Niet zo snel."
+    },
+    {
+      "subtitle_index": 173,
+      "start_time": 1167.166,
+      "end_time": 1169.1,
+      "duration": 1.933999999999969,
+      "dialogue_text": "In godsnaam."
+    },
+    {
+      "subtitle_index": 174,
+      "start_time": 1170.369,
+      "end_time": 1173.133,
+      "duration": 2.7640000000001237,
+      "dialogue_text": "Laat je me er nog in of wat?"
+    },
+    {
+      "subtitle_index": 175,
+      "start_time": 1177.676,
+      "end_time": 1179.473,
+      "duration": 1.7970000000000255,
+      "dialogue_text": "Mijn sjaal."
+    },
+    {
+      "subtitle_index": 176,
+      "start_time": 1192.358,
+      "end_time": 1196.255,
+      "duration": 3.897000000000162,
+      "dialogue_text": "Het is warm daarbinnen, dus ik ga naar binnen."
+    },
+    {
+      "subtitle_index": 177,
+      "start_time": 1196.361,
+      "end_time": 1197.521,
+      "duration": 1.1599999999998545,
+      "dialogue_text": "Bedankt, mij sjaal."
+    },
+    {
+      "subtitle_index": 178,
+      "start_time": 1197.629,
+      "end_time": 1201.588,
+      "duration": 3.95900000000006,
+      "dialogue_text": "Howl lust vast het hart niet van zo'n ouwe taart als ik."
+    },
+    {
+      "subtitle_index": 179,
+      "start_time": 1204.369,
+      "end_time": 1206.098,
+      "duration": 1.7290000000000418,
+      "dialogue_text": "Leuk je ontmoet te hebben."
+    },
+    {
+      "subtitle_index": 180,
+      "start_time": 1206.205,
+      "end_time": 1209.106,
+      "duration": 2.9010000000000673,
+      "dialogue_text": "Ook al ben je de groente waar ik het minst van houd."
+    },
+    {
+      "subtitle_index": 181,
+      "start_time": 1209.208,
+      "end_time": 1211.199,
+      "duration": 1.9909999999999854,
+      "dialogue_text": "Pas goed op jezelf."
+    },
+    {
+      "subtitle_index": 182,
+      "start_time": 1258.257,
+      "end_time": 1262.694,
+      "duration": 4.436999999999898,
+      "dialogue_text": "Wat en krot. Dit had ik niet in gedachten bij een kasteel."
+    },
+    {
+      "subtitle_index": 183,
+      "start_time": 1271.336,
+      "end_time": 1275.966,
+      "duration": 4.629999999999882,
+      "dialogue_text": "Als je oud bent schrik je nergens meer van."
+    },
+    {
+      "subtitle_index": 184,
+      "start_time": 1285.55,
+      "end_time": 1287.78,
+      "duration": 2.230000000000018,
+      "dialogue_text": "Ik benijd je niet mevrouw, dat is een beste vloek."
+    },
+    {
+      "subtitle_index": 185,
+      "start_time": 1288.82,
+      "end_time": 1291.755,
+      "duration": 2.935000000000173,
+      "dialogue_text": "Daar kom je niet zo gemakkelijk vanaf."
+    },
+    {
+      "subtitle_index": 186,
+      "start_time": 1293.392,
+      "end_time": 1294.791,
+      "duration": 1.3989999999998872,
+      "dialogue_text": "Het vuur praatte."
+    },
+    {
+      "subtitle_index": 187,
+      "start_time": 1294.926,
+      "end_time": 1297.394,
+      "duration": 2.4680000000000746,
+      "dialogue_text": "Laat me raden, je kunt er niet over je praten."
+    },
+    {
+      "subtitle_index": 188,
+      "start_time": 1297.763,
+      "end_time": 1299.39,
+      "duration": 1.62700000000018,
+      "dialogue_text": "Ben jij Howl?"
+    },
+    {
+      "subtitle_index": 189,
+      "start_time": 1299.498,
+      "end_time": 1304.06,
+      "duration": 4.561999999999898,
+      "dialogue_text": "Nee ik ben Calcifer een machtige vuurdemon. Ik vind het leuk om dat te doen."
+    },
+    {
+      "subtitle_index": 190,
+      "start_time": 1304.436,
+      "end_time": 1308.805,
+      "duration": 4.369000000000142,
+      "dialogue_text": "Een vuurdemon? Dan kun je mijn vloek breken."
+    },
+    {
+      "subtitle_index": 191,
+      "start_time": 1309.441,
+      "end_time": 1310.499,
+      "duration": 1.0579999999999927,
+      "dialogue_text": "Misschien."
+    },
+    {
+      "subtitle_index": 192,
+      "start_time": 1310.609,
+      "end_time": 1313.134,
+      "duration": 2.525000000000091,
+      "dialogue_text": "Als jij mijn vloek verbreekt,"
+    },
+    {
+      "subtitle_index": 193,
+      "start_time": 1313.245,
+      "end_time": 1315.805,
+      "duration": 2.560000000000173,
+      "dialogue_text": "dan verbreek ik jouw vloek."
+    },
+    {
+      "subtitle_index": 194,
+      "start_time": 1316.615,
+      "end_time": 1319.345,
+      "duration": 2.730000000000018,
+      "dialogue_text": "Als je een demon bent, hoe weet ik dan dat ik je kan vertrouwen?"
+    },
+    {
+      "subtitle_index": 195,
+      "start_time": 1319.551,
+      "end_time": 1321.917,
+      "duration": 2.3659999999999854,
+      "dialogue_text": "Beloof je mij te helpen als ik jou help?"
+    },
+    {
+      "subtitle_index": 196,
+      "start_time": 1322.254,
+      "end_time": 1324.586,
+      "duration": 2.3320000000001073,
+      "dialogue_text": "Ik weet niet, demonen doen geen beloftes."
+    },
+    {
+      "subtitle_index": 197,
+      "start_time": 1326.058,
+      "end_time": 1327.685,
+      "duration": 1.6269999999999527,
+      "dialogue_text": "Vind maar iemand anders."
+    },
+    {
+      "subtitle_index": 198,
+      "start_time": 1327.893,
+      "end_time": 1330.054,
+      "duration": 2.161000000000058,
+      "dialogue_text": "Je zou medelijden met me moeten hebben."
+    },
+    {
+      "subtitle_index": 199,
+      "start_time": 1330.162,
+      "end_time": 1333.689,
+      "duration": 3.5270000000000437,
+      "dialogue_text": "Door die vloek zit ik hier vast en Howl behandeld me als een slaaf."
+    },
+    {
+      "subtitle_index": 200,
+      "start_time": 1333.832,
+      "end_time": 1336.824,
+      "duration": 2.991999999999962,
+      "dialogue_text": "Warmte, warm water en ik moet het kasteel verplaatsen."
+    },
+    {
+      "subtitle_index": 201,
+      "start_time": 1336.968,
+      "end_time": 1340.529,
+      "duration": 3.560999999999922,
+      "dialogue_text": "Ooit geprobeerd een kasteel te verplaatsen?"
+    },
+    {
+      "subtitle_index": 202,
+      "start_time": 1341.006,
+      "end_time": 1345.102,
+      "duration": 4.096000000000004,
+      "dialogue_text": "Als je achter mijn contract met Howl kunt komen, kun je mijn vloek breken."
+    },
+    {
+      "subtitle_index": 203,
+      "start_time": 1345.21,
+      "end_time": 1348.077,
+      "duration": 2.866999999999962,
+      "dialogue_text": "Daarna is het gemakkelijk om jouw vloek breken."
+    },
+    {
+      "subtitle_index": 204,
+      "start_time": 1348.747,
+      "end_time": 1352.615,
+      "duration": 3.867999999999938,
+      "dialogue_text": "Oké, afgesproken."
+    },
+    {
+      "subtitle_index": 205,
+      "start_time": 1357.956,
+      "end_time": 1359.321,
+      "duration": 1.365000000000009,
+      "dialogue_text": "Hallo? Mevrouw?"
+    },
+    {
+      "subtitle_index": 206,
+      "start_time": 1363.124,
+      "end_time": 1364.989,
+      "duration": 1.865000000000009,
+      "dialogue_text": "Ik kom even die kant op."
+    },
+    {
+      "subtitle_index": 207,
+      "start_time": 1365.464,
+      "end_time": 1367.623,
+      "duration": 2.1590000000001055,
+      "dialogue_text": "Aan jou heb ik ook niets."
+    },
+    {
+      "subtitle_index": 208,
+      "start_time": 1421.787,
+      "end_time": 1423.379,
+      "duration": 1.5919999999998709,
+      "dialogue_text": "Hé wie is dit?"
+    },
+    {
+      "subtitle_index": 209,
+      "start_time": 1423.488,
+      "end_time": 1425.115,
+      "duration": 1.6269999999999527,
+      "dialogue_text": "Porthaven."
+    },
+    {
+      "subtitle_index": 210,
+      "start_time": 1425.323,
+      "end_time": 1427.484,
+      "duration": 2.160999999999831,
+      "dialogue_text": "Hoe is ze hier gekomen?"
+    },
+    {
+      "subtitle_index": 211,
+      "start_time": 1434.266,
+      "end_time": 1435.961,
+      "duration": 1.6949999999999363,
+      "dialogue_text": "Wacht."
+    },
+    {
+      "subtitle_index": 212,
+      "start_time": 1440.238,
+      "end_time": 1441.899,
+      "duration": 1.6609999999998308,
+      "dialogue_text": "Burgemeester, hoe maakt u het."
+    },
+    {
+      "subtitle_index": 213,
+      "start_time": 1442.007,
+      "end_time": 1446.0,
+      "duration": 3.992999999999938,
+      "dialogue_text": "Goedemiddag meneer, is de tovenaar Jenkins thuis."
+    },
+    {
+      "subtitle_index": 214,
+      "start_time": 1446.344,
+      "end_time": 1448.244,
+      "duration": 1.8999999999998636,
+      "dialogue_text": "Mijn meester is er helaas niet."
+    },
+    {
+      "subtitle_index": 215,
+      "start_time": 1448.346,
+      "end_time": 1451.008,
+      "duration": 2.6620000000000346,
+      "dialogue_text": "U kunt zich tot mij richten."
+    },
+    {
+      "subtitle_index": 216,
+      "start_time": 1451.65,
+      "end_time": 1454.414,
+      "duration": 2.7639999999998963,
+      "dialogue_text": "Een uitnodiging van de koning."
+    },
+    {
+      "subtitle_index": 217,
+      "start_time": 1454.519,
+      "end_time": 1455.85,
+      "duration": 1.3309999999999036,
+      "dialogue_text": "De oorlog komt eraan."
+    },
+    {
+      "subtitle_index": 218,
+      "start_time": 1456.188,
+      "end_time": 1458.713,
+      "duration": 2.5249999999998636,
+      "dialogue_text": "De koning gebiedt dat elke heks en tovenaar"
+    },
+    {
+      "subtitle_index": 219,
+      "start_time": 1458.824,
+      "end_time": 1461.759,
+      "duration": 2.9349999999999454,
+      "dialogue_text": "het land helpt verdedigen."
+    },
+    {
+      "subtitle_index": 220,
+      "start_time": 1461.86,
+      "end_time": 1465.193,
+      "duration": 3.3330000000000837,
+      "dialogue_text": "De tovenaar moet zich meteen bij het kasteel melden."
+    },
+    {
+      "subtitle_index": 221,
+      "start_time": 1467.732,
+      "end_time": 1469.895,
+      "duration": 2.163000000000011,
+      "dialogue_text": "Dat het hiervan heeft moeten komen."
+    },
+    {
+      "subtitle_index": 222,
+      "start_time": 1470.335,
+      "end_time": 1472.36,
+      "duration": 2.0249999999998636,
+      "dialogue_text": "Wat doet u hier oma?"
+    },
+    {
+      "subtitle_index": 223,
+      "start_time": 1472.938,
+      "end_time": 1474.701,
+      "duration": 1.76299999999992,
+      "dialogue_text": "Van Calcifer mocht ik binnen komen."
+    },
+    {
+      "subtitle_index": 224,
+      "start_time": 1474.806,
+      "end_time": 1478.105,
+      "duration": 3.298999999999978,
+      "dialogue_text": "Helemaal niet. Ze is vanuit de wildernis binnen komen wandelen."
+    },
+    {
+      "subtitle_index": 225,
+      "start_time": 1478.477,
+      "end_time": 1479.603,
+      "duration": 1.1259999999999764,
+      "dialogue_text": "Vanuit de wildernis?"
+    },
+    {
+      "subtitle_index": 226,
+      "start_time": 1479.711,
+      "end_time": 1483.01,
+      "duration": 3.298999999999978,
+      "dialogue_text": "Hoe weten we dat ze geen heks is?"
+    },
+    {
+      "subtitle_index": 227,
+      "start_time": 1483.748,
+      "end_time": 1485.909,
+      "duration": 2.161000000000058,
+      "dialogue_text": "Denk je echt dat ik een heks zou binnenlaten?"
+    },
+    {
+      "subtitle_index": 228,
+      "start_time": 1486.451,
+      "end_time": 1488.351,
+      "duration": 1.900000000000091,
+      "dialogue_text": "Porthaven, alweer."
+    },
+    {
+      "subtitle_index": 229,
+      "start_time": 1489.221,
+      "end_time": 1490.62,
+      "duration": 1.3989999999998872,
+      "dialogue_text": "Dat zal een klant zijn."
+    },
+    {
+      "subtitle_index": 230,
+      "start_time": 1492.557,
+      "end_time": 1494.184,
+      "duration": 1.6269999999999527,
+      "dialogue_text": "Wacht."
+    },
+    {
+      "subtitle_index": 231,
+      "start_time": 1496.962,
+      "end_time": 1498.589,
+      "duration": 1.6269999999999527,
+      "dialogue_text": "Ja mijn kind?"
+    },
+    {
+      "subtitle_index": 232,
+      "start_time": 1498.697,
+      "end_time": 1500.392,
+      "duration": 1.6950000000001637,
+      "dialogue_text": "Ik moest van mijn moeder een tovermiddel ophalen."
+    },
+    {
+      "subtitle_index": 233,
+      "start_time": 1500.799,
+      "end_time": 1503.529,
+      "duration": 2.730000000000018,
+      "dialogue_text": "Ja, kom toch binnen."
+    },
+    {
+      "subtitle_index": 234,
+      "start_time": 1504.836,
+      "end_time": 1506.997,
+      "duration": 2.161000000000058,
+      "dialogue_text": "Wees stil en haal geen streken uit oma."
+    },
+    {
+      "subtitle_index": 235,
+      "start_time": 1523.955,
+      "end_time": 1525.388,
+      "duration": 1.4329999999999927,
+      "dialogue_text": "Dat is niet de wildernis."
+    },
+    {
+      "subtitle_index": 236,
+      "start_time": 1525.49,
+      "end_time": 1528.357,
+      "duration": 2.866999999999962,
+      "dialogue_text": "Oma, bent u ook een heks?"
+    },
+    {
+      "subtitle_index": 237,
+      "start_time": 1528.927,
+      "end_time": 1533.159,
+      "duration": 4.232000000000198,
+      "dialogue_text": "Jazeker, ik ben de engst heks van allemaal."
+    },
+    {
+      "subtitle_index": 238,
+      "start_time": 1533.265,
+      "end_time": 1536.234,
+      "duration": 2.9689999999998236,
+      "dialogue_text": "Strooi dit poeder over uw schip en de wind zal hem goed gezint zijn."
+    },
+    {
+      "subtitle_index": 239,
+      "start_time": 1536.334,
+      "end_time": 1537.494,
+      "duration": 1.1599999999998545,
+      "dialogue_text": "Bedankt."
+    },
+    {
+      "subtitle_index": 240,
+      "start_time": 1539.804,
+      "end_time": 1541.431,
+      "duration": 1.6269999999999527,
+      "dialogue_text": "Het ga je goed, kind."
+    },
+    {
+      "subtitle_index": 241,
+      "start_time": 1543.441,
+      "end_time": 1545.739,
+      "duration": 2.298000000000002,
+      "dialogue_text": "Stop met het bedriegen van de klanten."
+    },
+    {
+      "subtitle_index": 242,
+      "start_time": 1545.844,
+      "end_time": 1547.744,
+      "duration": 1.8999999999998636,
+      "dialogue_text": "En jij dan? Jij draagt ook een vermomming."
+    },
+    {
+      "subtitle_index": 243,
+      "start_time": 1547.846,
+      "end_time": 1550.781,
+      "duration": 2.9349999999999454,
+      "dialogue_text": "Ik ben mijn toverkunsten aan het oefenen."
+    },
+    {
+      "subtitle_index": 244,
+      "start_time": 1552.517,
+      "end_time": 1554.348,
+      "duration": 1.8309999999999036,
+      "dialogue_text": "De deur van Kingsbury."
+    },
+    {
+      "subtitle_index": 245,
+      "start_time": 1556.021,
+      "end_time": 1557.045,
+      "duration": 1.0240000000001146,
+      "dialogue_text": "Wacht."
+    },
+    {
+      "subtitle_index": 246,
+      "start_time": 1562.527,
+      "end_time": 1565.291,
+      "duration": 2.7639999999998963,
+      "dialogue_text": "Goedendag, is dit het huis van de tovenaar Pendragon?"
+    },
+    {
+      "subtitle_index": 247,
+      "start_time": 1565.397,
+      "end_time": 1566.523,
+      "duration": 1.1259999999999764,
+      "dialogue_text": "Jazeker."
+    },
+    {
+      "subtitle_index": 248,
+      "start_time": 1566.631,
+      "end_time": 1569.828,
+      "duration": 3.196999999999889,
+      "dialogue_text": "Ik heb een uitnodiging van de koning."
+    },
+    {
+      "subtitle_index": 249,
+      "start_time": 1569.935,
+      "end_time": 1574.429,
+      "duration": 4.494000000000142,
+      "dialogue_text": "Alle heksen en tovenaars moeten zich melden bij het paleis."
+    },
+    {
+      "subtitle_index": 250,
+      "start_time": 1575.14,
+      "end_time": 1577.301,
+      "duration": 2.160999999999831,
+      "dialogue_text": "Ik meld het hem meteen."
+    },
+    {
+      "subtitle_index": 251,
+      "start_time": 1591.89,
+      "end_time": 1594.552,
+      "duration": 2.661999999999807,
+      "dialogue_text": "Dit is de koninklijke stad."
+    },
+    {
+      "subtitle_index": 252,
+      "start_time": 1594.659,
+      "end_time": 1597.389,
+      "duration": 2.729999999999791,
+      "dialogue_text": "Kom op oma. Of u verliest u uw neus."
+    },
+    {
+      "subtitle_index": 253,
+      "start_time": 1602.467,
+      "end_time": 1604.799,
+      "duration": 2.33199999999988,
+      "dialogue_text": "En stop met rondneuzen."
+    },
+    {
+      "subtitle_index": 254,
+      "start_time": 1640.805,
+      "end_time": 1643.933,
+      "duration": 3.127999999999929,
+      "dialogue_text": "Laat dat oma. Ik word boos."
+    },
+    {
+      "subtitle_index": 255,
+      "start_time": 1644.909,
+      "end_time": 1646.968,
+      "duration": 2.058999999999969,
+      "dialogue_text": "Dit is een magisch huis, toch?"
+    },
+    {
+      "subtitle_index": 256,
+      "start_time": 1648.113,
+      "end_time": 1650.206,
+      "duration": 2.092999999999847,
+      "dialogue_text": "Waar gaat de zwarte naar toe?"
+    },
+    {
+      "subtitle_index": 257,
+      "start_time": 1650.315,
+      "end_time": 1651.714,
+      "duration": 1.3989999999998872,
+      "dialogue_text": "Dat weet alleen meester Howl."
+    },
+    {
+      "subtitle_index": 258,
+      "start_time": 1652.417,
+      "end_time": 1654.715,
+      "duration": 2.298000000000002,
+      "dialogue_text": "Ik heb zin in ontbijt. Ik verga van de honger."
+    },
+    {
+      "subtitle_index": 259,
+      "start_time": 1663.995,
+      "end_time": 1666.361,
+      "duration": 2.366000000000213,
+      "dialogue_text": "Wil je geen eieren met spek?"
+    },
+    {
+      "subtitle_index": 260,
+      "start_time": 1667.265,
+      "end_time": 1670.428,
+      "duration": 3.163000000000011,
+      "dialogue_text": "Jawel, maar we kunnen het vuur niet gebruiken. Meester Howl is er niet."
+    },
+    {
+      "subtitle_index": 261,
+      "start_time": 1673.938,
+      "end_time": 1675.872,
+      "duration": 1.933999999999969,
+      "dialogue_text": "Ik kan koken."
+    },
+    {
+      "subtitle_index": 262,
+      "start_time": 1676.341,
+      "end_time": 1677.33,
+      "duration": 0.9890000000000327,
+      "dialogue_text": "Dat maakt niet uit."
+    },
+    {
+      "subtitle_index": 263,
+      "start_time": 1677.442,
+      "end_time": 1680.809,
+      "duration": 3.366999999999962,
+      "dialogue_text": "Calcifer gehoorzaamt alleen meester Howl."
+    },
+    {
+      "subtitle_index": 264,
+      "start_time": 1680.979,
+      "end_time": 1683.641,
+      "duration": 2.6620000000000346,
+      "dialogue_text": "Dat klopt, voor jou doe ik niets."
+    },
+    {
+      "subtitle_index": 265,
+      "start_time": 1683.748,
+      "end_time": 1686.615,
+      "duration": 2.866999999999962,
+      "dialogue_text": "Daar is mijn hoed."
+    },
+    {
+      "subtitle_index": 266,
+      "start_time": 1689.854,
+      "end_time": 1692.755,
+      "duration": 2.9010000000000673,
+      "dialogue_text": "Oké Calcifer, aan de slag."
+    },
+    {
+      "subtitle_index": 267,
+      "start_time": 1693.024,
+      "end_time": 1695.322,
+      "duration": 2.298000000000002,
+      "dialogue_text": "Vergeet het maar."
+    },
+    {
+      "subtitle_index": 268,
+      "start_time": 1695.427,
+      "end_time": 1698.089,
+      "duration": 2.6620000000000346,
+      "dialogue_text": "Ik ben een krachtige vuurdemon."
+    },
+    {
+      "subtitle_index": 269,
+      "start_time": 1698.53,
+      "end_time": 1701.658,
+      "duration": 3.127999999999929,
+      "dialogue_text": "Wil je een emmer water in je gezicht?"
+    },
+    {
+      "subtitle_index": 270,
+      "start_time": 1701.766,
+      "end_time": 1704.735,
+      "duration": 2.9689999999998236,
+      "dialogue_text": "Of moet ik Howl over onze afspraak vertellen?"
+    },
+    {
+      "subtitle_index": 271,
+      "start_time": 1706.004,
+      "end_time": 1709.963,
+      "duration": 3.95900000000006,
+      "dialogue_text": "Ik had haar nooit binnen moeten laten!"
+    },
+    {
+      "subtitle_index": 272,
+      "start_time": 1710.075,
+      "end_time": 1712.066,
+      "duration": 1.9909999999999854,
+      "dialogue_text": "Wat wordt het?"
+    },
+    {
+      "subtitle_index": 273,
+      "start_time": 1715.413,
+      "end_time": 1718.541,
+      "duration": 3.127999999999929,
+      "dialogue_text": "Dat is een braaf vuurtje."
+    },
+    {
+      "subtitle_index": 274,
+      "start_time": 1720.785,
+      "end_time": 1723.447,
+      "duration": 2.661999999999807,
+      "dialogue_text": "Hier is nog een vloek, mag al je spek aanbranden."
+    },
+    {
+      "subtitle_index": 275,
+      "start_time": 1723.822,
+      "end_time": 1725.983,
+      "duration": 2.161000000000058,
+      "dialogue_text": "Calcifer doet wat zij zegt."
+    },
+    {
+      "subtitle_index": 276,
+      "start_time": 1726.091,
+      "end_time": 1728.821,
+      "duration": 2.730000000000018,
+      "dialogue_text": "Ik heb ook zin in thee. Heb je een ketel?"
+    },
+    {
+      "subtitle_index": 277,
+      "start_time": 1728.927,
+      "end_time": 1733.121,
+      "duration": 4.194000000000187,
+      "dialogue_text": "Ja hoor. - Wat doe je, aan wiens kant sta je eigenlijk?"
+    },
+    {
+      "subtitle_index": 278,
+      "start_time": 1739.337,
+      "end_time": 1741.43,
+      "duration": 2.0930000000000746,
+      "dialogue_text": "Meester Howl, de boodschappers van de koning kwamen langs."
+    },
+    {
+      "subtitle_index": 279,
+      "start_time": 1741.573,
+      "end_time": 1743.666,
+      "duration": 2.092999999999847,
+      "dialogue_text": "Je moet je melden bij het paleis"
+    },
+    {
+      "subtitle_index": 280,
+      "start_time": 1743.775,
+      "end_time": 1746.505,
+      "duration": 2.730000000000018,
+      "dialogue_text": "als Pendragon en Jenkins."
+    },
+    {
+      "subtitle_index": 281,
+      "start_time": 1757.088,
+      "end_time": 1760.114,
+      "duration": 3.0260000000000673,
+      "dialogue_text": "Calcifer, je bent zo gehoorzaam."
+    },
+    {
+      "subtitle_index": 282,
+      "start_time": 1760.458,
+      "end_time": 1762.119,
+      "duration": 1.6609999999998308,
+      "dialogue_text": "Niet met opzet, ze dwong me."
+    },
+    {
+      "subtitle_index": 283,
+      "start_time": 1762.827,
+      "end_time": 1765.387,
+      "duration": 2.5599999999999454,
+      "dialogue_text": "Niet iedereen kan dat."
+    },
+    {
+      "subtitle_index": 284,
+      "start_time": 1765.897,
+      "end_time": 1767.364,
+      "duration": 1.4670000000000982,
+      "dialogue_text": "En wie ben jij?"
+    },
+    {
+      "subtitle_index": 285,
+      "start_time": 1767.766,
+      "end_time": 1770.462,
+      "duration": 2.6959999999999127,
+      "dialogue_text": "Noem me maar oma Sophie."
+    },
+    {
+      "subtitle_index": 286,
+      "start_time": 1770.568,
+      "end_time": 1773.366,
+      "duration": 2.798000000000002,
+      "dialogue_text": "Ik ben de nieuwe schoonmaakster. Vandaag begonnen."
+    },
+    {
+      "subtitle_index": 287,
+      "start_time": 1773.838,
+      "end_time": 1775.032,
+      "duration": 1.19399999999996,
+      "dialogue_text": "Laat mij maar."
+    },
+    {
+      "subtitle_index": 288,
+      "start_time": 1779.01,
+      "end_time": 1782.173,
+      "duration": 3.163000000000011,
+      "dialogue_text": "Geef me nog 2 plakken spek en 6 eieren."
+    },
+    {
+      "subtitle_index": 289,
+      "start_time": 1802.567,
+      "end_time": 1803.693,
+      "duration": 1.1259999999999764,
+      "dialogue_text": "Heerlijk."
+    },
+    {
+      "subtitle_index": 290,
+      "start_time": 1813.011,
+      "end_time": 1815.138,
+      "duration": 2.1269999999999527,
+      "dialogue_text": "Wie heeft je aangenomen?"
+    },
+    {
+      "subtitle_index": 291,
+      "start_time": 1815.747,
+      "end_time": 1817.442,
+      "duration": 1.6949999999999363,
+      "dialogue_text": "Calcifer."
+    },
+    {
+      "subtitle_index": 292,
+      "start_time": 1817.549,
+      "end_time": 1820.017,
+      "duration": 2.4680000000000746,
+      "dialogue_text": "Hij vind het hier heel smerig."
+    },
+    {
+      "subtitle_index": 293,
+      "start_time": 1821.92,
+      "end_time": 1823.785,
+      "duration": 1.865000000000009,
+      "dialogue_text": "Markl, pak de borden."
+    },
+    {
+      "subtitle_index": 294,
+      "start_time": 1827.392,
+      "end_time": 1829.758,
+      "duration": 2.3659999999999854,
+      "dialogue_text": "Jullie gaan eten, terwijl ik al het werk doe?"
+    },
+    {
+      "subtitle_index": 295,
+      "start_time": 1829.961,
+      "end_time": 1831.622,
+      "duration": 1.6610000000000582,
+      "dialogue_text": "Kom ontbijten, Sophie."
+    },
+    {
+      "subtitle_index": 296,
+      "start_time": 1837.135,
+      "end_time": 1838.762,
+      "duration": 1.6269999999999527,
+      "dialogue_text": "Neem plaats."
+    },
+    {
+      "subtitle_index": 297,
+      "start_time": 1853.585,
+      "end_time": 1854.574,
+      "duration": 0.9890000000000327,
+      "dialogue_text": "Welke wil je?"
+    },
+    {
+      "subtitle_index": 298,
+      "start_time": 1855.053,
+      "end_time": 1857.078,
+      "duration": 2.0249999999998636,
+      "dialogue_text": "De rest is vies."
+    },
+    {
+      "subtitle_index": 299,
+      "start_time": 1860.024,
+      "end_time": 1862.083,
+      "duration": 2.0590000000001965,
+      "dialogue_text": "Er is genoeg werk voor me."
+    },
+    {
+      "subtitle_index": 300,
+      "start_time": 1864.429,
+      "end_time": 1865.361,
+      "duration": 0.9320000000000164,
+      "dialogue_text": "Brood Markl."
+    },
+    {
+      "subtitle_index": 301,
+      "start_time": 1865.463,
+      "end_time": 1866.487,
+      "duration": 1.0240000000001146,
+      "dialogue_text": "Bedankt."
+    },
+    {
+      "subtitle_index": 302,
+      "start_time": 1868.099,
+      "end_time": 1869.191,
+      "duration": 1.0920000000000982,
+      "dialogue_text": "Sophie."
+    },
+    {
+      "subtitle_index": 303,
+      "start_time": 1869.3,
+      "end_time": 1870.699,
+      "duration": 1.3990000000001146,
+      "dialogue_text": "Jaa, dankje."
+    },
+    {
+      "subtitle_index": 304,
+      "start_time": 1872.203,
+      "end_time": 1874.728,
+      "duration": 2.525000000000091,
+      "dialogue_text": "Vrienden, eet smakelijk."
+    },
+    {
+      "subtitle_index": 305,
+      "start_time": 1874.839,
+      "end_time": 1875.863,
+      "duration": 1.0240000000001146,
+      "dialogue_text": "Eet smakelijk."
+    },
+    {
+      "subtitle_index": 306,
+      "start_time": 1875.974,
+      "end_time": 1878.465,
+      "duration": 2.4909999999999854,
+      "dialogue_text": "Ik kan me niet meer herinneren wanneer we voor het laatst samen gegeten hebben."
+    },
+    {
+      "subtitle_index": 307,
+      "start_time": 1885.25,
+      "end_time": 1888.151,
+      "duration": 2.9010000000000673,
+      "dialogue_text": "Zelfs de tafel manieren kunnen wat werk gebruiken."
+    },
+    {
+      "subtitle_index": 308,
+      "start_time": 1889.22,
+      "end_time": 1891.984,
+      "duration": 2.7639999999998963,
+      "dialogue_text": "Wat heb je in ze zakken verstopt, Sophie?"
+    },
+    {
+      "subtitle_index": 309,
+      "start_time": 1903.668,
+      "end_time": 1904.76,
+      "duration": 1.0920000000000982,
+      "dialogue_text": "Wat is dit?"
+    },
+    {
+      "subtitle_index": 310,
+      "start_time": 1904.869,
+      "end_time": 1906.302,
+      "duration": 1.4329999999999927,
+      "dialogue_text": "Geeft maar."
+    },
+    {
+      "subtitle_index": 311,
+      "start_time": 1912.243,
+      "end_time": 1915.144,
+      "duration": 2.9010000000000673,
+      "dialogue_text": "Brandplekken, meester Howl, kunt u ze lezen?"
+    },
+    {
+      "subtitle_index": 312,
+      "start_time": 1916.047,
+      "end_time": 1917.639,
+      "duration": 1.5919999999998709,
+      "dialogue_text": "Antieke tovenarij."
+    },
+    {
+      "subtitle_index": 313,
+      "start_time": 1917.749,
+      "end_time": 1919.148,
+      "duration": 1.3989999999998872,
+      "dialogue_text": "En nog krachtig ook."
+    },
+    {
+      "subtitle_index": 314,
+      "start_time": 1919.517,
+      "end_time": 1920.984,
+      "duration": 1.4669999999998709,
+      "dialogue_text": "Van de heks van de wildernis?"
+    },
+    {
+      "subtitle_index": 315,
+      "start_time": 1921.986,
+      "end_time": 1925.752,
+      "duration": 3.765999999999849,
+      "dialogue_text": "Jij die een vallende ster inslikte, o harteloze man,"
+    },
+    {
+      "subtitle_index": 316,
+      "start_time": 1925.857,
+      "end_time": 1928.155,
+      "duration": 2.298000000000002,
+      "dialogue_text": ",e hart zal spoedig van mij zijn."
+    },
+    {
+      "subtitle_index": 317,
+      "start_time": 1928.259,
+      "end_time": 1929.726,
+      "duration": 1.4670000000000982,
+      "dialogue_text": "Dat is vast slecht voor de tafel."
+    },
+    {
+      "subtitle_index": 318,
+      "start_time": 1943.641,
+      "end_time": 1945.404,
+      "duration": 1.76299999999992,
+      "dialogue_text": "Het is weg."
+    },
+    {
+      "subtitle_index": 319,
+      "start_time": 1945.51,
+      "end_time": 1948.001,
+      "duration": 2.4909999999999854,
+      "dialogue_text": "De brandplek is weg, maar de spreuk is er nog steeds."
+    },
+    {
+      "subtitle_index": 320,
+      "start_time": 1948.546,
+      "end_time": 1951.208,
+      "duration": 2.6620000000000346,
+      "dialogue_text": "Excuseer me, eet verder."
+    },
+    {
+      "subtitle_index": 321,
+      "start_time": 1952.45,
+      "end_time": 1955.51,
+      "duration": 3.0599999999999454,
+      "dialogue_text": "Calcifer, verplaats het kasteel 100 kilometer naar het westen"
+    },
+    {
+      "subtitle_index": 322,
+      "start_time": 1960.992,
+      "end_time": 1963.017,
+      "duration": 2.025000000000091,
+      "dialogue_text": "en maak heet water voor mijn bad."
+    },
+    {
+      "subtitle_index": 323,
+      "start_time": 1963.127,
+      "end_time": 1966.253,
+      "duration": 3.1259999999999764,
+      "dialogue_text": "Het kasteel verplaatsen is al moeilijk genoeg."
+    },
+    {
+      "subtitle_index": 324,
+      "start_time": 1966.631,
+      "end_time": 1969.191,
+      "duration": 2.5599999999999454,
+      "dialogue_text": "Je werkt toch niet voor de heks van de wildernis?"
+    },
+    {
+      "subtitle_index": 325,
+      "start_time": 1970.435,
+      "end_time": 1974.496,
+      "duration": 4.061000000000149,
+      "dialogue_text": "Ik zou nooit voor haar werken! Zij heeft me..."
+    },
+    {
+      "subtitle_index": 326,
+      "start_time": 1977.875,
+      "end_time": 1981.936,
+      "duration": 4.060999999999922,
+      "dialogue_text": "Eigenlijk... ...de heks..."
+    },
+    {
+      "subtitle_index": 327,
+      "start_time": 1985.917,
+      "end_time": 1989.045,
+      "duration": 3.1280000000001564,
+      "dialogue_text": "Als ik haar ooit tegen kom dan draai ik haar de nek om."
+    },
+    {
+      "subtitle_index": 328,
+      "start_time": 1989.153,
+      "end_time": 1991.212,
+      "duration": 2.058999999999969,
+      "dialogue_text": "Eet je ontbijt op."
+    },
+    {
+      "subtitle_index": 329,
+      "start_time": 1995.326,
+      "end_time": 1999.887,
+      "duration": 4.560999999999922,
+      "dialogue_text": "Genoeg. Er uit, voordat ik jullie hoofd eraf veeg."
+    },
+    {
+      "subtitle_index": 330,
+      "start_time": 2001.265,
+      "end_time": 2004.426,
+      "duration": 3.160999999999831,
+      "dialogue_text": "Ik ben het zat behandeld te worden als een oude vrouw."
+    },
+    {
+      "subtitle_index": 331,
+      "start_time": 2010.475,
+      "end_time": 2012.375,
+      "duration": 1.900000000000091,
+      "dialogue_text": "Hallo meneer, is mijn toverdrank klaar?"
+    },
+    {
+      "subtitle_index": 332,
+      "start_time": 2012.477,
+      "end_time": 2013.603,
+      "duration": 1.1259999999999764,
+      "dialogue_text": "Komt u later terug."
+    },
+    {
+      "subtitle_index": 333,
+      "start_time": 2013.711,
+      "end_time": 2015.838,
+      "duration": 2.1269999999999527,
+      "dialogue_text": "Daarbinnen is een heks op hol geslagen."
+    },
+    {
+      "subtitle_index": 334,
+      "start_time": 2022.453,
+      "end_time": 2023.886,
+      "duration": 1.4329999999999927,
+      "dialogue_text": "Sophie, alsjeblieft!"
+    },
+    {
+      "subtitle_index": 335,
+      "start_time": 2025.857,
+      "end_time": 2029.02,
+      "duration": 3.163000000000011,
+      "dialogue_text": "Sophie, ik ga uit."
+    },
+    {
+      "subtitle_index": 336,
+      "start_time": 2029.861,
+      "end_time": 2032.159,
+      "duration": 2.298000000000002,
+      "dialogue_text": "Geef me snel wat hout."
+    },
+    {
+      "subtitle_index": 337,
+      "start_time": 2032.764,
+      "end_time": 2034.629,
+      "duration": 1.865000000000009,
+      "dialogue_text": "Hé, wat doe je?"
+    },
+    {
+      "subtitle_index": 338,
+      "start_time": 2034.932,
+      "end_time": 2038.299,
+      "duration": 3.366999999999962,
+      "dialogue_text": "Ik val, oude gek."
+    },
+    {
+      "subtitle_index": 339,
+      "start_time": 2038.836,
+      "end_time": 2040.531,
+      "duration": 1.6949999999999363,
+      "dialogue_text": "Rustig."
+    },
+    {
+      "subtitle_index": 340,
+      "start_time": 2040.638,
+      "end_time": 2041.662,
+      "duration": 1.0240000000001146,
+      "dialogue_text": "Ik ruim de as op."
+    },
+    {
+      "subtitle_index": 341,
+      "start_time": 2041.773,
+      "end_time": 2043.707,
+      "duration": 1.9340000000001965,
+      "dialogue_text": "Ik ben niet oké."
+    },
+    {
+      "subtitle_index": 342,
+      "start_time": 2043.808,
+      "end_time": 2045.537,
+      "duration": 1.7290000000000418,
+      "dialogue_text": "Ik ga uit."
+    },
+    {
+      "subtitle_index": 343,
+      "start_time": 2046.844,
+      "end_time": 2048.038,
+      "duration": 1.19399999999996,
+      "dialogue_text": "Help."
+    },
+    {
+      "subtitle_index": 344,
+      "start_time": 2052.683,
+      "end_time": 2055.709,
+      "duration": 3.02599999999984,
+      "dialogue_text": "Alsjeblieft, ik val."
+    },
+    {
+      "subtitle_index": 345,
+      "start_time": 2059.826,
+      "end_time": 2061.953,
+      "duration": 2.1269999999999527,
+      "dialogue_text": "Snel, Sophie."
+    },
+    {
+      "subtitle_index": 346,
+      "start_time": 2086.15,
+      "end_time": 2089.142,
+      "duration": 2.9919999999997344,
+      "dialogue_text": "Ik stel het op prijs als je mijn vriend niet zou kwellen."
+    },
+    {
+      "subtitle_index": 347,
+      "start_time": 2094.325,
+      "end_time": 2096.691,
+      "duration": 2.3659999999999854,
+      "dialogue_text": "Meester Howl, gaat u naar buiten?"
+    },
+    {
+      "subtitle_index": 348,
+      "start_time": 2099.063,
+      "end_time": 2103.659,
+      "duration": 4.596000000000004,
+      "dialogue_text": "Markl, pas erop dat de werkster zich niet teveel laat meeslepen."
+    },
+    {
+      "subtitle_index": 349,
+      "start_time": 2108.473,
+      "end_time": 2110.338,
+      "duration": 1.8650000000002365,
+      "dialogue_text": "Sophie, wat heb je nu weer gedaan?"
+    },
+    {
+      "subtitle_index": 350,
+      "start_time": 2111.242,
+      "end_time": 2112.834,
+      "duration": 1.5919999999996435,
+      "dialogue_text": "Ze verstikte me bijna."
+    },
+    {
+      "subtitle_index": 351,
+      "start_time": 2113.311,
+      "end_time": 2116.144,
+      "duration": 2.832999999999629,
+      "dialogue_text": "Als ik sterf, sterft Howl ook hoor. Geloof ik."
+    },
+    {
+      "subtitle_index": 352,
+      "start_time": 2116.247,
+      "end_time": 2117.737,
+      "duration": 1.4900000000002365,
+      "dialogue_text": "Wees toch stil, je bent oké."
+    },
+    {
+      "subtitle_index": 353,
+      "start_time": 2117.849,
+      "end_time": 2120.113,
+      "duration": 2.263999999999669,
+      "dialogue_text": "Nou laat me met rust, ik heb werk te doen."
+    },
+    {
+      "subtitle_index": 354,
+      "start_time": 2121.519,
+      "end_time": 2124.147,
+      "duration": 2.6280000000001564,
+      "dialogue_text": "Wacht, hier mag je niet komen."
+    },
+    {
+      "subtitle_index": 355,
+      "start_time": 2124.655,
+      "end_time": 2127.647,
+      "duration": 2.9919999999997344,
+      "dialogue_text": "Wat je niet wilt dat ik schoonmaak, moet je nu snel verstoppen."
+    },
+    {
+      "subtitle_index": 356,
+      "start_time": 2128.826,
+      "end_time": 2130.691,
+      "duration": 1.8649999999997817,
+      "dialogue_text": "Doe mijn kamer als laatste oké?"
+    },
+    {
+      "subtitle_index": 357,
+      "start_time": 2133.798,
+      "end_time": 2137.029,
+      "duration": 3.231000000000222,
+      "dialogue_text": "Deze uitbarstingen geven me weer energie."
+    },
+    {
+      "subtitle_index": 358,
+      "start_time": 2140.605,
+      "end_time": 2142.903,
+      "duration": 2.2979999999997744,
+      "dialogue_text": "Wat een rommel."
+    },
+    {
+      "subtitle_index": 359,
+      "start_time": 2179.51,
+      "end_time": 2181.034,
+      "duration": 1.5239999999998872,
+      "dialogue_text": "Fantastisch."
+    },
+    {
+      "subtitle_index": 360,
+      "start_time": 2181.145,
+      "end_time": 2183.409,
+      "duration": 2.2640000000001237,
+      "dialogue_text": "Calcifer?"
+    },
+    {
+      "subtitle_index": 361,
+      "start_time": 2183.514,
+      "end_time": 2185.641,
+      "duration": 2.1269999999999527,
+      "dialogue_text": "Verplaats jij het kasteel?"
+    },
+    {
+      "subtitle_index": 362,
+      "start_time": 2185.75,
+      "end_time": 2188.275,
+      "duration": 2.525000000000091,
+      "dialogue_text": "Natuurlijk, ik ben de enige die hier werkt."
+    },
+    {
+      "subtitle_index": 363,
+      "start_time": 2188.386,
+      "end_time": 2189.91,
+      "duration": 1.5239999999998872,
+      "dialogue_text": "Ik ben onder de indruk, Calcifer."
+    },
+    {
+      "subtitle_index": 364,
+      "start_time": 2190.354,
+      "end_time": 2193.448,
+      "duration": 3.094000000000051,
+      "dialogue_text": "Je bent een eersteklas vuurdemon. Je hebt pit."
+    },
+    {
+      "subtitle_index": 365,
+      "start_time": 2196.06,
+      "end_time": 2197.618,
+      "duration": 1.5579999999999927,
+      "dialogue_text": "Echt?"
+    },
+    {
+      "subtitle_index": 366,
+      "start_time": 2197.728,
+      "end_time": 2199.787,
+      "duration": 2.0589999999997417,
+      "dialogue_text": "Ze vind me geweldig!"
+    },
+    {
+      "subtitle_index": 367,
+      "start_time": 2206.137,
+      "end_time": 2208.196,
+      "duration": 2.0589999999997417,
+      "dialogue_text": "Nee nog niet!"
+    },
+    {
+      "subtitle_index": 368,
+      "start_time": 2240.605,
+      "end_time": 2241.902,
+      "duration": 1.2970000000000255,
+      "dialogue_text": "Het is prachtig."
+    },
+    {
+      "subtitle_index": 369,
+      "start_time": 2242.073,
+      "end_time": 2244.2,
+      "duration": 2.1269999999999527,
+      "dialogue_text": "Ja, dat is het sterren meer."
+    },
+    {
+      "subtitle_index": 370,
+      "start_time": 2249.247,
+      "end_time": 2251.147,
+      "duration": 1.900000000000091,
+      "dialogue_text": "Hé, wat doet die stok daar?"
+    },
+    {
+      "subtitle_index": 371,
+      "start_time": 2251.249,
+      "end_time": 2253.649,
+      "duration": 2.400000000000091,
+      "dialogue_text": "Help me, Markl."
+    },
+    {
+      "subtitle_index": 372,
+      "start_time": 2262.326,
+      "end_time": 2263.85,
+      "duration": 1.5239999999998872,
+      "dialogue_text": "Een vogelverschrikker."
+    },
+    {
+      "subtitle_index": 373,
+      "start_time": 2263.961,
+      "end_time": 2265.929,
+      "duration": 1.968000000000302,
+      "dialogue_text": "Ja, ik noem hem Raap-hoofd."
+    },
+    {
+      "subtitle_index": 374,
+      "start_time": 2266.13,
+      "end_time": 2268.997,
+      "duration": 2.8669999999997344,
+      "dialogue_text": "Hij raakt altijd ondersteboven."
+    },
+    {
+      "subtitle_index": 375,
+      "start_time": 2277.975,
+      "end_time": 2280.307,
+      "duration": 2.33199999999988,
+      "dialogue_text": "Hij volgt me overal."
+    },
+    {
+      "subtitle_index": 376,
+      "start_time": 2280.411,
+      "end_time": 2282.345,
+      "duration": 1.9339999999997417,
+      "dialogue_text": "Hij schijnt me te mogen."
+    },
+    {
+      "subtitle_index": 377,
+      "start_time": 2282.446,
+      "end_time": 2284.71,
+      "duration": 2.2640000000001237,
+      "dialogue_text": "Da's raar, ben je echt geen heks, Sophie?"
+    },
+    {
+      "subtitle_index": 378,
+      "start_time": 2284.815,
+      "end_time": 2288.478,
+      "duration": 3.663000000000011,
+      "dialogue_text": "De ergste soort die er is, een schoonmakende heks."
+    },
+    {
+      "subtitle_index": 379,
+      "start_time": 2317.715,
+      "end_time": 2320.582,
+      "duration": 2.8669999999997344,
+      "dialogue_text": "Trek niet zo hard Raap-hoofd."
+    },
+    {
+      "subtitle_index": 380,
+      "start_time": 2329.694,
+      "end_time": 2332.254,
+      "duration": 2.5599999999999454,
+      "dialogue_text": "Hij vindt het leuk om de was te doen."
+    },
+    {
+      "subtitle_index": 381,
+      "start_time": 2332.363,
+      "end_time": 2334.661,
+      "duration": 2.298000000000229,
+      "dialogue_text": "Hij heeft het zo droog."
+    },
+    {
+      "subtitle_index": 382,
+      "start_time": 2337.101,
+      "end_time": 2339.467,
+      "duration": 2.3659999999999854,
+      "dialogue_text": "Hij is vast een demon,"
+    },
+    {
+      "subtitle_index": 383,
+      "start_time": 2339.57,
+      "end_time": 2341.265,
+      "duration": 1.694999999999709,
+      "dialogue_text": "maar Calcifer vindt het niet erg."
+    },
+    {
+      "subtitle_index": 384,
+      "start_time": 2341.372,
+      "end_time": 2344.364,
+      "duration": 2.992000000000189,
+      "dialogue_text": "Je hebt gelijk, hij is vast een demon."
+    },
+    {
+      "subtitle_index": 385,
+      "start_time": 2345.543,
+      "end_time": 2349.138,
+      "duration": 3.5949999999998,
+      "dialogue_text": "Maar hij leidde me hier, dus misschien is hij van het goede soort."
+    },
+    {
+      "subtitle_index": 386,
+      "start_time": 2391.489,
+      "end_time": 2394.287,
+      "duration": 2.7979999999997744,
+      "dialogue_text": "We hebben alle was binnen gehaald, Sophie."
+    },
+    {
+      "subtitle_index": 387,
+      "start_time": 2394.458,
+      "end_time": 2397.894,
+      "duration": 3.4359999999996944,
+      "dialogue_text": "Bedankt Markl, als je oud bent wil je naar het natuurschoon kijken."
+    },
+    {
+      "subtitle_index": 388,
+      "start_time": 2398.129,
+      "end_time": 2400.029,
+      "duration": 1.900000000000091,
+      "dialogue_text": "Wat raar."
+    },
+    {
+      "subtitle_index": 389,
+      "start_time": 2400.131,
+      "end_time": 2403.567,
+      "duration": 3.436000000000149,
+      "dialogue_text": "Ik heb me nog nooit zo tevreden gevoeld."
+    },
+    {
+      "subtitle_index": 390,
+      "start_time": 2481.246,
+      "end_time": 2483.44,
+      "duration": 2.19399999999996,
+      "dialogue_text": "Gaat het?"
+    },
+    {
+      "subtitle_index": 391,
+      "start_time": 2483.647,
+      "end_time": 2486.309,
+      "duration": 2.662000000000262,
+      "dialogue_text": "Je ruikt naar gebrand vlees en staal."
+    },
+    {
+      "subtitle_index": 392,
+      "start_time": 2503.97,
+      "end_time": 2509.064,
+      "duration": 5.094000000000051,
+      "dialogue_text": "Als je zo door blijft vliegen kun je straks niet meer terug veranderen."
+    },
+    {
+      "subtitle_index": 393,
+      "start_time": 2513.577,
+      "end_time": 2516.171,
+      "duration": 2.593999999999596,
+      "dialogue_text": "Is het niet fantastisch? Sophie heeft ze hier voor me neergelegd."
+    },
+    {
+      "subtitle_index": 394,
+      "start_time": 2519.316,
+      "end_time": 2521.147,
+      "duration": 1.831000000000131,
+      "dialogue_text": "Wat een afschuwelijke oorlog."
+    },
+    {
+      "subtitle_index": 395,
+      "start_time": 2521.252,
+      "end_time": 2524.949,
+      "duration": 3.6970000000001164,
+      "dialogue_text": "Het hele land staat in brand van de zuidelijke kust tot de noordelijke grens."
+    },
+    {
+      "subtitle_index": 396,
+      "start_time": 2525.489,
+      "end_time": 2527.753,
+      "duration": 2.2640000000001237,
+      "dialogue_text": "Ik haat buskruit vuur."
+    },
+    {
+      "subtitle_index": 397,
+      "start_time": 2527.858,
+      "end_time": 2530.554,
+      "duration": 2.6959999999999127,
+      "dialogue_text": "Die sufferds hebben geen manieren."
+    },
+    {
+      "subtitle_index": 398,
+      "start_time": 2531.695,
+      "end_time": 2533.162,
+      "duration": 1.4669999999996435,
+      "dialogue_text": "Mijn eigen soort heeft me vandaag aangevallen."
+    },
+    {
+      "subtitle_index": 399,
+      "start_time": 2533.264,
+      "end_time": 2534.731,
+      "duration": 1.4670000000000982,
+      "dialogue_text": "Wie? De heks van de wildernis?"
+    },
+    {
+      "subtitle_index": 400,
+      "start_time": 2534.832,
+      "end_time": 2538.29,
+      "duration": 3.4580000000000837,
+      "dialogue_text": "Nee, tovenaars die zich voor de koning in monsters hadden veranderd."
+    },
+    {
+      "subtitle_index": 401,
+      "start_time": 2538.869,
+      "end_time": 2541.861,
+      "duration": 2.9919999999997344,
+      "dialogue_text": "Daar zullen ze spijt van krijgen."
+    },
+    {
+      "subtitle_index": 402,
+      "start_time": 2541.972,
+      "end_time": 2544.133,
+      "duration": 2.1609999999996035,
+      "dialogue_text": "Ze zullen nooit meer hun menselijke vorm terug kunnen krijgen."
+    },
+    {
+      "subtitle_index": 403,
+      "start_time": 2544.642,
+      "end_time": 2547.805,
+      "duration": 3.163000000000011,
+      "dialogue_text": "Nee, ze zullen zelfs niet meer herinneren dat ze menselijk waren."
+    },
+    {
+      "subtitle_index": 404,
+      "start_time": 2547.912,
+      "end_time": 2550.574,
+      "duration": 2.662000000000262,
+      "dialogue_text": "Moest jij je ook niet bij de koning melden?"
+    },
+    {
+      "subtitle_index": 405,
+      "start_time": 2550.681,
+      "end_time": 2552.012,
+      "duration": 1.331000000000131,
+      "dialogue_text": "Ik ben moe."
+    },
+    {
+      "subtitle_index": 406,
+      "start_time": 2552.116,
+      "end_time": 2553.674,
+      "duration": 1.5579999999999927,
+      "dialogue_text": "Maak heet water voor mijn bad."
+    },
+    {
+      "subtitle_index": 407,
+      "start_time": 2553.784,
+      "end_time": 2555.615,
+      "duration": 1.8309999999996762,
+      "dialogue_text": "Wat? Toch niet weer?"
+    },
+    {
+      "subtitle_index": 408,
+      "start_time": 2588.652,
+      "end_time": 2589.88,
+      "duration": 1.2280000000000655,
+      "dialogue_text": "Is Howl terug?"
+    },
+    {
+      "subtitle_index": 409,
+      "start_time": 2589.987,
+      "end_time": 2592.285,
+      "duration": 2.2979999999997744,
+      "dialogue_text": "Ja, hij verspilt al mijn heet water weer eens."
+    },
+    {
+      "subtitle_index": 410,
+      "start_time": 2597.895,
+      "end_time": 2600.523,
+      "duration": 2.6280000000001564,
+      "dialogue_text": "Waarom doen we dit? Meester Howl eet bijna nooit iets."
+    },
+    {
+      "subtitle_index": 411,
+      "start_time": 2600.631,
+      "end_time": 2601.655,
+      "duration": 1.024000000000342,
+      "dialogue_text": "Jammer dan."
+    },
+    {
+      "subtitle_index": 412,
+      "start_time": 2601.765,
+      "end_time": 2603.357,
+      "duration": 1.5920000000000982,
+      "dialogue_text": "Goedemorgen."
+    },
+    {
+      "subtitle_index": 413,
+      "start_time": 2606.437,
+      "end_time": 2608.428,
+      "duration": 1.9909999999999854,
+      "dialogue_text": "Ik houd zo van winkelen, 's ochtends."
+    },
+    {
+      "subtitle_index": 414,
+      "start_time": 2608.539,
+      "end_time": 2610.439,
+      "duration": 1.8999999999996362,
+      "dialogue_text": "Ik heb nog nooit de oceaan gezien."
+    },
+    {
+      "subtitle_index": 415,
+      "start_time": 2611.275,
+      "end_time": 2613.14,
+      "duration": 1.8649999999997817,
+      "dialogue_text": "Het is prachtig."
+    },
+    {
+      "subtitle_index": 416,
+      "start_time": 2613.243,
+      "end_time": 2615.268,
+      "duration": 2.025000000000091,
+      "dialogue_text": "Zo ziet het er altijd uit."
+    },
+    {
+      "subtitle_index": 417,
+      "start_time": 2624.588,
+      "end_time": 2626.488,
+      "duration": 1.8999999999996362,
+      "dialogue_text": "Ik haat aardappels."
+    },
+    {
+      "subtitle_index": 418,
+      "start_time": 2626.59,
+      "end_time": 2627.716,
+      "duration": 1.125999999999749,
+      "dialogue_text": "Betalen."
+    },
+    {
+      "subtitle_index": 419,
+      "start_time": 2627.825,
+      "end_time": 2629.224,
+      "duration": 1.399000000000342,
+      "dialogue_text": "Prettige dag verder."
+    },
+    {
+      "subtitle_index": 420,
+      "start_time": 2629.526,
+      "end_time": 2630.458,
+      "duration": 0.9320000000002437,
+      "dialogue_text": "Bedankt."
+    },
+    {
+      "subtitle_index": 421,
+      "start_time": 2632.329,
+      "end_time": 2634.82,
+      "duration": 2.4909999999999854,
+      "dialogue_text": "Alle vis is vanochtend gevangen."
+    },
+    {
+      "subtitle_index": 422,
+      "start_time": 2636.266,
+      "end_time": 2638.734,
+      "duration": 2.467999999999847,
+      "dialogue_text": "Ik haat vis"
+    },
+    {
+      "subtitle_index": 423,
+      "start_time": 2639.003,
+      "end_time": 2641.096,
+      "duration": 2.092999999999847,
+      "dialogue_text": "De floot is terug."
+    },
+    {
+      "subtitle_index": 424,
+      "start_time": 2641.205,
+      "end_time": 2642.194,
+      "duration": 0.9890000000000327,
+      "dialogue_text": "Rook?"
+    },
+    {
+      "subtitle_index": 425,
+      "start_time": 2642.306,
+      "end_time": 2644.137,
+      "duration": 1.831000000000131,
+      "dialogue_text": "Lijkt op een groot gevecht."
+    },
+    {
+      "subtitle_index": 426,
+      "start_time": 2644.274,
+      "end_time": 2646.242,
+      "duration": 1.968000000000302,
+      "dialogue_text": "Wat is er gebeurd? We zijn gesloten."
+    },
+    {
+      "subtitle_index": 427,
+      "start_time": 2646.343,
+      "end_time": 2647.97,
+      "duration": 1.6269999999999527,
+      "dialogue_text": "Het schip zinkt."
+    },
+    {
+      "subtitle_index": 428,
+      "start_time": 2671.335,
+      "end_time": 2673.303,
+      "duration": 1.9679999999998472,
+      "dialogue_text": "Kom op Sophie, laten we het van dichterbij bekijken."
+    },
+    {
+      "subtitle_index": 429,
+      "start_time": 2673.404,
+      "end_time": 2676.464,
+      "duration": 3.0599999999999454,
+      "dialogue_text": "Nee, ik heb genoeg gezien. Laten we naar huis gaan."
+    },
+    {
+      "subtitle_index": 430,
+      "start_time": 2677.241,
+      "end_time": 2679.869,
+      "duration": 2.6280000000001564,
+      "dialogue_text": "Niet te geloven, ons modernste slagschip."
+    },
+    {
+      "subtitle_index": 431,
+      "start_time": 2684.581,
+      "end_time": 2686.776,
+      "duration": 2.194999999999709,
+      "dialogue_text": "De helpers van de heks!"
+    },
+    {
+      "subtitle_index": 432,
+      "start_time": 2687.017,
+      "end_time": 2688.507,
+      "duration": 1.4900000000002365,
+      "dialogue_text": "Stil."
+    },
+    {
+      "subtitle_index": 433,
+      "start_time": 2688.719,
+      "end_time": 2690.846,
+      "duration": 2.1269999999999527,
+      "dialogue_text": "Heel dichtbij."
+    },
+    {
+      "subtitle_index": 434,
+      "start_time": 2696.76,
+      "end_time": 2697.92,
+      "duration": 1.1599999999998545,
+      "dialogue_text": "Hij is weg."
+    },
+    {
+      "subtitle_index": 435,
+      "start_time": 2698.028,
+      "end_time": 2700.36,
+      "duration": 2.3320000000003347,
+      "dialogue_text": "Waarom ziet niemand anders ze?"
+    },
+    {
+      "subtitle_index": 436,
+      "start_time": 2706.17,
+      "end_time": 2707.967,
+      "duration": 1.7970000000000255,
+      "dialogue_text": "Kijk daar zijn ze!"
+    },
+    {
+      "subtitle_index": 437,
+      "start_time": 2708.238,
+      "end_time": 2709.933,
+      "duration": 1.6950000000001637,
+      "dialogue_text": "Dat vliegtuig strooit bommen!"
+    },
+    {
+      "subtitle_index": 438,
+      "start_time": 2710.04,
+      "end_time": 2712.031,
+      "duration": 1.9909999999999854,
+      "dialogue_text": "Kijk daar Sophie, een vijandig luchtschip."
+    },
+    {
+      "subtitle_index": 439,
+      "start_time": 2717.915,
+      "end_time": 2719.815,
+      "duration": 1.900000000000091,
+      "dialogue_text": "Sophie, wacht."
+    },
+    {
+      "subtitle_index": 440,
+      "start_time": 2720.15,
+      "end_time": 2723.142,
+      "duration": 2.9919999999997344,
+      "dialogue_text": "Negeer de pamfletten Dat is vijandelijke propaganda."
+    },
+    {
+      "subtitle_index": 441,
+      "start_time": 2727.991,
+      "end_time": 2729.393,
+      "duration": 1.4020000000000437,
+      "dialogue_text": "Sophie, alles goed?"
+    },
+    {
+      "subtitle_index": 442,
+      "start_time": 2735.933,
+      "end_time": 2737.696,
+      "duration": 1.76299999999992,
+      "dialogue_text": "Ik heb een glas water nodig."
+    },
+    {
+      "subtitle_index": 443,
+      "start_time": 2737.801,
+      "end_time": 2738.859,
+      "duration": 1.0579999999999927,
+      "dialogue_text": "Laat mij maar."
+    },
+    {
+      "subtitle_index": 444,
+      "start_time": 2754.685,
+      "end_time": 2757.518,
+      "duration": 2.8330000000000837,
+      "dialogue_text": "Sophie, je hebt me gesaboteerd."
+    },
+    {
+      "subtitle_index": 445,
+      "start_time": 2758.689,
+      "end_time": 2760.589,
+      "duration": 1.900000000000091,
+      "dialogue_text": "Kijk wat je met mijn haar gedaan hebt."
+    },
+    {
+      "subtitle_index": 446,
+      "start_time": 2760.691,
+      "end_time": 2762.556,
+      "duration": 1.8650000000002365,
+      "dialogue_text": "Wat een mooie kleur."
+    },
+    {
+      "subtitle_index": 447,
+      "start_time": 2762.659,
+      "end_time": 2763.751,
+      "duration": 1.0920000000000982,
+      "dialogue_text": "Het is afschuwelijk!"
+    },
+    {
+      "subtitle_index": 448,
+      "start_time": 2764.228,
+      "end_time": 2767.356,
+      "duration": 3.1280000000001564,
+      "dialogue_text": "Je hebt alle drankjes in de badkamer door elkaar gehaald."
+    },
+    {
+      "subtitle_index": 449,
+      "start_time": 2768.665,
+      "end_time": 2771.133,
+      "duration": 2.467999999999847,
+      "dialogue_text": "Ik heb de boel alleen wat opgeruimd hoor."
+    },
+    {
+      "subtitle_index": 450,
+      "start_time": 2771.535,
+      "end_time": 2773.093,
+      "duration": 1.5579999999999927,
+      "dialogue_text": "Fout, fout."
+    },
+    {
+      "subtitle_index": 451,
+      "start_time": 2773.203,
+      "end_time": 2776.832,
+      "duration": 3.6289999999999054,
+      "dialogue_text": "Ik vroeg je toch je niet te laten meeslepen."
+    },
+    {
+      "subtitle_index": 452,
+      "start_time": 2776.974,
+      "end_time": 2778.373,
+      "duration": 1.3989999999998872,
+      "dialogue_text": "Nu ben ik walgelijk."
+    },
+    {
+      "subtitle_index": 453,
+      "start_time": 2779.376,
+      "end_time": 2782.004,
+      "duration": 2.6279999999997017,
+      "dialogue_text": "Zo kan ik niet leven."
+    },
+    {
+      "subtitle_index": 454,
+      "start_time": 2783.714,
+      "end_time": 2785.272,
+      "duration": 1.5579999999999927,
+      "dialogue_text": "Zo erg is het toch niet?"
+    },
+    {
+      "subtitle_index": 455,
+      "start_time": 2793.39,
+      "end_time": 2796.052,
+      "duration": 2.662000000000262,
+      "dialogue_text": "Kijk nu, deze kleur is nog beter."
+    },
+    {
+      "subtitle_index": 456,
+      "start_time": 2796.693,
+      "end_time": 2801.062,
+      "duration": 4.368999999999687,
+      "dialogue_text": "Wat heeft het leven voor zin als ik niet mooi meer ben?"
+    },
+    {
+      "subtitle_index": 457,
+      "start_time": 2812.843,
+      "end_time": 2815.471,
+      "duration": 2.6280000000001564,
+      "dialogue_text": "Howl, hou daar me op."
+    },
+    {
+      "subtitle_index": 458,
+      "start_time": 2815.979,
+      "end_time": 2817.844,
+      "duration": 1.8650000000002365,
+      "dialogue_text": "Hij roept duistere geesten op."
+    },
+    {
+      "subtitle_index": 459,
+      "start_time": 2817.948,
+      "end_time": 2821.008,
+      "duration": 3.0599999999999454,
+      "dialogue_text": "Dat deed hij ook toen een meisje het uitmaakte."
+    },
+    {
+      "subtitle_index": 460,
+      "start_time": 2824.321,
+      "end_time": 2826.414,
+      "duration": 2.093000000000302,
+      "dialogue_text": "Howl, er is niets aan de hand."
+    },
+    {
+      "subtitle_index": 461,
+      "start_time": 2827.124,
+      "end_time": 2830.355,
+      "duration": 3.231000000000222,
+      "dialogue_text": "We verven je haar gewoon weer terug."
+    },
+    {
+      "subtitle_index": 462,
+      "start_time": 2840.671,
+      "end_time": 2843.265,
+      "duration": 2.594000000000051,
+      "dialogue_text": "Je denk dat jij het zo slecht hebt."
+    },
+    {
+      "subtitle_index": 463,
+      "start_time": 2843.373,
+      "end_time": 2846.365,
+      "duration": 2.9919999999997344,
+      "dialogue_text": "Ik ben nooit mooi geweest."
+    },
+    {
+      "subtitle_index": 464,
+      "start_time": 2848.145,
+      "end_time": 2849.942,
+      "duration": 1.7970000000000255,
+      "dialogue_text": "Ik heb hier genoeg van."
+    },
+    {
+      "subtitle_index": 465,
+      "start_time": 2889.586,
+      "end_time": 2893.044,
+      "duration": 3.4580000000000837,
+      "dialogue_text": "Bedankt, Raap-hoofd. Waarom ben je zo aardig?"
+    },
+    {
+      "subtitle_index": 466,
+      "start_time": 2893.156,
+      "end_time": 2896.091,
+      "duration": 2.9349999999999454,
+      "dialogue_text": "Kom alsjeblieft weer naar binnen, Sophie. We hebben je hulp nodig. Howl heeft het moeilijk."
+    },
+    {
+      "subtitle_index": 467,
+      "start_time": 2896.627,
+      "end_time": 2899.653,
+      "duration": 3.02599999999984,
+      "dialogue_text": "Houd op, Howl. Ik verdrink bijna."
+    },
+    {
+      "subtitle_index": 468,
+      "start_time": 2900.397,
+      "end_time": 2902.092,
+      "duration": 1.6950000000001637,
+      "dialogue_text": "Sophie."
+    },
+    {
+      "subtitle_index": 469,
+      "start_time": 2903.2,
+      "end_time": 2904.531,
+      "duration": 1.331000000000131,
+      "dialogue_text": "Doe iets."
+    },
+    {
+      "subtitle_index": 470,
+      "start_time": 2906.77,
+      "end_time": 2907.964,
+      "duration": 1.19399999999996,
+      "dialogue_text": "Wat een drama."
+    },
+    {
+      "subtitle_index": 471,
+      "start_time": 2908.071,
+      "end_time": 2909.299,
+      "duration": 1.2280000000000655,
+      "dialogue_text": "Is hij dood?"
+    },
+    {
+      "subtitle_index": 472,
+      "start_time": 2909.406,
+      "end_time": 2912.569,
+      "duration": 3.163000000000011,
+      "dialogue_text": "Niets aan de hand. Hij heeft gewoon een slechte bui."
+    },
+    {
+      "subtitle_index": 473,
+      "start_time": 2912.676,
+      "end_time": 2914.371,
+      "duration": 1.6950000000001637,
+      "dialogue_text": "Help me een handje."
+    },
+    {
+      "subtitle_index": 474,
+      "start_time": 2918.615,
+      "end_time": 2920.879,
+      "duration": 2.2640000000001237,
+      "dialogue_text": "Open de hete kraan."
+    },
+    {
+      "subtitle_index": 475,
+      "start_time": 2921.285,
+      "end_time": 2924.015,
+      "duration": 2.730000000000018,
+      "dialogue_text": "Kom op, je kunt toch nog wel lopen."
+    },
+    {
+      "subtitle_index": 476,
+      "start_time": 2935.399,
+      "end_time": 2937.367,
+      "duration": 1.968000000000302,
+      "dialogue_text": "Knap hem op, Markl."
+    },
+    {
+      "subtitle_index": 477,
+      "start_time": 2937.467,
+      "end_time": 2938.593,
+      "duration": 1.125999999999749,
+      "dialogue_text": "Zal ik doen."
+    },
+    {
+      "subtitle_index": 478,
+      "start_time": 2940.07,
+      "end_time": 2942.163,
+      "duration": 2.092999999999847,
+      "dialogue_text": "Nu kan ik weer zwabberen."
+    },
+    {
+      "subtitle_index": 479,
+      "start_time": 2965.329,
+      "end_time": 2966.956,
+      "duration": 1.6269999999999527,
+      "dialogue_text": "Ik kom binnen hoor."
+    },
+    {
+      "subtitle_index": 480,
+      "start_time": 2975.072,
+      "end_time": 2977.939,
+      "duration": 2.8669999999997344,
+      "dialogue_text": "Ik heb warme melk voor je. Wil je een slok?"
+    },
+    {
+      "subtitle_index": 481,
+      "start_time": 2981.111,
+      "end_time": 2984.911,
+      "duration": 3.800000000000182,
+      "dialogue_text": "Ik zet het hier neer. Probeer het op te drinken voordat het koud wordt."
+    },
+    {
+      "subtitle_index": 482,
+      "start_time": 2988.585,
+      "end_time": 2990.416,
+      "duration": 1.831000000000131,
+      "dialogue_text": "Sophie, wacht."
+    },
+    {
+      "subtitle_index": 483,
+      "start_time": 2998.428,
+      "end_time": 3000.089,
+      "duration": 1.6610000000000582,
+      "dialogue_text": "Wil je wat melk?"
+    },
+    {
+      "subtitle_index": 484,
+      "start_time": 3010.407,
+      "end_time": 3013.274,
+      "duration": 2.8669999999997344,
+      "dialogue_text": "De heks van de wildernis probeert mijn kasteel te vinden."
+    },
+    {
+      "subtitle_index": 485,
+      "start_time": 3014.578,
+      "end_time": 3018.036,
+      "duration": 3.4580000000000837,
+      "dialogue_text": "Ik zag haar helpers in de haven."
+    },
+    {
+      "subtitle_index": 486,
+      "start_time": 3018.749,
+      "end_time": 3021.274,
+      "duration": 2.525000000000091,
+      "dialogue_text": "Ik ben een lafaard."
+    },
+    {
+      "subtitle_index": 487,
+      "start_time": 3021.385,
+      "end_time": 3024.98,
+      "duration": 3.5949999999998,
+      "dialogue_text": "Met al deze magische rotzooi probeer ik iedereen weg te houden."
+    },
+    {
+      "subtitle_index": 488,
+      "start_time": 3025.088,
+      "end_time": 3026.783,
+      "duration": 1.694999999999709,
+      "dialogue_text": "Ik haat dat ik zo bang ben."
+    },
+    {
+      "subtitle_index": 489,
+      "start_time": 3028.458,
+      "end_time": 3031.791,
+      "duration": 3.3330000000000837,
+      "dialogue_text": "Howl, waarom probeert de heks je op te sporen?"
+    },
+    {
+      "subtitle_index": 490,
+      "start_time": 3032.562,
+      "end_time": 3036.692,
+      "duration": 4.130000000000109,
+      "dialogue_text": "Ze was eens zeer knap en ik zat achter haar aan."
+    },
+    {
+      "subtitle_index": 491,
+      "start_time": 3036.8,
+      "end_time": 3040.292,
+      "duration": 3.4919999999997344,
+      "dialogue_text": "Toen ik er achter kwam dat dat niet zo was, vluchtte ik weg."
+    },
+    {
+      "subtitle_index": 492,
+      "start_time": 3043.34,
+      "end_time": 3046.503,
+      "duration": 3.163000000000011,
+      "dialogue_text": "Ik kan niet langer vluchten Ik moet me melden bij het paleis."
+    },
+    {
+      "subtitle_index": 493,
+      "start_time": 3046.61,
+      "end_time": 3049.135,
+      "duration": 2.525000000000091,
+      "dialogue_text": "Als zowel Pendragon als Jenkins."
+    },
+    {
+      "subtitle_index": 494,
+      "start_time": 3049.246,
+      "end_time": 3051.714,
+      "duration": 2.467999999999847,
+      "dialogue_text": "Hoeveel namen heb je eigenlijk?"
+    },
+    {
+      "subtitle_index": 495,
+      "start_time": 3051.815,
+      "end_time": 3054.249,
+      "duration": 2.4339999999997417,
+      "dialogue_text": "Zoveel als ik nodig heb om vrij te zijn."
+    },
+    {
+      "subtitle_index": 496,
+      "start_time": 3055.485,
+      "end_time": 3057.851,
+      "duration": 2.3659999999999854,
+      "dialogue_text": "Waarom weiger je de uitnodiging niet?"
+    },
+    {
+      "subtitle_index": 497,
+      "start_time": 3057.954,
+      "end_time": 3059.148,
+      "duration": 1.19399999999996,
+      "dialogue_text": "Zie je dat daar?"
+    },
+    {
+      "subtitle_index": 498,
+      "start_time": 3059.323,
+      "end_time": 3063.884,
+      "duration": 4.561000000000149,
+      "dialogue_text": "Dat is de eed die ik aflegde toen ik me inschreef bij de koninklijke tovenaars academie."
+    },
+    {
+      "subtitle_index": 499,
+      "start_time": 3066.163,
+      "end_time": 3068.757,
+      "duration": 2.594000000000051,
+      "dialogue_text": "Weet je Howl, Ik denk dat je naar de koning toe moet."
+    },
+    {
+      "subtitle_index": 500,
+      "start_time": 3069.099,
+      "end_time": 3070.464,
+      "duration": 1.3649999999997817,
+      "dialogue_text": "Wat?"
+    },
+    {
+      "subtitle_index": 501,
+      "start_time": 3071.168,
+      "end_time": 3072.692,
+      "duration": 1.5239999999998872,
+      "dialogue_text": "Zeg hem wat je denkt."
+    },
+    {
+      "subtitle_index": 502,
+      "start_time": 3072.803,
+      "end_time": 3076.637,
+      "duration": 3.8340000000002874,
+      "dialogue_text": "Dat de oorlog zinloos is en dat je weigert mee te doen."
+    },
+    {
+      "subtitle_index": 503,
+      "start_time": 3079.009,
+      "end_time": 3081.5,
+      "duration": 2.4909999999999854,
+      "dialogue_text": "Het is duidelijk dat je deze mensen niet kent."
+    },
+    {
+      "subtitle_index": 504,
+      "start_time": 3082.245,
+      "end_time": 3087.148,
+      "duration": 4.903000000000247,
+      "dialogue_text": "Maar hij is de koning, hij zou naar zijn onderdanen moeten luisteren."
+    },
+    {
+      "subtitle_index": 505,
+      "start_time": 3087.784,
+      "end_time": 3089.012,
+      "duration": 1.2280000000000655,
+      "dialogue_text": "Ik heb het."
+    },
+    {
+      "subtitle_index": 506,
+      "start_time": 3089.219,
+      "end_time": 3091.414,
+      "duration": 2.1950000000001637,
+      "dialogue_text": "Waarom ga jij niet naar het paleis."
+    },
+    {
+      "subtitle_index": 507,
+      "start_time": 3093.423,
+      "end_time": 3096.017,
+      "duration": 2.594000000000051,
+      "dialogue_text": "Zeg gewoon dat je Pendragons moeder bent."
+    },
+    {
+      "subtitle_index": 508,
+      "start_time": 3096.159,
+      "end_time": 3099.458,
+      "duration": 3.298999999999978,
+      "dialogue_text": "Dat je zoon zo'n laffe tovenaar is dat hij zijn gezicht niet durft te laten zien."
+    },
+    {
+      "subtitle_index": 509,
+      "start_time": 3100.03,
+      "end_time": 3102.464,
+      "duration": 2.4339999999997417,
+      "dialogue_text": "Misschien zal mevrouw Suliman dan de hoop opgeven."
+    },
+    {
+      "subtitle_index": 510,
+      "start_time": 3102.966,
+      "end_time": 3104.831,
+      "duration": 1.8650000000002365,
+      "dialogue_text": "Wie is mevrouw Suliman?"
+    },
+    {
+      "subtitle_index": 511,
+      "start_time": 3108.171,
+      "end_time": 3109.968,
+      "duration": 1.7970000000000255,
+      "dialogue_text": "Draag je die hoed?"
+    },
+    {
+      "subtitle_index": 512,
+      "start_time": 3110.173,
+      "end_time": 3112.505,
+      "duration": 2.3320000000003347,
+      "dialogue_text": "Nadat ik al die magie heb gebruikt om je jurk mooi te maken."
+    },
+    {
+      "subtitle_index": 513,
+      "start_time": 3112.609,
+      "end_time": 3113.598,
+      "duration": 0.9890000000000327,
+      "dialogue_text": "Pas op hem, Markl."
+    },
+    {
+      "subtitle_index": 514,
+      "start_time": 3115.145,
+      "end_time": 3117.045,
+      "duration": 1.900000000000091,
+      "dialogue_text": "Succes."
+    },
+    {
+      "subtitle_index": 515,
+      "start_time": 3125.188,
+      "end_time": 3127.679,
+      "duration": 2.4909999999999854,
+      "dialogue_text": "Met dit amulet zul je veilig thuis komen."
+    },
+    {
+      "subtitle_index": 516,
+      "start_time": 3129.626,
+      "end_time": 3132.561,
+      "duration": 2.9349999999999454,
+      "dialogue_text": "Wees niet bang, ik zal je volgen in vermomming."
+    },
+    {
+      "subtitle_index": 517,
+      "start_time": 3132.863,
+      "end_time": 3134.353,
+      "duration": 1.4900000000002365,
+      "dialogue_text": "En nu, er op af."
+    },
+    {
+      "subtitle_index": 518,
+      "start_time": 3142.472,
+      "end_time": 3145.168,
+      "duration": 2.6959999999999127,
+      "dialogue_text": "Waarom heb ik het gevoel dat dit niet gaat werken?"
+    },
+    {
+      "subtitle_index": 519,
+      "start_time": 3153.95,
+      "end_time": 3157.351,
+      "duration": 3.4010000000002947,
+      "dialogue_text": "Hoe zou Howl zich vermomd hebben? Vast niet als een kraai."
+    },
+    {
+      "subtitle_index": 520,
+      "start_time": 3164.294,
+      "end_time": 3166.558,
+      "duration": 2.2640000000001237,
+      "dialogue_text": "Een duif kan het ook niet zijn daar is hij veel te opzichtig voor."
+    },
+    {
+      "subtitle_index": 521,
+      "start_time": 3173.003,
+      "end_time": 3174.197,
+      "duration": 1.19399999999996,
+      "dialogue_text": "Dat zou hem kunnen zijn."
+    },
+    {
+      "subtitle_index": 522,
+      "start_time": 3185.849,
+      "end_time": 3188.579,
+      "duration": 2.730000000000018,
+      "dialogue_text": "Het paleis is nog zo ver weg."
+    },
+    {
+      "subtitle_index": 523,
+      "start_time": 3230.327,
+      "end_time": 3233.455,
+      "duration": 3.1279999999997017,
+      "dialogue_text": "Howl? Heb je je als een oude hond vermomd?"
+    },
+    {
+      "subtitle_index": 524,
+      "start_time": 3237.434,
+      "end_time": 3242.235,
+      "duration": 4.800999999999931,
+      "dialogue_text": "Had je niets beters kunnen bedenken?"
+    },
+    {
+      "subtitle_index": 525,
+      "start_time": 3242.339,
+      "end_time": 3244.637,
+      "duration": 2.298000000000229,
+      "dialogue_text": "Weet je dan niet hoe vermoeiend het is om oud te zijn?"
+    },
+    {
+      "subtitle_index": 526,
+      "start_time": 3247.844,
+      "end_time": 3251.007,
+      "duration": 3.163000000000011,
+      "dialogue_text": "Kijk eens aan, die ordinaire meid van de hoedenwinkel."
+    },
+    {
+      "subtitle_index": 527,
+      "start_time": 3251.381,
+      "end_time": 3253.008,
+      "duration": 1.6269999999999527,
+      "dialogue_text": "De heks van de wildernis."
+    },
+    {
+      "subtitle_index": 528,
+      "start_time": 3253.116,
+      "end_time": 3256.142,
+      "duration": 3.02599999999984,
+      "dialogue_text": "Bedankt voor het bezorgen van mijn liefdesbriefje aan Howl."
+    },
+    {
+      "subtitle_index": 529,
+      "start_time": 3258.622,
+      "end_time": 3260.59,
+      "duration": 1.968000000000302,
+      "dialogue_text": "Hoe maakt hij het?"
+    },
+    {
+      "subtitle_index": 530,
+      "start_time": 3260.957,
+      "end_time": 3262.72,
+      "duration": 1.76299999999992,
+      "dialogue_text": "Hij gedraagt zich als een baby"
+    },
+    {
+      "subtitle_index": 531,
+      "start_time": 3262.826,
+      "end_time": 3266.057,
+      "duration": 3.230999999999767,
+      "dialogue_text": "en hij laat me hard werken als zijn schoonmaakster."
+    },
+    {
+      "subtitle_index": 532,
+      "start_time": 3267.13,
+      "end_time": 3268.961,
+      "duration": 1.8309999999996762,
+      "dialogue_text": "Wat kostelijk."
+    },
+    {
+      "subtitle_index": 533,
+      "start_time": 3269.833,
+      "end_time": 3273.2,
+      "duration": 3.3669999999997344,
+      "dialogue_text": "Vertel eens. Wat kom je doen bij het paleis?"
+    },
+    {
+      "subtitle_index": 534,
+      "start_time": 3273.303,
+      "end_time": 3276.761,
+      "duration": 3.4580000000000837,
+      "dialogue_text": "Ik zoek werk. Ik ben het zat om voor Howl te werken."
+    },
+    {
+      "subtitle_index": 535,
+      "start_time": 3276.873,
+      "end_time": 3277.965,
+      "duration": 1.0920000000000982,
+      "dialogue_text": "En u?"
+    },
+    {
+      "subtitle_index": 536,
+      "start_time": 3278.608,
+      "end_time": 3281.236,
+      "duration": 2.6279999999997017,
+      "dialogue_text": "Ik heb een koninklijke uitnodiging gekregen."
+    },
+    {
+      "subtitle_index": 537,
+      "start_time": 3281.378,
+      "end_time": 3285.974,
+      "duration": 4.596000000000004,
+      "dialogue_text": "Die idioot van een Suliman heeft eindelijk door, dat ze mijn krachten nodig heeft."
+    },
+    {
+      "subtitle_index": 538,
+      "start_time": 3286.316,
+      "end_time": 3289.615,
+      "duration": 3.298999999999978,
+      "dialogue_text": "Als je zo fantastisch bent waarom verbreek je mijn vloek dan niet?"
+    },
+    {
+      "subtitle_index": 539,
+      "start_time": 3289.986,
+      "end_time": 3291.578,
+      "duration": 1.5920000000000982,
+      "dialogue_text": "Sorry, maar dat is onmogelijk."
+    },
+    {
+      "subtitle_index": 540,
+      "start_time": 3291.688,
+      "end_time": 3295.715,
+      "duration": 4.027000000000044,
+      "dialogue_text": "Ik betover, verbreken doe ik niet."
+    },
+    {
+      "subtitle_index": 541,
+      "start_time": 3295.825,
+      "end_time": 3298.293,
+      "duration": 2.468000000000302,
+      "dialogue_text": "Tot ziens, oma."
+    },
+    {
+      "subtitle_index": 542,
+      "start_time": 3298.662,
+      "end_time": 3302.154,
+      "duration": 3.492000000000189,
+      "dialogue_text": "Hé, wacht eens even. Kom terug!"
+    },
+    {
+      "subtitle_index": 543,
+      "start_time": 3303.4,
+      "end_time": 3306.028,
+      "duration": 2.6279999999997017,
+      "dialogue_text": "Als ik niet op jou moest passen had ik haar geslagen."
+    },
+    {
+      "subtitle_index": 544,
+      "start_time": 3323.987,
+      "end_time": 3325.355,
+      "duration": 1.3679999999999382,
+      "dialogue_text": "Wat hebben jullie ineens?"
+    },
+    {
+      "subtitle_index": 545,
+      "start_time": 3325.555,
+      "end_time": 3329.013,
+      "duration": 3.4580000000000837,
+      "dialogue_text": "Sorry mevrouw, vervoermiddelen zijn hier verboden."
+    },
+    {
+      "subtitle_index": 546,
+      "start_time": 3329.125,
+      "end_time": 3330.717,
+      "duration": 1.5920000000000982,
+      "dialogue_text": "U moet te voet verder."
+    },
+    {
+      "subtitle_index": 547,
+      "start_time": 3331.194,
+      "end_time": 3332.661,
+      "duration": 1.4670000000000982,
+      "dialogue_text": "Die Suliman,"
+    },
+    {
+      "subtitle_index": 548,
+      "start_time": 3332.762,
+      "end_time": 3336.721,
+      "duration": 3.9589999999998327,
+      "dialogue_text": "magie gebruiken zodat ik de trap op moet lopen."
+    },
+    {
+      "subtitle_index": 549,
+      "start_time": 3347.577,
+      "end_time": 3350.102,
+      "duration": 2.524999999999636,
+      "dialogue_text": "Kom op Howl, dit lukt ons."
+    },
+    {
+      "subtitle_index": 550,
+      "start_time": 3375.271,
+      "end_time": 3378.297,
+      "duration": 3.02599999999984,
+      "dialogue_text": "Howl, waarom ben je zo zwaar?"
+    },
+    {
+      "subtitle_index": 551,
+      "start_time": 3388.218,
+      "end_time": 3392.12,
+      "duration": 3.9020000000000437,
+      "dialogue_text": "Wacht, help, ik kan dit niet alleen."
+    },
+    {
+      "subtitle_index": 552,
+      "start_time": 3392.389,
+      "end_time": 3393.822,
+      "duration": 1.4329999999999927,
+      "dialogue_text": "Wat zei je?"
+    },
+    {
+      "subtitle_index": 553,
+      "start_time": 3393.923,
+      "end_time": 3398.121,
+      "duration": 4.19800000000032,
+      "dialogue_text": "Je weet weer hoe je mij betovering kunt verbreken?"
+    },
+    {
+      "subtitle_index": 554,
+      "start_time": 3398.228,
+      "end_time": 3401.925,
+      "duration": 3.6970000000001164,
+      "dialogue_text": "Dat zei ik je toch."
+    },
+    {
+      "subtitle_index": 555,
+      "start_time": 3402.132,
+      "end_time": 3403.121,
+      "duration": 0.9890000000000327,
+      "dialogue_text": "Ik weet niet hoe."
+    },
+    {
+      "subtitle_index": 556,
+      "start_time": 3403.366,
+      "end_time": 3405.266,
+      "duration": 1.900000000000091,
+      "dialogue_text": "Onderzoek dat dan!"
+    },
+    {
+      "subtitle_index": 557,
+      "start_time": 3409.973,
+      "end_time": 3412.1,
+      "duration": 2.1269999999999527,
+      "dialogue_text": "Ik snap er niets van."
+    },
+    {
+      "subtitle_index": 558,
+      "start_time": 3412.208,
+      "end_time": 3415.405,
+      "duration": 3.1970000000001164,
+      "dialogue_text": "Waar haalt ze al die energie vandaan."
+    },
+    {
+      "subtitle_index": 559,
+      "start_time": 3423.586,
+      "end_time": 3425.52,
+      "duration": 1.9340000000001965,
+      "dialogue_text": "Even uitrusten."
+    },
+    {
+      "subtitle_index": 560,
+      "start_time": 3431.861,
+      "end_time": 3435.661,
+      "duration": 3.800000000000182,
+      "dialogue_text": "Waarom geef je niet op? Je haalt het toch niet."
+    },
+    {
+      "subtitle_index": 561,
+      "start_time": 3436.266,
+      "end_time": 3441.169,
+      "duration": 4.902999999999793,
+      "dialogue_text": "Ik wacht al 50 jaar om uitgenodigd te worden."
+    },
+    {
+      "subtitle_index": 562,
+      "start_time": 3441.438,
+      "end_time": 3446.307,
+      "duration": 4.868999999999687,
+      "dialogue_text": "Sinds Suliman me naar de wildernis verbannen heeft."
+    },
+    {
+      "subtitle_index": 563,
+      "start_time": 3446.476,
+      "end_time": 3448.239,
+      "duration": 1.76299999999992,
+      "dialogue_text": "Veel succes."
+    },
+    {
+      "subtitle_index": 564,
+      "start_time": 3448.344,
+      "end_time": 3451.541,
+      "duration": 3.1970000000001164,
+      "dialogue_text": "Als ik jonger was, had ik je wel geholpen."
+    },
+    {
+      "subtitle_index": 565,
+      "start_time": 3452.148,
+      "end_time": 3453.706,
+      "duration": 1.5579999999999927,
+      "dialogue_text": "Kom op, Howl."
+    },
+    {
+      "subtitle_index": 566,
+      "start_time": 3454.918,
+      "end_time": 3456.909,
+      "duration": 1.9909999999999854,
+      "dialogue_text": "Harteloos oud wijf."
+    },
+    {
+      "subtitle_index": 567,
+      "start_time": 3457.02,
+      "end_time": 3459.682,
+      "duration": 2.661999999999807,
+      "dialogue_text": "Volgende keer maak ik je nog dement ook."
+    },
+    {
+      "subtitle_index": 568,
+      "start_time": 3480.61,
+      "end_time": 3482.703,
+      "duration": 2.092999999999847,
+      "dialogue_text": "Ben je er bijna?"
+    },
+    {
+      "subtitle_index": 569,
+      "start_time": 3483.513,
+      "end_time": 3485.743,
+      "duration": 2.230000000000018,
+      "dialogue_text": "Mevrouw, als u mij zou willen volgen."
+    },
+    {
+      "subtitle_index": 570,
+      "start_time": 3486.015,
+      "end_time": 3489.075,
+      "duration": 3.0599999999999454,
+      "dialogue_text": "Zou je haar niet de trap op helpen?"
+    },
+    {
+      "subtitle_index": 571,
+      "start_time": 3489.185,
+      "end_time": 3492.177,
+      "duration": 2.992000000000189,
+      "dialogue_text": "Die hulp mag ik helaas niet bieden."
+    },
+    {
+      "subtitle_index": 572,
+      "start_time": 3492.322,
+      "end_time": 3495.485,
+      "duration": 3.163000000000011,
+      "dialogue_text": "Maar de koning heeft haar zelf uitgenodigd."
+    },
+    {
+      "subtitle_index": 573,
+      "start_time": 3495.592,
+      "end_time": 3497.992,
+      "duration": 2.400000000000091,
+      "dialogue_text": "Kom op!"
+    },
+    {
+      "subtitle_index": 574,
+      "start_time": 3498.761,
+      "end_time": 3500.558,
+      "duration": 1.7970000000000255,
+      "dialogue_text": "Geeft niet op."
+    },
+    {
+      "subtitle_index": 575,
+      "start_time": 3501.364,
+      "end_time": 3503.764,
+      "duration": 2.400000000000091,
+      "dialogue_text": "Ben je nou een heks of niet?"
+    },
+    {
+      "subtitle_index": 576,
+      "start_time": 3505.001,
+      "end_time": 3506.832,
+      "duration": 1.8309999999996762,
+      "dialogue_text": "Hou toch je mond."
+    },
+    {
+      "subtitle_index": 577,
+      "start_time": 3509.405,
+      "end_time": 3511.373,
+      "duration": 1.9679999999998472,
+      "dialogue_text": "Je ziet er zoveel ouder uit."
+    },
+    {
+      "subtitle_index": 578,
+      "start_time": 3512.475,
+      "end_time": 3515.672,
+      "duration": 3.1970000000001164,
+      "dialogue_text": "Mevrouw Pendragon en de heks van de wildernis!"
+    },
+    {
+      "subtitle_index": 579,
+      "start_time": 3517.146,
+      "end_time": 3518.738,
+      "duration": 1.5919999999996435,
+      "dialogue_text": "Beheers je."
+    },
+    {
+      "subtitle_index": 580,
+      "start_time": 3518.848,
+      "end_time": 3521.248,
+      "duration": 2.400000000000091,
+      "dialogue_text": "Dit is toch wat je wilt?"
+    },
+    {
+      "subtitle_index": 581,
+      "start_time": 3524.42,
+      "end_time": 3527.787,
+      "duration": 3.3669999999997344,
+      "dialogue_text": "Mevrouw Pendragon en de heks van de wildernis!"
+    },
+    {
+      "subtitle_index": 582,
+      "start_time": 3527.891,
+      "end_time": 3532.021,
+      "duration": 4.130000000000109,
+      "dialogue_text": "Je heet Pendragon? Waarom klinkt die naam zo bekent?"
+    },
+    {
+      "subtitle_index": 583,
+      "start_time": 3532.128,
+      "end_time": 3535.723,
+      "duration": 3.5949999999998,
+      "dialogue_text": "Dat was de naam van mijn ordinaire hoedenwinkel. Weet je dat niet meer?"
+    },
+    {
+      "subtitle_index": 584,
+      "start_time": 3535.832,
+      "end_time": 3536.924,
+      "duration": 1.0920000000000982,
+      "dialogue_text": "Heet die echt zo?"
+    },
+    {
+      "subtitle_index": 585,
+      "start_time": 3537.467,
+      "end_time": 3539.264,
+      "duration": 1.7970000000000255,
+      "dialogue_text": "Als u hier zou willen wachten."
+    },
+    {
+      "subtitle_index": 586,
+      "start_time": 3545.708,
+      "end_time": 3546.868,
+      "duration": 1.1599999999998545,
+      "dialogue_text": "Een stoel!"
+    },
+    {
+      "subtitle_index": 587,
+      "start_time": 3547.176,
+      "end_time": 3548.837,
+      "duration": 1.6610000000000582,
+      "dialogue_text": "Die is van mij!"
+    },
+    {
+      "subtitle_index": 588,
+      "start_time": 3560.657,
+      "end_time": 3562.716,
+      "duration": 2.0589999999997417,
+      "dialogue_text": "Howl, kom terug."
+    },
+    {
+      "subtitle_index": 589,
+      "start_time": 3570.867,
+      "end_time": 3572.494,
+      "duration": 1.6269999999999527,
+      "dialogue_text": "Deze kant op, mevrouw."
+    },
+    {
+      "subtitle_index": 590,
+      "start_time": 3632.895,
+      "end_time": 3634.988,
+      "duration": 2.092999999999847,
+      "dialogue_text": "Dus u bent de moeder van Howl?"
+    },
+    {
+      "subtitle_index": 591,
+      "start_time": 3635.932,
+      "end_time": 3637.991,
+      "duration": 2.0590000000001965,
+      "dialogue_text": "Ja, ik ben mevrouw Pendragon."
+    },
+    {
+      "subtitle_index": 592,
+      "start_time": 3638.601,
+      "end_time": 3641.001,
+      "duration": 2.400000000000091,
+      "dialogue_text": "U zult vermoeid zijn, gaat u zitten."
+    },
+    {
+      "subtitle_index": 593,
+      "start_time": 3641.504,
+      "end_time": 3642.63,
+      "duration": 1.1260000000002037,
+      "dialogue_text": "Dank u."
+    },
+    {
+      "subtitle_index": 594,
+      "start_time": 3652.515,
+      "end_time": 3655.973,
+      "duration": 3.4580000000000837,
+      "dialogue_text": "Ik ben mevrouw Suliman, de tovenares van de koning."
+    },
+    {
+      "subtitle_index": 595,
+      "start_time": 3662.125,
+      "end_time": 3663.524,
+      "duration": 1.3989999999998872,
+      "dialogue_text": "Dat is toch niet uw hond?"
+    },
+    {
+      "subtitle_index": 596,
+      "start_time": 3664.227,
+      "end_time": 3665.694,
+      "duration": 1.4670000000000982,
+      "dialogue_text": "Hij heet Heen."
+    },
+    {
+      "subtitle_index": 597,
+      "start_time": 3665.795,
+      "end_time": 3669.356,
+      "duration": 3.561000000000149,
+      "dialogue_text": "Hij doet klusjes voor me. Ik heb hem u laten vergezellen."
+    },
+    {
+      "subtitle_index": 598,
+      "start_time": 3673.603,
+      "end_time": 3675.867,
+      "duration": 2.2640000000001237,
+      "dialogue_text": "Howl zal er dus niet bij zijn?"
+    },
+    {
+      "subtitle_index": 599,
+      "start_time": 3677.473,
+      "end_time": 3680.442,
+      "duration": 2.969000000000051,
+      "dialogue_text": "Hij is zo'n luie zoon hij heeft zijn moeder gestuurd."
+    },
+    {
+      "subtitle_index": 600,
+      "start_time": 3680.543,
+      "end_time": 3683.376,
+      "duration": 2.8330000000000837,
+      "dialogue_text": "De koning zal helaas niet veel aan hem hebben."
+    },
+    {
+      "subtitle_index": 601,
+      "start_time": 3684.614,
+      "end_time": 3687.139,
+      "duration": 2.525000000000091,
+      "dialogue_text": "Dat is spijtig."
+    },
+    {
+      "subtitle_index": 602,
+      "start_time": 3687.283,
+      "end_time": 3690.446,
+      "duration": 3.163000000000011,
+      "dialogue_text": "Howl was de laatste leerling die ik aannam."
+    },
+    {
+      "subtitle_index": 603,
+      "start_time": 3691.421,
+      "end_time": 3694.618,
+      "duration": 3.1970000000001164,
+      "dialogue_text": "Het was zo'n begaafde student."
+    },
+    {
+      "subtitle_index": 604,
+      "start_time": 3694.824,
+      "end_time": 3698.783,
+      "duration": 3.9589999999998327,
+      "dialogue_text": "Ik was zo blij zo'n talent gevonden te hebben die me op kon volgen."
+    },
+    {
+      "subtitle_index": 605,
+      "start_time": 3700.997,
+      "end_time": 3704.33,
+      "duration": 3.3330000000000837,
+      "dialogue_text": "Op een dag werd zijn hart gestolen door een demon."
+    },
+    {
+      "subtitle_index": 606,
+      "start_time": 3704.434,
+      "end_time": 3706.595,
+      "duration": 2.1609999999996035,
+      "dialogue_text": "Hij is nooit terug gekomen om zijn studie af te maken."
+    },
+    {
+      "subtitle_index": 607,
+      "start_time": 3706.703,
+      "end_time": 3710.969,
+      "duration": 4.266000000000076,
+      "dialogue_text": "Vanaf die dag heeft hij zijn magie alleen voor zichzelf gebruikt."
+    },
+    {
+      "subtitle_index": 608,
+      "start_time": 3713.176,
+      "end_time": 3714.643,
+      "duration": 1.4670000000000982,
+      "dialogue_text": "Mevrouw Pendragon."
+    },
+    {
+      "subtitle_index": 609,
+      "start_time": 3714.911,
+      "end_time": 3716.879,
+      "duration": 1.9679999999998472,
+      "dialogue_text": "Die jongen is erg gevaarlijk."
+    },
+    {
+      "subtitle_index": 610,
+      "start_time": 3716.979,
+      "end_time": 3721.143,
+      "duration": 4.164000000000215,
+      "dialogue_text": "Hij is veel te machtig voor iemand zonder hart."
+    },
+    {
+      "subtitle_index": 611,
+      "start_time": 3722.318,
+      "end_time": 3726.584,
+      "duration": 4.265999999999622,
+      "dialogue_text": "Als hij zo door gaat wordt hij net zoals de heks van de wildernis."
+    },
+    {
+      "subtitle_index": 612,
+      "start_time": 3726.689,
+      "end_time": 3727.383,
+      "duration": 0.69399999999996,
+      "dialogue_text": "Laat haar binnen."
+    },
+    {
+      "subtitle_index": 613,
+      "start_time": 3733.996,
+      "end_time": 3735.623,
+      "duration": 1.6269999999999527,
+      "dialogue_text": "Wat is er met jou gebeurd?"
+    },
+    {
+      "subtitle_index": 614,
+      "start_time": 3737.734,
+      "end_time": 3740.726,
+      "duration": 2.992000000000189,
+      "dialogue_text": "Ik heb haar haar echte leeftijd terug gegeven."
+    },
+    {
+      "subtitle_index": 615,
+      "start_time": 3740.837,
+      "end_time": 3742.566,
+      "duration": 1.7289999999998145,
+      "dialogue_text": "Al haar macht is weg."
+    },
+    {
+      "subtitle_index": 616,
+      "start_time": 3743.039,
+      "end_time": 3747.066,
+      "duration": 4.026999999999589,
+      "dialogue_text": "Eens was ook zij een indrukwekkende en veelbelovende tovenares,"
+    },
+    {
+      "subtitle_index": 617,
+      "start_time": 3747.577,
+      "end_time": 3750.273,
+      "duration": 2.6959999999999127,
+      "dialogue_text": "maar ze sloot een overeenkomst met een demon,"
+    },
+    {
+      "subtitle_index": 618,
+      "start_time": 3750.379,
+      "end_time": 3753.678,
+      "duration": 3.298999999999978,
+      "dialogue_text": "die haar hart en ziel verslond."
+    },
+    {
+      "subtitle_index": 619,
+      "start_time": 3754.083,
+      "end_time": 3757.644,
+      "duration": 3.5609999999996944,
+      "dialogue_text": "Ons koninkrijk kan deze schandelijke heksen en tovenaars"
+    },
+    {
+      "subtitle_index": 620,
+      "start_time": 3757.754,
+      "end_time": 3759.813,
+      "duration": 2.0590000000001965,
+      "dialogue_text": "niet langer door de vingers zien."
+    },
+    {
+      "subtitle_index": 621,
+      "start_time": 3759.922,
+      "end_time": 3763.323,
+      "duration": 3.40099999999984,
+      "dialogue_text": "Als Howl zich meldt en zweert zijn magie te gebruiken voor het koninkrijk,"
+    },
+    {
+      "subtitle_index": 622,
+      "start_time": 3763.426,
+      "end_time": 3766.327,
+      "duration": 2.9010000000002947,
+      "dialogue_text": "zal ik hem leren om van zijn demon af te komen."
+    },
+    {
+      "subtitle_index": 623,
+      "start_time": 3766.729,
+      "end_time": 3770.597,
+      "duration": 3.868000000000393,
+      "dialogue_text": "Zo niet, dan neem ik hem al zijn krachten af. Net als bij haar."
+    },
+    {
+      "subtitle_index": 624,
+      "start_time": 3771.768,
+      "end_time": 3772.792,
+      "duration": 1.0239999999998872,
+      "dialogue_text": "Zo is het genoeg!"
+    },
+    {
+      "subtitle_index": 625,
+      "start_time": 3774.403,
+      "end_time": 3777.429,
+      "duration": 3.0260000000002947,
+      "dialogue_text": "Nu snap ik waarom Howl niet wilde komen."
+    },
+    {
+      "subtitle_index": 626,
+      "start_time": 3777.974,
+      "end_time": 3779.441,
+      "duration": 1.4669999999996435,
+      "dialogue_text": "Het is een valstrik."
+    },
+    {
+      "subtitle_index": 627,
+      "start_time": 3779.542,
+      "end_time": 3782.376,
+      "duration": 2.8340000000002874,
+      "dialogue_text": "Je lokt mensen met een uitnodiging van de koning"
+    },
+    {
+      "subtitle_index": 628,
+      "start_time": 3782.48,
+      "end_time": 3785.311,
+      "duration": 2.831000000000131,
+      "dialogue_text": "en dan neem je ze al hun krachten af."
+    },
+    {
+      "subtitle_index": 629,
+      "start_time": 3785.681,
+      "end_time": 3787.649,
+      "duration": 1.9679999999998472,
+      "dialogue_text": "Zo harteloos zou Howl nooit zijn."
+    },
+    {
+      "subtitle_index": 630,
+      "start_time": 3787.75,
+      "end_time": 3792.084,
+      "duration": 4.333999999999833,
+      "dialogue_text": "Hij is misschien egoïstisch, bang en onberekenbaar,"
+    },
+    {
+      "subtitle_index": 631,
+      "start_time": 3792.188,
+      "end_time": 3795.351,
+      "duration": 3.163000000000011,
+      "dialogue_text": "maar hij heeft goede bedoelingen. Hij wil gewoon vrij zijn."
+    },
+    {
+      "subtitle_index": 632,
+      "start_time": 3795.825,
+      "end_time": 3798.555,
+      "duration": 2.730000000000018,
+      "dialogue_text": "Howl zal nooit komen hij heeft uw hulp niet nodig."
+    },
+    {
+      "subtitle_index": 633,
+      "start_time": 3798.661,
+      "end_time": 3801.425,
+      "duration": 2.7640000000001237,
+      "dialogue_text": "Hij kan zijn demonenproblemen zelf wel oplossen."
+    },
+    {
+      "subtitle_index": 634,
+      "start_time": 3801.531,
+      "end_time": 3803.362,
+      "duration": 1.831000000000131,
+      "dialogue_text": "Dat weet ik zeker."
+    },
+    {
+      "subtitle_index": 635,
+      "start_time": 3803.933,
+      "end_time": 3806.629,
+      "duration": 2.6959999999999127,
+      "dialogue_text": "Nu snap ik het, je bent verliefd op Howl."
+    },
+    {
+      "subtitle_index": 636,
+      "start_time": 3807.503,
+      "end_time": 3810.529,
+      "duration": 3.02599999999984,
+      "dialogue_text": "Howl? Komt Howl eraan?"
+    },
+    {
+      "subtitle_index": 637,
+      "start_time": 3810.773,
+      "end_time": 3813.936,
+      "duration": 3.163000000000011,
+      "dialogue_text": "Ik wil zijn hart, zijn hart is van mij."
+    },
+    {
+      "subtitle_index": 638,
+      "start_time": 3814.043,
+      "end_time": 3817.672,
+      "duration": 3.6289999999999054,
+      "dialogue_text": "Stop daar mee, Howl komt niet."
+    },
+    {
+      "subtitle_index": 639,
+      "start_time": 3819.282,
+      "end_time": 3821.307,
+      "duration": 2.024999999999636,
+      "dialogue_text": "Ik denk het wel."
+    },
+    {
+      "subtitle_index": 640,
+      "start_time": 3822.285,
+      "end_time": 3824.845,
+      "duration": 2.5599999999999454,
+      "dialogue_text": "Nu ken ik zijn zwakte, mevrouw Pendragon."
+    },
+    {
+      "subtitle_index": 641,
+      "start_time": 3831.594,
+      "end_time": 3832.652,
+      "duration": 1.0579999999999927,
+      "dialogue_text": "Majesteit."
+    },
+    {
+      "subtitle_index": 642,
+      "start_time": 3832.762,
+      "end_time": 3834.354,
+      "duration": 1.5919999999996435,
+      "dialogue_text": "Zoals u was."
+    },
+    {
+      "subtitle_index": 643,
+      "start_time": 3834.463,
+      "end_time": 3835.987,
+      "duration": 1.5239999999998872,
+      "dialogue_text": "Hoe voelt u zich?"
+    },
+    {
+      "subtitle_index": 644,
+      "start_time": 3836.098,
+      "end_time": 3837.395,
+      "duration": 1.2970000000000255,
+      "dialogue_text": "Goed, dank u."
+    },
+    {
+      "subtitle_index": 645,
+      "start_time": 3837.5,
+      "end_time": 3840.901,
+      "duration": 3.40099999999984,
+      "dialogue_text": "Ik dacht, ik kom even langs. Saaie oorlogsvergaderingen."
+    },
+    {
+      "subtitle_index": 646,
+      "start_time": 3841.571,
+      "end_time": 3842.765,
+      "duration": 1.19399999999996,
+      "dialogue_text": "Wat een eer."
+    },
+    {
+      "subtitle_index": 647,
+      "start_time": 3842.939,
+      "end_time": 3844.497,
+      "duration": 1.5579999999999927,
+      "dialogue_text": "Wie zijn uw gasten."
+    },
+    {
+      "subtitle_index": 648,
+      "start_time": 3844.774,
+      "end_time": 3847.14,
+      "duration": 2.3659999999999854,
+      "dialogue_text": "Dit is de moeder van Pendragon."
+    },
+    {
+      "subtitle_index": 649,
+      "start_time": 3852.515,
+      "end_time": 3857.043,
+      "duration": 4.528000000000247,
+      "dialogue_text": "Bedankt voor uw komst, maar ik heb besloten deze oorlog zonder magie te winnen."
+    },
+    {
+      "subtitle_index": 650,
+      "start_time": 3857.753,
+      "end_time": 3862.247,
+      "duration": 4.493999999999687,
+      "dialogue_text": "We hebben geprobeerd Sulimans magie te gebruiken om het paleis tegen bommen te beschermen,"
+    },
+    {
+      "subtitle_index": 651,
+      "start_time": 3862.358,
+      "end_time": 3864.918,
+      "duration": 2.5599999999999454,
+      "dialogue_text": "maar dan vallen de bommen op nabij gelegen huizen."
+    },
+    {
+      "subtitle_index": 652,
+      "start_time": 3865.027,
+      "end_time": 3867.621,
+      "duration": 2.594000000000051,
+      "dialogue_text": "Dat is het probleem met magie. Zo is het toch, Suliman?"
+    },
+    {
+      "subtitle_index": 653,
+      "start_time": 3867.73,
+      "end_time": 3869.891,
+      "duration": 2.161000000000058,
+      "dialogue_text": "U bent zo welbespraakt vandaag majesteit."
+    },
+    {
+      "subtitle_index": 654,
+      "start_time": 3870.132,
+      "end_time": 3871.599,
+      "duration": 1.4670000000000982,
+      "dialogue_text": "Suliman!"
+    },
+    {
+      "subtitle_index": 655,
+      "start_time": 3874.57,
+      "end_time": 3878.529,
+      "duration": 3.9589999999998327,
+      "dialogue_text": "Ik heb een nieuw aanvalsplan, deze keer verslaan we ze echt."
+    },
+    {
+      "subtitle_index": 656,
+      "start_time": 3881.51,
+      "end_time": 3885.674,
+      "duration": 4.16399999999976,
+      "dialogue_text": "Suliman, dat is de beste dubbelganger tot nu toe. Ga zo door."
+    },
+    {
+      "subtitle_index": 657,
+      "start_time": 3885.781,
+      "end_time": 3887.078,
+      "duration": 1.2970000000000255,
+      "dialogue_text": "Majesteit."
+    },
+    {
+      "subtitle_index": 658,
+      "start_time": 3887.817,
+      "end_time": 3889.614,
+      "duration": 1.7970000000000255,
+      "dialogue_text": "Roep mijn generaals bij elkaar."
+    },
+    {
+      "subtitle_index": 659,
+      "start_time": 3893.623,
+      "end_time": 3896.456,
+      "duration": 2.8330000000000837,
+      "dialogue_text": "Leuk om je te zien, Howl."
+    },
+    {
+      "subtitle_index": 660,
+      "start_time": 3896.559,
+      "end_time": 3898.72,
+      "duration": 2.1609999999996035,
+      "dialogue_text": "U ziet er goed uit mevrouw Suliman."
+    },
+    {
+      "subtitle_index": 661,
+      "start_time": 3898.828,
+      "end_time": 3900.955,
+      "duration": 2.1269999999999527,
+      "dialogue_text": "Dat is een slappe vermomming. Zo heb ik het je toch niet geleerd."
+    },
+    {
+      "subtitle_index": 662,
+      "start_time": 3901.063,
+      "end_time": 3902.928,
+      "duration": 1.8649999999997817,
+      "dialogue_text": "Ik probeer u niet te misleiden."
+    },
+    {
+      "subtitle_index": 663,
+      "start_time": 3903.332,
+      "end_time": 3905.8,
+      "duration": 2.468000000000302,
+      "dialogue_text": "Ik houd me aan mijn afspraak en kom me melden."
+    },
+    {
+      "subtitle_index": 664,
+      "start_time": 3906.002,
+      "end_time": 3907.469,
+      "duration": 1.4670000000000982,
+      "dialogue_text": "Moeder en ik gaan er vandoor."
+    },
+    {
+      "subtitle_index": 665,
+      "start_time": 3907.603,
+      "end_time": 3909.434,
+      "duration": 1.831000000000131,
+      "dialogue_text": "Dat kan ik helaas niet toestaan."
+    },
+    {
+      "subtitle_index": 666,
+      "start_time": 3930.927,
+      "end_time": 3933.02,
+      "duration": 2.092999999999847,
+      "dialogue_text": "Vooral niet naar beneden kijken."
+    },
+    {
+      "subtitle_index": 667,
+      "start_time": 3933.629,
+      "end_time": 3937.497,
+      "duration": 3.867999999999938,
+      "dialogue_text": "Het is tijd om je moeder te laten zien wie je werkelijk bent."
+    }
+  ]
+}

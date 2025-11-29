@@ -1,0 +1,6326 @@
+{
+  "metadata": {
+    "film_name": "Ponyo V2",
+    "film_slug": "ponyo_ar_v2",
+    "language_code": "ar",
+    "total_subtitles": 902,
+    "total_duration": 10740.19,
+    "parse_timestamp": "2025-11-18T12:08:12.072423"
+  },
+  "subtitles": [
+    {
+      "subtitle_index": 1,
+      "start_time": 120.33,
+      "end_time": 126.0,
+      "duration": 5.670000000000002,
+      "dialogue_text": ""
+    },
+    {
+      "subtitle_index": 3,
+      "start_time": 136.33,
+      "end_time": 142.0,
+      "duration": 5.6699999999999875,
+      "dialogue_text": ""
+    },
+    {
+      "subtitle_index": 4,
+      "start_time": 144.33,
+      "end_time": 150.0,
+      "duration": 5.6699999999999875,
+      "dialogue_text": "ترجمة Roysolid اهداء الى جميع الاطفال"
+    },
+    {
+      "subtitle_index": 5,
+      "start_time": 289.33,
+      "end_time": 295.0,
+      "duration": 5.670000000000016,
+      "dialogue_text": "البداية"
+    },
+    {
+      "subtitle_index": 6,
+      "start_time": 295.5,
+      "end_time": 298.87,
+      "duration": 3.3700000000000045,
+      "dialogue_text": "Ponyo on the Cliff بونيو على المنحدر"
+    },
+    {
+      "subtitle_index": 7,
+      "start_time": 298.87,
+      "end_time": 317.33,
+      "duration": 18.45999999999998,
+      "dialogue_text": "seaweeds waving gently, in the big blue sea"
+    },
+    {
+      "subtitle_index": 8,
+      "start_time": 317.33,
+      "end_time": 332.87,
+      "duration": 15.54000000000002,
+      "dialogue_text": "together with countless siblings"
+    },
+    {
+      "subtitle_index": 9,
+      "start_time": 332.87,
+      "end_time": 345.89,
+      "duration": 13.019999999999982,
+      "dialogue_text": "bubbles is our language"
+    },
+    {
+      "subtitle_index": 10,
+      "start_time": 346.7,
+      "end_time": 364.3,
+      "duration": 17.600000000000023,
+      "dialogue_text": "remember, long time ago"
+    },
+    {
+      "subtitle_index": 11,
+      "start_time": 365.12,
+      "end_time": 382.22,
+      "duration": 17.100000000000023,
+      "dialogue_text": "cruising with you on the big blue sea"
+    },
+    {
+      "subtitle_index": 12,
+      "start_time": 383.94,
+      "end_time": 392.96,
+      "duration": 9.019999999999982,
+      "dialogue_text": "jellyfish and sea urchin, fishes and crabs"
+    },
+    {
+      "subtitle_index": 13,
+      "start_time": 392.96,
+      "end_time": 408.49,
+      "duration": 15.53000000000003,
+      "dialogue_text": "we are a big family"
+    },
+    {
+      "subtitle_index": 14,
+      "start_time": 419.69,
+      "end_time": 422.57,
+      "duration": 2.8799999999999955,
+      "dialogue_text": "سوسوكي , عد الى المنزل قريبا حسنا؟"
+    },
+    {
+      "subtitle_index": 15,
+      "start_time": 422.57,
+      "end_time": 424.45,
+      "duration": 1.8799999999999955,
+      "dialogue_text": "حسنا"
+    },
+    {
+      "subtitle_index": 16,
+      "start_time": 524.05,
+      "end_time": 526.4,
+      "duration": 2.3500000000000227,
+      "dialogue_text": "انها سمكة ذهبية"
+    },
+    {
+      "subtitle_index": 17,
+      "start_time": 538.42,
+      "end_time": 540.74,
+      "duration": 2.32000000000005,
+      "dialogue_text": "انها عالقة"
+    },
+    {
+      "subtitle_index": 18,
+      "start_time": 557.28,
+      "end_time": 559.42,
+      "duration": 2.1399999999999864,
+      "dialogue_text": "غريب"
+    },
+    {
+      "subtitle_index": 19,
+      "start_time": 569.04,
+      "end_time": 570.76,
+      "duration": 1.7200000000000273,
+      "dialogue_text": "اي"
+    },
+    {
+      "subtitle_index": 20,
+      "start_time": 573.14,
+      "end_time": 575.85,
+      "duration": 2.7100000000000364,
+      "dialogue_text": "هل هي ميتة؟"
+    },
+    {
+      "subtitle_index": 21,
+      "start_time": 579.07,
+      "end_time": 580.57,
+      "duration": 1.5,
+      "dialogue_text": "لقد علقت اصبعي"
+    },
+    {
+      "subtitle_index": 22,
+      "start_time": 580.57,
+      "end_time": 582.4,
+      "duration": 1.8299999999999272,
+      "dialogue_text": "انها لا تزال حية"
+    },
+    {
+      "subtitle_index": 23,
+      "start_time": 584.05,
+      "end_time": 586.77,
+      "duration": 2.7200000000000273,
+      "dialogue_text": "سوسوكي, اننا نحتاج ان نذهب الأن"
+    },
+    {
+      "subtitle_index": 24,
+      "start_time": 586.77,
+      "end_time": 590.71,
+      "duration": 3.9400000000000546,
+      "dialogue_text": "ريسا, ان هناك سمكة ذهبية"
+    },
+    {
+      "subtitle_index": 25,
+      "start_time": 600.39,
+      "end_time": 602.12,
+      "duration": 1.7300000000000182,
+      "dialogue_text": "رياح غريبة"
+    },
+    {
+      "subtitle_index": 26,
+      "start_time": 602.12,
+      "end_time": 605.64,
+      "duration": 3.519999999999982,
+      "dialogue_text": "سوسوكي , اني ساقوم بتشغيل المحرك اولا"
+    },
+    {
+      "subtitle_index": 27,
+      "start_time": 613.59,
+      "end_time": 616.26,
+      "duration": 2.669999999999959,
+      "dialogue_text": "هل وجدتها؟"
+    },
+    {
+      "subtitle_index": 28,
+      "start_time": 621.47,
+      "end_time": 624.2,
+      "duration": 2.730000000000018,
+      "dialogue_text": "ماذا ؟ تم الامساك بها من قبل الانسان؟"
+    },
+    {
+      "subtitle_index": 29,
+      "start_time": 626.73,
+      "end_time": 630.39,
+      "duration": 3.659999999999968,
+      "dialogue_text": "هذا سيء , انه سيء جدا"
+    },
+    {
+      "subtitle_index": 30,
+      "start_time": 655.6,
+      "end_time": 658.67,
+      "duration": 3.0699999999999363,
+      "dialogue_text": "هل انت ميتة الان؟"
+    },
+    {
+      "subtitle_index": 31,
+      "start_time": 665.41,
+      "end_time": 667.99,
+      "duration": 2.580000000000041,
+      "dialogue_text": "انها حية"
+    },
+    {
+      "subtitle_index": 32,
+      "start_time": 676.19,
+      "end_time": 680.81,
+      "duration": 4.619999999999891,
+      "dialogue_text": "سوسوكي , اننا نتأخر"
+    },
+    {
+      "subtitle_index": 33,
+      "start_time": 680.81,
+      "end_time": 683.9,
+      "duration": 3.090000000000032,
+      "dialogue_text": "ريسا, السمكة الذهبية لا تزال حية"
+    },
+    {
+      "subtitle_index": 34,
+      "start_time": 683.9,
+      "end_time": 685.41,
+      "duration": 1.509999999999991,
+      "dialogue_text": "سمكة ذهبية؟"
+    },
+    {
+      "subtitle_index": 35,
+      "start_time": 685.41,
+      "end_time": 687.71,
+      "duration": 2.300000000000068,
+      "dialogue_text": "لقد وجدتها بطرف البحر"
+    },
+    {
+      "subtitle_index": 36,
+      "start_time": 687.71,
+      "end_time": 689.45,
+      "duration": 1.740000000000009,
+      "dialogue_text": "اني ارى"
+    },
+    {
+      "subtitle_index": 37,
+      "start_time": 713.52,
+      "end_time": 715.15,
+      "duration": 1.6299999999999955,
+      "dialogue_text": "مع اني لا اعرفك"
+    },
+    {
+      "subtitle_index": 38,
+      "start_time": 715.15,
+      "end_time": 717.38,
+      "duration": 2.230000000000018,
+      "dialogue_text": "لكن اروجك لا تقم برش المبيدات هنا"
+    },
+    {
+      "subtitle_index": 39,
+      "start_time": 717.79,
+      "end_time": 722.37,
+      "duration": 4.580000000000041,
+      "dialogue_text": "اوه , هذا ليس مبيدا"
+    },
+    {
+      "subtitle_index": 40,
+      "start_time": 722.37,
+      "end_time": 725.84,
+      "duration": 3.4700000000000273,
+      "dialogue_text": "هذا مياه من عمق المحيط لتفادي الجفاف"
+    },
+    {
+      "subtitle_index": 41,
+      "start_time": 725.84,
+      "end_time": 728.31,
+      "duration": 2.4699999999999136,
+      "dialogue_text": "جيد , بما انه ليست من السموم"
+    },
+    {
+      "subtitle_index": 42,
+      "start_time": 728.67,
+      "end_time": 730.43,
+      "duration": 1.759999999999991,
+      "dialogue_text": "المعذرة"
+    },
+    {
+      "subtitle_index": 43,
+      "start_time": 738.1,
+      "end_time": 741.01,
+      "duration": 2.909999999999968,
+      "dialogue_text": "اوه لا, ان الامر يصبح اسوء"
+    },
+    {
+      "subtitle_index": 44,
+      "start_time": 742.68,
+      "end_time": 744.82,
+      "duration": 2.1400000000001,
+      "dialogue_text": "ياله من انسان غريب"
+    },
+    {
+      "subtitle_index": 45,
+      "start_time": 744.82,
+      "end_time": 746.57,
+      "duration": 1.75,
+      "dialogue_text": "لاتكن شخص لئيم , سوسوكي"
+    },
+    {
+      "subtitle_index": 46,
+      "start_time": 746.57,
+      "end_time": 748.13,
+      "duration": 1.5599999999999454,
+      "dialogue_text": "لا تحكم على الكتاب من خلال غلافه"
+    },
+    {
+      "subtitle_index": 47,
+      "start_time": 748.13,
+      "end_time": 750.07,
+      "duration": 1.9400000000000546,
+      "dialogue_text": "انا لن افعل"
+    },
+    {
+      "subtitle_index": 48,
+      "start_time": 750.13,
+      "end_time": 751.88,
+      "duration": 1.75,
+      "dialogue_text": "هل ستحضرها الى الروضة ؟"
+    },
+    {
+      "subtitle_index": 49,
+      "start_time": 751.88,
+      "end_time": 753.05,
+      "duration": 1.169999999999959,
+      "dialogue_text": "نعم"
+    },
+    {
+      "subtitle_index": 50,
+      "start_time": 753.05,
+      "end_time": 754.96,
+      "duration": 1.9100000000000819,
+      "dialogue_text": "هل الامر لا بئس به مع مدرستك؟"
+    },
+    {
+      "subtitle_index": 51,
+      "start_time": 754.96,
+      "end_time": 758.79,
+      "duration": 3.8299999999999272,
+      "dialogue_text": "لا مشكلة , انا ساحميها"
+    },
+    {
+      "subtitle_index": 52,
+      "start_time": 758.79,
+      "end_time": 760.45,
+      "duration": 1.6600000000000819,
+      "dialogue_text": "انها ظريفة جدا"
+    },
+    {
+      "subtitle_index": 53,
+      "start_time": 766.93,
+      "end_time": 769.24,
+      "duration": 2.310000000000059,
+      "dialogue_text": "السفينة ستبحر"
+    },
+    {
+      "subtitle_index": 54,
+      "start_time": 770.38,
+      "end_time": 773.7,
+      "duration": 3.32000000000005,
+      "dialogue_text": "سوسوكي , كل هذا"
+    },
+    {
+      "subtitle_index": 55,
+      "start_time": 774.39,
+      "end_time": 777.2,
+      "duration": 2.810000000000059,
+      "dialogue_text": "هل تأكلين هذا؟"
+    },
+    {
+      "subtitle_index": 56,
+      "start_time": 777.2,
+      "end_time": 779.15,
+      "duration": 1.9499999999999318,
+      "dialogue_text": "كلي"
+    },
+    {
+      "subtitle_index": 57,
+      "start_time": 779.65,
+      "end_time": 785.13,
+      "duration": 5.480000000000018,
+      "dialogue_text": "ماذا الجرح قد اختفى"
+    },
+    {
+      "subtitle_index": 58,
+      "start_time": 785.13,
+      "end_time": 788.44,
+      "duration": 3.310000000000059,
+      "dialogue_text": "ريسا , اسمها بونيو"
+    },
+    {
+      "subtitle_index": 59,
+      "start_time": 788.68,
+      "end_time": 790.46,
+      "duration": 1.7800000000000864,
+      "dialogue_text": "انها تشبه الحورية"
+    },
+    {
+      "subtitle_index": 60,
+      "start_time": 790.46,
+      "end_time": 792.47,
+      "duration": 2.009999999999991,
+      "dialogue_text": "وهي تعرف السحر"
+    },
+    {
+      "subtitle_index": 61,
+      "start_time": 792.47,
+      "end_time": 795.8,
+      "duration": 3.3299999999999272,
+      "dialogue_text": "بعد ان قامت بلعق اصبعي الجرح قد اختفى"
+    },
+    {
+      "subtitle_index": 62,
+      "start_time": 805.3,
+      "end_time": 808.18,
+      "duration": 2.8799999999999955,
+      "dialogue_text": "اتحبين اللحمة ؟"
+    },
+    {
+      "subtitle_index": 63,
+      "start_time": 822.11,
+      "end_time": 824.97,
+      "duration": 2.8600000000000136,
+      "dialogue_text": "ريسا , بونيو تحب اكل اللحم"
+    },
+    {
+      "subtitle_index": 64,
+      "start_time": 824.97,
+      "end_time": 826.54,
+      "duration": 1.5699999999999363,
+      "dialogue_text": "مثلك تماما"
+    },
+    {
+      "subtitle_index": 65,
+      "start_time": 855.81,
+      "end_time": 858.57,
+      "duration": 2.7600000000001046,
+      "dialogue_text": "انسة ريسا اسرعي"
+    },
+    {
+      "subtitle_index": 66,
+      "start_time": 866.81,
+      "end_time": 869.96,
+      "duration": 3.150000000000091,
+      "dialogue_text": "قذارة , قذارة حقا"
+    },
+    {
+      "subtitle_index": 67,
+      "start_time": 871.3,
+      "end_time": 872.89,
+      "duration": 1.5900000000000318,
+      "dialogue_text": "صباح الخير"
+    },
+    {
+      "subtitle_index": 68,
+      "start_time": 879.37,
+      "end_time": 881.59,
+      "duration": 2.2200000000000273,
+      "dialogue_text": "بونيو, هل ترين منزلنا هناك"
+    },
+    {
+      "subtitle_index": 69,
+      "start_time": 881.59,
+      "end_time": 883.1,
+      "duration": 1.509999999999991,
+      "dialogue_text": "انظري"
+    },
+    {
+      "subtitle_index": 70,
+      "start_time": 903.87,
+      "end_time": 905.09,
+      "duration": 1.2200000000000273,
+      "dialogue_text": "هنا لا بئس به صحيح؟"
+    },
+    {
+      "subtitle_index": 71,
+      "start_time": 905.09,
+      "end_time": 905.88,
+      "duration": 0.7899999999999636,
+      "dialogue_text": ""
+    },
+    {
+      "subtitle_index": 72,
+      "start_time": 905.88,
+      "end_time": 906.95,
+      "duration": 1.07000000000005,
+      "dialogue_text": "اعتني بنفسك"
+    },
+    {
+      "subtitle_index": 73,
+      "start_time": 906.95,
+      "end_time": 908.3,
+      "duration": 1.349999999999909,
+      "dialogue_text": "مع السلامة"
+    },
+    {
+      "subtitle_index": 74,
+      "start_time": 909.71,
+      "end_time": 911.5,
+      "duration": 1.7899999999999636,
+      "dialogue_text": "صباح الخير , اعذرني"
+    },
+    {
+      "subtitle_index": 75,
+      "start_time": 911.5,
+      "end_time": 913.22,
+      "duration": 1.7200000000000273,
+      "dialogue_text": "ارجوك خذي كرسي الجدة نوريكو"
+    },
+    {
+      "subtitle_index": 76,
+      "start_time": 913.22,
+      "end_time": 914.13,
+      "duration": 0.9099999999999682,
+      "dialogue_text": "حسنا"
+    },
+    {
+      "subtitle_index": 77,
+      "start_time": 928.63,
+      "end_time": 930.7,
+      "duration": 2.07000000000005,
+      "dialogue_text": "سوسوكي الصغير , صباح الخير"
+    },
+    {
+      "subtitle_index": 78,
+      "start_time": 930.7,
+      "end_time": 933.65,
+      "duration": 2.949999999999932,
+      "dialogue_text": "جدتي يوشي, انا مشغول الان سأتحدث اليك لاحقا"
+    },
+    {
+      "subtitle_index": 79,
+      "start_time": 932.65,
+      "end_time": 933.18,
+      "duration": 0.5299999999999727,
+      "dialogue_text": "اتكلم معك لاحقا"
+    },
+    {
+      "subtitle_index": 80,
+      "start_time": 933.65,
+      "end_time": 934.86,
+      "duration": 1.2100000000000364,
+      "dialogue_text": ""
+    },
+    {
+      "subtitle_index": 81,
+      "start_time": 934.86,
+      "end_time": 936.44,
+      "duration": 1.580000000000041,
+      "dialogue_text": "سوسوكي الصغير"
+    },
+    {
+      "subtitle_index": 82,
+      "start_time": 936.44,
+      "end_time": 938.21,
+      "duration": 1.7699999999999818,
+      "dialogue_text": "جدتي توكي اراك لاحقا"
+    },
+    {
+      "subtitle_index": 83,
+      "start_time": 938.21,
+      "end_time": 939.79,
+      "duration": 1.5799999999999272,
+      "dialogue_text": ""
+    },
+    {
+      "subtitle_index": 84,
+      "start_time": 946.01,
+      "end_time": 949.09,
+      "duration": 3.080000000000041,
+      "dialogue_text": "اتسائل هل ستوافق المدرسة؟"
+    },
+    {
+      "subtitle_index": 85,
+      "start_time": 950.05,
+      "end_time": 951.83,
+      "duration": 1.7800000000000864,
+      "dialogue_text": "حسنا"
+    },
+    {
+      "subtitle_index": 86,
+      "start_time": 955.16,
+      "end_time": 956.51,
+      "duration": 1.3500000000000227,
+      "dialogue_text": "انتظريني هنا"
+    },
+    {
+      "subtitle_index": 87,
+      "start_time": 956.51,
+      "end_time": 958.4,
+      "duration": 1.8899999999999864,
+      "dialogue_text": "سوف اعود حالا"
+    },
+    {
+      "subtitle_index": 88,
+      "start_time": 960.8,
+      "end_time": 963.61,
+      "duration": 2.810000000000059,
+      "dialogue_text": "هل سيأتي قط الى هنا؟"
+    },
+    {
+      "subtitle_index": 89,
+      "start_time": 973.26,
+      "end_time": 975.26,
+      "duration": 2.0,
+      "dialogue_text": "فقط كوني هنا"
+    },
+    {
+      "subtitle_index": 90,
+      "start_time": 975.26,
+      "end_time": 977.26,
+      "duration": 2.0,
+      "dialogue_text": "سوف اعود حالا"
+    },
+    {
+      "subtitle_index": 91,
+      "start_time": 984.76,
+      "end_time": 985.66,
+      "duration": 0.8999999999999773,
+      "dialogue_text": "اراك لاحقا"
+    },
+    {
+      "subtitle_index": 92,
+      "start_time": 985.66,
+      "end_time": 987.3,
+      "duration": 1.6399999999999864,
+      "dialogue_text": "اه سوي"
+    },
+    {
+      "subtitle_index": 93,
+      "start_time": 988.57,
+      "end_time": 990.02,
+      "duration": 1.4499999999999318,
+      "dialogue_text": "فقط حرارتها مرتفعة قليلا"
+    },
+    {
+      "subtitle_index": 94,
+      "start_time": 990.02,
+      "end_time": 991.77,
+      "duration": 1.75,
+      "dialogue_text": "لكن تبدو بحالة صحية جيدة ,انها ستكون بخير"
+    },
+    {
+      "subtitle_index": 95,
+      "start_time": 991.77,
+      "end_time": 993.7,
+      "duration": 1.9300000000000637,
+      "dialogue_text": "شكرا جزيلا"
+    },
+    {
+      "subtitle_index": 96,
+      "start_time": 993.7,
+      "end_time": 994.95,
+      "duration": 1.25,
+      "dialogue_text": "مع السلامة"
+    },
+    {
+      "subtitle_index": 97,
+      "start_time": 994.95,
+      "end_time": 996.95,
+      "duration": 2.0,
+      "dialogue_text": "يا معلمتي , صباح الخير"
+    },
+    {
+      "subtitle_index": 98,
+      "start_time": 996.95,
+      "end_time": 998.34,
+      "duration": 1.3899999999999864,
+      "dialogue_text": "صباح الخير سوسوكي"
+    },
+    {
+      "subtitle_index": 99,
+      "start_time": 998.34,
+      "end_time": 999.84,
+      "duration": 1.5,
+      "dialogue_text": "سوسوكي , كيف الحال؟"
+    },
+    {
+      "subtitle_index": 100,
+      "start_time": 1004.8,
+      "end_time": 1006.24,
+      "duration": 1.4400000000000546,
+      "dialogue_text": "سوسوكي"
+    },
+    {
+      "subtitle_index": 101,
+      "start_time": 1006.24,
+      "end_time": 1007.42,
+      "duration": 1.17999999999995,
+      "dialogue_text": "كوميكو"
+    },
+    {
+      "subtitle_index": 102,
+      "start_time": 1007.42,
+      "end_time": 1008.1,
+      "duration": 0.6800000000000637,
+      "dialogue_text": "انظر الى هذا"
+    },
+    {
+      "subtitle_index": 103,
+      "start_time": 1008.1,
+      "end_time": 1008.98,
+      "duration": 0.8799999999999955,
+      "dialogue_text": "جميل"
+    },
+    {
+      "subtitle_index": 104,
+      "start_time": 1008.98,
+      "end_time": 1010.86,
+      "duration": 1.8799999999999955,
+      "dialogue_text": "امي قد اشترتها من اجلي"
+    },
+    {
+      "subtitle_index": 105,
+      "start_time": 1011.81,
+      "end_time": 1013.56,
+      "duration": 1.75,
+      "dialogue_text": "سوسوكي, لنلعب معا"
+    },
+    {
+      "subtitle_index": 106,
+      "start_time": 1013.56,
+      "end_time": 1016.05,
+      "duration": 2.490000000000009,
+      "dialogue_text": "اني مشغول الان, ربما المرة القادمة"
+    },
+    {
+      "subtitle_index": 107,
+      "start_time": 1016.05,
+      "end_time": 1017.68,
+      "duration": 1.6299999999999955,
+      "dialogue_text": "مشغول بماذا؟"
+    },
+    {
+      "subtitle_index": 108,
+      "start_time": 1017.68,
+      "end_time": 1019.56,
+      "duration": 1.8799999999999955,
+      "dialogue_text": "لقد قلت انا مشغول"
+    },
+    {
+      "subtitle_index": 109,
+      "start_time": 1019.56,
+      "end_time": 1021.33,
+      "duration": 1.7700000000000955,
+      "dialogue_text": "غريب سوسوكي"
+    },
+    {
+      "subtitle_index": 110,
+      "start_time": 1021.33,
+      "end_time": 1022.81,
+      "duration": 1.4799999999999045,
+      "dialogue_text": "غريب جدا"
+    },
+    {
+      "subtitle_index": 111,
+      "start_time": 1036.18,
+      "end_time": 1038.22,
+      "duration": 2.0399999999999636,
+      "dialogue_text": "اه"
+    },
+    {
+      "subtitle_index": 112,
+      "start_time": 1043.85,
+      "end_time": 1046.52,
+      "duration": 2.6700000000000728,
+      "dialogue_text": "بونيو"
+    },
+    {
+      "subtitle_index": 113,
+      "start_time": 1052.49,
+      "end_time": 1054.3,
+      "duration": 1.8099999999999454,
+      "dialogue_text": "سوسوكي"
+    },
+    {
+      "subtitle_index": 114,
+      "start_time": 1054.43,
+      "end_time": 1055.65,
+      "duration": 1.2200000000000273,
+      "dialogue_text": "كوميكو"
+    },
+    {
+      "subtitle_index": 115,
+      "start_time": 1055.65,
+      "end_time": 1057.19,
+      "duration": 1.5399999999999636,
+      "dialogue_text": "ما هذا؟"
+    },
+    {
+      "subtitle_index": 116,
+      "start_time": 1057.19,
+      "end_time": 1059.75,
+      "duration": 2.5599999999999454,
+      "dialogue_text": "لا يمكنك احضار هذا الى الروضة"
+    },
+    {
+      "subtitle_index": 117,
+      "start_time": 1059.75,
+      "end_time": 1061.68,
+      "duration": 1.9300000000000637,
+      "dialogue_text": "هذه الاشجار لا تنتمي الى الروضة"
+    },
+    {
+      "subtitle_index": 118,
+      "start_time": 1061.68,
+      "end_time": 1063.91,
+      "duration": 2.230000000000018,
+      "dialogue_text": "انها تنتمي الى دارالعجزة لذا الامر لابئس به"
+    },
+    {
+      "subtitle_index": 119,
+      "start_time": 1063.91,
+      "end_time": 1065.19,
+      "duration": 1.2799999999999727,
+      "dialogue_text": "دعني ارى ؟"
+    },
+    {
+      "subtitle_index": 120,
+      "start_time": 1066.15,
+      "end_time": 1067.91,
+      "duration": 1.759999999999991,
+      "dialogue_text": "اوه, انها سمكة ذهبية"
+    },
+    {
+      "subtitle_index": 121,
+      "start_time": 1067.91,
+      "end_time": 1070.3,
+      "duration": 2.3899999999998727,
+      "dialogue_text": "ليست سمكة ذهبية , حورية"
+    },
+    {
+      "subtitle_index": 122,
+      "start_time": 1070.3,
+      "end_time": 1071.44,
+      "duration": 1.1400000000001,
+      "dialogue_text": "حورية؟"
+    },
+    {
+      "subtitle_index": 123,
+      "start_time": 1071.44,
+      "end_time": 1072.9,
+      "duration": 1.4600000000000364,
+      "dialogue_text": "اني اريد ان ارى"
+    },
+    {
+      "subtitle_index": 124,
+      "start_time": 1072.9,
+      "end_time": 1075.13,
+      "duration": 2.230000000000018,
+      "dialogue_text": "اذا جعلتك ترين لا يمكنك اخبار اي شخص"
+    },
+    {
+      "subtitle_index": 125,
+      "start_time": 1075.13,
+      "end_time": 1076.92,
+      "duration": 1.7899999999999636,
+      "dialogue_text": "حسنا , لن اخبر احد"
+    },
+    {
+      "subtitle_index": 126,
+      "start_time": 1078.29,
+      "end_time": 1081.31,
+      "duration": 3.019999999999982,
+      "dialogue_text": "هل ترين , ظريفة جدا"
+    },
+    {
+      "subtitle_index": 127,
+      "start_time": 1086.43,
+      "end_time": 1087.62,
+      "duration": 1.1899999999998272,
+      "dialogue_text": "تبدو غريبة المظهر"
+    },
+    {
+      "subtitle_index": 128,
+      "start_time": 1087.62,
+      "end_time": 1088.56,
+      "duration": 0.9400000000000546,
+      "dialogue_text": "و سمينة"
+    },
+    {
+      "subtitle_index": 129,
+      "start_time": 1088.56,
+      "end_time": 1090.82,
+      "duration": 2.259999999999991,
+      "dialogue_text": "السمكة الذهبية بمنزلي تبدو اجمل بكثير"
+    },
+    {
+      "subtitle_index": 130,
+      "start_time": 1112.79,
+      "end_time": 1114.76,
+      "duration": 1.9700000000000273,
+      "dialogue_text": "انه خطئ كوميكو"
+    },
+    {
+      "subtitle_index": 131,
+      "start_time": 1114.76,
+      "end_time": 1117.6,
+      "duration": 2.839999999999918,
+      "dialogue_text": "انه خطئها بوقل شيء سيء على بونيو"
+    },
+    {
+      "subtitle_index": 132,
+      "start_time": 1120.76,
+      "end_time": 1123.26,
+      "duration": 2.5,
+      "dialogue_text": "سوف اساعدك بتغير الماء"
+    },
+    {
+      "subtitle_index": 133,
+      "start_time": 1129.71,
+      "end_time": 1131.25,
+      "duration": 1.5399999999999636,
+      "dialogue_text": "اه"
+    },
+    {
+      "subtitle_index": 134,
+      "start_time": 1145.21,
+      "end_time": 1147.05,
+      "duration": 1.8399999999999181,
+      "dialogue_text": "بونيو"
+    },
+    {
+      "subtitle_index": 135,
+      "start_time": 1153.22,
+      "end_time": 1155.41,
+      "duration": 2.1900000000000546,
+      "dialogue_text": "حمدا لله"
+    },
+    {
+      "subtitle_index": 136,
+      "start_time": 1159.92,
+      "end_time": 1166.06,
+      "duration": 6.139999999999873,
+      "dialogue_text": "اليس هذا صوت سوسكي الصغير؟"
+    },
+    {
+      "subtitle_index": 137,
+      "start_time": 1166.06,
+      "end_time": 1170.56,
+      "duration": 4.5,
+      "dialogue_text": "سوسوكي لابد انه بالروضة الان"
+    },
+    {
+      "subtitle_index": 138,
+      "start_time": 1170.56,
+      "end_time": 1172.79,
+      "duration": 2.230000000000018,
+      "dialogue_text": "السمع يزداد سوءا"
+    },
+    {
+      "subtitle_index": 139,
+      "start_time": 1172.79,
+      "end_time": 1176.19,
+      "duration": 3.400000000000091,
+      "dialogue_text": "جدتي ميجومي , انا هنا"
+    },
+    {
+      "subtitle_index": 140,
+      "start_time": 1176.36,
+      "end_time": 1180.42,
+      "duration": 4.060000000000173,
+      "dialogue_text": "هل هو سوسوكي الصغير"
+    },
+    {
+      "subtitle_index": 141,
+      "start_time": 1181.26,
+      "end_time": 1183.95,
+      "duration": 2.6900000000000546,
+      "dialogue_text": "هل يمكنكم ان تحزروا ماهذا؟"
+    },
+    {
+      "subtitle_index": 142,
+      "start_time": 1183.95,
+      "end_time": 1184.9,
+      "duration": 0.9500000000000455,
+      "dialogue_text": "لابد انه شيء جيد"
+    },
+    {
+      "subtitle_index": 143,
+      "start_time": 1184.9,
+      "end_time": 1186.39,
+      "duration": 1.490000000000009,
+      "dialogue_text": "هذا صحيح"
+    },
+    {
+      "subtitle_index": 144,
+      "start_time": 1186.47,
+      "end_time": 1190.34,
+      "duration": 3.869999999999891,
+      "dialogue_text": "احزروا باي لون؟"
+    },
+    {
+      "subtitle_index": 145,
+      "start_time": 1191.77,
+      "end_time": 1192.76,
+      "duration": 0.9900000000000091,
+      "dialogue_text": "الاحمر؟"
+    },
+    {
+      "subtitle_index": 146,
+      "start_time": 1192.76,
+      "end_time": 1194.04,
+      "duration": 1.2799999999999727,
+      "dialogue_text": "الاحمر"
+    },
+    {
+      "subtitle_index": 147,
+      "start_time": 1194.04,
+      "end_time": 1195.65,
+      "duration": 1.6100000000001273,
+      "dialogue_text": "صحيح"
+    },
+    {
+      "subtitle_index": 148,
+      "start_time": 1196.19,
+      "end_time": 1198.68,
+      "duration": 2.490000000000009,
+      "dialogue_text": "كيف علمتم هذا؟"
+    },
+    {
+      "subtitle_index": 149,
+      "start_time": 1198.68,
+      "end_time": 1200.17,
+      "duration": 1.490000000000009,
+      "dialogue_text": "دعني ارى"
+    },
+    {
+      "subtitle_index": 150,
+      "start_time": 1200.17,
+      "end_time": 1201.29,
+      "duration": 1.1199999999998909,
+      "dialogue_text": "حسنا"
+    },
+    {
+      "subtitle_index": 151,
+      "start_time": 1204.01,
+      "end_time": 1205.65,
+      "duration": 1.6400000000001,
+      "dialogue_text": "انها جميلة"
+    },
+    {
+      "subtitle_index": 152,
+      "start_time": 1205.65,
+      "end_time": 1207.19,
+      "duration": 1.5399999999999636,
+      "dialogue_text": "ظريفة"
+    },
+    {
+      "subtitle_index": 153,
+      "start_time": 1207.19,
+      "end_time": 1208.67,
+      "duration": 1.4800000000000182,
+      "dialogue_text": "ان اسمها بونيو"
+    },
+    {
+      "subtitle_index": 154,
+      "start_time": 1208.67,
+      "end_time": 1211.89,
+      "duration": 3.2200000000000273,
+      "dialogue_text": "انها تحب اللحم, و تعرف السحر"
+    },
+    {
+      "subtitle_index": 155,
+      "start_time": 1211.89,
+      "end_time": 1215.02,
+      "duration": 3.1299999999998818,
+      "dialogue_text": "الجرح الذي هنا اختفى"
+    },
+    {
+      "subtitle_index": 156,
+      "start_time": 1215.02,
+      "end_time": 1216.99,
+      "duration": 1.9700000000000273,
+      "dialogue_text": "لانها قامت بلعقها"
+    },
+    {
+      "subtitle_index": 157,
+      "start_time": 1218.64,
+      "end_time": 1222.74,
+      "duration": 4.099999999999909,
+      "dialogue_text": "هل يمكنها لعق قدمي؟"
+    },
+    {
+      "subtitle_index": 158,
+      "start_time": 1222.74,
+      "end_time": 1227.57,
+      "duration": 4.829999999999927,
+      "dialogue_text": "اذا تمكنت من الركض مثل سوسوكي الصغير هذا سيكون رائعا"
+    },
+    {
+      "subtitle_index": 159,
+      "start_time": 1228.23,
+      "end_time": 1230.97,
+      "duration": 2.740000000000009,
+      "dialogue_text": "يجب ان أسئل بونيو عن هذا"
+    },
+    {
+      "subtitle_index": 160,
+      "start_time": 1230.97,
+      "end_time": 1233.17,
+      "duration": 2.2000000000000455,
+      "dialogue_text": "دعني ارى ايضا"
+    },
+    {
+      "subtitle_index": 161,
+      "start_time": 1233.17,
+      "end_time": 1235.62,
+      "duration": 2.449999999999818,
+      "dialogue_text": "حسنا سيدو توكي"
+    },
+    {
+      "subtitle_index": 162,
+      "start_time": 1236.09,
+      "end_time": 1238.12,
+      "duration": 2.0299999999999727,
+      "dialogue_text": "اي يي, انها مقرفة"
+    },
+    {
+      "subtitle_index": 163,
+      "start_time": 1238.12,
+      "end_time": 1240.34,
+      "duration": 2.2200000000000273,
+      "dialogue_text": "اليس هذه حورية؟"
+    },
+    {
+      "subtitle_index": 164,
+      "start_time": 1240.72,
+      "end_time": 1243.04,
+      "duration": 2.3199999999999363,
+      "dialogue_text": "بسرعة اعدها الى البحر"
+    },
+    {
+      "subtitle_index": 165,
+      "start_time": 1243.04,
+      "end_time": 1245.17,
+      "duration": 2.130000000000109,
+      "dialogue_text": "انها ستحضر اعصار تسونامي"
+    },
+    {
+      "subtitle_index": 166,
+      "start_time": 1245.17,
+      "end_time": 1248.31,
+      "duration": 3.1399999999998727,
+      "dialogue_text": "ماذا تسونامي, هذا كثير جدا"
+    },
+    {
+      "subtitle_index": 167,
+      "start_time": 1248.31,
+      "end_time": 1250.22,
+      "duration": 1.9100000000000819,
+      "dialogue_text": "عندما تكون حورية على اليابسة"
+    },
+    {
+      "subtitle_index": 168,
+      "start_time": 1250.22,
+      "end_time": 1251.92,
+      "duration": 1.7000000000000455,
+      "dialogue_text": "اعصار تسونامي سيلحقها"
+    },
+    {
+      "subtitle_index": 169,
+      "start_time": 1251.92,
+      "end_time": 1253.75,
+      "duration": 1.8299999999999272,
+      "dialogue_text": "انها اسطورة منذو زمن بعيد"
+    },
+    {
+      "subtitle_index": 170,
+      "start_time": 1256.54,
+      "end_time": 1259.96,
+      "duration": 3.4200000000000728,
+      "dialogue_text": "انه ,تسونامي انها تسونامي"
+    },
+    {
+      "subtitle_index": 171,
+      "start_time": 1260.4,
+      "end_time": 1265.38,
+      "duration": 4.980000000000018,
+      "dialogue_text": "..تسونامي هنا ,تسونامي"
+    },
+    {
+      "subtitle_index": 172,
+      "start_time": 1266.99,
+      "end_time": 1269.78,
+      "duration": 2.7899999999999636,
+      "dialogue_text": "ماذا حدث جدة توكي"
+    },
+    {
+      "subtitle_index": 173,
+      "start_time": 1269.78,
+      "end_time": 1272.76,
+      "duration": 2.980000000000018,
+      "dialogue_text": "ثيابي"
+    },
+    {
+      "subtitle_index": 174,
+      "start_time": 1280.08,
+      "end_time": 1282.21,
+      "duration": 2.130000000000109,
+      "dialogue_text": "سوسوكي"
+    },
+    {
+      "subtitle_index": 175,
+      "start_time": 1286.33,
+      "end_time": 1288.7,
+      "duration": 2.3700000000001182,
+      "dialogue_text": "سوسوكي"
+    },
+    {
+      "subtitle_index": 176,
+      "start_time": 1290.74,
+      "end_time": 1292.68,
+      "duration": 1.9400000000000546,
+      "dialogue_text": "سوسوكي"
+    },
+    {
+      "subtitle_index": 177,
+      "start_time": 1294.12,
+      "end_time": 1299.73,
+      "duration": 5.610000000000127,
+      "dialogue_text": "سوسوكي, اعتذر الى جدة توكي"
+    },
+    {
+      "subtitle_index": 178,
+      "start_time": 1308.25,
+      "end_time": 1312.97,
+      "duration": 4.720000000000027,
+      "dialogue_text": "لا تقلقي, انا سوف احميك"
+    },
+    {
+      "subtitle_index": 179,
+      "start_time": 1314.08,
+      "end_time": 1316.43,
+      "duration": 2.3500000000001364,
+      "dialogue_text": "سوسكي"
+    },
+    {
+      "subtitle_index": 180,
+      "start_time": 1318.74,
+      "end_time": 1321.37,
+      "duration": 2.6299999999998818,
+      "dialogue_text": "سوسكي"
+    },
+    {
+      "subtitle_index": 181,
+      "start_time": 1321.37,
+      "end_time": 1324.62,
+      "duration": 3.25,
+      "dialogue_text": ""
+    },
+    {
+      "subtitle_index": 182,
+      "start_time": 1324.62,
+      "end_time": 1327.44,
+      "duration": 2.8200000000001637,
+      "dialogue_text": "بونيو"
+    },
+    {
+      "subtitle_index": 183,
+      "start_time": 1328.2,
+      "end_time": 1331.33,
+      "duration": 3.1299999999998818,
+      "dialogue_text": "بونيو..سوسكي"
+    },
+    {
+      "subtitle_index": 184,
+      "start_time": 1331.33,
+      "end_time": 1333.84,
+      "duration": 2.509999999999991,
+      "dialogue_text": "بونيو, سوسكي"
+    },
+    {
+      "subtitle_index": 185,
+      "start_time": 1333.84,
+      "end_time": 1335.57,
+      "duration": 1.7300000000000182,
+      "dialogue_text": "احبك"
+    },
+    {
+      "subtitle_index": 186,
+      "start_time": 1340.62,
+      "end_time": 1342.82,
+      "duration": 2.2000000000000455,
+      "dialogue_text": "انا احبك ايضا"
+    },
+    {
+      "subtitle_index": 187,
+      "start_time": 1342.82,
+      "end_time": 1345.84,
+      "duration": 3.019999999999982,
+      "dialogue_text": "بنيو, تحب سوسكي"
+    },
+    {
+      "subtitle_index": 188,
+      "start_time": 1385.98,
+      "end_time": 1388.17,
+      "duration": 2.1900000000000546,
+      "dialogue_text": "بونيو"
+    },
+    {
+      "subtitle_index": 189,
+      "start_time": 1388.87,
+      "end_time": 1391.99,
+      "duration": 3.1200000000001182,
+      "dialogue_text": "بونيو بونيو"
+    },
+    {
+      "subtitle_index": 190,
+      "start_time": 1392.49,
+      "end_time": 1394.18,
+      "duration": 1.6900000000000546,
+      "dialogue_text": "بونيو ..!؟"
+    },
+    {
+      "subtitle_index": 191,
+      "start_time": 1395.9,
+      "end_time": 1399.99,
+      "duration": 4.089999999999918,
+      "dialogue_text": "...بونيو"
+    },
+    {
+      "subtitle_index": 192,
+      "start_time": 1399.99,
+      "end_time": 1401.33,
+      "duration": 1.3399999999999181,
+      "dialogue_text": "سوسوكي"
+    },
+    {
+      "subtitle_index": 193,
+      "start_time": 1402.89,
+      "end_time": 1413.37,
+      "duration": 10.47999999999979,
+      "dialogue_text": ".........بونيو........"
+    },
+    {
+      "subtitle_index": 194,
+      "start_time": 1466.43,
+      "end_time": 1469.94,
+      "duration": 3.509999999999991,
+      "dialogue_text": "سوسوكي , سيكون هناك امر مقدر"
+    },
+    {
+      "subtitle_index": 195,
+      "start_time": 1469.94,
+      "end_time": 1472.96,
+      "duration": 3.019999999999982,
+      "dialogue_text": "حتى مع كثير من الالم ان هذا لن يغير قدرها"
+    },
+    {
+      "subtitle_index": 196,
+      "start_time": 1472.96,
+      "end_time": 1475.22,
+      "duration": 2.259999999999991,
+      "dialogue_text": "ان قدر بونيو ان تعيش في البحر"
+    },
+    {
+      "subtitle_index": 197,
+      "start_time": 1475.22,
+      "end_time": 1477.71,
+      "duration": 2.490000000000009,
+      "dialogue_text": "لهذا لماذا يجب ان تعود الى البحر"
+    },
+    {
+      "subtitle_index": 198,
+      "start_time": 1477.71,
+      "end_time": 1481.44,
+      "duration": 3.730000000000018,
+      "dialogue_text": "ذلك سيد المبيدات يبدو مثير لشكوك"
+    },
+    {
+      "subtitle_index": 199,
+      "start_time": 1482.25,
+      "end_time": 1484.16,
+      "duration": 1.9100000000000819,
+      "dialogue_text": "اعطني قليلا"
+    },
+    {
+      "subtitle_index": 200,
+      "start_time": 1484.49,
+      "end_time": 1486.62,
+      "duration": 2.1299999999998818,
+      "dialogue_text": "هيا, دعني اجرب"
+    },
+    {
+      "subtitle_index": 201,
+      "start_time": 1489.2,
+      "end_time": 1491.72,
+      "duration": 2.519999999999982,
+      "dialogue_text": "لذيذة المذاق"
+    },
+    {
+      "subtitle_index": 202,
+      "start_time": 1495.72,
+      "end_time": 1497.35,
+      "duration": 1.6299999999998818,
+      "dialogue_text": "ابتهج قليلا"
+    },
+    {
+      "subtitle_index": 203,
+      "start_time": 1497.35,
+      "end_time": 1499.97,
+      "duration": 2.6200000000001182,
+      "dialogue_text": "اليوم هو اليوم الذي عودة كويشي (كويشي هو والد سوسوكي)"
+    },
+    {
+      "subtitle_index": 204,
+      "start_time": 1500.13,
+      "end_time": 1504.06,
+      "duration": 3.9299999999998363,
+      "dialogue_text": "اذا لم يكن سوسكوي مبتهجا سيكون هو كذلك"
+    },
+    {
+      "subtitle_index": 205,
+      "start_time": 1529.32,
+      "end_time": 1531.48,
+      "duration": 2.160000000000082,
+      "dialogue_text": "لا تذهب الى البحر بعد اليوم"
+    },
+    {
+      "subtitle_index": 206,
+      "start_time": 1531.48,
+      "end_time": 1532.87,
+      "duration": 1.3899999999998727,
+      "dialogue_text": "حسنا"
+    },
+    {
+      "subtitle_index": 207,
+      "start_time": 1558.98,
+      "end_time": 1563.84,
+      "duration": 4.8599999999999,
+      "dialogue_text": "سوسوكي , عد الى الداخل"
+    },
+    {
+      "subtitle_index": 208,
+      "start_time": 1563.84,
+      "end_time": 1568.61,
+      "duration": 4.769999999999982,
+      "dialogue_text": "اذا وضعت هذا الدلو هنا بونيو ستعرف ان هذا منزلها"
+    },
+    {
+      "subtitle_index": 209,
+      "start_time": 1568.61,
+      "end_time": 1570.84,
+      "duration": 2.230000000000018,
+      "dialogue_text": "حسنا, اذا كان سوسوكي يريد وضعها"
+    },
+    {
+      "subtitle_index": 210,
+      "start_time": 1570.84,
+      "end_time": 1572.04,
+      "duration": 1.2000000000000455,
+      "dialogue_text": "فقط قم بذلك"
+    },
+    {
+      "subtitle_index": 211,
+      "start_time": 1572.04,
+      "end_time": 1573.33,
+      "duration": 1.2899999999999636,
+      "dialogue_text": ""
+    },
+    {
+      "subtitle_index": 212,
+      "start_time": 1585.65,
+      "end_time": 1587.82,
+      "duration": 2.1699999999998454,
+      "dialogue_text": "سوسكي قم بالرد على الهاتف"
+    },
+    {
+      "subtitle_index": 213,
+      "start_time": 1587.82,
+      "end_time": 1589.62,
+      "duration": 1.7999999999999545,
+      "dialogue_text": "لا بد انه كويشي"
+    },
+    {
+      "subtitle_index": 214,
+      "start_time": 1591.4,
+      "end_time": 1592.85,
+      "duration": 1.449999999999818,
+      "dialogue_text": "الو"
+    },
+    {
+      "subtitle_index": 215,
+      "start_time": 1592.85,
+      "end_time": 1595.4,
+      "duration": 2.550000000000182,
+      "dialogue_text": "نعم انه انا"
+    },
+    {
+      "subtitle_index": 216,
+      "start_time": 1595.4,
+      "end_time": 1597.48,
+      "duration": 2.0799999999999272,
+      "dialogue_text": "انا بخير"
+    },
+    {
+      "subtitle_index": 217,
+      "start_time": 1597.48,
+      "end_time": 1599.81,
+      "duration": 2.3299999999999272,
+      "dialogue_text": "اليوم , لا استطيع ان اكون بالمنزل"
+    },
+    {
+      "subtitle_index": 218,
+      "start_time": 1599.81,
+      "end_time": 1602.21,
+      "duration": 2.400000000000091,
+      "dialogue_text": "عابرة قادمة ,كالمعتاد سوف تفقد الاشارة"
+    },
+    {
+      "subtitle_index": 219,
+      "start_time": 1602.21,
+      "end_time": 1604.37,
+      "duration": 2.1599999999998545,
+      "dialogue_text": "انه دور ريسا"
+    },
+    {
+      "subtitle_index": 220,
+      "start_time": 1605.69,
+      "end_time": 1609.27,
+      "duration": 3.5799999999999272,
+      "dialogue_text": "كويشي؟"
+    },
+    {
+      "subtitle_index": 221,
+      "start_time": 1609.27,
+      "end_time": 1612.17,
+      "duration": 2.900000000000091,
+      "dialogue_text": "الا يمكنك ان ترفض هذا الطلب؟"
+    },
+    {
+      "subtitle_index": 222,
+      "start_time": 1612.17,
+      "end_time": 1616.2,
+      "duration": 4.029999999999973,
+      "dialogue_text": "انك لا تستطيع ان تترك زوجتك و ابنك على هذا التل"
+    },
+    {
+      "subtitle_index": 223,
+      "start_time": 1616.2,
+      "end_time": 1617.83,
+      "duration": 1.6299999999998818,
+      "dialogue_text": "انا لا اعلم"
+    },
+    {
+      "subtitle_index": 224,
+      "start_time": 1621.55,
+      "end_time": 1622.99,
+      "duration": 1.4400000000000546,
+      "dialogue_text": "ماهذا؟"
+    },
+    {
+      "subtitle_index": 225,
+      "start_time": 1622.99,
+      "end_time": 1626.25,
+      "duration": 3.259999999999991,
+      "dialogue_text": "سوسوكي, لنأكل بالخارج"
+    },
+    {
+      "subtitle_index": 226,
+      "start_time": 1626.25,
+      "end_time": 1628.61,
+      "duration": 2.3599999999999,
+      "dialogue_text": "لكن اني اريد ان أكل بالمنزل"
+    },
+    {
+      "subtitle_index": 227,
+      "start_time": 1656.64,
+      "end_time": 1657.57,
+      "duration": 0.9299999999998363,
+      "dialogue_text": "انه كويشي"
+    },
+    {
+      "subtitle_index": 228,
+      "start_time": 1657.57,
+      "end_time": 1659.68,
+      "duration": 2.1100000000001273,
+      "dialogue_text": "ريسا , انها سفينة كويشي"
+    },
+    {
+      "subtitle_index": 229,
+      "start_time": 1659.68,
+      "end_time": 1661.41,
+      "duration": 1.7300000000000182,
+      "dialogue_text": "بسرعة , قومي بإطفاء الاضواء"
+    },
+    {
+      "subtitle_index": 230,
+      "start_time": 1684.7,
+      "end_time": 1688.75,
+      "duration": 4.0499999999999545,
+      "dialogue_text": "انه سوسوكي , انه عبقري ان عمره فقط خمس سنوات"
+    },
+    {
+      "subtitle_index": 231,
+      "start_time": 1688.75,
+      "end_time": 1691.23,
+      "duration": 2.480000000000018,
+      "dialogue_text": "لا بد انه زوجتك غاضبة جدا"
+    },
+    {
+      "subtitle_index": 232,
+      "start_time": 1694.97,
+      "end_time": 1696.86,
+      "duration": 1.8899999999998727,
+      "dialogue_text": "أنا-أسف"
+    },
+    {
+      "subtitle_index": 233,
+      "start_time": 1696.86,
+      "end_time": 1699.13,
+      "duration": 2.270000000000209,
+      "dialogue_text": "ريسا ,انه يقول انه اسف"
+    },
+    {
+      "subtitle_index": 234,
+      "start_time": 1699.13,
+      "end_time": 1701.8,
+      "duration": 2.6699999999998454,
+      "dialogue_text": "أ.ح.م.ق (أحمق)"
+    },
+    {
+      "subtitle_index": 235,
+      "start_time": 1701.8,
+      "end_time": 1706.2,
+      "duration": 4.400000000000091,
+      "dialogue_text": "أحمق"
+    },
+    {
+      "subtitle_index": 236,
+      "start_time": 1706.2,
+      "end_time": 1709.99,
+      "duration": 3.7899999999999636,
+      "dialogue_text": "...جدا جدا جدا...."
+    },
+    {
+      "subtitle_index": 237,
+      "start_time": 1713.88,
+      "end_time": 1716.59,
+      "duration": 2.709999999999809,
+      "dialogue_text": "ريسا , انه يقول :انا احبك"
+    },
+    {
+      "subtitle_index": 238,
+      "start_time": 1716.85,
+      "end_time": 1719.81,
+      "duration": 2.9600000000000364,
+      "dialogue_text": "كثير كثير"
+    },
+    {
+      "subtitle_index": 239,
+      "start_time": 1721.83,
+      "end_time": 1727.24,
+      "duration": 5.410000000000082,
+      "dialogue_text": "(....أحمق أحمق أحمق أحمق ....)"
+    },
+    {
+      "subtitle_index": 240,
+      "start_time": 1732.01,
+      "end_time": 1735.82,
+      "duration": 3.8099999999999454,
+      "dialogue_text": "واو جميل جدا"
+    },
+    {
+      "subtitle_index": 241,
+      "start_time": 1738.97,
+      "end_time": 1744.19,
+      "duration": 5.220000000000027,
+      "dialogue_text": "(رحلة سالمة)"
+    },
+    {
+      "subtitle_index": 242,
+      "start_time": 1744.24,
+      "end_time": 1747.12,
+      "duration": 2.8799999999998818,
+      "dialogue_text": "(شكرا لك)"
+    },
+    {
+      "subtitle_index": 243,
+      "start_time": 1748.38,
+      "end_time": 1751.75,
+      "duration": 3.369999999999891,
+      "dialogue_text": "(عمت مساء)"
+    },
+    {
+      "subtitle_index": 244,
+      "start_time": 1768.77,
+      "end_time": 1771.91,
+      "duration": 3.1400000000001,
+      "dialogue_text": "ريسا, لا تبكي"
+    },
+    {
+      "subtitle_index": 245,
+      "start_time": 1771.95,
+      "end_time": 1775.02,
+      "duration": 3.0699999999999363,
+      "dialogue_text": "انا لم ابكي"
+    },
+    {
+      "subtitle_index": 246,
+      "start_time": 1775.02,
+      "end_time": 1779.98,
+      "duration": 4.960000000000036,
+      "dialogue_text": "انا وعدت ان احمي بونيو"
+    },
+    {
+      "subtitle_index": 247,
+      "start_time": 1783.38,
+      "end_time": 1786.91,
+      "duration": 3.5299999999999727,
+      "dialogue_text": "بونيو ...انت لا تبكين صحيح؟"
+    },
+    {
+      "subtitle_index": 248,
+      "start_time": 1789.27,
+      "end_time": 1793.59,
+      "duration": 4.319999999999936,
+      "dialogue_text": "حسنا , لنبتهج"
+    },
+    {
+      "subtitle_index": 249,
+      "start_time": 1793.98,
+      "end_time": 1797.75,
+      "duration": 3.769999999999982,
+      "dialogue_text": "(اغنية توتورو)"
+    },
+    {
+      "subtitle_index": 250,
+      "start_time": 1797.75,
+      "end_time": 1798.94,
+      "duration": 1.1900000000000546,
+      "dialogue_text": "أي"
+    },
+    {
+      "subtitle_index": 251,
+      "start_time": 1798.94,
+      "end_time": 1800.62,
+      "duration": 1.6799999999998363,
+      "dialogue_text": "سوسوكي ابتهج ايضا"
+    },
+    {
+      "subtitle_index": 252,
+      "start_time": 1800.62,
+      "end_time": 1804.18,
+      "duration": 3.560000000000173,
+      "dialogue_text": "فقط مثل ريسا , بونيو مبتهجة ايضا"
+    },
+    {
+      "subtitle_index": 253,
+      "start_time": 1804.19,
+      "end_time": 1805.52,
+      "duration": 1.3299999999999272,
+      "dialogue_text": "نعم"
+    },
+    {
+      "subtitle_index": 254,
+      "start_time": 1806.54,
+      "end_time": 1808.29,
+      "duration": 1.75,
+      "dialogue_text": "لنأكل"
+    },
+    {
+      "subtitle_index": 255,
+      "start_time": 1808.29,
+      "end_time": 1811.71,
+      "duration": 3.4200000000000728,
+      "dialogue_text": "لنأكل حصة كويشي ايضا"
+    },
+    {
+      "subtitle_index": 256,
+      "start_time": 1820.23,
+      "end_time": 1822.16,
+      "duration": 1.9300000000000637,
+      "dialogue_text": "ان كل هذا بسببي"
+    },
+    {
+      "subtitle_index": 257,
+      "start_time": 1822.16,
+      "end_time": 1827.2,
+      "duration": 5.039999999999964,
+      "dialogue_text": "ما كان يجب ان احضركم جميعا لزيارة المزرعة"
+    },
+    {
+      "subtitle_index": 258,
+      "start_time": 1827.23,
+      "end_time": 1833.38,
+      "duration": 6.150000000000091,
+      "dialogue_text": "لقد قلت لكم جميعا هواء و مياه البشر قذرة جدا"
+    },
+    {
+      "subtitle_index": 259,
+      "start_time": 1833.38,
+      "end_time": 1836.2,
+      "duration": 2.8199999999999363,
+      "dialogue_text": "تعالي كلي هذا, تعالي"
+    },
+    {
+      "subtitle_index": 260,
+      "start_time": 1836.2,
+      "end_time": 1839.15,
+      "duration": 2.9500000000000455,
+      "dialogue_text": "اسمعيني ؟ بولوميشارودين (اسم بونيو الحقيقي)"
+    },
+    {
+      "subtitle_index": 261,
+      "start_time": 1839.15,
+      "end_time": 1841.22,
+      "duration": 2.0699999999999363,
+      "dialogue_text": "اني اريد ان اكل اللحم"
+    },
+    {
+      "subtitle_index": 262,
+      "start_time": 1843.5,
+      "end_time": 1847.5,
+      "duration": 4.0,
+      "dialogue_text": "لحم؟ من اين سمعت كلمة فضيعة مثل هذه؟"
+    },
+    {
+      "subtitle_index": 263,
+      "start_time": 1847.5,
+      "end_time": 1849.35,
+      "duration": 1.849999999999909,
+      "dialogue_text": "قوليها , بولوميشارودين"
+    },
+    {
+      "subtitle_index": 264,
+      "start_time": 1849.35,
+      "end_time": 1853.17,
+      "duration": 3.8200000000001637,
+      "dialogue_text": "انا لست بولوميشارودين, انا بونيو"
+    },
+    {
+      "subtitle_index": 265,
+      "start_time": 1853.17,
+      "end_time": 1855.04,
+      "duration": 1.8699999999998909,
+      "dialogue_text": "بو..بو ..بونيو؟"
+    },
+    {
+      "subtitle_index": 266,
+      "start_time": 1855.04,
+      "end_time": 1856.34,
+      "duration": 1.2999999999999545,
+      "dialogue_text": "بونيو تحب سوسوكي"
+    },
+    {
+      "subtitle_index": 267,
+      "start_time": 1856.34,
+      "end_time": 1861.0,
+      "duration": 4.660000000000082,
+      "dialogue_text": "بونيو تريد ان تصبح انسان"
+    },
+    {
+      "subtitle_index": 268,
+      "start_time": 1861.0,
+      "end_time": 1866.07,
+      "duration": 5.069999999999936,
+      "dialogue_text": "انسان؟ ما هو الجيد عن ذلك المخلوق الغبي و المخيف؟"
+    },
+    {
+      "subtitle_index": 269,
+      "start_time": 1866.07,
+      "end_time": 1869.57,
+      "duration": 3.5,
+      "dialogue_text": "الانسان قد سلب حياة المخلوقات البحرية"
+    },
+    {
+      "subtitle_index": 270,
+      "start_time": 1869.57,
+      "end_time": 1872.85,
+      "duration": 3.2799999999999727,
+      "dialogue_text": "لقد كنت مرة انا انسان"
+    },
+    {
+      "subtitle_index": 271,
+      "start_time": 1872.85,
+      "end_time": 1875.45,
+      "duration": 2.6000000000001364,
+      "dialogue_text": "لقد ضحيت بالكثير من اجل لا اكون واحدا منهم"
+    },
+    {
+      "subtitle_index": 272,
+      "start_time": 1875.45,
+      "end_time": 1877.95,
+      "duration": 2.5,
+      "dialogue_text": "بونيو تريد يدين"
+    },
+    {
+      "subtitle_index": 273,
+      "start_time": 1877.95,
+      "end_time": 1881.3,
+      "duration": 3.349999999999909,
+      "dialogue_text": "انا لا اريد قدمين مثل هذه"
+    },
+    {
+      "subtitle_index": 274,
+      "start_time": 1881.3,
+      "end_time": 1884.61,
+      "duration": 3.3099999999999454,
+      "dialogue_text": "اريد قدمين مثل سوسوكي"
+    },
+    {
+      "subtitle_index": 275,
+      "start_time": 1884.61,
+      "end_time": 1886.68,
+      "duration": 2.0700000000001637,
+      "dialogue_text": "هذا يكفي!؟"
+    },
+    {
+      "subtitle_index": 276,
+      "start_time": 1905.45,
+      "end_time": 1906.76,
+      "duration": 1.3099999999999454,
+      "dialogue_text": "يدين قد خرجتا"
+    },
+    {
+      "subtitle_index": 277,
+      "start_time": 1906.76,
+      "end_time": 1909.29,
+      "duration": 2.5299999999999727,
+      "dialogue_text": "قدمين قد خرجتا ايضا"
+    },
+    {
+      "subtitle_index": 278,
+      "start_time": 1909.29,
+      "end_time": 1910.98,
+      "duration": 1.6900000000000546,
+      "dialogue_text": "اخرجي, اخرجي"
+    },
+    {
+      "subtitle_index": 279,
+      "start_time": 1910.98,
+      "end_time": 1914.24,
+      "duration": 3.259999999999991,
+      "dialogue_text": "لقد تذوقتي دم البشر؟"
+    },
+    {
+      "subtitle_index": 280,
+      "start_time": 1914.24,
+      "end_time": 1916.41,
+      "duration": 2.1700000000000728,
+      "dialogue_text": "اني ذاهبة الى سوسكي"
+    },
+    {
+      "subtitle_index": 281,
+      "start_time": 1916.41,
+      "end_time": 1919.58,
+      "duration": 3.1699999999998454,
+      "dialogue_text": "(كلمات تعويذة سحرية)"
+    },
+    {
+      "subtitle_index": 282,
+      "start_time": 1919.58,
+      "end_time": 1922.95,
+      "duration": 3.3700000000001182,
+      "dialogue_text": "عودي..عودي"
+    },
+    {
+      "subtitle_index": 283,
+      "start_time": 1928.1,
+      "end_time": 1932.21,
+      "duration": 4.110000000000127,
+      "dialogue_text": "(كلمات تعويذة سحرية)"
+    },
+    {
+      "subtitle_index": 284,
+      "start_time": 1935.0,
+      "end_time": 1938.09,
+      "duration": 3.089999999999918,
+      "dialogue_text": "اوه,لا يوجد طاقة كافية"
+    },
+    {
+      "subtitle_index": 285,
+      "start_time": 1948.31,
+      "end_time": 1952.64,
+      "duration": 4.330000000000155,
+      "dialogue_text": "اخرجي ..اخرجي"
+    },
+    {
+      "subtitle_index": 286,
+      "start_time": 1952.86,
+      "end_time": 1955.78,
+      "duration": 2.9200000000000728,
+      "dialogue_text": "اهدء , طريق النجوم (كلمات تعويذة سحرية)"
+    },
+    {
+      "subtitle_index": 287,
+      "start_time": 1955.78,
+      "end_time": 1959.29,
+      "duration": 3.509999999999991,
+      "dialogue_text": "عودي ..عودي..عودي"
+    },
+    {
+      "subtitle_index": 288,
+      "start_time": 1967.36,
+      "end_time": 1970.14,
+      "duration": 2.7800000000002,
+      "dialogue_text": "من المؤكد من انها ابنت تلك المرأة"
+    },
+    {
+      "subtitle_index": 289,
+      "start_time": 1970.14,
+      "end_time": 1971.52,
+      "duration": 1.3799999999998818,
+      "dialogue_text": "يالها من قوة كبيرة"
+    },
+    {
+      "subtitle_index": 290,
+      "start_time": 1976.48,
+      "end_time": 1980.68,
+      "duration": 4.2000000000000455,
+      "dialogue_text": "اذا استطعت التصدي لها بهذه الطريقة ستكون على ما يرام"
+    },
+    {
+      "subtitle_index": 291,
+      "start_time": 2000.56,
+      "end_time": 2003.93,
+      "duration": 3.3700000000001182,
+      "dialogue_text": "قوتي تستطيع فقط ان تمنعها لفترة قصيرة"
+    },
+    {
+      "subtitle_index": 292,
+      "start_time": 2003.93,
+      "end_time": 2006.64,
+      "duration": 2.7100000000000364,
+      "dialogue_text": "مثل تلك المرأة يستطيع القيام بهذا"
+    },
+    {
+      "subtitle_index": 293,
+      "start_time": 2015.65,
+      "end_time": 2016.42,
+      "duration": 0.7699999999999818,
+      "dialogue_text": "لا"
+    },
+    {
+      "subtitle_index": 294,
+      "start_time": 2016.42,
+      "end_time": 2018.8,
+      "duration": 2.3799999999998818,
+      "dialogue_text": "انه كثير جدا لكم"
+    },
+    {
+      "subtitle_index": 295,
+      "start_time": 2018.8,
+      "end_time": 2020.05,
+      "duration": 1.25,
+      "dialogue_text": "(ابتعدي... ابتع...)"
+    },
+    {
+      "subtitle_index": 296,
+      "start_time": 2020.05,
+      "end_time": 2021.21,
+      "duration": 1.1600000000000819,
+      "dialogue_text": "لا مستحيل"
+    },
+    {
+      "subtitle_index": 297,
+      "start_time": 2021.21,
+      "end_time": 2022.46,
+      "duration": 1.25,
+      "dialogue_text": "خطر خطر"
+    },
+    {
+      "subtitle_index": 298,
+      "start_time": 2022.46,
+      "end_time": 2024.4,
+      "duration": 1.9400000000000546,
+      "dialogue_text": "الجدار السحري لايقاف السلطعون بدء بالفشل"
+    },
+    {
+      "subtitle_index": 299,
+      "start_time": 2024.4,
+      "end_time": 2026.76,
+      "duration": 2.3599999999999,
+      "dialogue_text": "تقريبا متضايق من التوازن الطبيعي"
+    },
+    {
+      "subtitle_index": 300,
+      "start_time": 2026.76,
+      "end_time": 2028.01,
+      "duration": 1.25,
+      "dialogue_text": "اهدء اهدء"
+    },
+    {
+      "subtitle_index": 301,
+      "start_time": 2028.01,
+      "end_time": 2031.81,
+      "duration": 3.7999999999999545,
+      "dialogue_text": "انه ينتابني شعور سيء كلما يأتي وقت الالتقاء بتلك المرأة"
+    },
+    {
+      "subtitle_index": 302,
+      "start_time": 2031.81,
+      "end_time": 2032.86,
+      "duration": 1.0499999999999545,
+      "dialogue_text": "اوه لا. اوه لا"
+    },
+    {
+      "subtitle_index": 303,
+      "start_time": 2032.86,
+      "end_time": 2035.51,
+      "duration": 2.650000000000091,
+      "dialogue_text": "لقد انتهيت لتو من التنظيف"
+    },
+    {
+      "subtitle_index": 304,
+      "start_time": 2044.34,
+      "end_time": 2047.19,
+      "duration": 2.8500000000001364,
+      "dialogue_text": "انه لا يوكن ضعيفا هنا (يقصد الجدار السحري)"
+    },
+    {
+      "subtitle_index": 305,
+      "start_time": 2051.31,
+      "end_time": 2053.44,
+      "duration": 2.130000000000109,
+      "dialogue_text": "انه صعب جدا لفتحه"
+    },
+    {
+      "subtitle_index": 306,
+      "start_time": 2057.78,
+      "end_time": 2060.09,
+      "duration": 2.3099999999999454,
+      "dialogue_text": "اني احتاج لاتي فيما بعد لكي اصلحه"
+    },
+    {
+      "subtitle_index": 307,
+      "start_time": 2066.33,
+      "end_time": 2069.78,
+      "duration": 3.450000000000273,
+      "dialogue_text": "لا يمكنني ان اجعل اي مخلوق بحري يدخل هنا و إلا ستكون مشكلة كبيرة"
+    },
+    {
+      "subtitle_index": 308,
+      "start_time": 2092.89,
+      "end_time": 2094.68,
+      "duration": 1.7899999999999636,
+      "dialogue_text": "لقد احسنت عملا"
+    },
+    {
+      "subtitle_index": 309,
+      "start_time": 2094.68,
+      "end_time": 2099.66,
+      "duration": 4.980000000000018,
+      "dialogue_text": "طاقة البحار تنتشر بكل زاوية"
+    },
+    {
+      "subtitle_index": 310,
+      "start_time": 2099.66,
+      "end_time": 2101.63,
+      "duration": 1.9700000000002547,
+      "dialogue_text": "عندما يتم تعبئة هذه"
+    },
+    {
+      "subtitle_index": 311,
+      "start_time": 2101.63,
+      "end_time": 2104.25,
+      "duration": 2.619999999999891,
+      "dialogue_text": "وقت البحر سيظهر"
+    },
+    {
+      "subtitle_index": 312,
+      "start_time": 2104.25,
+      "end_time": 2107.37,
+      "duration": 3.119999999999891,
+      "dialogue_text": "نهاية هذه المخلوقات المخيفة"
+    },
+    {
+      "subtitle_index": 313,
+      "start_time": 2107.37,
+      "end_time": 2110.84,
+      "duration": 3.4700000000002547,
+      "dialogue_text": "وقت الانسان القذر سينتهي"
+    },
+    {
+      "subtitle_index": 314,
+      "start_time": 2115.16,
+      "end_time": 2117.5,
+      "duration": 2.3400000000001455,
+      "dialogue_text": "اغلقها ..اغلقها"
+    },
+    {
+      "subtitle_index": 315,
+      "start_time": 2200.52,
+      "end_time": 2202.07,
+      "duration": 1.550000000000182,
+      "dialogue_text": ""
+    },
+    {
+      "subtitle_index": 316,
+      "start_time": 2202.07,
+      "end_time": 2205.29,
+      "duration": 3.2199999999998,
+      "dialogue_text": ""
+    },
+    {
+      "subtitle_index": 317,
+      "start_time": 2210.02,
+      "end_time": 2213.79,
+      "duration": 3.769999999999982,
+      "dialogue_text": "سوسوكي انا سأذهب اليك"
+    },
+    {
+      "subtitle_index": 318,
+      "start_time": 2213.86,
+      "end_time": 2215.08,
+      "duration": 1.2199999999998,
+      "dialogue_text": "سوسوكي"
+    },
+    {
+      "subtitle_index": 319,
+      "start_time": 2221.75,
+      "end_time": 2224.48,
+      "duration": 2.730000000000018,
+      "dialogue_text": ""
+    },
+    {
+      "subtitle_index": 320,
+      "start_time": 2363.49,
+      "end_time": 2364.42,
+      "duration": 0.930000000000291,
+      "dialogue_text": "تسونامي؟"
+    },
+    {
+      "subtitle_index": 321,
+      "start_time": 2364.42,
+      "end_time": 2367.47,
+      "duration": 3.049999999999727,
+      "dialogue_text": "ايها القبطان , هذا, هذا"
+    },
+    {
+      "subtitle_index": 322,
+      "start_time": 2370.12,
+      "end_time": 2371.65,
+      "duration": 1.5300000000002,
+      "dialogue_text": "تسونامي"
+    },
+    {
+      "subtitle_index": 323,
+      "start_time": 2371.65,
+      "end_time": 2373.67,
+      "duration": 2.019999999999982,
+      "dialogue_text": "الجميع اذهبوا الى داخل السفينة"
+    },
+    {
+      "subtitle_index": 324,
+      "start_time": 2375.01,
+      "end_time": 2377.48,
+      "duration": 2.4699999999998,
+      "dialogue_text": "ما هذا؟"
+    },
+    {
+      "subtitle_index": 325,
+      "start_time": 2381.45,
+      "end_time": 2385.67,
+      "duration": 4.220000000000255,
+      "dialogue_text": "قبطان, الريدو و الرداد تعطلا"
+    },
+    {
+      "subtitle_index": 326,
+      "start_time": 2388.3,
+      "end_time": 2389.68,
+      "duration": 1.3799999999996544,
+      "dialogue_text": "انها فتاة"
+    },
+    {
+      "subtitle_index": 327,
+      "start_time": 2389.68,
+      "end_time": 2392.67,
+      "duration": 2.9900000000002365,
+      "dialogue_text": "بعمر سوسوكي"
+    },
+    {
+      "subtitle_index": 328,
+      "start_time": 2405.48,
+      "end_time": 2406.94,
+      "duration": 1.4600000000000364,
+      "dialogue_text": "شكرا لك"
+    },
+    {
+      "subtitle_index": 329,
+      "start_time": 2406.94,
+      "end_time": 2408.76,
+      "duration": 1.8200000000001637,
+      "dialogue_text": "شكرا لك لعملك الشاق"
+    },
+    {
+      "subtitle_index": 330,
+      "start_time": 2409.39,
+      "end_time": 2411.16,
+      "duration": 1.7699999999999818,
+      "dialogue_text": "سوسوكي, انتظر هنا لفترة حسنا؟"
+    },
+    {
+      "subtitle_index": 331,
+      "start_time": 2411.16,
+      "end_time": 2412.73,
+      "duration": 1.5700000000001637,
+      "dialogue_text": "المعلمة ستقوم بايصالك"
+    },
+    {
+      "subtitle_index": 332,
+      "start_time": 2412.73,
+      "end_time": 2414.98,
+      "duration": 2.25,
+      "dialogue_text": "انا سأذهب الى المنزل مع ريسا , ساكون بخير"
+    },
+    {
+      "subtitle_index": 333,
+      "start_time": 2414.98,
+      "end_time": 2416.34,
+      "duration": 1.3600000000001273,
+      "dialogue_text": "ايتها المعلمة مع السلامة"
+    },
+    {
+      "subtitle_index": 334,
+      "start_time": 2416.34,
+      "end_time": 2417.79,
+      "duration": 1.449999999999818,
+      "dialogue_text": "مع السلامة"
+    },
+    {
+      "subtitle_index": 335,
+      "start_time": 2418.12,
+      "end_time": 2419.98,
+      "duration": 1.8600000000001273,
+      "dialogue_text": "كن حذرا"
+    },
+    {
+      "subtitle_index": 336,
+      "start_time": 2462.52,
+      "end_time": 2464.12,
+      "duration": 1.599999999999909,
+      "dialogue_text": "سوسوكي , اسفة"
+    },
+    {
+      "subtitle_index": 337,
+      "start_time": 2464.12,
+      "end_time": 2465.74,
+      "duration": 1.6199999999998909,
+      "dialogue_text": "الباب يصعب فتح"
+    },
+    {
+      "subtitle_index": 338,
+      "start_time": 2465.74,
+      "end_time": 2467.13,
+      "duration": 1.3900000000003274,
+      "dialogue_text": "الكهرباء منقطعة"
+    },
+    {
+      "subtitle_index": 339,
+      "start_time": 2467.13,
+      "end_time": 2468.63,
+      "duration": 1.5,
+      "dialogue_text": "هل الامر بخير بالروضة ؟"
+    },
+    {
+      "subtitle_index": 340,
+      "start_time": 2468.63,
+      "end_time": 2469.25,
+      "duration": 0.6199999999998909,
+      "dialogue_text": "نعم"
+    },
+    {
+      "subtitle_index": 341,
+      "start_time": 2469.25,
+      "end_time": 2471.72,
+      "duration": 2.4699999999998,
+      "dialogue_text": "انسة ريسا , هل الامر بخير"
+    },
+    {
+      "subtitle_index": 342,
+      "start_time": 2471.72,
+      "end_time": 2472.76,
+      "duration": 1.0400000000004184,
+      "dialogue_text": "يمكنك الذهاب الى المنزل اولا"
+    },
+    {
+      "subtitle_index": 343,
+      "start_time": 2472.76,
+      "end_time": 2474.43,
+      "duration": 1.669999999999618,
+      "dialogue_text": "الجدة كانيكو ليست هنا بعد؟"
+    },
+    {
+      "subtitle_index": 344,
+      "start_time": 2474.43,
+      "end_time": 2475.26,
+      "duration": 0.830000000000382,
+      "dialogue_text": "نعم, لا تقلقي"
+    },
+    {
+      "subtitle_index": 345,
+      "start_time": 2475.26,
+      "end_time": 2477.22,
+      "duration": 1.9599999999995816,
+      "dialogue_text": "انها فقط متأخرة قليلا"
+    },
+    {
+      "subtitle_index": 346,
+      "start_time": 2477.22,
+      "end_time": 2479.83,
+      "duration": 2.6100000000001273,
+      "dialogue_text": "على كل حال اننا سنكون هنا الليل بطوله"
+    },
+    {
+      "subtitle_index": 347,
+      "start_time": 2479.83,
+      "end_time": 2482.54,
+      "duration": 2.7100000000000364,
+      "dialogue_text": "من الافضل ان تذهبي بما انك تستطعين ذلك"
+    },
+    {
+      "subtitle_index": 348,
+      "start_time": 2483.5,
+      "end_time": 2485.96,
+      "duration": 2.4600000000000364,
+      "dialogue_text": "سوسوكي , انتظر للحظة"
+    },
+    {
+      "subtitle_index": 349,
+      "start_time": 2485.96,
+      "end_time": 2487.27,
+      "duration": 1.3099999999999454,
+      "dialogue_text": "حسنا"
+    },
+    {
+      "subtitle_index": 350,
+      "start_time": 2497.7,
+      "end_time": 2499.42,
+      "duration": 1.7200000000002547,
+      "dialogue_text": "جدة ميجومي"
+    },
+    {
+      "subtitle_index": 351,
+      "start_time": 2499.53,
+      "end_time": 2502.36,
+      "duration": 2.8299999999999272,
+      "dialogue_text": "سوسوكي الصغير"
+    },
+    {
+      "subtitle_index": 352,
+      "start_time": 2502.36,
+      "end_time": 2504.76,
+      "duration": 2.400000000000091,
+      "dialogue_text": "ان الظلام دامس , اني لا استطعي رؤية شيء"
+    },
+    {
+      "subtitle_index": 353,
+      "start_time": 2504.76,
+      "end_time": 2507.6,
+      "duration": 2.8399999999996908,
+      "dialogue_text": "اني اعطيك هذه"
+    },
+    {
+      "subtitle_index": 354,
+      "start_time": 2509.11,
+      "end_time": 2512.42,
+      "duration": 3.3099999999999454,
+      "dialogue_text": "اه! ما هذا ؟"
+    },
+    {
+      "subtitle_index": 355,
+      "start_time": 2512.42,
+      "end_time": 2514.31,
+      "duration": 1.8899999999998727,
+      "dialogue_text": "واحدة اخرى الى جدة نوريكو ايضا"
+    },
+    {
+      "subtitle_index": 356,
+      "start_time": 2514.31,
+      "end_time": 2515.57,
+      "duration": 1.2600000000002183,
+      "dialogue_text": "شكرا"
+    },
+    {
+      "subtitle_index": 357,
+      "start_time": 2515.65,
+      "end_time": 2518.5,
+      "duration": 2.849999999999909,
+      "dialogue_text": "الظلام دامس , لا يمكن رؤية شيء"
+    },
+    {
+      "subtitle_index": 358,
+      "start_time": 2518.5,
+      "end_time": 2521.39,
+      "duration": 2.8899999999998727,
+      "dialogue_text": "عاصفة قوية , بالاضافة الى انقطاع الكهرباء"
+    },
+    {
+      "subtitle_index": 359,
+      "start_time": 2521.39,
+      "end_time": 2524.76,
+      "duration": 3.3700000000003456,
+      "dialogue_text": "هذا لماذا انا لا اريد ان ابقى هنا"
+    },
+    {
+      "subtitle_index": 360,
+      "start_time": 2527.58,
+      "end_time": 2528.83,
+      "duration": 1.25,
+      "dialogue_text": "لقد عادت الكهرباء"
+    },
+    {
+      "subtitle_index": 361,
+      "start_time": 2528.83,
+      "end_time": 2530.09,
+      "duration": 1.2600000000002183,
+      "dialogue_text": "حمدا لله"
+    },
+    {
+      "subtitle_index": 362,
+      "start_time": 2530.1,
+      "end_time": 2531.36,
+      "duration": 1.2600000000002183,
+      "dialogue_text": "الضوء ساطع جدا"
+    },
+    {
+      "subtitle_index": 363,
+      "start_time": 2531.36,
+      "end_time": 2532.82,
+      "duration": 1.4600000000000364,
+      "dialogue_text": "سمكة ذهبية"
+    },
+    {
+      "subtitle_index": 364,
+      "start_time": 2532.82,
+      "end_time": 2537.62,
+      "duration": 4.799999999999727,
+      "dialogue_text": "الكهرباء عادت من جديد بسبب وجود سوسوكي هنا"
+    },
+    {
+      "subtitle_index": 365,
+      "start_time": 2537.62,
+      "end_time": 2540.39,
+      "duration": 2.769999999999982,
+      "dialogue_text": "عاصفة قادمة الليلة"
+    },
+    {
+      "subtitle_index": 366,
+      "start_time": 2540.39,
+      "end_time": 2542.77,
+      "duration": 2.380000000000109,
+      "dialogue_text": "قوية جدا"
+    },
+    {
+      "subtitle_index": 367,
+      "start_time": 2544.16,
+      "end_time": 2546.4,
+      "duration": 2.2400000000002365,
+      "dialogue_text": "تلفاز عديم الفائدة."
+    },
+    {
+      "subtitle_index": 368,
+      "start_time": 2546.4,
+      "end_time": 2548.06,
+      "duration": 1.6599999999998545,
+      "dialogue_text": "لا استطيع رؤية شيء"
+    },
+    {
+      "subtitle_index": 369,
+      "start_time": 2548.06,
+      "end_time": 2551.37,
+      "duration": 3.3099999999999454,
+      "dialogue_text": "الأرصاد الجوية غير دقيقة اطلاقا"
+    },
+    {
+      "subtitle_index": 370,
+      "start_time": 2551.37,
+      "end_time": 2553.87,
+      "duration": 2.5,
+      "dialogue_text": "سوسوكي الصغير عد الى المنزل فورا"
+    },
+    {
+      "subtitle_index": 371,
+      "start_time": 2553.87,
+      "end_time": 2558.83,
+      "duration": 4.960000000000036,
+      "dialogue_text": "لقد حصلنا على سمكة ذهبية رائعة لن نكون خائفين من اي شيء"
+    },
+    {
+      "subtitle_index": 372,
+      "start_time": 2558.83,
+      "end_time": 2560.06,
+      "duration": 1.2300000000000182,
+      "dialogue_text": "نعم"
+    },
+    {
+      "subtitle_index": 373,
+      "start_time": 2567.19,
+      "end_time": 2570.66,
+      "duration": 3.4699999999998,
+      "dialogue_text": "جدتي توكي واحدة اخرى لك"
+    },
+    {
+      "subtitle_index": 374,
+      "start_time": 2572.59,
+      "end_time": 2574.72,
+      "duration": 2.1299999999996544,
+      "dialogue_text": "انها مجعدة كثيرا"
+    },
+    {
+      "subtitle_index": 375,
+      "start_time": 2574.72,
+      "end_time": 2575.78,
+      "duration": 1.0600000000004002,
+      "dialogue_text": "ما هذا؟"
+    },
+    {
+      "subtitle_index": 376,
+      "start_time": 2575.78,
+      "end_time": 2578.56,
+      "duration": 2.7799999999997453,
+      "dialogue_text": "انها هكذا"
+    },
+    {
+      "subtitle_index": 377,
+      "start_time": 2579.75,
+      "end_time": 2582.06,
+      "duration": 2.3099999999999454,
+      "dialogue_text": "انه مضرب , مضرب"
+    },
+    {
+      "subtitle_index": 378,
+      "start_time": 2582.06,
+      "end_time": 2582.84,
+      "duration": 0.7800000000002001,
+      "dialogue_text": "غير صحيح"
+    },
+    {
+      "subtitle_index": 379,
+      "start_time": 2582.84,
+      "end_time": 2584.44,
+      "duration": 1.599999999999909,
+      "dialogue_text": "انها كوجاني مارو"
+    },
+    {
+      "subtitle_index": 380,
+      "start_time": 2584.44,
+      "end_time": 2587.55,
+      "duration": 3.1100000000001273,
+      "dialogue_text": "سفينة والد سوسوكي"
+    },
+    {
+      "subtitle_index": 381,
+      "start_time": 2587.55,
+      "end_time": 2588.33,
+      "duration": 0.7799999999997453,
+      "dialogue_text": "نعم"
+    },
+    {
+      "subtitle_index": 382,
+      "start_time": 2588.33,
+      "end_time": 2590.82,
+      "duration": 2.4900000000002365,
+      "dialogue_text": "انها تبدو كمضرب بالنسبة الي"
+    },
+    {
+      "subtitle_index": 383,
+      "start_time": 2590.82,
+      "end_time": 2594.76,
+      "duration": 3.9400000000000546,
+      "dialogue_text": "سوسوكي حان وقت العودة قل وداعا لجميع"
+    },
+    {
+      "subtitle_index": 384,
+      "start_time": 2594.76,
+      "end_time": 2596.47,
+      "duration": 1.7099999999995816,
+      "dialogue_text": "حسنا"
+    },
+    {
+      "subtitle_index": 385,
+      "start_time": 2596.63,
+      "end_time": 2599.68,
+      "duration": 3.049999999999727,
+      "dialogue_text": "وداعا"
+    },
+    {
+      "subtitle_index": 386,
+      "start_time": 2599.68,
+      "end_time": 2601.31,
+      "duration": 1.6300000000001091,
+      "dialogue_text": "وداعا"
+    },
+    {
+      "subtitle_index": 387,
+      "start_time": 2601.94,
+      "end_time": 2605.08,
+      "duration": 3.1399999999998727,
+      "dialogue_text": "لا تطر بعيد بسبب الرياح"
+    },
+    {
+      "subtitle_index": 388,
+      "start_time": 2605.41,
+      "end_time": 2607.45,
+      "duration": 2.0399999999999636,
+      "dialogue_text": "تعال من هنا"
+    },
+    {
+      "subtitle_index": 389,
+      "start_time": 2611.51,
+      "end_time": 2614.0,
+      "duration": 2.4899999999997817,
+      "dialogue_text": "انه يبدو ان الهاتف تعطل ايضا"
+    },
+    {
+      "subtitle_index": 390,
+      "start_time": 2637.12,
+      "end_time": 2639.8,
+      "duration": 2.680000000000291,
+      "dialogue_text": "مستوى البحر يرتفع"
+    },
+    {
+      "subtitle_index": 391,
+      "start_time": 2643.22,
+      "end_time": 2646.18,
+      "duration": 2.9600000000000364,
+      "dialogue_text": "هذه السفن الن تغرق؟"
+    },
+    {
+      "subtitle_index": 392,
+      "start_time": 2646.18,
+      "end_time": 2649.26,
+      "duration": 3.080000000000382,
+      "dialogue_text": "السفن التي تبحر لا تخاف من العواصف"
+    },
+    {
+      "subtitle_index": 393,
+      "start_time": 2649.26,
+      "end_time": 2651.53,
+      "duration": 2.269999999999982,
+      "dialogue_text": "مثل كويشي"
+    },
+    {
+      "subtitle_index": 394,
+      "start_time": 2661.93,
+      "end_time": 2663.26,
+      "duration": 1.330000000000382,
+      "dialogue_text": "انها سمكة"
+    },
+    {
+      "subtitle_index": 395,
+      "start_time": 2663.26,
+      "end_time": 2664.56,
+      "duration": 1.2999999999997272,
+      "dialogue_text": "ريسا انها سمكة"
+    },
+    {
+      "subtitle_index": 396,
+      "start_time": 2664.56,
+      "end_time": 2666.49,
+      "duration": 1.9299999999998363,
+      "dialogue_text": "اربط حزام الامان"
+    },
+    {
+      "subtitle_index": 397,
+      "start_time": 2676.51,
+      "end_time": 2678.88,
+      "duration": 2.369999999999891,
+      "dialogue_text": "الانسة ريسا لا يمكنك العبرو من هنا"
+    },
+    {
+      "subtitle_index": 398,
+      "start_time": 2678.88,
+      "end_time": 2681.6,
+      "duration": 2.7199999999998,
+      "dialogue_text": "لقد تم امرنا لتو لاخذ الملجئ"
+    },
+    {
+      "subtitle_index": 399,
+      "start_time": 2681.65,
+      "end_time": 2683.0,
+      "duration": 1.349999999999909,
+      "dialogue_text": "الذهاب الى الملجئ؟"
+    },
+    {
+      "subtitle_index": 400,
+      "start_time": 2683.0,
+      "end_time": 2686.54,
+      "duration": 3.5399999999999636,
+      "dialogue_text": "هناك عجائز يقبعون في دار العجزة حتى الليل"
+    },
+    {
+      "subtitle_index": 401,
+      "start_time": 2686.54,
+      "end_time": 2690.74,
+      "duration": 4.199999999999818,
+      "dialogue_text": "تلك منطقة داخلية . و مع ارض مرتفعة سيكون كل شيء بخير"
+    },
+    {
+      "subtitle_index": 402,
+      "start_time": 2690.74,
+      "end_time": 2693.76,
+      "duration": 3.0200000000004366,
+      "dialogue_text": "على كل حال, يجب ان اذهب الى المنزل"
+    },
+    {
+      "subtitle_index": 403,
+      "start_time": 2693.76,
+      "end_time": 2695.31,
+      "duration": 1.5499999999997272,
+      "dialogue_text": "لا يمكنك البقاء هنا بعد الان"
+    },
+    {
+      "subtitle_index": 404,
+      "start_time": 2695.31,
+      "end_time": 2696.99,
+      "duration": 1.6799999999998363,
+      "dialogue_text": "اذهبي الى طريق الجبال"
+    },
+    {
+      "subtitle_index": 405,
+      "start_time": 2699.31,
+      "end_time": 2701.09,
+      "duration": 1.7800000000002,
+      "dialogue_text": "سوسوكي لنذهب"
+    },
+    {
+      "subtitle_index": 406,
+      "start_time": 2701.09,
+      "end_time": 2702.18,
+      "duration": 1.0899999999996908,
+      "dialogue_text": "حسنا"
+    },
+    {
+      "subtitle_index": 407,
+      "start_time": 2703.5,
+      "end_time": 2704.43,
+      "duration": 0.9299999999998363,
+      "dialogue_text": "ارجوك , لا تفعلي"
+    },
+    {
+      "subtitle_index": 408,
+      "start_time": 2704.43,
+      "end_time": 2706.27,
+      "duration": 1.8400000000001455,
+      "dialogue_text": "اوه لا, موجة قوية قادمة"
+    },
+    {
+      "subtitle_index": 409,
+      "start_time": 2711.13,
+      "end_time": 2712.67,
+      "duration": 1.5399999999999636,
+      "dialogue_text": "ريسا"
+    },
+    {
+      "subtitle_index": 410,
+      "start_time": 2712.67,
+      "end_time": 2714.46,
+      "duration": 1.7899999999999636,
+      "dialogue_text": "لا تكوني سخيفة"
+    },
+    {
+      "subtitle_index": 411,
+      "start_time": 2754.94,
+      "end_time": 2756.56,
+      "duration": 1.6199999999998909,
+      "dialogue_text": "انها قادمة"
+    },
+    {
+      "subtitle_index": 412,
+      "start_time": 2756.56,
+      "end_time": 2758.83,
+      "duration": 2.269999999999982,
+      "dialogue_text": "سوسكي اجلس جيدا"
+    },
+    {
+      "subtitle_index": 413,
+      "start_time": 2771.69,
+      "end_time": 2774.77,
+      "duration": 3.0799999999999272,
+      "dialogue_text": "سوف ازيد السرعة"
+    },
+    {
+      "subtitle_index": 414,
+      "start_time": 2825.64,
+      "end_time": 2827.93,
+      "duration": 2.2899999999999636,
+      "dialogue_text": "يالها من موجة مزعجة"
+    },
+    {
+      "subtitle_index": 415,
+      "start_time": 2837.97,
+      "end_time": 2839.48,
+      "duration": 1.5100000000002183,
+      "dialogue_text": "فتاة سقطت بها"
+    },
+    {
+      "subtitle_index": 416,
+      "start_time": 2839.48,
+      "end_time": 2840.19,
+      "duration": 0.7100000000000364,
+      "dialogue_text": "ماذا؟"
+    },
+    {
+      "subtitle_index": 417,
+      "start_time": 2840.19,
+      "end_time": 2842.42,
+      "duration": 2.230000000000018,
+      "dialogue_text": "اتية من ظهر سمكة"
+    },
+    {
+      "subtitle_index": 418,
+      "start_time": 2846.76,
+      "end_time": 2848.27,
+      "duration": 1.5099999999997635,
+      "dialogue_text": "اين؟"
+    },
+    {
+      "subtitle_index": 419,
+      "start_time": 2856.58,
+      "end_time": 2858.78,
+      "duration": 2.200000000000273,
+      "dialogue_text": "المد و الجزر بدء يرتفع"
+    },
+    {
+      "subtitle_index": 420,
+      "start_time": 2858.78,
+      "end_time": 2861.45,
+      "duration": 2.669999999999618,
+      "dialogue_text": "سوسوكي , اين الفتاة؟"
+    },
+    {
+      "subtitle_index": 421,
+      "start_time": 2861.45,
+      "end_time": 2864.38,
+      "duration": 2.930000000000291,
+      "dialogue_text": "هناك , تركض على ظهر سمكة"
+    },
+    {
+      "subtitle_index": 422,
+      "start_time": 2864.38,
+      "end_time": 2865.69,
+      "duration": 1.3099999999999454,
+      "dialogue_text": "سمكة؟"
+    },
+    {
+      "subtitle_index": 423,
+      "start_time": 2869.85,
+      "end_time": 2872.36,
+      "duration": 2.5100000000002183,
+      "dialogue_text": "سوسوكي , لنذهب"
+    },
+    {
+      "subtitle_index": 424,
+      "start_time": 2887.44,
+      "end_time": 2888.82,
+      "duration": 1.3800000000001091,
+      "dialogue_text": "تمسك جيدا سوسوكي"
+    },
+    {
+      "subtitle_index": 425,
+      "start_time": 2888.82,
+      "end_time": 2890.39,
+      "duration": 1.569999999999709,
+      "dialogue_text": "نكاد نصل الى المنزل"
+    },
+    {
+      "subtitle_index": 426,
+      "start_time": 2944.85,
+      "end_time": 2946.4,
+      "duration": 1.550000000000182,
+      "dialogue_text": "هناك فتاة"
+    },
+    {
+      "subtitle_index": 427,
+      "start_time": 2946.4,
+      "end_time": 2949.79,
+      "duration": 3.3899999999998727,
+      "dialogue_text": "هناك خطر , تعالي الى هنا"
+    },
+    {
+      "subtitle_index": 428,
+      "start_time": 2949.79,
+      "end_time": 2951.78,
+      "duration": 1.9900000000002365,
+      "dialogue_text": "سوسوكي , لا تتحرك"
+    },
+    {
+      "subtitle_index": 429,
+      "start_time": 2977.2,
+      "end_time": 2980.2,
+      "duration": 3.0,
+      "dialogue_text": "سوسوكي , هل تعرفها؟"
+    },
+    {
+      "subtitle_index": 430,
+      "start_time": 3000.72,
+      "end_time": 3002.64,
+      "duration": 1.9200000000000728,
+      "dialogue_text": "بونيو؟"
+    },
+    {
+      "subtitle_index": 431,
+      "start_time": 3003.0,
+      "end_time": 3005.39,
+      "duration": 2.3899999999998727,
+      "dialogue_text": "نعم انها بونيو"
+    },
+    {
+      "subtitle_index": 432,
+      "start_time": 3005.39,
+      "end_time": 3006.74,
+      "duration": 1.349999999999909,
+      "dialogue_text": "انها بونيو"
+    },
+    {
+      "subtitle_index": 433,
+      "start_time": 3008.74,
+      "end_time": 3012.52,
+      "duration": 3.7800000000002,
+      "dialogue_text": "ريسا, عادت بونيو على شكل فتاة صغيرة"
+    },
+    {
+      "subtitle_index": 434,
+      "start_time": 3023.82,
+      "end_time": 3026.36,
+      "duration": 2.5399999999999636,
+      "dialogue_text": "بونيو قد عادت"
+    },
+    {
+      "subtitle_index": 435,
+      "start_time": 3044.28,
+      "end_time": 3047.28,
+      "duration": 3.0,
+      "dialogue_text": "اسمعا , سوسوكي و بوني"
+    },
+    {
+      "subtitle_index": 436,
+      "start_time": 3047.28,
+      "end_time": 3048.66,
+      "duration": 1.3799999999996544,
+      "dialogue_text": "مهما كان الامر جميل و مفاجئ"
+    },
+    {
+      "subtitle_index": 437,
+      "start_time": 3048.66,
+      "end_time": 3050.62,
+      "duration": 1.9600000000000364,
+      "dialogue_text": "يجب ان تكونوا هادئين"
+    },
+    {
+      "subtitle_index": 438,
+      "start_time": 3050.62,
+      "end_time": 3053.18,
+      "duration": 2.5599999999999454,
+      "dialogue_text": "هل هذا مفهوم؟"
+    },
+    {
+      "subtitle_index": 439,
+      "start_time": 3053.18,
+      "end_time": 3055.24,
+      "duration": 2.0599999999999454,
+      "dialogue_text": "نعم- احسنتم-"
+    },
+    {
+      "subtitle_index": 440,
+      "start_time": 3059.47,
+      "end_time": 3061.79,
+      "duration": 2.3200000000001637,
+      "dialogue_text": "سوسوكي قم بخلع معطف المطر"
+    },
+    {
+      "subtitle_index": 441,
+      "start_time": 3062.05,
+      "end_time": 3063.77,
+      "duration": 1.7199999999998,
+      "dialogue_text": "بونيو انت لا تلبسين احذية صحيح؟"
+    },
+    {
+      "subtitle_index": 442,
+      "start_time": 3063.88,
+      "end_time": 3065.25,
+      "duration": 1.3699999999998909,
+      "dialogue_text": "امسكي هذه"
+    },
+    {
+      "subtitle_index": 443,
+      "start_time": 3069.38,
+      "end_time": 3071.61,
+      "duration": 2.230000000000018,
+      "dialogue_text": "سوف احضر شيء لتنشيفك"
+    },
+    {
+      "subtitle_index": 444,
+      "start_time": 3088.59,
+      "end_time": 3089.96,
+      "duration": 1.3699999999998909,
+      "dialogue_text": "بونيو , من هنا"
+    },
+    {
+      "subtitle_index": 445,
+      "start_time": 3092.26,
+      "end_time": 3094.4,
+      "duration": 2.1399999999998727,
+      "dialogue_text": "اني املك رائحة سوسكي"
+    },
+    {
+      "subtitle_index": 446,
+      "start_time": 3097.92,
+      "end_time": 3099.22,
+      "duration": 1.2999999999997272,
+      "dialogue_text": "بونيو"
+    },
+    {
+      "subtitle_index": 447,
+      "start_time": 3103.91,
+      "end_time": 3105.16,
+      "duration": 1.25,
+      "dialogue_text": "امسكتك"
+    },
+    {
+      "subtitle_index": 448,
+      "start_time": 3105.16,
+      "end_time": 3107.45,
+      "duration": 2.2899999999999636,
+      "dialogue_text": "لا تكوني مبتلة"
+    },
+    {
+      "subtitle_index": 449,
+      "start_time": 3111.4,
+      "end_time": 3113.97,
+      "duration": 2.569999999999709,
+      "dialogue_text": "شعر بونيو يبدو رائع باللون الاحمر"
+    },
+    {
+      "subtitle_index": 450,
+      "start_time": 3116.77,
+      "end_time": 3118.49,
+      "duration": 1.7199999999998,
+      "dialogue_text": "الثياب ليست مبتلة؟"
+    },
+    {
+      "subtitle_index": 451,
+      "start_time": 3118.69,
+      "end_time": 3121.22,
+      "duration": 2.5299999999997453,
+      "dialogue_text": "بونيو كانت تكون سمكة"
+    },
+    {
+      "subtitle_index": 452,
+      "start_time": 3121.22,
+      "end_time": 3123.6,
+      "duration": 2.380000000000109,
+      "dialogue_text": "انه لا بئس بان تكون مبتلة"
+    },
+    {
+      "subtitle_index": 453,
+      "start_time": 3123.83,
+      "end_time": 3125.68,
+      "duration": 1.849999999999909,
+      "dialogue_text": "نعم"
+    },
+    {
+      "subtitle_index": 454,
+      "start_time": 3126.39,
+      "end_time": 3128.61,
+      "duration": 2.2200000000002547,
+      "dialogue_text": "بونيو تحب هذا"
+    },
+    {
+      "subtitle_index": 455,
+      "start_time": 3128.61,
+      "end_time": 3131.84,
+      "duration": 3.230000000000018,
+      "dialogue_text": "رائع لنشرب الشاي"
+    },
+    {
+      "subtitle_index": 456,
+      "start_time": 3131.84,
+      "end_time": 3134.84,
+      "duration": 3.0,
+      "dialogue_text": "بونيو , احضري الضوء هنا"
+    },
+    {
+      "subtitle_index": 457,
+      "start_time": 3136.43,
+      "end_time": 3138.63,
+      "duration": 2.200000000000273,
+      "dialogue_text": "هل سيخرج الماء من هنا؟"
+    },
+    {
+      "subtitle_index": 458,
+      "start_time": 3138.63,
+      "end_time": 3139.53,
+      "duration": 0.900000000000091,
+      "dialogue_text": "نعم ستفعل"
+    },
+    {
+      "subtitle_index": 459,
+      "start_time": 3139.53,
+      "end_time": 3140.82,
+      "duration": 1.2899999999999636,
+      "dialogue_text": "نعم ستفعل"
+    },
+    {
+      "subtitle_index": 460,
+      "start_time": 3143.82,
+      "end_time": 3146.21,
+      "duration": 2.3899999999998727,
+      "dialogue_text": "انها تخرج انها تخرج"
+    },
+    {
+      "subtitle_index": 461,
+      "start_time": 3147.19,
+      "end_time": 3150.07,
+      "duration": 2.880000000000109,
+      "dialogue_text": "لاننا نمتلك خزان بالاعلى"
+    },
+    {
+      "subtitle_index": 462,
+      "start_time": 3151.42,
+      "end_time": 3153.7,
+      "duration": 2.2799999999997453,
+      "dialogue_text": "النار ستخرج من هنا"
+    },
+    {
+      "subtitle_index": 463,
+      "start_time": 3155.16,
+      "end_time": 3156.15,
+      "duration": 0.9900000000002365,
+      "dialogue_text": "هذا رائع"
+    },
+    {
+      "subtitle_index": 464,
+      "start_time": 3156.15,
+      "end_time": 3157.47,
+      "duration": 1.319999999999709,
+      "dialogue_text": "رائع"
+    },
+    {
+      "subtitle_index": 465,
+      "start_time": 3157.47,
+      "end_time": 3159.36,
+      "duration": 1.8900000000003274,
+      "dialogue_text": "هذا لانه غاز"
+    },
+    {
+      "subtitle_index": 466,
+      "start_time": 3162.03,
+      "end_time": 3164.48,
+      "duration": 2.449999999999818,
+      "dialogue_text": "حسنا اجلسا"
+    },
+    {
+      "subtitle_index": 467,
+      "start_time": 3164.48,
+      "end_time": 3165.91,
+      "duration": 1.4299999999998363,
+      "dialogue_text": "حسنا"
+    },
+    {
+      "subtitle_index": 468,
+      "start_time": 3165.91,
+      "end_time": 3167.97,
+      "duration": 2.0599999999999454,
+      "dialogue_text": "بونيو تعالي اجلسي هنا"
+    },
+    {
+      "subtitle_index": 469,
+      "start_time": 3173.56,
+      "end_time": 3175.59,
+      "duration": 2.0300000000002,
+      "dialogue_text": "يجب ان تجلسي بهذا الشكل"
+    },
+    {
+      "subtitle_index": 470,
+      "start_time": 3178.26,
+      "end_time": 3180.51,
+      "duration": 2.25,
+      "dialogue_text": "انزليها هكذا"
+    },
+    {
+      "subtitle_index": 471,
+      "start_time": 3182.34,
+      "end_time": 3184.32,
+      "duration": 1.9800000000000182,
+      "dialogue_text": "لا يمكنك استخدام يدك هكذا"
+    },
+    {
+      "subtitle_index": 472,
+      "start_time": 3184.32,
+      "end_time": 3186.39,
+      "duration": 2.069999999999709,
+      "dialogue_text": "اني املك قدمي"
+    },
+    {
+      "subtitle_index": 473,
+      "start_time": 3188.74,
+      "end_time": 3190.53,
+      "duration": 1.7900000000004184,
+      "dialogue_text": "واو, هذا رائع"
+    },
+    {
+      "subtitle_index": 474,
+      "start_time": 3193.13,
+      "end_time": 3195.39,
+      "duration": 2.2599999999997635,
+      "dialogue_text": "اه, ما هذا؟"
+    },
+    {
+      "subtitle_index": 475,
+      "start_time": 3195.39,
+      "end_time": 3198.45,
+      "duration": 3.0599999999999454,
+      "dialogue_text": "قدمين بونيو مثل اليدين"
+    },
+    {
+      "subtitle_index": 476,
+      "start_time": 3217.73,
+      "end_time": 3219.46,
+      "duration": 1.7300000000000182,
+      "dialogue_text": "تفضلي"
+    },
+    {
+      "subtitle_index": 477,
+      "start_time": 3220.53,
+      "end_time": 3222.27,
+      "duration": 1.7399999999997817,
+      "dialogue_text": "خذ"
+    },
+    {
+      "subtitle_index": 478,
+      "start_time": 3226.72,
+      "end_time": 3228.78,
+      "duration": 2.0600000000004,
+      "dialogue_text": "حان وقت الاكل \"مقولة يابانية مشهورة\""
+    },
+    {
+      "subtitle_index": 479,
+      "start_time": 3276.76,
+      "end_time": 3278.88,
+      "duration": 2.119999999999891,
+      "dialogue_text": "لقد كان لذيذا"
+    },
+    {
+      "subtitle_index": 480,
+      "start_time": 3279.21,
+      "end_time": 3282.5,
+      "duration": 3.2899999999999636,
+      "dialogue_text": "اذا , ماذا نفعل ؟"
+    },
+    {
+      "subtitle_index": 481,
+      "start_time": 3282.5,
+      "end_time": 3284.32,
+      "duration": 1.8200000000001637,
+      "dialogue_text": "بونيو تحب اللحم"
+    },
+    {
+      "subtitle_index": 482,
+      "start_time": 3284.32,
+      "end_time": 3286.65,
+      "duration": 2.3299999999999272,
+      "dialogue_text": "بونيو تحب اكل اللحم"
+    },
+    {
+      "subtitle_index": 483,
+      "start_time": 3287.96,
+      "end_time": 3290.26,
+      "duration": 2.300000000000182,
+      "dialogue_text": "اذا سوف نعد العشاء"
+    },
+    {
+      "subtitle_index": 484,
+      "start_time": 3290.26,
+      "end_time": 3293.76,
+      "duration": 3.5,
+      "dialogue_text": "لكن قبل هذا , يجب ان نقوم بتشغيل المولد"
+    },
+    {
+      "subtitle_index": 485,
+      "start_time": 3294.57,
+      "end_time": 3298.1,
+      "duration": 3.5299999999997453,
+      "dialogue_text": "بتوفير الطاقة لكي نتكلم مع كويشي"
+    },
+    {
+      "subtitle_index": 486,
+      "start_time": 3298.82,
+      "end_time": 3301.59,
+      "duration": 2.769999999999982,
+      "dialogue_text": "كويشي هو ابي"
+    },
+    {
+      "subtitle_index": 487,
+      "start_time": 3301.59,
+      "end_time": 3303.36,
+      "duration": 1.7699999999999818,
+      "dialogue_text": "ساحر شرير؟"
+    },
+    {
+      "subtitle_index": 488,
+      "start_time": 3303.36,
+      "end_time": 3307.17,
+      "duration": 3.8099999999999454,
+      "dialogue_text": "غير صحيح , هو قبطان سفينة كوجاني مارو"
+    },
+    {
+      "subtitle_index": 489,
+      "start_time": 3307.35,
+      "end_time": 3309.78,
+      "duration": 2.430000000000291,
+      "dialogue_text": "ماذا عن والدك بونيو؟"
+    },
+    {
+      "subtitle_index": 490,
+      "start_time": 3309.78,
+      "end_time": 3313.06,
+      "duration": 3.2799999999997453,
+      "dialogue_text": "فوجيموتو , لقد قام بحبس بونيو"
+    },
+    {
+      "subtitle_index": 491,
+      "start_time": 3313.6,
+      "end_time": 3316.17,
+      "duration": 2.5700000000001637,
+      "dialogue_text": "بونيو قد هربت"
+    },
+    {
+      "subtitle_index": 492,
+      "start_time": 3317.23,
+      "end_time": 3319.36,
+      "duration": 2.130000000000109,
+      "dialogue_text": "ماذا عن والدة بونيو؟"
+    },
+    {
+      "subtitle_index": 493,
+      "start_time": 3319.36,
+      "end_time": 3323.0,
+      "duration": 3.6399999999998727,
+      "dialogue_text": "امي , هي المفضلة لدي"
+    },
+    {
+      "subtitle_index": 494,
+      "start_time": 3323.0,
+      "end_time": 3325.62,
+      "duration": 2.619999999999891,
+      "dialogue_text": "لكنها مخيفة جدا"
+    },
+    {
+      "subtitle_index": 495,
+      "start_time": 3325.62,
+      "end_time": 3327.47,
+      "duration": 1.849999999999909,
+      "dialogue_text": "...انها مثل ريسا"
+    },
+    {
+      "subtitle_index": 496,
+      "start_time": 3331.83,
+      "end_time": 3334.01,
+      "duration": 2.180000000000291,
+      "dialogue_text": "بونيو شكرا لمساعدتك"
+    },
+    {
+      "subtitle_index": 497,
+      "start_time": 3349.75,
+      "end_time": 3352.97,
+      "duration": 3.2199999999998,
+      "dialogue_text": "لقد نفذا البنزين؟"
+    },
+    {
+      "subtitle_index": 498,
+      "start_time": 3352.97,
+      "end_time": 3354.55,
+      "duration": 1.580000000000382,
+      "dialogue_text": "هل هو عالق؟"
+    },
+    {
+      "subtitle_index": 499,
+      "start_time": 3354.55,
+      "end_time": 3355.72,
+      "duration": 1.169999999999618,
+      "dialogue_text": "انه عالق"
+    },
+    {
+      "subtitle_index": 500,
+      "start_time": 3355.72,
+      "end_time": 3357.91,
+      "duration": 2.1900000000000546,
+      "dialogue_text": "عالق من هناك"
+    },
+    {
+      "subtitle_index": 501,
+      "start_time": 3372.94,
+      "end_time": 3374.46,
+      "duration": 1.5199999999999818,
+      "dialogue_text": "رائع"
+    },
+    {
+      "subtitle_index": 502,
+      "start_time": 3374.46,
+      "end_time": 3376.38,
+      "duration": 1.9200000000000728,
+      "dialogue_text": "انه ساطع"
+    },
+    {
+      "subtitle_index": 503,
+      "start_time": 3378.17,
+      "end_time": 3380.09,
+      "duration": 1.9200000000000728,
+      "dialogue_text": "بونيو مذهلة"
+    },
+    {
+      "subtitle_index": 504,
+      "start_time": 3398.01,
+      "end_time": 3399.99,
+      "duration": 1.9799999999995634,
+      "dialogue_text": "راديو , راديو"
+    },
+    {
+      "subtitle_index": 505,
+      "start_time": 3399.99,
+      "end_time": 3403.51,
+      "duration": 3.5200000000004366,
+      "dialogue_text": "ريسا , هل سفينة غرقت؟"
+    },
+    {
+      "subtitle_index": 506,
+      "start_time": 3404.19,
+      "end_time": 3406.39,
+      "duration": 2.199999999999818,
+      "dialogue_text": "لا يوجد ضوء"
+    },
+    {
+      "subtitle_index": 507,
+      "start_time": 3424.43,
+      "end_time": 3426.4,
+      "duration": 1.9700000000002547,
+      "dialogue_text": "مزعج كثيرا"
+    },
+    {
+      "subtitle_index": 508,
+      "start_time": 3426.4,
+      "end_time": 3428.19,
+      "duration": 1.7899999999999636,
+      "dialogue_text": "هل كل شيء على ما يرام؟"
+    },
+    {
+      "subtitle_index": 509,
+      "start_time": 3428.36,
+      "end_time": 3431.19,
+      "duration": 2.8299999999999272,
+      "dialogue_text": "يبدو انه الراديو لا يعمل"
+    },
+    {
+      "subtitle_index": 510,
+      "start_time": 3432.13,
+      "end_time": 3434.61,
+      "duration": 2.480000000000018,
+      "dialogue_text": "هذه جي أي اربعة ال ال"
+    },
+    {
+      "subtitle_index": 511,
+      "start_time": 3434.61,
+      "end_time": 3436.62,
+      "duration": 2.0099999999997635,
+      "dialogue_text": "جي أي اربعة ال ال"
+    },
+    {
+      "subtitle_index": 512,
+      "start_time": 3436.62,
+      "end_time": 3438.54,
+      "duration": 1.9200000000000728,
+      "dialogue_text": "كويشي هل يمكنك سماعي؟"
+    },
+    {
+      "subtitle_index": 513,
+      "start_time": 3438.54,
+      "end_time": 3441.11,
+      "duration": 2.5700000000001637,
+      "dialogue_text": "هذه ريسا و سوسوكي و بونيو"
+    },
+    {
+      "subtitle_index": 514,
+      "start_time": 3441.11,
+      "end_time": 3443.27,
+      "duration": 2.1599999999998545,
+      "dialogue_text": "الجميع بخير هنا"
+    },
+    {
+      "subtitle_index": 515,
+      "start_time": 3444.22,
+      "end_time": 3446.56,
+      "duration": 2.3400000000001455,
+      "dialogue_text": "لنأكل"
+    },
+    {
+      "subtitle_index": 516,
+      "start_time": 3446.88,
+      "end_time": 3449.05,
+      "duration": 2.1700000000000728,
+      "dialogue_text": "اللحم!؟"
+    },
+    {
+      "subtitle_index": 517,
+      "start_time": 3457.11,
+      "end_time": 3458.58,
+      "duration": 1.4699999999998,
+      "dialogue_text": "ضعيها بالداخل"
+    },
+    {
+      "subtitle_index": 518,
+      "start_time": 3458.58,
+      "end_time": 3460.66,
+      "duration": 2.0799999999999272,
+      "dialogue_text": "انه حار انتبهي"
+    },
+    {
+      "subtitle_index": 519,
+      "start_time": 3476.38,
+      "end_time": 3478.44,
+      "duration": 2.0599999999999454,
+      "dialogue_text": "غير جاهزة بعد"
+    },
+    {
+      "subtitle_index": 520,
+      "start_time": 3478.44,
+      "end_time": 3480.39,
+      "duration": 1.949999999999818,
+      "dialogue_text": "انتظري لمدة 3 دقائق"
+    },
+    {
+      "subtitle_index": 521,
+      "start_time": 3495.04,
+      "end_time": 3497.31,
+      "duration": 2.269999999999982,
+      "dialogue_text": "اغمضو عيناكما"
+    },
+    {
+      "subtitle_index": 522,
+      "start_time": 3497.55,
+      "end_time": 3499.48,
+      "duration": 1.9299999999998363,
+      "dialogue_text": "ليس بعد"
+    },
+    {
+      "subtitle_index": 523,
+      "start_time": 3501.53,
+      "end_time": 3503.92,
+      "duration": 2.3899999999998727,
+      "dialogue_text": "بونيو لا تختلسي النظر"
+    },
+    {
+      "subtitle_index": 524,
+      "start_time": 3507.03,
+      "end_time": 3509.5,
+      "duration": 2.4699999999998,
+      "dialogue_text": "حسنا , يمكنكم فتح عيناكما الان"
+    },
+    {
+      "subtitle_index": 525,
+      "start_time": 3509.89,
+      "end_time": 3512.43,
+      "duration": 2.5399999999999636,
+      "dialogue_text": "تمتعوا ~~بوجبتكما"
+    },
+    {
+      "subtitle_index": 526,
+      "start_time": 3512.69,
+      "end_time": 3515.11,
+      "duration": 2.4200000000000728,
+      "dialogue_text": "واو"
+    },
+    {
+      "subtitle_index": 527,
+      "start_time": 3518.45,
+      "end_time": 3519.86,
+      "duration": 1.4100000000003092,
+      "dialogue_text": "اللحم"
+    },
+    {
+      "subtitle_index": 528,
+      "start_time": 3519.86,
+      "end_time": 3521.51,
+      "duration": 1.650000000000091,
+      "dialogue_text": "بونيو , رائع"
+    },
+    {
+      "subtitle_index": 529,
+      "start_time": 3521.51,
+      "end_time": 3522.56,
+      "duration": 1.0499999999997272,
+      "dialogue_text": ""
+    },
+    {
+      "subtitle_index": 530,
+      "start_time": 3522.56,
+      "end_time": 3526.0,
+      "duration": 3.4400000000000546,
+      "dialogue_text": "اي , اي , ساخن , ساخن"
+    },
+    {
+      "subtitle_index": 531,
+      "start_time": 3542.61,
+      "end_time": 3545.03,
+      "duration": 2.4200000000000728,
+      "dialogue_text": "ريسا , بونيو قد نامت"
+    },
+    {
+      "subtitle_index": 532,
+      "start_time": 3551.96,
+      "end_time": 3554.51,
+      "duration": 2.550000000000182,
+      "dialogue_text": "بونيو قد اتت من مكان بعيد؟"
+    },
+    {
+      "subtitle_index": 533,
+      "start_time": 3554.51,
+      "end_time": 3556.73,
+      "duration": 2.2199999999998,
+      "dialogue_text": "نعم , لا بدن من هذا"
+    },
+    {
+      "subtitle_index": 534,
+      "start_time": 3572.12,
+      "end_time": 3573.35,
+      "duration": 1.2300000000000182,
+      "dialogue_text": "سوسوكي , انظر"
+    },
+    {
+      "subtitle_index": 535,
+      "start_time": 3573.35,
+      "end_time": 3575.52,
+      "duration": 2.1700000000000728,
+      "dialogue_text": "العاصفة قد انتهت"
+    },
+    {
+      "subtitle_index": 536,
+      "start_time": 3575.8,
+      "end_time": 3577.57,
+      "duration": 1.7699999999999818,
+      "dialogue_text": "هل هو بسبب ان بونيو قد نامت؟"
+    },
+    {
+      "subtitle_index": 537,
+      "start_time": 3577.57,
+      "end_time": 3579.63,
+      "duration": 2.0599999999999454,
+      "dialogue_text": "سوسوكي , هناك"
+    },
+    {
+      "subtitle_index": 538,
+      "start_time": 3587.07,
+      "end_time": 3588.14,
+      "duration": 1.069999999999709,
+      "dialogue_text": "شيء يتحرك"
+    },
+    {
+      "subtitle_index": 539,
+      "start_time": 3588.14,
+      "end_time": 3590.05,
+      "duration": 1.9100000000003092,
+      "dialogue_text": "شخص هناك"
+    },
+    {
+      "subtitle_index": 540,
+      "start_time": 3590.05,
+      "end_time": 3592.25,
+      "duration": 2.199999999999818,
+      "dialogue_text": "الجدة ميجومي؟"
+    },
+    {
+      "subtitle_index": 541,
+      "start_time": 3598.44,
+      "end_time": 3599.86,
+      "duration": 1.4200000000000728,
+      "dialogue_text": "لقد اختفى"
+    },
+    {
+      "subtitle_index": 542,
+      "start_time": 3599.86,
+      "end_time": 3602.06,
+      "duration": 2.199999999999818,
+      "dialogue_text": "انه طريق الجبال"
+    },
+    {
+      "subtitle_index": 543,
+      "start_time": 3605.19,
+      "end_time": 3607.49,
+      "duration": 2.299999999999727,
+      "dialogue_text": "سوسوكي انتظر هنا مع بونيو"
+    },
+    {
+      "subtitle_index": 544,
+      "start_time": 3618.51,
+      "end_time": 3620.04,
+      "duration": 1.5299999999997453,
+      "dialogue_text": "انا ذاهبة"
+    },
+    {
+      "subtitle_index": 545,
+      "start_time": 3620.04,
+      "end_time": 3622.69,
+      "duration": 2.650000000000091,
+      "dialogue_text": "سيكون الامر بخير مع طريق الجبال"
+    },
+    {
+      "subtitle_index": 546,
+      "start_time": 3625.37,
+      "end_time": 3628.0,
+      "duration": 2.630000000000109,
+      "dialogue_text": "سوسوكي , اني ذاهبة الى دار العجزة"
+    },
+    {
+      "subtitle_index": 547,
+      "start_time": 3628.0,
+      "end_time": 3629.86,
+      "duration": 1.8600000000001273,
+      "dialogue_text": "انا ذاهب ايضا"
+    },
+    {
+      "subtitle_index": 548,
+      "start_time": 3630.42,
+      "end_time": 3632.76,
+      "duration": 2.3400000000001455,
+      "dialogue_text": "سوسوكي كن مع بونيو"
+    },
+    {
+      "subtitle_index": 549,
+      "start_time": 3632.76,
+      "end_time": 3636.7,
+      "duration": 3.9399999999996,
+      "dialogue_text": "اني اريد ان اذهب , لنحضر بونيو معنا"
+    },
+    {
+      "subtitle_index": 550,
+      "start_time": 3636.7,
+      "end_time": 3638.59,
+      "duration": 1.8900000000003274,
+      "dialogue_text": "ريسا انا ذاهب معك"
+    },
+    {
+      "subtitle_index": 551,
+      "start_time": 3640.4,
+      "end_time": 3642.47,
+      "duration": 2.069999999999709,
+      "dialogue_text": "سوسوكي , هذا هو المنزل الان"
+    },
+    {
+      "subtitle_index": 552,
+      "start_time": 3642.47,
+      "end_time": 3644.43,
+      "duration": 1.9600000000000364,
+      "dialogue_text": "انه المنارة بالعاصفة"
+    },
+    {
+      "subtitle_index": 553,
+      "start_time": 3644.43,
+      "end_time": 3648.49,
+      "duration": 4.059999999999945,
+      "dialogue_text": "احضر الضوء و ابعث الامل لاشخاص بالظلام"
+    },
+    {
+      "subtitle_index": 554,
+      "start_time": 3648.51,
+      "end_time": 3650.97,
+      "duration": 2.4599999999995816,
+      "dialogue_text": "لابد ان يكون شخص ما هنا"
+    },
+    {
+      "subtitle_index": 555,
+      "start_time": 3651.43,
+      "end_time": 3653.78,
+      "duration": 2.350000000000364,
+      "dialogue_text": "الكثير من الامور الغريبة قد حدثت"
+    },
+    {
+      "subtitle_index": 556,
+      "start_time": 3653.78,
+      "end_time": 3656.31,
+      "duration": 2.5299999999997453,
+      "dialogue_text": "لكني غير لمتأكدة لماذا"
+    },
+    {
+      "subtitle_index": 557,
+      "start_time": 3656.31,
+      "end_time": 3658.34,
+      "duration": 2.0300000000002,
+      "dialogue_text": "لا بد من هناك سبب"
+    },
+    {
+      "subtitle_index": 558,
+      "start_time": 3658.34,
+      "end_time": 3661.3,
+      "duration": 2.9600000000000364,
+      "dialogue_text": "اني قلقة على دار العجزة"
+    },
+    {
+      "subtitle_index": 559,
+      "start_time": 3661.47,
+      "end_time": 3663.95,
+      "duration": 2.480000000000018,
+      "dialogue_text": "اذا قام سوسوكي بحماية هذا المكان"
+    },
+    {
+      "subtitle_index": 560,
+      "start_time": 3663.95,
+      "end_time": 3665.74,
+      "duration": 1.7899999999999636,
+      "dialogue_text": "ريسا سوف تمتلك الدعم"
+    },
+    {
+      "subtitle_index": 561,
+      "start_time": 3665.74,
+      "end_time": 3667.08,
+      "duration": 1.3400000000001455,
+      "dialogue_text": "انا سأكون بخير"
+    },
+    {
+      "subtitle_index": 562,
+      "start_time": 3667.08,
+      "end_time": 3669.35,
+      "duration": 2.269999999999982,
+      "dialogue_text": "انا سوف اعود الى المنزل"
+    },
+    {
+      "subtitle_index": 563,
+      "start_time": 3670.3,
+      "end_time": 3672.1,
+      "duration": 1.7999999999997272,
+      "dialogue_text": "متأكدة؟"
+    },
+    {
+      "subtitle_index": 564,
+      "start_time": 3672.64,
+      "end_time": 3674.21,
+      "duration": 1.5700000000001637,
+      "dialogue_text": "متأكدة"
+    },
+    {
+      "subtitle_index": 565,
+      "start_time": 3674.21,
+      "end_time": 3676.18,
+      "duration": 1.9699999999998,
+      "dialogue_text": "اذا كوني متأكدة"
+    },
+    {
+      "subtitle_index": 566,
+      "start_time": 3676.61,
+      "end_time": 3678.82,
+      "duration": 2.2100000000000364,
+      "dialogue_text": "سوسوكي انا احبك"
+    },
+    {
+      "subtitle_index": 567,
+      "start_time": 3732.97,
+      "end_time": 3734.37,
+      "duration": 1.400000000000091,
+      "dialogue_text": "القمر بدء يظهر"
+    },
+    {
+      "subtitle_index": 568,
+      "start_time": 3734.37,
+      "end_time": 3736.49,
+      "duration": 2.119999999999891,
+      "dialogue_text": "اننا نستطيع رؤية الضوء من المدينة"
+    },
+    {
+      "subtitle_index": 569,
+      "start_time": 3736.49,
+      "end_time": 3737.88,
+      "duration": 1.3900000000003274,
+      "dialogue_text": "حمدا لله"
+    },
+    {
+      "subtitle_index": 570,
+      "start_time": 3737.88,
+      "end_time": 3739.92,
+      "duration": 2.0399999999999636,
+      "dialogue_text": "اننا نستطيع نتواصل الان"
+    },
+    {
+      "subtitle_index": 571,
+      "start_time": 3739.92,
+      "end_time": 3742.47,
+      "duration": 2.549999999999727,
+      "dialogue_text": "انها لا تبدو مثل المدينة"
+    },
+    {
+      "subtitle_index": 572,
+      "start_time": 3748.11,
+      "end_time": 3751.31,
+      "duration": 3.199999999999818,
+      "dialogue_text": "هل وصلنا الى امريكا"
+    },
+    {
+      "subtitle_index": 573,
+      "start_time": 3768.52,
+      "end_time": 3771.81,
+      "duration": 3.2899999999999636,
+      "dialogue_text": "هذا ليس جبل , و ليست تلك جزيرة"
+    },
+    {
+      "subtitle_index": 574,
+      "start_time": 3772.07,
+      "end_time": 3774.29,
+      "duration": 2.2199999999998,
+      "dialogue_text": "ان جميعها سفن"
+    },
+    {
+      "subtitle_index": 575,
+      "start_time": 3783.66,
+      "end_time": 3785.19,
+      "duration": 1.5300000000002,
+      "dialogue_text": "لقد حملتها الموجة"
+    },
+    {
+      "subtitle_index": 576,
+      "start_time": 3785.19,
+      "end_time": 3786.78,
+      "duration": 1.5900000000001455,
+      "dialogue_text": "تجمعت مثل الجبل هنا"
+    },
+    {
+      "subtitle_index": 577,
+      "start_time": 3787.25,
+      "end_time": 3789.2,
+      "duration": 1.949999999999818,
+      "dialogue_text": "لا بد انها مقبرة السفن"
+    },
+    {
+      "subtitle_index": 578,
+      "start_time": 3789.2,
+      "end_time": 3791.72,
+      "duration": 2.519999999999982,
+      "dialogue_text": "ان الطريق الى المكان الاخر قد فتح"
+    },
+    {
+      "subtitle_index": 579,
+      "start_time": 3796.58,
+      "end_time": 3798.09,
+      "duration": 1.5100000000002183,
+      "dialogue_text": "المحرك قد توقف"
+    },
+    {
+      "subtitle_index": 580,
+      "start_time": 3798.09,
+      "end_time": 3799.37,
+      "duration": 1.2799999999997453,
+      "dialogue_text": "اصلحه بسرعة"
+    },
+    {
+      "subtitle_index": 581,
+      "start_time": 3799.37,
+      "end_time": 3801.09,
+      "duration": 1.7200000000002547,
+      "dialogue_text": "انزل المرساة"
+    },
+    {
+      "subtitle_index": 582,
+      "start_time": 3801.09,
+      "end_time": 3802.35,
+      "duration": 1.2599999999997635,
+      "dialogue_text": "حاضر"
+    },
+    {
+      "subtitle_index": 583,
+      "start_time": 3815.61,
+      "end_time": 3817.51,
+      "duration": 1.900000000000091,
+      "dialogue_text": "ما هذا بالخلف؟"
+    },
+    {
+      "subtitle_index": 584,
+      "start_time": 3845.51,
+      "end_time": 3847.47,
+      "duration": 1.9599999999995816,
+      "dialogue_text": "اني ارى إلهة"
+    },
+    {
+      "subtitle_index": 585,
+      "start_time": 3857.8,
+      "end_time": 3859.02,
+      "duration": 1.2199999999998,
+      "dialogue_text": "لقد عمل"
+    },
+    {
+      "subtitle_index": 586,
+      "start_time": 3859.02,
+      "end_time": 3860.18,
+      "duration": 1.1599999999998545,
+      "dialogue_text": "لقد نجونا"
+    },
+    {
+      "subtitle_index": 587,
+      "start_time": 3860.18,
+      "end_time": 3861.52,
+      "duration": 1.3400000000001455,
+      "dialogue_text": "انها إلهة"
+    },
+    {
+      "subtitle_index": 588,
+      "start_time": 3861.52,
+      "end_time": 3863.5,
+      "duration": 1.9800000000000182,
+      "dialogue_text": "ان هذا كله بفضل إلهة"
+    },
+    {
+      "subtitle_index": 589,
+      "start_time": 3863.5,
+      "end_time": 3867.98,
+      "duration": 4.480000000000018,
+      "dialogue_text": "(كلمات لعبادة)"
+    },
+    {
+      "subtitle_index": 590,
+      "start_time": 3894.19,
+      "end_time": 3896.38,
+      "duration": 2.1900000000000546,
+      "dialogue_text": "ارتفع , ارتفع"
+    },
+    {
+      "subtitle_index": 591,
+      "start_time": 3909.42,
+      "end_time": 3912.0,
+      "duration": 2.5799999999999272,
+      "dialogue_text": "اه, ان هذا سحر جدار الحماية"
+    },
+    {
+      "subtitle_index": 592,
+      "start_time": 3912.0,
+      "end_time": 3915.16,
+      "duration": 3.1599999999998545,
+      "dialogue_text": "من اين تعلمت هذا؟"
+    },
+    {
+      "subtitle_index": 593,
+      "start_time": 3932.15,
+      "end_time": 3933.46,
+      "duration": 1.3099999999999454,
+      "dialogue_text": "ماذا يجري"
+    },
+    {
+      "subtitle_index": 594,
+      "start_time": 3933.46,
+      "end_time": 3935.01,
+      "duration": 1.550000000000182,
+      "dialogue_text": "لقد تحولت الى بشر"
+    },
+    {
+      "subtitle_index": 595,
+      "start_time": 3935.01,
+      "end_time": 3936.54,
+      "duration": 1.5299999999997453,
+      "dialogue_text": "خطر"
+    },
+    {
+      "subtitle_index": 596,
+      "start_time": 3936.54,
+      "end_time": 3939.2,
+      "duration": 2.6599999999998545,
+      "dialogue_text": "ماذا يجري"
+    },
+    {
+      "subtitle_index": 597,
+      "start_time": 3947.07,
+      "end_time": 3948.24,
+      "duration": 1.169999999999618,
+      "dialogue_text": "جميعكم"
+    },
+    {
+      "subtitle_index": 598,
+      "start_time": 3949.24,
+      "end_time": 3950.45,
+      "duration": 1.2100000000000364,
+      "dialogue_text": "هذا خطر"
+    },
+    {
+      "subtitle_index": 599,
+      "start_time": 3953.0,
+      "end_time": 3954.4,
+      "duration": 1.400000000000091,
+      "dialogue_text": "لا"
+    },
+    {
+      "subtitle_index": 600,
+      "start_time": 3961.85,
+      "end_time": 3962.83,
+      "duration": 0.9800000000000182,
+      "dialogue_text": "جميعكم"
+    },
+    {
+      "subtitle_index": 601,
+      "start_time": 3962.83,
+      "end_time": 3965.09,
+      "duration": 2.2600000000002183,
+      "dialogue_text": "ابيكم يفعل هذا من اجل اختكم"
+    },
+    {
+      "subtitle_index": 602,
+      "start_time": 3970.42,
+      "end_time": 3972.09,
+      "duration": 1.6700000000000728,
+      "dialogue_text": "\"تلك المرأة\""
+    },
+    {
+      "subtitle_index": 603,
+      "start_time": 3972.09,
+      "end_time": 3973.78,
+      "duration": 1.6900000000000546,
+      "dialogue_text": "قادمة"
+    },
+    {
+      "subtitle_index": 604,
+      "start_time": 4010.25,
+      "end_time": 4011.59,
+      "duration": 1.3400000000001455,
+      "dialogue_text": "فوجيموتو"
+    },
+    {
+      "subtitle_index": 605,
+      "start_time": 4011.59,
+      "end_time": 4013.77,
+      "duration": 2.1799999999998363,
+      "dialogue_text": "لقد اتيتي"
+    },
+    {
+      "subtitle_index": 606,
+      "start_time": 4014.93,
+      "end_time": 4016.92,
+      "duration": 1.9900000000002365,
+      "dialogue_text": "محيط جميل"
+    },
+    {
+      "subtitle_index": 607,
+      "start_time": 4020.86,
+      "end_time": 4022.7,
+      "duration": 1.8399999999996908,
+      "dialogue_text": "مليء بالسحر"
+    },
+    {
+      "subtitle_index": 608,
+      "start_time": 4022.7,
+      "end_time": 4025.82,
+      "duration": 3.1200000000003456,
+      "dialogue_text": "كما اني عائدة الى المحيط الكبير"
+    },
+    {
+      "subtitle_index": 609,
+      "start_time": 4025.82,
+      "end_time": 4028.1,
+      "duration": 2.2799999999997453,
+      "dialogue_text": "ان بونيو قد تذوقت دم البشر"
+    },
+    {
+      "subtitle_index": 610,
+      "start_time": 4028.1,
+      "end_time": 4032.08,
+      "duration": 3.980000000000018,
+      "dialogue_text": "ان المحلول السحري الذي جمعته قد اختفى ايضا"
+    },
+    {
+      "subtitle_index": 611,
+      "start_time": 4032.12,
+      "end_time": 4033.68,
+      "duration": 1.5599999999999454,
+      "dialogue_text": "بونيو؟"
+    },
+    {
+      "subtitle_index": 612,
+      "start_time": 4033.68,
+      "end_time": 4036.4,
+      "duration": 2.7200000000002547,
+      "dialogue_text": "هذا اسم جميل"
+    },
+    {
+      "subtitle_index": 613,
+      "start_time": 4041.61,
+      "end_time": 4043.8,
+      "duration": 2.1900000000000546,
+      "dialogue_text": "ان هذا خطئي"
+    },
+    {
+      "subtitle_index": 614,
+      "start_time": 4043.93,
+      "end_time": 4046.17,
+      "duration": 2.2400000000002365,
+      "dialogue_text": "بونيو استخدمت قدراتها السحرية بشكل خاطئ"
+    },
+    {
+      "subtitle_index": 615,
+      "start_time": 4046.17,
+      "end_time": 4048.62,
+      "duration": 2.449999999999818,
+      "dialogue_text": "لقد فتحت دوامة كبيرة على الارض"
+    },
+    {
+      "subtitle_index": 616,
+      "start_time": 4048.62,
+      "end_time": 4051.68,
+      "duration": 3.0599999999999454,
+      "dialogue_text": "انها لا تمتلك اي فكرة عن ما تفعله"
+    },
+    {
+      "subtitle_index": 617,
+      "start_time": 4051.68,
+      "end_time": 4053.35,
+      "duration": 1.6700000000000728,
+      "dialogue_text": "بطريقة ما لقد تحولت الى بشر"
+    },
+    {
+      "subtitle_index": 618,
+      "start_time": 4053.35,
+      "end_time": 4057.36,
+      "duration": 4.010000000000218,
+      "dialogue_text": "و لقد هربت الى منزل صبي"
+    },
+    {
+      "subtitle_index": 619,
+      "start_time": 4057.75,
+      "end_time": 4061.44,
+      "duration": 3.6900000000000546,
+      "dialogue_text": "اذا استمر الامر هكذا , العالم سيدمر"
+    },
+    {
+      "subtitle_index": 620,
+      "start_time": 4061.52,
+      "end_time": 4064.12,
+      "duration": 2.599999999999909,
+      "dialogue_text": "ماذا"
+    },
+    {
+      "subtitle_index": 621,
+      "start_time": 4070.28,
+      "end_time": 4071.25,
+      "duration": 0.9699999999997999,
+      "dialogue_text": "هذا سيء"
+    },
+    {
+      "subtitle_index": 622,
+      "start_time": 4071.25,
+      "end_time": 4073.17,
+      "duration": 1.9200000000000728,
+      "dialogue_text": "ان الشهاب تسقط ايضا"
+    },
+    {
+      "subtitle_index": 623,
+      "start_time": 4073.17,
+      "end_time": 4075.81,
+      "duration": 2.6399999999998727,
+      "dialogue_text": "ان جاذبية الكوكب"
+    },
+    {
+      "subtitle_index": 624,
+      "start_time": 4076.92,
+      "end_time": 4078.9,
+      "duration": 1.9800000000000182,
+      "dialogue_text": "ابقى صامتا"
+    },
+    {
+      "subtitle_index": 625,
+      "start_time": 4085.82,
+      "end_time": 4087.62,
+      "duration": 1.7999999999997272,
+      "dialogue_text": "سوسوكي"
+    },
+    {
+      "subtitle_index": 626,
+      "start_time": 4087.65,
+      "end_time": 4090.07,
+      "duration": 2.4200000000000728,
+      "dialogue_text": "ان اسم الصبي هو سوسكي"
+    },
+    {
+      "subtitle_index": 627,
+      "start_time": 4093.24,
+      "end_time": 4097.23,
+      "duration": 3.9899999999997817,
+      "dialogue_text": "جميعكم تحبون اختكم الكبيرة"
+    },
+    {
+      "subtitle_index": 628,
+      "start_time": 4100.46,
+      "end_time": 4103.98,
+      "duration": 3.519999999999527,
+      "dialogue_text": "عزيزي , فقط دع بونيو تتحول الى انسان حقيقي"
+    },
+    {
+      "subtitle_index": 629,
+      "start_time": 4103.98,
+      "end_time": 4105.04,
+      "duration": 1.0600000000004002,
+      "dialogue_text": "هه؟"
+    },
+    {
+      "subtitle_index": 630,
+      "start_time": 4105.04,
+      "end_time": 4106.91,
+      "duration": 1.8699999999998909,
+      "dialogue_text": "ان الاسطورة تقول"
+    },
+    {
+      "subtitle_index": 631,
+      "start_time": 4106.91,
+      "end_time": 4109.44,
+      "duration": 2.5299999999997453,
+      "dialogue_text": "اذا كان الصبي وفيا"
+    },
+    {
+      "subtitle_index": 632,
+      "start_time": 4109.44,
+      "end_time": 4112.35,
+      "duration": 2.910000000000764,
+      "dialogue_text": "ان بونيو تستطيع ان تتحول الى بشر حقيقي اذا تخلت عن قوتها البشرية"
+    },
+    {
+      "subtitle_index": 633,
+      "start_time": 4112.35,
+      "end_time": 4114.31,
+      "duration": 1.9600000000000364,
+      "dialogue_text": "لكن اذا فشل هذا"
+    },
+    {
+      "subtitle_index": 634,
+      "start_time": 4114.31,
+      "end_time": 4117.07,
+      "duration": 2.759999999999309,
+      "dialogue_text": "بونيو ستتحول الى فقعات"
+    },
+    {
+      "subtitle_index": 635,
+      "start_time": 4117.07,
+      "end_time": 4120.79,
+      "duration": 3.7200000000002547,
+      "dialogue_text": "اننا , على كل حال مصنوعون من الفقعات"
+    },
+    {
+      "subtitle_index": 636,
+      "start_time": 4120.79,
+      "end_time": 4122.71,
+      "duration": 1.9200000000000728,
+      "dialogue_text": "لكن هي فقط عمرها خمس"
+    },
+    {
+      "subtitle_index": 637,
+      "start_time": 4122.71,
+      "end_time": 4124.51,
+      "duration": 1.800000000000182,
+      "dialogue_text": "انها لا يمكن ان تنجو"
+    },
+    {
+      "subtitle_index": 638,
+      "start_time": 4128.89,
+      "end_time": 4131.19,
+      "duration": 2.2999999999992724,
+      "dialogue_text": "فقط اتركهم يستريحون الان"
+    },
+    {
+      "subtitle_index": 639,
+      "start_time": 4131.19,
+      "end_time": 4132.92,
+      "duration": 1.730000000000473,
+      "dialogue_text": "طفلتنا"
+    },
+    {
+      "subtitle_index": 640,
+      "start_time": 4145.75,
+      "end_time": 4147.31,
+      "duration": 1.5600000000004002,
+      "dialogue_text": "سوسوكي"
+    },
+    {
+      "subtitle_index": 641,
+      "start_time": 4148.21,
+      "end_time": 4149.99,
+      "duration": 1.7799999999997453,
+      "dialogue_text": "سوسوكي"
+    },
+    {
+      "subtitle_index": 642,
+      "start_time": 4151.15,
+      "end_time": 4152.57,
+      "duration": 1.4200000000000728,
+      "dialogue_text": "اي"
+    },
+    {
+      "subtitle_index": 643,
+      "start_time": 4154.89,
+      "end_time": 4156.88,
+      "duration": 1.9899999999997817,
+      "dialogue_text": "بونيو صباح الخير"
+    },
+    {
+      "subtitle_index": 644,
+      "start_time": 4156.88,
+      "end_time": 4159.58,
+      "duration": 2.699999999999818,
+      "dialogue_text": "سوسوكي صباح الخير"
+    },
+    {
+      "subtitle_index": 645,
+      "start_time": 4165.57,
+      "end_time": 4168.12,
+      "duration": 2.550000000000182,
+      "dialogue_text": "ان المحيط قد هدء"
+    },
+    {
+      "subtitle_index": 646,
+      "start_time": 4191.38,
+      "end_time": 4193.41,
+      "duration": 2.0299999999997453,
+      "dialogue_text": "ريسا ليست بالجوار"
+    },
+    {
+      "subtitle_index": 647,
+      "start_time": 4193.41,
+      "end_time": 4195.89,
+      "duration": 2.480000000000473,
+      "dialogue_text": "ان الطريق قد ملئه الفيضان"
+    },
+    {
+      "subtitle_index": 648,
+      "start_time": 4196.6,
+      "end_time": 4198.75,
+      "duration": 2.149999999999636,
+      "dialogue_text": "لو كان لدينا مركب الان"
+    },
+    {
+      "subtitle_index": 649,
+      "start_time": 4201.38,
+      "end_time": 4203.47,
+      "duration": 2.0900000000001455,
+      "dialogue_text": "اننا نملك واحدة"
+    },
+    {
+      "subtitle_index": 650,
+      "start_time": 4205.18,
+      "end_time": 4206.59,
+      "duration": 1.4099999999998545,
+      "dialogue_text": "لا يمكننا استعملها"
+    },
+    {
+      "subtitle_index": 651,
+      "start_time": 4206.59,
+      "end_time": 4208.31,
+      "duration": 1.7200000000002547,
+      "dialogue_text": "نستطيع"
+    },
+    {
+      "subtitle_index": 652,
+      "start_time": 4224.02,
+      "end_time": 4225.77,
+      "duration": 1.75,
+      "dialogue_text": "واو , هذا ممتاز"
+    },
+    {
+      "subtitle_index": 653,
+      "start_time": 4227.09,
+      "end_time": 4230.17,
+      "duration": 3.0799999999999272,
+      "dialogue_text": "هناك ايضا شمعة"
+    },
+    {
+      "subtitle_index": 654,
+      "start_time": 4230.17,
+      "end_time": 4231.71,
+      "duration": 1.5399999999999636,
+      "dialogue_text": "نستطيع الجلوس هنا"
+    },
+    {
+      "subtitle_index": 655,
+      "start_time": 4231.71,
+      "end_time": 4233.17,
+      "duration": 1.4600000000000364,
+      "dialogue_text": "واو , انها مثل واحدة حقيقية"
+    },
+    {
+      "subtitle_index": 656,
+      "start_time": 4233.17,
+      "end_time": 4234.46,
+      "duration": 1.2899999999999636,
+      "dialogue_text": "انها مثل واحدة حقيقية"
+    },
+    {
+      "subtitle_index": 657,
+      "start_time": 4234.46,
+      "end_time": 4236.25,
+      "duration": 1.7899999999999636,
+      "dialogue_text": "انت امسكي بالجهة الاخرى"
+    },
+    {
+      "subtitle_index": 658,
+      "start_time": 4239.64,
+      "end_time": 4243.15,
+      "duration": 3.509999999999309,
+      "dialogue_text": "مستعدة- مستعدة-"
+    },
+    {
+      "subtitle_index": 659,
+      "start_time": 4255.64,
+      "end_time": 4257.15,
+      "duration": 1.5099999999993088,
+      "dialogue_text": "رائع"
+    },
+    {
+      "subtitle_index": 660,
+      "start_time": 4259.22,
+      "end_time": 4259.76,
+      "duration": 0.5399999999999636,
+      "dialogue_text": ""
+    },
+    {
+      "subtitle_index": 661,
+      "start_time": 4259.76,
+      "end_time": 4260.53,
+      "duration": 0.7699999999995271,
+      "dialogue_text": "انها تطفوا"
+    },
+    {
+      "subtitle_index": 662,
+      "start_time": 4260.53,
+      "end_time": 4261.86,
+      "duration": 1.3299999999999272,
+      "dialogue_text": "لا يوجد هناك تسرب"
+    },
+    {
+      "subtitle_index": 663,
+      "start_time": 4261.86,
+      "end_time": 4264.75,
+      "duration": 2.8900000000003274,
+      "dialogue_text": "حسنا , علينا ان نملئها بالماء"
+    },
+    {
+      "subtitle_index": 664,
+      "start_time": 4265.27,
+      "end_time": 4270.86,
+      "duration": 5.589999999999236,
+      "dialogue_text": "نحتاج ان نملئها بالماء بالجزء الوسطي"
+    },
+    {
+      "subtitle_index": 665,
+      "start_time": 4296.89,
+      "end_time": 4300.77,
+      "duration": 3.880000000000109,
+      "dialogue_text": "انها مثل الصاروخ"
+    },
+    {
+      "subtitle_index": 666,
+      "start_time": 4306.87,
+      "end_time": 4308.49,
+      "duration": 1.6199999999998909,
+      "dialogue_text": "بونيو لقد احسنتي"
+    },
+    {
+      "subtitle_index": 667,
+      "start_time": 4308.49,
+      "end_time": 4309.54,
+      "duration": 1.050000000000182,
+      "dialogue_text": "احسنت؟"
+    },
+    {
+      "subtitle_index": 668,
+      "start_time": 4309.54,
+      "end_time": 4311.84,
+      "duration": 2.300000000000182,
+      "dialogue_text": "نعم , احسنتي"
+    },
+    {
+      "subtitle_index": 669,
+      "start_time": 4311.84,
+      "end_time": 4317.18,
+      "duration": 5.3400000000001455,
+      "dialogue_text": "احسنت, احسنت"
+    },
+    {
+      "subtitle_index": 670,
+      "start_time": 4338.58,
+      "end_time": 4340.58,
+      "duration": 2.0,
+      "dialogue_text": "حار؟ حار جدا"
+    },
+    {
+      "subtitle_index": 671,
+      "start_time": 4345.86,
+      "end_time": 4348.18,
+      "duration": 2.3200000000006185,
+      "dialogue_text": "حار جدا .......حار جدا"
+    },
+    {
+      "subtitle_index": 672,
+      "start_time": 4349.74,
+      "end_time": 4351.97,
+      "duration": 2.230000000000473,
+      "dialogue_text": "واو , انه ضوء"
+    },
+    {
+      "subtitle_index": 673,
+      "start_time": 4351.97,
+      "end_time": 4353.39,
+      "duration": 1.4200000000000728,
+      "dialogue_text": "انه ضوء"
+    },
+    {
+      "subtitle_index": 674,
+      "start_time": 4353.39,
+      "end_time": 4355.42,
+      "duration": 2.0299999999997453,
+      "dialogue_text": "حار ..حار ..حار"
+    },
+    {
+      "subtitle_index": 675,
+      "start_time": 4364.42,
+      "end_time": 4366.29,
+      "duration": 1.8699999999998909,
+      "dialogue_text": "حار جدا"
+    },
+    {
+      "subtitle_index": 676,
+      "start_time": 4364.86,
+      "end_time": 4366.86,
+      "duration": 2.0,
+      "dialogue_text": ""
+    },
+    {
+      "subtitle_index": 677,
+      "start_time": 4377.43,
+      "end_time": 4378.86,
+      "duration": 1.4299999999993815,
+      "dialogue_text": "انها تتحرك"
+    },
+    {
+      "subtitle_index": 678,
+      "start_time": 4380.53,
+      "end_time": 4383.09,
+      "duration": 2.5600000000004,
+      "dialogue_text": "احسنت"
+    },
+    {
+      "subtitle_index": 679,
+      "start_time": 4383.09,
+      "end_time": 4383.88,
+      "duration": 0.7899999999999636,
+      "dialogue_text": ""
+    },
+    {
+      "subtitle_index": 680,
+      "start_time": 4383.88,
+      "end_time": 4384.69,
+      "duration": 0.8099999999994907,
+      "dialogue_text": "فخور بهذا؟"
+    },
+    {
+      "subtitle_index": 681,
+      "start_time": 4384.69,
+      "end_time": 4385.97,
+      "duration": 1.2800000000006548,
+      "dialogue_text": "نعم"
+    },
+    {
+      "subtitle_index": 682,
+      "start_time": 4389.87,
+      "end_time": 4391.38,
+      "duration": 1.5100000000002183,
+      "dialogue_text": ""
+    },
+    {
+      "subtitle_index": 683,
+      "start_time": 4392.58,
+      "end_time": 4394.77,
+      "duration": 2.1900000000005093,
+      "dialogue_text": "سوسوكي سعيد؟"
+    },
+    {
+      "subtitle_index": 684,
+      "start_time": 4394.77,
+      "end_time": 4395.95,
+      "duration": 1.1799999999993815,
+      "dialogue_text": "نعم"
+    },
+    {
+      "subtitle_index": 685,
+      "start_time": 4395.95,
+      "end_time": 4397.85,
+      "duration": 1.9000000000005457,
+      "dialogue_text": "سوسوكي, انها تحترق"
+    },
+    {
+      "subtitle_index": 686,
+      "start_time": 4397.85,
+      "end_time": 4398.98,
+      "duration": 1.1299999999991996,
+      "dialogue_text": "نعم"
+    },
+    {
+      "subtitle_index": 687,
+      "start_time": 4398.98,
+      "end_time": 4401.62,
+      "duration": 2.6400000000003274,
+      "dialogue_text": "سوسوكي , انها حارة"
+    },
+    {
+      "subtitle_index": 688,
+      "start_time": 4401.87,
+      "end_time": 4405.47,
+      "duration": 3.600000000000364,
+      "dialogue_text": "بوينو اجلسي بالامام اني سأقود"
+    },
+    {
+      "subtitle_index": 689,
+      "start_time": 4405.47,
+      "end_time": 4408.04,
+      "duration": 2.569999999999709,
+      "dialogue_text": "حسنا ساقوم"
+    },
+    {
+      "subtitle_index": 690,
+      "start_time": 4434.91,
+      "end_time": 4436.53,
+      "duration": 1.6199999999998909,
+      "dialogue_text": "هنالك طريق"
+    },
+    {
+      "subtitle_index": 691,
+      "start_time": 4436.53,
+      "end_time": 4439.25,
+      "duration": 2.7200000000002547,
+      "dialogue_text": "ريسا قد ذهبت من طريق الجبال"
+    },
+    {
+      "subtitle_index": 692,
+      "start_time": 4441.38,
+      "end_time": 4442.96,
+      "duration": 1.5799999999999272,
+      "dialogue_text": "ريسا ليست هنا"
+    },
+    {
+      "subtitle_index": 693,
+      "start_time": 4442.96,
+      "end_time": 4446.98,
+      "duration": 4.019999999999527,
+      "dialogue_text": "ريسا ستكون هناك, لقد قطعنا وعدا"
+    },
+    {
+      "subtitle_index": 694,
+      "start_time": 4451.33,
+      "end_time": 4454.8,
+      "duration": 3.4700000000002547,
+      "dialogue_text": "انها جونجوناسوس انهم يقولن انه هناك 10 الالف منها في نهر دي بانج كي"
+    },
+    {
+      "subtitle_index": 695,
+      "start_time": 4454.8,
+      "end_time": 4457.57,
+      "duration": 2.769999999999527,
+      "dialogue_text": "اوه انظر , انها ليكوسوس"
+    },
+    {
+      "subtitle_index": 696,
+      "start_time": 4463.49,
+      "end_time": 4464.59,
+      "duration": 1.1000000000003638,
+      "dialogue_text": "جميلة"
+    },
+    {
+      "subtitle_index": 697,
+      "start_time": 4464.59,
+      "end_time": 4465.54,
+      "duration": 0.9499999999998181,
+      "dialogue_text": "ترحلين بسرعة ليكوسوس؟"
+    },
+    {
+      "subtitle_index": 698,
+      "start_time": 4465.54,
+      "end_time": 4469.98,
+      "duration": 4.4399999999996,
+      "dialogue_text": "واو , انها ضخمة ,ليكوسوس انها ضخمة"
+    },
+    {
+      "subtitle_index": 699,
+      "start_time": 4469.98,
+      "end_time": 4472.37,
+      "duration": 2.3900000000003274,
+      "dialogue_text": "ليكوسوس ضخمة"
+    },
+    {
+      "subtitle_index": 700,
+      "start_time": 4478.97,
+      "end_time": 4484.59,
+      "duration": 5.619999999999891,
+      "dialogue_text": "مرحبا..مرحبا"
+    },
+    {
+      "subtitle_index": 701,
+      "start_time": 4484.59,
+      "end_time": 4486.41,
+      "duration": 1.819999999999709,
+      "dialogue_text": "انه قارب هناك"
+    },
+    {
+      "subtitle_index": 702,
+      "start_time": 4489.47,
+      "end_time": 4491.38,
+      "duration": 1.9099999999998545,
+      "dialogue_text": "انهم ينادوننا"
+    },
+    {
+      "subtitle_index": 703,
+      "start_time": 4492.3,
+      "end_time": 4494.82,
+      "duration": 2.519999999999527,
+      "dialogue_text": "مرحبا"
+    },
+    {
+      "subtitle_index": 704,
+      "start_time": 4499.63,
+      "end_time": 4501.42,
+      "duration": 1.7899999999999636,
+      "dialogue_text": ""
+    },
+    {
+      "subtitle_index": 705,
+      "start_time": 4504.54,
+      "end_time": 4506.33,
+      "duration": 1.7899999999999636,
+      "dialogue_text": "لابد انهم قد وجدونا"
+    },
+    {
+      "subtitle_index": 706,
+      "start_time": 4509.5,
+      "end_time": 4511.3,
+      "duration": 1.800000000000182,
+      "dialogue_text": "بونيو لنذهب"
+    },
+    {
+      "subtitle_index": 707,
+      "start_time": 4517.68,
+      "end_time": 4518.69,
+      "duration": 1.0099999999993088,
+      "dialogue_text": "مرحبا"
+    },
+    {
+      "subtitle_index": 708,
+      "start_time": 4518.69,
+      "end_time": 4519.83,
+      "duration": 1.1400000000003274,
+      "dialogue_text": "مرحبا"
+    },
+    {
+      "subtitle_index": 709,
+      "start_time": 4519.83,
+      "end_time": 4522.91,
+      "duration": 3.0799999999999272,
+      "dialogue_text": "انه قارب جميل"
+    },
+    {
+      "subtitle_index": 710,
+      "start_time": 4522.99,
+      "end_time": 4525.96,
+      "duration": 2.9700000000002547,
+      "dialogue_text": "لم اعلم انه انت سوسوكي الصغير"
+    },
+    {
+      "subtitle_index": 711,
+      "start_time": 4525.96,
+      "end_time": 4528.53,
+      "duration": 2.569999999999709,
+      "dialogue_text": "ليس سوسوكي الصغير, انه سوسوكي"
+    },
+    {
+      "subtitle_index": 712,
+      "start_time": 4528.53,
+      "end_time": 4530.24,
+      "duration": 1.7100000000000364,
+      "dialogue_text": "انها بونيو"
+    },
+    {
+      "subtitle_index": 713,
+      "start_time": 4531.01,
+      "end_time": 4533.59,
+      "duration": 2.5799999999999272,
+      "dialogue_text": "بونيو هي سمكة"
+    },
+    {
+      "subtitle_index": 714,
+      "start_time": 4533.59,
+      "end_time": 4538.12,
+      "duration": 4.529999999999745,
+      "dialogue_text": "سمكة ؟ بونيو اسم جميل"
+    },
+    {
+      "subtitle_index": 715,
+      "start_time": 4538.12,
+      "end_time": 4539.79,
+      "duration": 1.6700000000000728,
+      "dialogue_text": "نعم"
+    },
+    {
+      "subtitle_index": 716,
+      "start_time": 4540.02,
+      "end_time": 4542.28,
+      "duration": 2.259999999999309,
+      "dialogue_text": "سيد , هل تعرف اين ريسا؟"
+    },
+    {
+      "subtitle_index": 717,
+      "start_time": 4542.28,
+      "end_time": 4546.28,
+      "duration": 4.0,
+      "dialogue_text": "الانسة ريسا؟ اليست معك؟"
+    },
+    {
+      "subtitle_index": 718,
+      "start_time": 4546.28,
+      "end_time": 4547.82,
+      "duration": 1.5399999999999636,
+      "dialogue_text": "لقد خرجت"
+    },
+    {
+      "subtitle_index": 719,
+      "start_time": 4547.82,
+      "end_time": 4549.24,
+      "duration": 1.4200000000000728,
+      "dialogue_text": "خرجت؟"
+    },
+    {
+      "subtitle_index": 720,
+      "start_time": 4549.24,
+      "end_time": 4550.99,
+      "duration": 1.75,
+      "dialogue_text": "الطفل الصغير"
+    },
+    {
+      "subtitle_index": 721,
+      "start_time": 4580.96,
+      "end_time": 4583.25,
+      "duration": 2.2899999999999636,
+      "dialogue_text": "ماذا حدث؟"
+    },
+    {
+      "subtitle_index": 722,
+      "start_time": 4589.96,
+      "end_time": 4591.55,
+      "duration": 1.5900000000001455,
+      "dialogue_text": "اعطيه ايها"
+    },
+    {
+      "subtitle_index": 723,
+      "start_time": 4604.9,
+      "end_time": 4606.5,
+      "duration": 1.6000000000003638,
+      "dialogue_text": "اعطيني ايها"
+    },
+    {
+      "subtitle_index": 724,
+      "start_time": 4611.37,
+      "end_time": 4613.08,
+      "duration": 1.7100000000000364,
+      "dialogue_text": "شكرا"
+    },
+    {
+      "subtitle_index": 725,
+      "start_time": 4613.15,
+      "end_time": 4614.94,
+      "duration": 1.7899999999999636,
+      "dialogue_text": "حان وقت الطعام"
+    },
+    {
+      "subtitle_index": 726,
+      "start_time": 4618.04,
+      "end_time": 4620.6,
+      "duration": 2.5600000000004,
+      "dialogue_text": "انه حساء رائع"
+    },
+    {
+      "subtitle_index": 727,
+      "start_time": 4621.07,
+      "end_time": 4622.86,
+      "duration": 1.7899999999999636,
+      "dialogue_text": "ريسا قد صنعته"
+    },
+    {
+      "subtitle_index": 728,
+      "start_time": 4623.14,
+      "end_time": 4625.29,
+      "duration": 2.149999999999636,
+      "dialogue_text": "انه لطفلة و ليس لك"
+    },
+    {
+      "subtitle_index": 729,
+      "start_time": 4626.18,
+      "end_time": 4630.4,
+      "duration": 4.219999999999345,
+      "dialogue_text": "انا اسفة , ان الطفلة لا يمكنها تناول هذا الان"
+    },
+    {
+      "subtitle_index": 730,
+      "start_time": 4630.59,
+      "end_time": 4635.33,
+      "duration": 4.739999999999782,
+      "dialogue_text": "اذا شربت انا هذا فاني سأمتلك الحليب لطفلة"
+    },
+    {
+      "subtitle_index": 731,
+      "start_time": 4636.77,
+      "end_time": 4639.65,
+      "duration": 2.8799999999991996,
+      "dialogue_text": "اني كنت اشرب حليب ريسا ايضا"
+    },
+    {
+      "subtitle_index": 732,
+      "start_time": 4639.65,
+      "end_time": 4642.92,
+      "duration": 3.2700000000004366,
+      "dialogue_text": "بونيو , هل يمكنني ان اشرب هذا الحساء؟"
+    },
+    {
+      "subtitle_index": 733,
+      "start_time": 4642.92,
+      "end_time": 4644.76,
+      "duration": 1.8400000000001455,
+      "dialogue_text": "نعم يمكنك شرب هذا"
+    },
+    {
+      "subtitle_index": 734,
+      "start_time": 4645.52,
+      "end_time": 4647.11,
+      "duration": 1.589999999999236,
+      "dialogue_text": "شكرا لك"
+    },
+    {
+      "subtitle_index": 735,
+      "start_time": 4664.27,
+      "end_time": 4665.97,
+      "duration": 1.699999999999818,
+      "dialogue_text": "هناك اشخاص هناك"
+    },
+    {
+      "subtitle_index": 736,
+      "start_time": 4665.97,
+      "end_time": 4667.92,
+      "duration": 1.949999999999818,
+      "dialogue_text": "انه اشبه بألاسطول حربي"
+    },
+    {
+      "subtitle_index": 737,
+      "start_time": 4668.2,
+      "end_time": 4672.85,
+      "duration": 4.650000000000546,
+      "dialogue_text": "مرحبا هل هناك يمكننا المساعدة به؟"
+    },
+    {
+      "subtitle_index": 738,
+      "start_time": 4672.85,
+      "end_time": 4678.27,
+      "duration": 5.420000000000073,
+      "dialogue_text": "شكرا , لكن نحن على مايرام الان"
+    },
+    {
+      "subtitle_index": 739,
+      "start_time": 4678.27,
+      "end_time": 4683.83,
+      "duration": 5.559999999999491,
+      "dialogue_text": "اذا كونوا حذرين بطريق النزل"
+    },
+    {
+      "subtitle_index": 740,
+      "start_time": 4684.06,
+      "end_time": 4686.95,
+      "duration": 2.889999999999418,
+      "dialogue_text": "حسنا سنكون كذلك"
+    },
+    {
+      "subtitle_index": 741,
+      "start_time": 4688.96,
+      "end_time": 4690.42,
+      "duration": 1.4600000000000364,
+      "dialogue_text": "هناك الكثير من الاشخاص"
+    },
+    {
+      "subtitle_index": 742,
+      "start_time": 4690.42,
+      "end_time": 4693.05,
+      "duration": 2.630000000000109,
+      "dialogue_text": "رائع , الجميع بخير"
+    },
+    {
+      "subtitle_index": 743,
+      "start_time": 4693.05,
+      "end_time": 4694.78,
+      "duration": 1.7299999999995634,
+      "dialogue_text": "بونيو , لنتحرك"
+    },
+    {
+      "subtitle_index": 744,
+      "start_time": 4694.78,
+      "end_time": 4696.25,
+      "duration": 1.4700000000002547,
+      "dialogue_text": "تمسكي"
+    },
+    {
+      "subtitle_index": 745,
+      "start_time": 4702.13,
+      "end_time": 4703.68,
+      "duration": 1.550000000000182,
+      "dialogue_text": "الحليب"
+    },
+    {
+      "subtitle_index": 746,
+      "start_time": 4704.07,
+      "end_time": 4705.66,
+      "duration": 1.5900000000001455,
+      "dialogue_text": "م..مم"
+    },
+    {
+      "subtitle_index": 747,
+      "start_time": 4706.66,
+      "end_time": 4707.96,
+      "duration": 1.300000000000182,
+      "dialogue_text": "حليب"
+    },
+    {
+      "subtitle_index": 748,
+      "start_time": 4707.96,
+      "end_time": 4710.55,
+      "duration": 2.5900000000001455,
+      "dialogue_text": "ستكون باردة اذا لم تقموا باكلها"
+    },
+    {
+      "subtitle_index": 749,
+      "start_time": 4710.55,
+      "end_time": 4713.82,
+      "duration": 3.269999999999527,
+      "dialogue_text": "شكرا لك , سيكون هناك الكثير من الحليب"
+    },
+    {
+      "subtitle_index": 750,
+      "start_time": 4713.82,
+      "end_time": 4717.86,
+      "duration": 4.039999999999964,
+      "dialogue_text": "سوسوكي , هذا ما تبقى , اذا اردتها"
+    },
+    {
+      "subtitle_index": 751,
+      "start_time": 4717.86,
+      "end_time": 4722.04,
+      "duration": 4.180000000000291,
+      "dialogue_text": "نعم , هذا سيساعد , شكرا لك"
+    },
+    {
+      "subtitle_index": 752,
+      "start_time": 4722.43,
+      "end_time": 4723.52,
+      "duration": 1.0900000000001455,
+      "dialogue_text": "كن حذر"
+    },
+    {
+      "subtitle_index": 753,
+      "start_time": 4723.52,
+      "end_time": 4725.19,
+      "duration": 1.6699999999991633,
+      "dialogue_text": "شكرا لك"
+    },
+    {
+      "subtitle_index": 754,
+      "start_time": 4731.16,
+      "end_time": 4732.63,
+      "duration": 1.4700000000002547,
+      "dialogue_text": "ما المشكلة؟"
+    },
+    {
+      "subtitle_index": 755,
+      "start_time": 4737.15,
+      "end_time": 4744.24,
+      "duration": 7.0900000000001455,
+      "dialogue_text": "كوني عاقلة"
+    },
+    {
+      "subtitle_index": 756,
+      "start_time": 4757.84,
+      "end_time": 4759.51,
+      "duration": 1.6700000000000728,
+      "dialogue_text": "بونيو"
+    },
+    {
+      "subtitle_index": 757,
+      "start_time": 4768.15,
+      "end_time": 4769.86,
+      "duration": 1.7100000000000364,
+      "dialogue_text": ""
+    },
+    {
+      "subtitle_index": 758,
+      "start_time": 4773.99,
+      "end_time": 4778.5,
+      "duration": 4.510000000000218,
+      "dialogue_text": "سوسوكي , اين ريسا؟"
+    },
+    {
+      "subtitle_index": 759,
+      "start_time": 4778.5,
+      "end_time": 4780.44,
+      "duration": 1.9399999999995998,
+      "dialogue_text": "لقد خرجت"
+    },
+    {
+      "subtitle_index": 760,
+      "start_time": 4780.44,
+      "end_time": 4782.06,
+      "duration": 1.6200000000008004,
+      "dialogue_text": "انه علي ان اذهب"
+    },
+    {
+      "subtitle_index": 761,
+      "start_time": 4782.06,
+      "end_time": 4785.06,
+      "duration": 3.0,
+      "dialogue_text": "ريسا قد تكون ذهبت مع الموجة"
+    },
+    {
+      "subtitle_index": 762,
+      "start_time": 4785.06,
+      "end_time": 4786.22,
+      "duration": 1.1599999999998545,
+      "dialogue_text": "هذا رائع"
+    },
+    {
+      "subtitle_index": 763,
+      "start_time": 4786.22,
+      "end_time": 4788.81,
+      "duration": 2.5900000000001455,
+      "dialogue_text": "سوسوكي, دعني اركب عليها ايضا"
+    },
+    {
+      "subtitle_index": 764,
+      "start_time": 4788.81,
+      "end_time": 4792.04,
+      "duration": 3.2299999999995634,
+      "dialogue_text": "كيموكو اننا على عجلة , اراك لاحقا"
+    },
+    {
+      "subtitle_index": 765,
+      "start_time": 4792.04,
+      "end_time": 4796.18,
+      "duration": 4.140000000000327,
+      "dialogue_text": "سوسوكي اسرع الى مدرسة كامباتيه"
+    },
+    {
+      "subtitle_index": 766,
+      "start_time": 4796.53,
+      "end_time": 4804.35,
+      "duration": 7.8200000000006185,
+      "dialogue_text": "تنبيه , اننا نعمل هنا اننا فقط نستطيع ان نقوم بتنمنيات لكم الافضل"
+    },
+    {
+      "subtitle_index": 767,
+      "start_time": 4853.23,
+      "end_time": 4856.2,
+      "duration": 2.9700000000002547,
+      "dialogue_text": "بونيو , نحن نحتاج الى شمعة جديدة"
+    },
+    {
+      "subtitle_index": 768,
+      "start_time": 4860.1,
+      "end_time": 4863.39,
+      "duration": 3.2899999999999636,
+      "dialogue_text": "انه لا بئس , اننا لا نزال نمتلك الشمعة التي حصلنا عليها لتو"
+    },
+    {
+      "subtitle_index": 769,
+      "start_time": 4865.28,
+      "end_time": 4867.4,
+      "duration": 2.119999999999891,
+      "dialogue_text": "انها لا تزال حارة"
+    },
+    {
+      "subtitle_index": 770,
+      "start_time": 4872.08,
+      "end_time": 4874.52,
+      "duration": 2.4400000000005093,
+      "dialogue_text": "مع السلامة"
+    },
+    {
+      "subtitle_index": 771,
+      "start_time": 4875.47,
+      "end_time": 4879.12,
+      "duration": 3.649999999999636,
+      "dialogue_text": "بونيو ,خذي قمي بتكبيرها"
+    },
+    {
+      "subtitle_index": 772,
+      "start_time": 4879.12,
+      "end_time": 4881.23,
+      "duration": 2.1099999999996726,
+      "dialogue_text": "حسنا"
+    },
+    {
+      "subtitle_index": 773,
+      "start_time": 4886.03,
+      "end_time": 4889.28,
+      "duration": 3.25,
+      "dialogue_text": "بونيو , هل تريدين النوم ؟"
+    },
+    {
+      "subtitle_index": 774,
+      "start_time": 4895.85,
+      "end_time": 4898.13,
+      "duration": 2.2799999999997453,
+      "dialogue_text": "بونيو"
+    },
+    {
+      "subtitle_index": 775,
+      "start_time": 4913.28,
+      "end_time": 4915.27,
+      "duration": 1.9900000000006912,
+      "dialogue_text": "بونيو ...بونيو"
+    },
+    {
+      "subtitle_index": 776,
+      "start_time": 4972.97,
+      "end_time": 4975.41,
+      "duration": 2.4399999999996,
+      "dialogue_text": "الماء بدء يكون ضحل . قدميا تلمس الارض"
+    },
+    {
+      "subtitle_index": 777,
+      "start_time": 5001.74,
+      "end_time": 5003.71,
+      "duration": 1.9700000000002547,
+      "dialogue_text": "اني استطيع ان ارى الطريق"
+    },
+    {
+      "subtitle_index": 778,
+      "start_time": 5014.9,
+      "end_time": 5017.22,
+      "duration": 2.3200000000006185,
+      "dialogue_text": "السفينة"
+    },
+    {
+      "subtitle_index": 779,
+      "start_time": 5018.7,
+      "end_time": 5020.17,
+      "duration": 1.4700000000002547,
+      "dialogue_text": "بونيو"
+    },
+    {
+      "subtitle_index": 780,
+      "start_time": 5039.7,
+      "end_time": 5044.24,
+      "duration": 4.539999999999964,
+      "dialogue_text": "بونيو , بونيو استيقضي"
+    },
+    {
+      "subtitle_index": 781,
+      "start_time": 5046.81,
+      "end_time": 5048.97,
+      "duration": 2.1599999999998545,
+      "dialogue_text": "سوسوكي"
+    },
+    {
+      "subtitle_index": 782,
+      "start_time": 5054.41,
+      "end_time": 5059.04,
+      "duration": 4.630000000000109,
+      "dialogue_text": "حمدا لله, لقد ظننت ان بونيو لن تستيقضي مرة اخرى"
+    },
+    {
+      "subtitle_index": 783,
+      "start_time": 5071.51,
+      "end_time": 5075.12,
+      "duration": 3.6099999999996726,
+      "dialogue_text": "انها سيارة ريسا ,بونيو ان سيارة ريسا هناك"
+    },
+    {
+      "subtitle_index": 784,
+      "start_time": 5078.86,
+      "end_time": 5111.27,
+      "duration": 32.410000000000764,
+      "dialogue_text": "ريسا , ريسا"
+    },
+    {
+      "subtitle_index": 785,
+      "start_time": 5138.33,
+      "end_time": 5143.42,
+      "duration": 5.0900000000001455,
+      "dialogue_text": "سوسكي , السفينة الماء يخرج من عينيك"
+    },
+    {
+      "subtitle_index": 786,
+      "start_time": 5150.08,
+      "end_time": 5151.86,
+      "duration": 1.7799999999997453,
+      "dialogue_text": "اننا سنبحث عن ريسا"
+    },
+    {
+      "subtitle_index": 787,
+      "start_time": 5151.86,
+      "end_time": 5153.36,
+      "duration": 1.5,
+      "dialogue_text": "حسنا"
+    },
+    {
+      "subtitle_index": 788,
+      "start_time": 5200.07,
+      "end_time": 5217.54,
+      "duration": 17.470000000000255,
+      "dialogue_text": "بسرعة , انظروا الى هذا , كم هو جميل انه مثل منتجع تحت الماء"
+    },
+    {
+      "subtitle_index": 789,
+      "start_time": 5217.54,
+      "end_time": 5220.49,
+      "duration": 2.949999999999818,
+      "dialogue_text": "ايها السيدات ارجوكم تعالوا هنا"
+    },
+    {
+      "subtitle_index": 790,
+      "start_time": 5220.49,
+      "end_time": 5225.8,
+      "duration": 5.3100000000004,
+      "dialogue_text": "حسنا , لنذهب"
+    },
+    {
+      "subtitle_index": 791,
+      "start_time": 5226.11,
+      "end_time": 5231.09,
+      "duration": 4.980000000000473,
+      "dialogue_text": "انه شعور جيد بالركض . من سيكون بالمقدمة"
+    },
+    {
+      "subtitle_index": 792,
+      "start_time": 5239.49,
+      "end_time": 5242.57,
+      "duration": 3.0799999999999272,
+      "dialogue_text": "ارجوكم اهدؤا جميعكم"
+    },
+    {
+      "subtitle_index": 793,
+      "start_time": 5242.57,
+      "end_time": 5245.15,
+      "duration": 2.5799999999999272,
+      "dialogue_text": "اننا بموقف حرج الان"
+    },
+    {
+      "subtitle_index": 794,
+      "start_time": 5245.15,
+      "end_time": 5247.74,
+      "duration": 2.5900000000001455,
+      "dialogue_text": "سوسوكي قادم"
+    },
+    {
+      "subtitle_index": 795,
+      "start_time": 5247.74,
+      "end_time": 5254.26,
+      "duration": 6.520000000000437,
+      "dialogue_text": "ماذا يحدث- اختبار حب ؟ قلبي ينبض . اناا ايضا-"
+    },
+    {
+      "subtitle_index": 796,
+      "start_time": 5255.02,
+      "end_time": 5261.54,
+      "duration": 6.519999999999527,
+      "dialogue_text": "ارجوكم اهدئوا , الجميع هنا شاهد ارجوكم اهدؤا"
+    },
+    {
+      "subtitle_index": 797,
+      "start_time": 5263.06,
+      "end_time": 5267.66,
+      "duration": 4.599999999999454,
+      "dialogue_text": "سيد فوجي , انك لن تقوم بعمل شيء سيء لسوسوكي و بنيو ؟"
+    },
+    {
+      "subtitle_index": 798,
+      "start_time": 5267.66,
+      "end_time": 5269.13,
+      "duration": 1.4700000000002547,
+      "dialogue_text": "هذا صحيح"
+    },
+    {
+      "subtitle_index": 799,
+      "start_time": 5270.74,
+      "end_time": 5275.8,
+      "duration": 5.0600000000004,
+      "dialogue_text": "....اذا تخطوا الاختبار بونيو ..اذا"
+    },
+    {
+      "subtitle_index": 800,
+      "start_time": 5285.32,
+      "end_time": 5290.05,
+      "duration": 4.730000000000473,
+      "dialogue_text": "اني اظن انه رجل نبيل- ماذا تفعل ريسا-"
+    },
+    {
+      "subtitle_index": 801,
+      "start_time": 5290.05,
+      "end_time": 5291.67,
+      "duration": 1.6199999999998909,
+      "dialogue_text": "انظروا الى هناك"
+    },
+    {
+      "subtitle_index": 802,
+      "start_time": 5291.67,
+      "end_time": 5295.4,
+      "duration": 3.7299999999995634,
+      "dialogue_text": "انها كانت تتكلم مع والدة بونيو طوال الوقت"
+    },
+    {
+      "subtitle_index": 803,
+      "start_time": 5302.91,
+      "end_time": 5308.33,
+      "duration": 5.420000000000073,
+      "dialogue_text": "رياس لابد ان هذا صعب عليها - ماذا يفعلون هناك؟-"
+    },
+    {
+      "subtitle_index": 804,
+      "start_time": 5308.33,
+      "end_time": 5309.67,
+      "duration": 1.3400000000001455,
+      "dialogue_text": "لنحي لها"
+    },
+    {
+      "subtitle_index": 805,
+      "start_time": 5309.67,
+      "end_time": 5315.38,
+      "duration": 5.710000000000036,
+      "dialogue_text": "انسة ريسا, ريسا"
+    },
+    {
+      "subtitle_index": 806,
+      "start_time": 5319.86,
+      "end_time": 5327.06,
+      "duration": 7.200000000000728,
+      "dialogue_text": "لا تقلقي ريسا. سوسوكي سوف يأتي إليك"
+    },
+    {
+      "subtitle_index": 807,
+      "start_time": 5340.21,
+      "end_time": 5348.23,
+      "duration": 8.019999999999527,
+      "dialogue_text": "ريسا لابد انك قلقة - ان سوسوكي سيكون بخير انه فتى طيب-"
+    },
+    {
+      "subtitle_index": 808,
+      "start_time": 5348.7,
+      "end_time": 5352.31,
+      "duration": 3.610000000000582,
+      "dialogue_text": "شكرا لكم جميع, ايها الجميع لنشجع لسوسوكي"
+    },
+    {
+      "subtitle_index": 809,
+      "start_time": 5360.71,
+      "end_time": 5363.02,
+      "duration": 2.3100000000004,
+      "dialogue_text": "بونيو انه نفق"
+    },
+    {
+      "subtitle_index": 810,
+      "start_time": 5378.79,
+      "end_time": 5381.64,
+      "duration": 2.850000000000364,
+      "dialogue_text": "بونيو لا تخافي من الظلام"
+    },
+    {
+      "subtitle_index": 811,
+      "start_time": 5381.79,
+      "end_time": 5383.04,
+      "duration": 1.25,
+      "dialogue_text": "بونيو"
+    },
+    {
+      "subtitle_index": 812,
+      "start_time": 5383.6,
+      "end_time": 5385.71,
+      "duration": 2.1099999999996726,
+      "dialogue_text": "اني اكره هذا المكان"
+    },
+    {
+      "subtitle_index": 813,
+      "start_time": 5389.46,
+      "end_time": 5391.5,
+      "duration": 2.0399999999999636,
+      "dialogue_text": "لا تتركي يدي حسنا!؟"
+    },
+    {
+      "subtitle_index": 814,
+      "start_time": 5391.77,
+      "end_time": 5393.36,
+      "duration": 1.589999999999236,
+      "dialogue_text": "حسنا"
+    },
+    {
+      "subtitle_index": 815,
+      "start_time": 5430.31,
+      "end_time": 10860.52,
+      "duration": 5430.21,
+      "dialogue_text": "بونيو"
+    },
+    {
+      "subtitle_index": 816,
+      "start_time": 5450.37,
+      "end_time": 5451.68,
+      "duration": 1.3100000000004002,
+      "dialogue_text": "بونيو"
+    },
+    {
+      "subtitle_index": 817,
+      "start_time": 5459.37,
+      "end_time": 5460.68,
+      "duration": 1.3100000000004002,
+      "dialogue_text": "بونيو"
+    },
+    {
+      "subtitle_index": 818,
+      "start_time": 5482.21,
+      "end_time": 5484.77,
+      "duration": 2.5600000000004,
+      "dialogue_text": "بونيو لا تموتي"
+    },
+    {
+      "subtitle_index": 819,
+      "start_time": 5484.84,
+      "end_time": 5490.3,
+      "duration": 5.460000000000036,
+      "dialogue_text": "بونيو بونيو استيقضي بونيو"
+    },
+    {
+      "subtitle_index": 820,
+      "start_time": 5490.31,
+      "end_time": 5495.79,
+      "duration": 5.479999999999563,
+      "dialogue_text": "ششش...كن هادئا سوسوكي انك وصلت اخيرا الى هنا"
+    },
+    {
+      "subtitle_index": 821,
+      "start_time": 5495.79,
+      "end_time": 5500.16,
+      "duration": 4.369999999999891,
+      "dialogue_text": "الانسة ريسا و الجدات ينتظرونك"
+    },
+    {
+      "subtitle_index": 822,
+      "start_time": 5500.16,
+      "end_time": 5501.34,
+      "duration": 1.180000000000291,
+      "dialogue_text": "ريسا"
+    },
+    {
+      "subtitle_index": 823,
+      "start_time": 5501.34,
+      "end_time": 5505.39,
+      "duration": 4.050000000000182,
+      "dialogue_text": "تعالي معي , و مع بونيو"
+    },
+    {
+      "subtitle_index": 824,
+      "start_time": 5507.44,
+      "end_time": 5510.73,
+      "duration": 3.2899999999999636,
+      "dialogue_text": "لا تقم بايقاض بونيو , اننا سنتحرك بهدوء"
+    },
+    {
+      "subtitle_index": 825,
+      "start_time": 5510.73,
+      "end_time": 5512.25,
+      "duration": 1.5200000000004366,
+      "dialogue_text": "سوسوكي"
+    },
+    {
+      "subtitle_index": 826,
+      "start_time": 5512.25,
+      "end_time": 5516.19,
+      "duration": 3.9399999999996,
+      "dialogue_text": "لا يتم خداعك من قبله"
+    },
+    {
+      "subtitle_index": 827,
+      "start_time": 5516.34,
+      "end_time": 5520.07,
+      "duration": 3.7299999999995634,
+      "dialogue_text": "كل هذا الكلام الحلو لقد قام بخطف الجميع"
+    },
+    {
+      "subtitle_index": 828,
+      "start_time": 5520.07,
+      "end_time": 5520.75,
+      "duration": 0.680000000000291,
+      "dialogue_text": "جدتي توكي"
+    },
+    {
+      "subtitle_index": 829,
+      "start_time": 5520.75,
+      "end_time": 5523.38,
+      "duration": 2.630000000000109,
+      "dialogue_text": "لا يتم خداعك"
+    },
+    {
+      "subtitle_index": 830,
+      "start_time": 5523.38,
+      "end_time": 5526.63,
+      "duration": 3.25,
+      "dialogue_text": "انه لا يوجد وقت"
+    },
+    {
+      "subtitle_index": 831,
+      "start_time": 5527.16,
+      "end_time": 5529.17,
+      "duration": 2.0100000000002183,
+      "dialogue_text": "الا يمكنك رؤية هذا ؟"
+    },
+    {
+      "subtitle_index": 832,
+      "start_time": 5529.17,
+      "end_time": 5531.0,
+      "duration": 1.8299999999999272,
+      "dialogue_text": "اذا اقترب القمر اكثر"
+    },
+    {
+      "subtitle_index": 833,
+      "start_time": 5531.0,
+      "end_time": 5533.27,
+      "duration": 2.2700000000004366,
+      "dialogue_text": "سوف يحدث شيء رهيب"
+    },
+    {
+      "subtitle_index": 834,
+      "start_time": 5533.27,
+      "end_time": 5536.1,
+      "duration": 2.8299999999999272,
+      "dialogue_text": "انك تحتاج ان تعمل عذر افضل من هذا"
+    },
+    {
+      "subtitle_index": 835,
+      "start_time": 5536.1,
+      "end_time": 5537.77,
+      "duration": 1.6700000000000728,
+      "dialogue_text": "اه..."
+    },
+    {
+      "subtitle_index": 836,
+      "start_time": 5539.09,
+      "end_time": 5543.34,
+      "duration": 4.25,
+      "dialogue_text": "سوسوكي , تعال معي انت فقط يمكنك ان تنقذ هذا العالم"
+    },
+    {
+      "subtitle_index": 837,
+      "start_time": 5543.34,
+      "end_time": 5545.93,
+      "duration": 2.5900000000001455,
+      "dialogue_text": "اني لن اؤذيك"
+    },
+    {
+      "subtitle_index": 838,
+      "start_time": 5545.93,
+      "end_time": 5547.17,
+      "duration": 1.2399999999997817,
+      "dialogue_text": "بونيو"
+    },
+    {
+      "subtitle_index": 839,
+      "start_time": 5547.36,
+      "end_time": 5549.2,
+      "duration": 1.8400000000001455,
+      "dialogue_text": ""
+    },
+    {
+      "subtitle_index": 840,
+      "start_time": 5549.2,
+      "end_time": 5552.33,
+      "duration": 3.130000000000109,
+      "dialogue_text": "كيف يمكنك معاملة والدك هكذا ؟"
+    },
+    {
+      "subtitle_index": 841,
+      "start_time": 5558.37,
+      "end_time": 5560.12,
+      "duration": 1.75,
+      "dialogue_text": "بونيو"
+    },
+    {
+      "subtitle_index": 842,
+      "start_time": 5560.03,
+      "end_time": 5562.66,
+      "duration": 2.630000000000109,
+      "dialogue_text": "سوسوكي , تعال الى هنا بسرعة"
+    },
+    {
+      "subtitle_index": 843,
+      "start_time": 5562.78,
+      "end_time": 5565.18,
+      "duration": 2.4000000000005457,
+      "dialogue_text": "لقد قلت اني لن اؤذيك"
+    },
+    {
+      "subtitle_index": 844,
+      "start_time": 5569.94,
+      "end_time": 5571.61,
+      "duration": 1.6700000000000728,
+      "dialogue_text": "ابذل قصار جهدك"
+    },
+    {
+      "subtitle_index": 845,
+      "start_time": 5573.54,
+      "end_time": 5575.33,
+      "duration": 1.7899999999999636,
+      "dialogue_text": "انك تستطيع فعلها"
+    },
+    {
+      "subtitle_index": 846,
+      "start_time": 5612.49,
+      "end_time": 5615.98,
+      "duration": 3.4899999999997817,
+      "dialogue_text": "انتم"
+    },
+    {
+      "subtitle_index": 847,
+      "start_time": 5670.49,
+      "end_time": 5672.9,
+      "duration": 2.4099999999998545,
+      "dialogue_text": "ريسا- سوسوكي-"
+    },
+    {
+      "subtitle_index": 848,
+      "start_time": 5672.91,
+      "end_time": 5673.9,
+      "duration": 0.9899999999997817,
+      "dialogue_text": "بونيو"
+    },
+    {
+      "subtitle_index": 849,
+      "start_time": 5692.96,
+      "end_time": 5694.27,
+      "duration": 1.3100000000004002,
+      "dialogue_text": "لابد انك سوسوكي"
+    },
+    {
+      "subtitle_index": 850,
+      "start_time": 5695.14,
+      "end_time": 5698.68,
+      "duration": 3.5399999999999636,
+      "dialogue_text": "مرحبا , انت والدة بونيو؟"
+    },
+    {
+      "subtitle_index": 851,
+      "start_time": 5698.87,
+      "end_time": 5702.79,
+      "duration": 3.9200000000000728,
+      "dialogue_text": "نعم , انك اخيرا احضرت بونيو هنا"
+    },
+    {
+      "subtitle_index": 852,
+      "start_time": 5702.79,
+      "end_time": 5704.62,
+      "duration": 1.8299999999999272,
+      "dialogue_text": "شششششش"
+    },
+    {
+      "subtitle_index": 853,
+      "start_time": 5705.38,
+      "end_time": 5707.68,
+      "duration": 2.300000000000182,
+      "dialogue_text": ""
+    },
+    {
+      "subtitle_index": 854,
+      "start_time": 5705.68,
+      "end_time": 5711.79,
+      "duration": 6.109999999999673,
+      "dialogue_text": "سوسوكي , ان بونيو قد كسرة الحاجز السحري لكي تصبح انسان"
+    },
+    {
+      "subtitle_index": 855,
+      "start_time": 5711.98,
+      "end_time": 5713.64,
+      "duration": 1.660000000000764,
+      "dialogue_text": "لكي تصبح انسان"
+    },
+    {
+      "subtitle_index": 856,
+      "start_time": 5713.64,
+      "end_time": 5718.98,
+      "duration": 5.339999999999236,
+      "dialogue_text": "انه يتطلب رجل ان يفهم بونيو و ان يتقبلها كما هي"
+    },
+    {
+      "subtitle_index": 857,
+      "start_time": 5719.26,
+      "end_time": 5723.48,
+      "duration": 4.219999999999345,
+      "dialogue_text": "هل تعلم ان بونيو سمكة ؟"
+    },
+    {
+      "subtitle_index": 858,
+      "start_time": 5723.79,
+      "end_time": 5724.81,
+      "duration": 1.0200000000004366,
+      "dialogue_text": "نعم"
+    },
+    {
+      "subtitle_index": 859,
+      "start_time": 5724.81,
+      "end_time": 5728.93,
+      "duration": 4.119999999999891,
+      "dialogue_text": "لقد تحولت بونيو الى حورية لانها تذوقت من دمك"
+    },
+    {
+      "subtitle_index": 860,
+      "start_time": 5728.93,
+      "end_time": 5736.46,
+      "duration": 7.529999999999745,
+      "dialogue_text": "لهذا السبب ؟ بوني لعقت جرحي و تحولت الى حورية ؟"
+    },
+    {
+      "subtitle_index": 861,
+      "start_time": 5736.98,
+      "end_time": 5741.06,
+      "duration": 4.080000000000837,
+      "dialogue_text": "بونيو تعلم انها نصف سمكة و نصف انسان هل انت لا تمانع بهذا؟"
+    },
+    {
+      "subtitle_index": 862,
+      "start_time": 5741.22,
+      "end_time": 5746.88,
+      "duration": 5.6599999999998545,
+      "dialogue_text": "نعم , مهما كان بونيو سمكة او بونيو حورية او بونيو انسان , الجميع يحبها"
+    },
+    {
+      "subtitle_index": 863,
+      "start_time": 5750.48,
+      "end_time": 5751.57,
+      "duration": 1.0900000000001455,
+      "dialogue_text": ""
+    },
+    {
+      "subtitle_index": 864,
+      "start_time": 5761.67,
+      "end_time": 5763.5,
+      "duration": 1.8299999999999272,
+      "dialogue_text": "بونيو ارجوك تعالي الى هنا"
+    },
+    {
+      "subtitle_index": 865,
+      "start_time": 5778.06,
+      "end_time": 5783.26,
+      "duration": 5.199999999999818,
+      "dialogue_text": "بونيو , انه يبدو ان سوسوكي انه تقبلك كما انتي"
+    },
+    {
+      "subtitle_index": 866,
+      "start_time": 5785.85,
+      "end_time": 5791.55,
+      "duration": 5.699999999999818,
+      "dialogue_text": "لكي تتحولي الى انسان , لايمكنك استخدام سحرك مرة اخرى هل تستطيعين القيام بهذا؟"
+    },
+    {
+      "subtitle_index": 867,
+      "start_time": 5791.71,
+      "end_time": 5793.13,
+      "duration": 1.4200000000000728,
+      "dialogue_text": "نعم"
+    },
+    {
+      "subtitle_index": 868,
+      "start_time": 5802.08,
+      "end_time": 5805.09,
+      "duration": 3.0100000000002183,
+      "dialogue_text": "عندما تعود الى السطح ,قم بتقبيل هذه الفقاعة مرة"
+    },
+    {
+      "subtitle_index": 869,
+      "start_time": 5805.74,
+      "end_time": 5809.53,
+      "duration": 3.7899999999999636,
+      "dialogue_text": "بونيو سوف اذا تتحول الى فتاة بعمر خمس سنوات مثلك"
+    },
+    {
+      "subtitle_index": 870,
+      "start_time": 5813.13,
+      "end_time": 5814.51,
+      "duration": 1.3800000000001091,
+      "dialogue_text": "بونيو هذا رائع اليس كذلك ؟"
+    },
+    {
+      "subtitle_index": 871,
+      "start_time": 5815.88,
+      "end_time": 5817.9,
+      "duration": 2.019999999999527,
+      "dialogue_text": "شكرا لك , والدة بونيو"
+    },
+    {
+      "subtitle_index": 872,
+      "start_time": 5824.53,
+      "end_time": 5828.13,
+      "duration": 3.600000000000364,
+      "dialogue_text": "الجميع , ان اللعنة على الارض قد انكسرت"
+    },
+    {
+      "subtitle_index": 873,
+      "start_time": 5828.29,
+      "end_time": 5831.3,
+      "duration": 3.0100000000002183,
+      "dialogue_text": "هذا رائع"
+    },
+    {
+      "subtitle_index": 874,
+      "start_time": 5865.13,
+      "end_time": 5866.71,
+      "duration": 1.5799999999999272,
+      "dialogue_text": "ريسا , شكرا لك"
+    },
+    {
+      "subtitle_index": 875,
+      "start_time": 5867.31,
+      "end_time": 5870.55,
+      "duration": 3.2399999999997817,
+      "dialogue_text": "انت ايضا , شكرا لك الى الابد"
+    },
+    {
+      "subtitle_index": 876,
+      "start_time": 5881.5,
+      "end_time": 5883.96,
+      "duration": 2.4600000000000364,
+      "dialogue_text": "ايها الجميع , هل انتم بخير؟"
+    },
+    {
+      "subtitle_index": 877,
+      "start_time": 5889.55,
+      "end_time": 5891.89,
+      "duration": 2.3400000000001455,
+      "dialogue_text": "اننا سوف نحضر الكراسي المتحركة بسرعة"
+    },
+    {
+      "subtitle_index": 878,
+      "start_time": 5892.18,
+      "end_time": 5893.8,
+      "duration": 1.6199999999998909,
+      "dialogue_text": "لابئس , اننا نستطيع السير"
+    },
+    {
+      "subtitle_index": 879,
+      "start_time": 5899.74,
+      "end_time": 5901.6,
+      "duration": 1.860000000000582,
+      "dialogue_text": "خذ هذه انها سفينتك"
+    },
+    {
+      "subtitle_index": 880,
+      "start_time": 5904.0,
+      "end_time": 5904.85,
+      "duration": 0.8500000000003638,
+      "dialogue_text": "شكرا لك"
+    },
+    {
+      "subtitle_index": 881,
+      "start_time": 5905.65,
+      "end_time": 5909.82,
+      "duration": 4.170000000000073,
+      "dialogue_text": "اني اسف لكل شيء هل نتصافح؟"
+    },
+    {
+      "subtitle_index": 882,
+      "start_time": 5915.16,
+      "end_time": 5917.1,
+      "duration": 1.9400000000005093,
+      "dialogue_text": "اني اثق بك ان تعتني ببونيو"
+    },
+    {
+      "subtitle_index": 883,
+      "start_time": 5919.29,
+      "end_time": 5921.23,
+      "duration": 1.9399999999995998,
+      "dialogue_text": "انها سفينة كويشي"
+    },
+    {
+      "subtitle_index": 884,
+      "start_time": 5925.76,
+      "end_time": 5930.49,
+      "duration": 4.729999999999563,
+      "dialogue_text": "كويشي, هي ,ان هنا"
+    },
+    {
+      "subtitle_index": 885,
+      "start_time": 5931.26,
+      "end_time": 5933.88,
+      "duration": 2.619999999999891,
+      "dialogue_text": "انها ريسا , سوسوكي ايضا"
+    },
+    {
+      "subtitle_index": 886,
+      "start_time": 5937.09,
+      "end_time": 5938.74,
+      "duration": 1.6499999999996362,
+      "dialogue_text": "بونيو , انها سفينة كويشي"
+    },
+    {
+      "subtitle_index": 887,
+      "start_time": 5949.53,
+      "end_time": 5954.78,
+      "duration": 5.25,
+      "dialogue_text": "تمة الترجمة عن طريق Roysolid اهداء هذا الفلم لجميع الاطفال"
+    },
+    {
+      "subtitle_index": 888,
+      "start_time": 5960.56,
+      "end_time": 5964.07,
+      "duration": 3.509999999999309,
+      "dialogue_text": "بونيو , بونيو , بونيو, الفتاة السمكة"
+    },
+    {
+      "subtitle_index": 889,
+      "start_time": 5964.22,
+      "end_time": 5968.23,
+      "duration": 4.009999999999309,
+      "dialogue_text": "انها قدمت من البحر الازرق الكبير"
+    },
+    {
+      "subtitle_index": 890,
+      "start_time": 5968.41,
+      "end_time": 5971.9,
+      "duration": 3.4899999999997817,
+      "dialogue_text": "بونيو , بونيو , بونيو ,اصبحت اكبر"
+    },
+    {
+      "subtitle_index": 891,
+      "start_time": 5972.04,
+      "end_time": 5976.14,
+      "duration": 4.100000000000364,
+      "dialogue_text": "و قد تحولت الى فتاة صغيرة"
+    },
+    {
+      "subtitle_index": 892,
+      "start_time": 5984.62,
+      "end_time": 5988.17,
+      "duration": 3.550000000000182,
+      "dialogue_text": "تيب تاب تيبت تاب , ستومب ستومب"
+    },
+    {
+      "subtitle_index": 893,
+      "start_time": 5988.33,
+      "end_time": 5992.27,
+      "duration": 3.9400000000005093,
+      "dialogue_text": "قالت ان القدمين ستكون رائع و قد ذهبت الى رحلة"
+    },
+    {
+      "subtitle_index": 894,
+      "start_time": 5992.44,
+      "end_time": 5995.95,
+      "duration": 3.5100000000002183,
+      "dialogue_text": "نيجي نيجي بووم بووم"
+    },
+    {
+      "subtitle_index": 895,
+      "start_time": 5996.19,
+      "end_time": 6000.18,
+      "duration": 3.990000000000691,
+      "dialogue_text": "قالت اليدين انها ستكون رائعة . لكن ربما لا"
+    },
+    {
+      "subtitle_index": 896,
+      "start_time": 6000.69,
+      "end_time": 6008.16,
+      "duration": 7.470000000000255,
+      "dialogue_text": "لقد ذهبت برفقة ولد و قد غامرت بقلبها"
+    },
+    {
+      "subtitle_index": 897,
+      "start_time": 6008.39,
+      "end_time": 6012.3,
+      "duration": 3.9099999999998545,
+      "dialogue_text": "باك باك شوش ,باك باك شوش"
+    },
+    {
+      "subtitle_index": 898,
+      "start_time": 6012.73,
+      "end_time": 6020.48,
+      "duration": 7.75,
+      "dialogue_text": "اني احب الصبي اكثر فاكثر"
+    },
+    {
+      "subtitle_index": 899,
+      "start_time": 6020.61,
+      "end_time": 6024.01,
+      "duration": 3.4000000000005457,
+      "dialogue_text": "بونيو , بونيو , بونيو, الفتاة السمكة"
+    },
+    {
+      "subtitle_index": 900,
+      "start_time": 6024.16,
+      "end_time": 6028.12,
+      "duration": 3.9600000000000364,
+      "dialogue_text": "انها قدمت من البحر الازرق الكبير"
+    },
+    {
+      "subtitle_index": 901,
+      "start_time": 6028.24,
+      "end_time": 6031.9,
+      "duration": 3.6599999999998545,
+      "dialogue_text": "بونيو , بونيو , بونيو ,اصبحت اكبر"
+    },
+    {
+      "subtitle_index": 902,
+      "start_time": 6032.05,
+      "end_time": 6036.03,
+      "duration": 3.9799999999995634,
+      "dialogue_text": "و قد تحولت الى فتاة صغيرة"
+    },
+    {
+      "subtitle_index": 903,
+      "start_time": 6039.17,
+      "end_time": 6050.43,
+      "duration": 11.260000000000218,
+      "dialogue_text": "النهاية حافظوا على نظافة البحار هناك كائنات ايضا تعيش تحتها"
+    }
+  ]
+}

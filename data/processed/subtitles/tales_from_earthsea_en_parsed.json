@@ -1,0 +1,6956 @@
+{
+  "metadata": {
+    "film_name": "Talesom Earthsea",
+    "film_slug": "tales_from_earthsea_en",
+    "language_code": "en",
+    "total_subtitles": 992,
+    "total_duration": 6912.081,
+    "parse_timestamp": "2025-10-30T17:09:43.275824"
+  },
+  "subtitles": [
+    {
+      "subtitle_index": 1,
+      "start_time": 7.232,
+      "end_time": 10.493,
+      "duration": 3.261,
+      "dialogue_text": "Studio Ghibli, Nippon Television Network, Dentsu, Hakuhodo DYMP."
+    },
+    {
+      "subtitle_index": 2,
+      "start_time": 10.831,
+      "end_time": 14.092,
+      "duration": 3.261000000000001,
+      "dialogue_text": "Buena Vista Home Entertainment, Mitsubishi and Toho PRESENT"
+    },
+    {
+      "subtitle_index": 3,
+      "start_time": 14.664,
+      "end_time": 18.06,
+      "duration": 3.395999999999999,
+      "dialogue_text": "Only in silence the word, only in dark the light,"
+    },
+    {
+      "subtitle_index": 4,
+      "start_time": 18.396,
+      "end_time": 21.384,
+      "duration": 2.9879999999999995,
+      "dialogue_text": "only in dying life:"
+    },
+    {
+      "subtitle_index": 5,
+      "start_time": 21.729,
+      "end_time": 25.058,
+      "duration": 3.3290000000000006,
+      "dialogue_text": "bright the hawk's flight on the empty sky."
+    },
+    {
+      "subtitle_index": 6,
+      "start_time": 25.395,
+      "end_time": 28.383,
+      "duration": 2.9879999999999995,
+      "dialogue_text": "- The Creation of Éa"
+    },
+    {
+      "subtitle_index": 7,
+      "start_time": 45.257,
+      "end_time": 47.518,
+      "duration": 2.261000000000003,
+      "dialogue_text": "Ease the sail!"
+    },
+    {
+      "subtitle_index": 8,
+      "start_time": 50.589,
+      "end_time": 52.316,
+      "duration": 1.7270000000000039,
+      "dialogue_text": "It's blowing too hard!"
+    },
+    {
+      "subtitle_index": 9,
+      "start_time": 54.089,
+      "end_time": 58.487,
+      "duration": 4.398000000000003,
+      "dialogue_text": "Curse it! A storm this time of year? Where's my Weatherworker?"
+    },
+    {
+      "subtitle_index": 10,
+      "start_time": 58.988,
+      "end_time": 64.045,
+      "duration": 5.057000000000002,
+      "dialogue_text": "What are you waiting for? Calm the waves before we sink!"
+    },
+    {
+      "subtitle_index": 11,
+      "start_time": 65.786,
+      "end_time": 67.047,
+      "duration": 1.2609999999999957,
+      "dialogue_text": "What's wrong?"
+    },
+    {
+      "subtitle_index": 12,
+      "start_time": 67.152,
+      "end_time": 71.107,
+      "duration": 3.9549999999999983,
+      "dialogue_text": "Captain... I can't remember them."
+    },
+    {
+      "subtitle_index": 13,
+      "start_time": 71.219,
+      "end_time": 74.706,
+      "duration": 3.487000000000009,
+      "dialogue_text": "I can't remember the True Names of wind and waves."
+    },
+    {
+      "subtitle_index": 14,
+      "start_time": 76.085,
+      "end_time": 78.209,
+      "duration": 2.1240000000000094,
+      "dialogue_text": "What? Are you mad?"
+    },
+    {
+      "subtitle_index": 15,
+      "start_time": 78.317,
+      "end_time": 79.51,
+      "duration": 1.193000000000012,
+      "dialogue_text": "Captain!"
+    },
+    {
+      "subtitle_index": 16,
+      "start_time": 79.717,
+      "end_time": 81.945,
+      "duration": 2.2279999999999944,
+      "dialogue_text": "There's something above the clouds!"
+    },
+    {
+      "subtitle_index": 17,
+      "start_time": 84.649,
+      "end_time": 85.808,
+      "duration": 1.159000000000006,
+      "dialogue_text": "Where?"
+    },
+    {
+      "subtitle_index": 18,
+      "start_time": 88.048,
+      "end_time": 89.412,
+      "duration": 1.3640000000000043,
+      "dialogue_text": "What is that?"
+    },
+    {
+      "subtitle_index": 19,
+      "start_time": 112.91,
+      "end_time": 116.206,
+      "duration": 3.2960000000000065,
+      "dialogue_text": "A dragon! What is it doing here?"
+    },
+    {
+      "subtitle_index": 20,
+      "start_time": 116.309,
+      "end_time": 118.036,
+      "duration": 1.7270000000000039,
+      "dialogue_text": "There's another one!"
+    },
+    {
+      "subtitle_index": 21,
+      "start_time": 150.003,
+      "end_time": 152.934,
+      "duration": 2.9310000000000116,
+      "dialogue_text": "Dragons fighting? That's impossible!"
+    },
+    {
+      "subtitle_index": 22,
+      "start_time": 179.53,
+      "end_time": 183.894,
+      "duration": 4.364000000000004,
+      "dialogue_text": "More than 2,000 sheep have taken the fever in Enlad alone."
+    },
+    {
+      "subtitle_index": 23,
+      "start_time": 184.363,
+      "end_time": 186.885,
+      "duration": 2.5219999999999914,
+      "dialogue_text": "Half of them have died."
+    },
+    {
+      "subtitle_index": 24,
+      "start_time": 187.228,
+      "end_time": 189.591,
+      "duration": 2.3629999999999995,
+      "dialogue_text": "Seven hundred cattle have been infected."
+    },
+    {
+      "subtitle_index": 25,
+      "start_time": 189.695,
+      "end_time": 191.888,
+      "duration": 2.193000000000012,
+      "dialogue_text": "We've lost 50 head so far."
+    },
+    {
+      "subtitle_index": 26,
+      "start_time": 192.294,
+      "end_time": 197.749,
+      "duration": 5.454999999999984,
+      "dialogue_text": "In fact, a baby on Taon has also come down with the fever."
+    },
+    {
+      "subtitle_index": 27,
+      "start_time": 199.793,
+      "end_time": 201.281,
+      "duration": 1.4879999999999995,
+      "dialogue_text": "Silence!"
+    },
+    {
+      "subtitle_index": 28,
+      "start_time": 202.592,
+      "end_time": 205.887,
+      "duration": 3.2949999999999875,
+      "dialogue_text": "If we panic, what will become of the People?"
+    },
+    {
+      "subtitle_index": 29,
+      "start_time": 206.191,
+      "end_time": 208.02,
+      "duration": 1.8290000000000077,
+      "dialogue_text": "Seal off the affected areas."
+    },
+    {
+      "subtitle_index": 30,
+      "start_time": 208.124,
+      "end_time": 212.385,
+      "duration": 4.260999999999996,
+      "dialogue_text": "Send every healer in the kingdom to find a cure."
+    },
+    {
+      "subtitle_index": 31,
+      "start_time": 212.724,
+      "end_time": 215.655,
+      "duration": 2.9310000000000116,
+      "dialogue_text": "Send provisions to those who need them."
+    },
+    {
+      "subtitle_index": 32,
+      "start_time": 215.756,
+      "end_time": 219.551,
+      "duration": 3.7949999999999875,
+      "dialogue_text": "Wizard Root! Find out what's behind this."
+    },
+    {
+      "subtitle_index": 33,
+      "start_time": 219.956,
+      "end_time": 221.387,
+      "duration": 1.4310000000000116,
+      "dialogue_text": "Your Majesty."
+    },
+    {
+      "subtitle_index": 34,
+      "start_time": 226.055,
+      "end_time": 228.179,
+      "duration": 2.1239999999999952,
+      "dialogue_text": "And the drought in the provinces?"
+    },
+    {
+      "subtitle_index": 35,
+      "start_time": 228.287,
+      "end_time": 231.81,
+      "duration": 3.522999999999996,
+      "dialogue_text": "We sent Weatherworkers but the results were disappointing."
+    },
+    {
+      "subtitle_index": 36,
+      "start_time": 232.453,
+      "end_time": 236.817,
+      "duration": 4.364000000000004,
+      "dialogue_text": "Soon it may be too late for the spring planting."
+    },
+    {
+      "subtitle_index": 37,
+      "start_time": 237.585,
+      "end_time": 241.277,
+      "duration": 3.691999999999979,
+      "dialogue_text": "Why have these misfortunes befallen us, Root?"
+    },
+    {
+      "subtitle_index": 38,
+      "start_time": 241.384,
+      "end_time": 244.316,
+      "duration": 2.9320000000000164,
+      "dialogue_text": "I sense the Light dimming, Your Majesty."
+    },
+    {
+      "subtitle_index": 39,
+      "start_time": 244.55,
+      "end_time": 245.948,
+      "duration": 1.3979999999999961,
+      "dialogue_text": "The Light?"
+    },
+    {
+      "subtitle_index": 40,
+      "start_time": 246.05,
+      "end_time": 249.846,
+      "duration": 3.7959999999999923,
+      "dialogue_text": "The Light of the Balance that sustains the world."
+    },
+    {
+      "subtitle_index": 41,
+      "start_time": 249.95,
+      "end_time": 250.973,
+      "duration": 1.0230000000000246,
+      "dialogue_text": "Your Majesty!"
+    },
+    {
+      "subtitle_index": 42,
+      "start_time": 251.149,
+      "end_time": 252.513,
+      "duration": 1.3640000000000043,
+      "dialogue_text": "What now?"
+    },
+    {
+      "subtitle_index": 43,
+      "start_time": 252.683,
+      "end_time": 254.205,
+      "duration": 1.5220000000000198,
+      "dialogue_text": "Terrible news!"
+    },
+    {
+      "subtitle_index": 44,
+      "start_time": 254.316,
+      "end_time": 257.338,
+      "duration": 3.02200000000002,
+      "dialogue_text": "Dragons have been sighted off the coast!"
+    },
+    {
+      "subtitle_index": 45,
+      "start_time": 257.581,
+      "end_time": 261.342,
+      "duration": 3.7609999999999673,
+      "dialogue_text": "- Dragons? - Two, Majesty. One was killed."
+    },
+    {
+      "subtitle_index": 46,
+      "start_time": 262.047,
+      "end_time": 267.536,
+      "duration": 5.488999999999976,
+      "dialogue_text": "Dragons here, in the East? Can this really be true?"
+    },
+    {
+      "subtitle_index": 47,
+      "start_time": 268.612,
+      "end_time": 272.237,
+      "duration": 3.625,
+      "dialogue_text": "Long ago, dragons and men were one."
+    },
+    {
+      "subtitle_index": 48,
+      "start_time": 272.578,
+      "end_time": 277.339,
+      "duration": 4.761000000000024,
+      "dialogue_text": "But men who coveted possessions chose the land and the sea."
+    },
+    {
+      "subtitle_index": 49,
+      "start_time": 277.444,
+      "end_time": 281.273,
+      "duration": 3.8290000000000077,
+      "dialogue_text": "Dragons who wanted freedom, chose wind and fire."
+    },
+    {
+      "subtitle_index": 50,
+      "start_time": 281.677,
+      "end_time": 285.506,
+      "duration": 3.828999999999951,
+      "dialogue_text": "Since then, dragons and men remained apart."
+    },
+    {
+      "subtitle_index": 51,
+      "start_time": 285.709,
+      "end_time": 289.936,
+      "duration": 4.226999999999975,
+      "dialogue_text": "To hear that dragons have been seen, and were even fighting..."
+    },
+    {
+      "subtitle_index": 52,
+      "start_time": 290.274,
+      "end_time": 294.172,
+      "duration": 3.8980000000000246,
+      "dialogue_text": "The twilight that threatens us is ever deepening."
+    },
+    {
+      "subtitle_index": 53,
+      "start_time": 297.906,
+      "end_time": 302.099,
+      "duration": 4.192999999999984,
+      "dialogue_text": "Bring the captain to me. I would hear more of this."
+    },
+    {
+      "subtitle_index": 54,
+      "start_time": 302.339,
+      "end_time": 305.304,
+      "duration": 2.964999999999975,
+      "dialogue_text": "Root, I want you there too."
+    },
+    {
+      "subtitle_index": 55,
+      "start_time": 309.671,
+      "end_time": 311.136,
+      "duration": 1.4650000000000318,
+      "dialogue_text": "Please... Your Majesty!"
+    },
+    {
+      "subtitle_index": 56,
+      "start_time": 311.237,
+      "end_time": 313.362,
+      "duration": 2.125,
+      "dialogue_text": "- We'll get in trouble! - I have to!"
+    },
+    {
+      "subtitle_index": 57,
+      "start_time": 313.469,
+      "end_time": 316.866,
+      "duration": 3.3969999999999914,
+      "dialogue_text": "- What is it? - Have you seen Prince Arren?"
+    },
+    {
+      "subtitle_index": 58,
+      "start_time": 317.569,
+      "end_time": 320.125,
+      "duration": 2.555999999999983,
+      "dialogue_text": "He's been gone since last night."
+    },
+    {
+      "subtitle_index": 59,
+      "start_time": 320.402,
+      "end_time": 321.765,
+      "duration": 1.3629999999999995,
+      "dialogue_text": "Prince Arren? Gone?"
+    },
+    {
+      "subtitle_index": 60,
+      "start_time": 321.868,
+      "end_time": 323.129,
+      "duration": 1.261000000000024,
+      "dialogue_text": "That's enough."
+    },
+    {
+      "subtitle_index": 61,
+      "start_time": 330.5,
+      "end_time": 332.658,
+      "duration": 2.1580000000000155,
+      "dialogue_text": "His Majesty is occupied."
+    },
+    {
+      "subtitle_index": 62,
+      "start_time": 332.999,
+      "end_time": 335.191,
+      "duration": 2.1919999999999504,
+      "dialogue_text": "Surely you can see that."
+    },
+    {
+      "subtitle_index": 63,
+      "start_time": 335.299,
+      "end_time": 336.697,
+      "duration": 1.3980000000000246,
+      "dialogue_text": "Forgive me."
+    },
+    {
+      "subtitle_index": 64,
+      "start_time": 336.798,
+      "end_time": 340.252,
+      "duration": 3.4540000000000077,
+      "dialogue_text": "It's just... he seems so sad lately. We were worried."
+    },
+    {
+      "subtitle_index": 65,
+      "start_time": 340.731,
+      "end_time": 345.253,
+      "duration": 4.521999999999991,
+      "dialogue_text": "That's absurd! Arren is 17, not a child."
+    },
+    {
+      "subtitle_index": 66,
+      "start_time": 345.896,
+      "end_time": 349.056,
+      "duration": 3.159999999999968,
+      "dialogue_text": "Forgive this disturbance, Your Majesty."
+    },
+    {
+      "subtitle_index": 67,
+      "start_time": 349.163,
+      "end_time": 352.094,
+      "duration": 2.930999999999983,
+      "dialogue_text": "Your people are more important."
+    },
+    {
+      "subtitle_index": 68,
+      "start_time": 352.728,
+      "end_time": 354.751,
+      "duration": 2.0229999999999677,
+      "dialogue_text": "- Very well, then. - Your Majesty."
+    },
+    {
+      "subtitle_index": 69,
+      "start_time": 357.827,
+      "end_time": 360.054,
+      "duration": 2.2269999999999754,
+      "dialogue_text": "I must tend to my correspondence."
+    },
+    {
+      "subtitle_index": 70,
+      "start_time": 360.16,
+      "end_time": 362.49,
+      "duration": 2.329999999999984,
+      "dialogue_text": "We await your command, sire."
+    },
+    {
+      "subtitle_index": 71,
+      "start_time": 379.223,
+      "end_time": 380.746,
+      "duration": 1.5229999999999677,
+      "dialogue_text": "I'm imagining things."
+    },
+    {
+      "subtitle_index": 72,
+      "start_time": 407.084,
+      "end_time": 408.64,
+      "duration": 1.5559999999999832,
+      "dialogue_text": "Arren!"
+    },
+    {
+      "subtitle_index": 73,
+      "start_time": 582.883,
+      "end_time": 585.246,
+      "duration": 2.3629999999999427,
+      "dialogue_text": "So you are my death..."
+    },
+    {
+      "subtitle_index": 74,
+      "start_time": 601.012,
+      "end_time": 602.534,
+      "duration": 1.5220000000000482,
+      "dialogue_text": "Are you hurt?"
+    },
+    {
+      "subtitle_index": 75,
+      "start_time": 612.61,
+      "end_time": 614.309,
+      "duration": 1.6989999999999554,
+      "dialogue_text": "Steady there, lad!"
+    },
+    {
+      "subtitle_index": 76,
+      "start_time": 638.738,
+      "end_time": 640.635,
+      "duration": 1.8969999999999345,
+      "dialogue_text": "Is this what you seek?"
+    },
+    {
+      "subtitle_index": 77,
+      "start_time": 643.903,
+      "end_time": 646.801,
+      "duration": 2.8980000000000246,
+      "dialogue_text": "This is dangerous country for travelers."
+    },
+    {
+      "subtitle_index": 78,
+      "start_time": 647.803,
+      "end_time": 651.632,
+      "duration": 3.828999999999951,
+      "dialogue_text": "You were lucky this time. You must be hungry."
+    },
+    {
+      "subtitle_index": 79,
+      "start_time": 652.468,
+      "end_time": 655.661,
+      "duration": 3.1929999999999836,
+      "dialogue_text": "It's not much, but you're welcome to it."
+    },
+    {
+      "subtitle_index": 80,
+      "start_time": 659.2,
+      "end_time": 661.859,
+      "duration": 2.658999999999992,
+      "dialogue_text": "What is your name, lad?"
+    },
+    {
+      "subtitle_index": 81,
+      "start_time": 665.866,
+      "end_time": 667.388,
+      "duration": 1.5220000000000482,
+      "dialogue_text": "My name is Arren."
+    },
+    {
+      "subtitle_index": 82,
+      "start_time": 667.931,
+      "end_time": 671.761,
+      "duration": 3.8299999999999272,
+      "dialogue_text": "Arren, is it? It means sword, doesn't it?"
+    },
+    {
+      "subtitle_index": 83,
+      "start_time": 674.864,
+      "end_time": 677.625,
+      "duration": 2.7609999999999673,
+      "dialogue_text": "So you hail from Enlad."
+    },
+    {
+      "subtitle_index": 84,
+      "start_time": 678.33,
+      "end_time": 679.795,
+      "duration": 1.4649999999999181,
+      "dialogue_text": "How did you know?"
+    },
+    {
+      "subtitle_index": 85,
+      "start_time": 681.629,
+      "end_time": 684.617,
+      "duration": 2.9879999999999427,
+      "dialogue_text": "That blade was forged with magic."
+    },
+    {
+      "subtitle_index": 86,
+      "start_time": 685.295,
+      "end_time": 688.624,
+      "duration": 3.3290000000000646,
+      "dialogue_text": "I doubt you could unsheathe it."
+    },
+    {
+      "subtitle_index": 87,
+      "start_time": 697.959,
+      "end_time": 699.289,
+      "duration": 1.330000000000041,
+      "dialogue_text": "What is it?"
+    },
+    {
+      "subtitle_index": 88,
+      "start_time": 702.258,
+      "end_time": 703.917,
+      "duration": 1.6589999999999918,
+      "dialogue_text": "It's nothing."
+    },
+    {
+      "subtitle_index": 89,
+      "start_time": 715.755,
+      "end_time": 716.584,
+      "duration": 0.8289999999999509,
+      "dialogue_text": "Arren?"
+    },
+    {
+      "subtitle_index": 90,
+      "start_time": 717.589,
+      "end_time": 720.782,
+      "duration": 3.1929999999999836,
+      "dialogue_text": "If you have nowhere to go, why not come with me?"
+    },
+    {
+      "subtitle_index": 91,
+      "start_time": 721.454,
+      "end_time": 725.545,
+      "duration": 4.091000000000008,
+      "dialogue_text": "I doubt our meeting here was an accident."
+    },
+    {
+      "subtitle_index": 92,
+      "start_time": 726.486,
+      "end_time": 729.61,
+      "duration": 3.1240000000000236,
+      "dialogue_text": "And I'd welcome a companion on the road."
+    },
+    {
+      "subtitle_index": 93,
+      "start_time": 736.218,
+      "end_time": 737.911,
+      "duration": 1.6929999999999836,
+      "dialogue_text": "Arren! Are you coming?"
+    },
+    {
+      "subtitle_index": 94,
+      "start_time": 741.283,
+      "end_time": 742.908,
+      "duration": 1.625,
+      "dialogue_text": "What should I call you?"
+    },
+    {
+      "subtitle_index": 95,
+      "start_time": 744.482,
+      "end_time": 746.414,
+      "duration": 1.9320000000000164,
+      "dialogue_text": "Call me Sparrowhawk."
+    },
+    {
+      "subtitle_index": 96,
+      "start_time": 814.602,
+      "end_time": 818.761,
+      "duration": 4.158999999999992,
+      "dialogue_text": "Another abandoned farm. Farmers leaving their land..."
+    },
+    {
+      "subtitle_index": 97,
+      "start_time": 818.868,
+      "end_time": 821.924,
+      "duration": 3.0559999999999263,
+      "dialogue_text": "There's more to this than poor harvests."
+    },
+    {
+      "subtitle_index": 98,
+      "start_time": 823.167,
+      "end_time": 825.758,
+      "duration": 2.591000000000008,
+      "dialogue_text": "Come, Arren. We'd better push on."
+    },
+    {
+      "subtitle_index": 99,
+      "start_time": 828.866,
+      "end_time": 831.024,
+      "duration": 2.1580000000000155,
+      "dialogue_text": "Lord Sparrowhawk?"
+    },
+    {
+      "subtitle_index": 100,
+      "start_time": 831.299,
+      "end_time": 833.526,
+      "duration": 2.2269999999999754,
+      "dialogue_text": "Sparrowhawk will do. What is it?"
+    },
+    {
+      "subtitle_index": 101,
+      "start_time": 834.464,
+      "end_time": 835.828,
+      "duration": 1.363999999999919,
+      "dialogue_text": "Sparrowhawk?"
+    },
+    {
+      "subtitle_index": 102,
+      "start_time": 836.764,
+      "end_time": 838.025,
+      "duration": 1.2609999999999673,
+      "dialogue_text": "Where are we heading?"
+    },
+    {
+      "subtitle_index": 103,
+      "start_time": 838.73,
+      "end_time": 843.025,
+      "duration": 4.294999999999959,
+      "dialogue_text": "First. we go to the next town. But after that..."
+    },
+    {
+      "subtitle_index": 104,
+      "start_time": 844.462,
+      "end_time": 846.36,
+      "duration": 1.8980000000000246,
+      "dialogue_text": "...even I don't know."
+    },
+    {
+      "subtitle_index": 105,
+      "start_time": 863.059,
+      "end_time": 865.388,
+      "duration": 2.3290000000000646,
+      "dialogue_text": "- Getting tired? - No."
+    },
+    {
+      "subtitle_index": 106,
+      "start_time": 865.492,
+      "end_time": 867.424,
+      "duration": 1.9320000000000164,
+      "dialogue_text": "Come along. We're almost there."
+    },
+    {
+      "subtitle_index": 107,
+      "start_time": 889.054,
+      "end_time": 890.383,
+      "duration": 1.3290000000000646,
+      "dialogue_text": "There it is."
+    },
+    {
+      "subtitle_index": 108,
+      "start_time": 892.853,
+      "end_time": 894.182,
+      "duration": 1.3290000000000646,
+      "dialogue_text": "Hort Town."
+    },
+    {
+      "subtitle_index": 109,
+      "start_time": 961.939,
+      "end_time": 963.666,
+      "duration": 1.7270000000000891,
+      "dialogue_text": "Are they prisoners?"
+    },
+    {
+      "subtitle_index": 110,
+      "start_time": 964.071,
+      "end_time": 965.401,
+      "duration": 1.3299999999999272,
+      "dialogue_text": "They are slaves."
+    },
+    {
+      "subtitle_index": 111,
+      "start_time": 965.505,
+      "end_time": 968.164,
+      "duration": 2.658999999999992,
+      "dialogue_text": "Here, people are goods to buy and sell."
+    },
+    {
+      "subtitle_index": 112,
+      "start_time": 968.738,
+      "end_time": 970.533,
+      "duration": 1.794999999999959,
+      "dialogue_text": "Trading in human lives!"
+    },
+    {
+      "subtitle_index": 113,
+      "start_time": 971.171,
+      "end_time": 973.932,
+      "duration": 2.7609999999999673,
+      "dialogue_text": "Two guineas, gentlemen! Do I hear two guineas?"
+    },
+    {
+      "subtitle_index": 114,
+      "start_time": 974.037,
+      "end_time": 975.729,
+      "duration": 1.6920000000000073,
+      "dialogue_text": "I have two guineas!"
+    },
+    {
+      "subtitle_index": 115,
+      "start_time": 975.836,
+      "end_time": 979.859,
+      "duration": 4.023000000000025,
+      "dialogue_text": "Three! Sold to the gentleman for three guineas!"
+    },
+    {
+      "subtitle_index": 116,
+      "start_time": 988.7,
+      "end_time": 991.995,
+      "duration": 3.294999999999959,
+      "dialogue_text": "No, sorry! Couldn't possibly find room!"
+    },
+    {
+      "subtitle_index": 117,
+      "start_time": 1009.63,
+      "end_time": 1012.993,
+      "duration": 3.3630000000000564,
+      "dialogue_text": "Gauzes from Sowl! Silks from Lorbanery!"
+    },
+    {
+      "subtitle_index": 118,
+      "start_time": 1013.096,
+      "end_time": 1015.357,
+      "duration": 2.2609999999999673,
+      "dialogue_text": "Furs and felts and woolens!"
+    },
+    {
+      "subtitle_index": 119,
+      "start_time": 1016.561,
+      "end_time": 1018.584,
+      "duration": 2.022999999999911,
+      "dialogue_text": "Is this a market day?"
+    },
+    {
+      "subtitle_index": 120,
+      "start_time": 1018.694,
+      "end_time": 1020.852,
+      "duration": 2.1580000000000155,
+      "dialogue_text": "No. It's like this year round."
+    },
+    {
+      "subtitle_index": 121,
+      "start_time": 1021.194,
+      "end_time": 1024.353,
+      "duration": 3.1590000000001055,
+      "dialogue_text": "Silks and satins! Canvass and fleecefells!"
+    },
+    {
+      "subtitle_index": 122,
+      "start_time": 1024.826,
+      "end_time": 1027.519,
+      "duration": 2.6929999999999836,
+      "dialogue_text": "What can I show you?"
+    },
+    {
+      "subtitle_index": 123,
+      "start_time": 1027.626,
+      "end_time": 1030.887,
+      "duration": 3.2609999999999673,
+      "dialogue_text": "This is Lorbanery's finest silk!"
+    },
+    {
+      "subtitle_index": 124,
+      "start_time": 1031.192,
+      "end_time": 1033.316,
+      "duration": 2.1240000000000236,
+      "dialogue_text": "Fine as a mayfly's wing!"
+    },
+    {
+      "subtitle_index": 125,
+      "start_time": 1033.892,
+      "end_time": 1038.323,
+      "duration": 4.43100000000004,
+      "dialogue_text": "I don't have a wife. I need a cloak for my friend."
+    },
+    {
+      "subtitle_index": 126,
+      "start_time": 1038.624,
+      "end_time": 1041.351,
+      "duration": 2.727000000000089,
+      "dialogue_text": "Wizards! No girlfriend, eh?"
+    },
+    {
+      "subtitle_index": 127,
+      "start_time": 1041.456,
+      "end_time": 1047.445,
+      "duration": 5.989000000000033,
+      "dialogue_text": "- But I don't need a cloak. - You can't go about like that."
+    },
+    {
+      "subtitle_index": 128,
+      "start_time": 1047.922,
+      "end_time": 1050.547,
+      "duration": 2.625,
+      "dialogue_text": "You should hide that thing on your belt."
+    },
+    {
+      "subtitle_index": 129,
+      "start_time": 1050.654,
+      "end_time": 1051.847,
+      "duration": 1.1929999999999836,
+      "dialogue_text": "What about this?"
+    },
+    {
+      "subtitle_index": 130,
+      "start_time": 1052.221,
+      "end_time": 1054.981,
+      "duration": 2.759999999999991,
+      "dialogue_text": "Fleece from Gont. Highest quality."
+    },
+    {
+      "subtitle_index": 131,
+      "start_time": 1056.087,
+      "end_time": 1059.984,
+      "duration": 3.8969999999999345,
+      "dialogue_text": "Four warp strings. This is Andradean work."
+    },
+    {
+      "subtitle_index": 132,
+      "start_time": 1060.952,
+      "end_time": 1063.281,
+      "duration": 2.328999999999951,
+      "dialogue_text": "On Gont they use six or more."
+    },
+    {
+      "subtitle_index": 133,
+      "start_time": 1064.785,
+      "end_time": 1068.978,
+      "duration": 4.192999999999984,
+      "dialogue_text": "You used to be a sorceress. Why are you selling fakes?"
+    },
+    {
+      "subtitle_index": 134,
+      "start_time": 1069.884,
+      "end_time": 1072.782,
+      "duration": 2.897999999999911,
+      "dialogue_text": "People don't believe in foolish tricks any more."
+    },
+    {
+      "subtitle_index": 135,
+      "start_time": 1073.416,
+      "end_time": 1075.779,
+      "duration": 2.3630000000000564,
+      "dialogue_text": "My goods are not what I claim."
+    },
+    {
+      "subtitle_index": 136,
+      "start_time": 1076.382,
+      "end_time": 1078.973,
+      "duration": 2.5909999999998945,
+      "dialogue_text": "But at least they're real..."
+    },
+    {
+      "subtitle_index": 137,
+      "start_time": 1079.082,
+      "end_time": 1082.775,
+      "duration": 3.6929999999999836,
+      "dialogue_text": "...not mere lies and air like magic and sorcery!"
+    },
+    {
+      "subtitle_index": 138,
+      "start_time": 1087.247,
+      "end_time": 1088.872,
+      "duration": 1.625,
+      "dialogue_text": "Sparrowhawk!"
+    },
+    {
+      "subtitle_index": 139,
+      "start_time": 1089.58,
+      "end_time": 1091.045,
+      "duration": 1.4650000000001455,
+      "dialogue_text": "Thank you!"
+    },
+    {
+      "subtitle_index": 140,
+      "start_time": 1125.773,
+      "end_time": 1127.261,
+      "duration": 1.4880000000000564,
+      "dialogue_text": "What!"
+    },
+    {
+      "subtitle_index": 141,
+      "start_time": 1129.038,
+      "end_time": 1130.129,
+      "duration": 1.0909999999998945,
+      "dialogue_text": "Unhand me!"
+    },
+    {
+      "subtitle_index": 142,
+      "start_time": 1130.872,
+      "end_time": 1133.531,
+      "duration": 2.658999999999878,
+      "dialogue_text": "Calm yourself, young master."
+    },
+    {
+      "subtitle_index": 143,
+      "start_time": 1134.338,
+      "end_time": 1139.701,
+      "duration": 5.363000000000056,
+      "dialogue_text": "I have something for you. It's the door to bliss."
+    },
+    {
+      "subtitle_index": 144,
+      "start_time": 1139.803,
+      "end_time": 1141.201,
+      "duration": 1.3979999999999109,
+      "dialogue_text": "What is it?"
+    },
+    {
+      "subtitle_index": 145,
+      "start_time": 1141.603,
+      "end_time": 1144.693,
+      "duration": 3.089999999999918,
+      "dialogue_text": "Hazia, my lord. Ha-zi-a."
+    },
+    {
+      "subtitle_index": 146,
+      "start_time": 1144.802,
+      "end_time": 1147.199,
+      "duration": 2.397000000000162,
+      "dialogue_text": "Take one. Leave sorrow and fear behind."
+    },
+    {
+      "subtitle_index": 147,
+      "start_time": 1147.702,
+      "end_time": 1149.633,
+      "duration": 1.93100000000004,
+      "dialogue_text": "No more sorrow or fear..."
+    },
+    {
+      "subtitle_index": 148,
+      "start_time": 1149.734,
+      "end_time": 1155.189,
+      "duration": 5.455000000000155,
+      "dialogue_text": "You'll never be troubled with the pain of this world again."
+    },
+    {
+      "subtitle_index": 149,
+      "start_time": 1155.566,
+      "end_time": 1159.02,
+      "duration": 3.453999999999951,
+      "dialogue_text": "You needn't pay me. It's my pleasure."
+    },
+    {
+      "subtitle_index": 150,
+      "start_time": 1161.732,
+      "end_time": 1163.027,
+      "duration": 1.2950000000000728,
+      "dialogue_text": "Arren."
+    },
+    {
+      "subtitle_index": 151,
+      "start_time": 1163.432,
+      "end_time": 1165.364,
+      "duration": 1.9320000000000164,
+      "dialogue_text": "What are you doing?"
+    },
+    {
+      "subtitle_index": 152,
+      "start_time": 1165.464,
+      "end_time": 1168.157,
+      "duration": 2.6929999999999836,
+      "dialogue_text": "Is this your friend, my lord?"
+    },
+    {
+      "subtitle_index": 153,
+      "start_time": 1169.73,
+      "end_time": 1174.162,
+      "duration": 4.432000000000016,
+      "dialogue_text": "And what about you? Don't wizards have troubles too?"
+    },
+    {
+      "subtitle_index": 154,
+      "start_time": 1174.796,
+      "end_time": 1178.66,
+      "duration": 3.8640000000000327,
+      "dialogue_text": "I'm sorry. I have no use for what you're selling."
+    },
+    {
+      "subtitle_index": 155,
+      "start_time": 1179.661,
+      "end_time": 1183.286,
+      "duration": 3.625,
+      "dialogue_text": "Save us from the arrogance of sorcerers!"
+    },
+    {
+      "subtitle_index": 156,
+      "start_time": 1184.261,
+      "end_time": 1186.92,
+      "duration": 2.6590000000001055,
+      "dialogue_text": "I suppose you've lost your powers too!"
+    },
+    {
+      "subtitle_index": 157,
+      "start_time": 1189.06,
+      "end_time": 1193.424,
+      "duration": 4.364000000000033,
+      "dialogue_text": "Hazia is not something to toy with, Arren. Look!"
+    },
+    {
+      "subtitle_index": 158,
+      "start_time": 1194.192,
+      "end_time": 1197.715,
+      "duration": 3.522999999999911,
+      "dialogue_text": "The hazia eater feels himself in paradise."
+    },
+    {
+      "subtitle_index": 159,
+      "start_time": 1197.825,
+      "end_time": 1203.017,
+      "duration": 5.192000000000007,
+      "dialogue_text": "Then the spirit leaves the body and wanders aimlessly in darkness."
+    },
+    {
+      "subtitle_index": 160,
+      "start_time": 1203.69,
+      "end_time": 1208.145,
+      "duration": 4.454999999999927,
+      "dialogue_text": "When it returns? More hazia. And finally, death."
+    },
+    {
+      "subtitle_index": 161,
+      "start_time": 1208.956,
+      "end_time": 1210.422,
+      "duration": 1.4660000000001219,
+      "dialogue_text": "What's the matter?"
+    },
+    {
+      "subtitle_index": 162,
+      "start_time": 1222.787,
+      "end_time": 1224.184,
+      "duration": 1.3969999999999345,
+      "dialogue_text": "Feeling better?"
+    },
+    {
+      "subtitle_index": 163,
+      "start_time": 1231.451,
+      "end_time": 1234.315,
+      "duration": 2.8640000000000327,
+      "dialogue_text": "The wind is fresh up here."
+    },
+    {
+      "subtitle_index": 164,
+      "start_time": 1234.684,
+      "end_time": 1236.411,
+      "duration": 1.7270000000000891,
+      "dialogue_text": "Something's wrong with this town."
+    },
+    {
+      "subtitle_index": 165,
+      "start_time": 1236.517,
+      "end_time": 1239.347,
+      "duration": 2.8299999999999272,
+      "dialogue_text": "Not only this town, lad."
+    },
+    {
+      "subtitle_index": 166,
+      "start_time": 1239.649,
+      "end_time": 1244.172,
+      "duration": 4.523000000000138,
+      "dialogue_text": "Farmers' crops wither. Their sheep and cattle are falling sick."
+    },
+    {
+      "subtitle_index": 167,
+      "start_time": 1244.282,
+      "end_time": 1247.338,
+      "duration": 3.05600000000004,
+      "dialogue_text": "Even people's minds have lost their way."
+    },
+    {
+      "subtitle_index": 168,
+      "start_time": 1248.181,
+      "end_time": 1250.84,
+      "duration": 2.658999999999878,
+      "dialogue_text": "Is it some sort of pestilence?"
+    },
+    {
+      "subtitle_index": 169,
+      "start_time": 1251.214,
+      "end_time": 1255.839,
+      "duration": 4.625,
+      "dialogue_text": "No. A pestilence is how the Balance restores itself."
+    },
+    {
+      "subtitle_index": 170,
+      "start_time": 1256.113,
+      "end_time": 1259.84,
+      "duration": 3.7269999999998618,
+      "dialogue_text": "But this? I fear someone is trying to destroy the Balance."
+    },
+    {
+      "subtitle_index": 171,
+      "start_time": 1260.213,
+      "end_time": 1264.735,
+      "duration": 4.5219999999999345,
+      "dialogue_text": "There's only one creature in Earthsea capable of such evil."
+    },
+    {
+      "subtitle_index": 172,
+      "start_time": 1264.978,
+      "end_time": 1266.307,
+      "duration": 1.3289999999999509,
+      "dialogue_text": "Only one."
+    },
+    {
+      "subtitle_index": 173,
+      "start_time": 1269.877,
+      "end_time": 1273.24,
+      "duration": 3.3630000000000564,
+      "dialogue_text": "Well then. Shall we go back to the inn?"
+    },
+    {
+      "subtitle_index": 174,
+      "start_time": 1273.343,
+      "end_time": 1275.672,
+      "duration": 2.328999999999951,
+      "dialogue_text": "I'd like to rest a little longer."
+    },
+    {
+      "subtitle_index": 175,
+      "start_time": 1276.009,
+      "end_time": 1277.372,
+      "duration": 1.3630000000000564,
+      "dialogue_text": "Very well."
+    },
+    {
+      "subtitle_index": 176,
+      "start_time": 1279.342,
+      "end_time": 1281.864,
+      "duration": 2.5219999999999345,
+      "dialogue_text": "I'll be waiting. Keep your wits about you."
+    },
+    {
+      "subtitle_index": 177,
+      "start_time": 1282.774,
+      "end_time": 1283.762,
+      "duration": 0.9880000000000564,
+      "dialogue_text": "I will."
+    },
+    {
+      "subtitle_index": 178,
+      "start_time": 1363.891,
+      "end_time": 1365.288,
+      "duration": 1.3969999999999345,
+      "dialogue_text": "Slave takers?"
+    },
+    {
+      "subtitle_index": 179,
+      "start_time": 1382.754,
+      "end_time": 1384.118,
+      "duration": 1.3640000000000327,
+      "dialogue_text": "A witch, are you?"
+    },
+    {
+      "subtitle_index": 180,
+      "start_time": 1384.221,
+      "end_time": 1386.448,
+      "duration": 2.227000000000089,
+      "dialogue_text": "And an ugly one at that!"
+    },
+    {
+      "subtitle_index": 181,
+      "start_time": 1390.386,
+      "end_time": 1392.977,
+      "duration": 2.591000000000122,
+      "dialogue_text": "Won't fetch much with that face."
+    },
+    {
+      "subtitle_index": 182,
+      "start_time": 1393.985,
+      "end_time": 1398.382,
+      "duration": 4.397000000000162,
+      "dialogue_text": "Just a few guineas. But we can still have a little fun."
+    },
+    {
+      "subtitle_index": 183,
+      "start_time": 1399.651,
+      "end_time": 1401.48,
+      "duration": 1.8289999999999509,
+      "dialogue_text": "Oww! My finger!"
+    },
+    {
+      "subtitle_index": 184,
+      "start_time": 1402.817,
+      "end_time": 1404.715,
+      "duration": 1.8979999999999109,
+      "dialogue_text": "The witch has spirit!"
+    },
+    {
+      "subtitle_index": 185,
+      "start_time": 1405.149,
+      "end_time": 1406.705,
+      "duration": 1.55600000000004,
+      "dialogue_text": "I'm going to enjoy this."
+    },
+    {
+      "subtitle_index": 186,
+      "start_time": 1406.816,
+      "end_time": 1408.112,
+      "duration": 1.2960000000000491,
+      "dialogue_text": "Who's there?"
+    },
+    {
+      "subtitle_index": 187,
+      "start_time": 1408.582,
+      "end_time": 1410.605,
+      "duration": 2.022999999999911,
+      "dialogue_text": "Step forward and show yourself!"
+    },
+    {
+      "subtitle_index": 188,
+      "start_time": 1417.014,
+      "end_time": 1418.445,
+      "duration": 1.43100000000004,
+      "dialogue_text": "Well, well."
+    },
+    {
+      "subtitle_index": 189,
+      "start_time": 1419.047,
+      "end_time": 1422.012,
+      "duration": 2.964999999999918,
+      "dialogue_text": "What are you doing here, boy?"
+    },
+    {
+      "subtitle_index": 190,
+      "start_time": 1422.146,
+      "end_time": 1424.009,
+      "duration": 1.8630000000000564,
+      "dialogue_text": "Go ahead. Take him!"
+    },
+    {
+      "subtitle_index": 191,
+      "start_time": 1426.446,
+      "end_time": 1430.673,
+      "duration": 4.227000000000089,
+      "dialogue_text": "No hard feelings, boy. Just following the boss's orders."
+    },
+    {
+      "subtitle_index": 192,
+      "start_time": 1430.977,
+      "end_time": 1433.374,
+      "duration": 2.3969999999999345,
+      "dialogue_text": "I'll make it quick."
+    },
+    {
+      "subtitle_index": 193,
+      "start_time": 1435.644,
+      "end_time": 1438.7,
+      "duration": 3.05600000000004,
+      "dialogue_text": "Or maybe you'd like to be a slave?"
+    },
+    {
+      "subtitle_index": 194,
+      "start_time": 1439.943,
+      "end_time": 1441.533,
+      "duration": 1.5899999999999181,
+      "dialogue_text": "Beg for your life!"
+    },
+    {
+      "subtitle_index": 195,
+      "start_time": 1446.508,
+      "end_time": 1447.7,
+      "duration": 1.1920000000000073,
+      "dialogue_text": "Changed your mind?"
+    },
+    {
+      "subtitle_index": 196,
+      "start_time": 1448.974,
+      "end_time": 1450.939,
+      "duration": 1.9650000000001455,
+      "dialogue_text": "Life is nothing to me."
+    },
+    {
+      "subtitle_index": 197,
+      "start_time": 1451.773,
+      "end_time": 1454.705,
+      "duration": 2.9320000000000164,
+      "dialogue_text": "So you want a fight, eh?"
+    },
+    {
+      "subtitle_index": 198,
+      "start_time": 1461.105,
+      "end_time": 1462.73,
+      "duration": 1.625,
+      "dialogue_text": "Draw your sword!"
+    },
+    {
+      "subtitle_index": 199,
+      "start_time": 1471.403,
+      "end_time": 1474.232,
+      "duration": 2.828999999999951,
+      "dialogue_text": "All right. Now it's my turn."
+    },
+    {
+      "subtitle_index": 200,
+      "start_time": 1488.8,
+      "end_time": 1489.766,
+      "duration": 0.9660000000001219,
+      "dialogue_text": "Uh oh."
+    },
+    {
+      "subtitle_index": 201,
+      "start_time": 1497.065,
+      "end_time": 1500.928,
+      "duration": 3.8630000000000564,
+      "dialogue_text": "Hold on there son. You don't care about the girl?"
+    },
+    {
+      "subtitle_index": 202,
+      "start_time": 1503.13,
+      "end_time": 1504.254,
+      "duration": 1.1239999999997963,
+      "dialogue_text": "Do it."
+    },
+    {
+      "subtitle_index": 203,
+      "start_time": 1508.196,
+      "end_time": 1511.683,
+      "duration": 3.48700000000008,
+      "dialogue_text": "If you want her so much, here she is!"
+    },
+    {
+      "subtitle_index": 204,
+      "start_time": 1513.628,
+      "end_time": 1515.889,
+      "duration": 2.2609999999999673,
+      "dialogue_text": "Come on men! Let's go!"
+    },
+    {
+      "subtitle_index": 205,
+      "start_time": 1522.592,
+      "end_time": 1523.615,
+      "duration": 1.0229999999999109,
+      "dialogue_text": "Are you..."
+    },
+    {
+      "subtitle_index": 206,
+      "start_time": 1530.625,
+      "end_time": 1532.284,
+      "duration": 1.6590000000001055,
+      "dialogue_text": "Therru!"
+    },
+    {
+      "subtitle_index": 207,
+      "start_time": 1533.724,
+      "end_time": 1535.417,
+      "duration": 1.6929999999999836,
+      "dialogue_text": "Therru!"
+    },
+    {
+      "subtitle_index": 208,
+      "start_time": 1544.355,
+      "end_time": 1545.684,
+      "duration": 1.3289999999999509,
+      "dialogue_text": "Therru..."
+    },
+    {
+      "subtitle_index": 209,
+      "start_time": 1615.907,
+      "end_time": 1616.736,
+      "duration": 0.8290000000001783,
+      "dialogue_text": "A bird..."
+    },
+    {
+      "subtitle_index": 210,
+      "start_time": 1633.936,
+      "end_time": 1636.868,
+      "duration": 2.9320000000000164,
+      "dialogue_text": "So! We meet again, boy."
+    },
+    {
+      "subtitle_index": 211,
+      "start_time": 1641.069,
+      "end_time": 1642.659,
+      "duration": 1.5900000000001455,
+      "dialogue_text": "Take him!"
+    },
+    {
+      "subtitle_index": 212,
+      "start_time": 1645.368,
+      "end_time": 1648.765,
+      "duration": 3.397000000000162,
+      "dialogue_text": "He'll fetch a good price. Don't be too rough."
+    },
+    {
+      "subtitle_index": 213,
+      "start_time": 1654.533,
+      "end_time": 1655.362,
+      "duration": 0.8290000000001783,
+      "dialogue_text": "Take him away!"
+    },
+    {
+      "subtitle_index": 214,
+      "start_time": 1658.766,
+      "end_time": 1662.891,
+      "duration": 4.125,
+      "dialogue_text": "Just an old piece of junk. Couldn't give it away!"
+    },
+    {
+      "subtitle_index": 215,
+      "start_time": 1706.489,
+      "end_time": 1708.478,
+      "duration": 1.9890000000000327,
+      "dialogue_text": "Give it up, it's no use."
+    },
+    {
+      "subtitle_index": 216,
+      "start_time": 1708.589,
+      "end_time": 1709.52,
+      "duration": 0.93100000000004,
+      "dialogue_text": "Quiet!"
+    },
+    {
+      "subtitle_index": 217,
+      "start_time": 1710.088,
+      "end_time": 1713.212,
+      "duration": 3.1240000000000236,
+      "dialogue_text": "Silence! Or I'll feed you to the hounds!"
+    },
+    {
+      "subtitle_index": 218,
+      "start_time": 1742.448,
+      "end_time": 1743.845,
+      "duration": 1.3969999999999345,
+      "dialogue_text": "Come on!"
+    },
+    {
+      "subtitle_index": 219,
+      "start_time": 1744.181,
+      "end_time": 1745.703,
+      "duration": 1.5219999999999345,
+      "dialogue_text": "Get moving!"
+    },
+    {
+      "subtitle_index": 220,
+      "start_time": 1747.28,
+      "end_time": 1748.211,
+      "duration": 0.93100000000004,
+      "dialogue_text": "What's going on?"
+    },
+    {
+      "subtitle_index": 221,
+      "start_time": 1748.314,
+      "end_time": 1751.905,
+      "duration": 3.5909999999998945,
+      "dialogue_text": "I don't know. Move, you lazy animals!"
+    },
+    {
+      "subtitle_index": 222,
+      "start_time": 1752.013,
+      "end_time": 1754.377,
+      "duration": 2.3640000000000327,
+      "dialogue_text": "Confound it! What's wrong?"
+    },
+    {
+      "subtitle_index": 223,
+      "start_time": 1784.539,
+      "end_time": 1786.334,
+      "duration": 1.7950000000000728,
+      "dialogue_text": "Sparrowhawk..."
+    },
+    {
+      "subtitle_index": 224,
+      "start_time": 1788.672,
+      "end_time": 1790.331,
+      "duration": 1.6589999999998781,
+      "dialogue_text": "Let's go, Arren."
+    },
+    {
+      "subtitle_index": 225,
+      "start_time": 1797.77,
+      "end_time": 1798.827,
+      "duration": 1.0570000000000164,
+      "dialogue_text": "Can you stand?"
+    },
+    {
+      "subtitle_index": 226,
+      "start_time": 1809.668,
+      "end_time": 1811.429,
+      "duration": 1.7610000000001946,
+      "dialogue_text": "What about the others?"
+    },
+    {
+      "subtitle_index": 227,
+      "start_time": 1811.534,
+      "end_time": 1815.226,
+      "duration": 3.6920000000000073,
+      "dialogue_text": "I left none bound. Now it's up to them."
+    },
+    {
+      "subtitle_index": 228,
+      "start_time": 1832.163,
+      "end_time": 1835.253,
+      "duration": 3.089999999999918,
+      "dialogue_text": "How did you know where to find me?"
+    },
+    {
+      "subtitle_index": 229,
+      "start_time": 1836.096,
+      "end_time": 1839.994,
+      "duration": 3.897999999999911,
+      "dialogue_text": "When you didn't come, I scoured Hort Town."
+    },
+    {
+      "subtitle_index": 230,
+      "start_time": 1840.328,
+      "end_time": 1844.726,
+      "duration": 4.398000000000138,
+      "dialogue_text": "Finally, someone told me a young man was taken by slavers."
+    },
+    {
+      "subtitle_index": 231,
+      "start_time": 1845.394,
+      "end_time": 1848.985,
+      "duration": 3.5909999999998945,
+      "dialogue_text": "I had to make a spell of finding."
+    },
+    {
+      "subtitle_index": 232,
+      "start_time": 1851.393,
+      "end_time": 1853.484,
+      "duration": 2.0909999999998945,
+      "dialogue_text": "I am sorry, I was foolish."
+    },
+    {
+      "subtitle_index": 233,
+      "start_time": 1853.792,
+      "end_time": 1856.758,
+      "duration": 2.966000000000122,
+      "dialogue_text": "No, it was my fault."
+    },
+    {
+      "subtitle_index": 234,
+      "start_time": 1856.925,
+      "end_time": 1859.618,
+      "duration": 2.6929999999999836,
+      "dialogue_text": "I should've been more careful."
+    },
+    {
+      "subtitle_index": 235,
+      "start_time": 1861.024,
+      "end_time": 1862.717,
+      "duration": 1.693000000000211,
+      "dialogue_text": "I'm sorry."
+    },
+    {
+      "subtitle_index": 236,
+      "start_time": 1926.211,
+      "end_time": 1927.04,
+      "duration": 0.8289999999999509,
+      "dialogue_text": "Who's there?"
+    },
+    {
+      "subtitle_index": 237,
+      "start_time": 1927.144,
+      "end_time": 1929.439,
+      "duration": 2.2950000000000728,
+      "dialogue_text": "It's me, Sparrowhawk."
+    },
+    {
+      "subtitle_index": 238,
+      "start_time": 1929.544,
+      "end_time": 1930.975,
+      "duration": 1.4309999999998126,
+      "dialogue_text": "Sparrowhawk?"
+    },
+    {
+      "subtitle_index": 239,
+      "start_time": 1931.077,
+      "end_time": 1932.906,
+      "duration": 1.8289999999999509,
+      "dialogue_text": "Someone's been hurt."
+    },
+    {
+      "subtitle_index": 240,
+      "start_time": 1940.941,
+      "end_time": 1942.498,
+      "duration": 1.5570000000000164,
+      "dialogue_text": "I'm sorry. It's late."
+    },
+    {
+      "subtitle_index": 241,
+      "start_time": 1944.207,
+      "end_time": 1946.503,
+      "duration": 2.2959999999998217,
+      "dialogue_text": "It's been a long time, Ged."
+    },
+    {
+      "subtitle_index": 242,
+      "start_time": 1957.571,
+      "end_time": 1958.969,
+      "duration": 1.3980000000001382,
+      "dialogue_text": "He's asleep."
+    },
+    {
+      "subtitle_index": 243,
+      "start_time": 1960.338,
+      "end_time": 1964.201,
+      "duration": 3.8630000000000564,
+      "dialogue_text": "I'm sorry. I'm afraid you've lost your bed."
+    },
+    {
+      "subtitle_index": 244,
+      "start_time": 1964.67,
+      "end_time": 1967.567,
+      "duration": 2.8969999999999345,
+      "dialogue_text": "It's his now. Here, this will warm you."
+    },
+    {
+      "subtitle_index": 245,
+      "start_time": 1967.669,
+      "end_time": 1968.692,
+      "duration": 1.0229999999999109,
+      "dialogue_text": "Thanks."
+    },
+    {
+      "subtitle_index": 246,
+      "start_time": 1977.801,
+      "end_time": 1979.323,
+      "duration": 1.522000000000162,
+      "dialogue_text": "You haven't changed."
+    },
+    {
+      "subtitle_index": 247,
+      "start_time": 1980.1,
+      "end_time": 1983.463,
+      "duration": 3.3630000000000564,
+      "dialogue_text": "No. You're keeping well, Tenar?"
+    },
+    {
+      "subtitle_index": 248,
+      "start_time": 1984.033,
+      "end_time": 1987.43,
+      "duration": 3.397000000000162,
+      "dialogue_text": "I suppose. It hasn't always been easy."
+    },
+    {
+      "subtitle_index": 249,
+      "start_time": 1987.632,
+      "end_time": 1988.461,
+      "duration": 0.8289999999999509,
+      "dialogue_text": "And you?"
+    },
+    {
+      "subtitle_index": 250,
+      "start_time": 1988.899,
+      "end_time": 1990.796,
+      "duration": 1.897000000000162,
+      "dialogue_text": "Do you still wander?"
+    },
+    {
+      "subtitle_index": 251,
+      "start_time": 1991.864,
+      "end_time": 1992.955,
+      "duration": 1.0909999999998945,
+      "dialogue_text": "That was good."
+    },
+    {
+      "subtitle_index": 252,
+      "start_time": 1993.631,
+      "end_time": 1995.392,
+      "duration": 1.7609999999999673,
+      "dialogue_text": "It has been a long time."
+    },
+    {
+      "subtitle_index": 253,
+      "start_time": 1995.497,
+      "end_time": 1996.757,
+      "duration": 1.259999999999991,
+      "dialogue_text": "Yes, it has."
+    },
+    {
+      "subtitle_index": 254,
+      "start_time": 1997.63,
+      "end_time": 2001.494,
+      "duration": 3.8639999999998054,
+      "dialogue_text": "As Archmage, I have no time..."
+    },
+    {
+      "subtitle_index": 255,
+      "start_time": 2001.862,
+      "end_time": 2004.384,
+      "duration": 2.5219999999999345,
+      "dialogue_text": "...to wander as I once did."
+    },
+    {
+      "subtitle_index": 256,
+      "start_time": 2005.162,
+      "end_time": 2008.685,
+      "duration": 3.522999999999911,
+      "dialogue_text": "And what brings the Archmage so far from home?"
+    },
+    {
+      "subtitle_index": 257,
+      "start_time": 2011.094,
+      "end_time": 2014.526,
+      "duration": 3.4320000000000164,
+      "dialogue_text": "Evil tidings come from every corner of Earthsea."
+    },
+    {
+      "subtitle_index": 258,
+      "start_time": 2014.827,
+      "end_time": 2016.951,
+      "duration": 2.1240000000000236,
+      "dialogue_text": "Things are out of balance..."
+    },
+    {
+      "subtitle_index": 259,
+      "start_time": 2017.759,
+      "end_time": 2021.69,
+      "duration": 3.93100000000004,
+      "dialogue_text": "...as if the sun's light were ebbing."
+    },
+    {
+      "subtitle_index": 260,
+      "start_time": 2022.491,
+      "end_time": 2025.685,
+      "duration": 3.19399999999996,
+      "dialogue_text": "Is the Art Magic ebbing too?"
+    },
+    {
+      "subtitle_index": 261,
+      "start_time": 2026.791,
+      "end_time": 2031.189,
+      "duration": 4.398000000000138,
+      "dialogue_text": "Yes. As if our very blood were flowing from our veins."
+    },
+    {
+      "subtitle_index": 262,
+      "start_time": 2031.524,
+      "end_time": 2033.853,
+      "duration": 2.3290000000001783,
+      "dialogue_text": "So you search for the answer?"
+    },
+    {
+      "subtitle_index": 263,
+      "start_time": 2034.023,
+      "end_time": 2035.113,
+      "duration": 1.0900000000001455,
+      "dialogue_text": "Yes."
+    },
+    {
+      "subtitle_index": 264,
+      "start_time": 2036.989,
+      "end_time": 2039.954,
+      "duration": 2.964999999999918,
+      "dialogue_text": "Oh dear, we woke you up."
+    },
+    {
+      "subtitle_index": 265,
+      "start_time": 2043.021,
+      "end_time": 2047.952,
+      "duration": 4.93100000000004,
+      "dialogue_text": "Come, child. Don't worry. This man is an old friend of mine."
+    },
+    {
+      "subtitle_index": 266,
+      "start_time": 2052.519,
+      "end_time": 2056.11,
+      "duration": 3.5910000000003492,
+      "dialogue_text": "This is Therru. She's been with me five years."
+    },
+    {
+      "subtitle_index": 267,
+      "start_time": 2058.251,
+      "end_time": 2061.91,
+      "duration": 3.6589999999996508,
+      "dialogue_text": "Call me Sparrowhawk. I'm sorry I woke you."
+    },
+    {
+      "subtitle_index": 268,
+      "start_time": 2065.317,
+      "end_time": 2066.146,
+      "duration": 0.8290000000001783,
+      "dialogue_text": "Hawk?"
+    },
+    {
+      "subtitle_index": 269,
+      "start_time": 2070.949,
+      "end_time": 2076.006,
+      "duration": 5.056999999999789,
+      "dialogue_text": "Well, you should be honored. Therru never speaks to strangers."
+    },
+    {
+      "subtitle_index": 270,
+      "start_time": 2076.614,
+      "end_time": 2077.443,
+      "duration": 0.8290000000001783,
+      "dialogue_text": "What is it?"
+    },
+    {
+      "subtitle_index": 271,
+      "start_time": 2081.58,
+      "end_time": 2083.443,
+      "duration": 1.8630000000002838,
+      "dialogue_text": "Could she really be...?"
+    },
+    {
+      "subtitle_index": 272,
+      "start_time": 2143.167,
+      "end_time": 2144.497,
+      "duration": 1.3299999999999272,
+      "dialogue_text": "Lord Cob."
+    },
+    {
+      "subtitle_index": 273,
+      "start_time": 2144.601,
+      "end_time": 2145.759,
+      "duration": 1.1579999999999018,
+      "dialogue_text": "Enter."
+    },
+    {
+      "subtitle_index": 274,
+      "start_time": 2150.699,
+      "end_time": 2154.222,
+      "duration": 3.5230000000001382,
+      "dialogue_text": "Forgive my intrusion. I beg leave to speak."
+    },
+    {
+      "subtitle_index": 275,
+      "start_time": 2155.165,
+      "end_time": 2156.256,
+      "duration": 1.0909999999998945,
+      "dialogue_text": "What is it?"
+    },
+    {
+      "subtitle_index": 276,
+      "start_time": 2156.364,
+      "end_time": 2159.33,
+      "duration": 2.9659999999998945,
+      "dialogue_text": "I'm afraid some of our slaves escaped."
+    },
+    {
+      "subtitle_index": 277,
+      "start_time": 2159.897,
+      "end_time": 2164.329,
+      "duration": 4.432000000000244,
+      "dialogue_text": "I see. You let my precious merchandise go."
+    },
+    {
+      "subtitle_index": 278,
+      "start_time": 2164.696,
+      "end_time": 2168.025,
+      "duration": 3.3290000000001783,
+      "dialogue_text": "No. We've captured most of them."
+    },
+    {
+      "subtitle_index": 279,
+      "start_time": 2168.129,
+      "end_time": 2169.322,
+      "duration": 1.193000000000211,
+      "dialogue_text": "And?"
+    },
+    {
+      "subtitle_index": 280,
+      "start_time": 2171.262,
+      "end_time": 2173.318,
+      "duration": 2.05600000000004,
+      "dialogue_text": "What about the others?"
+    },
+    {
+      "subtitle_index": 281,
+      "start_time": 2173.894,
+      "end_time": 2177.326,
+      "duration": 3.4320000000002437,
+      "dialogue_text": "We're scouring the countryside. We'll find them."
+    },
+    {
+      "subtitle_index": 282,
+      "start_time": 2179.627,
+      "end_time": 2181.455,
+      "duration": 1.8279999999999745,
+      "dialogue_text": "You're a fool."
+    },
+    {
+      "subtitle_index": 283,
+      "start_time": 2181.793,
+      "end_time": 2185.384,
+      "duration": 3.5909999999998945,
+      "dialogue_text": "Do you think I can't manage without you?"
+    },
+    {
+      "subtitle_index": 284,
+      "start_time": 2190.225,
+      "end_time": 2194.883,
+      "duration": 4.657999999999902,
+      "dialogue_text": "It was a wizard! A wizard with a scar on his face!"
+    },
+    {
+      "subtitle_index": 285,
+      "start_time": 2195.456,
+      "end_time": 2196.581,
+      "duration": 1.125,
+      "dialogue_text": "What?"
+    },
+    {
+      "subtitle_index": 286,
+      "start_time": 2197.79,
+      "end_time": 2199.88,
+      "duration": 2.0900000000001455,
+      "dialogue_text": "A scar on his face?"
+    },
+    {
+      "subtitle_index": 287,
+      "start_time": 2201.856,
+      "end_time": 2205.787,
+      "duration": 3.9309999999995853,
+      "dialogue_text": "It's Sparrowhawk. The Archmage pays me a visit."
+    },
+    {
+      "subtitle_index": 288,
+      "start_time": 2206.454,
+      "end_time": 2209.613,
+      "duration": 3.1589999999996508,
+      "dialogue_text": "Find him for me, Hare... or else."
+    },
+    {
+      "subtitle_index": 289,
+      "start_time": 2209.82,
+      "end_time": 2212.308,
+      "duration": 2.487999999999829,
+      "dialogue_text": "I won't fail you, my lord."
+    },
+    {
+      "subtitle_index": 290,
+      "start_time": 2218.586,
+      "end_time": 2222.642,
+      "duration": 4.05600000000004,
+      "dialogue_text": "I've waited long for this day... Sparrowhawk."
+    },
+    {
+      "subtitle_index": 291,
+      "start_time": 2258.244,
+      "end_time": 2261.3,
+      "duration": 3.05600000000004,
+      "dialogue_text": "Tenar! I brought the water in!"
+    },
+    {
+      "subtitle_index": 292,
+      "start_time": 2261.644,
+      "end_time": 2262.904,
+      "duration": 1.2600000000002183,
+      "dialogue_text": "Where is she?"
+    },
+    {
+      "subtitle_index": 293,
+      "start_time": 2263.477,
+      "end_time": 2265.635,
+      "duration": 2.1580000000003565,
+      "dialogue_text": "Tenar? Are you still asleep?"
+    },
+    {
+      "subtitle_index": 294,
+      "start_time": 2267.175,
+      "end_time": 2268.141,
+      "duration": 0.9659999999998945,
+      "dialogue_text": "Tenar?"
+    },
+    {
+      "subtitle_index": 295,
+      "start_time": 2269.342,
+      "end_time": 2270.83,
+      "duration": 1.487999999999829,
+      "dialogue_text": "Are you sick?"
+    },
+    {
+      "subtitle_index": 296,
+      "start_time": 2277.207,
+      "end_time": 2278.537,
+      "duration": 1.3299999999999272,
+      "dialogue_text": "Who was that?"
+    },
+    {
+      "subtitle_index": 297,
+      "start_time": 2280.439,
+      "end_time": 2282.405,
+      "duration": 1.9660000000003492,
+      "dialogue_text": "It's that girl!"
+    },
+    {
+      "subtitle_index": 298,
+      "start_time": 2285.605,
+      "end_time": 2290.559,
+      "duration": 4.954000000000178,
+      "dialogue_text": "That must've been a surprise. I'm sorry dear. I should've told you."
+    },
+    {
+      "subtitle_index": 299,
+      "start_time": 2290.771,
+      "end_time": 2294.1,
+      "duration": 3.3289999999997235,
+      "dialogue_text": "Don't worry. Arren is with me."
+    },
+    {
+      "subtitle_index": 300,
+      "start_time": 2294.47,
+      "end_time": 2296.061,
+      "duration": 1.5910000000003492,
+      "dialogue_text": "You have nothing to fear."
+    },
+    {
+      "subtitle_index": 301,
+      "start_time": 2296.27,
+      "end_time": 2300.066,
+      "duration": 3.7959999999998217,
+      "dialogue_text": "Sometimes his eyes are wild, but he has a good heart."
+    },
+    {
+      "subtitle_index": 302,
+      "start_time": 2304.968,
+      "end_time": 2305.797,
+      "duration": 0.8290000000001783,
+      "dialogue_text": "Good morning."
+    },
+    {
+      "subtitle_index": 303,
+      "start_time": 2307.434,
+      "end_time": 2308.797,
+      "duration": 1.362999999999829,
+      "dialogue_text": "Good morning."
+    },
+    {
+      "subtitle_index": 304,
+      "start_time": 2310.934,
+      "end_time": 2312.126,
+      "duration": 1.1920000000000073,
+      "dialogue_text": "I'm done eating!"
+    },
+    {
+      "subtitle_index": 305,
+      "start_time": 2312.233,
+      "end_time": 2313.596,
+      "duration": 1.362999999999829,
+      "dialogue_text": "Well!"
+    },
+    {
+      "subtitle_index": 306,
+      "start_time": 2314.766,
+      "end_time": 2317.561,
+      "duration": 2.7950000000000728,
+      "dialogue_text": "Did you sleep well? How do you feel?"
+    },
+    {
+      "subtitle_index": 307,
+      "start_time": 2319.099,
+      "end_time": 2320.928,
+      "duration": 1.8289999999997235,
+      "dialogue_text": "I'm all right."
+    },
+    {
+      "subtitle_index": 308,
+      "start_time": 2321.265,
+      "end_time": 2323.787,
+      "duration": 2.5219999999999345,
+      "dialogue_text": "I didn't do anything to her."
+    },
+    {
+      "subtitle_index": 309,
+      "start_time": 2324.164,
+      "end_time": 2327.027,
+      "duration": 2.862999999999829,
+      "dialogue_text": "Of course you didn't. Come have breakfast."
+    },
+    {
+      "subtitle_index": 310,
+      "start_time": 2327.697,
+      "end_time": 2329.457,
+      "duration": 1.7599999999997635,
+      "dialogue_text": "Can't work if you don't eat."
+    },
+    {
+      "subtitle_index": 311,
+      "start_time": 2329.863,
+      "end_time": 2331.296,
+      "duration": 1.4329999999999927,
+      "dialogue_text": "Work?"
+    },
+    {
+      "subtitle_index": 312,
+      "start_time": 2365.322,
+      "end_time": 2366.379,
+      "duration": 1.056999999999789,
+      "dialogue_text": "Ouch..."
+    },
+    {
+      "subtitle_index": 313,
+      "start_time": 2367.155,
+      "end_time": 2368.95,
+      "duration": 1.794999999999618,
+      "dialogue_text": "Are you getting blisters?"
+    },
+    {
+      "subtitle_index": 314,
+      "start_time": 2369.388,
+      "end_time": 2370.217,
+      "duration": 0.8290000000001783,
+      "dialogue_text": "Yes."
+    },
+    {
+      "subtitle_index": 315,
+      "start_time": 2370.955,
+      "end_time": 2372.943,
+      "duration": 1.9880000000002838,
+      "dialogue_text": "Shall we rest a bit?"
+    },
+    {
+      "subtitle_index": 316,
+      "start_time": 2378.653,
+      "end_time": 2380.71,
+      "duration": 2.0570000000002437,
+      "dialogue_text": "What a good smell."
+    },
+    {
+      "subtitle_index": 317,
+      "start_time": 2380.953,
+      "end_time": 2382.713,
+      "duration": 1.7600000000002183,
+      "dialogue_text": "- But... - Yes, lad?"
+    },
+    {
+      "subtitle_index": 318,
+      "start_time": 2382.819,
+      "end_time": 2384.944,
+      "duration": 2.125,
+      "dialogue_text": "You're a wizard, aren't you?"
+    },
+    {
+      "subtitle_index": 319,
+      "start_time": 2385.318,
+      "end_time": 2386.545,
+      "duration": 1.2269999999998618,
+      "dialogue_text": "Oh, I see."
+    },
+    {
+      "subtitle_index": 320,
+      "start_time": 2387.118,
+      "end_time": 2392.516,
+      "duration": 5.398000000000138,
+      "dialogue_text": "You want to know why a wizard toils in the field like a farmer?"
+    },
+    {
+      "subtitle_index": 321,
+      "start_time": 2392.618,
+      "end_time": 2393.583,
+      "duration": 0.9650000000001455,
+      "dialogue_text": "Yes."
+    },
+    {
+      "subtitle_index": 322,
+      "start_time": 2394.884,
+      "end_time": 2396.179,
+      "duration": 1.2950000000000728,
+      "dialogue_text": "Listen, Arren."
+    },
+    {
+      "subtitle_index": 323,
+      "start_time": 2396.283,
+      "end_time": 2401.078,
+      "duration": 4.795000000000073,
+      "dialogue_text": "Everything under the sun and stars depends on the Balance."
+    },
+    {
+      "subtitle_index": 324,
+      "start_time": 2402.449,
+      "end_time": 2406.574,
+      "duration": 4.125,
+      "dialogue_text": "The wind and seas. The power of earth and light."
+    },
+    {
+      "subtitle_index": 325,
+      "start_time": 2406.681,
+      "end_time": 2413.374,
+      "duration": 6.692999999999756,
+      "dialogue_text": "All that these do is well and rightly done within the Equilibrium."
+    },
+    {
+      "subtitle_index": 326,
+      "start_time": 2413.88,
+      "end_time": 2418.709,
+      "duration": 4.8289999999997235,
+      "dialogue_text": "But now, men hold the power to control the world."
+    },
+    {
+      "subtitle_index": 327,
+      "start_time": 2419.411,
+      "end_time": 2422.138,
+      "duration": 2.7269999999998618,
+      "dialogue_text": "So Man must learn to keep the Balance..."
+    },
+    {
+      "subtitle_index": 328,
+      "start_time": 2422.245,
+      "end_time": 2427.074,
+      "duration": 4.829000000000178,
+      "dialogue_text": "...and do what leaf and whale and wind do of their own nature."
+    },
+    {
+      "subtitle_index": 329,
+      "start_time": 2427.81,
+      "end_time": 2430.969,
+      "duration": 3.1590000000001055,
+      "dialogue_text": "You know everything has its True Name."
+    },
+    {
+      "subtitle_index": 330,
+      "start_time": 2431.276,
+      "end_time": 2437.037,
+      "duration": 5.760999999999967,
+      "dialogue_text": "Magic is the power to command, if you know a thing's True Name."
+    },
+    {
+      "subtitle_index": 331,
+      "start_time": 2437.375,
+      "end_time": 2442.102,
+      "duration": 4.726999999999862,
+      "dialogue_text": "Use that power in ignorance and the Balance is easily damaged."
+    },
+    {
+      "subtitle_index": 332,
+      "start_time": 2442.207,
+      "end_time": 2445.366,
+      "duration": 3.1590000000001055,
+      "dialogue_text": "Spells should be made only of necessity."
+    },
+    {
+      "subtitle_index": 333,
+      "start_time": 2445.573,
+      "end_time": 2447.198,
+      "duration": 1.625,
+      "dialogue_text": "You've been busy."
+    },
+    {
+      "subtitle_index": 334,
+      "start_time": 2447.672,
+      "end_time": 2451.069,
+      "duration": 3.3969999999999345,
+      "dialogue_text": "I suppose you two deserve some lunch."
+    },
+    {
+      "subtitle_index": 335,
+      "start_time": 2453.705,
+      "end_time": 2456.17,
+      "duration": 2.4650000000001455,
+      "dialogue_text": "Are you feeling better, Arren?"
+    },
+    {
+      "subtitle_index": 336,
+      "start_time": 2456.904,
+      "end_time": 2460.859,
+      "duration": 3.9549999999999272,
+      "dialogue_text": "Now eat hearty, or you won't get your strength back."
+    },
+    {
+      "subtitle_index": 337,
+      "start_time": 2461.27,
+      "end_time": 2463.293,
+      "duration": 2.0230000000001382,
+      "dialogue_text": "What about the girl?"
+    },
+    {
+      "subtitle_index": 338,
+      "start_time": 2463.402,
+      "end_time": 2465.698,
+      "duration": 2.2959999999998217,
+      "dialogue_text": "Oh, Therru?"
+    },
+    {
+      "subtitle_index": 339,
+      "start_time": 2465.803,
+      "end_time": 2468.632,
+      "duration": 2.8290000000001783,
+      "dialogue_text": "One of the spring lambs is sick."
+    },
+    {
+      "subtitle_index": 340,
+      "start_time": 2469.069,
+      "end_time": 2471.091,
+      "duration": 2.0219999999999345,
+      "dialogue_text": "She's nursing it today."
+    },
+    {
+      "subtitle_index": 341,
+      "start_time": 2474.234,
+      "end_time": 2475.893,
+      "duration": 1.6590000000001055,
+      "dialogue_text": "Shall we change places?"
+    },
+    {
+      "subtitle_index": 342,
+      "start_time": 2476.0,
+      "end_time": 2477.727,
+      "duration": 1.7269999999998618,
+      "dialogue_text": "No, I can manage."
+    },
+    {
+      "subtitle_index": 343,
+      "start_time": 2489.631,
+      "end_time": 2492.096,
+      "duration": 2.4650000000001455,
+      "dialogue_text": "- How did it go? - That's it for today."
+    },
+    {
+      "subtitle_index": 344,
+      "start_time": 2492.597,
+      "end_time": 2495.688,
+      "duration": 3.0909999999998945,
+      "dialogue_text": "Dinner will be ready soon. Better wash up."
+    },
+    {
+      "subtitle_index": 345,
+      "start_time": 2499.063,
+      "end_time": 2502.29,
+      "duration": 3.2269999999998618,
+      "dialogue_text": "- I'll put the ox in the stable. - Thanks, lad."
+    },
+    {
+      "subtitle_index": 346,
+      "start_time": 2515.359,
+      "end_time": 2520.154,
+      "duration": 4.795000000000073,
+      "dialogue_text": "There, you should be feeling better. Now you need your mother's milk."
+    },
+    {
+      "subtitle_index": 347,
+      "start_time": 2524.19,
+      "end_time": 2525.656,
+      "duration": 1.4659999999998945,
+      "dialogue_text": "That's it."
+    },
+    {
+      "subtitle_index": 348,
+      "start_time": 2531.289,
+      "end_time": 2532.652,
+      "duration": 1.362999999999829,
+      "dialogue_text": "Good girl."
+    },
+    {
+      "subtitle_index": 349,
+      "start_time": 2540.154,
+      "end_time": 2541.085,
+      "duration": 0.93100000000004,
+      "dialogue_text": "What do you want?"
+    },
+    {
+      "subtitle_index": 350,
+      "start_time": 2541.421,
+      "end_time": 2543.716,
+      "duration": 2.2950000000000728,
+      "dialogue_text": "Oh... nothing."
+    },
+    {
+      "subtitle_index": 351,
+      "start_time": 2544.186,
+      "end_time": 2545.618,
+      "duration": 1.431999999999789,
+      "dialogue_text": "Why did you come here?"
+    },
+    {
+      "subtitle_index": 352,
+      "start_time": 2545.72,
+      "end_time": 2549.082,
+      "duration": 3.36200000000008,
+      "dialogue_text": "To hurt me? To kill this little one?"
+    },
+    {
+      "subtitle_index": 353,
+      "start_time": 2549.552,
+      "end_time": 2552.04,
+      "duration": 2.487999999999829,
+      "dialogue_text": "You don't understand! I was just..."
+    },
+    {
+      "subtitle_index": 354,
+      "start_time": 2554.751,
+      "end_time": 2556.875,
+      "duration": 2.1239999999997963,
+      "dialogue_text": "Stay away! Get out of here!"
+    },
+    {
+      "subtitle_index": 355,
+      "start_time": 2557.951,
+      "end_time": 2560.882,
+      "duration": 2.93100000000004,
+      "dialogue_text": "I hate anyone who doesn't value life!"
+    },
+    {
+      "subtitle_index": 356,
+      "start_time": 2564.915,
+      "end_time": 2565.938,
+      "duration": 1.0230000000001382,
+      "dialogue_text": "I'm sorry."
+    },
+    {
+      "subtitle_index": 357,
+      "start_time": 2570.948,
+      "end_time": 2572.538,
+      "duration": 1.5900000000001455,
+      "dialogue_text": "Step aside!"
+    },
+    {
+      "subtitle_index": 358,
+      "start_time": 2578.913,
+      "end_time": 2580.673,
+      "duration": 1.7599999999997635,
+      "dialogue_text": "Let's eat."
+    },
+    {
+      "subtitle_index": 359,
+      "start_time": 2582.146,
+      "end_time": 2585.838,
+      "duration": 3.6920000000000073,
+      "dialogue_text": "It's so good having men to help with the farm."
+    },
+    {
+      "subtitle_index": 360,
+      "start_time": 2586.111,
+      "end_time": 2587.94,
+      "duration": 1.8290000000001783,
+      "dialogue_text": "Even you two."
+    },
+    {
+      "subtitle_index": 361,
+      "start_time": 2588.045,
+      "end_time": 2592.033,
+      "duration": 3.987999999999829,
+      "dialogue_text": "I'm no good with a plow, but I do know animals."
+    },
+    {
+      "subtitle_index": 362,
+      "start_time": 2593.11,
+      "end_time": 2595.405,
+      "duration": 2.2950000000000728,
+      "dialogue_text": "You used to be a goatherd."
+    },
+    {
+      "subtitle_index": 363,
+      "start_time": 2597.943,
+      "end_time": 2600.669,
+      "duration": 2.725999999999658,
+      "dialogue_text": "What's wrong, Arren? Aren't you hungry?"
+    },
+    {
+      "subtitle_index": 364,
+      "start_time": 2603.408,
+      "end_time": 2604.499,
+      "duration": 1.0909999999998945,
+      "dialogue_text": "No."
+    },
+    {
+      "subtitle_index": 365,
+      "start_time": 2645.567,
+      "end_time": 2647.293,
+      "duration": 1.7260000000001128,
+      "dialogue_text": "What is this place?"
+    },
+    {
+      "subtitle_index": 366,
+      "start_time": 2665.929,
+      "end_time": 2668.827,
+      "duration": 2.8980000000001382,
+      "dialogue_text": "Come, Arren. This way."
+    },
+    {
+      "subtitle_index": 367,
+      "start_time": 2668.928,
+      "end_time": 2670.189,
+      "duration": 1.2609999999999673,
+      "dialogue_text": "Sparrowhawk?"
+    },
+    {
+      "subtitle_index": 368,
+      "start_time": 2680.926,
+      "end_time": 2683.448,
+      "duration": 2.5219999999999345,
+      "dialogue_text": "Come. Take my hand."
+    },
+    {
+      "subtitle_index": 369,
+      "start_time": 2687.458,
+      "end_time": 2689.889,
+      "duration": 2.43100000000004,
+      "dialogue_text": "Arren!"
+    },
+    {
+      "subtitle_index": 370,
+      "start_time": 2690.124,
+      "end_time": 2693.578,
+      "duration": 3.4540000000001783,
+      "dialogue_text": "No! Leave me alone! Stop!"
+    },
+    {
+      "subtitle_index": 371,
+      "start_time": 2695.489,
+      "end_time": 2698.421,
+      "duration": 2.931999999999789,
+      "dialogue_text": "Arren!"
+    },
+    {
+      "subtitle_index": 372,
+      "start_time": 2709.32,
+      "end_time": 2711.717,
+      "duration": 2.3969999999999345,
+      "dialogue_text": "Arren! Wake up!"
+    },
+    {
+      "subtitle_index": 373,
+      "start_time": 2712.152,
+      "end_time": 2713.311,
+      "duration": 1.1590000000001055,
+      "dialogue_text": "Arren!"
+    },
+    {
+      "subtitle_index": 374,
+      "start_time": 2720.318,
+      "end_time": 2721.374,
+      "duration": 1.0559999999995853,
+      "dialogue_text": "What's wrong?"
+    },
+    {
+      "subtitle_index": 375,
+      "start_time": 2721.584,
+      "end_time": 2724.015,
+      "duration": 2.43100000000004,
+      "dialogue_text": "A bad dream, I think."
+    },
+    {
+      "subtitle_index": 376,
+      "start_time": 2724.484,
+      "end_time": 2725.642,
+      "duration": 1.1579999999999018,
+      "dialogue_text": "A dream..."
+    },
+    {
+      "subtitle_index": 377,
+      "start_time": 2735.315,
+      "end_time": 2740.042,
+      "duration": 4.726999999999862,
+      "dialogue_text": "Spring is very short, you know. I need all the help I can get."
+    },
+    {
+      "subtitle_index": 378,
+      "start_time": 2740.381,
+      "end_time": 2744.54,
+      "duration": 4.1590000000001055,
+      "dialogue_text": "I'm sorry, Tenar. I have an errand that cannot wait."
+    },
+    {
+      "subtitle_index": 379,
+      "start_time": 2744.979,
+      "end_time": 2747.536,
+      "duration": 2.5570000000002437,
+      "dialogue_text": "I still can't rely on you."
+    },
+    {
+      "subtitle_index": 380,
+      "start_time": 2747.679,
+      "end_time": 2749.735,
+      "duration": 2.05600000000004,
+      "dialogue_text": "Come now, Tenar."
+    },
+    {
+      "subtitle_index": 381,
+      "start_time": 2750.912,
+      "end_time": 2753.537,
+      "duration": 2.625,
+      "dialogue_text": "Should you be taking Arren's horse?"
+    },
+    {
+      "subtitle_index": 382,
+      "start_time": 2754.144,
+      "end_time": 2758.667,
+      "duration": 4.523000000000138,
+      "dialogue_text": "He's better off without it. Tell him I borrowed it."
+    },
+    {
+      "subtitle_index": 383,
+      "start_time": 2759.143,
+      "end_time": 2763.04,
+      "duration": 3.8969999999999345,
+      "dialogue_text": "Tenar. Keep a close eye on him for me."
+    },
+    {
+      "subtitle_index": 384,
+      "start_time": 2765.142,
+      "end_time": 2766.039,
+      "duration": 0.8970000000003893,
+      "dialogue_text": "I promise."
+    },
+    {
+      "subtitle_index": 385,
+      "start_time": 2766.341,
+      "end_time": 2769.67,
+      "duration": 3.3290000000001783,
+      "dialogue_text": "I'll be back tonight! And back at work tomorrow!"
+    },
+    {
+      "subtitle_index": 386,
+      "start_time": 2770.074,
+      "end_time": 2772.596,
+      "duration": 2.5219999999999345,
+      "dialogue_text": "I certainly hope so."
+    },
+    {
+      "subtitle_index": 387,
+      "start_time": 2793.303,
+      "end_time": 2795.791,
+      "duration": 2.4880000000002838,
+      "dialogue_text": "Haven't seen him around here."
+    },
+    {
+      "subtitle_index": 388,
+      "start_time": 2795.903,
+      "end_time": 2797.993,
+      "duration": 2.0900000000001455,
+      "dialogue_text": "And that scar!"
+    },
+    {
+      "subtitle_index": 389,
+      "start_time": 2798.102,
+      "end_time": 2800.624,
+      "duration": 2.5219999999999345,
+      "dialogue_text": "He must've come from that woman's house."
+    },
+    {
+      "subtitle_index": 390,
+      "start_time": 2800.735,
+      "end_time": 2804.326,
+      "duration": 3.5909999999998945,
+      "dialogue_text": "She's a witch. I don't like the looks of it."
+    },
+    {
+      "subtitle_index": 391,
+      "start_time": 2804.435,
+      "end_time": 2809.764,
+      "duration": 5.329000000000178,
+      "dialogue_text": "Yes, she's an odd one. And that little girl she keeps!"
+    },
+    {
+      "subtitle_index": 392,
+      "start_time": 2810.533,
+      "end_time": 2813.624,
+      "duration": 3.0909999999998945,
+      "dialogue_text": "That child will bring bad luck on us all."
+    },
+    {
+      "subtitle_index": 393,
+      "start_time": 2813.732,
+      "end_time": 2816.892,
+      "duration": 3.1599999999998545,
+      "dialogue_text": "No! Don't say that out loud!"
+    },
+    {
+      "subtitle_index": 394,
+      "start_time": 2821.764,
+      "end_time": 2823.127,
+      "duration": 1.362999999999829,
+      "dialogue_text": "Who was that?"
+    },
+    {
+      "subtitle_index": 395,
+      "start_time": 2823.23,
+      "end_time": 2825.32,
+      "duration": 2.0900000000001455,
+      "dialogue_text": "He's not from around here."
+    },
+    {
+      "subtitle_index": 396,
+      "start_time": 2825.43,
+      "end_time": 2827.259,
+      "duration": 1.8290000000001783,
+      "dialogue_text": "He's a friend of ours."
+    },
+    {
+      "subtitle_index": 397,
+      "start_time": 2827.596,
+      "end_time": 2829.152,
+      "duration": 1.55600000000004,
+      "dialogue_text": "He's helping us out."
+    },
+    {
+      "subtitle_index": 398,
+      "start_time": 2829.263,
+      "end_time": 2830.853,
+      "duration": 1.5900000000001455,
+      "dialogue_text": "Is that so?"
+    },
+    {
+      "subtitle_index": 399,
+      "start_time": 2830.962,
+      "end_time": 2832.552,
+      "duration": 1.5900000000001455,
+      "dialogue_text": "Can I help you?"
+    },
+    {
+      "subtitle_index": 400,
+      "start_time": 2832.729,
+      "end_time": 2837.251,
+      "duration": 4.522000000000389,
+      "dialogue_text": "My child has a fever ma'am. I need that potion again."
+    },
+    {
+      "subtitle_index": 401,
+      "start_time": 2837.428,
+      "end_time": 2839.586,
+      "duration": 2.1579999999999018,
+      "dialogue_text": "All right. Just wait there."
+    },
+    {
+      "subtitle_index": 402,
+      "start_time": 2842.759,
+      "end_time": 2844.884,
+      "duration": 2.125,
+      "dialogue_text": "Quit sticking to me!"
+    },
+    {
+      "subtitle_index": 403,
+      "start_time": 2844.993,
+      "end_time": 2846.788,
+      "duration": 1.7950000000000728,
+      "dialogue_text": "I'm afraid!"
+    },
+    {
+      "subtitle_index": 404,
+      "start_time": 2849.658,
+      "end_time": 2851.248,
+      "duration": 1.5900000000001455,
+      "dialogue_text": "Spare us from evil!"
+    },
+    {
+      "subtitle_index": 405,
+      "start_time": 2851.358,
+      "end_time": 2852.983,
+      "duration": 1.625,
+      "dialogue_text": "That's enough!"
+    },
+    {
+      "subtitle_index": 406,
+      "start_time": 2853.124,
+      "end_time": 2857.613,
+      "duration": 4.489000000000033,
+      "dialogue_text": "There. If the child's not better, come see me again."
+    },
+    {
+      "subtitle_index": 407,
+      "start_time": 2857.823,
+      "end_time": 2860.482,
+      "duration": 2.6590000000001055,
+      "dialogue_text": "Thank you kindly, ma'am."
+    },
+    {
+      "subtitle_index": 408,
+      "start_time": 2860.689,
+      "end_time": 2862.621,
+      "duration": 1.9320000000002437,
+      "dialogue_text": "Actually, I was wondering..."
+    },
+    {
+      "subtitle_index": 409,
+      "start_time": 2863.855,
+      "end_time": 2866.753,
+      "duration": 2.8980000000001382,
+      "dialogue_text": "Yes, I know. Pay me when you can."
+    },
+    {
+      "subtitle_index": 410,
+      "start_time": 2866.954,
+      "end_time": 2869.647,
+      "duration": 2.6929999999997563,
+      "dialogue_text": "Thanks ma'am. You're very kind."
+    },
+    {
+      "subtitle_index": 411,
+      "start_time": 2872.387,
+      "end_time": 2873.943,
+      "duration": 1.55600000000004,
+      "dialogue_text": "Hope she feels better!"
+    },
+    {
+      "subtitle_index": 412,
+      "start_time": 2874.053,
+      "end_time": 2877.745,
+      "duration": 3.6920000000000073,
+      "dialogue_text": "I wish there were more decent people in the world."
+    },
+    {
+      "subtitle_index": 413,
+      "start_time": 2877.852,
+      "end_time": 2880.409,
+      "duration": 2.5570000000002437,
+      "dialogue_text": "Therru never hurt anyone."
+    },
+    {
+      "subtitle_index": 414,
+      "start_time": 2882.352,
+      "end_time": 2885.613,
+      "duration": 3.2609999999999673,
+      "dialogue_text": "Well, at least the woman looks after her own."
+    },
+    {
+      "subtitle_index": 415,
+      "start_time": 2886.785,
+      "end_time": 2892.239,
+      "duration": 5.454000000000178,
+      "dialogue_text": "As for Therru, her parents abused and abandoned her."
+    },
+    {
+      "subtitle_index": 416,
+      "start_time": 2893.35,
+      "end_time": 2897.111,
+      "duration": 3.7609999999999673,
+      "dialogue_text": "They burned her. That's how she got that scar."
+    },
+    {
+      "subtitle_index": 417,
+      "start_time": 2938.907,
+      "end_time": 2940.463,
+      "duration": 1.55600000000004,
+      "dialogue_text": "What a frightful child!"
+    },
+    {
+      "subtitle_index": 418,
+      "start_time": 2940.573,
+      "end_time": 2943.095,
+      "duration": 2.5219999999999345,
+      "dialogue_text": "My goodness! Did you see her eyes?"
+    },
+    {
+      "subtitle_index": 419,
+      "start_time": 2949.905,
+      "end_time": 2951.302,
+      "duration": 1.3969999999999345,
+      "dialogue_text": "Please, have mercy!"
+    },
+    {
+      "subtitle_index": 420,
+      "start_time": 2951.405,
+      "end_time": 2954.098,
+      "duration": 2.6929999999997563,
+      "dialogue_text": "No one will buy an old woman!"
+    },
+    {
+      "subtitle_index": 421,
+      "start_time": 2956.303,
+      "end_time": 2960.234,
+      "duration": 3.93100000000004,
+      "dialogue_text": "Nothing to fear ladies. Maybe you can even help me."
+    },
+    {
+      "subtitle_index": 422,
+      "start_time": 2960.703,
+      "end_time": 2965.396,
+      "duration": 4.693000000000211,
+      "dialogue_text": "Seen any strangers around here? Be much obliged for any help."
+    },
+    {
+      "subtitle_index": 423,
+      "start_time": 2965.502,
+      "end_time": 2967.161,
+      "duration": 1.6590000000001055,
+      "dialogue_text": "And I'll pay."
+    },
+    {
+      "subtitle_index": 424,
+      "start_time": 2970.001,
+      "end_time": 2971.694,
+      "duration": 1.6929999999997563,
+      "dialogue_text": "There's one at Tenar's farm!"
+    },
+    {
+      "subtitle_index": 425,
+      "start_time": 2971.8,
+      "end_time": 2974.561,
+      "duration": 2.7609999999999673,
+      "dialogue_text": "And one with a scar on his face!"
+    },
+    {
+      "subtitle_index": 426,
+      "start_time": 2974.9,
+      "end_time": 2976.627,
+      "duration": 1.7269999999998618,
+      "dialogue_text": "Tenar? Who's that?"
+    },
+    {
+      "subtitle_index": 427,
+      "start_time": 2976.732,
+      "end_time": 2979.425,
+      "duration": 2.693000000000211,
+      "dialogue_text": "The witch! She lives right up this road."
+    },
+    {
+      "subtitle_index": 428,
+      "start_time": 2979.699,
+      "end_time": 2982.221,
+      "duration": 2.5219999999999345,
+      "dialogue_text": "Thanks for the help, old hags!"
+    },
+    {
+      "subtitle_index": 429,
+      "start_time": 2984.965,
+      "end_time": 2987.362,
+      "duration": 2.3969999999999345,
+      "dialogue_text": "Wait! Where are you going?"
+    },
+    {
+      "subtitle_index": 430,
+      "start_time": 2989.263,
+      "end_time": 2993.161,
+      "duration": 3.8980000000001382,
+      "dialogue_text": "Stop! Liar! You promised to pay!"
+    },
+    {
+      "subtitle_index": 431,
+      "start_time": 2996.862,
+      "end_time": 2999.055,
+      "duration": 2.1929999999997563,
+      "dialogue_text": "There it is! That's it!"
+    },
+    {
+      "subtitle_index": 432,
+      "start_time": 3006.193,
+      "end_time": 3007.25,
+      "duration": 1.056999999999789,
+      "dialogue_text": "What's that?"
+    },
+    {
+      "subtitle_index": 433,
+      "start_time": 3014.358,
+      "end_time": 3015.846,
+      "duration": 1.487999999999829,
+      "dialogue_text": "What are you doing?"
+    },
+    {
+      "subtitle_index": 434,
+      "start_time": 3017.091,
+      "end_time": 3021.147,
+      "duration": 4.05600000000004,
+      "dialogue_text": "You're looking fit, boy. Didn't think I'd find you here."
+    },
+    {
+      "subtitle_index": 435,
+      "start_time": 3022.224,
+      "end_time": 3023.917,
+      "duration": 1.6929999999997563,
+      "dialogue_text": "Swine! What are you doing here?"
+    },
+    {
+      "subtitle_index": 436,
+      "start_time": 3024.124,
+      "end_time": 3029.078,
+      "duration": 4.954000000000178,
+      "dialogue_text": "Now, now. I'm not here to fight. Where's your wizard friend?"
+    },
+    {
+      "subtitle_index": 437,
+      "start_time": 3029.188,
+      "end_time": 3032.585,
+      "duration": 3.3969999999999345,
+      "dialogue_text": "He's gone! Sparrowhawk's not here."
+    },
+    {
+      "subtitle_index": 438,
+      "start_time": 3032.921,
+      "end_time": 3035.818,
+      "duration": 2.8970000000003893,
+      "dialogue_text": "You'd better not be hiding him."
+    },
+    {
+      "subtitle_index": 439,
+      "start_time": 3036.421,
+      "end_time": 3038.046,
+      "duration": 1.625,
+      "dialogue_text": "Why should I?"
+    },
+    {
+      "subtitle_index": 440,
+      "start_time": 3038.42,
+      "end_time": 3040.817,
+      "duration": 2.3969999999999345,
+      "dialogue_text": "You're no match for him."
+    },
+    {
+      "subtitle_index": 441,
+      "start_time": 3042.086,
+      "end_time": 3046.381,
+      "duration": 4.295000000000073,
+      "dialogue_text": "Looks like she's telling the truth. All right, we'll be back!"
+    },
+    {
+      "subtitle_index": 442,
+      "start_time": 3047.386,
+      "end_time": 3048.942,
+      "duration": 1.55600000000004,
+      "dialogue_text": "Till then!"
+    },
+    {
+      "subtitle_index": 443,
+      "start_time": 3054.817,
+      "end_time": 3057.146,
+      "duration": 2.3290000000001783,
+      "dialogue_text": "Never come back, you swine!"
+    },
+    {
+      "subtitle_index": 444,
+      "start_time": 3058.449,
+      "end_time": 3061.142,
+      "duration": 2.6929999999997563,
+      "dialogue_text": "Lord Cob will reward me for this!"
+    },
+    {
+      "subtitle_index": 445,
+      "start_time": 3074.946,
+      "end_time": 3077.81,
+      "duration": 2.8640000000000327,
+      "dialogue_text": "So that's what happened."
+    },
+    {
+      "subtitle_index": 446,
+      "start_time": 3077.979,
+      "end_time": 3080.842,
+      "duration": 2.8630000000002838,
+      "dialogue_text": "Neither of you said a word about it."
+    },
+    {
+      "subtitle_index": 447,
+      "start_time": 3082.811,
+      "end_time": 3085.742,
+      "duration": 2.93100000000004,
+      "dialogue_text": "I think we fixed most of it."
+    },
+    {
+      "subtitle_index": 448,
+      "start_time": 3085.844,
+      "end_time": 3087.071,
+      "duration": 1.2269999999998618,
+      "dialogue_text": "Let's rebuild the fence."
+    },
+    {
+      "subtitle_index": 449,
+      "start_time": 3090.009,
+      "end_time": 3095.1,
+      "duration": 5.0909999999998945,
+      "dialogue_text": "Tenar? Have you known Sparrowhawk for a long time?"
+    },
+    {
+      "subtitle_index": 450,
+      "start_time": 3095.209,
+      "end_time": 3098.504,
+      "duration": 3.2950000000000728,
+      "dialogue_text": "Yes, I guess I have. A long, long time."
+    },
+    {
+      "subtitle_index": 451,
+      "start_time": 3100.441,
+      "end_time": 3103.032,
+      "duration": 2.5910000000003492,
+      "dialogue_text": "He's always been a wanderer."
+    },
+    {
+      "subtitle_index": 452,
+      "start_time": 3103.774,
+      "end_time": 3108.933,
+      "duration": 5.1590000000001055,
+      "dialogue_text": "It's the life he chose. He does it because he has to."
+    },
+    {
+      "subtitle_index": 453,
+      "start_time": 3109.539,
+      "end_time": 3113.993,
+      "duration": 4.4539999999997235,
+      "dialogue_text": "And finally he became Archmage, the greatest of all wizards."
+    },
+    {
+      "subtitle_index": 454,
+      "start_time": 3114.105,
+      "end_time": 3117.071,
+      "duration": 2.9659999999998945,
+      "dialogue_text": "Head of the Great House of Roke?"
+    },
+    {
+      "subtitle_index": 455,
+      "start_time": 3117.171,
+      "end_time": 3120.932,
+      "duration": 3.7609999999999673,
+      "dialogue_text": "Yes. But years before that, he rescued me."
+    },
+    {
+      "subtitle_index": 456,
+      "start_time": 3123.203,
+      "end_time": 3126.93,
+      "duration": 3.7269999999998618,
+      "dialogue_text": "Rescued me, and led me into the light."
+    },
+    {
+      "subtitle_index": 457,
+      "start_time": 3133.468,
+      "end_time": 3135.297,
+      "duration": 1.8290000000001783,
+      "dialogue_text": "One man, all alone."
+    },
+    {
+      "subtitle_index": 458,
+      "start_time": 3136.234,
+      "end_time": 3141.722,
+      "duration": 5.488000000000284,
+      "dialogue_text": "He brought me out of the Tombs of Atuan."
+    },
+    {
+      "subtitle_index": 459,
+      "start_time": 3160.563,
+      "end_time": 3161.392,
+      "duration": 0.8289999999997235,
+      "dialogue_text": "Welcome."
+    },
+    {
+      "subtitle_index": 460,
+      "start_time": 3161.829,
+      "end_time": 3166.284,
+      "duration": 4.454999999999927,
+      "dialogue_text": "Don't get many wizards. Looking for a weapon?"
+    },
+    {
+      "subtitle_index": 461,
+      "start_time": 3166.395,
+      "end_time": 3168.383,
+      "duration": 1.987999999999829,
+      "dialogue_text": "Show me that sword."
+    },
+    {
+      "subtitle_index": 462,
+      "start_time": 3172.326,
+      "end_time": 3174.724,
+      "duration": 2.3980000000001382,
+      "dialogue_text": "Can't recommend this one."
+    },
+    {
+      "subtitle_index": 463,
+      "start_time": 3174.826,
+      "end_time": 3177.417,
+      "duration": 2.5909999999998945,
+      "dialogue_text": "Very unusual workmanship, so I bought it."
+    },
+    {
+      "subtitle_index": 464,
+      "start_time": 3177.525,
+      "end_time": 3180.854,
+      "duration": 3.3289999999997235,
+      "dialogue_text": "But it's rusted solid. Can't be drawn."
+    },
+    {
+      "subtitle_index": 465,
+      "start_time": 3189.723,
+      "end_time": 3191.814,
+      "duration": 2.0909999999998945,
+      "dialogue_text": "You there, wizard!"
+    },
+    {
+      "subtitle_index": 466,
+      "start_time": 3192.522,
+      "end_time": 3195.215,
+      "duration": 2.693000000000211,
+      "dialogue_text": "Are you deaf? I'm talking to you!"
+    },
+    {
+      "subtitle_index": 467,
+      "start_time": 3195.688,
+      "end_time": 3197.95,
+      "duration": 2.2619999999997162,
+      "dialogue_text": "You said something, sir?"
+    },
+    {
+      "subtitle_index": 468,
+      "start_time": 3200.254,
+      "end_time": 3203.686,
+      "duration": 3.4320000000002437,
+      "dialogue_text": "Is there something stuck to my face?"
+    },
+    {
+      "subtitle_index": 469,
+      "start_time": 3203.986,
+      "end_time": 3205.781,
+      "duration": 1.7950000000000728,
+      "dialogue_text": "Wrong wizard!"
+    },
+    {
+      "subtitle_index": 470,
+      "start_time": 3205.886,
+      "end_time": 3209.977,
+      "duration": 4.0909999999998945,
+      "dialogue_text": "You! If you see a wizard with a scar on his face..."
+    },
+    {
+      "subtitle_index": 471,
+      "start_time": 3210.086,
+      "end_time": 3213.108,
+      "duration": 3.0220000000003893,
+      "dialogue_text": "...tell him Lord Cob wants to see him!"
+    },
+    {
+      "subtitle_index": 472,
+      "start_time": 3213.552,
+      "end_time": 3217.881,
+      "duration": 4.3289999999997235,
+      "dialogue_text": "Cob? Never heard that name back where I come from."
+    },
+    {
+      "subtitle_index": 473,
+      "start_time": 3218.184,
+      "end_time": 3221.309,
+      "duration": 3.125,
+      "dialogue_text": "You will, when he's Lord of the Two Lands!"
+    },
+    {
+      "subtitle_index": 474,
+      "start_time": 3221.416,
+      "end_time": 3223.814,
+      "duration": 2.3979999999996835,
+      "dialogue_text": "Don't forget it!"
+    },
+    {
+      "subtitle_index": 475,
+      "start_time": 3224.083,
+      "end_time": 3225.514,
+      "duration": 1.43100000000004,
+      "dialogue_text": "Yes sir."
+    },
+    {
+      "subtitle_index": 476,
+      "start_time": 3227.816,
+      "end_time": 3230.373,
+      "duration": 2.5570000000002437,
+      "dialogue_text": "I'll take the sword. How much?"
+    },
+    {
+      "subtitle_index": 477,
+      "start_time": 3231.115,
+      "end_time": 3233.875,
+      "duration": 2.7600000000002183,
+      "dialogue_text": "Wait a minute... your face!"
+    },
+    {
+      "subtitle_index": 478,
+      "start_time": 3234.448,
+      "end_time": 3235.379,
+      "duration": 0.93100000000004,
+      "dialogue_text": "What's wrong?"
+    },
+    {
+      "subtitle_index": 479,
+      "start_time": 3235.48,
+      "end_time": 3237.537,
+      "duration": 2.056999999999789,
+      "dialogue_text": "Nothing... I suppose."
+    },
+    {
+      "subtitle_index": 480,
+      "start_time": 3238.146,
+      "end_time": 3241.112,
+      "duration": 2.9659999999998945,
+      "dialogue_text": "Have you heard of this wizard named Cob?"
+    },
+    {
+      "subtitle_index": 481,
+      "start_time": 3241.379,
+      "end_time": 3244.243,
+      "duration": 2.8640000000000327,
+      "dialogue_text": "Careful! Keep your voice down."
+    },
+    {
+      "subtitle_index": 482,
+      "start_time": 3244.878,
+      "end_time": 3249.707,
+      "duration": 4.8289999999997235,
+      "dialogue_text": "Only wizard in these parts who still has his powers."
+    },
+    {
+      "subtitle_index": 483,
+      "start_time": 3249.811,
+      "end_time": 3253.573,
+      "duration": 3.7619999999997162,
+      "dialogue_text": "Can't say he's loved by people around here."
+    },
+    {
+      "subtitle_index": 484,
+      "start_time": 3253.677,
+      "end_time": 3258.074,
+      "duration": 4.3969999999999345,
+      "dialogue_text": "He lives in the fortress outside town. Best keep away from there."
+    },
+    {
+      "subtitle_index": 485,
+      "start_time": 3261.575,
+      "end_time": 3265.371,
+      "duration": 3.7960000000002765,
+      "dialogue_text": "I never thought I'd find you here, Cob."
+    },
+    {
+      "subtitle_index": 486,
+      "start_time": 3273.039,
+      "end_time": 3277.3,
+      "duration": 4.260999999999967,
+      "dialogue_text": "You're good at farm work. You hardly seem a beginner."
+    },
+    {
+      "subtitle_index": 487,
+      "start_time": 3277.439,
+      "end_time": 3279.371,
+      "duration": 1.9320000000002437,
+      "dialogue_text": "Thank you."
+    },
+    {
+      "subtitle_index": 488,
+      "start_time": 3279.938,
+      "end_time": 3283.301,
+      "duration": 3.362999999999829,
+      "dialogue_text": "Won't you stay on for a while and help?"
+    },
+    {
+      "subtitle_index": 489,
+      "start_time": 3283.404,
+      "end_time": 3285.46,
+      "duration": 2.05600000000004,
+      "dialogue_text": "Therru would like that too."
+    },
+    {
+      "subtitle_index": 490,
+      "start_time": 3285.57,
+      "end_time": 3286.399,
+      "duration": 0.8289999999997235,
+      "dialogue_text": "But..."
+    },
+    {
+      "subtitle_index": 491,
+      "start_time": 3286.503,
+      "end_time": 3290.299,
+      "duration": 3.7959999999998217,
+      "dialogue_text": "You don't have to decide now. Think about it, all right?"
+    },
+    {
+      "subtitle_index": 492,
+      "start_time": 3290.402,
+      "end_time": 3291.527,
+      "duration": 1.125,
+      "dialogue_text": "All right."
+    },
+    {
+      "subtitle_index": 493,
+      "start_time": 3292.336,
+      "end_time": 3294.234,
+      "duration": 1.8980000000001382,
+      "dialogue_text": "Stable the ox for me."
+    },
+    {
+      "subtitle_index": 494,
+      "start_time": 3294.336,
+      "end_time": 3295.562,
+      "duration": 1.2260000000001128,
+      "dialogue_text": "Yes, Tenar."
+    },
+    {
+      "subtitle_index": 495,
+      "start_time": 3299.301,
+      "end_time": 3300.994,
+      "duration": 1.693000000000211,
+      "dialogue_text": "I'm home!"
+    },
+    {
+      "subtitle_index": 496,
+      "start_time": 3301.3,
+      "end_time": 3305.664,
+      "duration": 4.364000000000033,
+      "dialogue_text": "Therru? Now where is she?"
+    },
+    {
+      "subtitle_index": 497,
+      "start_time": 3312.481,
+      "end_time": 3317.004,
+      "duration": 4.5229999999996835,
+      "dialogue_text": "Arren! I can't find Therru. Check the back pasture for me."
+    },
+    {
+      "subtitle_index": 498,
+      "start_time": 3317.179,
+      "end_time": 3320.077,
+      "duration": 2.8980000000001382,
+      "dialogue_text": "Tell her to come inside before dark."
+    },
+    {
+      "subtitle_index": 499,
+      "start_time": 3320.679,
+      "end_time": 3321.512,
+      "duration": 0.8330000000000837,
+      "dialogue_text": "I will."
+    },
+    {
+      "subtitle_index": 500,
+      "start_time": 3339.508,
+      "end_time": 3340.496,
+      "duration": 0.9880000000002838,
+      "dialogue_text": "Therru?"
+    },
+    {
+      "subtitle_index": 501,
+      "start_time": 3345.907,
+      "end_time": 3346.6,
+      "duration": 0.6929999999997563,
+      "dialogue_text": "Therru..."
+    },
+    {
+      "subtitle_index": 502,
+      "start_time": 3346.841,
+      "end_time": 3352.999,
+      "duration": 6.157999999999902,
+      "dialogue_text": "Far, far above the clouds against the setting sun"
+    },
+    {
+      "subtitle_index": 503,
+      "start_time": 3353.406,
+      "end_time": 3360.36,
+      "duration": 6.954000000000178,
+      "dialogue_text": "A falcon flies alone soaring in the wind"
+    },
+    {
+      "subtitle_index": 504,
+      "start_time": 3360.871,
+      "end_time": 3367.564,
+      "duration": 6.692999999999756,
+      "dialogue_text": "I hear his lonely cry so sad must he be"
+    },
+    {
+      "subtitle_index": 505,
+      "start_time": 3367.969,
+      "end_time": 3374.265,
+      "duration": 6.295999999999822,
+      "dialogue_text": "Riding the silent wind a falcon flies alone"
+    },
+    {
+      "subtitle_index": 506,
+      "start_time": 3374.501,
+      "end_time": 3381.626,
+      "duration": 7.125,
+      "dialogue_text": "Reaching out with his wings grasps the empty sky"
+    },
+    {
+      "subtitle_index": 507,
+      "start_time": 3381.933,
+      "end_time": 3388.728,
+      "duration": 6.795000000000073,
+      "dialogue_text": "Riding the silent wind never can he rest"
+    },
+    {
+      "subtitle_index": 508,
+      "start_time": 3390.798,
+      "end_time": 3397.218,
+      "duration": 6.420000000000073,
+      "dialogue_text": "What it is within my heart none can ever know"
+    },
+    {
+      "subtitle_index": 509,
+      "start_time": 3397.796,
+      "end_time": 3404.16,
+      "duration": 6.364000000000033,
+      "dialogue_text": "A heart like a falcon's is this very heart"
+    },
+    {
+      "subtitle_index": 510,
+      "start_time": 3404.929,
+      "end_time": 3411.121,
+      "duration": 6.192000000000007,
+      "dialogue_text": "What it is within my heart none can ever know"
+    },
+    {
+      "subtitle_index": 511,
+      "start_time": 3411.461,
+      "end_time": 3418.79,
+      "duration": 7.329000000000178,
+      "dialogue_text": "Lonely falcon in the empty sky"
+    },
+    {
+      "subtitle_index": 512,
+      "start_time": 3420.625,
+      "end_time": 3427.022,
+      "duration": 6.3969999999999345,
+      "dialogue_text": "I walk alone along deserted country roads"
+    },
+    {
+      "subtitle_index": 513,
+      "start_time": 3427.291,
+      "end_time": 3434.018,
+      "duration": 6.726999999999862,
+      "dialogue_text": "Walking with me side by side you are always there"
+    },
+    {
+      "subtitle_index": 514,
+      "start_time": 3434.823,
+      "end_time": 3441.311,
+      "duration": 6.488000000000284,
+      "dialogue_text": "I feel your loneliness lonely you must be"
+    },
+    {
+      "subtitle_index": 515,
+      "start_time": 3441.854,
+      "end_time": 3448.15,
+      "duration": 6.2960000000002765,
+      "dialogue_text": "Crickets whispering in the grassy fields"
+    },
+    {
+      "subtitle_index": 516,
+      "start_time": 3448.486,
+      "end_time": 3455.179,
+      "duration": 6.693000000000211,
+      "dialogue_text": "You walk there by my side you walk the path with me"
+    },
+    {
+      "subtitle_index": 517,
+      "start_time": 3455.984,
+      "end_time": 3462.609,
+      "duration": 6.625,
+      "dialogue_text": "But you never say a word never do you speak"
+    },
+    {
+      "subtitle_index": 518,
+      "start_time": 3464.683,
+      "end_time": 3471.239,
+      "duration": 6.55600000000004,
+      "dialogue_text": "What it is within my heart none can ever know"
+    },
+    {
+      "subtitle_index": 519,
+      "start_time": 3471.781,
+      "end_time": 3478.373,
+      "duration": 6.592000000000098,
+      "dialogue_text": "Here inside this heart that walks its path alone"
+    },
+    {
+      "subtitle_index": 520,
+      "start_time": 3478.88,
+      "end_time": 3485.141,
+      "duration": 6.260999999999967,
+      "dialogue_text": "What it is within my heart none can ever know"
+    },
+    {
+      "subtitle_index": 521,
+      "start_time": 3485.479,
+      "end_time": 3492.672,
+      "duration": 7.193000000000211,
+      "dialogue_text": "The sadness of one who always is alone"
+    },
+    {
+      "subtitle_index": 522,
+      "start_time": 3511.74,
+      "end_time": 3514.172,
+      "duration": 2.4320000000002437,
+      "dialogue_text": "I killed my father."
+    },
+    {
+      "subtitle_index": 523,
+      "start_time": 3515.773,
+      "end_time": 3518.465,
+      "duration": 2.6920000000000073,
+      "dialogue_text": "I stabbed him and ran away."
+    },
+    {
+      "subtitle_index": 524,
+      "start_time": 3518.672,
+      "end_time": 3522.399,
+      "duration": 3.7269999999998618,
+      "dialogue_text": "I don't understand it. Why did I kill him?"
+    },
+    {
+      "subtitle_index": 525,
+      "start_time": 3523.105,
+      "end_time": 3525.003,
+      "duration": 1.8980000000001382,
+      "dialogue_text": "Did he hurt you?"
+    },
+    {
+      "subtitle_index": 526,
+      "start_time": 3525.97,
+      "end_time": 3528.629,
+      "duration": 2.6590000000001055,
+      "dialogue_text": "No. My father was a great man."
+    },
+    {
+      "subtitle_index": 527,
+      "start_time": 3529.236,
+      "end_time": 3534.032,
+      "duration": 4.7960000000002765,
+      "dialogue_text": "I am nothing. I failed my father and I fail myself."
+    },
+    {
+      "subtitle_index": 528,
+      "start_time": 3534.669,
+      "end_time": 3539.794,
+      "duration": 5.125,
+      "dialogue_text": "And yet, I'm filled with a rage I can't control."
+    },
+    {
+      "subtitle_index": 529,
+      "start_time": 3541.134,
+      "end_time": 3544.93,
+      "duration": 3.7959999999998217,
+      "dialogue_text": "It's as if there were someone else inside me."
+    },
+    {
+      "subtitle_index": 530,
+      "start_time": 3545.033,
+      "end_time": 3547.056,
+      "duration": 2.0230000000001382,
+      "dialogue_text": "You saw it too, didn't you?"
+    },
+    {
+      "subtitle_index": 531,
+      "start_time": 3547.866,
+      "end_time": 3551.229,
+      "duration": 3.362999999999829,
+      "dialogue_text": "You were right. I shouldn't be here."
+    },
+    {
+      "subtitle_index": 532,
+      "start_time": 3551.599,
+      "end_time": 3553.155,
+      "duration": 1.55600000000004,
+      "dialogue_text": "I'm sorry. I didn't mean..."
+    },
+    {
+      "subtitle_index": 533,
+      "start_time": 3553.266,
+      "end_time": 3555.231,
+      "duration": 1.9650000000001455,
+      "dialogue_text": "No, you were right."
+    },
+    {
+      "subtitle_index": 534,
+      "start_time": 3556.864,
+      "end_time": 3560.455,
+      "duration": 3.5909999999998945,
+      "dialogue_text": "If I don't leave, it will come again."
+    },
+    {
+      "subtitle_index": 535,
+      "start_time": 3573.061,
+      "end_time": 3573.992,
+      "duration": 0.93100000000004,
+      "dialogue_text": "A woman?"
+    },
+    {
+      "subtitle_index": 536,
+      "start_time": 3574.095,
+      "end_time": 3576.753,
+      "duration": 2.6580000000003565,
+      "dialogue_text": "She lives past the marshes."
+    },
+    {
+      "subtitle_index": 537,
+      "start_time": 3578.06,
+      "end_time": 3580.753,
+      "duration": 2.693000000000211,
+      "dialogue_text": "And the Archmage is with her?"
+    },
+    {
+      "subtitle_index": 538,
+      "start_time": 3581.226,
+      "end_time": 3585.748,
+      "duration": 4.5219999999999345,
+      "dialogue_text": "He was seen in the town. There are many witnesses."
+    },
+    {
+      "subtitle_index": 539,
+      "start_time": 3586.392,
+      "end_time": 3587.88,
+      "duration": 1.4880000000002838,
+      "dialogue_text": "Splendid."
+    },
+    {
+      "subtitle_index": 540,
+      "start_time": 3595.29,
+      "end_time": 3596.483,
+      "duration": 1.193000000000211,
+      "dialogue_text": "My lord."
+    },
+    {
+      "subtitle_index": 541,
+      "start_time": 3598.79,
+      "end_time": 3600.449,
+      "duration": 1.6590000000001055,
+      "dialogue_text": "Let's go, men!"
+    },
+    {
+      "subtitle_index": 542,
+      "start_time": 3621.285,
+      "end_time": 3624.739,
+      "duration": 3.4540000000001783,
+      "dialogue_text": "A greeting from the Archmage. Thank you, Sparrowhawk."
+    },
+    {
+      "subtitle_index": 543,
+      "start_time": 3639.847,
+      "end_time": 3642.836,
+      "duration": 2.988999999999578,
+      "dialogue_text": "Therru! Arren! Dinner is ready!"
+    },
+    {
+      "subtitle_index": 544,
+      "start_time": 3643.614,
+      "end_time": 3644.909,
+      "duration": 1.2950000000000728,
+      "dialogue_text": "Where's Arren?"
+    },
+    {
+      "subtitle_index": 545,
+      "start_time": 3646.28,
+      "end_time": 3647.768,
+      "duration": 1.487999999999829,
+      "dialogue_text": "Isn't he with you?"
+    },
+    {
+      "subtitle_index": 546,
+      "start_time": 3647.88,
+      "end_time": 3648.846,
+      "duration": 0.9659999999998945,
+      "dialogue_text": "No."
+    },
+    {
+      "subtitle_index": 547,
+      "start_time": 3649.446,
+      "end_time": 3653.434,
+      "duration": 3.9880000000002838,
+      "dialogue_text": "Maybe he's resting. Therru, go see if he's there."
+    },
+    {
+      "subtitle_index": 548,
+      "start_time": 3653.545,
+      "end_time": 3654.704,
+      "duration": 1.1590000000001055,
+      "dialogue_text": "Yes, Tenar."
+    },
+    {
+      "subtitle_index": 549,
+      "start_time": 3658.21,
+      "end_time": 3659.437,
+      "duration": 1.2269999999998618,
+      "dialogue_text": "He's not here."
+    },
+    {
+      "subtitle_index": 550,
+      "start_time": 3660.21,
+      "end_time": 3663.175,
+      "duration": 2.9650000000001455,
+      "dialogue_text": "That's strange. Where's he gone?"
+    },
+    {
+      "subtitle_index": 551,
+      "start_time": 3663.843,
+      "end_time": 3665.433,
+      "duration": 1.5900000000001455,
+      "dialogue_text": "I'll look outside."
+    },
+    {
+      "subtitle_index": 552,
+      "start_time": 3682.706,
+      "end_time": 3684.069,
+      "duration": 1.362999999999829,
+      "dialogue_text": "Arren..."
+    },
+    {
+      "subtitle_index": 553,
+      "start_time": 3698.669,
+      "end_time": 3701.532,
+      "duration": 2.8630000000002838,
+      "dialogue_text": "Therru... take care."
+    },
+    {
+      "subtitle_index": 554,
+      "start_time": 3727.097,
+      "end_time": 3729.585,
+      "duration": 2.487999999999829,
+      "dialogue_text": "Doesn't matter which way I go."
+    },
+    {
+      "subtitle_index": 555,
+      "start_time": 3741.394,
+      "end_time": 3742.758,
+      "duration": 1.3640000000000327,
+      "dialogue_text": "Looks like a dead end."
+    },
+    {
+      "subtitle_index": 556,
+      "start_time": 3763.356,
+      "end_time": 3764.583,
+      "duration": 1.2269999999998618,
+      "dialogue_text": "It's here!"
+    },
+    {
+      "subtitle_index": 557,
+      "start_time": 3840.041,
+      "end_time": 3841.836,
+      "duration": 1.794999999999618,
+      "dialogue_text": "I wonder if that's Arren?"
+    },
+    {
+      "subtitle_index": 558,
+      "start_time": 3844.374,
+      "end_time": 3845.6,
+      "duration": 1.2260000000001128,
+      "dialogue_text": "Arren?"
+    },
+    {
+      "subtitle_index": 559,
+      "start_time": 3846.473,
+      "end_time": 3847.87,
+      "duration": 1.3969999999999345,
+      "dialogue_text": "Sparrowhawk?"
+    },
+    {
+      "subtitle_index": 560,
+      "start_time": 3855.471,
+      "end_time": 3857.13,
+      "duration": 1.6590000000001055,
+      "dialogue_text": "That's odd."
+    },
+    {
+      "subtitle_index": 561,
+      "start_time": 3857.837,
+      "end_time": 3859.394,
+      "duration": 1.556999999999789,
+      "dialogue_text": "What are you doing?"
+    },
+    {
+      "subtitle_index": 562,
+      "start_time": 3861.07,
+      "end_time": 3862.626,
+      "duration": 1.55600000000004,
+      "dialogue_text": "It's you! You're back!"
+    },
+    {
+      "subtitle_index": 563,
+      "start_time": 3863.336,
+      "end_time": 3867.768,
+      "duration": 4.432000000000244,
+      "dialogue_text": "So sorry, but it seems you'll do in place of the wizard."
+    },
+    {
+      "subtitle_index": 564,
+      "start_time": 3867.868,
+      "end_time": 3868.562,
+      "duration": 0.69399999999996,
+      "dialogue_text": "What?"
+    },
+    {
+      "subtitle_index": 565,
+      "start_time": 3868.668,
+      "end_time": 3870.1,
+      "duration": 1.431999999999789,
+      "dialogue_text": "Tenar, what's wrong?"
+    },
+    {
+      "subtitle_index": 566,
+      "start_time": 3870.202,
+      "end_time": 3871.065,
+      "duration": 0.862999999999829,
+      "dialogue_text": "Run away!"
+    },
+    {
+      "subtitle_index": 567,
+      "start_time": 3871.167,
+      "end_time": 3872.758,
+      "duration": 1.5909999999998945,
+      "dialogue_text": "What a surprise!"
+    },
+    {
+      "subtitle_index": 568,
+      "start_time": 3872.867,
+      "end_time": 3876.23,
+      "duration": 3.362999999999829,
+      "dialogue_text": "Fancy meeting you here, princess."
+    },
+    {
+      "subtitle_index": 569,
+      "start_time": 3878.666,
+      "end_time": 3880.757,
+      "duration": 2.0909999999998945,
+      "dialogue_text": "No! Leave her alone!"
+    },
+    {
+      "subtitle_index": 570,
+      "start_time": 3888.198,
+      "end_time": 3889.663,
+      "duration": 1.4650000000001455,
+      "dialogue_text": "Therru!"
+    },
+    {
+      "subtitle_index": 571,
+      "start_time": 3891.63,
+      "end_time": 3894.652,
+      "duration": 3.0219999999999345,
+      "dialogue_text": "Well now princess, where's your prince?"
+    },
+    {
+      "subtitle_index": 572,
+      "start_time": 3894.963,
+      "end_time": 3896.553,
+      "duration": 1.5899999999996908,
+      "dialogue_text": "Hey! Watch those teeth!"
+    },
+    {
+      "subtitle_index": 573,
+      "start_time": 3896.995,
+      "end_time": 3901.552,
+      "duration": 4.557000000000244,
+      "dialogue_text": "I need you to deliver a message. Tell this to the wizard!"
+    },
+    {
+      "subtitle_index": 574,
+      "start_time": 3902.195,
+      "end_time": 3904.32,
+      "duration": 2.125,
+      "dialogue_text": "If he wants his woman..."
+    },
+    {
+      "subtitle_index": 575,
+      "start_time": 3904.427,
+      "end_time": 3908.45,
+      "duration": 4.0229999999996835,
+      "dialogue_text": "...he can find her at Lord Cob's castle."
+    },
+    {
+      "subtitle_index": 576,
+      "start_time": 3909.493,
+      "end_time": 3910.459,
+      "duration": 0.9659999999998945,
+      "dialogue_text": "Take her away!"
+    },
+    {
+      "subtitle_index": 577,
+      "start_time": 3910.56,
+      "end_time": 3911.423,
+      "duration": 0.862999999999829,
+      "dialogue_text": "Therru!"
+    },
+    {
+      "subtitle_index": 578,
+      "start_time": 3911.526,
+      "end_time": 3913.287,
+      "duration": 1.7609999999999673,
+      "dialogue_text": "Tenar!"
+    },
+    {
+      "subtitle_index": 579,
+      "start_time": 3914.226,
+      "end_time": 3918.18,
+      "duration": 3.9539999999997235,
+      "dialogue_text": "Let me go, I tell you! Let me go!"
+    },
+    {
+      "subtitle_index": 580,
+      "start_time": 3922.79,
+      "end_time": 3925.415,
+      "duration": 2.625,
+      "dialogue_text": "Therru! Are you all right? Therru!"
+    },
+    {
+      "subtitle_index": 581,
+      "start_time": 3925.657,
+      "end_time": 3927.747,
+      "duration": 2.0899999999996908,
+      "dialogue_text": "Stop it! Let her go!"
+    },
+    {
+      "subtitle_index": 582,
+      "start_time": 3927.856,
+      "end_time": 3932.844,
+      "duration": 4.987999999999829,
+      "dialogue_text": "You stay here and be good till the wizard gets back!"
+    },
+    {
+      "subtitle_index": 583,
+      "start_time": 3934.555,
+      "end_time": 3936.884,
+      "duration": 2.3290000000001783,
+      "dialogue_text": "Lord Cob's waiting. Let's get moving!"
+    },
+    {
+      "subtitle_index": 584,
+      "start_time": 3941.02,
+      "end_time": 3942.611,
+      "duration": 1.5909999999998945,
+      "dialogue_text": "Tenar!"
+    },
+    {
+      "subtitle_index": 585,
+      "start_time": 3944.486,
+      "end_time": 3946.281,
+      "duration": 1.7950000000000728,
+      "dialogue_text": "Tenar!"
+    },
+    {
+      "subtitle_index": 586,
+      "start_time": 3977.613,
+      "end_time": 3981.374,
+      "duration": 3.7609999999999673,
+      "dialogue_text": "I'm sorry. I'm afraid he's coming with me."
+    },
+    {
+      "subtitle_index": 587,
+      "start_time": 3986.778,
+      "end_time": 3987.607,
+      "duration": 0.8290000000001783,
+      "dialogue_text": "Go!"
+    },
+    {
+      "subtitle_index": 588,
+      "start_time": 4014.605,
+      "end_time": 4015.832,
+      "duration": 1.2269999999998618,
+      "dialogue_text": "Where am I?"
+    },
+    {
+      "subtitle_index": 589,
+      "start_time": 4017.138,
+      "end_time": 4021.728,
+      "duration": 4.5900000000001455,
+      "dialogue_text": "You're safe now. The Shadow can't follow you here."
+    },
+    {
+      "subtitle_index": 590,
+      "start_time": 4022.171,
+      "end_time": 4024.034,
+      "duration": 1.8630000000002838,
+      "dialogue_text": "You saw it?"
+    },
+    {
+      "subtitle_index": 591,
+      "start_time": 4024.77,
+      "end_time": 4027.735,
+      "duration": 2.9650000000001455,
+      "dialogue_text": "I know a bit of Magic myself."
+    },
+    {
+      "subtitle_index": 592,
+      "start_time": 4028.436,
+      "end_time": 4031.027,
+      "duration": 2.5909999999998945,
+      "dialogue_text": "I know what you're running from."
+    },
+    {
+      "subtitle_index": 593,
+      "start_time": 4031.669,
+      "end_time": 4035.191,
+      "duration": 3.5219999999999345,
+      "dialogue_text": "You were wise to flee from that man."
+    },
+    {
+      "subtitle_index": 594,
+      "start_time": 4035.735,
+      "end_time": 4037.223,
+      "duration": 1.487999999999829,
+      "dialogue_text": "What man?"
+    },
+    {
+      "subtitle_index": 595,
+      "start_time": 4037.335,
+      "end_time": 4041.198,
+      "duration": 3.862999999999829,
+      "dialogue_text": "Sparrowhawk. That is, the Archmage."
+    },
+    {
+      "subtitle_index": 596,
+      "start_time": 4042.267,
+      "end_time": 4046.096,
+      "duration": 3.8290000000001783,
+      "dialogue_text": "Here, drink this. It will soothe you."
+    },
+    {
+      "subtitle_index": 597,
+      "start_time": 4050.498,
+      "end_time": 4053.986,
+      "duration": 3.487999999999829,
+      "dialogue_text": "What's wrong? It's not poisoned."
+    },
+    {
+      "subtitle_index": 598,
+      "start_time": 4068.594,
+      "end_time": 4072.458,
+      "duration": 3.8640000000000327,
+      "dialogue_text": "Now lie still and rest here for a bit."
+    },
+    {
+      "subtitle_index": 599,
+      "start_time": 4072.76,
+      "end_time": 4077.055,
+      "duration": 4.294999999999618,
+      "dialogue_text": "The Archmage is more dangerous than you can imagine."
+    },
+    {
+      "subtitle_index": 600,
+      "start_time": 4077.693,
+      "end_time": 4080.625,
+      "duration": 2.931999999999789,
+      "dialogue_text": "No... Sparrowhawk is a good man."
+    },
+    {
+      "subtitle_index": 601,
+      "start_time": 4080.726,
+      "end_time": 4083.055,
+      "duration": 2.3289999999997235,
+      "dialogue_text": "He protected me."
+    },
+    {
+      "subtitle_index": 602,
+      "start_time": 4083.692,
+      "end_time": 4088.419,
+      "duration": 4.726999999999862,
+      "dialogue_text": "Then tell me. Did you ever wonder what he seeks?"
+    },
+    {
+      "subtitle_index": 603,
+      "start_time": 4091.29,
+      "end_time": 4092.415,
+      "duration": 1.125,
+      "dialogue_text": "No."
+    },
+    {
+      "subtitle_index": 604,
+      "start_time": 4094.356,
+      "end_time": 4097.049,
+      "duration": 2.6929999999997563,
+      "dialogue_text": "He seeks eternal life."
+    },
+    {
+      "subtitle_index": 605,
+      "start_time": 4098.056,
+      "end_time": 4100.544,
+      "duration": 2.4880000000002838,
+      "dialogue_text": "Eternal life?"
+    },
+    {
+      "subtitle_index": 606,
+      "start_time": 4102.021,
+      "end_time": 4105.975,
+      "duration": 3.954000000000633,
+      "dialogue_text": "The Archmage stands at the pinnacle of sorcery."
+    },
+    {
+      "subtitle_index": 607,
+      "start_time": 4106.287,
+      "end_time": 4111.344,
+      "duration": 5.056999999999789,
+      "dialogue_text": "Only the secret of eternal life lies beyond his grasp."
+    },
+    {
+      "subtitle_index": 608,
+      "start_time": 4112.286,
+      "end_time": 4114.683,
+      "duration": 2.3969999999999345,
+      "dialogue_text": "And yet, he covets it."
+    },
+    {
+      "subtitle_index": 609,
+      "start_time": 4115.519,
+      "end_time": 4119.61,
+      "duration": 4.09099999999944,
+      "dialogue_text": "But as he covets, so does he fear another will discover it first."
+    },
+    {
+      "subtitle_index": 610,
+      "start_time": 4119.818,
+      "end_time": 4125.249,
+      "duration": 5.430999999999585,
+      "dialogue_text": "That would be unbearable to one so proud as the Archmage."
+    },
+    {
+      "subtitle_index": 611,
+      "start_time": 4125.45,
+      "end_time": 4128.415,
+      "duration": 2.9650000000001455,
+      "dialogue_text": "What does that have to do with me?"
+    },
+    {
+      "subtitle_index": 612,
+      "start_time": 4129.482,
+      "end_time": 4133.005,
+      "duration": 3.5230000000001382,
+      "dialogue_text": "Because it is you who have been chosen..."
+    },
+    {
+      "subtitle_index": 613,
+      "start_time": 4133.115,
+      "end_time": 4135.672,
+      "duration": 2.556999999999789,
+      "dialogue_text": "...to gain the secret of eternal life."
+    },
+    {
+      "subtitle_index": 614,
+      "start_time": 4136.714,
+      "end_time": 4141.271,
+      "duration": 4.556999999999789,
+      "dialogue_text": "That's why Sparrowhawk follows you. To kill you."
+    },
+    {
+      "subtitle_index": 615,
+      "start_time": 4141.38,
+      "end_time": 4143.436,
+      "duration": 2.0559999999995853,
+      "dialogue_text": "To bring me death..."
+    },
+    {
+      "subtitle_index": 616,
+      "start_time": 4144.112,
+      "end_time": 4147.169,
+      "duration": 3.056999999999789,
+      "dialogue_text": "Arren, will you come with me?"
+    },
+    {
+      "subtitle_index": 617,
+      "start_time": 4147.279,
+      "end_time": 4149.335,
+      "duration": 2.0559999999995853,
+      "dialogue_text": "I've already found it."
+    },
+    {
+      "subtitle_index": 618,
+      "start_time": 4149.445,
+      "end_time": 4153.07,
+      "duration": 3.625,
+      "dialogue_text": "I found the door between life and death."
+    },
+    {
+      "subtitle_index": 619,
+      "start_time": 4153.544,
+      "end_time": 4156.805,
+      "duration": 3.261000000000422,
+      "dialogue_text": "Together we can open that door."
+    },
+    {
+      "subtitle_index": 620,
+      "start_time": 4157.077,
+      "end_time": 4159.508,
+      "duration": 2.4309999999995853,
+      "dialogue_text": "And together, we will live forever."
+    },
+    {
+      "subtitle_index": 621,
+      "start_time": 4159.61,
+      "end_time": 4163.167,
+      "duration": 3.5570000000006985,
+      "dialogue_text": "We will conquer every form of fear and suffering."
+    },
+    {
+      "subtitle_index": 622,
+      "start_time": 4163.409,
+      "end_time": 4165.806,
+      "duration": 2.3969999999999345,
+      "dialogue_text": "Fear and suffering..."
+    },
+    {
+      "subtitle_index": 623,
+      "start_time": 4167.441,
+      "end_time": 4171.305,
+      "duration": 3.8640000000004875,
+      "dialogue_text": "Come with me, Arren. The face of death is terrible!"
+    },
+    {
+      "subtitle_index": 624,
+      "start_time": 4173.607,
+      "end_time": 4177.8,
+      "duration": 4.193000000000211,
+      "dialogue_text": "I don't want to die."
+    },
+    {
+      "subtitle_index": 625,
+      "start_time": 4178.172,
+      "end_time": 4182.127,
+      "duration": 3.9550000000008367,
+      "dialogue_text": "Listen to me, Arren. Tell me your True Name."
+    },
+    {
+      "subtitle_index": 626,
+      "start_time": 4182.239,
+      "end_time": 4185.795,
+      "duration": 3.5560000000004948,
+      "dialogue_text": "Then you will have that which you most desire."
+    },
+    {
+      "subtitle_index": 627,
+      "start_time": 4189.203,
+      "end_time": 4192.828,
+      "duration": 3.625,
+      "dialogue_text": "Come, give me your True Name."
+    },
+    {
+      "subtitle_index": 628,
+      "start_time": 4194.703,
+      "end_time": 4198.794,
+      "duration": 4.09099999999944,
+      "dialogue_text": "Lebannen..."
+    },
+    {
+      "subtitle_index": 629,
+      "start_time": 4204.701,
+      "end_time": 4208.86,
+      "duration": 4.158999999999651,
+      "dialogue_text": "Now I'm ready for you, Sparrowhawk."
+    },
+    {
+      "subtitle_index": 630,
+      "start_time": 4217.865,
+      "end_time": 4220.49,
+      "duration": 2.625,
+      "dialogue_text": "Where are you, Hawk?"
+    },
+    {
+      "subtitle_index": 631,
+      "start_time": 4255.89,
+      "end_time": 4257.321,
+      "duration": 1.4309999999995853,
+      "dialogue_text": "Hawk!"
+    },
+    {
+      "subtitle_index": 632,
+      "start_time": 4261.189,
+      "end_time": 4262.552,
+      "duration": 1.3629999999993743,
+      "dialogue_text": "What's wrong, Therru?"
+    },
+    {
+      "subtitle_index": 633,
+      "start_time": 4263.955,
+      "end_time": 4266.352,
+      "duration": 2.3969999999999345,
+      "dialogue_text": "They came and took Tenar away!"
+    },
+    {
+      "subtitle_index": 634,
+      "start_time": 4266.655,
+      "end_time": 4269.314,
+      "duration": 2.6590000000005602,
+      "dialogue_text": "You have to go to Cob's castle!"
+    },
+    {
+      "subtitle_index": 635,
+      "start_time": 4269.421,
+      "end_time": 4270.613,
+      "duration": 1.1920000000000073,
+      "dialogue_text": "Where is Arren?"
+    },
+    {
+      "subtitle_index": 636,
+      "start_time": 4271.154,
+      "end_time": 4275.608,
+      "duration": 4.4539999999997235,
+      "dialogue_text": "He left! He said it would come again if he didn't go!"
+    },
+    {
+      "subtitle_index": 637,
+      "start_time": 4276.653,
+      "end_time": 4278.118,
+      "duration": 1.4650000000001455,
+      "dialogue_text": "Cob..."
+    },
+    {
+      "subtitle_index": 638,
+      "start_time": 4278.753,
+      "end_time": 4280.615,
+      "duration": 1.86200000000008,
+      "dialogue_text": "Don't worry, Therru."
+    },
+    {
+      "subtitle_index": 639,
+      "start_time": 4282.052,
+      "end_time": 4286.108,
+      "duration": 4.056000000000495,
+      "dialogue_text": "I'm going to help Tenar. Wait for my return."
+    },
+    {
+      "subtitle_index": 640,
+      "start_time": 4286.951,
+      "end_time": 4291.11,
+      "duration": 4.158999999999651,
+      "dialogue_text": "Keep this sword. Arren will need it."
+    },
+    {
+      "subtitle_index": 641,
+      "start_time": 4298.348,
+      "end_time": 4300.779,
+      "duration": 2.4310000000004948,
+      "dialogue_text": "Stay home, Therru!"
+    },
+    {
+      "subtitle_index": 642,
+      "start_time": 4315.078,
+      "end_time": 4316.6,
+      "duration": 1.5219999999999345,
+      "dialogue_text": "Here-we-are!"
+    },
+    {
+      "subtitle_index": 643,
+      "start_time": 4321.177,
+      "end_time": 4322.142,
+      "duration": 0.9650000000001455,
+      "dialogue_text": "Come on!"
+    },
+    {
+      "subtitle_index": 644,
+      "start_time": 4323.21,
+      "end_time": 4324.835,
+      "duration": 1.625,
+      "dialogue_text": "I'm not going anywhere!"
+    },
+    {
+      "subtitle_index": 645,
+      "start_time": 4328.609,
+      "end_time": 4330.199,
+      "duration": 1.589999999999236,
+      "dialogue_text": "Lord Cob."
+    },
+    {
+      "subtitle_index": 646,
+      "start_time": 4330.808,
+      "end_time": 4334.535,
+      "duration": 3.7269999999998618,
+      "dialogue_text": "We brought the woman. Just as you ordered."
+    },
+    {
+      "subtitle_index": 647,
+      "start_time": 4335.407,
+      "end_time": 4338.464,
+      "duration": 3.056999999999789,
+      "dialogue_text": "You've done well, Hare."
+    },
+    {
+      "subtitle_index": 648,
+      "start_time": 4338.806,
+      "end_time": 4343.931,
+      "duration": 5.125,
+      "dialogue_text": "It was nothing, my lord. My pleasure is to serve you."
+    },
+    {
+      "subtitle_index": 649,
+      "start_time": 4344.273,
+      "end_time": 4345.397,
+      "duration": 1.1239999999997963,
+      "dialogue_text": "Stand aside!"
+    },
+    {
+      "subtitle_index": 650,
+      "start_time": 4345.905,
+      "end_time": 4347.268,
+      "duration": 1.3630000000002838,
+      "dialogue_text": "Why, you!"
+    },
+    {
+      "subtitle_index": 651,
+      "start_time": 4347.672,
+      "end_time": 4349.069,
+      "duration": 1.397000000000844,
+      "dialogue_text": "Are you the boss?"
+    },
+    {
+      "subtitle_index": 652,
+      "start_time": 4349.505,
+      "end_time": 4353.095,
+      "duration": 3.5900000000001455,
+      "dialogue_text": "Why did you kidnap me? Let me go right now!"
+    },
+    {
+      "subtitle_index": 653,
+      "start_time": 4353.703,
+      "end_time": 4356.669,
+      "duration": 2.9659999999994398,
+      "dialogue_text": "So sorry for the rough treatment."
+    },
+    {
+      "subtitle_index": 654,
+      "start_time": 4356.937,
+      "end_time": 4359.061,
+      "duration": 2.1239999999997963,
+      "dialogue_text": "I have business with Sparrowhawk."
+    },
+    {
+      "subtitle_index": 655,
+      "start_time": 4359.403,
+      "end_time": 4364.425,
+      "duration": 5.0219999999999345,
+      "dialogue_text": "You're a wizard, aren't you! You should be ashamed!"
+    },
+    {
+      "subtitle_index": 656,
+      "start_time": 4364.668,
+      "end_time": 4366.827,
+      "duration": 2.1590000000005602,
+      "dialogue_text": "Go find him yourself!"
+    },
+    {
+      "subtitle_index": 657,
+      "start_time": 4367.334,
+      "end_time": 4370.095,
+      "duration": 2.761000000000422,
+      "dialogue_text": "He's an old friend of mine."
+    },
+    {
+      "subtitle_index": 658,
+      "start_time": 4370.268,
+      "end_time": 4373.324,
+      "duration": 3.0559999999995853,
+      "dialogue_text": "I'd like to invite him here."
+    },
+    {
+      "subtitle_index": 659,
+      "start_time": 4374.1,
+      "end_time": 4377.691,
+      "duration": 3.5909999999994398,
+      "dialogue_text": "And I'm the bait! You're going to hurt him!"
+    },
+    {
+      "subtitle_index": 660,
+      "start_time": 4378.132,
+      "end_time": 4381.098,
+      "duration": 2.9660000000003492,
+      "dialogue_text": "Women tax my patience."
+    },
+    {
+      "subtitle_index": 661,
+      "start_time": 4381.598,
+      "end_time": 4383.53,
+      "duration": 1.931999999999789,
+      "dialogue_text": "Put her in the dungeon."
+    },
+    {
+      "subtitle_index": 662,
+      "start_time": 4384.53,
+      "end_time": 4385.791,
+      "duration": 1.261000000000422,
+      "dialogue_text": "Do it!"
+    },
+    {
+      "subtitle_index": 663,
+      "start_time": 4386.731,
+      "end_time": 4388.196,
+      "duration": 1.4650000000001455,
+      "dialogue_text": "Answer me!"
+    },
+    {
+      "subtitle_index": 664,
+      "start_time": 4389.097,
+      "end_time": 4392.324,
+      "duration": 3.2269999999998618,
+      "dialogue_text": "If something happens to Sparrowhawk, so help me!"
+    },
+    {
+      "subtitle_index": 665,
+      "start_time": 4394.162,
+      "end_time": 4395.718,
+      "duration": 1.5559999999995853,
+      "dialogue_text": "- Arren... - This way!"
+    },
+    {
+      "subtitle_index": 666,
+      "start_time": 4406.126,
+      "end_time": 4410.353,
+      "duration": 4.226999999999862,
+      "dialogue_text": "Come, Lebannen. I have something special for you."
+    },
+    {
+      "subtitle_index": 667,
+      "start_time": 4438.254,
+      "end_time": 4439.117,
+      "duration": 0.8630000000002838,
+      "dialogue_text": "Get in there!"
+    },
+    {
+      "subtitle_index": 668,
+      "start_time": 4447.685,
+      "end_time": 4451.979,
+      "duration": 4.293999999999869,
+      "dialogue_text": "Make yourself at home. You'll see your wizard soon enough."
+    },
+    {
+      "subtitle_index": 669,
+      "start_time": 4468.88,
+      "end_time": 4473.107,
+      "duration": 4.226999999999862,
+      "dialogue_text": "This place reminds me of the Tombs."
+    },
+    {
+      "subtitle_index": 670,
+      "start_time": 4475.146,
+      "end_time": 4476.611,
+      "duration": 1.4650000000001455,
+      "dialogue_text": "Sparrowhawk..."
+    },
+    {
+      "subtitle_index": 671,
+      "start_time": 4488.444,
+      "end_time": 4491.966,
+      "duration": 3.5219999999999345,
+      "dialogue_text": "Cob! Are you making the same mistake again?"
+    },
+    {
+      "subtitle_index": 672,
+      "start_time": 4500.008,
+      "end_time": 4501.098,
+      "duration": 1.0900000000001455,
+      "dialogue_text": "At ease!"
+    },
+    {
+      "subtitle_index": 673,
+      "start_time": 4501.94,
+      "end_time": 4503.167,
+      "duration": 1.2270000000007713,
+      "dialogue_text": "Any sign of the wizard?"
+    },
+    {
+      "subtitle_index": 674,
+      "start_time": 4503.274,
+      "end_time": 4505.205,
+      "duration": 1.9309999999995853,
+      "dialogue_text": "Not yet, sir."
+    },
+    {
+      "subtitle_index": 675,
+      "start_time": 4506.306,
+      "end_time": 4509.465,
+      "duration": 3.1590000000005602,
+      "dialogue_text": "Where is that confounded wizard?"
+    },
+    {
+      "subtitle_index": 676,
+      "start_time": 4512.539,
+      "end_time": 4513.469,
+      "duration": 0.930000000000291,
+      "dialogue_text": "Let's see..."
+    },
+    {
+      "subtitle_index": 677,
+      "start_time": 4517.471,
+      "end_time": 4520.527,
+      "duration": 3.0560000000004948,
+      "dialogue_text": "There he is! Take your positions!"
+    },
+    {
+      "subtitle_index": 678,
+      "start_time": 4528.269,
+      "end_time": 4530.097,
+      "duration": 1.8279999999995198,
+      "dialogue_text": "Here he comes!"
+    },
+    {
+      "subtitle_index": 679,
+      "start_time": 4535.901,
+      "end_time": 4538.264,
+      "duration": 2.3630000000002838,
+      "dialogue_text": "Don't let him escape! Now!"
+    },
+    {
+      "subtitle_index": 680,
+      "start_time": 4542.599,
+      "end_time": 4544.462,
+      "duration": 1.8630000000002838,
+      "dialogue_text": "Hear me! Open the path!"
+    },
+    {
+      "subtitle_index": 681,
+      "start_time": 4548.965,
+      "end_time": 4550.055,
+      "duration": 1.0900000000001455,
+      "dialogue_text": "Stop! Wait!"
+    },
+    {
+      "subtitle_index": 682,
+      "start_time": 4551.431,
+      "end_time": 4553.226,
+      "duration": 1.7950000000000728,
+      "dialogue_text": "He tricked us!"
+    },
+    {
+      "subtitle_index": 683,
+      "start_time": 4553.331,
+      "end_time": 4555.558,
+      "duration": 2.2269999999998618,
+      "dialogue_text": "Well? Don't just stand there!"
+    },
+    {
+      "subtitle_index": 684,
+      "start_time": 4562.195,
+      "end_time": 4565.82,
+      "duration": 3.625,
+      "dialogue_text": "Cob! It's Sparrowhawk. I'm here!"
+    },
+    {
+      "subtitle_index": 685,
+      "start_time": 4565.927,
+      "end_time": 4567.654,
+      "duration": 1.7270000000007713,
+      "dialogue_text": "Show yourself!"
+    },
+    {
+      "subtitle_index": 686,
+      "start_time": 4571.627,
+      "end_time": 4574.956,
+      "duration": 3.3289999999997235,
+      "dialogue_text": "It's been a long time, Sparrowhawk."
+    },
+    {
+      "subtitle_index": 687,
+      "start_time": 4575.959,
+      "end_time": 4577.448,
+      "duration": 1.4890000000004875,
+      "dialogue_text": "I've been waiting."
+    },
+    {
+      "subtitle_index": 688,
+      "start_time": 4578.192,
+      "end_time": 4581.123,
+      "duration": 2.9309999999995853,
+      "dialogue_text": "Cob of Havnor! I left you at the border..."
+    },
+    {
+      "subtitle_index": 689,
+      "start_time": 4581.291,
+      "end_time": 4583.052,
+      "duration": 1.7609999999995125,
+      "dialogue_text": "...of the land of death."
+    },
+    {
+      "subtitle_index": 690,
+      "start_time": 4583.757,
+      "end_time": 4586.881,
+      "duration": 3.1240000000007058,
+      "dialogue_text": "I hear you're the Archmage now."
+    },
+    {
+      "subtitle_index": 691,
+      "start_time": 4587.157,
+      "end_time": 4588.816,
+      "duration": 1.6589999999996508,
+      "dialogue_text": "Congratulations."
+    },
+    {
+      "subtitle_index": 692,
+      "start_time": 4589.456,
+      "end_time": 4593.252,
+      "duration": 3.7960000000002765,
+      "dialogue_text": "I'm here, Cob. Now release Tenar!"
+    },
+    {
+      "subtitle_index": 693,
+      "start_time": 4594.622,
+      "end_time": 4596.849,
+      "duration": 2.2269999999998618,
+      "dialogue_text": "You're pitiful, Sparrowhawk."
+    },
+    {
+      "subtitle_index": 694,
+      "start_time": 4596.955,
+      "end_time": 4601.284,
+      "duration": 4.3289999999997235,
+      "dialogue_text": "The great Archmage, smitten by a woman."
+    },
+    {
+      "subtitle_index": 695,
+      "start_time": 4601.653,
+      "end_time": 4605.278,
+      "duration": 3.625,
+      "dialogue_text": "You used her to lure me here. What do you want?"
+    },
+    {
+      "subtitle_index": 696,
+      "start_time": 4605.953,
+      "end_time": 4607.646,
+      "duration": 1.6929999999993015,
+      "dialogue_text": "What do you think?"
+    },
+    {
+      "subtitle_index": 697,
+      "start_time": 4607.752,
+      "end_time": 4610.115,
+      "duration": 2.3629999999993743,
+      "dialogue_text": "I haven't forgotten how you dragged me..."
+    },
+    {
+      "subtitle_index": 698,
+      "start_time": 4610.219,
+      "end_time": 4612.878,
+      "duration": 2.6589999999996508,
+      "dialogue_text": "...to the gates of the Dry Land."
+    },
+    {
+      "subtitle_index": 699,
+      "start_time": 4613.252,
+      "end_time": 4615.615,
+      "duration": 2.3629999999993743,
+      "dialogue_text": "But you've forgotten why!"
+    },
+    {
+      "subtitle_index": 700,
+      "start_time": 4615.718,
+      "end_time": 4618.478,
+      "duration": 2.7600000000002183,
+      "dialogue_text": "You used the Pelnish Lore..."
+    },
+    {
+      "subtitle_index": 701,
+      "start_time": 4618.584,
+      "end_time": 4622.016,
+      "duration": 3.431999999999789,
+      "dialogue_text": "...to toy with the spirits of the living and the dead."
+    },
+    {
+      "subtitle_index": 702,
+      "start_time": 4622.116,
+      "end_time": 4624.138,
+      "duration": 2.0219999999999345,
+      "dialogue_text": "Isn't that enough to repent?"
+    },
+    {
+      "subtitle_index": 703,
+      "start_time": 4624.749,
+      "end_time": 4628.976,
+      "duration": 4.226999999999862,
+      "dialogue_text": "You taught me a splendid lesson there at death's door."
+    },
+    {
+      "subtitle_index": 704,
+      "start_time": 4629.315,
+      "end_time": 4632.213,
+      "duration": 2.8980000000001382,
+      "dialogue_text": "Now I know I can never accept extinction."
+    },
+    {
+      "subtitle_index": 705,
+      "start_time": 4633.014,
+      "end_time": 4636.843,
+      "duration": 3.8289999999997235,
+      "dialogue_text": "So I gathered every ancient lore book I could find."
+    },
+    {
+      "subtitle_index": 706,
+      "start_time": 4637.646,
+      "end_time": 4641.078,
+      "duration": 3.4320000000006985,
+      "dialogue_text": "Alas, some of their owners were not cooperative."
+    },
+    {
+      "subtitle_index": 707,
+      "start_time": 4642.745,
+      "end_time": 4645.575,
+      "duration": 2.8299999999999272,
+      "dialogue_text": "What evil are you planning, Cob?"
+    },
+    {
+      "subtitle_index": 708,
+      "start_time": 4646.178,
+      "end_time": 4649.042,
+      "duration": 2.8640000000004875,
+      "dialogue_text": "I've done it, Sparrowhawk!"
+    },
+    {
+      "subtitle_index": 709,
+      "start_time": 4649.144,
+      "end_time": 4652.269,
+      "duration": 3.125,
+      "dialogue_text": "I've woven the greatest spell of all."
+    },
+    {
+      "subtitle_index": 710,
+      "start_time": 4652.61,
+      "end_time": 4655.871,
+      "duration": 3.261000000000422,
+      "dialogue_text": "The door between life and death has been closed..."
+    },
+    {
+      "subtitle_index": 711,
+      "start_time": 4655.976,
+      "end_time": 4659.567,
+      "duration": 3.5910000000003492,
+      "dialogue_text": "...since the beginning of time. But I will open it!"
+    },
+    {
+      "subtitle_index": 712,
+      "start_time": 4659.876,
+      "end_time": 4663.637,
+      "duration": 3.7609999999995125,
+      "dialogue_text": "That is forbidden! Don't you understand?"
+    },
+    {
+      "subtitle_index": 713,
+      "start_time": 4663.741,
+      "end_time": 4667.502,
+      "duration": 3.761000000000422,
+      "dialogue_text": "Those with power must wield it with wisdom."
+    },
+    {
+      "subtitle_index": 714,
+      "start_time": 4667.64,
+      "end_time": 4670.572,
+      "duration": 2.931999999999789,
+      "dialogue_text": "Would you destroy the Balance that sustains the world?"
+    },
+    {
+      "subtitle_index": 715,
+      "start_time": 4672.073,
+      "end_time": 4673.333,
+      "duration": 1.2599999999993088,
+      "dialogue_text": "What nonsense!"
+    },
+    {
+      "subtitle_index": 716,
+      "start_time": 4673.439,
+      "end_time": 4676.496,
+      "duration": 3.056999999999789,
+      "dialogue_text": "The Balance is long gone."
+    },
+    {
+      "subtitle_index": 717,
+      "start_time": 4676.705,
+      "end_time": 4680.137,
+      "duration": 3.431999999999789,
+      "dialogue_text": "You know that better than anyone."
+    },
+    {
+      "subtitle_index": 718,
+      "start_time": 4680.371,
+      "end_time": 4682.563,
+      "duration": 2.1920000000000073,
+      "dialogue_text": "The Balance was destroyed by Man."
+    },
+    {
+      "subtitle_index": 719,
+      "start_time": 4683.038,
+      "end_time": 4688.56,
+      "duration": 5.522000000000844,
+      "dialogue_text": "You think you can limit Man's desire? It's impossible!"
+    },
+    {
+      "subtitle_index": 720,
+      "start_time": 4689.303,
+      "end_time": 4691.564,
+      "duration": 2.261000000000422,
+      "dialogue_text": "I will live forever."
+    },
+    {
+      "subtitle_index": 721,
+      "start_time": 4691.669,
+      "end_time": 4694.567,
+      "duration": 2.8980000000001382,
+      "dialogue_text": "I will gain existence without end!"
+    },
+    {
+      "subtitle_index": 722,
+      "start_time": 4695.001,
+      "end_time": 4700.297,
+      "duration": 5.295999999999367,
+      "dialogue_text": "Cob! Without the cycle of death and rebirth, there is no life!"
+    },
+    {
+      "subtitle_index": 723,
+      "start_time": 4700.833,
+      "end_time": 4703.264,
+      "duration": 2.4310000000004948,
+      "dialogue_text": "I am above Nature!"
+    },
+    {
+      "subtitle_index": 724,
+      "start_time": 4710.065,
+      "end_time": 4713.792,
+      "duration": 3.7270000000007713,
+      "dialogue_text": "Sparrowhawk! There's someone else who wants to meet you."
+    },
+    {
+      "subtitle_index": 725,
+      "start_time": 4722.93,
+      "end_time": 4725.418,
+      "duration": 2.4879999999993743,
+      "dialogue_text": "Arren! What are you doing here?"
+    },
+    {
+      "subtitle_index": 726,
+      "start_time": 4725.529,
+      "end_time": 4730.051,
+      "duration": 4.5219999999999345,
+      "dialogue_text": "Lebannen! This man would deprive you of eternal life!"
+    },
+    {
+      "subtitle_index": 727,
+      "start_time": 4737.194,
+      "end_time": 4739.886,
+      "duration": 2.6920000000000073,
+      "dialogue_text": "Arren! Did you reveal your True Name?"
+    },
+    {
+      "subtitle_index": 728,
+      "start_time": 4742.092,
+      "end_time": 4745.524,
+      "duration": 3.4320000000006985,
+      "dialogue_text": "I'm going to live forever!"
+    },
+    {
+      "subtitle_index": 729,
+      "start_time": 4748.824,
+      "end_time": 4752.516,
+      "duration": 3.6920000000000073,
+      "dialogue_text": "I'm tired, Sparrowhawk. Tired of living in fear."
+    },
+    {
+      "subtitle_index": 730,
+      "start_time": 4752.99,
+      "end_time": 4756.251,
+      "duration": 3.261000000000422,
+      "dialogue_text": "Arren! Life without death is not life!"
+    },
+    {
+      "subtitle_index": 731,
+      "start_time": 4756.722,
+      "end_time": 4760.518,
+      "duration": 3.7960000000002765,
+      "dialogue_text": "Refuse death, and you refuse life as well!"
+    },
+    {
+      "subtitle_index": 732,
+      "start_time": 4761.721,
+      "end_time": 4763.448,
+      "duration": 1.7270000000007713,
+      "dialogue_text": "Don't lie to me!"
+    },
+    {
+      "subtitle_index": 733,
+      "start_time": 4782.417,
+      "end_time": 4784.383,
+      "duration": 1.9659999999994398,
+      "dialogue_text": "Listen to me, Arren."
+    },
+    {
+      "subtitle_index": 734,
+      "start_time": 4784.517,
+      "end_time": 4788.71,
+      "duration": 4.193000000000211,
+      "dialogue_text": "No man nor any thing in this world lives forever."
+    },
+    {
+      "subtitle_index": 735,
+      "start_time": 4789.882,
+      "end_time": 4793.439,
+      "duration": 3.5570000000006985,
+      "dialogue_text": "But only to us is it given to know that we must die."
+    },
+    {
+      "subtitle_index": 736,
+      "start_time": 4793.549,
+      "end_time": 4797.947,
+      "duration": 4.398000000000138,
+      "dialogue_text": "And that is a precious gift."
+    },
+    {
+      "subtitle_index": 737,
+      "start_time": 4799.014,
+      "end_time": 4804.31,
+      "duration": 5.2960000000002765,
+      "dialogue_text": "This life that is our torment and our treasure does not endure."
+    },
+    {
+      "subtitle_index": 738,
+      "start_time": 4804.746,
+      "end_time": 4806.735,
+      "duration": 1.988999999999578,
+      "dialogue_text": "It is a wave on the sea."
+    },
+    {
+      "subtitle_index": 739,
+      "start_time": 4806.846,
+      "end_time": 4810.971,
+      "duration": 4.125,
+      "dialogue_text": "Would you force the sea to grow still, to save one wave?"
+    },
+    {
+      "subtitle_index": 740,
+      "start_time": 4811.145,
+      "end_time": 4813.201,
+      "duration": 2.0559999999995853,
+      "dialogue_text": "To save yourself?"
+    },
+    {
+      "subtitle_index": 741,
+      "start_time": 4824.142,
+      "end_time": 4825.335,
+      "duration": 1.193000000000211,
+      "dialogue_text": "Arren..."
+    },
+    {
+      "subtitle_index": 742,
+      "start_time": 4835.806,
+      "end_time": 4838.203,
+      "duration": 2.397000000000844,
+      "dialogue_text": "Thought you made a fool of me?"
+    },
+    {
+      "subtitle_index": 743,
+      "start_time": 4839.106,
+      "end_time": 4841.867,
+      "duration": 2.761000000000422,
+      "dialogue_text": "There's more than one entrance to this castle!"
+    },
+    {
+      "subtitle_index": 744,
+      "start_time": 4842.705,
+      "end_time": 4845.829,
+      "duration": 3.1239999999997963,
+      "dialogue_text": "What's happening? I'm getting weak."
+    },
+    {
+      "subtitle_index": 745,
+      "start_time": 4847.038,
+      "end_time": 4851.298,
+      "duration": 4.260000000000218,
+      "dialogue_text": "Coming here was another of your blunders, Sparrowhawk."
+    },
+    {
+      "subtitle_index": 746,
+      "start_time": 4851.47,
+      "end_time": 4854.197,
+      "duration": 2.7269999999998618,
+      "dialogue_text": "Your powers are useless in this place."
+    },
+    {
+      "subtitle_index": 747,
+      "start_time": 4854.537,
+      "end_time": 4858.468,
+      "duration": 3.9309999999995853,
+      "dialogue_text": "Hare! Put him in the dungeon with the woman."
+    },
+    {
+      "subtitle_index": 748,
+      "start_time": 4858.602,
+      "end_time": 4860.464,
+      "duration": 1.86200000000008,
+      "dialogue_text": "I'll finish them tomorrow..."
+    },
+    {
+      "subtitle_index": 749,
+      "start_time": 4860.968,
+      "end_time": 4864.161,
+      "duration": 3.193000000000211,
+      "dialogue_text": "...in the most painful and humiliating way."
+    },
+    {
+      "subtitle_index": 750,
+      "start_time": 4864.867,
+      "end_time": 4866.06,
+      "duration": 1.193000000000211,
+      "dialogue_text": "Yes, my lord."
+    },
+    {
+      "subtitle_index": 751,
+      "start_time": 4866.3,
+      "end_time": 4868.731,
+      "duration": 2.4309999999995853,
+      "dialogue_text": "On your feet, chickenhawk!"
+    },
+    {
+      "subtitle_index": 752,
+      "start_time": 4892.228,
+      "end_time": 4893.091,
+      "duration": 0.8630000000002838,
+      "dialogue_text": "Sparrowhawk!"
+    },
+    {
+      "subtitle_index": 753,
+      "start_time": 4893.529,
+      "end_time": 4897.221,
+      "duration": 3.691999999999098,
+      "dialogue_text": "Sparrowhawk! Are you all right? Sparrowhawk!"
+    },
+    {
+      "subtitle_index": 754,
+      "start_time": 4897.594,
+      "end_time": 4899.287,
+      "duration": 1.693000000000211,
+      "dialogue_text": "It'll all be over tomorrow."
+    },
+    {
+      "subtitle_index": 755,
+      "start_time": 4899.394,
+      "end_time": 4902.791,
+      "duration": 3.3969999999999345,
+      "dialogue_text": "Say your goodbyes while you still have time!"
+    },
+    {
+      "subtitle_index": 756,
+      "start_time": 4913.657,
+      "end_time": 4915.85,
+      "duration": 2.193000000000211,
+      "dialogue_text": "Sparrowhawk! Sparrowhawk!"
+    },
+    {
+      "subtitle_index": 757,
+      "start_time": 4916.724,
+      "end_time": 4918.053,
+      "duration": 1.3289999999997235,
+      "dialogue_text": "Tenar..."
+    },
+    {
+      "subtitle_index": 758,
+      "start_time": 4918.157,
+      "end_time": 4921.884,
+      "duration": 3.7269999999998618,
+      "dialogue_text": "How did they do this? You're the Archmage!"
+    },
+    {
+      "subtitle_index": 759,
+      "start_time": 4922.789,
+      "end_time": 4926.515,
+      "duration": 3.7260000000005675,
+      "dialogue_text": "I'm sorry, Tenar. I keep getting you into trouble."
+    },
+    {
+      "subtitle_index": 760,
+      "start_time": 4926.755,
+      "end_time": 4929.05,
+      "duration": 2.2950000000000728,
+      "dialogue_text": "Stop talking nonsense!"
+    },
+    {
+      "subtitle_index": 761,
+      "start_time": 4946.251,
+      "end_time": 4948.114,
+      "duration": 1.8629999999993743,
+      "dialogue_text": "Which way should I go?"
+    },
+    {
+      "subtitle_index": 762,
+      "start_time": 4954.716,
+      "end_time": 4955.841,
+      "duration": 1.125,
+      "dialogue_text": "Arren?"
+    },
+    {
+      "subtitle_index": 763,
+      "start_time": 4962.014,
+      "end_time": 4963.241,
+      "duration": 1.2269999999998618,
+      "dialogue_text": "Arren! Wait!"
+    },
+    {
+      "subtitle_index": 764,
+      "start_time": 4964.281,
+      "end_time": 4968.735,
+      "duration": 4.4539999999997235,
+      "dialogue_text": "Arren! Cob's men came and took Tenar away!"
+    },
+    {
+      "subtitle_index": 765,
+      "start_time": 4979.278,
+      "end_time": 4980.402,
+      "duration": 1.1239999999997963,
+      "dialogue_text": "I have your sword!"
+    },
+    {
+      "subtitle_index": 766,
+      "start_time": 4980.511,
+      "end_time": 4983.67,
+      "duration": 3.1589999999996508,
+      "dialogue_text": "Sparrowhawk said to give it to you!"
+    },
+    {
+      "subtitle_index": 767,
+      "start_time": 4990.942,
+      "end_time": 4992.498,
+      "duration": 1.5559999999995853,
+      "dialogue_text": "Follow you?"
+    },
+    {
+      "subtitle_index": 768,
+      "start_time": 5032.666,
+      "end_time": 5036.029,
+      "duration": 3.3630000000002838,
+      "dialogue_text": "Tenar is a prisoner here."
+    },
+    {
+      "subtitle_index": 769,
+      "start_time": 5036.133,
+      "end_time": 5037.429,
+      "duration": 1.2960000000002765,
+      "dialogue_text": "Sparrowhawk too."
+    },
+    {
+      "subtitle_index": 770,
+      "start_time": 5038.366,
+      "end_time": 5039.888,
+      "duration": 1.5219999999999345,
+      "dialogue_text": "Even Sparrowhawk."
+    },
+    {
+      "subtitle_index": 771,
+      "start_time": 5040.298,
+      "end_time": 5044.162,
+      "duration": 3.8640000000004875,
+      "dialogue_text": "This is yours, isn't it? Sparrowhawk brought it for you."
+    },
+    {
+      "subtitle_index": 772,
+      "start_time": 5045.598,
+      "end_time": 5048.654,
+      "duration": 3.0560000000004948,
+      "dialogue_text": "We've got to hurry. They need our help!"
+    },
+    {
+      "subtitle_index": 773,
+      "start_time": 5050.13,
+      "end_time": 5054.187,
+      "duration": 4.056999999999789,
+      "dialogue_text": "I can go no further. You must go alone."
+    },
+    {
+      "subtitle_index": 774,
+      "start_time": 5054.929,
+      "end_time": 5057.951,
+      "duration": 3.0219999999999345,
+      "dialogue_text": "Bring me that sword."
+    },
+    {
+      "subtitle_index": 775,
+      "start_time": 5058.761,
+      "end_time": 5060.386,
+      "duration": 1.625,
+      "dialogue_text": "I know you can do it."
+    },
+    {
+      "subtitle_index": 776,
+      "start_time": 5061.595,
+      "end_time": 5064.89,
+      "duration": 3.2950000000000728,
+      "dialogue_text": "What do you mean? You're right here."
+    },
+    {
+      "subtitle_index": 777,
+      "start_time": 5065.627,
+      "end_time": 5067.615,
+      "duration": 1.9879999999993743,
+      "dialogue_text": "I'm not here."
+    },
+    {
+      "subtitle_index": 778,
+      "start_time": 5068.593,
+      "end_time": 5071.388,
+      "duration": 2.7950000000000728,
+      "dialogue_text": "Cob is holding me against my will."
+    },
+    {
+      "subtitle_index": 779,
+      "start_time": 5071.925,
+      "end_time": 5073.982,
+      "duration": 2.056999999999789,
+      "dialogue_text": "Then who are you?"
+    },
+    {
+      "subtitle_index": 780,
+      "start_time": 5074.492,
+      "end_time": 5076.583,
+      "duration": 2.0909999999994398,
+      "dialogue_text": "Stay away! Get back!"
+    },
+    {
+      "subtitle_index": 781,
+      "start_time": 5077.891,
+      "end_time": 5079.152,
+      "duration": 1.261000000000422,
+      "dialogue_text": "Don't come closer!"
+    },
+    {
+      "subtitle_index": 782,
+      "start_time": 5085.289,
+      "end_time": 5088.05,
+      "duration": 2.761000000000422,
+      "dialogue_text": "Arren's heart was always full of fear."
+    },
+    {
+      "subtitle_index": 783,
+      "start_time": 5088.356,
+      "end_time": 5092.151,
+      "duration": 3.7950000000000728,
+      "dialogue_text": "The fear filled his heart with darkness."
+    },
+    {
+      "subtitle_index": 784,
+      "start_time": 5093.521,
+      "end_time": 5095.146,
+      "duration": 1.625,
+      "dialogue_text": "Fear of what?"
+    },
+    {
+      "subtitle_index": 785,
+      "start_time": 5095.821,
+      "end_time": 5099.684,
+      "duration": 3.8630000000002838,
+      "dialogue_text": "The darkness stole his body and ran away with it."
+    },
+    {
+      "subtitle_index": 786,
+      "start_time": 5100.053,
+      "end_time": 5102.883,
+      "duration": 2.8299999999999272,
+      "dialogue_text": "But it left something important behind."
+    },
+    {
+      "subtitle_index": 787,
+      "start_time": 5108.852,
+      "end_time": 5112.84,
+      "duration": 3.9880000000002838,
+      "dialogue_text": "Wherever there is darkness, there also you will find light."
+    },
+    {
+      "subtitle_index": 788,
+      "start_time": 5112.951,
+      "end_time": 5115.382,
+      "duration": 2.4309999999995853,
+      "dialogue_text": "Now the light that was left behind..."
+    },
+    {
+      "subtitle_index": 789,
+      "start_time": 5115.817,
+      "end_time": 5118.009,
+      "duration": 2.1920000000000073,
+      "dialogue_text": "...wanders alone, like a shadow."
+    },
+    {
+      "subtitle_index": 790,
+      "start_time": 5118.783,
+      "end_time": 5119.942,
+      "duration": 1.1589999999996508,
+      "dialogue_text": "A shadow?"
+    },
+    {
+      "subtitle_index": 791,
+      "start_time": 5121.282,
+      "end_time": 5126.872,
+      "duration": 5.5900000000001455,
+      "dialogue_text": "What you see now is just a shadow chasing its body."
+    },
+    {
+      "subtitle_index": 792,
+      "start_time": 5134.413,
+      "end_time": 5135.504,
+      "duration": 1.0910000000003492,
+      "dialogue_text": "Father..."
+    },
+    {
+      "subtitle_index": 793,
+      "start_time": 5138.146,
+      "end_time": 5140.134,
+      "duration": 1.9880000000002838,
+      "dialogue_text": "You are Arren, aren't you?"
+    },
+    {
+      "subtitle_index": 794,
+      "start_time": 5142.312,
+      "end_time": 5145.675,
+      "duration": 3.3630000000002838,
+      "dialogue_text": "Don't worry. I'll be with you."
+    },
+    {
+      "subtitle_index": 795,
+      "start_time": 5147.443,
+      "end_time": 5149.272,
+      "duration": 1.8289999999997235,
+      "dialogue_text": "I'll give you my True Name."
+    },
+    {
+      "subtitle_index": 796,
+      "start_time": 5150.076,
+      "end_time": 5154.77,
+      "duration": 4.694000000000415,
+      "dialogue_text": "My True Name is Lebannen... Lebannen."
+    },
+    {
+      "subtitle_index": 797,
+      "start_time": 5156.542,
+      "end_time": 5158.007,
+      "duration": 1.464999999999236,
+      "dialogue_text": "Lebannen..."
+    },
+    {
+      "subtitle_index": 798,
+      "start_time": 5231.56,
+      "end_time": 5232.787,
+      "duration": 1.2269999999998618,
+      "dialogue_text": "It's him."
+    },
+    {
+      "subtitle_index": 799,
+      "start_time": 5236.426,
+      "end_time": 5239.448,
+      "duration": 3.0219999999999345,
+      "dialogue_text": "He should be ashamed to call himself Archmage!"
+    },
+    {
+      "subtitle_index": 800,
+      "start_time": 5239.559,
+      "end_time": 5242.854,
+      "duration": 3.2950000000000728,
+      "dialogue_text": "Remember who he was up against."
+    },
+    {
+      "subtitle_index": 801,
+      "start_time": 5242.958,
+      "end_time": 5245.15,
+      "duration": 2.1920000000000073,
+      "dialogue_text": "No wizard in Earthsea is a match for Lord Cob!"
+    },
+    {
+      "subtitle_index": 802,
+      "start_time": 5245.257,
+      "end_time": 5246.745,
+      "duration": 1.4880000000002838,
+      "dialogue_text": "Well spoken!"
+    },
+    {
+      "subtitle_index": 803,
+      "start_time": 5248.89,
+      "end_time": 5252.185,
+      "duration": 3.2950000000000728,
+      "dialogue_text": "By the way, what's our little friend up to?"
+    },
+    {
+      "subtitle_index": 804,
+      "start_time": 5252.289,
+      "end_time": 5254.777,
+      "duration": 2.4880000000002838,
+      "dialogue_text": "He shut himself in his room."
+    },
+    {
+      "subtitle_index": 805,
+      "start_time": 5255.788,
+      "end_time": 5257.777,
+      "duration": 1.9890000000004875,
+      "dialogue_text": "Arren's really here!"
+    },
+    {
+      "subtitle_index": 806,
+      "start_time": 5258.288,
+      "end_time": 5260.845,
+      "duration": 2.5570000000006985,
+      "dialogue_text": "He's a lucky one, that boy."
+    },
+    {
+      "subtitle_index": 807,
+      "start_time": 5260.954,
+      "end_time": 5265.715,
+      "duration": 4.761000000000422,
+      "dialogue_text": "It's just like Lord Cob to steal the wizard's apprentice."
+    },
+    {
+      "subtitle_index": 808,
+      "start_time": 5265.82,
+      "end_time": 5268.786,
+      "duration": 2.9660000000003492,
+      "dialogue_text": "He's not much use though, is he?"
+    },
+    {
+      "subtitle_index": 809,
+      "start_time": 5269.286,
+      "end_time": 5270.582,
+      "duration": 1.2960000000002765,
+      "dialogue_text": "None at all."
+    },
+    {
+      "subtitle_index": 810,
+      "start_time": 5270.685,
+      "end_time": 5274.515,
+      "duration": 3.8299999999999272,
+      "dialogue_text": "When we're through with the wizard, we'll sell the boy!"
+    },
+    {
+      "subtitle_index": 811,
+      "start_time": 5284.049,
+      "end_time": 5286.981,
+      "duration": 2.931999999999789,
+      "dialogue_text": "All right! Go get Sparrowhawk and his woman."
+    },
+    {
+      "subtitle_index": 812,
+      "start_time": 5287.083,
+      "end_time": 5290.98,
+      "duration": 3.8969999999999345,
+      "dialogue_text": "The Archmage's time has finally run out!"
+    },
+    {
+      "subtitle_index": 813,
+      "start_time": 5293.047,
+      "end_time": 5294.979,
+      "duration": 1.9320000000006985,
+      "dialogue_text": "They're going to kill them."
+    },
+    {
+      "subtitle_index": 814,
+      "start_time": 5371.099,
+      "end_time": 5372.066,
+      "duration": 0.9669999999996435,
+      "dialogue_text": "Arren!"
+    },
+    {
+      "subtitle_index": 815,
+      "start_time": 5373.732,
+      "end_time": 5374.89,
+      "duration": 1.1580000000003565,
+      "dialogue_text": "Arren?"
+    },
+    {
+      "subtitle_index": 816,
+      "start_time": 5377.364,
+      "end_time": 5381.057,
+      "duration": 3.693000000000211,
+      "dialogue_text": "What are you doing here? Did they kidnap you too?"
+    },
+    {
+      "subtitle_index": 817,
+      "start_time": 5389.861,
+      "end_time": 5392.452,
+      "duration": 2.5910000000003492,
+      "dialogue_text": "Here. This belongs to you."
+    },
+    {
+      "subtitle_index": 818,
+      "start_time": 5393.194,
+      "end_time": 5396.126,
+      "duration": 2.931999999999789,
+      "dialogue_text": "I'm not worthy to hold my father's sword."
+    },
+    {
+      "subtitle_index": 819,
+      "start_time": 5397.794,
+      "end_time": 5400.588,
+      "duration": 2.793999999999869,
+      "dialogue_text": "Arren, they've got Tenar and Sparrowhawk."
+    },
+    {
+      "subtitle_index": 820,
+      "start_time": 5400.692,
+      "end_time": 5402.385,
+      "duration": 1.693000000000211,
+      "dialogue_text": "They're going to kill them."
+    },
+    {
+      "subtitle_index": 821,
+      "start_time": 5402.492,
+      "end_time": 5405.48,
+      "duration": 2.9879999999993743,
+      "dialogue_text": "Please! Help them like you helped me!"
+    },
+    {
+      "subtitle_index": 822,
+      "start_time": 5406.725,
+      "end_time": 5408.19,
+      "duration": 1.464999999999236,
+      "dialogue_text": "I can't help anyone."
+    },
+    {
+      "subtitle_index": 823,
+      "start_time": 5408.358,
+      "end_time": 5411.448,
+      "duration": 3.0900000000001455,
+      "dialogue_text": "All I can do is fail."
+    },
+    {
+      "subtitle_index": 824,
+      "start_time": 5411.557,
+      "end_time": 5413.523,
+      "duration": 1.9660000000003492,
+      "dialogue_text": "What's wrong with you?"
+    },
+    {
+      "subtitle_index": 825,
+      "start_time": 5413.624,
+      "end_time": 5416.384,
+      "duration": 2.7600000000002183,
+      "dialogue_text": "They'll die if we don't do something!"
+    },
+    {
+      "subtitle_index": 826,
+      "start_time": 5420.855,
+      "end_time": 5424.252,
+      "duration": 3.397000000000844,
+      "dialogue_text": "They'll die! We'll lose both of them!"
+    },
+    {
+      "subtitle_index": 827,
+      "start_time": 5433.52,
+      "end_time": 5437.11,
+      "duration": 3.589999999999236,
+      "dialogue_text": "We'll lose the most important thing in the world."
+    },
+    {
+      "subtitle_index": 828,
+      "start_time": 5441.151,
+      "end_time": 5442.378,
+      "duration": 1.2269999999998618,
+      "dialogue_text": "Therru?"
+    },
+    {
+      "subtitle_index": 829,
+      "start_time": 5445.683,
+      "end_time": 5448.205,
+      "duration": 2.5219999999999345,
+      "dialogue_text": "What's the most important thing?"
+    },
+    {
+      "subtitle_index": 830,
+      "start_time": 5451.949,
+      "end_time": 5454.21,
+      "duration": 2.261000000000422,
+      "dialogue_text": "Life is the most important thing!"
+    },
+    {
+      "subtitle_index": 831,
+      "start_time": 5455.282,
+      "end_time": 5459.906,
+      "duration": 4.623999999999796,
+      "dialogue_text": "We'll all die someday. What does it matter?"
+    },
+    {
+      "subtitle_index": 832,
+      "start_time": 5460.48,
+      "end_time": 5465.571,
+      "duration": 5.091000000000349,
+      "dialogue_text": "Why fight for life? We know it's going to end anyway."
+    },
+    {
+      "subtitle_index": 833,
+      "start_time": 5465.88,
+      "end_time": 5469.641,
+      "duration": 3.7609999999995125,
+      "dialogue_text": "No! Life is precious because we know we're going to die!"
+    },
+    {
+      "subtitle_index": 834,
+      "start_time": 5469.745,
+      "end_time": 5474.302,
+      "duration": 4.556999999999789,
+      "dialogue_text": "You're not afraid of death. You're afraid of life!"
+    },
+    {
+      "subtitle_index": 835,
+      "start_time": 5474.744,
+      "end_time": 5477.642,
+      "duration": 2.8980000000001382,
+      "dialogue_text": "You want to live forever, then you say nothing matters."
+    },
+    {
+      "subtitle_index": 836,
+      "start_time": 5477.744,
+      "end_time": 5479.902,
+      "duration": 2.1580000000003565,
+      "dialogue_text": "It's the same thing!"
+    },
+    {
+      "subtitle_index": 837,
+      "start_time": 5480.01,
+      "end_time": 5483.032,
+      "duration": 3.0219999999999345,
+      "dialogue_text": "You're afraid to live the only life you have!"
+    },
+    {
+      "subtitle_index": 838,
+      "start_time": 5484.009,
+      "end_time": 5485.304,
+      "duration": 1.2950000000000728,
+      "dialogue_text": "Therru..."
+    },
+    {
+      "subtitle_index": 839,
+      "start_time": 5485.609,
+      "end_time": 5487.938,
+      "duration": 2.3289999999997235,
+      "dialogue_text": "You think your life belongs to you?"
+    },
+    {
+      "subtitle_index": 840,
+      "start_time": 5491.174,
+      "end_time": 5494.571,
+      "duration": 3.3969999999999345,
+      "dialogue_text": "Tenar gave me life. That's why I have to live..."
+    },
+    {
+      "subtitle_index": 841,
+      "start_time": 5494.673,
+      "end_time": 5497.696,
+      "duration": 3.0230000000001382,
+      "dialogue_text": "...to give life to someone else."
+    },
+    {
+      "subtitle_index": 842,
+      "start_time": 5501.439,
+      "end_time": 5502.87,
+      "duration": 1.4309999999995853,
+      "dialogue_text": "Lebannen..."
+    },
+    {
+      "subtitle_index": 843,
+      "start_time": 5504.139,
+      "end_time": 5507.195,
+      "duration": 3.0559999999995853,
+      "dialogue_text": "That's the only way we live forever."
+    },
+    {
+      "subtitle_index": 844,
+      "start_time": 5521.934,
+      "end_time": 5525.094,
+      "duration": 3.1599999999998545,
+      "dialogue_text": "Therru... how did you know my True Name?"
+    },
+    {
+      "subtitle_index": 845,
+      "start_time": 5525.601,
+      "end_time": 5527.567,
+      "duration": 1.9660000000003492,
+      "dialogue_text": "You told me yourself."
+    },
+    {
+      "subtitle_index": 846,
+      "start_time": 5530.566,
+      "end_time": 5534.895,
+      "duration": 4.329000000000633,
+      "dialogue_text": "Now I'll tell you mine. My True Name is..."
+    },
+    {
+      "subtitle_index": 847,
+      "start_time": 5535.066,
+      "end_time": 5538.031,
+      "duration": 2.9650000000001455,
+      "dialogue_text": "Tehanu... it's Tehanu."
+    },
+    {
+      "subtitle_index": 848,
+      "start_time": 5538.931,
+      "end_time": 5540.521,
+      "duration": 1.5900000000001455,
+      "dialogue_text": "Tehanu..."
+    },
+    {
+      "subtitle_index": 849,
+      "start_time": 5563.593,
+      "end_time": 5565.491,
+      "duration": 1.8980000000001382,
+      "dialogue_text": "It'll be dawn soon."
+    },
+    {
+      "subtitle_index": 850,
+      "start_time": 5566.026,
+      "end_time": 5569.049,
+      "duration": 3.0230000000001382,
+      "dialogue_text": "Come on, Therru. We've got to help them!"
+    },
+    {
+      "subtitle_index": 851,
+      "start_time": 5579.19,
+      "end_time": 5580.087,
+      "duration": 0.897000000000844,
+      "dialogue_text": "Arren, wait!"
+    },
+    {
+      "subtitle_index": 852,
+      "start_time": 5581.123,
+      "end_time": 5581.952,
+      "duration": 0.829000000000633,
+      "dialogue_text": "What is it?"
+    },
+    {
+      "subtitle_index": 853,
+      "start_time": 5582.056,
+      "end_time": 5583.022,
+      "duration": 0.9660000000003492,
+      "dialogue_text": "There!"
+    },
+    {
+      "subtitle_index": 854,
+      "start_time": 5588.654,
+      "end_time": 5590.586,
+      "duration": 1.931999999999789,
+      "dialogue_text": "It's Sparrowhawk and Tenar!"
+    },
+    {
+      "subtitle_index": 855,
+      "start_time": 5591.421,
+      "end_time": 5592.512,
+      "duration": 1.0909999999994398,
+      "dialogue_text": "Come on!"
+    },
+    {
+      "subtitle_index": 856,
+      "start_time": 5596.919,
+      "end_time": 5598.01,
+      "duration": 1.0910000000003492,
+      "dialogue_text": "Jump!"
+    },
+    {
+      "subtitle_index": 857,
+      "start_time": 5598.619,
+      "end_time": 5600.608,
+      "duration": 1.9890000000004875,
+      "dialogue_text": "I can't! It's too far!"
+    },
+    {
+      "subtitle_index": 858,
+      "start_time": 5600.719,
+      "end_time": 5602.581,
+      "duration": 1.86200000000008,
+      "dialogue_text": "Don't worry! You can do it!"
+    },
+    {
+      "subtitle_index": 859,
+      "start_time": 5609.751,
+      "end_time": 5610.876,
+      "duration": 1.125,
+      "dialogue_text": "Let's go!"
+    },
+    {
+      "subtitle_index": 860,
+      "start_time": 5638.778,
+      "end_time": 5640.073,
+      "duration": 1.2950000000000728,
+      "dialogue_text": "Sparrowhawk!"
+    },
+    {
+      "subtitle_index": 861,
+      "start_time": 5641.011,
+      "end_time": 5644.0,
+      "duration": 2.988999999999578,
+      "dialogue_text": "Time to say goodbye, Sparrowhawk."
+    },
+    {
+      "subtitle_index": 862,
+      "start_time": 5644.543,
+      "end_time": 5647.804,
+      "duration": 3.261000000000422,
+      "dialogue_text": "Your lover is going on a journey."
+    },
+    {
+      "subtitle_index": 863,
+      "start_time": 5647.909,
+      "end_time": 5650.397,
+      "duration": 2.4880000000002838,
+      "dialogue_text": "Why don't you send him off yourself?"
+    },
+    {
+      "subtitle_index": 864,
+      "start_time": 5656.108,
+      "end_time": 5659.437,
+      "duration": 3.3289999999997235,
+      "dialogue_text": "Don't worry, Sparrowhawk."
+    },
+    {
+      "subtitle_index": 865,
+      "start_time": 5659.674,
+      "end_time": 5662.537,
+      "duration": 2.8630000000002838,
+      "dialogue_text": "This world will be in good hands after you're gone."
+    },
+    {
+      "subtitle_index": 866,
+      "start_time": 5663.706,
+      "end_time": 5666.865,
+      "duration": 3.1589999999996508,
+      "dialogue_text": "What can I do, Sparrowhawk?"
+    },
+    {
+      "subtitle_index": 867,
+      "start_time": 5667.705,
+      "end_time": 5668.534,
+      "duration": 0.8289999999997235,
+      "dialogue_text": "Tenar."
+    },
+    {
+      "subtitle_index": 868,
+      "start_time": 5669.338,
+      "end_time": 5673.531,
+      "duration": 4.193000000000211,
+      "dialogue_text": "It's not over yet. The sun will rise soon."
+    },
+    {
+      "subtitle_index": 869,
+      "start_time": 5675.237,
+      "end_time": 5676.759,
+      "duration": 1.5219999999999345,
+      "dialogue_text": "What do you mean?"
+    },
+    {
+      "subtitle_index": 870,
+      "start_time": 5678.07,
+      "end_time": 5683.092,
+      "duration": 5.0219999999999345,
+      "dialogue_text": "Don't you hear it, Tenar? Help is almost here."
+    },
+    {
+      "subtitle_index": 871,
+      "start_time": 5686.701,
+      "end_time": 5689.394,
+      "duration": 2.693000000000211,
+      "dialogue_text": "That's enough time for goodbyes."
+    },
+    {
+      "subtitle_index": 872,
+      "start_time": 5689.534,
+      "end_time": 5691.897,
+      "duration": 2.3630000000002838,
+      "dialogue_text": "Do it! Finish him!"
+    },
+    {
+      "subtitle_index": 873,
+      "start_time": 5692.001,
+      "end_time": 5693.228,
+      "duration": 1.2269999999998618,
+      "dialogue_text": "No!"
+    },
+    {
+      "subtitle_index": 874,
+      "start_time": 5696.833,
+      "end_time": 5698.355,
+      "duration": 1.5219999999999345,
+      "dialogue_text": "Let them go!"
+    },
+    {
+      "subtitle_index": 875,
+      "start_time": 5699.165,
+      "end_time": 5700.131,
+      "duration": 0.9660000000003492,
+      "dialogue_text": "It's you!"
+    },
+    {
+      "subtitle_index": 876,
+      "start_time": 5700.232,
+      "end_time": 5701.697,
+      "duration": 1.4650000000001455,
+      "dialogue_text": "Arren! Therru!"
+    },
+    {
+      "subtitle_index": 877,
+      "start_time": 5702.099,
+      "end_time": 5704.428,
+      "duration": 2.3289999999997235,
+      "dialogue_text": "Stay out of this, boy!"
+    },
+    {
+      "subtitle_index": 878,
+      "start_time": 5705.531,
+      "end_time": 5707.894,
+      "duration": 2.3630000000002838,
+      "dialogue_text": "Don't show him any mercy!"
+    },
+    {
+      "subtitle_index": 879,
+      "start_time": 5708.497,
+      "end_time": 5709.724,
+      "duration": 1.2269999999998618,
+      "dialogue_text": "Get back!"
+    },
+    {
+      "subtitle_index": 880,
+      "start_time": 5715.029,
+      "end_time": 5716.256,
+      "duration": 1.2269999999998618,
+      "dialogue_text": "Take him!"
+    },
+    {
+      "subtitle_index": 881,
+      "start_time": 5728.226,
+      "end_time": 5730.089,
+      "duration": 1.8630000000002838,
+      "dialogue_text": "Please don't hurt me!"
+    },
+    {
+      "subtitle_index": 882,
+      "start_time": 5730.993,
+      "end_time": 5732.686,
+      "duration": 1.6929999999993015,
+      "dialogue_text": "I'm disappointed."
+    },
+    {
+      "subtitle_index": 883,
+      "start_time": 5733.093,
+      "end_time": 5736.081,
+      "duration": 2.9880000000002838,
+      "dialogue_text": "I thought you and I had an understanding."
+    },
+    {
+      "subtitle_index": 884,
+      "start_time": 5736.624,
+      "end_time": 5740.078,
+      "duration": 3.454000000000633,
+      "dialogue_text": "Silence! You don't control me any more."
+    },
+    {
+      "subtitle_index": 885,
+      "start_time": 5740.524,
+      "end_time": 5744.887,
+      "duration": 4.362999999999374,
+      "dialogue_text": "Then you shall see the face of death, Lebannen!"
+    },
+    {
+      "subtitle_index": 886,
+      "start_time": 5751.122,
+      "end_time": 5752.553,
+      "duration": 1.4309999999995853,
+      "dialogue_text": "A summoning spell!"
+    },
+    {
+      "subtitle_index": 887,
+      "start_time": 5758.054,
+      "end_time": 5758.712,
+      "duration": 0.6580000000003565,
+      "dialogue_text": "Arren!"
+    },
+    {
+      "subtitle_index": 888,
+      "start_time": 5758.821,
+      "end_time": 5760.252,
+      "duration": 1.4310000000004948,
+      "dialogue_text": "Stay back!"
+    },
+    {
+      "subtitle_index": 889,
+      "start_time": 5761.987,
+      "end_time": 5763.509,
+      "duration": 1.5219999999999345,
+      "dialogue_text": "Now die!"
+    },
+    {
+      "subtitle_index": 890,
+      "start_time": 5783.682,
+      "end_time": 5786.375,
+      "duration": 2.693000000000211,
+      "dialogue_text": "Please! Let me draw it."
+    },
+    {
+      "subtitle_index": 891,
+      "start_time": 5787.215,
+      "end_time": 5789.009,
+      "duration": 1.793999999999869,
+      "dialogue_text": "For Life!"
+    },
+    {
+      "subtitle_index": 892,
+      "start_time": 5826.606,
+      "end_time": 5830.038,
+      "duration": 3.431999999999789,
+      "dialogue_text": "That sword was forged with magic!"
+    },
+    {
+      "subtitle_index": 893,
+      "start_time": 5853.768,
+      "end_time": 5855.427,
+      "duration": 1.6589999999996508,
+      "dialogue_text": "He's an old man!"
+    },
+    {
+      "subtitle_index": 894,
+      "start_time": 5856.034,
+      "end_time": 5858.226,
+      "duration": 2.1920000000000073,
+      "dialogue_text": "Disguised by sorcery."
+    },
+    {
+      "subtitle_index": 895,
+      "start_time": 5858.467,
+      "end_time": 5860.489,
+      "duration": 2.0219999999999345,
+      "dialogue_text": "Lord Cob!"
+    },
+    {
+      "subtitle_index": 896,
+      "start_time": 5863.499,
+      "end_time": 5865.555,
+      "duration": 2.0560000000004948,
+      "dialogue_text": "You can't stop me."
+    },
+    {
+      "subtitle_index": 897,
+      "start_time": 5865.932,
+      "end_time": 5868.727,
+      "duration": 2.7950000000000728,
+      "dialogue_text": "I will never accept death."
+    },
+    {
+      "subtitle_index": 898,
+      "start_time": 5870.332,
+      "end_time": 5872.854,
+      "duration": 2.5219999999999345,
+      "dialogue_text": "Wizards shouldn't fear death!"
+    },
+    {
+      "subtitle_index": 899,
+      "start_time": 5873.464,
+      "end_time": 5875.362,
+      "duration": 1.8980000000001382,
+      "dialogue_text": "You wretched girl!"
+    },
+    {
+      "subtitle_index": 900,
+      "start_time": 5876.363,
+      "end_time": 5877.988,
+      "duration": 1.625,
+      "dialogue_text": "I'm not like you!"
+    },
+    {
+      "subtitle_index": 901,
+      "start_time": 5878.096,
+      "end_time": 5880.857,
+      "duration": 2.761000000000422,
+      "dialogue_text": "I'm better than you. Insignificant worms!"
+    },
+    {
+      "subtitle_index": 902,
+      "start_time": 5881.462,
+      "end_time": 5883.859,
+      "duration": 2.3969999999999345,
+      "dialogue_text": "I studied the wisdom of the ages!"
+    },
+    {
+      "subtitle_index": 903,
+      "start_time": 5883.962,
+      "end_time": 5887.485,
+      "duration": 3.5229999999992287,
+      "dialogue_text": "I wield power! I am almighty!"
+    },
+    {
+      "subtitle_index": 904,
+      "start_time": 5889.794,
+      "end_time": 5893.816,
+      "duration": 4.0219999999999345,
+      "dialogue_text": "Scorned as a fool by the wizards of Roke."
+    },
+    {
+      "subtitle_index": 905,
+      "start_time": 5893.993,
+      "end_time": 5896.016,
+      "duration": 2.0229999999992287,
+      "dialogue_text": "Driven out like a dog!"
+    },
+    {
+      "subtitle_index": 906,
+      "start_time": 5897.992,
+      "end_time": 5902.151,
+      "duration": 4.158999999999651,
+      "dialogue_text": "But I'll have my revenge. I will never die."
+    },
+    {
+      "subtitle_index": 907,
+      "start_time": 5902.258,
+      "end_time": 5905.519,
+      "duration": 3.261000000000422,
+      "dialogue_text": "I'll be the supreme Archmage!"
+    },
+    {
+      "subtitle_index": 908,
+      "start_time": 5920.788,
+      "end_time": 5921.845,
+      "duration": 1.0570000000006985,
+      "dialogue_text": "Therru!"
+    },
+    {
+      "subtitle_index": 909,
+      "start_time": 5954.381,
+      "end_time": 5955.903,
+      "duration": 1.5219999999999345,
+      "dialogue_text": "Therru!"
+    },
+    {
+      "subtitle_index": 910,
+      "start_time": 5964.079,
+      "end_time": 5966.544,
+      "duration": 2.4650000000001455,
+      "dialogue_text": "That little fool!"
+    },
+    {
+      "subtitle_index": 911,
+      "start_time": 5966.645,
+      "end_time": 5971.338,
+      "duration": 4.6929999999993015,
+      "dialogue_text": "Hear me, stones. I unbind you!"
+    },
+    {
+      "subtitle_index": 912,
+      "start_time": 6021.834,
+      "end_time": 6023.924,
+      "duration": 2.0900000000001455,
+      "dialogue_text": "Sunrise..."
+    },
+    {
+      "subtitle_index": 913,
+      "start_time": 6026.933,
+      "end_time": 6028.126,
+      "duration": 1.193000000000211,
+      "dialogue_text": "Let me go!"
+    },
+    {
+      "subtitle_index": 914,
+      "start_time": 6032.565,
+      "end_time": 6033.86,
+      "duration": 1.2950000000000728,
+      "dialogue_text": "Does it hurt, girl?"
+    },
+    {
+      "subtitle_index": 915,
+      "start_time": 6033.965,
+      "end_time": 6035.09,
+      "duration": 1.125,
+      "dialogue_text": "Cob!"
+    },
+    {
+      "subtitle_index": 916,
+      "start_time": 6037.131,
+      "end_time": 6038.29,
+      "duration": 1.1589999999996508,
+      "dialogue_text": "Let her go!"
+    },
+    {
+      "subtitle_index": 917,
+      "start_time": 6038.764,
+      "end_time": 6040.491,
+      "duration": 1.7269999999998618,
+      "dialogue_text": "Stay back!"
+    },
+    {
+      "subtitle_index": 918,
+      "start_time": 6040.597,
+      "end_time": 6043.926,
+      "duration": 3.329000000000633,
+      "dialogue_text": "Death is terrifying!"
+    },
+    {
+      "subtitle_index": 919,
+      "start_time": 6044.829,
+      "end_time": 6045.852,
+      "duration": 1.0230000000001382,
+      "dialogue_text": "Don't do it!"
+    },
+    {
+      "subtitle_index": 920,
+      "start_time": 6049.461,
+      "end_time": 6052.518,
+      "duration": 3.056999999999789,
+      "dialogue_text": "So terrifying."
+    },
+    {
+      "subtitle_index": 921,
+      "start_time": 6057.227,
+      "end_time": 6058.09,
+      "duration": 0.8630000000002838,
+      "dialogue_text": "Wait!"
+    },
+    {
+      "subtitle_index": 922,
+      "start_time": 6081.322,
+      "end_time": 6085.447,
+      "duration": 4.125,
+      "dialogue_text": "So terrifying... very terrifying..."
+    },
+    {
+      "subtitle_index": 923,
+      "start_time": 6085.922,
+      "end_time": 6089.115,
+      "duration": 3.193000000000211,
+      "dialogue_text": "Cob! You're just like me."
+    },
+    {
+      "subtitle_index": 924,
+      "start_time": 6089.453,
+      "end_time": 6093.01,
+      "duration": 3.556999999999789,
+      "dialogue_text": "You turn away from light and see only darkness!"
+    },
+    {
+      "subtitle_index": 925,
+      "start_time": 6094.986,
+      "end_time": 6096.917,
+      "duration": 1.9310000000004948,
+      "dialogue_text": "No! Keep away!"
+    },
+    {
+      "subtitle_index": 926,
+      "start_time": 6099.252,
+      "end_time": 6102.012,
+      "duration": 2.759999999999309,
+      "dialogue_text": "You forgot that all life is connected."
+    },
+    {
+      "subtitle_index": 927,
+      "start_time": 6102.118,
+      "end_time": 6105.106,
+      "duration": 2.9879999999993743,
+      "dialogue_text": "Life can't be hoarded, it can only be given!"
+    },
+    {
+      "subtitle_index": 928,
+      "start_time": 6105.784,
+      "end_time": 6108.943,
+      "duration": 3.1590000000005602,
+      "dialogue_text": "Deny death, and you deny life!"
+    },
+    {
+      "subtitle_index": 929,
+      "start_time": 6109.449,
+      "end_time": 6112.006,
+      "duration": 2.5570000000006985,
+      "dialogue_text": "No! You're wrong!"
+    },
+    {
+      "subtitle_index": 930,
+      "start_time": 6113.316,
+      "end_time": 6117.111,
+      "duration": 3.7950000000000728,
+      "dialogue_text": "Face the truth, Cob! Everyone fears death!"
+    },
+    {
+      "subtitle_index": 931,
+      "start_time": 6118.614,
+      "end_time": 6122.978,
+      "duration": 4.3640000000004875,
+      "dialogue_text": "No! I don't want to die."
+    },
+    {
+      "subtitle_index": 932,
+      "start_time": 6124.214,
+      "end_time": 6125.11,
+      "duration": 0.8959999999997308,
+      "dialogue_text": "Cob!"
+    },
+    {
+      "subtitle_index": 933,
+      "start_time": 6126.313,
+      "end_time": 6127.438,
+      "duration": 1.125,
+      "dialogue_text": "No!"
+    },
+    {
+      "subtitle_index": 934,
+      "start_time": 6128.479,
+      "end_time": 6129.74,
+      "duration": 1.2609999999995125,
+      "dialogue_text": "Therru!"
+    },
+    {
+      "subtitle_index": 935,
+      "start_time": 6140.777,
+      "end_time": 6143.004,
+      "duration": 2.2269999999998618,
+      "dialogue_text": "Therru... Arren..."
+    },
+    {
+      "subtitle_index": 936,
+      "start_time": 6152.475,
+      "end_time": 6153.701,
+      "duration": 1.225999999999658,
+      "dialogue_text": "Arren!"
+    },
+    {
+      "subtitle_index": 937,
+      "start_time": 6163.972,
+      "end_time": 6166.494,
+      "duration": 2.5219999999999345,
+      "dialogue_text": "Time to die! Time to die!"
+    },
+    {
+      "subtitle_index": 938,
+      "start_time": 6166.605,
+      "end_time": 6167.831,
+      "duration": 1.2260000000005675,
+      "dialogue_text": "Arren!"
+    },
+    {
+      "subtitle_index": 939,
+      "start_time": 6168.638,
+      "end_time": 6171.195,
+      "duration": 2.556999999999789,
+      "dialogue_text": "And you will join him."
+    },
+    {
+      "subtitle_index": 940,
+      "start_time": 6177.336,
+      "end_time": 6179.994,
+      "duration": 2.657999999999447,
+      "dialogue_text": "Let her go! Don't kill her!"
+    },
+    {
+      "subtitle_index": 941,
+      "start_time": 6182.801,
+      "end_time": 6186.789,
+      "duration": 3.9879999999993743,
+      "dialogue_text": "All who oppose me must die!"
+    },
+    {
+      "subtitle_index": 942,
+      "start_time": 6216.528,
+      "end_time": 6220.323,
+      "duration": 3.7950000000000728,
+      "dialogue_text": "She's dead, she's dead. Poor thing."
+    },
+    {
+      "subtitle_index": 943,
+      "start_time": 6231.158,
+      "end_time": 6233.282,
+      "duration": 2.1239999999997963,
+      "dialogue_text": "Sun is rising."
+    },
+    {
+      "subtitle_index": 944,
+      "start_time": 6237.258,
+      "end_time": 6240.28,
+      "duration": 3.0219999999999345,
+      "dialogue_text": "Hurry... must hurry..."
+    },
+    {
+      "subtitle_index": 945,
+      "start_time": 6240.39,
+      "end_time": 6241.878,
+      "duration": 1.4879999999993743,
+      "dialogue_text": "Stop!"
+    },
+    {
+      "subtitle_index": 946,
+      "start_time": 6279.148,
+      "end_time": 6280.444,
+      "duration": 1.2960000000002765,
+      "dialogue_text": "Therru!"
+    },
+    {
+      "subtitle_index": 947,
+      "start_time": 6288.114,
+      "end_time": 6291.909,
+      "duration": 3.7950000000000728,
+      "dialogue_text": "Eternal life!"
+    },
+    {
+      "subtitle_index": 948,
+      "start_time": 6297.378,
+      "end_time": 6299.401,
+      "duration": 2.0230000000001382,
+      "dialogue_text": "Shadow, return to darkness!"
+    },
+    {
+      "subtitle_index": 949,
+      "start_time": 6300.978,
+      "end_time": 6303.307,
+      "duration": 2.3289999999997235,
+      "dialogue_text": "Give me life!"
+    },
+    {
+      "subtitle_index": 950,
+      "start_time": 6309.543,
+      "end_time": 6312.303,
+      "duration": 2.7600000000002183,
+      "dialogue_text": "I want life... life!"
+    },
+    {
+      "subtitle_index": 951,
+      "start_time": 6319.341,
+      "end_time": 6320.806,
+      "duration": 1.464999999999236,
+      "dialogue_text": "Life!"
+    },
+    {
+      "subtitle_index": 952,
+      "start_time": 6326.139,
+      "end_time": 6329.298,
+      "duration": 3.1589999999996508,
+      "dialogue_text": "I want to live!"
+    },
+    {
+      "subtitle_index": 953,
+      "start_time": 6359.566,
+      "end_time": 6362.497,
+      "duration": 2.9310000000004948,
+      "dialogue_text": "Tehanu!"
+    },
+    {
+      "subtitle_index": 954,
+      "start_time": 6405.69,
+      "end_time": 6407.781,
+      "duration": 2.0910000000003492,
+      "dialogue_text": "So you're safe too."
+    },
+    {
+      "subtitle_index": 955,
+      "start_time": 6412.955,
+      "end_time": 6414.387,
+      "duration": 1.431999999999789,
+      "dialogue_text": "What about them?"
+    },
+    {
+      "subtitle_index": 956,
+      "start_time": 6415.355,
+      "end_time": 6419.377,
+      "duration": 4.022000000000844,
+      "dialogue_text": "They'll be fine. They have wings."
+    },
+    {
+      "subtitle_index": 957,
+      "start_time": 6502.737,
+      "end_time": 6505.134,
+      "duration": 2.3969999999999345,
+      "dialogue_text": "Thank you... Therru."
+    },
+    {
+      "subtitle_index": 958,
+      "start_time": 6511.602,
+      "end_time": 6514.59,
+      "duration": 2.9880000000002838,
+      "dialogue_text": "I'm going back to pay for my crime."
+    },
+    {
+      "subtitle_index": 959,
+      "start_time": 6515.568,
+      "end_time": 6517.999,
+      "duration": 2.4309999999995853,
+      "dialogue_text": "And to face myself."
+    },
+    {
+      "subtitle_index": 960,
+      "start_time": 6520.167,
+      "end_time": 6521.291,
+      "duration": 1.1239999999997963,
+      "dialogue_text": "Arren."
+    },
+    {
+      "subtitle_index": 961,
+      "start_time": 6523.266,
+      "end_time": 6526.958,
+      "duration": 3.6920000000000073,
+      "dialogue_text": "Can I come to see you again someday?"
+    },
+    {
+      "subtitle_index": 962,
+      "start_time": 6532.731,
+      "end_time": 6533.718,
+      "duration": 0.98700000000008,
+      "dialogue_text": "Come on."
+    },
+    {
+      "subtitle_index": 963,
+      "start_time": 6534.031,
+      "end_time": 6537.519,
+      "duration": 3.4880000000002838,
+      "dialogue_text": "We have to thank Sparrowhawk and Tenar."
+    },
+    {
+      "subtitle_index": 964,
+      "start_time": 6552.893,
+      "end_time": 6560.256,
+      "duration": 7.363000000000284,
+      "dialogue_text": "The lone hawk in the sky"
+    },
+    {
+      "subtitle_index": 965,
+      "start_time": 6560.492,
+      "end_time": 6568.322,
+      "duration": 7.829999999999927,
+      "dialogue_text": "Struggles against the wind"
+    },
+    {
+      "subtitle_index": 966,
+      "start_time": 6568.557,
+      "end_time": 6580.819,
+      "duration": 12.262000000000626,
+      "dialogue_text": "Here there is only light and darkness He has the sky to himself"
+    },
+    {
+      "subtitle_index": 967,
+      "start_time": 6587.12,
+      "end_time": 6594.415,
+      "duration": 7.295000000000073,
+      "dialogue_text": "You who looked up to the sky and wept"
+    },
+    {
+      "subtitle_index": 968,
+      "start_time": 6594.652,
+      "end_time": 6602.277,
+      "duration": 7.625,
+      "dialogue_text": "You who live alone"
+    },
+    {
+      "subtitle_index": 969,
+      "start_time": 6602.716,
+      "end_time": 6609.773,
+      "duration": 7.056999999999789,
+      "dialogue_text": "Let me hear your True Name"
+    },
+    {
+      "subtitle_index": 970,
+      "start_time": 6610.016,
+      "end_time": 6620.379,
+      "duration": 10.363000000000284,
+      "dialogue_text": "For one day you'll be gone"
+    },
+    {
+      "subtitle_index": 971,
+      "start_time": 6622.28,
+      "end_time": 6629.302,
+      "duration": 7.0219999999999345,
+      "dialogue_text": "As light dissolves into darkness"
+    },
+    {
+      "subtitle_index": 972,
+      "start_time": 6629.912,
+      "end_time": 6637.537,
+      "duration": 7.625,
+      "dialogue_text": "Your song passes straight through my heart"
+    },
+    {
+      "subtitle_index": 973,
+      "start_time": 6638.043,
+      "end_time": 6647.702,
+      "duration": 9.65900000000056,
+      "dialogue_text": "Let me sing it for you"
+    },
+    {
+      "subtitle_index": 974,
+      "start_time": 6657.139,
+      "end_time": 6661.503,
+      "duration": 4.363999999999578,
+      "dialogue_text": "The End"
+    },
+    {
+      "subtitle_index": 975,
+      "start_time": 6667.337,
+      "end_time": 6671.325,
+      "duration": 3.9879999999993743,
+      "dialogue_text": "Voices"
+    },
+    {
+      "subtitle_index": 976,
+      "start_time": 6673.336,
+      "end_time": 6679.324,
+      "duration": 5.987999999999374,
+      "dialogue_text": "Junichi OKADA"
+    },
+    {
+      "subtitle_index": 977,
+      "start_time": 6681.368,
+      "end_time": 6687.357,
+      "duration": 5.988999999999578,
+      "dialogue_text": "Aoi TESHIMA"
+    },
+    {
+      "subtitle_index": 978,
+      "start_time": 6689.399,
+      "end_time": 6695.388,
+      "duration": 5.988999999999578,
+      "dialogue_text": "Yuko TANAKA"
+    },
+    {
+      "subtitle_index": 979,
+      "start_time": 6697.131,
+      "end_time": 6703.12,
+      "duration": 5.988999999999578,
+      "dialogue_text": "Teruyuki KAGAWA"
+    },
+    {
+      "subtitle_index": 980,
+      "start_time": 6705.129,
+      "end_time": 6711.118,
+      "duration": 5.9890000000004875,
+      "dialogue_text": "Jun FUBUKI"
+    },
+    {
+      "subtitle_index": 981,
+      "start_time": 6712.828,
+      "end_time": 6718.817,
+      "duration": 5.988999999999578,
+      "dialogue_text": "Bunta SUGAWARA"
+    },
+    {
+      "subtitle_index": 982,
+      "start_time": 6723.826,
+      "end_time": 6730.814,
+      "duration": 6.988000000000284,
+      "dialogue_text": "Based on the \"Earthsea\" series by Ursula K. LE GUIN"
+    },
+    {
+      "subtitle_index": 983,
+      "start_time": 6732.824,
+      "end_time": 6739.813,
+      "duration": 6.9890000000004875,
+      "dialogue_text": "Inspired by \"Shuna's Journey\" by Hayao MIYAZAKI"
+    },
+    {
+      "subtitle_index": 984,
+      "start_time": 6741.822,
+      "end_time": 6748.811,
+      "duration": 6.988999999999578,
+      "dialogue_text": "Screenplay by Goro MIYAZAKI and Keiko NIWA"
+    },
+    {
+      "subtitle_index": 985,
+      "start_time": 6751.32,
+      "end_time": 6757.309,
+      "duration": 5.9890000000004875,
+      "dialogue_text": "Music by Tamiya TERASHIMA"
+    },
+    {
+      "subtitle_index": 986,
+      "start_time": 6759.318,
+      "end_time": 6765.307,
+      "duration": 5.988999999999578,
+      "dialogue_text": "Theme song performed by Aoi TESHIMA"
+    },
+    {
+      "subtitle_index": 987,
+      "start_time": 6767.317,
+      "end_time": 6773.305,
+      "duration": 5.988000000000284,
+      "dialogue_text": "English translation by Jim HUBBERT"
+    },
+    {
+      "subtitle_index": 988,
+      "start_time": 6775.315,
+      "end_time": 6782.304,
+      "duration": 6.9890000000004875,
+      "dialogue_text": "Evan MA, Kenzo OCHIAI, Rieko IZUTSU and Steve ALPERT"
+    },
+    {
+      "subtitle_index": 989,
+      "start_time": 6784.313,
+      "end_time": 6790.302,
+      "duration": 5.988999999999578,
+      "dialogue_text": "English subtitles by Aura and Nippon Cine Arts"
+    },
+    {
+      "subtitle_index": 990,
+      "start_time": 6892.425,
+      "end_time": 6898.913,
+      "duration": 6.487999999999374,
+      "dialogue_text": "Production Studio Ghibli"
+    },
+    {
+      "subtitle_index": 991,
+      "start_time": 6900.957,
+      "end_time": 6907.286,
+      "duration": 6.3289999999997235,
+      "dialogue_text": "Producer Toshio SUZUKI"
+    },
+    {
+      "subtitle_index": 992,
+      "start_time": 6912.688,
+      "end_time": 6919.313,
+      "duration": 6.625,
+      "dialogue_text": "Directed by Goro MIYAZAKI"
+    }
+  ]
+}

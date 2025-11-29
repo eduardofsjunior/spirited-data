@@ -1,0 +1,59 @@
+{
+  "timestamp": "2025-11-18 12:36:54",
+  "targets_processed": 6,
+  "improved_count": 0,
+  "warn_to_pass": 0,
+  "fail_to_pass": 0,
+  "fail_to_warn": 0,
+  "success_rate": 0.0,
+  "results": [
+    {
+      "success": false,
+      "reason": "No improvement after 10 tests",
+      "film_slug": "ponyo",
+      "language": "es",
+      "old_status": "WARN",
+      "new_status": "WARN"
+    },
+    {
+      "success": false,
+      "reason": "No improvement after 10 tests",
+      "film_slug": "ponyo",
+      "language": "en",
+      "old_status": "WARN",
+      "new_status": "WARN"
+    },
+    {
+      "success": false,
+      "reason": "No improvement after 10 tests",
+      "film_slug": "princess_mononoke",
+      "language": "ar",
+      "old_status": "WARN",
+      "new_status": "WARN"
+    },
+    {
+      "success": false,
+      "reason": "No improvement after 10 tests",
+      "film_slug": "grave_of_the_fireflies",
+      "language": "es",
+      "old_status": "WARN",
+      "new_status": "WARN"
+    },
+    {
+      "success": false,
+      "reason": "No improvement after 10 tests",
+      "film_slug": "grave_of_the_fireflies",
+      "language": "nl",
+      "old_status": "WARN",
+      "new_status": "WARN"
+    },
+    {
+      "success": false,
+      "reason": "No improvement after 10 tests",
+      "film_slug": "my_neighbors_the_yamadas",
+      "language": "ar",
+      "old_status": "WARN",
+      "new_status": "WARN"
+    }
+  ]
+}

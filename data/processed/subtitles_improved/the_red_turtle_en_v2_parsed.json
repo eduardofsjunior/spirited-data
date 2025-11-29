@@ -1,0 +1,1783 @@
+{
+  "metadata": {
+    "film_name": "The Red Turtle V2",
+    "film_slug": "the_red_turtle_en_v2",
+    "language_code": "en",
+    "total_subtitles": 253,
+    "total_duration": 4674.633,
+    "parse_timestamp": "2025-11-17T17:57:39.254623"
+  },
+  "subtitles": [
+    {
+      "subtitle_index": 1,
+      "start_time": 59.894,
+      "end_time": 61.812,
+      "duration": 1.9179999999999993,
+      "dialogue_text": "[Wind swooshing]"
+    },
+    {
+      "subtitle_index": 2,
+      "start_time": 63.272,
+      "end_time": 65.19,
+      "duration": 1.9179999999999993,
+      "dialogue_text": "[Wind whistling]"
+    },
+    {
+      "subtitle_index": 3,
+      "start_time": 69.36,
+      "end_time": 71.53,
+      "duration": 2.1700000000000017,
+      "dialogue_text": "[Rain pattering]"
+    },
+    {
+      "subtitle_index": 4,
+      "start_time": 76.702,
+      "end_time": 78.621,
+      "duration": 1.918999999999997,
+      "dialogue_text": "[Gasping]"
+    },
+    {
+      "subtitle_index": 5,
+      "start_time": 85.085,
+      "end_time": 86.67,
+      "duration": 1.585000000000008,
+      "dialogue_text": "[Gasps]"
+    },
+    {
+      "subtitle_index": 6,
+      "start_time": 115.24,
+      "end_time": 118.493,
+      "duration": 3.253,
+      "dialogue_text": "[Gasping then grunts]"
+    },
+    {
+      "subtitle_index": 7,
+      "start_time": 128.294,
+      "end_time": 130.463,
+      "duration": 2.1689999999999827,
+      "dialogue_text": "[Thunder rumbling]"
+    },
+    {
+      "subtitle_index": 8,
+      "start_time": 183.266,
+      "end_time": 184.935,
+      "duration": 1.6690000000000111,
+      "dialogue_text": "[Grunts]"
+    },
+    {
+      "subtitle_index": 9,
+      "start_time": 207.124,
+      "end_time": 208.834,
+      "duration": 1.710000000000008,
+      "dialogue_text": "[Seagulls squawking]"
+    },
+    {
+      "subtitle_index": 10,
+      "start_time": 228.145,
+      "end_time": 229.772,
+      "duration": 1.6269999999999811,
+      "dialogue_text": "[Moaning nearby]"
+    },
+    {
+      "subtitle_index": 11,
+      "start_time": 252.418,
+      "end_time": 255.964,
+      "duration": 3.5459999999999923,
+      "dialogue_text": "[Moaning]"
+    },
+    {
+      "subtitle_index": 12,
+      "start_time": 265.265,
+      "end_time": 267.184,
+      "duration": 1.9190000000000396,
+      "dialogue_text": "[Rustling]"
+    },
+    {
+      "subtitle_index": 13,
+      "start_time": 295.129,
+      "end_time": 296.337,
+      "duration": 1.20799999999997,
+      "dialogue_text": "[Fluttering] [Gasps]"
+    },
+    {
+      "subtitle_index": 14,
+      "start_time": 304.221,
+      "end_time": 306.14,
+      "duration": 1.9189999999999827,
+      "dialogue_text": "[Slurping]"
+    },
+    {
+      "subtitle_index": 15,
+      "start_time": 307.224,
+      "end_time": 309.143,
+      "duration": 1.9189999999999827,
+      "dialogue_text": "[Rustling]"
+    },
+    {
+      "subtitle_index": 16,
+      "start_time": 310.728,
+      "end_time": 312.813,
+      "duration": 2.0849999999999795,
+      "dialogue_text": "[Rustling intensifying]"
+    },
+    {
+      "subtitle_index": 17,
+      "start_time": 312.813,
+      "end_time": 314.439,
+      "duration": 1.6260000000000332,
+      "dialogue_text": "[Grunts]"
+    },
+    {
+      "subtitle_index": 18,
+      "start_time": 337.212,
+      "end_time": 339.38,
+      "duration": 2.1680000000000064,
+      "dialogue_text": "[♪♪♪]"
+    },
+    {
+      "subtitle_index": 19,
+      "start_time": 348.599,
+      "end_time": 350.768,
+      "duration": 2.1689999999999827,
+      "dialogue_text": "[Panting]"
+    },
+    {
+      "subtitle_index": 20,
+      "start_time": 366.241,
+      "end_time": 368.702,
+      "duration": 2.4610000000000127,
+      "dialogue_text": "Hey!"
+    },
+    {
+      "subtitle_index": 21,
+      "start_time": 374.291,
+      "end_time": 377.085,
+      "duration": 2.7939999999999827,
+      "dialogue_text": "[Faint shouting]"
+    },
+    {
+      "subtitle_index": 22,
+      "start_time": 382.466,
+      "end_time": 384.384,
+      "duration": 1.9180000000000064,
+      "dialogue_text": "[Birds calling]"
+    },
+    {
+      "subtitle_index": 23,
+      "start_time": 420.505,
+      "end_time": 421.421,
+      "duration": 0.9159999999999968,
+      "dialogue_text": "[Grunts]"
+    },
+    {
+      "subtitle_index": 24,
+      "start_time": 435.727,
+      "end_time": 437.896,
+      "duration": 2.1690000000000396,
+      "dialogue_text": "[Squawking]"
+    },
+    {
+      "subtitle_index": 25,
+      "start_time": 449.908,
+      "end_time": 451.201,
+      "duration": 1.2930000000000064,
+      "dialogue_text": "[Grunts]"
+    },
+    {
+      "subtitle_index": 26,
+      "start_time": 456.498,
+      "end_time": 457.916,
+      "duration": 1.4180000000000064,
+      "dialogue_text": "[Gasps]"
+    },
+    {
+      "subtitle_index": 27,
+      "start_time": 467.676,
+      "end_time": 470.22,
+      "duration": 2.5440000000000396,
+      "dialogue_text": "[Grunts then yelling]"
+    },
+    {
+      "subtitle_index": 28,
+      "start_time": 471.305,
+      "end_time": 472.764,
+      "duration": 1.4590000000000032,
+      "dialogue_text": "[Splashes]"
+    },
+    {
+      "subtitle_index": 29,
+      "start_time": 475.142,
+      "end_time": 477.352,
+      "duration": 2.2099999999999795,
+      "dialogue_text": "[Gasping]"
+    },
+    {
+      "subtitle_index": 30,
+      "start_time": 477.352,
+      "end_time": 481.273,
+      "duration": 3.921000000000049,
+      "dialogue_text": "[♪♪♪]"
+    },
+    {
+      "subtitle_index": 31,
+      "start_time": 498.624,
+      "end_time": 500.668,
+      "duration": 2.0439999999999827,
+      "dialogue_text": "[Gasps]"
+    },
+    {
+      "subtitle_index": 32,
+      "start_time": 500.668,
+      "end_time": 502.794,
+      "duration": 2.1259999999999764,
+      "dialogue_text": "[Grunting]"
+    },
+    {
+      "subtitle_index": 33,
+      "start_time": 504.338,
+      "end_time": 506.256,
+      "duration": 1.9179999999999495,
+      "dialogue_text": "[Panting]"
+    },
+    {
+      "subtitle_index": 34,
+      "start_time": 508.592,
+      "end_time": 510.761,
+      "duration": 2.1690000000000396,
+      "dialogue_text": "[Squawking]"
+    },
+    {
+      "subtitle_index": 35,
+      "start_time": 523.608,
+      "end_time": 525.442,
+      "duration": 1.83400000000006,
+      "dialogue_text": "[Gasps then grunting]"
+    },
+    {
+      "subtitle_index": 36,
+      "start_time": 526.527,
+      "end_time": 527.653,
+      "duration": 1.1259999999999764,
+      "dialogue_text": "[Inhales deeply]"
+    },
+    {
+      "subtitle_index": 37,
+      "start_time": 534.744,
+      "end_time": 538.664,
+      "duration": 3.919999999999959,
+      "dialogue_text": "[♪♪♪]"
+    },
+    {
+      "subtitle_index": 38,
+      "start_time": 560.728,
+      "end_time": 562.688,
+      "duration": 1.9600000000000364,
+      "dialogue_text": "[Gasping]"
+    },
+    {
+      "subtitle_index": 39,
+      "start_time": 562.688,
+      "end_time": 564.606,
+      "duration": 1.9180000000000064,
+      "dialogue_text": "[Seagulls squawking]"
+    },
+    {
+      "subtitle_index": 40,
+      "start_time": 565.65,
+      "end_time": 567.568,
+      "duration": 1.9180000000000064,
+      "dialogue_text": "[Grunts]"
+    },
+    {
+      "subtitle_index": 41,
+      "start_time": 573.658,
+      "end_time": 575.576,
+      "duration": 1.9180000000000064,
+      "dialogue_text": "[Squawking]"
+    },
+    {
+      "subtitle_index": 42,
+      "start_time": 596.638,
+      "end_time": 598.807,
+      "duration": 2.1689999999999827,
+      "dialogue_text": "[Chirping and squawking]"
+    },
+    {
+      "subtitle_index": 43,
+      "start_time": 602.477,
+      "end_time": 604.396,
+      "duration": 1.9189999999999827,
+      "dialogue_text": "[Grunting]"
+    },
+    {
+      "subtitle_index": 44,
+      "start_time": 622.664,
+      "end_time": 625.501,
+      "duration": 2.836999999999989,
+      "dialogue_text": "[♪♪♪]"
+    },
+    {
+      "subtitle_index": 45,
+      "start_time": 637.763,
+      "end_time": 639.931,
+      "duration": 2.1680000000000064,
+      "dialogue_text": "[Groans then sighs]"
+    },
+    {
+      "subtitle_index": 46,
+      "start_time": 644.394,
+      "end_time": 645.812,
+      "duration": 1.4180000000000064,
+      "dialogue_text": "Hmm?"
+    },
+    {
+      "subtitle_index": 47,
+      "start_time": 690.857,
+      "end_time": 695.028,
+      "duration": 4.171000000000049,
+      "dialogue_text": "[♪♪♪]"
+    },
+    {
+      "subtitle_index": 48,
+      "start_time": 723.558,
+      "end_time": 725.1,
+      "duration": 1.54200000000003,
+      "dialogue_text": "[Gasps]"
+    },
+    {
+      "subtitle_index": 49,
+      "start_time": 730.856,
+      "end_time": 734.401,
+      "duration": 3.544999999999959,
+      "dialogue_text": "[Laughing then whoops]"
+    },
+    {
+      "subtitle_index": 50,
+      "start_time": 738.698,
+      "end_time": 742.618,
+      "duration": 3.9200000000000728,
+      "dialogue_text": "[♪♪♪]"
+    },
+    {
+      "subtitle_index": 51,
+      "start_time": 749.416,
+      "end_time": 750.71,
+      "duration": 1.2939999999999827,
+      "dialogue_text": "Huh."
+    },
+    {
+      "subtitle_index": 52,
+      "start_time": 785.118,
+      "end_time": 789.289,
+      "duration": 4.170999999999935,
+      "dialogue_text": "[♪♪♪]"
+    },
+    {
+      "subtitle_index": 53,
+      "start_time": 799.299,
+      "end_time": 801.218,
+      "duration": 1.9189999999999827,
+      "dialogue_text": "[Grunting]"
+    },
+    {
+      "subtitle_index": 54,
+      "start_time": 810.645,
+      "end_time": 811.812,
+      "duration": 1.16700000000003,
+      "dialogue_text": "[Clattering]"
+    },
+    {
+      "subtitle_index": 55,
+      "start_time": 869.537,
+      "end_time": 871.413,
+      "duration": 1.8759999999999764,
+      "dialogue_text": "[Squawking]"
+    },
+    {
+      "subtitle_index": 56,
+      "start_time": 880.13,
+      "end_time": 882.09,
+      "duration": 1.9600000000000364,
+      "dialogue_text": "[Thump then man grunts]"
+    },
+    {
+      "subtitle_index": 57,
+      "start_time": 883.968,
+      "end_time": 887.888,
+      "duration": 3.9200000000000728,
+      "dialogue_text": "[♪♪♪]"
+    },
+    {
+      "subtitle_index": 58,
+      "start_time": 893.853,
+      "end_time": 895.604,
+      "duration": 1.75100000000009,
+      "dialogue_text": "[Thump then man grunts]"
+    },
+    {
+      "subtitle_index": 59,
+      "start_time": 903.904,
+      "end_time": 906.281,
+      "duration": 2.3769999999999527,
+      "dialogue_text": "[Gasps then grunts]"
+    },
+    {
+      "subtitle_index": 60,
+      "start_time": 909.994,
+      "end_time": 911.871,
+      "duration": 1.8769999999999527,
+      "dialogue_text": "[Grunts]"
+    },
+    {
+      "subtitle_index": 61,
+      "start_time": 921.463,
+      "end_time": 923.089,
+      "duration": 1.62600000000009,
+      "dialogue_text": "[Grunts]"
+    },
+    {
+      "subtitle_index": 62,
+      "start_time": 944.069,
+      "end_time": 946.363,
+      "duration": 2.2940000000000964,
+      "dialogue_text": "[Panting]"
+    },
+    {
+      "subtitle_index": 63,
+      "start_time": 949.116,
+      "end_time": 950.868,
+      "duration": 1.7520000000000664,
+      "dialogue_text": "[Yells]"
+    },
+    {
+      "subtitle_index": 64,
+      "start_time": 952.161,
+      "end_time": 954.079,
+      "duration": 1.9180000000000064,
+      "dialogue_text": "[Cicadas chirping]"
+    },
+    {
+      "subtitle_index": 65,
+      "start_time": 957.082,
+      "end_time": 959.25,
+      "duration": 2.1680000000000064,
+      "dialogue_text": "[Cicadas stop]"
+    },
+    {
+      "subtitle_index": 66,
+      "start_time": 982.024,
+      "end_time": 983.943,
+      "duration": 1.9189999999999827,
+      "dialogue_text": "[Cicadas chirping]"
+    },
+    {
+      "subtitle_index": 67,
+      "start_time": 991.075,
+      "end_time": 992.492,
+      "duration": 1.4169999999999163,
+      "dialogue_text": "[Clattering]"
+    },
+    {
+      "subtitle_index": 68,
+      "start_time": 1016.892,
+      "end_time": 1018.561,
+      "duration": 1.6689999999999827,
+      "dialogue_text": "[Thump then man grunts]"
+    },
+    {
+      "subtitle_index": 69,
+      "start_time": 1040.04,
+      "end_time": 1042.333,
+      "duration": 2.29300000000012,
+      "dialogue_text": "[Yells]"
+    },
+    {
+      "subtitle_index": 70,
+      "start_time": 1046.755,
+      "end_time": 1048.339,
+      "duration": 1.5839999999998327,
+      "dialogue_text": "[Gasps]"
+    },
+    {
+      "subtitle_index": 71,
+      "start_time": 1059.894,
+      "end_time": 1061.812,
+      "duration": 1.9179999999998927,
+      "dialogue_text": "[Grunting]"
+    },
+    {
+      "subtitle_index": 72,
+      "start_time": 1067.818,
+      "end_time": 1071.614,
+      "duration": 3.796000000000049,
+      "dialogue_text": "[Coughing]"
+    },
+    {
+      "subtitle_index": 73,
+      "start_time": 1076.744,
+      "end_time": 1078.662,
+      "duration": 1.91800000000012,
+      "dialogue_text": "[Squawking]"
+    },
+    {
+      "subtitle_index": 74,
+      "start_time": 1084.585,
+      "end_time": 1086.504,
+      "duration": 1.918999999999869,
+      "dialogue_text": "[Vomiting]"
+    },
+    {
+      "subtitle_index": 75,
+      "start_time": 1087.713,
+      "end_time": 1089.339,
+      "duration": 1.6259999999999764,
+      "dialogue_text": "[Coughs]"
+    },
+    {
+      "subtitle_index": 76,
+      "start_time": 1099.307,
+      "end_time": 1102.978,
+      "duration": 3.671000000000049,
+      "dialogue_text": "[♪♪♪]"
+    },
+    {
+      "subtitle_index": 77,
+      "start_time": 1114.155,
+      "end_time": 1116.324,
+      "duration": 2.1690000000000964,
+      "dialogue_text": "[Squawking]"
+    },
+    {
+      "subtitle_index": 78,
+      "start_time": 1167.25,
+      "end_time": 1169.419,
+      "duration": 2.1690000000000964,
+      "dialogue_text": "[Fly buzzing]"
+    },
+    {
+      "subtitle_index": 79,
+      "start_time": 1202.828,
+      "end_time": 1204.997,
+      "duration": 2.1690000000000964,
+      "dialogue_text": "[Classical music playing in distance]"
+    },
+    {
+      "subtitle_index": 80,
+      "start_time": 1206.832,
+      "end_time": 1208.751,
+      "duration": 1.918999999999869,
+      "dialogue_text": "[Music stops]"
+    },
+    {
+      "subtitle_index": 81,
+      "start_time": 1213.964,
+      "end_time": 1216.133,
+      "duration": 2.1690000000000964,
+      "dialogue_text": "[Classical music playing in distance]"
+    },
+    {
+      "subtitle_index": 82,
+      "start_time": 1224.349,
+      "end_time": 1226.267,
+      "duration": 1.91800000000012,
+      "dialogue_text": "[Grunting]"
+    },
+    {
+      "subtitle_index": 83,
+      "start_time": 1236.486,
+      "end_time": 1239.28,
+      "duration": 2.793999999999869,
+      "dialogue_text": "[Quartet playing classical music]"
+    },
+    {
+      "subtitle_index": 84,
+      "start_time": 1239.28,
+      "end_time": 1240.866,
+      "duration": 1.5860000000000127,
+      "dialogue_text": "[Gasps]"
+    },
+    {
+      "subtitle_index": 85,
+      "start_time": 1243.035,
+      "end_time": 1244.203,
+      "duration": 1.1679999999998927,
+      "dialogue_text": "Hey!"
+    },
+    {
+      "subtitle_index": 86,
+      "start_time": 1248.289,
+      "end_time": 1249.583,
+      "duration": 1.2940000000000964,
+      "dialogue_text": "Hey!"
+    },
+    {
+      "subtitle_index": 87,
+      "start_time": 1253.337,
+      "end_time": 1255.005,
+      "duration": 1.66800000000012,
+      "dialogue_text": "[Music stops]"
+    },
+    {
+      "subtitle_index": 88,
+      "start_time": 1264.389,
+      "end_time": 1266.558,
+      "duration": 2.1690000000000964,
+      "dialogue_text": "[Music resumes]"
+    },
+    {
+      "subtitle_index": 89,
+      "start_time": 1270.145,
+      "end_time": 1271.312,
+      "duration": 1.1669999999999163,
+      "dialogue_text": "Hey!"
+    },
+    {
+      "subtitle_index": 90,
+      "start_time": 1271.312,
+      "end_time": 1273.232,
+      "duration": 1.9200000000000728,
+      "dialogue_text": "[Music stops]"
+    },
+    {
+      "subtitle_index": 91,
+      "start_time": 1290.331,
+      "end_time": 1292.501,
+      "duration": 2.1700000000000728,
+      "dialogue_text": "[Sobbing]"
+    },
+    {
+      "subtitle_index": 92,
+      "start_time": 1297.548,
+      "end_time": 1299.717,
+      "duration": 2.1690000000000964,
+      "dialogue_text": "[Screams]"
+    },
+    {
+      "subtitle_index": 93,
+      "start_time": 1331.206,
+      "end_time": 1333.125,
+      "duration": 1.9190000000000964,
+      "dialogue_text": "[Flies buzzing]"
+    },
+    {
+      "subtitle_index": 94,
+      "start_time": 1348.348,
+      "end_time": 1349.85,
+      "duration": 1.5019999999999527,
+      "dialogue_text": "[Grunts]"
+    },
+    {
+      "subtitle_index": 95,
+      "start_time": 1361.528,
+      "end_time": 1363.697,
+      "duration": 2.168999999999869,
+      "dialogue_text": "[Flies buzzing]"
+    },
+    {
+      "subtitle_index": 96,
+      "start_time": 1386.303,
+      "end_time": 1388.222,
+      "duration": 1.918999999999869,
+      "dialogue_text": "[Retching]"
+    },
+    {
+      "subtitle_index": 97,
+      "start_time": 1390.599,
+      "end_time": 1394.77,
+      "duration": 4.171000000000049,
+      "dialogue_text": "[♪♪♪]"
+    },
+    {
+      "subtitle_index": 98,
+      "start_time": 1409.619,
+      "end_time": 1413.872,
+      "duration": 4.253000000000156,
+      "dialogue_text": "[♪♪♪]"
+    },
+    {
+      "subtitle_index": 99,
+      "start_time": 1413.872,
+      "end_time": 1415.207,
+      "duration": 1.3350000000000364,
+      "dialogue_text": "Huh."
+    },
+    {
+      "subtitle_index": 100,
+      "start_time": 1416.584,
+      "end_time": 1417.584,
+      "duration": 1.0,
+      "dialogue_text": "[Man sighs]"
+    },
+    {
+      "subtitle_index": 101,
+      "start_time": 1425.3,
+      "end_time": 1428.22,
+      "duration": 2.9200000000000728,
+      "dialogue_text": "[♪♪♪]"
+    },
+    {
+      "subtitle_index": 102,
+      "start_time": 1439.398,
+      "end_time": 1443.318,
+      "duration": 3.9200000000000728,
+      "dialogue_text": "[♪♪♪]"
+    },
+    {
+      "subtitle_index": 103,
+      "start_time": 1460.67,
+      "end_time": 1462.504,
+      "duration": 1.8339999999998327,
+      "dialogue_text": "[Gasps]"
+    },
+    {
+      "subtitle_index": 104,
+      "start_time": 1472.347,
+      "end_time": 1473.348,
+      "duration": 1.0009999999999764,
+      "dialogue_text": "[Gasps]"
+    },
+    {
+      "subtitle_index": 105,
+      "start_time": 1473.348,
+      "end_time": 1477.269,
+      "duration": 3.921000000000049,
+      "dialogue_text": "[♪♪♪]"
+    },
+    {
+      "subtitle_index": 106,
+      "start_time": 1479.688,
+      "end_time": 1481.857,
+      "duration": 2.168999999999869,
+      "dialogue_text": "[Panting]"
+    },
+    {
+      "subtitle_index": 107,
+      "start_time": 1488.822,
+      "end_time": 1491.199,
+      "duration": 2.37700000000018,
+      "dialogue_text": "[Thumping then man grunts]"
+    },
+    {
+      "subtitle_index": 108,
+      "start_time": 1498.541,
+      "end_time": 1499.875,
+      "duration": 1.33400000000006,
+      "dialogue_text": "[Grunting]"
+    },
+    {
+      "subtitle_index": 109,
+      "start_time": 1499.875,
+      "end_time": 1502.503,
+      "duration": 2.627999999999929,
+      "dialogue_text": "[♪♪♪]"
+    },
+    {
+      "subtitle_index": 110,
+      "start_time": 1513.722,
+      "end_time": 1515.933,
+      "duration": 2.2110000000000127,
+      "dialogue_text": "[♪♪♪]"
+    },
+    {
+      "subtitle_index": 111,
+      "start_time": 1533.033,
+      "end_time": 1533.951,
+      "duration": 0.91800000000012,
+      "dialogue_text": "[Grunts]"
+    },
+    {
+      "subtitle_index": 112,
+      "start_time": 1544.294,
+      "end_time": 1546.213,
+      "duration": 1.918999999999869,
+      "dialogue_text": "[Grunting]"
+    },
+    {
+      "subtitle_index": 113,
+      "start_time": 1549.299,
+      "end_time": 1551.218,
+      "duration": 1.9190000000000964,
+      "dialogue_text": "[Yells then pants]"
+    },
+    {
+      "subtitle_index": 114,
+      "start_time": 1561.812,
+      "end_time": 1564.231,
+      "duration": 2.4190000000000964,
+      "dialogue_text": "[♪♪♪]"
+    },
+    {
+      "subtitle_index": 115,
+      "start_time": 1579.871,
+      "end_time": 1581.999,
+      "duration": 2.127999999999929,
+      "dialogue_text": "[Squawking]"
+    },
+    {
+      "subtitle_index": 116,
+      "start_time": 1583.709,
+      "end_time": 1585.877,
+      "duration": 2.1679999999998927,
+      "dialogue_text": "[Grunting]"
+    },
+    {
+      "subtitle_index": 117,
+      "start_time": 1601.476,
+      "end_time": 1603.645,
+      "duration": 2.168999999999869,
+      "dialogue_text": "[Yells]"
+    },
+    {
+      "subtitle_index": 118,
+      "start_time": 1603.645,
+      "end_time": 1605.731,
+      "duration": 2.0860000000000127,
+      "dialogue_text": "[Yells]"
+    },
+    {
+      "subtitle_index": 119,
+      "start_time": 1623.583,
+      "end_time": 1626.46,
+      "duration": 2.8769999999999527,
+      "dialogue_text": "[♪♪♪]"
+    },
+    {
+      "subtitle_index": 120,
+      "start_time": 1629.63,
+      "end_time": 1631.798,
+      "duration": 2.1679999999998927,
+      "dialogue_text": "[Squawking]"
+    },
+    {
+      "subtitle_index": 121,
+      "start_time": 1632.841,
+      "end_time": 1637.012,
+      "duration": 4.171000000000049,
+      "dialogue_text": "[♪♪♪]"
+    },
+    {
+      "subtitle_index": 122,
+      "start_time": 1660.368,
+      "end_time": 1662.287,
+      "duration": 1.9190000000000964,
+      "dialogue_text": "[Squawking]"
+    },
+    {
+      "subtitle_index": 123,
+      "start_time": 1671.714,
+      "end_time": 1673.256,
+      "duration": 1.5420000000001437,
+      "dialogue_text": "Whew."
+    },
+    {
+      "subtitle_index": 124,
+      "start_time": 1685.06,
+      "end_time": 1689.189,
+      "duration": 4.129000000000133,
+      "dialogue_text": "[♪♪♪]"
+    },
+    {
+      "subtitle_index": 125,
+      "start_time": 1704.789,
+      "end_time": 1706.707,
+      "duration": 1.91800000000012,
+      "dialogue_text": "[Flies buzzing]"
+    },
+    {
+      "subtitle_index": 126,
+      "start_time": 1709.376,
+      "end_time": 1713.296,
+      "duration": 3.9200000000000728,
+      "dialogue_text": "[♪♪♪]"
+    },
+    {
+      "subtitle_index": 127,
+      "start_time": 1774.859,
+      "end_time": 1776.234,
+      "duration": 1.375,
+      "dialogue_text": "[Gasps]"
+    },
+    {
+      "subtitle_index": 128,
+      "start_time": 1787.37,
+      "end_time": 1789.289,
+      "duration": 1.9190000000000964,
+      "dialogue_text": "[Grunting]"
+    },
+    {
+      "subtitle_index": 129,
+      "start_time": 1840.675,
+      "end_time": 1842.593,
+      "duration": 1.91800000000012,
+      "dialogue_text": "[Panting]"
+    },
+    {
+      "subtitle_index": 130,
+      "start_time": 1903.529,
+      "end_time": 1905.405,
+      "duration": 1.8759999999999764,
+      "dialogue_text": "[Gasps]"
+    },
+    {
+      "subtitle_index": 131,
+      "start_time": 1929.096,
+      "end_time": 1933.016,
+      "duration": 3.9200000000000728,
+      "dialogue_text": "[♪♪♪]"
+    },
+    {
+      "subtitle_index": 132,
+      "start_time": 1952.87,
+      "end_time": 1954.412,
+      "duration": 1.5420000000001437,
+      "dialogue_text": "[Clattering]"
+    },
+    {
+      "subtitle_index": 133,
+      "start_time": 2038.163,
+      "end_time": 2040.331,
+      "duration": 2.1679999999998927,
+      "dialogue_text": "[Squawking]"
+    },
+    {
+      "subtitle_index": 134,
+      "start_time": 2052.385,
+      "end_time": 2054.555,
+      "duration": 2.169999999999618,
+      "dialogue_text": "[Fly buzzing]"
+    },
+    {
+      "subtitle_index": 135,
+      "start_time": 2105.396,
+      "end_time": 2109.568,
+      "duration": 4.1720000000000255,
+      "dialogue_text": "[♪♪♪]"
+    },
+    {
+      "subtitle_index": 136,
+      "start_time": 2123.874,
+      "end_time": 2127.795,
+      "duration": 3.9210000000002765,
+      "dialogue_text": "[♪♪♪]"
+    },
+    {
+      "subtitle_index": 137,
+      "start_time": 2148.107,
+      "end_time": 2149.066,
+      "duration": 0.9589999999998327,
+      "dialogue_text": "[Splash]"
+    },
+    {
+      "subtitle_index": 138,
+      "start_time": 2240.616,
+      "end_time": 2243.786,
+      "duration": 3.1700000000000728,
+      "dialogue_text": "[Insects chirping] [Birds calling]"
+    },
+    {
+      "subtitle_index": 139,
+      "start_time": 2306.389,
+      "end_time": 2307.975,
+      "duration": 1.5859999999997854,
+      "dialogue_text": "[Grunting]"
+    },
+    {
+      "subtitle_index": 140,
+      "start_time": 2316.441,
+      "end_time": 2318.359,
+      "duration": 1.91800000000012,
+      "dialogue_text": "[Panting]"
+    },
+    {
+      "subtitle_index": 141,
+      "start_time": 2379.63,
+      "end_time": 2383.801,
+      "duration": 4.170999999999822,
+      "dialogue_text": "[♪♪♪]"
+    },
+    {
+      "subtitle_index": 142,
+      "start_time": 2399.191,
+      "end_time": 2401.109,
+      "duration": 1.91800000000012,
+      "dialogue_text": "[Grunting]"
+    },
+    {
+      "subtitle_index": 143,
+      "start_time": 2469.72,
+      "end_time": 2473.891,
+      "duration": 4.1710000000002765,
+      "dialogue_text": "[♪♪♪]"
+    },
+    {
+      "subtitle_index": 144,
+      "start_time": 2589.59,
+      "end_time": 2591.592,
+      "duration": 2.0019999999999527,
+      "dialogue_text": "[Sighs]"
+    },
+    {
+      "subtitle_index": 145,
+      "start_time": 2629.963,
+      "end_time": 2634.134,
+      "duration": 4.170999999999822,
+      "dialogue_text": "[♪♪♪]"
+    },
+    {
+      "subtitle_index": 146,
+      "start_time": 2700.826,
+      "end_time": 2704.996,
+      "duration": 4.170000000000073,
+      "dialogue_text": "[♪♪♪]"
+    },
+    {
+      "subtitle_index": 147,
+      "start_time": 2773.774,
+      "end_time": 2775.693,
+      "duration": 1.9190000000003238,
+      "dialogue_text": "[Cooing]"
+    },
+    {
+      "subtitle_index": 148,
+      "start_time": 2780.698,
+      "end_time": 2782.783,
+      "duration": 2.0850000000000364,
+      "dialogue_text": "[♪♪♪]"
+    },
+    {
+      "subtitle_index": 149,
+      "start_time": 2782.783,
+      "end_time": 2784.577,
+      "duration": 1.7940000000003238,
+      "dialogue_text": "[Giggles]"
+    },
+    {
+      "subtitle_index": 150,
+      "start_time": 2805.973,
+      "end_time": 2807.725,
+      "duration": 1.7519999999999527,
+      "dialogue_text": "[Seagull screeching]"
+    },
+    {
+      "subtitle_index": 151,
+      "start_time": 2811.144,
+      "end_time": 2815.315,
+      "duration": 4.1710000000002765,
+      "dialogue_text": "[♪♪♪]"
+    },
+    {
+      "subtitle_index": 152,
+      "start_time": 2817.026,
+      "end_time": 2818.944,
+      "duration": 1.91800000000012,
+      "dialogue_text": "[Giggling]"
+    },
+    {
+      "subtitle_index": 153,
+      "start_time": 2831.54,
+      "end_time": 2832.874,
+      "duration": 1.3339999999998327,
+      "dialogue_text": "[Gasps]"
+    },
+    {
+      "subtitle_index": 154,
+      "start_time": 2839.924,
+      "end_time": 2841.842,
+      "duration": 1.91800000000012,
+      "dialogue_text": "[Boy giggling]"
+    },
+    {
+      "subtitle_index": 155,
+      "start_time": 2847.556,
+      "end_time": 2849.933,
+      "duration": 2.3769999999999527,
+      "dialogue_text": "Whoa. Aah."
+    },
+    {
+      "subtitle_index": 156,
+      "start_time": 2858.942,
+      "end_time": 2860.569,
+      "duration": 1.6269999999999527,
+      "dialogue_text": "[Grunts]"
+    },
+    {
+      "subtitle_index": 157,
+      "start_time": 2863.03,
+      "end_time": 2864.782,
+      "duration": 1.7519999999999527,
+      "dialogue_text": "[Squeaks]"
+    },
+    {
+      "subtitle_index": 158,
+      "start_time": 2864.782,
+      "end_time": 2866.074,
+      "duration": 1.2919999999999163,
+      "dialogue_text": "Huh!"
+    },
+    {
+      "subtitle_index": 159,
+      "start_time": 2871.539,
+      "end_time": 2873.456,
+      "duration": 1.9169999999999163,
+      "dialogue_text": "[Squeaking]"
+    },
+    {
+      "subtitle_index": 160,
+      "start_time": 2884.926,
+      "end_time": 2889.097,
+      "duration": 4.1710000000002765,
+      "dialogue_text": "[♪♪♪]"
+    },
+    {
+      "subtitle_index": 161,
+      "start_time": 2958.626,
+      "end_time": 2960.043,
+      "duration": 1.4169999999999163,
+      "dialogue_text": "[Grunts]"
+    },
+    {
+      "subtitle_index": 162,
+      "start_time": 2967.425,
+      "end_time": 2969.094,
+      "duration": 1.668999999999869,
+      "dialogue_text": "[Grunts] [Chuckles]"
+    },
+    {
+      "subtitle_index": 163,
+      "start_time": 2970.22,
+      "end_time": 2972.64,
+      "duration": 2.4200000000000728,
+      "dialogue_text": "[Boy grunts]"
+    },
+    {
+      "subtitle_index": 164,
+      "start_time": 2972.64,
+      "end_time": 2975.266,
+      "duration": 2.6260000000002037,
+      "dialogue_text": "[Boy giggling]"
+    },
+    {
+      "subtitle_index": 165,
+      "start_time": 2975.266,
+      "end_time": 2977.394,
+      "duration": 2.1279999999997017,
+      "dialogue_text": "[Squawking]"
+    },
+    {
+      "subtitle_index": 166,
+      "start_time": 2979.479,
+      "end_time": 2980.856,
+      "duration": 1.3770000000004075,
+      "dialogue_text": "[Grunts]"
+    },
+    {
+      "subtitle_index": 167,
+      "start_time": 2984.442,
+      "end_time": 2986.277,
+      "duration": 1.8350000000000364,
+      "dialogue_text": "[Coos]"
+    },
+    {
+      "subtitle_index": 168,
+      "start_time": 2986.277,
+      "end_time": 2987.487,
+      "duration": 1.2100000000000364,
+      "dialogue_text": "[Baby giggles]"
+    },
+    {
+      "subtitle_index": 169,
+      "start_time": 2991.992,
+      "end_time": 2993.786,
+      "duration": 1.793999999999869,
+      "dialogue_text": "[Shrieks]"
+    },
+    {
+      "subtitle_index": 170,
+      "start_time": 2995.996,
+      "end_time": 2997.665,
+      "duration": 1.668999999999869,
+      "dialogue_text": "[Shouts]"
+    },
+    {
+      "subtitle_index": 171,
+      "start_time": 3001.502,
+      "end_time": 3003.003,
+      "duration": 1.5010000000002037,
+      "dialogue_text": "[Screaming]"
+    },
+    {
+      "subtitle_index": 172,
+      "start_time": 3005.088,
+      "end_time": 3006.757,
+      "duration": 1.668999999999869,
+      "dialogue_text": "[Splashes]"
+    },
+    {
+      "subtitle_index": 173,
+      "start_time": 3006.757,
+      "end_time": 3008.174,
+      "duration": 1.4169999999999163,
+      "dialogue_text": "[Both gasping]"
+    },
+    {
+      "subtitle_index": 174,
+      "start_time": 3008.174,
+      "end_time": 3010.135,
+      "duration": 1.96100000000024,
+      "dialogue_text": "[Shouting]"
+    },
+    {
+      "subtitle_index": 175,
+      "start_time": 3010.135,
+      "end_time": 3012.262,
+      "duration": 2.1269999999999527,
+      "dialogue_text": "[♪♪♪]"
+    },
+    {
+      "subtitle_index": 176,
+      "start_time": 3012.262,
+      "end_time": 3014.431,
+      "duration": 2.168999999999869,
+      "dialogue_text": "[Both grunting]"
+    },
+    {
+      "subtitle_index": 177,
+      "start_time": 3043.334,
+      "end_time": 3047.506,
+      "duration": 4.1720000000000255,
+      "dialogue_text": "[♪♪♪]"
+    },
+    {
+      "subtitle_index": 178,
+      "start_time": 3067.108,
+      "end_time": 3068.861,
+      "duration": 1.7529999999997017,
+      "dialogue_text": "[Gasps]"
+    },
+    {
+      "subtitle_index": 179,
+      "start_time": 3111.111,
+      "end_time": 3113.03,
+      "duration": 1.9190000000003238,
+      "dialogue_text": "[Squawking]"
+    },
+    {
+      "subtitle_index": 180,
+      "start_time": 3117.076,
+      "end_time": 3118.661,
+      "duration": 1.5850000000000364,
+      "dialogue_text": "[Grunts]"
+    },
+    {
+      "subtitle_index": 181,
+      "start_time": 3122.706,
+      "end_time": 3124.29,
+      "duration": 1.5839999999998327,
+      "dialogue_text": "Oof! Hey!"
+    },
+    {
+      "subtitle_index": 182,
+      "start_time": 3124.29,
+      "end_time": 3126.877,
+      "duration": 2.586999999999989,
+      "dialogue_text": "[Man laughs then boy chuckles]"
+    },
+    {
+      "subtitle_index": 183,
+      "start_time": 3126.877,
+      "end_time": 3131.048,
+      "duration": 4.170999999999822,
+      "dialogue_text": "[♪♪♪]"
+    },
+    {
+      "subtitle_index": 184,
+      "start_time": 3131.048,
+      "end_time": 3132.173,
+      "duration": 1.125,
+      "dialogue_text": "[Boy laughs]"
+    },
+    {
+      "subtitle_index": 185,
+      "start_time": 3132.173,
+      "end_time": 3134.342,
+      "duration": 2.169000000000324,
+      "dialogue_text": "[Grunting] [Laughing]"
+    },
+    {
+      "subtitle_index": 186,
+      "start_time": 3136.427,
+      "end_time": 3139.139,
+      "duration": 2.711999999999989,
+      "dialogue_text": "[Both laughing]"
+    },
+    {
+      "subtitle_index": 187,
+      "start_time": 3139.139,
+      "end_time": 3140.14,
+      "duration": 1.000999999999749,
+      "dialogue_text": "[Man grunts]"
+    },
+    {
+      "subtitle_index": 188,
+      "start_time": 3140.14,
+      "end_time": 3142.308,
+      "duration": 2.16800000000012,
+      "dialogue_text": "[Boy laughing]"
+    },
+    {
+      "subtitle_index": 189,
+      "start_time": 3143.143,
+      "end_time": 3145.436,
+      "duration": 2.29300000000012,
+      "dialogue_text": "[Both laughing]"
+    },
+    {
+      "subtitle_index": 190,
+      "start_time": 3145.436,
+      "end_time": 3148.19,
+      "duration": 2.7539999999999054,
+      "dialogue_text": "[Panting and grunting]"
+    },
+    {
+      "subtitle_index": 191,
+      "start_time": 3148.19,
+      "end_time": 3150.275,
+      "duration": 2.0850000000000364,
+      "dialogue_text": "[Yells then grunts]"
+    },
+    {
+      "subtitle_index": 192,
+      "start_time": 3154.279,
+      "end_time": 3156.197,
+      "duration": 1.91800000000012,
+      "dialogue_text": "[Yells and laughs]"
+    },
+    {
+      "subtitle_index": 193,
+      "start_time": 3165.248,
+      "end_time": 3169.419,
+      "duration": 4.170999999999822,
+      "dialogue_text": "[♪♪♪]"
+    },
+    {
+      "subtitle_index": 194,
+      "start_time": 3195.863,
+      "end_time": 3199.783,
+      "duration": 3.9200000000000728,
+      "dialogue_text": "[♪♪♪]"
+    },
+    {
+      "subtitle_index": 195,
+      "start_time": 3201.326,
+      "end_time": 3202.995,
+      "duration": 1.668999999999869,
+      "dialogue_text": "[Gasps]"
+    },
+    {
+      "subtitle_index": 196,
+      "start_time": 3234.4,
+      "end_time": 3236.277,
+      "duration": 1.8769999999999527,
+      "dialogue_text": "[Sighs]"
+    },
+    {
+      "subtitle_index": 197,
+      "start_time": 3241.283,
+      "end_time": 3243.202,
+      "duration": 1.9190000000003238,
+      "dialogue_text": "[Seagulls squawking]"
+    },
+    {
+      "subtitle_index": 198,
+      "start_time": 3307.474,
+      "end_time": 3309.392,
+      "duration": 1.9179999999996653,
+      "dialogue_text": "[Louder squawking]"
+    },
+    {
+      "subtitle_index": 199,
+      "start_time": 3343.218,
+      "end_time": 3345.137,
+      "duration": 1.9190000000003238,
+      "dialogue_text": "[Squawking stops]"
+    },
+    {
+      "subtitle_index": 200,
+      "start_time": 3354.229,
+      "end_time": 3355.439,
+      "duration": 1.2100000000000364,
+      "dialogue_text": "[Gasps]"
+    },
+    {
+      "subtitle_index": 201,
+      "start_time": 3355.439,
+      "end_time": 3357.357,
+      "duration": 1.91800000000012,
+      "dialogue_text": "[Rumbling]"
+    },
+    {
+      "subtitle_index": 202,
+      "start_time": 3364.948,
+      "end_time": 3366.867,
+      "duration": 1.9190000000003238,
+      "dialogue_text": "[Rumbling]"
+    },
+    {
+      "subtitle_index": 203,
+      "start_time": 3373.456,
+      "end_time": 3375.626,
+      "duration": 2.1700000000000728,
+      "dialogue_text": "[Gasping]"
+    },
+    {
+      "subtitle_index": 204,
+      "start_time": 3383.383,
+      "end_time": 3384.343,
+      "duration": 0.9600000000000364,
+      "dialogue_text": "[Gasps]"
+    },
+    {
+      "subtitle_index": 205,
+      "start_time": 3387.262,
+      "end_time": 3389.557,
+      "duration": 2.294999999999618,
+      "dialogue_text": "[♪♪♪]"
+    },
+    {
+      "subtitle_index": 206,
+      "start_time": 3389.557,
+      "end_time": 3390.473,
+      "duration": 0.9160000000001673,
+      "dialogue_text": "[Grunts]"
+    },
+    {
+      "subtitle_index": 207,
+      "start_time": 3410.369,
+      "end_time": 3414.289,
+      "duration": 3.9200000000000728,
+      "dialogue_text": "[♪♪♪]"
+    },
+    {
+      "subtitle_index": 208,
+      "start_time": 3473.39,
+      "end_time": 3475.309,
+      "duration": 1.9190000000003238,
+      "dialogue_text": "[Panting]"
+    },
+    {
+      "subtitle_index": 209,
+      "start_time": 3485.569,
+      "end_time": 3487.321,
+      "duration": 1.7519999999999527,
+      "dialogue_text": "[Gasps]"
+    },
+    {
+      "subtitle_index": 210,
+      "start_time": 3511.345,
+      "end_time": 3513.263,
+      "duration": 1.91800000000012,
+      "dialogue_text": "[Panting]"
+    },
+    {
+      "subtitle_index": 211,
+      "start_time": 3514.557,
+      "end_time": 3518.477,
+      "duration": 3.9200000000000728,
+      "dialogue_text": "[♪♪♪]"
+    },
+    {
+      "subtitle_index": 212,
+      "start_time": 3519.687,
+      "end_time": 3521.98,
+      "duration": 2.29300000000012,
+      "dialogue_text": "Hey!"
+    },
+    {
+      "subtitle_index": 213,
+      "start_time": 3526.527,
+      "end_time": 3529.446,
+      "duration": 2.918999999999869,
+      "dialogue_text": "[♪♪♪]"
+    },
+    {
+      "subtitle_index": 214,
+      "start_time": 3539.665,
+      "end_time": 3541.458,
+      "duration": 1.79300000000012,
+      "dialogue_text": "Hey!"
+    },
+    {
+      "subtitle_index": 215,
+      "start_time": 3548.966,
+      "end_time": 3550.258,
+      "duration": 1.2919999999999163,
+      "dialogue_text": "[Grunts]"
+    },
+    {
+      "subtitle_index": 216,
+      "start_time": 3550.258,
+      "end_time": 3551.802,
+      "duration": 1.5440000000003238,
+      "dialogue_text": "Hey!"
+    },
+    {
+      "subtitle_index": 217,
+      "start_time": 3590.675,
+      "end_time": 3592.593,
+      "duration": 1.9179999999996653,
+      "dialogue_text": "[Coughing]"
+    },
+    {
+      "subtitle_index": 218,
+      "start_time": 3604.146,
+      "end_time": 3605.48,
+      "duration": 1.3339999999998327,
+      "dialogue_text": "Hey."
+    },
+    {
+      "subtitle_index": 219,
+      "start_time": 3615.658,
+      "end_time": 3617.577,
+      "duration": 1.9190000000003238,
+      "dialogue_text": "[Groaning]"
+    },
+    {
+      "subtitle_index": 220,
+      "start_time": 3643.143,
+      "end_time": 3645.771,
+      "duration": 2.6280000000001564,
+      "dialogue_text": "Hey!"
+    },
+    {
+      "subtitle_index": 221,
+      "start_time": 3685.645,
+      "end_time": 3687.563,
+      "duration": 1.91800000000012,
+      "dialogue_text": "[Panting]"
+    },
+    {
+      "subtitle_index": 222,
+      "start_time": 3698.574,
+      "end_time": 3699.617,
+      "duration": 1.04300000000012,
+      "dialogue_text": "[Inhales deeply]"
+    },
+    {
+      "subtitle_index": 223,
+      "start_time": 3729.647,
+      "end_time": 3731.607,
+      "duration": 1.9600000000000364,
+      "dialogue_text": "(Boy) Hey!"
+    },
+    {
+      "subtitle_index": 224,
+      "start_time": 3733.568,
+      "end_time": 3736.194,
+      "duration": 2.625999999999749,
+      "dialogue_text": "[Moaning]"
+    },
+    {
+      "subtitle_index": 225,
+      "start_time": 3737.028,
+      "end_time": 3739.74,
+      "duration": 2.711999999999989,
+      "dialogue_text": "(Boy) Hey!"
+    },
+    {
+      "subtitle_index": 226,
+      "start_time": 3739.74,
+      "end_time": 3741.659,
+      "duration": 1.9190000000003238,
+      "dialogue_text": "[Gasping]"
+    },
+    {
+      "subtitle_index": 227,
+      "start_time": 3745.58,
+      "end_time": 3747.164,
+      "duration": 1.5840000000002874,
+      "dialogue_text": "[Grunts]"
+    },
+    {
+      "subtitle_index": 228,
+      "start_time": 3747.164,
+      "end_time": 3749.249,
+      "duration": 2.0849999999995816,
+      "dialogue_text": "[Yells]"
+    },
+    {
+      "subtitle_index": 229,
+      "start_time": 3766.726,
+      "end_time": 3770.646,
+      "duration": 3.9200000000000728,
+      "dialogue_text": "[♪♪♪]"
+    },
+    {
+      "subtitle_index": 230,
+      "start_time": 3775.442,
+      "end_time": 3776.777,
+      "duration": 1.3350000000000364,
+      "dialogue_text": "[Gasps]"
+    },
+    {
+      "subtitle_index": 231,
+      "start_time": 3784.868,
+      "end_time": 3786.995,
+      "duration": 2.1269999999999527,
+      "dialogue_text": "[Groans and coughs]"
+    },
+    {
+      "subtitle_index": 232,
+      "start_time": 3786.995,
+      "end_time": 3791.166,
+      "duration": 4.1710000000002765,
+      "dialogue_text": "[♪♪♪]"
+    },
+    {
+      "subtitle_index": 233,
+      "start_time": 3847.973,
+      "end_time": 3849.891,
+      "duration": 1.91800000000012,
+      "dialogue_text": "[Squawking]"
+    },
+    {
+      "subtitle_index": 234,
+      "start_time": 3911.662,
+      "end_time": 3913.581,
+      "duration": 1.9190000000003238,
+      "dialogue_text": "[Both grunting]"
+    },
+    {
+      "subtitle_index": 235,
+      "start_time": 3916.834,
+      "end_time": 3919.252,
+      "duration": 2.41800000000012,
+      "dialogue_text": "[Both laughing]"
+    },
+    {
+      "subtitle_index": 236,
+      "start_time": 3919.252,
+      "end_time": 3922.38,
+      "duration": 3.1280000000001564,
+      "dialogue_text": "[Flames roaring] [Boy coughing]"
+    },
+    {
+      "subtitle_index": 237,
+      "start_time": 4019.979,
+      "end_time": 4024.065,
+      "duration": 4.08600000000024,
+      "dialogue_text": "[♪♪♪]"
+    },
+    {
+      "subtitle_index": 238,
+      "start_time": 4024.065,
+      "end_time": 4025.985,
+      "duration": 1.9200000000000728,
+      "dialogue_text": "[Gasps]"
+    },
+    {
+      "subtitle_index": 239,
+      "start_time": 4033.241,
+      "end_time": 4037.037,
+      "duration": 3.7959999999998217,
+      "dialogue_text": "[♪♪♪]"
+    },
+    {
+      "subtitle_index": 240,
+      "start_time": 4075.116,
+      "end_time": 4076.994,
+      "duration": 1.8780000000001564,
+      "dialogue_text": "[Boy sighs]"
+    },
+    {
+      "subtitle_index": 241,
+      "start_time": 4095.178,
+      "end_time": 4099.349,
+      "duration": 4.1710000000002765,
+      "dialogue_text": "[♪♪♪]"
+    },
+    {
+      "subtitle_index": 242,
+      "start_time": 4184.226,
+      "end_time": 4185.561,
+      "duration": 1.3350000000000364,
+      "dialogue_text": "Hmm."
+    },
+    {
+      "subtitle_index": 243,
+      "start_time": 4248.373,
+      "end_time": 4250.084,
+      "duration": 1.71100000000024,
+      "dialogue_text": "(Boy) Hey."
+    },
+    {
+      "subtitle_index": 244,
+      "start_time": 4284.367,
+      "end_time": 4288.539,
+      "duration": 4.171999999999571,
+      "dialogue_text": "[♪♪♪]"
+    },
+    {
+      "subtitle_index": 245,
+      "start_time": 4344.094,
+      "end_time": 4348.015,
+      "duration": 3.9210000000002765,
+      "dialogue_text": "[♪♪♪]"
+    },
+    {
+      "subtitle_index": 246,
+      "start_time": 4383.759,
+      "end_time": 4386.011,
+      "duration": 2.2520000000004075,
+      "dialogue_text": "[♪♪♪]"
+    },
+    {
+      "subtitle_index": 247,
+      "start_time": 4473.348,
+      "end_time": 4474.683,
+      "duration": 1.3350000000000364,
+      "dialogue_text": "[Gasps]"
+    },
+    {
+      "subtitle_index": 248,
+      "start_time": 4475.559,
+      "end_time": 4479.73,
+      "duration": 4.170999999999367,
+      "dialogue_text": "[♪♪♪]"
+    },
+    {
+      "subtitle_index": 249,
+      "start_time": 4483.609,
+      "end_time": 4485.444,
+      "duration": 1.8350000000000364,
+      "dialogue_text": "[Sobs]"
+    },
+    {
+      "subtitle_index": 250,
+      "start_time": 4497.289,
+      "end_time": 4501.209,
+      "duration": 3.9200000000000728,
+      "dialogue_text": "[♪♪♪]"
+    },
+    {
+      "subtitle_index": 251,
+      "start_time": 4559.519,
+      "end_time": 4563.438,
+      "duration": 3.918999999999869,
+      "dialogue_text": "[♪♪♪]"
+    },
+    {
+      "subtitle_index": 252,
+      "start_time": 4616.366,
+      "end_time": 4620.287,
+      "duration": 3.9210000000002765,
+      "dialogue_text": "[♪♪♪]"
+    },
+    {
+      "subtitle_index": 253,
+      "start_time": 4730.606,
+      "end_time": 4734.527,
+      "duration": 3.9210000000002765,
+      "dialogue_text": "[♪♪♪]"
+    }
+  ]
+}

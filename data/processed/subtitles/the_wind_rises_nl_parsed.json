@@ -1,0 +1,6557 @@
+{
+  "metadata": {
+    "film_name": "The Wind Rises",
+    "film_slug": "the_wind_rises_nl",
+    "language_code": "nl",
+    "total_subtitles": 935,
+    "total_duration": 12725.795999999998,
+    "parse_timestamp": "2025-10-30T17:09:42.856596"
+  },
+  "subtitles": [
+    {
+      "subtitle_index": 1,
+      "start_time": 300.004,
+      "end_time": 301.032,
+      "duration": 1.0279999999999632,
+      "dialogue_text": "Hier is hij!"
+    },
+    {
+      "subtitle_index": 2,
+      "start_time": 305.988,
+      "end_time": 306.999,
+      "duration": 1.011000000000024,
+      "dialogue_text": "Ik kan hem echt lenen?"
+    },
+    {
+      "subtitle_index": 3,
+      "start_time": 308.557,
+      "end_time": 309.227,
+      "duration": 0.6699999999999591,
+      "dialogue_text": "Hij is wel in het Engels."
+    },
+    {
+      "subtitle_index": 4,
+      "start_time": 309.426,
+      "end_time": 310.818,
+      "duration": 1.391999999999996,
+      "dialogue_text": "Ik zal een woordenboek lenen."
+    },
+    {
+      "subtitle_index": 5,
+      "start_time": 311.4,
+      "end_time": 312.8,
+      "duration": 1.400000000000034,
+      "dialogue_text": "Dat moet je doen."
+    },
+    {
+      "subtitle_index": 6,
+      "start_time": 312.9,
+      "end_time": 313.5,
+      "duration": 0.6000000000000227,
+      "dialogue_text": "Goed!"
+    },
+    {
+      "subtitle_index": 7,
+      "start_time": 330.98,
+      "end_time": 331.7,
+      "duration": 0.7199999999999704,
+      "dialogue_text": "Stop daarmee!"
+    },
+    {
+      "subtitle_index": 8,
+      "start_time": 331.5,
+      "end_time": 333.0,
+      "duration": 1.5,
+      "dialogue_text": "Wat wil je?!"
+    },
+    {
+      "subtitle_index": 9,
+      "start_time": 332.9,
+      "end_time": 334.4,
+      "duration": 1.5,
+      "dialogue_text": "Loop weg!"
+    },
+    {
+      "subtitle_index": 10,
+      "start_time": 334.52,
+      "end_time": 337.6,
+      "duration": 3.080000000000041,
+      "dialogue_text": "Jiro, wat bedoel je daarmee?!"
+    },
+    {
+      "subtitle_index": 11,
+      "start_time": 337.49,
+      "end_time": 338.86,
+      "duration": 1.3700000000000045,
+      "dialogue_text": "Je moet jongere klasgenoten niet pesten."
+    },
+    {
+      "subtitle_index": 12,
+      "start_time": 338.6,
+      "end_time": 341.4,
+      "duration": 2.7999999999999545,
+      "dialogue_text": "Hoe durf je! Dit is schandalig!"
+    },
+    {
+      "subtitle_index": 13,
+      "start_time": 354.9,
+      "end_time": 358.0,
+      "duration": 3.1000000000000227,
+      "dialogue_text": "Het lijkt erop dat je iets heel moedig deed."
+    },
+    {
+      "subtitle_index": 14,
+      "start_time": 358.5,
+      "end_time": 360.5,
+      "duration": 2.0,
+      "dialogue_text": "Ik viel gewoon per ongeluk."
+    },
+    {
+      "subtitle_index": 15,
+      "start_time": 361.0,
+      "end_time": 363.12,
+      "duration": 2.1200000000000045,
+      "dialogue_text": "Onthoud dat het verkeerd is om te vechten."
+    },
+    {
+      "subtitle_index": 16,
+      "start_time": 362.8,
+      "end_time": 363.6,
+      "duration": 0.8000000000000114,
+      "dialogue_text": "Ik begrijp het."
+    },
+    {
+      "subtitle_index": 17,
+      "start_time": 363.6,
+      "end_time": 366.8,
+      "duration": 3.1999999999999886,
+      "dialogue_text": "Ga je maar wassen."
+    },
+    {
+      "subtitle_index": 18,
+      "start_time": 367.4,
+      "end_time": 368.0,
+      "duration": 0.6000000000000227,
+      "dialogue_text": "Goed."
+    },
+    {
+      "subtitle_index": 19,
+      "start_time": 370.85,
+      "end_time": 372.7,
+      "duration": 1.849999999999966,
+      "dialogue_text": "Mijn broer Jiro!"
+    },
+    {
+      "subtitle_index": 20,
+      "start_time": 374.9,
+      "end_time": 377.5,
+      "duration": 2.6000000000000227,
+      "dialogue_text": "Jiro! Kom mee libellen vangen met ons!"
+    },
+    {
+      "subtitle_index": 21,
+      "start_time": 379.0,
+      "end_time": 381.5,
+      "duration": 2.5,
+      "dialogue_text": "Jiro, broer!"
+    },
+    {
+      "subtitle_index": 22,
+      "start_time": 383.6,
+      "end_time": 386.0,
+      "duration": 2.3999999999999773,
+      "dialogue_text": "Kom meespelen met ons!"
+    },
+    {
+      "subtitle_index": 23,
+      "start_time": 390.8,
+      "end_time": 393.4,
+      "duration": 2.599999999999966,
+      "dialogue_text": "Je beloofde ons om mee te doen!"
+    },
+    {
+      "subtitle_index": 24,
+      "start_time": 394.0,
+      "end_time": 394.9,
+      "duration": 0.8999999999999773,
+      "dialogue_text": "Ik wil lezen!"
+    },
+    {
+      "subtitle_index": 25,
+      "start_time": 400.0,
+      "end_time": 401.9,
+      "duration": 1.8999999999999773,
+      "dialogue_text": "Je gaat niet lezen!"
+    },
+    {
+      "subtitle_index": 26,
+      "start_time": 402.1,
+      "end_time": 403.9,
+      "duration": 1.7999999999999545,
+      "dialogue_text": "Ik heb hier een Engels magazine."
+    },
+    {
+      "subtitle_index": 27,
+      "start_time": 406.5,
+      "end_time": 409.5,
+      "duration": 3.0,
+      "dialogue_text": "Zijn baard is zo vreemd!"
+    },
+    {
+      "subtitle_index": 28,
+      "start_time": 409.0,
+      "end_time": 416.0,
+      "duration": 7.0,
+      "dialogue_text": "Hij is een beroemde Italiaan. Earl Caproni, vliegtuigontwerper."
+    },
+    {
+      "subtitle_index": 29,
+      "start_time": 416.5,
+      "end_time": 417.5,
+      "duration": 1.0,
+      "dialogue_text": "Jiro, wat is er met je gezicht gebeurd?"
+    },
+    {
+      "subtitle_index": 30,
+      "start_time": 418.0,
+      "end_time": 419.5,
+      "duration": 1.5,
+      "dialogue_text": "Niet nieuwsgierig zijn!"
+    },
+    {
+      "subtitle_index": 31,
+      "start_time": 420.0,
+      "end_time": 422.0,
+      "duration": 2.0,
+      "dialogue_text": "Ik haal een genezende siroop om je te helpen!"
+    },
+    {
+      "subtitle_index": 32,
+      "start_time": 423.0,
+      "end_time": 424.0,
+      "duration": 1.0,
+      "dialogue_text": "Oké, hou je nu maar stil!"
+    },
+    {
+      "subtitle_index": 33,
+      "start_time": 434.25,
+      "end_time": 436.0,
+      "duration": 1.75,
+      "dialogue_text": "Jiro, wat doe je?"
+    },
+    {
+      "subtitle_index": 34,
+      "start_time": 437.0,
+      "end_time": 438.3,
+      "duration": 1.3000000000000114,
+      "dialogue_text": "Je moet niet naar hier komen, Kayo!"
+    },
+    {
+      "subtitle_index": 35,
+      "start_time": 438.5,
+      "end_time": 439.6,
+      "duration": 1.1000000000000227,
+      "dialogue_text": "Draag je nu geen bril meer?"
+    },
+    {
+      "subtitle_index": 36,
+      "start_time": 439.8,
+      "end_time": 445.0,
+      "duration": 5.199999999999989,
+      "dialogue_text": "Naar de sterren kijk ik er zonder. Zo zie ik de dingen veel beter."
+    },
+    {
+      "subtitle_index": 37,
+      "start_time": 446.0,
+      "end_time": 447.0,
+      "duration": 1.0,
+      "dialogue_text": "Moeder zal je hiervoor berispen."
+    },
+    {
+      "subtitle_index": 38,
+      "start_time": 447.9,
+      "end_time": 449.0,
+      "duration": 1.1000000000000227,
+      "dialogue_text": "Kijk, een meteoor!"
+    },
+    {
+      "subtitle_index": 39,
+      "start_time": 450.0,
+      "end_time": 451.0,
+      "duration": 1.0,
+      "dialogue_text": "Kijk, daar is ze."
+    },
+    {
+      "subtitle_index": 40,
+      "start_time": 452.0,
+      "end_time": 454.0,
+      "duration": 2.0,
+      "dialogue_text": "Het is zo mooi, ah!"
+    },
+    {
+      "subtitle_index": 41,
+      "start_time": 454.5,
+      "end_time": 456.0,
+      "duration": 1.5,
+      "dialogue_text": "Daar is er nog een."
+    },
+    {
+      "subtitle_index": 42,
+      "start_time": 458.0,
+      "end_time": 460.0,
+      "duration": 2.0,
+      "dialogue_text": "Daar. Ginder ook."
+    },
+    {
+      "subtitle_index": 43,
+      "start_time": 495.0,
+      "end_time": 496.5,
+      "duration": 1.5,
+      "dialogue_text": "Ik ben een jongen uit Japan!"
+    },
+    {
+      "subtitle_index": 44,
+      "start_time": 501.0,
+      "end_time": 505.0,
+      "duration": 4.0,
+      "dialogue_text": "Dit is wel mijn droom!"
+    },
+    {
+      "subtitle_index": 45,
+      "start_time": 519.0,
+      "end_time": 523.0,
+      "duration": 4.0,
+      "dialogue_text": "Dit zou alleen maar mijn droom mogen zijn."
+    },
+    {
+      "subtitle_index": 46,
+      "start_time": 523.0,
+      "end_time": 524.0,
+      "duration": 1.0,
+      "dialogue_text": "Dit is mijn droom."
+    },
+    {
+      "subtitle_index": 47,
+      "start_time": 525.0,
+      "end_time": 531.0,
+      "duration": 6.0,
+      "dialogue_text": "Is dit jouw droom, Japanse jongen? Zeg je dat we samen dromen?"
+    },
+    {
+      "subtitle_index": 48,
+      "start_time": 531.0,
+      "end_time": 534.0,
+      "duration": 3.0,
+      "dialogue_text": "Dit is prachtig. Ik weet dat jij Caproni Earl bent,"
+    },
+    {
+      "subtitle_index": 49,
+      "start_time": 535.0,
+      "end_time": 536.0,
+      "duration": 1.0,
+      "dialogue_text": "en ik blij je te ontmoeten!"
+    },
+    {
+      "subtitle_index": 50,
+      "start_time": 537.0,
+      "end_time": 542.0,
+      "duration": 5.0,
+      "dialogue_text": "Dit is echt interessant. Dit is inderdaad een hele droomwereld."
+    },
+    {
+      "subtitle_index": 51,
+      "start_time": 542.9,
+      "end_time": 543.5,
+      "duration": 0.6000000000000227,
+      "dialogue_text": "Welkom in mijn koninkrijk."
+    },
+    {
+      "subtitle_index": 52,
+      "start_time": 544.0,
+      "end_time": 545.0,
+      "duration": 1.0,
+      "dialogue_text": "Ik ben zeer vereerd."
+    },
+    {
+      "subtitle_index": 53,
+      "start_time": 547.0,
+      "end_time": 548.0,
+      "duration": 1.0,
+      "dialogue_text": "Kijk!"
+    },
+    {
+      "subtitle_index": 54,
+      "start_time": 553.0,
+      "end_time": 557.0,
+      "duration": 4.0,
+      "dialogue_text": "Ze gaan vijandelijker steden bombarderen. De helft van hen zal nooit terugkeren."
+    },
+    {
+      "subtitle_index": 55,
+      "start_time": 564.0,
+      "end_time": 566.0,
+      "duration": 2.0,
+      "dialogue_text": "Maar de oorlog loopt ten einde."
+    },
+    {
+      "subtitle_index": 56,
+      "start_time": 574.0,
+      "end_time": 576.0,
+      "duration": 2.0,
+      "dialogue_text": "Spring erop, jonge Japanse jongen!"
+    },
+    {
+      "subtitle_index": 57,
+      "start_time": 579.0,
+      "end_time": 583.0,
+      "duration": 4.0,
+      "dialogue_text": "Als deze oorlog gedaan is, is het mijn om dit ding te maken."
+    },
+    {
+      "subtitle_index": 58,
+      "start_time": 584.0,
+      "end_time": 586.0,
+      "duration": 2.0,
+      "dialogue_text": "Stel je eens voor hoe knap het zou zijn!"
+    },
+    {
+      "subtitle_index": 59,
+      "start_time": 588.0,
+      "end_time": 589.0,
+      "duration": 1.0,
+      "dialogue_text": "We stijgen op!"
+    },
+    {
+      "subtitle_index": 60,
+      "start_time": 592.1,
+      "end_time": 595.0,
+      "duration": 2.8999999999999773,
+      "dialogue_text": "Het zal geen bommen vervoeren, maar passagiers."
+    },
+    {
+      "subtitle_index": 61,
+      "start_time": 604.0,
+      "end_time": 606.0,
+      "duration": 2.0,
+      "dialogue_text": "In het begin zal er geen export zijn."
+    },
+    {
+      "subtitle_index": 62,
+      "start_time": 607.0,
+      "end_time": 609.0,
+      "duration": 2.0,
+      "dialogue_text": "Het is echt makkelijk om te dromen, als je het echt wilt, natuurlijk."
+    },
+    {
+      "subtitle_index": 63,
+      "start_time": 617.0,
+      "end_time": 620.0,
+      "duration": 3.0,
+      "dialogue_text": "Kom aan, kom aan! Stap gewoon langzaam over de steun!"
+    },
+    {
+      "subtitle_index": 64,
+      "start_time": 625.0,
+      "end_time": 628.0,
+      "duration": 3.0,
+      "dialogue_text": "Kijk."
+    },
+    {
+      "subtitle_index": 65,
+      "start_time": 660.0,
+      "end_time": 661.0,
+      "duration": 1.0,
+      "dialogue_text": "Het is echt prachtig, nietwaar?"
+    },
+    {
+      "subtitle_index": 66,
+      "start_time": 662.0,
+      "end_time": 663.0,
+      "duration": 1.0,
+      "dialogue_text": "Ah, schitterend!"
+    },
+    {
+      "subtitle_index": 67,
+      "start_time": 668.0,
+      "end_time": 672.0,
+      "duration": 4.0,
+      "dialogue_text": "Dan zal hij de 100 passagiers over de Atlantische Oceaan brengen."
+    },
+    {
+      "subtitle_index": 68,
+      "start_time": 673.0,
+      "end_time": 676.0,
+      "duration": 3.0,
+      "dialogue_text": "Mr. Caproni, ik heb een vraag."
+    },
+    {
+      "subtitle_index": 69,
+      "start_time": 677.0,
+      "end_time": 680.0,
+      "duration": 3.0,
+      "dialogue_text": "Zal ik vliegtuigen kunnen ontwerpen ondanks mijn bijziendheid?"
+    },
+    {
+      "subtitle_index": 70,
+      "start_time": 682.0,
+      "end_time": 685.0,
+      "duration": 3.0,
+      "dialogue_text": "Ik kan al niet zelf vliegen door mijn bijziendheid."
+    },
+    {
+      "subtitle_index": 71,
+      "start_time": 687.0,
+      "end_time": 693.0,
+      "duration": 6.0,
+      "dialogue_text": "Luister naar mij. Je moet niet vliegen, jonge Japanner, je moet vliegtuigen maken."
+    },
+    {
+      "subtitle_index": 72,
+      "start_time": 694.0,
+      "end_time": 699.0,
+      "duration": 5.0,
+      "dialogue_text": "Velen willen piloot worden. De wereld telt veel piloten, en niet veel mensen zoals ik."
+    },
+    {
+      "subtitle_index": 73,
+      "start_time": 700.0,
+      "end_time": 701.0,
+      "duration": 1.0,
+      "dialogue_text": "Vliegtuigontwerpers."
+    },
+    {
+      "subtitle_index": 74,
+      "start_time": 701.6,
+      "end_time": 702.0,
+      "duration": 0.39999999999997726,
+      "dialogue_text": "Dat is juist!"
+    },
+    {
+      "subtitle_index": 75,
+      "start_time": 703.0,
+      "end_time": 708.0,
+      "duration": 5.0,
+      "dialogue_text": "Luister, Japanse jongen. Vliegtuigontwerper is geen koopwaar noch oorlogsgereedschap."
+    },
+    {
+      "subtitle_index": 76,
+      "start_time": 709.0,
+      "end_time": 713.8,
+      "duration": 4.7999999999999545,
+      "dialogue_text": "Je droom is om vliegtuigen te ontwerpen, en je doel is het waar maken."
+    },
+    {
+      "subtitle_index": 77,
+      "start_time": 714.0,
+      "end_time": 715.6,
+      "duration": 1.6000000000000227,
+      "dialogue_text": "Klopt!"
+    },
+    {
+      "subtitle_index": 78,
+      "start_time": 716.0,
+      "end_time": 719.0,
+      "duration": 3.0,
+      "dialogue_text": "Nou, vaarwel!"
+    },
+    {
+      "subtitle_index": 79,
+      "start_time": 732.0,
+      "end_time": 735.0,
+      "duration": 3.0,
+      "dialogue_text": "Jiro, goed dat je wakker werd."
+    },
+    {
+      "subtitle_index": 80,
+      "start_time": 736.0,
+      "end_time": 741.0,
+      "duration": 5.0,
+      "dialogue_text": "Je was hardop aan het dromen. Verbaas je dan niet dat ik bang werd."
+    },
+    {
+      "subtitle_index": 81,
+      "start_time": 742.0,
+      "end_time": 744.0,
+      "duration": 2.0,
+      "dialogue_text": "Mams, ik wil vliegtuigontwerper worden."
+    },
+    {
+      "subtitle_index": 82,
+      "start_time": 745.0,
+      "end_time": 747.0,
+      "duration": 2.0,
+      "dialogue_text": "Dit was dus een erg goede droom."
+    },
+    {
+      "subtitle_index": 83,
+      "start_time": 748.0,
+      "end_time": 750.0,
+      "duration": 2.0,
+      "dialogue_text": "De droom zei me dat het vliegtuig de droom is die in mij zit."
+    },
+    {
+      "subtitle_index": 84,
+      "start_time": 751.0,
+      "end_time": 753.0,
+      "duration": 2.0,
+      "dialogue_text": "Ik wil echt een heel mooi vliegtuig maken."
+    },
+    {
+      "subtitle_index": 85,
+      "start_time": 782.33,
+      "end_time": 783.0,
+      "duration": 0.6699999999999591,
+      "dialogue_text": "Als mevrouw wil plaats nemen."
+    },
+    {
+      "subtitle_index": 86,
+      "start_time": 783.8,
+      "end_time": 784.8,
+      "duration": 1.0,
+      "dialogue_text": "Excuseer me."
+    },
+    {
+      "subtitle_index": 87,
+      "start_time": 784.9,
+      "end_time": 786.0,
+      "duration": 1.1000000000000227,
+      "dialogue_text": "Je kan nu gaan zitten."
+    },
+    {
+      "subtitle_index": 88,
+      "start_time": 818.6,
+      "end_time": 822.0,
+      "duration": 3.3999999999999773,
+      "dialogue_text": "Ah, het is echt mooi!"
+    },
+    {
+      "subtitle_index": 89,
+      "start_time": 823.0,
+      "end_time": 825.0,
+      "duration": 2.0,
+      "dialogue_text": "Juffrouw, voorzichtig! Je hoed kan afwaaien."
+    },
+    {
+      "subtitle_index": 90,
+      "start_time": 825.5,
+      "end_time": 827.0,
+      "duration": 1.5,
+      "dialogue_text": "Maakt niet uit."
+    },
+    {
+      "subtitle_index": 91,
+      "start_time": 839.0,
+      "end_time": 840.0,
+      "duration": 1.0,
+      "dialogue_text": "Gaat het?"
+    },
+    {
+      "subtitle_index": 92,
+      "start_time": 840.9,
+      "end_time": 841.5,
+      "duration": 0.6000000000000227,
+      "dialogue_text": "Het gaat goed."
+    },
+    {
+      "subtitle_index": 93,
+      "start_time": 842.0,
+      "end_time": 843.0,
+      "duration": 1.0,
+      "dialogue_text": "Nou, geweldige beweging!"
+    },
+    {
+      "subtitle_index": 94,
+      "start_time": 844.0,
+      "end_time": 845.6,
+      "duration": 1.6000000000000227,
+      "dialogue_text": "Bedankt."
+    },
+    {
+      "subtitle_index": 95,
+      "start_time": 845.8,
+      "end_time": 849.0,
+      "duration": 3.2000000000000455,
+      "dialogue_text": "\"De wind komt op\""
+    },
+    {
+      "subtitle_index": 96,
+      "start_time": 849.9,
+      "end_time": 852.0,
+      "duration": 2.1000000000000227,
+      "dialogue_text": "\"We moeten proberen het te overleven.\""
+    },
+    {
+      "subtitle_index": 97,
+      "start_time": 876.0,
+      "end_time": 879.0,
+      "duration": 3.0,
+      "dialogue_text": "\"De wind komt op, we moeten proberen het te overleven.\" (Paul Valery)"
+    },
+    {
+      "subtitle_index": 98,
+      "start_time": 879.8,
+      "end_time": 884.0,
+      "duration": 4.2000000000000455,
+      "dialogue_text": "Zeer goed, echt interessant strofe."
+    },
+    {
+      "subtitle_index": 99,
+      "start_time": 933.33,
+      "end_time": 935.0,
+      "duration": 1.669999999999959,
+      "dialogue_text": "Aardbeving!"
+    },
+    {
+      "subtitle_index": 100,
+      "start_time": 985.0,
+      "end_time": 987.0,
+      "duration": 2.0,
+      "dialogue_text": "De motor gaat ontploffen!"
+    },
+    {
+      "subtitle_index": 101,
+      "start_time": 996.0,
+      "end_time": 997.0,
+      "duration": 1.0,
+      "dialogue_text": "Wat is er gebeurd?"
+    },
+    {
+      "subtitle_index": 102,
+      "start_time": 997.8,
+      "end_time": 998.5,
+      "duration": 0.7000000000000455,
+      "dialogue_text": "Het is haar been!"
+    },
+    {
+      "subtitle_index": 103,
+      "start_time": 998.8,
+      "end_time": 1000.0,
+      "duration": 1.2000000000000455,
+      "dialogue_text": "Laat mij eens kijken."
+    },
+    {
+      "subtitle_index": 104,
+      "start_time": 1002.0,
+      "end_time": 1003.0,
+      "duration": 1.0,
+      "dialogue_text": "Het doet pijn, ah!"
+    },
+    {
+      "subtitle_index": 105,
+      "start_time": 1003.6,
+      "end_time": 1004.0,
+      "duration": 0.39999999999997726,
+      "dialogue_text": "Goed, hou je vast!"
+    },
+    {
+      "subtitle_index": 106,
+      "start_time": 1004.5,
+      "end_time": 1007.0,
+      "duration": 2.5,
+      "dialogue_text": "Zo kan ze niet lopen."
+    },
+    {
+      "subtitle_index": 107,
+      "start_time": 1007.5,
+      "end_time": 1010.0,
+      "duration": 2.5,
+      "dialogue_text": "Juffrouw, je kan beter snel lopen vooraleer de trein explodeert!"
+    },
+    {
+      "subtitle_index": 108,
+      "start_time": 1010.6,
+      "end_time": 1012.0,
+      "duration": 1.3999999999999773,
+      "dialogue_text": "Geloof niet wat ze zeggen!"
+    },
+    {
+      "subtitle_index": 109,
+      "start_time": 1013.0,
+      "end_time": 1017.0,
+      "duration": 4.0,
+      "dialogue_text": "Maak je geen zorgen, de treinmotor zal niet exploderen."
+    },
+    {
+      "subtitle_index": 110,
+      "start_time": 1018.0,
+      "end_time": 1019.5,
+      "duration": 1.5,
+      "dialogue_text": "Geef me mijn koffer."
+    },
+    {
+      "subtitle_index": 111,
+      "start_time": 1025.0,
+      "end_time": 1026.0,
+      "duration": 1.0,
+      "dialogue_text": "Probeer je te ontspannen."
+    },
+    {
+      "subtitle_index": 112,
+      "start_time": 1026.5,
+      "end_time": 1027.0,
+      "duration": 0.5,
+      "dialogue_text": "Hier gaan we."
+    },
+    {
+      "subtitle_index": 113,
+      "start_time": 1032.0,
+      "end_time": 1033.5,
+      "duration": 1.5,
+      "dialogue_text": "Zo kan je niet lopen."
+    },
+    {
+      "subtitle_index": 114,
+      "start_time": 1033.9,
+      "end_time": 1034.9,
+      "duration": 1.0,
+      "dialogue_text": "Waar woon je?"
+    },
+    {
+      "subtitle_index": 115,
+      "start_time": 1035.1,
+      "end_time": 1035.9,
+      "duration": 0.8000000000001819,
+      "dialogue_text": "In Ueno."
+    },
+    {
+      "subtitle_index": 116,
+      "start_time": 1036.0,
+      "end_time": 1037.5,
+      "duration": 1.5,
+      "dialogue_text": "Ik zal je er heen brengen."
+    },
+    {
+      "subtitle_index": 117,
+      "start_time": 1049.0,
+      "end_time": 1049.9,
+      "duration": 0.900000000000091,
+      "dialogue_text": "Vuur!"
+    },
+    {
+      "subtitle_index": 118,
+      "start_time": 1050.2,
+      "end_time": 1051.0,
+      "duration": 0.7999999999999545,
+      "dialogue_text": "Kom, we gaan!"
+    },
+    {
+      "subtitle_index": 119,
+      "start_time": 1066.0,
+      "end_time": 1067.4,
+      "duration": 1.400000000000091,
+      "dialogue_text": "En je baggage?"
+    },
+    {
+      "subtitle_index": 120,
+      "start_time": 1067.9,
+      "end_time": 1068.8,
+      "duration": 0.8999999999998636,
+      "dialogue_text": "Dat doet er niet toe."
+    },
+    {
+      "subtitle_index": 121,
+      "start_time": 1090.0,
+      "end_time": 1091.0,
+      "duration": 1.0,
+      "dialogue_text": "Het spijt me zo erg!"
+    },
+    {
+      "subtitle_index": 122,
+      "start_time": 1091.8,
+      "end_time": 1095.0,
+      "duration": 3.2000000000000455,
+      "dialogue_text": "Wees voorzichtig!"
+    },
+    {
+      "subtitle_index": 123,
+      "start_time": 1103.0,
+      "end_time": 1104.0,
+      "duration": 1.0,
+      "dialogue_text": "Vooruit!"
+    },
+    {
+      "subtitle_index": 124,
+      "start_time": 1147.5,
+      "end_time": 1150.0,
+      "duration": 2.5,
+      "dialogue_text": "Nou, mijn nieuw hemd heeft het niet lang uit gehouden!"
+    },
+    {
+      "subtitle_index": 125,
+      "start_time": 1150.5,
+      "end_time": 1152.4,
+      "duration": 1.900000000000091,
+      "dialogue_text": "Ik zal er water voor je uitnijpen. Doe je mond open."
+    },
+    {
+      "subtitle_index": 126,
+      "start_time": 1155.9,
+      "end_time": 1157.0,
+      "duration": 1.099999999999909,
+      "dialogue_text": "Zo ja!"
+    },
+    {
+      "subtitle_index": 127,
+      "start_time": 1157.8,
+      "end_time": 1158.5,
+      "duration": 0.7000000000000455,
+      "dialogue_text": "Wil jij ook wat water?"
+    },
+    {
+      "subtitle_index": 128,
+      "start_time": 1158.9,
+      "end_time": 1159.5,
+      "duration": 0.599999999999909,
+      "dialogue_text": "Ja!"
+    },
+    {
+      "subtitle_index": 129,
+      "start_time": 1165.0,
+      "end_time": 1167.0,
+      "duration": 2.0,
+      "dialogue_text": "Ik denk dat er hier geen brand zal komen."
+    },
+    {
+      "subtitle_index": 130,
+      "start_time": 1167.5,
+      "end_time": 1170.0,
+      "duration": 2.5,
+      "dialogue_text": "Ik ga naar de oostkant van de stad om iemand te zoeken."
+    },
+    {
+      "subtitle_index": 131,
+      "start_time": 1170.5,
+      "end_time": 1172.0,
+      "duration": 1.5,
+      "dialogue_text": "Ik zal met je meegaan!"
+    },
+    {
+      "subtitle_index": 132,
+      "start_time": 1172.5,
+      "end_time": 1174.4,
+      "duration": 1.900000000000091,
+      "dialogue_text": "Ik ga iemand roepen die je kan komen helpen!"
+    },
+    {
+      "subtitle_index": 133,
+      "start_time": 1174.8,
+      "end_time": 1176.0,
+      "duration": 1.2000000000000455,
+      "dialogue_text": "Zorg hier alsjeblieft voor."
+    },
+    {
+      "subtitle_index": 134,
+      "start_time": 1176.4,
+      "end_time": 1177.0,
+      "duration": 0.599999999999909,
+      "dialogue_text": "Dat zal ik doen!"
+    },
+    {
+      "subtitle_index": 135,
+      "start_time": 1177.5,
+      "end_time": 1179.0,
+      "duration": 1.5,
+      "dialogue_text": "Maak je geen zorgen, ik ben dadelijk terug!"
+    },
+    {
+      "subtitle_index": 136,
+      "start_time": 1179.5,
+      "end_time": 1180.4,
+      "duration": 0.900000000000091,
+      "dialogue_text": "Goed!"
+    },
+    {
+      "subtitle_index": 137,
+      "start_time": 1180.9,
+      "end_time": 1182.0,
+      "duration": 1.099999999999909,
+      "dialogue_text": "Hou mijn koffer goed bij."
+    },
+    {
+      "subtitle_index": 138,
+      "start_time": 1259.4,
+      "end_time": 1261.0,
+      "duration": 1.599999999999909,
+      "dialogue_text": "Meneer, hartelijk bedankt voor alles!"
+    },
+    {
+      "subtitle_index": 139,
+      "start_time": 1261.4,
+      "end_time": 1262.2,
+      "duration": 0.7999999999999545,
+      "dialogue_text": "Graag gedaan."
+    },
+    {
+      "subtitle_index": 140,
+      "start_time": 1262.8,
+      "end_time": 1264.5,
+      "duration": 1.7000000000000455,
+      "dialogue_text": "Meneer! Zeg me je naam alsjeblieft!"
+    },
+    {
+      "subtitle_index": 141,
+      "start_time": 1268.8,
+      "end_time": 1270.0,
+      "duration": 1.2000000000000455,
+      "dialogue_text": "Hij is echt een goede kerel."
+    },
+    {
+      "subtitle_index": 142,
+      "start_time": 1289.0,
+      "end_time": 1291.0,
+      "duration": 2.0,
+      "dialogue_text": "Jiro, kom terug! Niet het beste moment voor je om terug te komen, hé?"
+    },
+    {
+      "subtitle_index": 143,
+      "start_time": 1291.8,
+      "end_time": 1293.0,
+      "duration": 1.2000000000000455,
+      "dialogue_text": "Wat gebeurde er met het vlieginstituut?"
+    },
+    {
+      "subtitle_index": 144,
+      "start_time": 1293.5,
+      "end_time": 1295.8,
+      "duration": 2.2999999999999545,
+      "dialogue_text": "Heel het oostelijke gebied gaat in vlammen op."
+    },
+    {
+      "subtitle_index": 145,
+      "start_time": 1297.0,
+      "end_time": 1299.0,
+      "duration": 2.0,
+      "dialogue_text": "We proberen zoveel te redden als we kunnen."
+    },
+    {
+      "subtitle_index": 146,
+      "start_time": 1300.0,
+      "end_time": 1301.0,
+      "duration": 1.0,
+      "dialogue_text": "Heb je een sigaret?"
+    },
+    {
+      "subtitle_index": 147,
+      "start_time": 1306.0,
+      "end_time": 1308.5,
+      "duration": 2.5,
+      "dialogue_text": "Was dat een stuk van een deur dat daar rond vloog of zo?"
+    },
+    {
+      "subtitle_index": 148,
+      "start_time": 1309.0,
+      "end_time": 1311.0,
+      "duration": 2.0,
+      "dialogue_text": "Tokio staat nu volledig in brand."
+    },
+    {
+      "subtitle_index": 149,
+      "start_time": 1325.6,
+      "end_time": 1330.0,
+      "duration": 4.400000000000091,
+      "dialogue_text": "Hij verwachtte niet echt dat zijn dromen zouden uitkomen. Caproni is zo geweldig!"
+    },
+    {
+      "subtitle_index": 150,
+      "start_time": 1388.0,
+      "end_time": 1389.0,
+      "duration": 1.0,
+      "dialogue_text": "Niet schieten!"
+    },
+    {
+      "subtitle_index": 151,
+      "start_time": 1397.6,
+      "end_time": 1399.0,
+      "duration": 1.400000000000091,
+      "dialogue_text": "De wind verspreidt het vuur!"
+    },
+    {
+      "subtitle_index": 152,
+      "start_time": 1403.0,
+      "end_time": 1406.9,
+      "duration": 3.900000000000091,
+      "dialogue_text": "De wind blaast hard! Hou je goed, Japanse jongen!"
+    },
+    {
+      "subtitle_index": 153,
+      "start_time": 1407.5,
+      "end_time": 1409.0,
+      "duration": 1.5,
+      "dialogue_text": "Ja, dat zal ik doen!"
+    },
+    {
+      "subtitle_index": 154,
+      "start_time": 1410.0,
+      "end_time": 1412.7,
+      "duration": 2.7000000000000455,
+      "dialogue_text": "Je moet overleven!"
+    },
+    {
+      "subtitle_index": 155,
+      "start_time": 1473.1,
+      "end_time": 1474.0,
+      "duration": 0.900000000000091,
+      "dialogue_text": "Jiro, kom eens hier."
+    },
+    {
+      "subtitle_index": 156,
+      "start_time": 1475.0,
+      "end_time": 1475.8,
+      "duration": 0.7999999999999545,
+      "dialogue_text": "Ja."
+    },
+    {
+      "subtitle_index": 157,
+      "start_time": 1477.0,
+      "end_time": 1480.0,
+      "duration": 3.0,
+      "dialogue_text": "Dit oude gebouw is helemaal niet veranderd."
+    },
+    {
+      "subtitle_index": 158,
+      "start_time": 1480.5,
+      "end_time": 1482.8,
+      "duration": 2.2999999999999545,
+      "dialogue_text": "Maar de straat lijkt veel breder dan ooit tevoren."
+    },
+    {
+      "subtitle_index": 159,
+      "start_time": 1483.0,
+      "end_time": 1484.8,
+      "duration": 1.7999999999999545,
+      "dialogue_text": "Het was vroeger ook zo."
+    },
+    {
+      "subtitle_index": 160,
+      "start_time": 1487.5,
+      "end_time": 1488.7,
+      "duration": 1.2000000000000455,
+      "dialogue_text": "Welkom!"
+    },
+    {
+      "subtitle_index": 161,
+      "start_time": 1493.0,
+      "end_time": 1494.3,
+      "duration": 1.2999999999999545,
+      "dialogue_text": "Jiro, waarom eet je een haring?"
+    },
+    {
+      "subtitle_index": 162,
+      "start_time": 1494.5,
+      "end_time": 1496.0,
+      "duration": 1.5,
+      "dialogue_text": "Omdat haring erg lekker is."
+    },
+    {
+      "subtitle_index": 163,
+      "start_time": 1496.7,
+      "end_time": 1499.0,
+      "duration": 2.2999999999999545,
+      "dialogue_text": "De lectuur van de universiteit is oud en allemaal hetzelfde, niets nieuws."
+    },
+    {
+      "subtitle_index": 164,
+      "start_time": 1499.5,
+      "end_time": 1500.5,
+      "duration": 1.0,
+      "dialogue_text": "Xiaojun, kan je me eieren brengen?"
+    },
+    {
+      "subtitle_index": 165,
+      "start_time": 1500.8,
+      "end_time": 1501.2,
+      "duration": 0.40000000000009095,
+      "dialogue_text": "Goed!"
+    },
+    {
+      "subtitle_index": 166,
+      "start_time": 1501.9,
+      "end_time": 1504.0,
+      "duration": 2.099999999999909,
+      "dialogue_text": "En aluminium trad het tijdperk binnen van zijn grote mogelijkheden."
+    },
+    {
+      "subtitle_index": 167,
+      "start_time": 1505.0,
+      "end_time": 1509.5,
+      "duration": 4.5,
+      "dialogue_text": "We zijn een heel decennium te laat."
+    },
+    {
+      "subtitle_index": 168,
+      "start_time": 1511.0,
+      "end_time": 1511.8,
+      "duration": 0.7999999999999545,
+      "dialogue_text": "Wat doe je?"
+    },
+    {
+      "subtitle_index": 169,
+      "start_time": 1512.0,
+      "end_time": 1513.5,
+      "duration": 1.5,
+      "dialogue_text": "Het is leuk, niet?"
+    },
+    {
+      "subtitle_index": 170,
+      "start_time": 1514.0,
+      "end_time": 1516.5,
+      "duration": 2.5,
+      "dialogue_text": "Vind je dit geen leuke bocht?"
+    },
+    {
+      "subtitle_index": 171,
+      "start_time": 1516.9,
+      "end_time": 1519.8,
+      "duration": 2.8999999999998636,
+      "dialogue_text": "Haring eten staat je goed, omdat je houdt van het beeld van en visgraat!"
+    },
+    {
+      "subtitle_index": 172,
+      "start_time": 1520.0,
+      "end_time": 1523.0,
+      "duration": 3.0,
+      "dialogue_text": "Probeer wat sneller te eten, we moeten er vandoor!"
+    },
+    {
+      "subtitle_index": 173,
+      "start_time": 1534.5,
+      "end_time": 1536.4,
+      "duration": 1.900000000000091,
+      "dialogue_text": "Jiro ziet er echt gemotiveerd uit, niet?"
+    },
+    {
+      "subtitle_index": 174,
+      "start_time": 1536.5,
+      "end_time": 1538.5,
+      "duration": 2.0,
+      "dialogue_text": "De haringgraat inspireerde hem."
+    },
+    {
+      "subtitle_index": 175,
+      "start_time": 1539.0,
+      "end_time": 1540.0,
+      "duration": 1.0,
+      "dialogue_text": "Kan Mr. Jiro deze kant uitkomen, alsjeblieft?"
+    },
+    {
+      "subtitle_index": 176,
+      "start_time": 1541.45,
+      "end_time": 1542.0,
+      "duration": 0.5499999999999545,
+      "dialogue_text": "Jiro!"
+    },
+    {
+      "subtitle_index": 177,
+      "start_time": 1542.4,
+      "end_time": 1544.0,
+      "duration": 1.599999999999909,
+      "dialogue_text": "Honjo, ik heb iets echt interessant gevonden!"
+    },
+    {
+      "subtitle_index": 178,
+      "start_time": 1544.5,
+      "end_time": 1548.0,
+      "duration": 3.5,
+      "dialogue_text": "De radiaal van de haringgraat is in feite dezelfde als de radiaal van NACA luchtfolie!"
+    },
+    {
+      "subtitle_index": 179,
+      "start_time": 1548.3,
+      "end_time": 1550.4,
+      "duration": 2.1000000000001364,
+      "dialogue_text": "Het schijnt dat Amerikanen ook haring eten."
+    },
+    {
+      "subtitle_index": 180,
+      "start_time": 1550.6,
+      "end_time": 1552.0,
+      "duration": 1.400000000000091,
+      "dialogue_text": "Jiro, iemand zoekt je!"
+    },
+    {
+      "subtitle_index": 181,
+      "start_time": 1552.7,
+      "end_time": 1553.1,
+      "duration": 0.3999999999998636,
+      "dialogue_text": "Hier ben ik!"
+    },
+    {
+      "subtitle_index": 182,
+      "start_time": 1553.3,
+      "end_time": 1559.5,
+      "duration": 6.2000000000000455,
+      "dialogue_text": "Die zijn voor jou. Een vrouw heeft je dit gebracht, maar ze is al vertrokken."
+    },
+    {
+      "subtitle_index": 183,
+      "start_time": 1559.6,
+      "end_time": 1561.8,
+      "duration": 2.2000000000000455,
+      "dialogue_text": "Ah, heel erg bedankt."
+    },
+    {
+      "subtitle_index": 184,
+      "start_time": 1563.6,
+      "end_time": 1566.1,
+      "duration": 2.5,
+      "dialogue_text": "Jiro, dat is een groot Valentijn geschenk!"
+    },
+    {
+      "subtitle_index": 185,
+      "start_time": 1566.5,
+      "end_time": 1569.0,
+      "duration": 2.5,
+      "dialogue_text": "Heb je een sigaret?"
+    },
+    {
+      "subtitle_index": 186,
+      "start_time": 1585.0,
+      "end_time": 1585.7,
+      "duration": 0.7000000000000455,
+      "dialogue_text": "Jiro!"
+    },
+    {
+      "subtitle_index": 187,
+      "start_time": 1585.9,
+      "end_time": 1586.6,
+      "duration": 0.6999999999998181,
+      "dialogue_text": "Laat hem maar."
+    },
+    {
+      "subtitle_index": 188,
+      "start_time": 1610.0,
+      "end_time": 1611.3,
+      "duration": 1.2999999999999545,
+      "dialogue_text": "Meneer, je bent terug!"
+    },
+    {
+      "subtitle_index": 189,
+      "start_time": 1611.4,
+      "end_time": 1612.0,
+      "duration": 0.599999999999909,
+      "dialogue_text": "Ik ben terug."
+    },
+    {
+      "subtitle_index": 190,
+      "start_time": 1612.3,
+      "end_time": 1616.0,
+      "duration": 3.7000000000000455,
+      "dialogue_text": "Er wacht een gast in de kamer op jou. Het is een meisje."
+    },
+    {
+      "subtitle_index": 191,
+      "start_time": 1617.0,
+      "end_time": 1618.5,
+      "duration": 1.5,
+      "dialogue_text": "Goed."
+    },
+    {
+      "subtitle_index": 192,
+      "start_time": 1626.5,
+      "end_time": 1628.6,
+      "duration": 2.099999999999909,
+      "dialogue_text": "Broer, jij deugniet!"
+    },
+    {
+      "subtitle_index": 193,
+      "start_time": 1629.0,
+      "end_time": 1633.5,
+      "duration": 4.5,
+      "dialogue_text": "Kayo! Het spijt me! Ik was het helemaal vergeten."
+    },
+    {
+      "subtitle_index": 194,
+      "start_time": 1633.9,
+      "end_time": 1634.5,
+      "duration": 0.599999999999909,
+      "dialogue_text": "Oh, echt!"
+    },
+    {
+      "subtitle_index": 195,
+      "start_time": 1634.6,
+      "end_time": 1635.6,
+      "duration": 1.0,
+      "dialogue_text": "Waar is vader?"
+    },
+    {
+      "subtitle_index": 196,
+      "start_time": 1636.0,
+      "end_time": 1637.0,
+      "duration": 1.0,
+      "dialogue_text": "Bij oom zijn thuis."
+    },
+    {
+      "subtitle_index": 197,
+      "start_time": 1637.6,
+      "end_time": 1638.0,
+      "duration": 0.40000000000009095,
+      "dialogue_text": "Hoelang ga je blijven?"
+    },
+    {
+      "subtitle_index": 198,
+      "start_time": 1638.5,
+      "end_time": 1639.5,
+      "duration": 1.0,
+      "dialogue_text": "Maar één nacht."
+    },
+    {
+      "subtitle_index": 199,
+      "start_time": 1640.7,
+      "end_time": 1644.0,
+      "duration": 3.2999999999999545,
+      "dialogue_text": "Kayo, je ziet er al heel volwassen uit! En je bent echt mooi!"
+    },
+    {
+      "subtitle_index": 200,
+      "start_time": 1644.3,
+      "end_time": 1648.4,
+      "duration": 4.100000000000136,
+      "dialogue_text": "Broer, je komt nooit naar huis om ons te bezoeken!"
+    },
+    {
+      "subtitle_index": 201,
+      "start_time": 1652.0,
+      "end_time": 1654.4,
+      "duration": 2.400000000000091,
+      "dialogue_text": "Het is zo laat."
+    },
+    {
+      "subtitle_index": 202,
+      "start_time": 1654.7,
+      "end_time": 1657.0,
+      "duration": 2.2999999999999545,
+      "dialogue_text": "Ik ga mee door met je."
+    },
+    {
+      "subtitle_index": 203,
+      "start_time": 1657.7,
+      "end_time": 1659.5,
+      "duration": 1.7999999999999545,
+      "dialogue_text": "Waarom nemen we de stoomboot niet?"
+    },
+    {
+      "subtitle_index": 204,
+      "start_time": 1661.7,
+      "end_time": 1664.0,
+      "duration": 2.2999999999999545,
+      "dialogue_text": "Weet je wat er gebeurde met het meisje hielp?"
+    },
+    {
+      "subtitle_index": 205,
+      "start_time": 1664.5,
+      "end_time": 1666.4,
+      "duration": 1.900000000000091,
+      "dialogue_text": "Ik weet het niet, het is al twee jaar geleden."
+    },
+    {
+      "subtitle_index": 206,
+      "start_time": 1666.6,
+      "end_time": 1669.2,
+      "duration": 2.6000000000001364,
+      "dialogue_text": "Ben je ooit bij haar thuis langsgegaan?"
+    },
+    {
+      "subtitle_index": 207,
+      "start_time": 1669.6,
+      "end_time": 1671.8,
+      "duration": 2.2000000000000455,
+      "dialogue_text": "Ik ben er eens geweest toen de brand ophield."
+    },
+    {
+      "subtitle_index": 208,
+      "start_time": 1682.7,
+      "end_time": 1684.7,
+      "duration": 2.0,
+      "dialogue_text": "Het vuur brandde het hele huis plat."
+    },
+    {
+      "subtitle_index": 209,
+      "start_time": 1684.9,
+      "end_time": 1685.9,
+      "duration": 1.0,
+      "dialogue_text": "Oh..."
+    },
+    {
+      "subtitle_index": 210,
+      "start_time": 1686.5,
+      "end_time": 1687.5,
+      "duration": 1.0,
+      "dialogue_text": "Kijk, we zijn er!"
+    },
+    {
+      "subtitle_index": 211,
+      "start_time": 1700.4,
+      "end_time": 1701.3,
+      "duration": 0.8999999999998636,
+      "dialogue_text": "Heb je kou hier?"
+    },
+    {
+      "subtitle_index": 212,
+      "start_time": 1701.5,
+      "end_time": 1702.1,
+      "duration": 0.599999999999909,
+      "dialogue_text": "Nee, het gaat wel."
+    },
+    {
+      "subtitle_index": 213,
+      "start_time": 1702.3,
+      "end_time": 1705.3,
+      "duration": 3.0,
+      "dialogue_text": "Tokio veranderde zo sterk. De stad kende een grote herleving."
+    },
+    {
+      "subtitle_index": 214,
+      "start_time": 1709.5,
+      "end_time": 1712.0,
+      "duration": 2.5,
+      "dialogue_text": "Ik dacht hier bij jou te komen wonen."
+    },
+    {
+      "subtitle_index": 215,
+      "start_time": 1712.192,
+      "end_time": 1715.112,
+      "duration": 2.9200000000000728,
+      "dialogue_text": "Ik heb de toelating van mijn vader nodig om in Tokio te komen wonen."
+    },
+    {
+      "subtitle_index": 216,
+      "start_time": 1716.882,
+      "end_time": 1719.293,
+      "duration": 2.410999999999831,
+      "dialogue_text": "Maar tegen de tijd dat jij komt, ga ik al elders heen."
+    },
+    {
+      "subtitle_index": 217,
+      "start_time": 1719.483,
+      "end_time": 1720.542,
+      "duration": 1.058999999999969,
+      "dialogue_text": "Op zoek naar een job in het vliegwezen? - Ja."
+    },
+    {
+      "subtitle_index": 218,
+      "start_time": 1721.322,
+      "end_time": 1726.893,
+      "duration": 5.57100000000014,
+      "dialogue_text": "Dat is leuk. Ik wil echt wel naar hier komen om geneeskunde te studeren."
+    },
+    {
+      "subtitle_index": 219,
+      "start_time": 1726.863,
+      "end_time": 1730.203,
+      "duration": 3.339999999999918,
+      "dialogue_text": "Jij, een dokter? Ik denk dat dat heel geschikt is voor je, Kayo!"
+    },
+    {
+      "subtitle_index": 220,
+      "start_time": 1730.222,
+      "end_time": 1731.113,
+      "duration": 0.8910000000000764,
+      "dialogue_text": "Denk je dat echt?!"
+    },
+    {
+      "subtitle_index": 221,
+      "start_time": 1732.183,
+      "end_time": 1734.901,
+      "duration": 2.7180000000000746,
+      "dialogue_text": "Wanneer ik bij Nieuwjaar naar huis kom, zal ik het er met vader over hebben."
+    },
+    {
+      "subtitle_index": 222,
+      "start_time": 1735.591,
+      "end_time": 1737.046,
+      "duration": 1.4550000000001546,
+      "dialogue_text": "Alsjeblieft, doe dat!"
+    },
+    {
+      "subtitle_index": 223,
+      "start_time": 1800.542,
+      "end_time": 1803.023,
+      "duration": 2.4809999999999945,
+      "dialogue_text": "Jiro!"
+    },
+    {
+      "subtitle_index": 224,
+      "start_time": 1804.302,
+      "end_time": 1804.81,
+      "duration": 0.5080000000000382,
+      "dialogue_text": "Hé, man! Je bent gekomen!"
+    },
+    {
+      "subtitle_index": 225,
+      "start_time": 1806.736,
+      "end_time": 1809.066,
+      "duration": 2.3299999999999272,
+      "dialogue_text": "Ja, eindelijk ben ik er!"
+    },
+    {
+      "subtitle_index": 226,
+      "start_time": 1827.433,
+      "end_time": 1830.122,
+      "duration": 2.689000000000078,
+      "dialogue_text": "Er is veel volk in de stad op zoek naar werk. 00:30:29,972 --> 00:30:31,624 Ik zag veel volk op mijn weg naar hier."
+    },
+    {
+      "subtitle_index": 227,
+      "start_time": 1831.834,
+      "end_time": 1833.434,
+      "duration": 1.599999999999909,
+      "dialogue_text": "Hier zijn de straten ook gevuld."
+    },
+    {
+      "subtitle_index": 228,
+      "start_time": 1837.0,
+      "end_time": 1839.285,
+      "duration": 2.285000000000082,
+      "dialogue_text": "Ja, daar gaat er nog één!"
+    },
+    {
+      "subtitle_index": 229,
+      "start_time": 1839.4,
+      "end_time": 1842.725,
+      "duration": 3.324999999999818,
+      "dialogue_text": "Dit is al de achtste bank op rij!"
+    },
+    {
+      "subtitle_index": 230,
+      "start_time": 1846.684,
+      "end_time": 1847.528,
+      "duration": 0.8440000000000509,
+      "dialogue_text": "Bankroet?"
+    },
+    {
+      "subtitle_index": 231,
+      "start_time": 1847.396,
+      "end_time": 1848.465,
+      "duration": 1.06899999999996,
+      "dialogue_text": "Ja, ja."
+    },
+    {
+      "subtitle_index": 232,
+      "start_time": 1848.445,
+      "end_time": 1851.423,
+      "duration": 2.9780000000000655,
+      "dialogue_text": "Ik hoor veel geruchten."
+    },
+    {
+      "subtitle_index": 233,
+      "start_time": 1851.6,
+      "end_time": 1852.933,
+      "duration": 1.3330000000000837,
+      "dialogue_text": "Alles valt hier uit elkaar."
+    },
+    {
+      "subtitle_index": 234,
+      "start_time": 1853.042,
+      "end_time": 1855.497,
+      "duration": 2.4550000000001546,
+      "dialogue_text": "Onze bedrijven gaan in recessie."
+    },
+    {
+      "subtitle_index": 235,
+      "start_time": 1873.722,
+      "end_time": 1877.412,
+      "duration": 3.6900000000000546,
+      "dialogue_text": "Deze periode is de drukste ooit, weet je."
+    },
+    {
+      "subtitle_index": 236,
+      "start_time": 1877.263,
+      "end_time": 1879.932,
+      "duration": 2.6690000000000964,
+      "dialogue_text": "April is altijd zo."
+    },
+    {
+      "subtitle_index": 237,
+      "start_time": 1879.932,
+      "end_time": 1882.423,
+      "duration": 2.4909999999999854,
+      "dialogue_text": "Je had in maart moeten komen."
+    },
+    {
+      "subtitle_index": 238,
+      "start_time": 1882.423,
+      "end_time": 1882.926,
+      "duration": 0.5029999999999291,
+      "dialogue_text": "Juist!"
+    },
+    {
+      "subtitle_index": 239,
+      "start_time": 1883.392,
+      "end_time": 1885.433,
+      "duration": 2.04099999999994,
+      "dialogue_text": "We staan nu onder druk met naar werk zoeken vanwege de tijdslimiet."
+    },
+    {
+      "subtitle_index": 240,
+      "start_time": 1885.433,
+      "end_time": 1885.962,
+      "duration": 0.5289999999999964,
+      "dialogue_text": "Juist."
+    },
+    {
+      "subtitle_index": 241,
+      "start_time": 1886.122,
+      "end_time": 1889.012,
+      "duration": 2.8899999999998727,
+      "dialogue_text": "De gegevens over de metalen vleugel liggen op de plank."
+    },
+    {
+      "subtitle_index": 242,
+      "start_time": 1889.012,
+      "end_time": 1889.572,
+      "duration": 0.5599999999999454,
+      "dialogue_text": "Goed."
+    },
+    {
+      "subtitle_index": 243,
+      "start_time": 1889.841,
+      "end_time": 1892.611,
+      "duration": 2.770000000000209,
+      "dialogue_text": "Je begint gelijk aan het design, de produc- tie afdeling lijkt minder bezig te zijn."
+    },
+    {
+      "subtitle_index": 244,
+      "start_time": 1892.611,
+      "end_time": 1892.975,
+      "duration": 0.36399999999980537,
+      "dialogue_text": "Goed."
+    },
+    {
+      "subtitle_index": 245,
+      "start_time": 1897.241,
+      "end_time": 1898.18,
+      "duration": 0.9390000000000782,
+      "dialogue_text": "Hier is het!"
+    },
+    {
+      "subtitle_index": 246,
+      "start_time": 1898.18,
+      "end_time": 1901.741,
+      "duration": 3.560999999999922,
+      "dialogue_text": "Kom binnen! Eens kijken..."
+    },
+    {
+      "subtitle_index": 247,
+      "start_time": 1901.96,
+      "end_time": 1903.54,
+      "duration": 1.5799999999999272,
+      "dialogue_text": "Kom hier!"
+    },
+    {
+      "subtitle_index": 248,
+      "start_time": 1911.019,
+      "end_time": 1915.501,
+      "duration": 4.481999999999971,
+      "dialogue_text": "Dit is jouw werktafel. De kerel voor jou weigerde om hier te werken."
+    },
+    {
+      "subtitle_index": 249,
+      "start_time": 1915.501,
+      "end_time": 1915.93,
+      "duration": 0.4290000000000873,
+      "dialogue_text": "Goed!"
+    },
+    {
+      "subtitle_index": 250,
+      "start_time": 1915.93,
+      "end_time": 1918.409,
+      "duration": 2.479000000000042,
+      "dialogue_text": "Dit zijn de gegevens. En je hoed leg je daar."
+    },
+    {
+      "subtitle_index": 251,
+      "start_time": 1917.642,
+      "end_time": 1918.103,
+      "duration": 0.46100000000001273,
+      "dialogue_text": "Goed."
+    },
+    {
+      "subtitle_index": 252,
+      "start_time": 1918.633,
+      "end_time": 1926.473,
+      "duration": 7.839999999999918,
+      "dialogue_text": "Collega's! Hier is 'n legendarisch genie die bij ons team komt. Laat hem zich voorstellen!"
+    },
+    {
+      "subtitle_index": 253,
+      "start_time": 1926.5,
+      "end_time": 1928.743,
+      "duration": 2.242999999999938,
+      "dialogue_text": "Ik ben Horikoshi! Ik ben blij hier te zijn!"
+    },
+    {
+      "subtitle_index": 254,
+      "start_time": 1928.743,
+      "end_time": 1929.943,
+      "duration": 1.2000000000000455,
+      "dialogue_text": "Doe je job goed."
+    },
+    {
+      "subtitle_index": 255,
+      "start_time": 1929.943,
+      "end_time": 1930.834,
+      "duration": 0.8910000000000764,
+      "dialogue_text": "Juist."
+    },
+    {
+      "subtitle_index": 256,
+      "start_time": 2024.0,
+      "end_time": 2028.548,
+      "duration": 4.548000000000002,
+      "dialogue_text": "Jiro! Hé! Etenstijd, kom op."
+    },
+    {
+      "subtitle_index": 257,
+      "start_time": 2030.578,
+      "end_time": 2031.858,
+      "duration": 1.2799999999999727,
+      "dialogue_text": "Wil je de werkplaats zien?"
+    },
+    {
+      "subtitle_index": 258,
+      "start_time": 2032.529,
+      "end_time": 2033.6,
+      "duration": 1.0709999999999127,
+      "dialogue_text": "Nou, ik wil wel een kijkje nemen."
+    },
+    {
+      "subtitle_index": 259,
+      "start_time": 2034.629,
+      "end_time": 2039.509,
+      "duration": 4.880000000000109,
+      "dialogue_text": "Het ontwerp van de steunbalk lijkt zeer vreemd."
+    },
+    {
+      "subtitle_index": 260,
+      "start_time": 2039.589,
+      "end_time": 2040.88,
+      "duration": 1.2910000000001673,
+      "dialogue_text": "Twee schotels!"
+    },
+    {
+      "subtitle_index": 261,
+      "start_time": 2041.359,
+      "end_time": 2044.209,
+      "duration": 2.8500000000001364,
+      "dialogue_text": "We kwamen iets uitzoeken."
+    },
+    {
+      "subtitle_index": 262,
+      "start_time": 2044.491,
+      "end_time": 2046.951,
+      "duration": 2.4600000000000364,
+      "dialogue_text": "Ah, het is bijna klaar!"
+    },
+    {
+      "subtitle_index": 263,
+      "start_time": 2047.171,
+      "end_time": 2050.03,
+      "duration": 2.859000000000151,
+      "dialogue_text": "Het spijt me om je op de middag te storen."
+    },
+    {
+      "subtitle_index": 264,
+      "start_time": 2050.011,
+      "end_time": 2053.971,
+      "duration": 3.9600000000000364,
+      "dialogue_text": "Het is oké. Iedereen van de designafdeling is hierover tevreden."
+    },
+    {
+      "subtitle_index": 265,
+      "start_time": 2054.641,
+      "end_time": 2057.582,
+      "duration": 2.9409999999998035,
+      "dialogue_text": "Honjo, kijk! De volledig metalen delen zijn al klaar!"
+    },
+    {
+      "subtitle_index": 266,
+      "start_time": 2057.364,
+      "end_time": 2062.754,
+      "duration": 5.389999999999873,
+      "dialogue_text": "Natuurlijk zijn ze klaar! Ah, ze hebben veel verantwoordelijkheid, vergeleken met jou."
+    },
+    {
+      "subtitle_index": 267,
+      "start_time": 2062.793,
+      "end_time": 2065.663,
+      "duration": 2.869999999999891,
+      "dialogue_text": "Oh, dit is meer een training voor ons."
+    },
+    {
+      "subtitle_index": 268,
+      "start_time": 2066.403,
+      "end_time": 2068.383,
+      "duration": 1.9800000000000182,
+      "dialogue_text": "Hé, Honjo, kom eens! Bekijk dit eens!"
+    },
+    {
+      "subtitle_index": 269,
+      "start_time": 2068.683,
+      "end_time": 2070.322,
+      "duration": 1.6390000000001237,
+      "dialogue_text": "Ik wil je mening hierover horen."
+    },
+    {
+      "subtitle_index": 270,
+      "start_time": 2076.062,
+      "end_time": 2077.051,
+      "duration": 0.9890000000000327,
+      "dialogue_text": "Wat denk je ervan, hé?"
+    },
+    {
+      "subtitle_index": 271,
+      "start_time": 2077.051,
+      "end_time": 2078.491,
+      "duration": 1.4400000000000546,
+      "dialogue_text": "Het lijkt me een zeer behoorlijk design."
+    },
+    {
+      "subtitle_index": 272,
+      "start_time": 2078.491,
+      "end_time": 2079.92,
+      "duration": 1.4290000000000873,
+      "dialogue_text": "Alhoewel ik denk dat dit aantal niet voldoende is."
+    },
+    {
+      "subtitle_index": 273,
+      "start_time": 2079.914,
+      "end_time": 2081.934,
+      "duration": 2.019999999999982,
+      "dialogue_text": "Niettemin is het idee precies hetzelfde."
+    },
+    {
+      "subtitle_index": 274,
+      "start_time": 2081.885,
+      "end_time": 2083.524,
+      "duration": 1.638999999999669,
+      "dialogue_text": "Het is niet goed genoeg voor je?"
+    },
+    {
+      "subtitle_index": 275,
+      "start_time": 2083.73,
+      "end_time": 2086.149,
+      "duration": 2.418999999999869,
+      "dialogue_text": "Hé, het diensthoofd zegt dat de lunchpauze erop zit."
+    },
+    {
+      "subtitle_index": 276,
+      "start_time": 2086.149,
+      "end_time": 2087.52,
+      "duration": 1.3710000000000946,
+      "dialogue_text": "Het is tijd voor je om naar beneden te klimmen."
+    },
+    {
+      "subtitle_index": 277,
+      "start_time": 2088.02,
+      "end_time": 2090.77,
+      "duration": 2.75,
+      "dialogue_text": "Interessant! Echt een zeer interessant vliegtuig, niet?"
+    },
+    {
+      "subtitle_index": 278,
+      "start_time": 2090.77,
+      "end_time": 2093.348,
+      "duration": 2.5779999999999745,
+      "dialogue_text": "Inderdaad! Ah, we zijn te laat!"
+    },
+    {
+      "subtitle_index": 279,
+      "start_time": 2101.56,
+      "end_time": 2103.12,
+      "duration": 1.5599999999999454,
+      "dialogue_text": "Mijn naam is Hattori."
+    },
+    {
+      "subtitle_index": 280,
+      "start_time": 2106.81,
+      "end_time": 2108.981,
+      "duration": 2.1710000000002765,
+      "dialogue_text": "Dit is Hattori, de directeur van de designafdeling."
+    },
+    {
+      "subtitle_index": 281,
+      "start_time": 2108.741,
+      "end_time": 2110.391,
+      "duration": 1.650000000000091,
+      "dialogue_text": "Is dit je eerste werk?"
+    },
+    {
+      "subtitle_index": 282,
+      "start_time": 2110.391,
+      "end_time": 2112.81,
+      "duration": 2.418999999999869,
+      "dialogue_text": "Hij ontwierp quasimetalen steunen."
+    },
+    {
+      "subtitle_index": 283,
+      "start_time": 2112.291,
+      "end_time": 2114.38,
+      "duration": 2.088999999999942,
+      "dialogue_text": "Mar niet de alledaagse."
+    },
+    {
+      "subtitle_index": 284,
+      "start_time": 2113.991,
+      "end_time": 2114.712,
+      "duration": 0.7210000000000036,
+      "dialogue_text": "Wat?"
+    },
+    {
+      "subtitle_index": 285,
+      "start_time": 2115.171,
+      "end_time": 2115.949,
+      "duration": 0.7780000000002474,
+      "dialogue_text": "Leg ons dit alsjeblieft eens uit."
+    },
+    {
+      "subtitle_index": 286,
+      "start_time": 2115.949,
+      "end_time": 2116.639,
+      "duration": 0.6900000000000546,
+      "dialogue_text": "Goed."
+    },
+    {
+      "subtitle_index": 287,
+      "start_time": 2116.639,
+      "end_time": 2120.279,
+      "duration": 3.6399999999998727,
+      "dialogue_text": "Door de verhoogde gevoeligheid van dit onderdeel hier, gebruikte ik de bladveer."
+    },
+    {
+      "subtitle_index": 288,
+      "start_time": 2120.836,
+      "end_time": 2126.875,
+      "duration": 6.039000000000215,
+      "dialogue_text": "De draadkoord en rekbare kabel zullen de druk helpen doordringen in de middensteun."
+    },
+    {
+      "subtitle_index": 289,
+      "start_time": 2126.875,
+      "end_time": 2130.946,
+      "duration": 4.070999999999913,
+      "dialogue_text": "Als dat zo is, zal er zeker een verandering van het vleugelskelet nodig zijn!"
+    },
+    {
+      "subtitle_index": 290,
+      "start_time": 2130.897,
+      "end_time": 2132.146,
+      "duration": 1.249000000000251,
+      "dialogue_text": "Natuurlijk, ja."
+    },
+    {
+      "subtitle_index": 291,
+      "start_time": 2132.146,
+      "end_time": 2133.746,
+      "duration": 1.599999999999909,
+      "dialogue_text": "Maar dat ding moet ik nog berekenen."
+    },
+    {
+      "subtitle_index": 292,
+      "start_time": 2134.147,
+      "end_time": 2136.767,
+      "duration": 2.619999999999891,
+      "dialogue_text": "Dit is tijdverlies! Hou op met deze nutteloze dingen!"
+    },
+    {
+      "subtitle_index": 293,
+      "start_time": 2136.767,
+      "end_time": 2137.798,
+      "duration": 1.030999999999949,
+      "dialogue_text": "Ik gaf je werk dat je moet doen!"
+    },
+    {
+      "subtitle_index": 294,
+      "start_time": 2137.798,
+      "end_time": 2138.608,
+      "duration": 0.8100000000004002,
+      "dialogue_text": "Doe het dan!"
+    },
+    {
+      "subtitle_index": 295,
+      "start_time": 2144.608,
+      "end_time": 2147.218,
+      "duration": 2.6099999999996726,
+      "dialogue_text": "Hij maakte hier wel een behoorlijk punt."
+    },
+    {
+      "subtitle_index": 296,
+      "start_time": 2148.378,
+      "end_time": 2152.378,
+      "duration": 4.0,
+      "dialogue_text": "Ik zal meteen de opdracht geven om dit uit te voeren."
+    },
+    {
+      "subtitle_index": 297,
+      "start_time": 2152.648,
+      "end_time": 2153.329,
+      "duration": 0.68100000000004,
+      "dialogue_text": "Goed."
+    },
+    {
+      "subtitle_index": 298,
+      "start_time": 2155.547,
+      "end_time": 2157.537,
+      "duration": 1.9899999999997817,
+      "dialogue_text": "Hé vriend, kom we gaan."
+    },
+    {
+      "subtitle_index": 299,
+      "start_time": 2157.537,
+      "end_time": 2158.966,
+      "duration": 1.4290000000000873,
+      "dialogue_text": "Nog even, ik moet dit nog afwerken."
+    },
+    {
+      "subtitle_index": 300,
+      "start_time": 2158.956,
+      "end_time": 2161.377,
+      "duration": 2.4209999999998217,
+      "dialogue_text": "We moeten er nu van door. Je kan dat later nog doen."
+    },
+    {
+      "subtitle_index": 301,
+      "start_time": 2161.377,
+      "end_time": 2162.286,
+      "duration": 0.9090000000001055,
+      "dialogue_text": "Klaar!"
+    },
+    {
+      "subtitle_index": 302,
+      "start_time": 2166.757,
+      "end_time": 2168.388,
+      "duration": 1.6309999999998581,
+      "dialogue_text": "Kijk, vee."
+    },
+    {
+      "subtitle_index": 303,
+      "start_time": 2168.388,
+      "end_time": 2175.277,
+      "duration": 6.889000000000124,
+      "dialogue_text": "Een modern vliegtuig haalt 3 km. We zitten ver achterop, we zien elkaar nog met vee."
+    },
+    {
+      "subtitle_index": 304,
+      "start_time": 2175.277,
+      "end_time": 2177.088,
+      "duration": 1.8110000000001492,
+      "dialogue_text": "Ik vind Niua echt leuk."
+    },
+    {
+      "subtitle_index": 305,
+      "start_time": 2239.681,
+      "end_time": 2242.728,
+      "duration": 3.0470000000000255,
+      "dialogue_text": "Kom op! Kom dan!"
+    },
+    {
+      "subtitle_index": 306,
+      "start_time": 2246.089,
+      "end_time": 2248.501,
+      "duration": 2.412000000000262,
+      "dialogue_text": "Hou je klaar om de tijd op te nemen!"
+    },
+    {
+      "subtitle_index": 307,
+      "start_time": 2249.501,
+      "end_time": 2251.101,
+      "duration": 1.599999999999909,
+      "dialogue_text": "Nu!"
+    },
+    {
+      "subtitle_index": 308,
+      "start_time": 2252.95,
+      "end_time": 2256.851,
+      "duration": 3.9010000000002947,
+      "dialogue_text": "Ah! Verdorie!"
+    },
+    {
+      "subtitle_index": 309,
+      "start_time": 2265.381,
+      "end_time": 2266.671,
+      "duration": 1.2899999999999636,
+      "dialogue_text": "Tijd?"
+    },
+    {
+      "subtitle_index": 310,
+      "start_time": 2266.671,
+      "end_time": 2269.371,
+      "duration": 2.700000000000273,
+      "dialogue_text": "13,3 seconden, 270 km per uur."
+    },
+    {
+      "subtitle_index": 311,
+      "start_time": 2269.371,
+      "end_time": 2270.23,
+      "duration": 0.8589999999999236,
+      "dialogue_text": "Dat is traag!"
+    },
+    {
+      "subtitle_index": 312,
+      "start_time": 2270.789,
+      "end_time": 2275.588,
+      "duration": 4.798999999999978,
+      "dialogue_text": "Het moet tenminste 10 km hoger liggen. De motor wordt niet volledig gebruikt."
+    },
+    {
+      "subtitle_index": 313,
+      "start_time": 2274.7,
+      "end_time": 2277.531,
+      "duration": 2.831000000000131,
+      "dialogue_text": "Hé, diensthoofd!"
+    },
+    {
+      "subtitle_index": 314,
+      "start_time": 2277.531,
+      "end_time": 2278.401,
+      "duration": 0.8699999999998909,
+      "dialogue_text": "Ja!"
+    },
+    {
+      "subtitle_index": 315,
+      "start_time": 2278.552,
+      "end_time": 2280.641,
+      "duration": 2.088999999999942,
+      "dialogue_text": "Er zijn legerofficiers hier."
+    },
+    {
+      "subtitle_index": 316,
+      "start_time": 2281.332,
+      "end_time": 2284.661,
+      "duration": 3.3290000000001783,
+      "dialogue_text": "Proficiat! Het is een gewaagd en vernieuwend design! Het is geweldig!"
+    },
+    {
+      "subtitle_index": 317,
+      "start_time": 2284.7,
+      "end_time": 2286.002,
+      "duration": 1.3020000000001346,
+      "dialogue_text": "Dat is knap werk van je!"
+    },
+    {
+      "subtitle_index": 318,
+      "start_time": 2303.16,
+      "end_time": 2306.4,
+      "duration": 3.2400000000002365,
+      "dialogue_text": "Hij haalt een snelheid van 400 km!"
+    },
+    {
+      "subtitle_index": 319,
+      "start_time": 2346.06,
+      "end_time": 2346.6,
+      "duration": 0.5399999999999636,
+      "dialogue_text": "Mr.Kurokawa, laten we hiervoor op beter weer wachten."
+    },
+    {
+      "subtitle_index": 320,
+      "start_time": 2351.17,
+      "end_time": 2352.098,
+      "duration": 0.9279999999998836,
+      "dialogue_text": "Hoe maakt de piloot het?"
+    },
+    {
+      "subtitle_index": 321,
+      "start_time": 2352.098,
+      "end_time": 2352.878,
+      "duration": 0.7800000000002001,
+      "dialogue_text": "Hij is in orde."
+    },
+    {
+      "subtitle_index": 322,
+      "start_time": 2352.878,
+      "end_time": 2353.859,
+      "duration": 0.9809999999997672,
+      "dialogue_text": "Dat is goed."
+    },
+    {
+      "subtitle_index": 323,
+      "start_time": 2354.608,
+      "end_time": 2358.289,
+      "duration": 3.68100000000004,
+      "dialogue_text": "Meneer, we gaan terug en beginnen opnieuw vanuit het origineel."
+    },
+    {
+      "subtitle_index": 324,
+      "start_time": 2359.179,
+      "end_time": 2362.528,
+      "duration": 3.3489999999997053,
+      "dialogue_text": "Denk je dat dit gebeurde omdat de windkracht de metalen steunen vernielde?"
+    },
+    {
+      "subtitle_index": 325,
+      "start_time": 2362.528,
+      "end_time": 2367.167,
+      "duration": 4.639000000000124,
+      "dialogue_text": "Het probleem is complex. Ik zal het opnieuw in detail bestuderen."
+    },
+    {
+      "subtitle_index": 326,
+      "start_time": 2367.167,
+      "end_time": 2373.367,
+      "duration": 6.200000000000273,
+      "dialogue_text": "Ik leerde hoe dan ook vandaag heel veel. Alsof 'n nooit eindigende weg zich opende."
+    },
+    {
+      "subtitle_index": 327,
+      "start_time": 2374.406,
+      "end_time": 2380.567,
+      "duration": 6.161000000000058,
+      "dialogue_text": "Het Leger kijkt al uit naar een ander bedrijf om deze job te klaren."
+    },
+    {
+      "subtitle_index": 328,
+      "start_time": 2381.876,
+      "end_time": 2386.385,
+      "duration": 4.5090000000000146,
+      "dialogue_text": "Dit was onze enige kans om ze van idee te laten veranderen"
+    },
+    {
+      "subtitle_index": 329,
+      "start_time": 2386.39,
+      "end_time": 2392.685,
+      "duration": 6.295000000000073,
+      "dialogue_text": "In de toekomst, zoeken we een productie- licentie van het Duitse Junkers vliegtuig."
+    },
+    {
+      "subtitle_index": 330,
+      "start_time": 2393.11,
+      "end_time": 2397.82,
+      "duration": 4.710000000000036,
+      "dialogue_text": "Dit is je kans om naar Duitsland te gaan. Ik zal jou voordragen om te gaan."
+    },
+    {
+      "subtitle_index": 331,
+      "start_time": 2431.199,
+      "end_time": 2432.82,
+      "duration": 1.6210000000000946,
+      "dialogue_text": "Het is niet gesloten?"
+    },
+    {
+      "subtitle_index": 332,
+      "start_time": 2432.82,
+      "end_time": 2436.58,
+      "duration": 3.7599999999997635,
+      "dialogue_text": "Oh, je werkt nog zo laat vandaag."
+    },
+    {
+      "subtitle_index": 333,
+      "start_time": 2436.58,
+      "end_time": 2438.368,
+      "duration": 1.788000000000011,
+      "dialogue_text": "Twee Siberische cakes, alsjeblieft."
+    },
+    {
+      "subtitle_index": 334,
+      "start_time": 2438.4,
+      "end_time": 2439.175,
+      "duration": 0.775000000000091,
+      "dialogue_text": "Goed."
+    },
+    {
+      "subtitle_index": 335,
+      "start_time": 2446.147,
+      "end_time": 2447.348,
+      "duration": 1.2010000000000218,
+      "dialogue_text": "De cakes, alsjeblieft."
+    },
+    {
+      "subtitle_index": 336,
+      "start_time": 2448.457,
+      "end_time": 2449.607,
+      "duration": 1.150000000000091,
+      "dialogue_text": "Wie zijn die kinderen daar?"
+    },
+    {
+      "subtitle_index": 337,
+      "start_time": 2450.577,
+      "end_time": 2457.508,
+      "duration": 6.930999999999585,
+      "dialogue_text": "Hun ouders komen altijd zeer laat. Ik sluit niet, daarom wachten ze daar op hen."
+    },
+    {
+      "subtitle_index": 338,
+      "start_time": 2457.407,
+      "end_time": 2459.278,
+      "duration": 1.8709999999996398,
+      "dialogue_text": "Ik begrijp het. Heel erg bedankt!"
+    },
+    {
+      "subtitle_index": 339,
+      "start_time": 2459.278,
+      "end_time": 2460.318,
+      "duration": 1.0400000000004184,
+      "dialogue_text": "Ah, dank je, vriend!"
+    },
+    {
+      "subtitle_index": 340,
+      "start_time": 2466.801,
+      "end_time": 2475.432,
+      "duration": 8.630999999999858,
+      "dialogue_text": "Kinderen, je kan mijn cake opeten als je honger hebt. Ik kocht hem net in deze winkel."
+    },
+    {
+      "subtitle_index": 341,
+      "start_time": 2485.451,
+      "end_time": 2487.151,
+      "duration": 1.699999999999818,
+      "dialogue_text": "Vooruit, neem maar aan."
+    },
+    {
+      "subtitle_index": 342,
+      "start_time": 2487.641,
+      "end_time": 2488.782,
+      "duration": 1.1410000000000764,
+      "dialogue_text": "Ga!"
+    },
+    {
+      "subtitle_index": 343,
+      "start_time": 2504.738,
+      "end_time": 2505.839,
+      "duration": 1.1010000000001128,
+      "dialogue_text": "Ben je hier?"
+    },
+    {
+      "subtitle_index": 344,
+      "start_time": 2507.783,
+      "end_time": 2511.819,
+      "duration": 4.036000000000058,
+      "dialogue_text": "Ik hoorde het nieuws vandaag. Het is jammer dat het project beëindigd werd."
+    },
+    {
+      "subtitle_index": 345,
+      "start_time": 2513.231,
+      "end_time": 2516.15,
+      "duration": 2.918999999999869,
+      "dialogue_text": "Siberische cake? Jij eet altijd vreemde dingen."
+    },
+    {
+      "subtitle_index": 346,
+      "start_time": 2525.58,
+      "end_time": 2532.71,
+      "duration": 7.130000000000109,
+      "dialogue_text": "Wat dacht je? Dat het kleine meisje zou glimlachen en je bedanken? Dat is hypocriet."
+    },
+    {
+      "subtitle_index": 347,
+      "start_time": 2532.71,
+      "end_time": 2537.829,
+      "duration": 5.119000000000142,
+      "dialogue_text": "Niet waar! Ik begrijp gewoon niet waarom ze zo deed."
+    },
+    {
+      "subtitle_index": 348,
+      "start_time": 2537.929,
+      "end_time": 2543.096,
+      "duration": 5.166999999999916,
+      "dialogue_text": "Weet je, er zijn veel hongerige kinderen in dit deel van de stad? Tientallen."
+    },
+    {
+      "subtitle_index": 349,
+      "start_time": 2543.099,
+      "end_time": 2548.796,
+      "duration": 5.696999999999662,
+      "dialogue_text": "Enkel 'n passende steun is genoeg voor het meisje en haar familie om 1 maand van te leven."
+    },
+    {
+      "subtitle_index": 350,
+      "start_time": 2548.992,
+      "end_time": 2552.041,
+      "duration": 3.048999999999978,
+      "dialogue_text": "Ik begrijp echt niet waarom er zoveel arme mensen zijn."
+    },
+    {
+      "subtitle_index": 351,
+      "start_time": 2552.041,
+      "end_time": 2552.782,
+      "duration": 0.7409999999999854,
+      "dialogue_text": "Jiro, ah!"
+    },
+    {
+      "subtitle_index": 352,
+      "start_time": 2552.782,
+      "end_time": 2555.751,
+      "duration": 2.969000000000051,
+      "dialogue_text": "We bezochten de technologie inleiding in de Rongke Gong Divisie."
+    },
+    {
+      "subtitle_index": 353,
+      "start_time": 2555.752,
+      "end_time": 2557.071,
+      "duration": 1.31899999999996,
+      "dialogue_text": "Weet je hoeveel geld ze spenderen aan technologie?"
+    },
+    {
+      "subtitle_index": 354,
+      "start_time": 2557.493,
+      "end_time": 2561.762,
+      "duration": 4.269000000000233,
+      "dialogue_text": "Een bedrag groot genoeg om alle Japanse kinderen elke dag rijst en cakes te geven."
+    },
+    {
+      "subtitle_index": 355,
+      "start_time": 2561.765,
+      "end_time": 2565.962,
+      "duration": 4.197000000000116,
+      "dialogue_text": "We weten beiden dat het zo is. Maar ik zal deze kans absoluut niet laten voorbij gaan."
+    },
+    {
+      "subtitle_index": 356,
+      "start_time": 2565.962,
+      "end_time": 2567.582,
+      "duration": 1.6199999999998909,
+      "dialogue_text": "Honjo, ga je met me mee?"
+    },
+    {
+      "subtitle_index": 357,
+      "start_time": 2567.582,
+      "end_time": 2569.011,
+      "duration": 1.4290000000000873,
+      "dialogue_text": "Het werd vandaag beslist."
+    },
+    {
+      "subtitle_index": 358,
+      "start_time": 2569.082,
+      "end_time": 2570.953,
+      "duration": 1.8710000000000946,
+      "dialogue_text": "Echt, dat is zo geweldig."
+    },
+    {
+      "subtitle_index": 359,
+      "start_time": 2570.953,
+      "end_time": 2577.831,
+      "duration": 6.878000000000156,
+      "dialogue_text": "We kregen deze kans omdat ons arme land een vliegtuig wil hebben. Wat een contradictie."
+    },
+    {
+      "subtitle_index": 360,
+      "start_time": 2578.831,
+      "end_time": 2581.481,
+      "duration": 2.650000000000091,
+      "dialogue_text": "Morgen ga ik naar Tokio. Ik ga trouwen."
+    },
+    {
+      "subtitle_index": 361,
+      "start_time": 2581.481,
+      "end_time": 2582.681,
+      "duration": 1.199999999999818,
+      "dialogue_text": "Trouwen?"
+    },
+    {
+      "subtitle_index": 362,
+      "start_time": 2582.681,
+      "end_time": 2588.782,
+      "duration": 6.101000000000113,
+      "dialogue_text": "In deze tijden kan ook het huwelijk als een contradictie gezien worden."
+    },
+    {
+      "subtitle_index": 363,
+      "start_time": 2622.467,
+      "end_time": 2628.217,
+      "duration": 5.75,
+      "dialogue_text": "Toen de Duitsers zeiden dat ze niet wilden dat we in de fabrieken keken, meenden ze dat."
+    },
+    {
+      "subtitle_index": 364,
+      "start_time": 2628.268,
+      "end_time": 2629.919,
+      "duration": 1.65099999999984,
+      "dialogue_text": "Ik zie geen vee. Hoe verplaatsten ze vliegtuigen?"
+    },
+    {
+      "subtitle_index": 365,
+      "start_time": 2629.919,
+      "end_time": 2632.238,
+      "duration": 2.31899999999996,
+      "dialogue_text": "Dat doen ze niet. Het testterrein is naast de fabriek."
+    },
+    {
+      "subtitle_index": 366,
+      "start_time": 2632.238,
+      "end_time": 2634.518,
+      "duration": 2.2800000000002,
+      "dialogue_text": "Dit is echt zo groot, ah!"
+    },
+    {
+      "subtitle_index": 367,
+      "start_time": 2655.501,
+      "end_time": 2658.321,
+      "duration": 2.819999999999709,
+      "dialogue_text": "We willen sowieso niet de G38 kopen."
+    },
+    {
+      "subtitle_index": 368,
+      "start_time": 2658.321,
+      "end_time": 2661.682,
+      "duration": 3.3609999999998763,
+      "dialogue_text": "Deze bommenwerper is strikt confidentieel."
+    },
+    {
+      "subtitle_index": 369,
+      "start_time": 2661.832,
+      "end_time": 2665.161,
+      "duration": 3.3290000000001783,
+      "dialogue_text": "Weet je tegen welk leger ze oorlog voeren?"
+    },
+    {
+      "subtitle_index": 370,
+      "start_time": 2664.651,
+      "end_time": 2667.301,
+      "duration": 2.650000000000091,
+      "dialogue_text": "Het Amerikaanse leger..."
+    },
+    {
+      "subtitle_index": 371,
+      "start_time": 2670.281,
+      "end_time": 2671.723,
+      "duration": 1.4420000000000073,
+      "dialogue_text": "Dit vliegtuig is een meesterwerk!"
+    },
+    {
+      "subtitle_index": 372,
+      "start_time": 2671.723,
+      "end_time": 2677.753,
+      "duration": 6.0300000000002,
+      "dialogue_text": "Het is echt 'n meesterwerk. Op de vleugel is er een plaats aangepast als uitkijk."
+    },
+    {
+      "subtitle_index": 373,
+      "start_time": 2677.583,
+      "end_time": 2682.582,
+      "duration": 4.998999999999796,
+      "dialogue_text": "Wat maakt het uit! Pak deze kans als leerervaring met metalen!"
+    },
+    {
+      "subtitle_index": 374,
+      "start_time": 2686.343,
+      "end_time": 2690.013,
+      "duration": 3.6700000000000728,
+      "dialogue_text": "Wat? Ze laten ons niet toe om van dichtbij te kijken, zoals we gepland hadden."
+    },
+    {
+      "subtitle_index": 375,
+      "start_time": 2715.369,
+      "end_time": 2718.561,
+      "duration": 3.1920000000000073,
+      "dialogue_text": "Dat is zo mooi."
+    },
+    {
+      "subtitle_index": 376,
+      "start_time": 2719.678,
+      "end_time": 2722.038,
+      "duration": 2.3600000000001273,
+      "dialogue_text": "Japanner! Je mag hier niet komen!"
+    },
+    {
+      "subtitle_index": 377,
+      "start_time": 2724.108,
+      "end_time": 2725.997,
+      "duration": 1.888999999999669,
+      "dialogue_text": "Stop! Raak hem niet aan!"
+    },
+    {
+      "subtitle_index": 378,
+      "start_time": 2726.058,
+      "end_time": 2729.069,
+      "duration": 3.0109999999999673,
+      "dialogue_text": "En dit is de gastvrijheid van het Duitse volk!"
+    },
+    {
+      "subtitle_index": 379,
+      "start_time": 2729.069,
+      "end_time": 2733.299,
+      "duration": 4.230000000000018,
+      "dialogue_text": "Jij Japanse plagiaatpleger! Deze technologie is ons eigendom!"
+    },
+    {
+      "subtitle_index": 380,
+      "start_time": 2733.299,
+      "end_time": 2736.729,
+      "duration": 3.4299999999998363,
+      "dialogue_text": "Wat een stoutmoedigheid!"
+    },
+    {
+      "subtitle_index": 381,
+      "start_time": 2736.729,
+      "end_time": 2738.227,
+      "duration": 1.4980000000000473,
+      "dialogue_text": "Honjo, wacht."
+    },
+    {
+      "subtitle_index": 382,
+      "start_time": 2739.668,
+      "end_time": 2742.462,
+      "duration": 2.793999999999869,
+      "dialogue_text": "We bezochten het atelier omdat we tot dusver een zeker technisch niveau haalden."
+    },
+    {
+      "subtitle_index": 383,
+      "start_time": 2743.112,
+      "end_time": 2747.363,
+      "duration": 4.250999999999749,
+      "dialogue_text": "Luister naar me. We moeten allemaal beginnen met ons fatsoenlijk te gedragen."
+    },
+    {
+      "subtitle_index": 384,
+      "start_time": 2747.363,
+      "end_time": 2752.544,
+      "duration": 5.18100000000004,
+      "dialogue_text": "We ontvingen geen toelating van jullie meerdere die inhield dat je hier mocht komen."
+    },
+    {
+      "subtitle_index": 385,
+      "start_time": 2752.544,
+      "end_time": 2755.893,
+      "duration": 3.34900000000016,
+      "dialogue_text": "En ik geloof ook dat je zeer loyaal bent in het uitvoeren van taken. Maar de inhoud..."
+    },
+    {
+      "subtitle_index": 386,
+      "start_time": 2755.9,
+      "end_time": 2761.093,
+      "duration": 5.192999999999756,
+      "dialogue_text": "van onze contracten zijn gelijk, dus daarom laten we ons zeker niet beledigen door jou."
+    },
+    {
+      "subtitle_index": 387,
+      "start_time": 2761.353,
+      "end_time": 2765.693,
+      "duration": 4.3400000000001455,
+      "dialogue_text": "Hoe je het ook keert, je mag hier niet zijn."
+    },
+    {
+      "subtitle_index": 388,
+      "start_time": 2782.711,
+      "end_time": 2784.481,
+      "duration": 1.7700000000004366,
+      "dialogue_text": "Dat was Rongke Bo Shi."
+    },
+    {
+      "subtitle_index": 389,
+      "start_time": 2784.481,
+      "end_time": 2787.061,
+      "duration": 2.5799999999999272,
+      "dialogue_text": "Inderdaad heel goed."
+    },
+    {
+      "subtitle_index": 390,
+      "start_time": 2788.741,
+      "end_time": 2791.681,
+      "duration": 2.9400000000000546,
+      "dialogue_text": "De Dokter gaat akkoord. Je mag gaan."
+    },
+    {
+      "subtitle_index": 391,
+      "start_time": 2803.802,
+      "end_time": 2806.222,
+      "duration": 2.4200000000000728,
+      "dialogue_text": "Denk je echt dat dit vliegtuig..."
+    },
+    {
+      "subtitle_index": 392,
+      "start_time": 2806.582,
+      "end_time": 2808.011,
+      "duration": 1.4290000000000873,
+      "dialogue_text": "Het schudt meer dan ik verwachtte."
+    },
+    {
+      "subtitle_index": 393,
+      "start_time": 2809.024,
+      "end_time": 2811.543,
+      "duration": 2.519000000000233,
+      "dialogue_text": "Die mensen lijken erg opgewonden."
+    },
+    {
+      "subtitle_index": 394,
+      "start_time": 2811.579,
+      "end_time": 2814.569,
+      "duration": 2.9899999999997817,
+      "dialogue_text": "Kunnen jullie beiden het redden met de mensen van het leger?"
+    },
+    {
+      "subtitle_index": 395,
+      "start_time": 2818.877,
+      "end_time": 2820.088,
+      "duration": 1.21100000000024,
+      "dialogue_text": "De lijnen kunnen omgewisseld worden."
+    },
+    {
+      "subtitle_index": 396,
+      "start_time": 2820.088,
+      "end_time": 2822.527,
+      "duration": 2.438999999999851,
+      "dialogue_text": "Dit vliegtuig is echt goed, ah!"
+    },
+    {
+      "subtitle_index": 397,
+      "start_time": 2823.837,
+      "end_time": 2826.892,
+      "duration": 3.0549999999998363,
+      "dialogue_text": "Er zijn die kanalen in het midden van de vleugel."
+    },
+    {
+      "subtitle_index": 398,
+      "start_time": 2829.196,
+      "end_time": 2830.947,
+      "duration": 1.7510000000002037,
+      "dialogue_text": "Dat is echt vreselijk."
+    },
+    {
+      "subtitle_index": 399,
+      "start_time": 2832.167,
+      "end_time": 2834.358,
+      "duration": 2.1910000000002583,
+      "dialogue_text": "Misschien moeten wij hetzelfde doen."
+    },
+    {
+      "subtitle_index": 400,
+      "start_time": 2839.158,
+      "end_time": 2844.758,
+      "duration": 5.599999999999909,
+      "dialogue_text": "We hebben een goedkeuring om te kijken waar jij werkt."
+    },
+    {
+      "subtitle_index": 401,
+      "start_time": 2844.827,
+      "end_time": 2846.116,
+      "duration": 1.28899999999976,
+      "dialogue_text": "Dit is de plek waar de ingenieurs werken."
+    },
+    {
+      "subtitle_index": 402,
+      "start_time": 2847.361,
+      "end_time": 2848.356,
+      "duration": 0.9950000000003456,
+      "dialogue_text": "Dit vliegtuig is echt goed, hé?"
+    },
+    {
+      "subtitle_index": 403,
+      "start_time": 2850.28,
+      "end_time": 2852.919,
+      "duration": 2.638999999999669,
+      "dialogue_text": "Japanner, je mag niet verder gaan."
+    },
+    {
+      "subtitle_index": 404,
+      "start_time": 2855.292,
+      "end_time": 2858.063,
+      "duration": 2.7710000000001855,
+      "dialogue_text": "Dat is de lijn..."
+    },
+    {
+      "subtitle_index": 405,
+      "start_time": 2858.063,
+      "end_time": 2859.954,
+      "duration": 1.8910000000000764,
+      "dialogue_text": "Goed dan."
+    },
+    {
+      "subtitle_index": 406,
+      "start_time": 2860.37,
+      "end_time": 2862.77,
+      "duration": 2.400000000000091,
+      "dialogue_text": "Ah, die Duitse kristallisatie technologie."
+    },
+    {
+      "subtitle_index": 407,
+      "start_time": 2892.858,
+      "end_time": 2897.158,
+      "duration": 4.299999999999727,
+      "dialogue_text": "Shi Rong Kebo is echt goed, maar hun firma is zeer gierig."
+    },
+    {
+      "subtitle_index": 408,
+      "start_time": 2898.998,
+      "end_time": 2900.807,
+      "duration": 1.8089999999997417,
+      "dialogue_text": "Jiro, heb je een sigaret?"
+    },
+    {
+      "subtitle_index": 409,
+      "start_time": 2902.328,
+      "end_time": 2903.307,
+      "duration": 0.9789999999998145,
+      "dialogue_text": "Jiro!"
+    },
+    {
+      "subtitle_index": 410,
+      "start_time": 2905.357,
+      "end_time": 2906.259,
+      "duration": 0.9020000000000437,
+      "dialogue_text": "Heb je tabak?"
+    },
+    {
+      "subtitle_index": 411,
+      "start_time": 2906.999,
+      "end_time": 2908.329,
+      "duration": 1.330000000000382,
+      "dialogue_text": "\"Nein.\""
+    },
+    {
+      "subtitle_index": 412,
+      "start_time": 2925.321,
+      "end_time": 2928.063,
+      "duration": 2.742000000000189,
+      "dialogue_text": "De kamer is erg koud, en buiten lijkt het behoorlijk warm te zijn."
+    },
+    {
+      "subtitle_index": 413,
+      "start_time": 2928.815,
+      "end_time": 2932.58,
+      "duration": 3.7649999999998727,
+      "dialogue_text": "Dit lijkt me hetzelfde als met de mensen hier. Dat vliegtuig is gemaakt zoals..."
+    },
+    {
+      "subtitle_index": 414,
+      "start_time": 2932.585,
+      "end_time": 2936.58,
+      "duration": 3.994999999999891,
+      "dialogue_text": "die kachel hier, zonder gevoel voor schoon- heid. Ah, ik wil een mooi vliegtuig maken."
+    },
+    {
+      "subtitle_index": 415,
+      "start_time": 2937.281,
+      "end_time": 2941.891,
+      "duration": 4.610000000000127,
+      "dialogue_text": "De conclusie is hoe dan ook dat wij deze goede technische basis ontbreken."
+    },
+    {
+      "subtitle_index": 416,
+      "start_time": 2942.04,
+      "end_time": 2944.556,
+      "duration": 2.5160000000000764,
+      "dialogue_text": "Ik heb een warm bad, een keukentafel en dat volstaat om me warm te houden."
+    },
+    {
+      "subtitle_index": 417,
+      "start_time": 2944.558,
+      "end_time": 2947.056,
+      "duration": 2.4980000000000473,
+      "dialogue_text": "Maar wat vliegtuigbouw betreft, komen we zelfs niet in de buurt."
+    },
+    {
+      "subtitle_index": 418,
+      "start_time": 2947.989,
+      "end_time": 2954.14,
+      "duration": 6.15099999999984,
+      "dialogue_text": "En vandaag was gewoon perfect, we kregen de informatie over de perfecte gegevens."
+    },
+    {
+      "subtitle_index": 419,
+      "start_time": 2954.743,
+      "end_time": 2958.094,
+      "duration": 3.3510000000001128,
+      "dialogue_text": "\"Technologie is onze Duitse eigendom.\""
+    },
+    {
+      "subtitle_index": 420,
+      "start_time": 2958.223,
+      "end_time": 2964.173,
+      "duration": 5.949999999999818,
+      "dialogue_text": "Kom op, Honjo. Denk je dat dit vliegtuig in hout en metaal echt kan worden vergeleken?"
+    },
+    {
+      "subtitle_index": 421,
+      "start_time": 2964.503,
+      "end_time": 2969.183,
+      "duration": 4.679999999999836,
+      "dialogue_text": "Daar is het te laat voor. We lopen ongeveer twee decennia achter."
+    },
+    {
+      "subtitle_index": 422,
+      "start_time": 2973.283,
+      "end_time": 2978.084,
+      "duration": 4.800999999999931,
+      "dialogue_text": "Kom, we gaan eens wandelen. Ik moet mijn verstand tot rust laten komen."
+    },
+    {
+      "subtitle_index": 423,
+      "start_time": 2985.582,
+      "end_time": 2990.044,
+      "duration": 4.461999999999989,
+      "dialogue_text": "We zijn zo moedig, we proberen de decennia bij te benen."
+    },
+    {
+      "subtitle_index": 424,
+      "start_time": 2991.2,
+      "end_time": 2994.43,
+      "duration": 3.230000000000018,
+      "dialogue_text": "Het nam 25 jaar in beslag om een kloof van 5 jaar te dichten."
+    },
+    {
+      "subtitle_index": 425,
+      "start_time": 2994.435,
+      "end_time": 2997.53,
+      "duration": 3.0950000000002547,
+      "dialogue_text": "En nu willen we vlugger gaan en 5 jaar doen in 1 jaar."
+    },
+    {
+      "subtitle_index": 426,
+      "start_time": 2997.826,
+      "end_time": 3000.845,
+      "duration": 3.018999999999778,
+      "dialogue_text": "In dit geval doen wij de hele jacht."
+    },
+    {
+      "subtitle_index": 427,
+      "start_time": 3001.146,
+      "end_time": 3005.365,
+      "duration": 4.218999999999596,
+      "dialogue_text": "Dat is het enige wat we kunnen doen. We leren er altijd van."
+    },
+    {
+      "subtitle_index": 428,
+      "start_time": 3005.918,
+      "end_time": 3009.679,
+      "duration": 3.7609999999999673,
+      "dialogue_text": "Het maakt niet uit, het lijkt zo moeilijk alsof het op geen enkele manier kan."
+    },
+    {
+      "subtitle_index": 429,
+      "start_time": 3014.32,
+      "end_time": 3016.7,
+      "duration": 2.3799999999996544,
+      "dialogue_text": "Wat gebeurde er?"
+    },
+    {
+      "subtitle_index": 430,
+      "start_time": 3020.327,
+      "end_time": 3021.627,
+      "duration": 1.2999999999997272,
+      "dialogue_text": "Een fonograaf."
+    },
+    {
+      "subtitle_index": 431,
+      "start_time": 3026.457,
+      "end_time": 3030.718,
+      "duration": 4.260999999999967,
+      "dialogue_text": "Dit lied omschrijft onze wintertocht."
+    },
+    {
+      "subtitle_index": 432,
+      "start_time": 3052.527,
+      "end_time": 3053.406,
+      "duration": 0.8789999999999054,
+      "dialogue_text": "Wat was dat?"
+    },
+    {
+      "subtitle_index": 433,
+      "start_time": 3053.585,
+      "end_time": 3055.687,
+      "duration": 2.1019999999998618,
+      "dialogue_text": "Dat was de kerel die de hangar bewaakte."
+    },
+    {
+      "subtitle_index": 434,
+      "start_time": 3112.622,
+      "end_time": 3118.033,
+      "duration": 5.411000000000058,
+      "dialogue_text": "Jiro! Ik ben klaar met baden. Het is jouw beurt."
+    },
+    {
+      "subtitle_index": 435,
+      "start_time": 3122.331,
+      "end_time": 3128.191,
+      "duration": 5.859999999999673,
+      "dialogue_text": "Jij slaapt goed. De Japanse ingenieur die heel alleen het lot van ons vliegtuig draagt."
+    },
+    {
+      "subtitle_index": 436,
+      "start_time": 3131.322,
+      "end_time": 3133.111,
+      "duration": 1.78899999999976,
+      "dialogue_text": "Het diensthoofd ontving een telegram van het Japanse bedrijf."
+    },
+    {
+      "subtitle_index": 437,
+      "start_time": 3133.28,
+      "end_time": 3133.9,
+      "duration": 0.6199999999998909,
+      "dialogue_text": "Waarover gaat het?"
+    },
+    {
+      "subtitle_index": 438,
+      "start_time": 3133.9,
+      "end_time": 3142.691,
+      "duration": 8.790999999999713,
+      "dialogue_text": "Sommigen willen niet dat je vertrekt. Tot Jiro terugkeert uit het westen blijf je hier."
+    },
+    {
+      "subtitle_index": 439,
+      "start_time": 3142.901,
+      "end_time": 3143.632,
+      "duration": 0.7310000000002219,
+      "dialogue_text": "Gaat hij naar het Westen?"
+    },
+    {
+      "subtitle_index": 440,
+      "start_time": 3143.812,
+      "end_time": 3145.721,
+      "duration": 1.9090000000001055,
+      "dialogue_text": "Hij werd geroepen om deze wereld te zien."
+    },
+    {
+      "subtitle_index": 441,
+      "start_time": 3145.831,
+      "end_time": 3146.982,
+      "duration": 1.15099999999984,
+      "dialogue_text": "Hij zal alleen gaan..."
+    },
+    {
+      "subtitle_index": 442,
+      "start_time": 3172.333,
+      "end_time": 3173.914,
+      "duration": 1.581000000000131,
+      "dialogue_text": "Mr. Caproni!"
+    },
+    {
+      "subtitle_index": 443,
+      "start_time": 3174.04,
+      "end_time": 3175.889,
+      "duration": 1.84900000000016,
+      "dialogue_text": "Blaast de wind niet meer?"
+    },
+    {
+      "subtitle_index": 444,
+      "start_time": 3176.64,
+      "end_time": 3178.76,
+      "duration": 2.1200000000003456,
+      "dialogue_text": "Hij blaast nog altijd."
+    },
+    {
+      "subtitle_index": 445,
+      "start_time": 3178.599,
+      "end_time": 3182.82,
+      "duration": 4.221000000000004,
+      "dialogue_text": "Kom, doe met me mee! Ik wil me terugtrekken."
+    },
+    {
+      "subtitle_index": 446,
+      "start_time": 3183.08,
+      "end_time": 3185.01,
+      "duration": 1.930000000000291,
+      "dialogue_text": "Mr. Caproni, mijn vriend, waar gaan we heen?"
+    },
+    {
+      "subtitle_index": 447,
+      "start_time": 3186.657,
+      "end_time": 3188.488,
+      "duration": 1.8309999999996762,
+      "dialogue_text": "Nou, geniet van de vlucht."
+    },
+    {
+      "subtitle_index": 448,
+      "start_time": 3191.788,
+      "end_time": 3193.319,
+      "duration": 1.530999999999949,
+      "dialogue_text": "Vlieg!"
+    },
+    {
+      "subtitle_index": 449,
+      "start_time": 3202.278,
+      "end_time": 3205.324,
+      "duration": 3.0460000000002765,
+      "dialogue_text": "Vooruit, sneller!"
+    },
+    {
+      "subtitle_index": 450,
+      "start_time": 3206.089,
+      "end_time": 3211.975,
+      "duration": 5.885999999999967,
+      "dialogue_text": "Haast je! We gaan ervandoor!"
+    },
+    {
+      "subtitle_index": 451,
+      "start_time": 3220.906,
+      "end_time": 3223.607,
+      "duration": 2.701000000000022,
+      "dialogue_text": "Laten we vliegen!"
+    },
+    {
+      "subtitle_index": 452,
+      "start_time": 3230.776,
+      "end_time": 3235.336,
+      "duration": 4.559999999999945,
+      "dialogue_text": "Het zijn allemaal familieleden of verwanten van arbeiders die dit maakten."
+    },
+    {
+      "subtitle_index": 453,
+      "start_time": 3236.803,
+      "end_time": 3243.053,
+      "duration": 6.25,
+      "dialogue_text": "Maar, na alle bommenwerpers wisten de autoriteiten dat niet."
+    },
+    {
+      "subtitle_index": 454,
+      "start_time": 3246.854,
+      "end_time": 3248.303,
+      "duration": 1.4490000000000691,
+      "dialogue_text": "Stel je dit eens voor!"
+    },
+    {
+      "subtitle_index": 455,
+      "start_time": 3248.704,
+      "end_time": 3249.372,
+      "duration": 0.6679999999996653,
+      "dialogue_text": "Het is reuze groot!"
+    },
+    {
+      "subtitle_index": 456,
+      "start_time": 3251.144,
+      "end_time": 3252.814,
+      "duration": 1.6700000000000728,
+      "dialogue_text": "Zoals de Romeinse bouwwerken."
+    },
+    {
+      "subtitle_index": 457,
+      "start_time": 3254.113,
+      "end_time": 3259.243,
+      "duration": 5.130000000000109,
+      "dialogue_text": "Autoriteiten hoeven niet te vechten."
+    },
+    {
+      "subtitle_index": 458,
+      "start_time": 3260.075,
+      "end_time": 3265.503,
+      "duration": 5.428000000000338,
+      "dialogue_text": "In feite is mijn land zeer arm en bezit deze techniek niet. Het kan dit niet maken."
+    },
+    {
+      "subtitle_index": 459,
+      "start_time": 3266.343,
+      "end_time": 3268.492,
+      "duration": 2.149000000000342,
+      "dialogue_text": "Het belangrijkste is design op gevoel."
+    },
+    {
+      "subtitle_index": 460,
+      "start_time": 3269.423,
+      "end_time": 3273.611,
+      "duration": 4.188000000000102,
+      "dialogue_text": "Gevoel zou voldoende moeten zijn om vanzelf gelijke tred te houden met technologie."
+    },
+    {
+      "subtitle_index": 461,
+      "start_time": 3276.05,
+      "end_time": 3277.26,
+      "duration": 1.2100000000000364,
+      "dialogue_text": "Dat is mijn vrouw!"
+    },
+    {
+      "subtitle_index": 462,
+      "start_time": 3277.621,
+      "end_time": 3282.612,
+      "duration": 4.9909999999999854,
+      "dialogue_text": "Eigenlijk is mijn ook zo arm omdat er te veel achtergelaten kinderen zijn."
+    },
+    {
+      "subtitle_index": 463,
+      "start_time": 3287.662,
+      "end_time": 3291.292,
+      "duration": 3.630000000000109,
+      "dialogue_text": "Hé! Niet zo uitbundig, of we vallen!"
+    },
+    {
+      "subtitle_index": 464,
+      "start_time": 3292.272,
+      "end_time": 3292.924,
+      "duration": 0.6520000000000437,
+      "dialogue_text": "Kom mee."
+    },
+    {
+      "subtitle_index": 465,
+      "start_time": 3296.715,
+      "end_time": 3301.655,
+      "duration": 4.940000000000055,
+      "dialogue_text": "Opgelet voor je hoofd. Bots nergens tegen, zelfs niet in een droom."
+    },
+    {
+      "subtitle_index": 466,
+      "start_time": 3310.551,
+      "end_time": 3315.347,
+      "duration": 4.7960000000002765,
+      "dialogue_text": "Verkies je een wereld met piramides, of zonder piramides?"
+    },
+    {
+      "subtitle_index": 467,
+      "start_time": 3315.438,
+      "end_time": 3317.048,
+      "duration": 1.6099999999996726,
+      "dialogue_text": "Ik verkies met piramides."
+    },
+    {
+      "subtitle_index": 468,
+      "start_time": 3317.558,
+      "end_time": 3321.487,
+      "duration": 3.9290000000000873,
+      "dialogue_text": "De droom van de mens om te vliegen wordt aanzien als een vloek."
+    },
+    {
+      "subtitle_index": 469,
+      "start_time": 3322.637,
+      "end_time": 3326.498,
+      "duration": 3.8609999999998763,
+      "dialogue_text": "Omdat het vliegtuig bekend zal worden voor dood en vernieling."
+    },
+    {
+      "subtitle_index": 470,
+      "start_time": 3326.498,
+      "end_time": 3327.358,
+      "duration": 0.8600000000001273,
+      "dialogue_text": "Ja."
+    },
+    {
+      "subtitle_index": 471,
+      "start_time": 3327.818,
+      "end_time": 3334.447,
+      "duration": 6.628999999999905,
+      "dialogue_text": "Desondanks koos ik een wereld met piramide. En jij, wat zou jij kiezen?"
+    },
+    {
+      "subtitle_index": 472,
+      "start_time": 3335.167,
+      "end_time": 3338.417,
+      "duration": 3.25,
+      "dialogue_text": "Ik hoop alleen maar dat ik een mooi vliegtuig zal maken."
+    },
+    {
+      "subtitle_index": 473,
+      "start_time": 3338.417,
+      "end_time": 3340.916,
+      "duration": 2.499000000000251,
+      "dialogue_text": "Zoals dat daar?"
+    },
+    {
+      "subtitle_index": 474,
+      "start_time": 3354.527,
+      "end_time": 3356.776,
+      "duration": 2.2489999999997963,
+      "dialogue_text": "Ah, dat is echt goed."
+    },
+    {
+      "subtitle_index": 475,
+      "start_time": 3357.637,
+      "end_time": 3360.637,
+      "duration": 3.0,
+      "dialogue_text": "Zelfs zonder motor en cockpit afdeklijst."
+    },
+    {
+      "subtitle_index": 476,
+      "start_time": 3368.428,
+      "end_time": 3373.357,
+      "duration": 4.929000000000087,
+      "dialogue_text": "Bravo! Wat een mooie droom!"
+    },
+    {
+      "subtitle_index": 477,
+      "start_time": 3381.346,
+      "end_time": 3384.147,
+      "duration": 2.800999999999931,
+      "dialogue_text": "Ik zeg je dat dit mijn laatste vlucht is voor ik op pensioen ga."
+    },
+    {
+      "subtitle_index": 478,
+      "start_time": 3384.619,
+      "end_time": 3391.968,
+      "duration": 7.348999999999705,
+      "dialogue_text": "Een creatief leven van 10 jaar is genoeg voor artiesten en designers."
+    },
+    {
+      "subtitle_index": 479,
+      "start_time": 3391.975,
+      "end_time": 3395.968,
+      "duration": 3.992999999999938,
+      "dialogue_text": "Je wil enkele decennia voor jezelf leven."
+    },
+    {
+      "subtitle_index": 480,
+      "start_time": 3411.447,
+      "end_time": 3413.557,
+      "duration": 2.1099999999996726,
+      "dialogue_text": "Jiro, laten we in de koffieshop wat gaan praten."
+    },
+    {
+      "subtitle_index": 481,
+      "start_time": 3413.698,
+      "end_time": 3414.739,
+      "duration": 1.0410000000001673,
+      "dialogue_text": "Maar ik heb een vergadering nu."
+    },
+    {
+      "subtitle_index": 482,
+      "start_time": 3414.739,
+      "end_time": 3415.229,
+      "duration": 0.4899999999997817,
+      "dialogue_text": ""
+    },
+    {
+      "subtitle_index": 483,
+      "start_time": 3431.651,
+      "end_time": 3432.821,
+      "duration": 1.1700000000000728,
+      "dialogue_text": "Hun eisen zijn net te hoog."
+    },
+    {
+      "subtitle_index": 484,
+      "start_time": 3433.042,
+      "end_time": 3434.451,
+      "duration": 1.4090000000001055,
+      "dialogue_text": "Het is altijd al zo geweest."
+    },
+    {
+      "subtitle_index": 485,
+      "start_time": 3434.25,
+      "end_time": 3438.2,
+      "duration": 3.949999999999818,
+      "dialogue_text": "Jiro, hoeveel jaar ben je al in het bedrijf?"
+    },
+    {
+      "subtitle_index": 486,
+      "start_time": 3438.3,
+      "end_time": 3438.9,
+      "duration": 0.599999999999909,
+      "dialogue_text": "Jiro!"
+    },
+    {
+      "subtitle_index": 487,
+      "start_time": 3439.782,
+      "end_time": 3441.001,
+      "duration": 1.219000000000051,
+      "dialogue_text": "Hoe lang ben je in het bedrijf?"
+    },
+    {
+      "subtitle_index": 488,
+      "start_time": 3441.2,
+      "end_time": 3442.7,
+      "duration": 1.5,
+      "dialogue_text": "Ongeveer vijf jaar."
+    },
+    {
+      "subtitle_index": 489,
+      "start_time": 3442.831,
+      "end_time": 3445.471,
+      "duration": 2.6399999999998727,
+      "dialogue_text": "Dat zou genoeg moeten zijn voor je om chef designer te worden."
+    },
+    {
+      "subtitle_index": 490,
+      "start_time": 3445.471,
+      "end_time": 3449.119,
+      "duration": 3.6480000000001382,
+      "dialogue_text": "Voor de competitie gevechtsvliegtuigen georganiseerd door de Marine."
+    },
+    {
+      "subtitle_index": 491,
+      "start_time": 3449.19,
+      "end_time": 3450.61,
+      "duration": 1.4200000000000728,
+      "dialogue_text": "Hij heeft je gepromoveerd."
+    },
+    {
+      "subtitle_index": 492,
+      "start_time": 3453.02,
+      "end_time": 3455.19,
+      "duration": 2.1700000000000728,
+      "dialogue_text": "Hoi, Jiro!"
+    },
+    {
+      "subtitle_index": 493,
+      "start_time": 3464.951,
+      "end_time": 3466.721,
+      "duration": 1.7699999999999818,
+      "dialogue_text": "Wat denk je?"
+    },
+    {
+      "subtitle_index": 494,
+      "start_time": 3467.151,
+      "end_time": 3468.851,
+      "duration": 1.7000000000002728,
+      "dialogue_text": "Ik aanvaard het."
+    },
+    {
+      "subtitle_index": 495,
+      "start_time": 3468.67,
+      "end_time": 3470.091,
+      "duration": 1.4209999999998217,
+      "dialogue_text": "Zeer goed."
+    },
+    {
+      "subtitle_index": 496,
+      "start_time": 3470.291,
+      "end_time": 3472.221,
+      "duration": 1.9299999999998363,
+      "dialogue_text": "Kan Honjo bij me werken?"
+    },
+    {
+      "subtitle_index": 497,
+      "start_time": 3472.502,
+      "end_time": 3477.293,
+      "duration": 4.791000000000167,
+      "dialogue_text": "Dat is geen goed idee. Je zal wedijveren met elkaar en dat heeft effect op de vriendschap."
+    },
+    {
+      "subtitle_index": 498,
+      "start_time": 3477.902,
+      "end_time": 3482.591,
+      "duration": 4.688999999999851,
+      "dialogue_text": "Goed."
+    },
+    {
+      "subtitle_index": 499,
+      "start_time": 3482.831,
+      "end_time": 3485.462,
+      "duration": 2.630999999999858,
+      "dialogue_text": "We treffen de nodige schikkingen."
+    },
+    {
+      "subtitle_index": 500,
+      "start_time": 3530.093,
+      "end_time": 3531.593,
+      "duration": 1.5,
+      "dialogue_text": "Binnenlandse motoren zijn zo'n rommel."
+    },
+    {
+      "subtitle_index": 501,
+      "start_time": 3541.594,
+      "end_time": 3543.893,
+      "duration": 2.298999999999978,
+      "dialogue_text": "De vliegtuigdraagstel is aan boord."
+    },
+    {
+      "subtitle_index": 502,
+      "start_time": 3547.653,
+      "end_time": 3550.103,
+      "duration": 2.450000000000273,
+      "dialogue_text": "Nieuwe wissel is klaar!"
+    },
+    {
+      "subtitle_index": 503,
+      "start_time": 3550.192,
+      "end_time": 3551.972,
+      "duration": 1.7800000000002,
+      "dialogue_text": "Oh, heel erg bedankt!"
+    },
+    {
+      "subtitle_index": 504,
+      "start_time": 3563.291,
+      "end_time": 3564.761,
+      "duration": 1.4699999999998,
+      "dialogue_text": "Heel erg bedankt voor je zorg!"
+    },
+    {
+      "subtitle_index": 505,
+      "start_time": 3565.012,
+      "end_time": 3566.591,
+      "duration": 1.5789999999997235,
+      "dialogue_text": "Nou, dat is geschikt voor dit soort uniform!"
+    },
+    {
+      "subtitle_index": 506,
+      "start_time": 3592.595,
+      "end_time": 3593.596,
+      "duration": 1.0010000000002037,
+      "dialogue_text": "Man overboord!"
+    },
+    {
+      "subtitle_index": 507,
+      "start_time": 3705.687,
+      "end_time": 3708.42,
+      "duration": 2.7330000000001746,
+      "dialogue_text": "Het is een groot succes! Hij is geslaagd!"
+    },
+    {
+      "subtitle_index": 508,
+      "start_time": 3771.227,
+      "end_time": 3773.777,
+      "duration": 2.550000000000182,
+      "dialogue_text": "Vader!"
+    },
+    {
+      "subtitle_index": 509,
+      "start_time": 3817.648,
+      "end_time": 3821.353,
+      "duration": 3.7049999999999272,
+      "dialogue_text": "Bravo! Goed opgevangen!"
+    },
+    {
+      "subtitle_index": 510,
+      "start_time": 3825.15,
+      "end_time": 3827.236,
+      "duration": 2.0859999999997854,
+      "dialogue_text": "Het spijt me zo. Toch niet gekwetst, mag ik hopen?"
+    },
+    {
+      "subtitle_index": 511,
+      "start_time": 3827.055,
+      "end_time": 3828.981,
+      "duration": 1.9260000000003856,
+      "dialogue_text": "Het is niets. Hier is je paraplu terug."
+    },
+    {
+      "subtitle_index": 512,
+      "start_time": 3829.0,
+      "end_time": 3832.8,
+      "duration": 3.800000000000182,
+      "dialogue_text": "Dank je. De paraplu is van het hotel. We zouden problemen krijgen als we hem verloren."
+    },
+    {
+      "subtitle_index": 513,
+      "start_time": 3832.9,
+      "end_time": 3834.887,
+      "duration": 1.98700000000008,
+      "dialogue_text": "De groeten!"
+    },
+    {
+      "subtitle_index": 514,
+      "start_time": 3846.272,
+      "end_time": 3848.977,
+      "duration": 2.7049999999999272,
+      "dialogue_text": "Vader, het lijkt er op dat ik niet erg beleefd was."
+    },
+    {
+      "subtitle_index": 515,
+      "start_time": 3849.178,
+      "end_time": 3854.9,
+      "duration": 5.722000000000207,
+      "dialogue_text": "Maakt niet uit. Hij is een goede jongen. We kunnen hem bedanken in het hotel."
+    },
+    {
+      "subtitle_index": 516,
+      "start_time": 4012.141,
+      "end_time": 4014.597,
+      "duration": 2.456000000000131,
+      "dialogue_text": "Wat scheelt er met jou?"
+    },
+    {
+      "subtitle_index": 517,
+      "start_time": 4014.804,
+      "end_time": 4017.917,
+      "duration": 3.112999999999829,
+      "dialogue_text": "Zie je de laatste tafel? De jongen die ons hielp om de paraplu te pakken zit daar."
+    },
+    {
+      "subtitle_index": 518,
+      "start_time": 4018.039,
+      "end_time": 4021.132,
+      "duration": 3.092999999999847,
+      "dialogue_text": "Oh, blijkbaar is hij alleen hier."
+    },
+    {
+      "subtitle_index": 519,
+      "start_time": 4089.078,
+      "end_time": 4091.367,
+      "duration": 2.2890000000002146,
+      "dialogue_text": "Mevrouw, het spijt me! Ik vertrek nu."
+    },
+    {
+      "subtitle_index": 520,
+      "start_time": 4092.417,
+      "end_time": 4096.404,
+      "duration": 3.987000000000535,
+      "dialogue_text": "Nee, niet weggaan! Blijf!"
+    },
+    {
+      "subtitle_index": 521,
+      "start_time": 4096.664,
+      "end_time": 4100.881,
+      "duration": 4.217000000000553,
+      "dialogue_text": "Ik hoopte al zo lang dat we elkaar zouden ontmoeten. Het lot bracht je hier."
+    },
+    {
+      "subtitle_index": 522,
+      "start_time": 4103.689,
+      "end_time": 4108.439,
+      "duration": 4.75,
+      "dialogue_text": "Dat is al lang geleden. Je veranderde niets. Je ziet er nog dezelfde uit."
+    },
+    {
+      "subtitle_index": 523,
+      "start_time": 4109.261,
+      "end_time": 4112.707,
+      "duration": 3.4459999999999127,
+      "dialogue_text": "Ik apprecieerde echt je hulp ten tijde van de aardbeving."
+    },
+    {
+      "subtitle_index": 524,
+      "start_time": 4112.903,
+      "end_time": 4115.371,
+      "duration": 2.467999999999847,
+      "dialogue_text": "Ik wou je altijd al ontmoeten, om je rechtstreeks te bedanken!"
+    },
+    {
+      "subtitle_index": 525,
+      "start_time": 4116.215,
+      "end_time": 4117.806,
+      "duration": 1.5909999999994398,
+      "dialogue_text": "Ah, was jij dat kleine meisje?"
+    },
+    {
+      "subtitle_index": 526,
+      "start_time": 4118.176,
+      "end_time": 4121.096,
+      "duration": 2.9199999999991633,
+      "dialogue_text": "Ik ben Satomi Naoko, tot je dienst."
+    },
+    {
+      "subtitle_index": 527,
+      "start_time": 4121.564,
+      "end_time": 4123.962,
+      "duration": 2.3980000000001382,
+      "dialogue_text": "Hallo, mijn naam is Jiro."
+    },
+    {
+      "subtitle_index": 528,
+      "start_time": 4144.589,
+      "end_time": 4146.01,
+      "duration": 1.4210000000002765,
+      "dialogue_text": "Kan je het redden?"
+    },
+    {
+      "subtitle_index": 529,
+      "start_time": 4146.598,
+      "end_time": 4148.598,
+      "duration": 2.0,
+      "dialogue_text": "Ja."
+    },
+    {
+      "subtitle_index": 530,
+      "start_time": 4148.582,
+      "end_time": 4150.978,
+      "duration": 2.395999999999731,
+      "dialogue_text": "Mijn meid trouwde een tijdje geleden."
+    },
+    {
+      "subtitle_index": 531,
+      "start_time": 4151.511,
+      "end_time": 4153.945,
+      "duration": 2.433999999999287,
+      "dialogue_text": "Ze heeft eindelijk haar eigen stek."
+    },
+    {
+      "subtitle_index": 532,
+      "start_time": 4154.934,
+      "end_time": 4157.412,
+      "duration": 2.4780000000000655,
+      "dialogue_text": "Ze was zo gelukkig, ze weende zich bijna dood."
+    },
+    {
+      "subtitle_index": 533,
+      "start_time": 4157.783,
+      "end_time": 4160.828,
+      "duration": 3.0450000000000728,
+      "dialogue_text": "Mr. Jiro, jij bent eigenlijk onze prins!"
+    },
+    {
+      "subtitle_index": 534,
+      "start_time": 4160.511,
+      "end_time": 4161.625,
+      "duration": 1.113999999999578,
+      "dialogue_text": "Ben ik een prins?"
+    },
+    {
+      "subtitle_index": 535,
+      "start_time": 4161.755,
+      "end_time": 4164.971,
+      "duration": 3.2159999999994398,
+      "dialogue_text": "Ja! Jij was een prins op een wit paard."
+    },
+    {
+      "subtitle_index": 536,
+      "start_time": 4165.634,
+      "end_time": 4167.652,
+      "duration": 2.018000000000029,
+      "dialogue_text": "De paraplu lekt."
+    },
+    {
+      "subtitle_index": 537,
+      "start_time": 4168.175,
+      "end_time": 4172.015,
+      "duration": 3.8400000000001455,
+      "dialogue_text": "Ik moet dit snel aan mijn meid gaan vertellen."
+    },
+    {
+      "subtitle_index": 538,
+      "start_time": 4171.827,
+      "end_time": 4175.117,
+      "duration": 3.2899999999999636,
+      "dialogue_text": "Ze beviel net van haar tweede kind."
+    },
+    {
+      "subtitle_index": 539,
+      "start_time": 4175.137,
+      "end_time": 4177.274,
+      "duration": 2.1370000000006257,
+      "dialogue_text": "En het is ook een schatje."
+    },
+    {
+      "subtitle_index": 540,
+      "start_time": 4180.562,
+      "end_time": 4182.292,
+      "duration": 1.730000000000473,
+      "dialogue_text": "Je schilderijen zijn allemaal doordrenkt."
+    },
+    {
+      "subtitle_index": 541,
+      "start_time": 4182.631,
+      "end_time": 4185.389,
+      "duration": 2.757999999999811,
+      "dialogue_text": "Ik weet het, ik zal ze later wel drogen."
+    },
+    {
+      "subtitle_index": 542,
+      "start_time": 4185.65,
+      "end_time": 4188.104,
+      "duration": 2.454000000000633,
+      "dialogue_text": "De hemel klaart op, je kan de zon zien."
+    },
+    {
+      "subtitle_index": 543,
+      "start_time": 4194.318,
+      "end_time": 4196.756,
+      "duration": 2.438000000000102,
+      "dialogue_text": "Hier is het al droog!"
+    },
+    {
+      "subtitle_index": 544,
+      "start_time": 4197.715,
+      "end_time": 4200.416,
+      "duration": 2.701000000000022,
+      "dialogue_text": "Kijk daar eens!"
+    },
+    {
+      "subtitle_index": 545,
+      "start_time": 4207.087,
+      "end_time": 4209.507,
+      "duration": 2.4199999999991633,
+      "dialogue_text": "Ik was vergeten hoe de regenboog er uitzag."
+    },
+    {
+      "subtitle_index": 546,
+      "start_time": 4209.957,
+      "end_time": 4212.228,
+      "duration": 2.270999999999731,
+      "dialogue_text": "Het leven is echt mooi, nietwaar?"
+    },
+    {
+      "subtitle_index": 547,
+      "start_time": 4213.403,
+      "end_time": 4216.639,
+      "duration": 3.2359999999998763,
+      "dialogue_text": "Kom we gaan, mijn vader gaat zich zorgen maken."
+    },
+    {
+      "subtitle_index": 548,
+      "start_time": 4221.121,
+      "end_time": 4224.84,
+      "duration": 3.719000000000051,
+      "dialogue_text": "Hier is mijn vader. Vader!"
+    },
+    {
+      "subtitle_index": 549,
+      "start_time": 4224.725,
+      "end_time": 4227.319,
+      "duration": 2.594000000000051,
+      "dialogue_text": "Kom maar met me mee, ik zal je voorstellen aan mijn vader."
+    },
+    {
+      "subtitle_index": 550,
+      "start_time": 4227.329,
+      "end_time": 4229.224,
+      "duration": 1.8950000000004366,
+      "dialogue_text": "Goed!"
+    },
+    {
+      "subtitle_index": 551,
+      "start_time": 4230.343,
+      "end_time": 4231.857,
+      "duration": 1.5140000000001237,
+      "dialogue_text": "Je bent helemaal nat!"
+    },
+    {
+      "subtitle_index": 552,
+      "start_time": 4231.917,
+      "end_time": 4235.275,
+      "duration": 3.357999999999265,
+      "dialogue_text": "Ik ben oké, gelukkig! Hij hielp me."
+    },
+    {
+      "subtitle_index": 553,
+      "start_time": 4235.343,
+      "end_time": 4237.212,
+      "duration": 1.8690000000005966,
+      "dialogue_text": "Dit is Mr. Jiro."
+    },
+    {
+      "subtitle_index": 554,
+      "start_time": 4238.294,
+      "end_time": 4241.059,
+      "duration": 2.7650000000003274,
+      "dialogue_text": "Mijn naam is Satomi. Het spijt me echt."
+    },
+    {
+      "subtitle_index": 555,
+      "start_time": 4241.189,
+      "end_time": 4243.935,
+      "duration": 2.7460000000000946,
+      "dialogue_text": "Je helpt altijd als mijn dochter in moeilijkheden zit."
+    },
+    {
+      "subtitle_index": 556,
+      "start_time": 4286.092,
+      "end_time": 4288.523,
+      "duration": 2.4310000000004948,
+      "dialogue_text": "Deze plaats is vrij, toch?"
+    },
+    {
+      "subtitle_index": 557,
+      "start_time": 4289.509,
+      "end_time": 4291.708,
+      "duration": 2.1989999999996144,
+      "dialogue_text": "Jawel."
+    },
+    {
+      "subtitle_index": 558,
+      "start_time": 4306.831,
+      "end_time": 4308.526,
+      "duration": 1.694999999999709,
+      "dialogue_text": "Duitse tabak."
+    },
+    {
+      "subtitle_index": 559,
+      "start_time": 4308.583,
+      "end_time": 4311.672,
+      "duration": 3.088999999999942,
+      "dialogue_text": "Zeer goed."
+    },
+    {
+      "subtitle_index": 560,
+      "start_time": 4311.785,
+      "end_time": 4314.451,
+      "duration": 2.6660000000001673,
+      "dialogue_text": "Weet ik, ik probeerde hem al."
+    },
+    {
+      "subtitle_index": 561,
+      "start_time": 4316.405,
+      "end_time": 4318.68,
+      "duration": 2.2750000000005457,
+      "dialogue_text": "Je zal nu al wel in Duitsland zijn geweest."
+    },
+    {
+      "subtitle_index": 562,
+      "start_time": 4319.08,
+      "end_time": 4320.918,
+      "duration": 1.837999999999738,
+      "dialogue_text": "Ik bezocht de stad De Zhao."
+    },
+    {
+      "subtitle_index": 563,
+      "start_time": 4321.155,
+      "end_time": 4323.826,
+      "duration": 2.6710000000002765,
+      "dialogue_text": "Ben jij misschien Mr. Sherlock Holmes?"
+    },
+    {
+      "subtitle_index": 564,
+      "start_time": 4324.405,
+      "end_time": 4329.386,
+      "duration": 4.981000000000677,
+      "dialogue_text": "Je bent een ingenieur. Je leest tijdschriften over vliegtuigen."
+    },
+    {
+      "subtitle_index": 565,
+      "start_time": 4330.985,
+      "end_time": 4334.351,
+      "duration": 3.3659999999999854,
+      "dialogue_text": "Alle ingenieurs gaan naar De Zhao."
+    },
+    {
+      "subtitle_index": 566,
+      "start_time": 4334.353,
+      "end_time": 4338.059,
+      "duration": 3.706000000000131,
+      "dialogue_text": "Ha ha ha! Dat klopt helemaal!"
+    },
+    {
+      "subtitle_index": 567,
+      "start_time": 4339.487,
+      "end_time": 4342.122,
+      "duration": 2.6350000000002183,
+      "dialogue_text": "Dr. Alex zal worden vervolgd."
+    },
+    {
+      "subtitle_index": 568,
+      "start_time": 4342.18,
+      "end_time": 4344.055,
+      "duration": 1.875,
+      "dialogue_text": "Vervolgd? Waarom?"
+    },
+    {
+      "subtitle_index": 569,
+      "start_time": 4344.779,
+      "end_time": 4348.833,
+      "duration": 4.053999999999178,
+      "dialogue_text": "Hij en de regering zijn het oneens."
+    },
+    {
+      "subtitle_index": 570,
+      "start_time": 4348.975,
+      "end_time": 4351.563,
+      "duration": 2.587999999999738,
+      "dialogue_text": "Je bedoelt het regime van Hitler."
+    },
+    {
+      "subtitle_index": 571,
+      "start_time": 4351.812,
+      "end_time": 4354.563,
+      "duration": 2.7510000000002037,
+      "dialogue_text": "Het is een schurkenbende."
+    },
+    {
+      "subtitle_index": 572,
+      "start_time": 4355.115,
+      "end_time": 4357.02,
+      "duration": 1.9050000000006548,
+      "dialogue_text": "Deze plek is echt leuk."
+    },
+    {
+      "subtitle_index": 573,
+      "start_time": 4357.368,
+      "end_time": 4360.038,
+      "duration": 2.6699999999991633,
+      "dialogue_text": "Er zijn geen muggen en het is niet te heet."
+    },
+    {
+      "subtitle_index": 574,
+      "start_time": 4360.34,
+      "end_time": 4361.508,
+      "duration": 1.1679999999996653,
+      "dialogue_text": "Water is lekker."
+    },
+    {
+      "subtitle_index": 575,
+      "start_time": 4361.963,
+      "end_time": 4364.523,
+      "duration": 2.5600000000004,
+      "dialogue_text": "Het is inderdaad een leuke plek."
+    },
+    {
+      "subtitle_index": 576,
+      "start_time": 4365.29,
+      "end_time": 4366.929,
+      "duration": 1.6390000000001237,
+      "dialogue_text": "Probeer het eens. Het is Japanse tabak."
+    },
+    {
+      "subtitle_index": 577,
+      "start_time": 4367.208,
+      "end_time": 4368.576,
+      "duration": 1.368000000000393,
+      "dialogue_text": "Dank je."
+    },
+    {
+      "subtitle_index": 578,
+      "start_time": 4374.151,
+      "end_time": 4377.691,
+      "duration": 3.5399999999999636,
+      "dialogue_text": "\"Prachtige avond hier\""
+    },
+    {
+      "subtitle_index": 579,
+      "start_time": 4378.01,
+      "end_time": 4379.959,
+      "duration": 1.9489999999996144,
+      "dialogue_text": "De magische Berg? Een Thomas Mann novelle?"
+    },
+    {
+      "subtitle_index": 580,
+      "start_time": 4380.209,
+      "end_time": 4382.672,
+      "duration": 2.462999999999738,
+      "dialogue_text": "Het is een goede plek om te kunnen vergeten."
+    },
+    {
+      "subtitle_index": 581,
+      "start_time": 4382.373,
+      "end_time": 4386.09,
+      "duration": 3.717000000000553,
+      "dialogue_text": "Om de oorlog met China te vergeten."
+    },
+    {
+      "subtitle_index": 582,
+      "start_time": 4386.108,
+      "end_time": 4389.104,
+      "duration": 2.9960000000000946,
+      "dialogue_text": "Om Manchukuo te vergeten."
+    },
+    {
+      "subtitle_index": 583,
+      "start_time": 4389.092,
+      "end_time": 4392.341,
+      "duration": 3.2490000000007058,
+      "dialogue_text": "Om de Statenbond te vergeten."
+    },
+    {
+      "subtitle_index": 584,
+      "start_time": 4392.49,
+      "end_time": 4394.997,
+      "duration": 2.5070000000005166,
+      "dialogue_text": "En uiteindelijk, om de rest van de wereld te vergeten."
+    },
+    {
+      "subtitle_index": 585,
+      "start_time": 4397.875,
+      "end_time": 4400.09,
+      "duration": 2.2150000000001455,
+      "dialogue_text": "Duitsland zal ook barsten."
+    },
+    {
+      "subtitle_index": 586,
+      "start_time": 4400.324,
+      "end_time": 4402.274,
+      "duration": 1.9500000000007276,
+      "dialogue_text": "Denk je dat Duitsland een oorlog zal beginnen?"
+    },
+    {
+      "subtitle_index": 587,
+      "start_time": 4402.486,
+      "end_time": 4405.288,
+      "duration": 2.80199999999968,
+      "dialogue_text": "We moeten ons gesprek nu stopzetten."
+    },
+    {
+      "subtitle_index": 588,
+      "start_time": 4406.049,
+      "end_time": 4408.566,
+      "duration": 2.5169999999998254,
+      "dialogue_text": "Het spijt me echt dat ik je zo langheb opgehouden."
+    },
+    {
+      "subtitle_index": 589,
+      "start_time": 4408.925,
+      "end_time": 4411.329,
+      "duration": 2.4039999999995416,
+      "dialogue_text": "Naoko is ziek, ze heeft koorts."
+    },
+    {
+      "subtitle_index": 590,
+      "start_time": 4411.414,
+      "end_time": 4414.449,
+      "duration": 3.0349999999998545,
+      "dialogue_text": "Sta ons alsjeblieft toe dat we het diner van vanavond annuleren."
+    },
+    {
+      "subtitle_index": 591,
+      "start_time": 4414.499,
+      "end_time": 4417.866,
+      "duration": 3.367000000000189,
+      "dialogue_text": "Ik begrijp het. Zeg haar dat ze zich wat beter verzorgd."
+    },
+    {
+      "subtitle_index": 592,
+      "start_time": 4418.714,
+      "end_time": 4422.201,
+      "duration": 3.48700000000008,
+      "dialogue_text": "Ik ga kijken voor een dokter."
+    },
+    {
+      "subtitle_index": 593,
+      "start_time": 4532.334,
+      "end_time": 4534.805,
+      "duration": 2.4710000000004584,
+      "dialogue_text": "\"Wie kan de wind zien?"
+    },
+    {
+      "subtitle_index": 594,
+      "start_time": 4535.625,
+      "end_time": 4542.632,
+      "duration": 7.006999999999607,
+      "dialogue_text": "Maar jij en ik zagen de tijd toen de bla- deren bewogen. Je weet hoe de wind blaast."
+    },
+    {
+      "subtitle_index": 595,
+      "start_time": 4547.988,
+      "end_time": 4550.38,
+      "duration": 2.3919999999998254,
+      "dialogue_text": "De wind en zijn vibrerende vleugels stijgen hoog op."
+    },
+    {
+      "subtitle_index": 596,
+      "start_time": 4551.394,
+      "end_time": 4554.749,
+      "duration": 3.3549999999995634,
+      "dialogue_text": "Ik zal hem naar jouw kant sturen.\""
+    },
+    {
+      "subtitle_index": 597,
+      "start_time": 4588.567,
+      "end_time": 4589.695,
+      "duration": 1.1279999999997017,
+      "dialogue_text": "Meneer Jiro!"
+    },
+    {
+      "subtitle_index": 598,
+      "start_time": 4589.834,
+      "end_time": 4591.235,
+      "duration": 1.40099999999984,
+      "dialogue_text": "Naoko!"
+    },
+    {
+      "subtitle_index": 599,
+      "start_time": 4610.368,
+      "end_time": 4612.492,
+      "duration": 2.1239999999997963,
+      "dialogue_text": "Voorzichtig!"
+    },
+    {
+      "subtitle_index": 600,
+      "start_time": 4726.633,
+      "end_time": 4728.941,
+      "duration": 2.3079999999999927,
+      "dialogue_text": "Goed opgevangen!"
+    },
+    {
+      "subtitle_index": 601,
+      "start_time": 4802.209,
+      "end_time": 4804.526,
+      "duration": 2.3170000000000073,
+      "dialogue_text": "En, is je dochter nu beter?"
+    },
+    {
+      "subtitle_index": 602,
+      "start_time": 4804.91,
+      "end_time": 4806.782,
+      "duration": 1.8720000000002983,
+      "dialogue_text": "Ze is veel beter."
+    },
+    {
+      "subtitle_index": 603,
+      "start_time": 4806.546,
+      "end_time": 4812.334,
+      "duration": 5.787999999999556,
+      "dialogue_text": "Proficiat! Wellicht omdat ze een universele kuur volgde die alles heelt en het beste is."
+    },
+    {
+      "subtitle_index": 604,
+      "start_time": 4812.42,
+      "end_time": 4813.912,
+      "duration": 1.4920000000001892,
+      "dialogue_text": "Misschien wel."
+    },
+    {
+      "subtitle_index": 605,
+      "start_time": 4814.609,
+      "end_time": 4818.559,
+      "duration": 3.949999999999818,
+      "dialogue_text": "Ze was eerst melancholisch. maar dan begon ze het te nemen..."
+    },
+    {
+      "subtitle_index": 606,
+      "start_time": 4818.741,
+      "end_time": 4820.587,
+      "duration": 1.8460000000004584,
+      "dialogue_text": "en nu is ze kwiek!"
+    },
+    {
+      "subtitle_index": 607,
+      "start_time": 4821.01,
+      "end_time": 4822.765,
+      "duration": 1.7550000000001091,
+      "dialogue_text": "Is het liefde?"
+    },
+    {
+      "subtitle_index": 608,
+      "start_time": 4823.587,
+      "end_time": 4825.661,
+      "duration": 2.0739999999996144,
+      "dialogue_text": "Ja."
+    },
+    {
+      "subtitle_index": 609,
+      "start_time": 4826.194,
+      "end_time": 4828.479,
+      "duration": 2.2849999999998545,
+      "dialogue_text": "Liefde is zo heilig, maar ze loopt zo snel."
+    },
+    {
+      "subtitle_index": 610,
+      "start_time": 4828.777,
+      "end_time": 4832.284,
+      "duration": 3.506999999999607,
+      "dialogue_text": "Eens je vertrekt, zal je het vergeten."
+    },
+    {
+      "subtitle_index": 611,
+      "start_time": 4832.738,
+      "end_time": 4834.507,
+      "duration": 1.7689999999993233,
+      "dialogue_text": "Dat zal ik zeker niet."
+    },
+    {
+      "subtitle_index": 612,
+      "start_time": 4835.125,
+      "end_time": 4838.928,
+      "duration": 3.8029999999998836,
+      "dialogue_text": "Wat zeg je nu?"
+    },
+    {
+      "subtitle_index": 613,
+      "start_time": 4839.404,
+      "end_time": 4841.578,
+      "duration": 2.173999999999978,
+      "dialogue_text": "Ik zal het uitleggen. Mr. Satomi..."
+    },
+    {
+      "subtitle_index": 614,
+      "start_time": 4842.401,
+      "end_time": 4845.121,
+      "duration": 2.7200000000002547,
+      "dialogue_text": "Laat me alsjeblieft met Satomi trouwen."
+    },
+    {
+      "subtitle_index": 615,
+      "start_time": 4846.188,
+      "end_time": 4847.937,
+      "duration": 1.7489999999997963,
+      "dialogue_text": "Mijn dochter niet..."
+    },
+    {
+      "subtitle_index": 616,
+      "start_time": 4848.698,
+      "end_time": 4852.886,
+      "duration": 4.188000000000102,
+      "dialogue_text": "Vader! Laat me alsjeblieft zijn vraag aanvaarden."
+    },
+    {
+      "subtitle_index": 617,
+      "start_time": 4853.592,
+      "end_time": 4856.052,
+      "duration": 2.4600000000000364,
+      "dialogue_text": "Ah, zeer mooi."
+    },
+    {
+      "subtitle_index": 618,
+      "start_time": 4858.401,
+      "end_time": 4862.372,
+      "duration": 3.9710000000004584,
+      "dialogue_text": "Maar voor alles moet ik één ding duidelijk maken in deze omgang."
+    },
+    {
+      "subtitle_index": 619,
+      "start_time": 4862.681,
+      "end_time": 4866.151,
+      "duration": 3.4700000000002547,
+      "dialogue_text": "Mijn moeder stierf twee jaar geleden aan tuberculose."
+    },
+    {
+      "subtitle_index": 620,
+      "start_time": 4866.823,
+      "end_time": 4869.306,
+      "duration": 2.482999999999265,
+      "dialogue_text": "ook ik lijd aan dezelfde ziekte."
+    },
+    {
+      "subtitle_index": 621,
+      "start_time": 4869.599,
+      "end_time": 4871.705,
+      "duration": 2.105999999999767,
+      "dialogue_text": "Ik vind je al heel lang leuk."
+    },
+    {
+      "subtitle_index": 622,
+      "start_time": 4871.822,
+      "end_time": 4874.004,
+      "duration": 2.181999999999789,
+      "dialogue_text": "In feite van in het begin, toen je mijn hoed greep."
+    },
+    {
+      "subtitle_index": 623,
+      "start_time": 4874.522,
+      "end_time": 4878.053,
+      "duration": 3.530999999999949,
+      "dialogue_text": "De wind stuurde je naar mij."
+    },
+    {
+      "subtitle_index": 624,
+      "start_time": 4878.761,
+      "end_time": 4880.414,
+      "duration": 1.6529999999993379,
+      "dialogue_text": "Wil je alsjeblieft met me trouwen?"
+    },
+    {
+      "subtitle_index": 625,
+      "start_time": 4880.46,
+      "end_time": 4883.756,
+      "duration": 3.2960000000002765,
+      "dialogue_text": "Ja. Maar eerst moet ik genezen, vooraleer het erger wordt."
+    },
+    {
+      "subtitle_index": 626,
+      "start_time": 4883.879,
+      "end_time": 4885.823,
+      "duration": 1.9440000000004147,
+      "dialogue_text": "Maar ik weet niet of je op mij wil wachten."
+    },
+    {
+      "subtitle_index": 627,
+      "start_time": 4885.975,
+      "end_time": 4888.81,
+      "duration": 2.8350000000000364,
+      "dialogue_text": "Zeker! Als ik moet zal ik 100 jaar wachten!"
+    },
+    {
+      "subtitle_index": 628,
+      "start_time": 4888.99,
+      "end_time": 4892.215,
+      "duration": 3.225000000000364,
+      "dialogue_text": "Gefeliciteerd met deze zeer fijne jongeman!"
+    },
+    {
+      "subtitle_index": 629,
+      "start_time": 4892.55,
+      "end_time": 4895.635,
+      "duration": 3.0850000000000364,
+      "dialogue_text": "Jouw dochter is ook zeer fijn!"
+    },
+    {
+      "subtitle_index": 630,
+      "start_time": 4895.777,
+      "end_time": 4899.412,
+      "duration": 3.6350000000002183,
+      "dialogue_text": "Deze zomer is inderdaad prachtig."
+    },
+    {
+      "subtitle_index": 631,
+      "start_time": 4920.169,
+      "end_time": 4921.915,
+      "duration": 1.7460000000000946,
+      "dialogue_text": "Jiro! Langs hier!"
+    },
+    {
+      "subtitle_index": 632,
+      "start_time": 4922.383,
+      "end_time": 4925.204,
+      "duration": 2.8209999999999127,
+      "dialogue_text": "Je kwam twee dagen geleden terug."
+    },
+    {
+      "subtitle_index": 633,
+      "start_time": 4925.891,
+      "end_time": 4928.174,
+      "duration": 2.2830000000003565,
+      "dialogue_text": "Het is hier erg heet."
+    },
+    {
+      "subtitle_index": 634,
+      "start_time": 4929.645,
+      "end_time": 4932.276,
+      "duration": 2.6309999999994034,
+      "dialogue_text": "Help me even zoeken."
+    },
+    {
+      "subtitle_index": 635,
+      "start_time": 4935.854,
+      "end_time": 4939.476,
+      "duration": 3.621999999999389,
+      "dialogue_text": "Oh hemel! Het is mooi! Zeer mooi!"
+    },
+    {
+      "subtitle_index": 636,
+      "start_time": 4942.653,
+      "end_time": 4947.503,
+      "duration": 4.849999999999454,
+      "dialogue_text": "Het is een soort van experimentele machine. Je mag er op klimmen."
+    },
+    {
+      "subtitle_index": 637,
+      "start_time": 4947.953,
+      "end_time": 4950.432,
+      "duration": 2.4789999999993597,
+      "dialogue_text": "Maar zonder testen is het moeilijk om er iets over te zeggen."
+    },
+    {
+      "subtitle_index": 638,
+      "start_time": 4950.439,
+      "end_time": 4954.44,
+      "duration": 4.000999999999294,
+      "dialogue_text": "Ah Ik weet het. Het kwam door..."
+    },
+    {
+      "subtitle_index": 639,
+      "start_time": 4973.291,
+      "end_time": 4975.669,
+      "duration": 2.3779999999997017,
+      "dialogue_text": "Tube is de achillespees van Japan."
+    },
+    {
+      "subtitle_index": 640,
+      "start_time": 4976.005,
+      "end_time": 4977.873,
+      "duration": 1.8679999999994834,
+      "dialogue_text": "We hebben al 20 jaar achterstand goedgemaakt."
+    },
+    {
+      "subtitle_index": 641,
+      "start_time": 4978.611,
+      "end_time": 4981.794,
+      "duration": 3.1829999999999927,
+      "dialogue_text": "Mijn vliegtuig is maar zo goed als de volgende test van deze metalen eend."
+    },
+    {
+      "subtitle_index": 642,
+      "start_time": 4982.345,
+      "end_time": 4985.017,
+      "duration": 2.6719999999995707,
+      "dialogue_text": "Ik heb genoeg tijd om nieuw gebruik van metaal uit te proberen."
+    },
+    {
+      "subtitle_index": 643,
+      "start_time": 4986.946,
+      "end_time": 4991.259,
+      "duration": 4.313000000000102,
+      "dialogue_text": "Er zullen wijzigingen komen, kopschroeven op het platform."
+    },
+    {
+      "subtitle_index": 644,
+      "start_time": 4991.568,
+      "end_time": 4994.187,
+      "duration": 2.618999999999687,
+      "dialogue_text": "Dan wijzigingen aan de brandstoftoevoer, dan de bevestigingen."
+    },
+    {
+      "subtitle_index": 645,
+      "start_time": 4994.56,
+      "end_time": 4996.189,
+      "duration": 1.6289999999999054,
+      "dialogue_text": "Het zal handiger worden om te gebruiken."
+    },
+    {
+      "subtitle_index": 646,
+      "start_time": 5000.815,
+      "end_time": 5002.567,
+      "duration": 1.7520000000004075,
+      "dialogue_text": "In feite zou zo'n veerkrachtige katapult"
+    },
+    {
+      "subtitle_index": 647,
+      "start_time": 5002.495,
+      "end_time": 5003.594,
+      "duration": 1.09900000000016,
+      "dialogue_text": "voldoende moeten zijn."
+    },
+    {
+      "subtitle_index": 648,
+      "start_time": 5003.954,
+      "end_time": 5007.627,
+      "duration": 3.673000000000684,
+      "dialogue_text": "Jiro, dat zijn leuke ideeën! Jij bent net als Columbus!"
+    },
+    {
+      "subtitle_index": 649,
+      "start_time": 5007.841,
+      "end_time": 5010.406,
+      "duration": 2.5649999999996,
+      "dialogue_text": "Je kan dit meenemen. - Ah, dank je."
+    },
+    {
+      "subtitle_index": 650,
+      "start_time": 5010.462,
+      "end_time": 5012.125,
+      "duration": 1.6629999999995562,
+      "dialogue_text": "Maar niet nu."
+    },
+    {
+      "subtitle_index": 651,
+      "start_time": 5012.71,
+      "end_time": 5014.457,
+      "duration": 1.7470000000002983,
+      "dialogue_text": "We leggen deze schets weg."
+    },
+    {
+      "subtitle_index": 652,
+      "start_time": 5014.771,
+      "end_time": 5016.673,
+      "duration": 1.9020000000000437,
+      "dialogue_text": "We zullen ze later gebruiken, als je \"eend\" het niet doet."
+    },
+    {
+      "subtitle_index": 653,
+      "start_time": 5017.104,
+      "end_time": 5018.385,
+      "duration": 1.280999999999949,
+      "dialogue_text": "Oké."
+    },
+    {
+      "subtitle_index": 654,
+      "start_time": 5018.574,
+      "end_time": 5022.648,
+      "duration": 4.074000000000524,
+      "dialogue_text": "Ik wacht op jou om aan de slag te gaan."
+    },
+    {
+      "subtitle_index": 655,
+      "start_time": 5023.26,
+      "end_time": 5025.839,
+      "duration": 2.5789999999997235,
+      "dialogue_text": "Jiro! Waar ben je?!"
+    },
+    {
+      "subtitle_index": 656,
+      "start_time": 5026.105,
+      "end_time": 5028.3,
+      "duration": 2.1950000000006185,
+      "dialogue_text": "Mr. Kurokawa, Jiro is hier."
+    },
+    {
+      "subtitle_index": 657,
+      "start_time": 5028.457,
+      "end_time": 5032.591,
+      "duration": 4.1340000000000146,
+      "dialogue_text": "We moeten onmiddellijk terugkeren!"
+    },
+    {
+      "subtitle_index": 658,
+      "start_time": 5033.137,
+      "end_time": 5035.029,
+      "duration": 1.8920000000007349,
+      "dialogue_text": "Jiro, jij rijdt!"
+    },
+    {
+      "subtitle_index": 659,
+      "start_time": 5039.417,
+      "end_time": 5041.641,
+      "duration": 2.2239999999992506,
+      "dialogue_text": "Je werd net onderzocht door de agenten."
+    },
+    {
+      "subtitle_index": 660,
+      "start_time": 5042.246,
+      "end_time": 5044.958,
+      "duration": 2.7119999999995343,
+      "dialogue_text": "De geheime politie zit achter je aan."
+    },
+    {
+      "subtitle_index": 661,
+      "start_time": 5045.761,
+      "end_time": 5049.312,
+      "duration": 3.550999999999476,
+      "dialogue_text": "Ze deden onderzoek? Maar we zijn enkel bezig met onze zaken."
+    },
+    {
+      "subtitle_index": 662,
+      "start_time": 5059.963,
+      "end_time": 5062.969,
+      "duration": 3.006000000000313,
+      "dialogue_text": "Ik loog, en zij zullen net doen alsof ze vertrokken zijn."
+    },
+    {
+      "subtitle_index": 663,
+      "start_time": 5062.9,
+      "end_time": 5065.6,
+      "duration": 2.7000000000007276,
+      "dialogue_text": "Jiro, jij blijft hier."
+    },
+    {
+      "subtitle_index": 664,
+      "start_time": 5065.68,
+      "end_time": 5068.225,
+      "duration": 2.5450000000000728,
+      "dialogue_text": "Mag ik vragen wat er gebeurd is?"
+    },
+    {
+      "subtitle_index": 665,
+      "start_time": 5068.517,
+      "end_time": 5071.07,
+      "duration": 2.5529999999998836,
+      "dialogue_text": "Ik heb twee vrienden die werden gearresteerd door de agenten."
+    },
+    {
+      "subtitle_index": 666,
+      "start_time": 5071.429,
+      "end_time": 5074.027,
+      "duration": 2.5979999999999563,
+      "dialogue_text": "Ik weet niet waarom."
+    },
+    {
+      "subtitle_index": 667,
+      "start_time": 5074.174,
+      "end_time": 5080.481,
+      "duration": 6.306999999999789,
+      "dialogue_text": "Alsjeblieft, heb wat geduld."
+    },
+    {
+      "subtitle_index": 668,
+      "start_time": 5081.451,
+      "end_time": 5084.098,
+      "duration": 2.6469999999999345,
+      "dialogue_text": "Wat jij moet doen is onmiddellijk teruggaan. (?)"
+    },
+    {
+      "subtitle_index": 669,
+      "start_time": 5083.916,
+      "end_time": 5087.156,
+      "duration": 3.2399999999997817,
+      "dialogue_text": "Jiro, ik geloof dat dit de Beta flens is."
+    },
+    {
+      "subtitle_index": 670,
+      "start_time": 5096.628,
+      "end_time": 5100.747,
+      "duration": 4.119000000000597,
+      "dialogue_text": "Dit spul is echt goed! Excellent! Hadden we dat maar een jaar eerder gehad."
+    },
+    {
+      "subtitle_index": 671,
+      "start_time": 5100.642,
+      "end_time": 5102.546,
+      "duration": 1.904000000000451,
+      "dialogue_text": "Jiro, wat denk jij?"
+    },
+    {
+      "subtitle_index": 672,
+      "start_time": 5102.628,
+      "end_time": 5106.111,
+      "duration": 3.4830000000001746,
+      "dialogue_text": "De volgende keer gebruiken we geen grote ijzeren \"eend\"."
+    },
+    {
+      "subtitle_index": 673,
+      "start_time": 5107.253,
+      "end_time": 5111.387,
+      "duration": 4.1340000000000146,
+      "dialogue_text": "Eend is geweldig! Compleet in metaal! Wat denk jij, Mr. Kurokawa?"
+    },
+    {
+      "subtitle_index": 674,
+      "start_time": 5112.161,
+      "end_time": 5114.767,
+      "duration": 2.605999999999767,
+      "dialogue_text": "Het is leuk lichtgewicht materiaal met een goede productie."
+    },
+    {
+      "subtitle_index": 675,
+      "start_time": 5116.125,
+      "end_time": 5118.057,
+      "duration": 1.931999999999789,
+      "dialogue_text": "We moeten het terugsturen!"
+    },
+    {
+      "subtitle_index": 676,
+      "start_time": 5128.515,
+      "end_time": 5131.39,
+      "duration": 2.875,
+      "dialogue_text": "Blijkbaar werden we nog niet opgespoord. Het ziet er veilig uit."
+    },
+    {
+      "subtitle_index": 677,
+      "start_time": 5132.857,
+      "end_time": 5135.958,
+      "duration": 3.100999999999658,
+      "dialogue_text": "Om veiligheidsredenen is het best dat jij je een tijdje niet laat zien."
+    },
+    {
+      "subtitle_index": 678,
+      "start_time": 5136.246,
+      "end_time": 5137.854,
+      "duration": 1.6080000000001746,
+      "dialogue_text": "Dit is de tijd waarop je aan je hachje moet denken."
+    },
+    {
+      "subtitle_index": 679,
+      "start_time": 5137.832,
+      "end_time": 5139.629,
+      "duration": 1.7969999999995707,
+      "dialogue_text": "Kom maar naar mijn thuis om hen te vermijden."
+    },
+    {
+      "subtitle_index": 680,
+      "start_time": 5139.843,
+      "end_time": 5142.701,
+      "duration": 2.8580000000001746,
+      "dialogue_text": "Alsjeblieft, ik verwacht een brief van het zomerkamp."
+    },
+    {
+      "subtitle_index": 681,
+      "start_time": 5143.137,
+      "end_time": 5144.952,
+      "duration": 1.8150000000005093,
+      "dialogue_text": "Misschien is die brief een bron van moeilijkheden?"
+    },
+    {
+      "subtitle_index": 682,
+      "start_time": 5145.206,
+      "end_time": 5146.814,
+      "duration": 1.6080000000001746,
+      "dialogue_text": "Het zou problemen geven als ze hem vinden."
+    },
+    {
+      "subtitle_index": 683,
+      "start_time": 5146.56,
+      "end_time": 5148.843,
+      "duration": 2.282999999999447,
+      "dialogue_text": "Je privacy binnendringen is niets bijzonders voor deze agenten."
+    },
+    {
+      "subtitle_index": 684,
+      "start_time": 5148.669,
+      "end_time": 5151.858,
+      "duration": 3.1890000000003056,
+      "dialogue_text": "Dit is een brief van mijn verloofde. Dat is een inbreuk op de privacy."
+    },
+    {
+      "subtitle_index": 685,
+      "start_time": 5151.778,
+      "end_time": 5154.146,
+      "duration": 2.3679999999994834,
+      "dialogue_text": "Het is een schande wat de moderne staten doen."
+    },
+    {
+      "subtitle_index": 686,
+      "start_time": 5155.642,
+      "end_time": 5157.865,
+      "duration": 2.2229999999999563,
+      "dialogue_text": "Ben je verloofd nu?!"
+    },
+    {
+      "subtitle_index": 687,
+      "start_time": 5157.699,
+      "end_time": 5161.941,
+      "duration": 4.242000000000189,
+      "dialogue_text": "Jiro, vind jij Japan al een modern land?"
+    },
+    {
+      "subtitle_index": 688,
+      "start_time": 5161.955,
+      "end_time": 5163.702,
+      "duration": 1.7470000000002983,
+      "dialogue_text": "Er is niets grappig aan!"
+    },
+    {
+      "subtitle_index": 689,
+      "start_time": 5163.996,
+      "end_time": 5167.018,
+      "duration": 3.0219999999999345,
+      "dialogue_text": "Natuurlijk zullen er agenten van nabij dat kamp in de gaten houden."
+    },
+    {
+      "subtitle_index": 690,
+      "start_time": 5167.202,
+      "end_time": 5169.825,
+      "duration": 2.6229999999995925,
+      "dialogue_text": "Ze zullen je vinden door de liefdesbrieven van zodra je ze accepteert."
+    },
+    {
+      "subtitle_index": 691,
+      "start_time": 5169.68,
+      "end_time": 5173.221,
+      "duration": 3.540999999999258,
+      "dialogue_text": "De Marine speelt waarschijnlijk dit spelletje."
+    },
+    {
+      "subtitle_index": 692,
+      "start_time": 5173.206,
+      "end_time": 5177.818,
+      "duration": 4.61200000000008,
+      "dialogue_text": "Ons bedrijf zal alles doen om je te beschermen."
+    },
+    {
+      "subtitle_index": 693,
+      "start_time": 5177.868,
+      "end_time": 5180.0,
+      "duration": 2.131999999999607,
+      "dialogue_text": "Het enige wat jij nu moet doen is je concentreren op je werk."
+    },
+    {
+      "subtitle_index": 694,
+      "start_time": 5185.252,
+      "end_time": 5188.857,
+      "duration": 3.6049999999995634,
+      "dialogue_text": "Ik begrijp nu waarom hij zo plots wegging."
+    },
+    {
+      "subtitle_index": 695,
+      "start_time": 5199.647,
+      "end_time": 5205.162,
+      "duration": 5.515000000000327,
+      "dialogue_text": "Ik kan nu maar hopen dat hij veilig naar het buitenland kan."
+    },
+    {
+      "subtitle_index": 696,
+      "start_time": 5221.466,
+      "end_time": 5225.301,
+      "duration": 3.8350000000000364,
+      "dialogue_text": "Meneer Jiro, er is telefoon voor u."
+    },
+    {
+      "subtitle_index": 697,
+      "start_time": 5225.363,
+      "end_time": 5228.368,
+      "duration": 3.005000000000109,
+      "dialogue_text": "Ja, heel erg bedankt."
+    },
+    {
+      "subtitle_index": 698,
+      "start_time": 5229.196,
+      "end_time": 5233.169,
+      "duration": 3.9729999999999563,
+      "dialogue_text": "Hallo? Jiro, je kreeg een telegraaf. - Ja?"
+    },
+    {
+      "subtitle_index": 699,
+      "start_time": 5234.335,
+      "end_time": 5237.129,
+      "duration": 2.793999999999869,
+      "dialogue_text": "Hij komt van de mensen waar je deze zomer bij was."
+    },
+    {
+      "subtitle_index": 700,
+      "start_time": 5237.322,
+      "end_time": 5240.039,
+      "duration": 2.7169999999996435,
+      "dialogue_text": "Hij kwam twee dagen geleden toe. - Kan je hem alsjeblieft voorlezen?"
+    },
+    {
+      "subtitle_index": 701,
+      "start_time": 5240.171,
+      "end_time": 5241.896,
+      "duration": 1.7249999999994543,
+      "dialogue_text": "Natuurlijk!"
+    },
+    {
+      "subtitle_index": 702,
+      "start_time": 5243.403,
+      "end_time": 5250.2,
+      "duration": 6.796999999999571,
+      "dialogue_text": "Naoko . . . Hoest . . Hemoptysis."
+    },
+    {
+      "subtitle_index": 703,
+      "start_time": 5256.955,
+      "end_time": 5261.062,
+      "duration": 4.106999999999971,
+      "dialogue_text": "Hé, hoor je me? - Ja, dank je."
+    },
+    {
+      "subtitle_index": 704,
+      "start_time": 5261.329,
+      "end_time": 5263.797,
+      "duration": 2.467999999999847,
+      "dialogue_text": "Niet ophangen!"
+    },
+    {
+      "subtitle_index": 705,
+      "start_time": 5265.785,
+      "end_time": 5270.924,
+      "duration": 5.139000000000124,
+      "dialogue_text": "Mrs. Kurokawa, hoe geraak ik alsjeblieft zo snel mogelijk terug in Tokio!"
+    },
+    {
+      "subtitle_index": 706,
+      "start_time": 5271.058,
+      "end_time": 5274.641,
+      "duration": 3.582999999999629,
+      "dialogue_text": "Ga je terug naar Tokio? - Ja, zo snel als ik kan!"
+    },
+    {
+      "subtitle_index": 707,
+      "start_time": 5274.925,
+      "end_time": 5278.578,
+      "duration": 3.6530000000002474,
+      "dialogue_text": "Dan moet je je haasten voor de namiddagbus. Hij gaat dadelijk toekomen."
+    },
+    {
+      "subtitle_index": 708,
+      "start_time": 5278.857,
+      "end_time": 5280.866,
+      "duration": 2.0090000000000146,
+      "dialogue_text": "Of je neemt de exprestrein om één uur."
+    },
+    {
+      "subtitle_index": 709,
+      "start_time": 5281.095,
+      "end_time": 5284.074,
+      "duration": 2.9789999999993597,
+      "dialogue_text": "Ik zal iemand vragen om je te helpen."
+    },
+    {
+      "subtitle_index": 710,
+      "start_time": 5284.317,
+      "end_time": 5285.894,
+      "duration": 1.5770000000002256,
+      "dialogue_text": "Jia, Jia!"
+    },
+    {
+      "subtitle_index": 711,
+      "start_time": 5388.9,
+      "end_time": 5389.9,
+      "duration": 1.0,
+      "dialogue_text": "Jiro!"
+    },
+    {
+      "subtitle_index": 712,
+      "start_time": 5398.9,
+      "end_time": 5400.9,
+      "duration": 2.0,
+      "dialogue_text": "Het spijt me! Ik ben zo laat."
+    },
+    {
+      "subtitle_index": 713,
+      "start_time": 5410.9,
+      "end_time": 5412.9,
+      "duration": 2.0,
+      "dialogue_text": "Ik hou van je."
+    },
+    {
+      "subtitle_index": 714,
+      "start_time": 5424.9,
+      "end_time": 5426.9,
+      "duration": 2.0,
+      "dialogue_text": "Instappen!"
+    },
+    {
+      "subtitle_index": 715,
+      "start_time": 5428.9,
+      "end_time": 5433.9,
+      "duration": 5.0,
+      "dialogue_text": "Vader, Jiro kwam me bezoeken, maar hij moet snel teruggaan naar zijn werk."
+    },
+    {
+      "subtitle_index": 716,
+      "start_time": 5433.9,
+      "end_time": 5436.9,
+      "duration": 3.0,
+      "dialogue_text": "De volgende keer bezoek ik je overdag. En kom ik binnen door de hoofdingang."
+    },
+    {
+      "subtitle_index": 717,
+      "start_time": 5436.9,
+      "end_time": 5437.9,
+      "duration": 1.0,
+      "dialogue_text": "Ik heb liever dat je langs de tuin komt."
+    },
+    {
+      "subtitle_index": 718,
+      "start_time": 5438.9,
+      "end_time": 5439.9,
+      "duration": 1.0,
+      "dialogue_text": "Goed, dat is dan afgesproken."
+    },
+    {
+      "subtitle_index": 719,
+      "start_time": 5440.9,
+      "end_time": 5441.9,
+      "duration": 1.0,
+      "dialogue_text": "Hou je goed, Jiro."
+    },
+    {
+      "subtitle_index": 720,
+      "start_time": 5441.9,
+      "end_time": 5445.9,
+      "duration": 4.0,
+      "dialogue_text": "Jij ook, Naoko. Tot ziens."
+    },
+    {
+      "subtitle_index": 721,
+      "start_time": 5446.9,
+      "end_time": 5447.9,
+      "duration": 1.0,
+      "dialogue_text": "Ik zal je schrijven."
+    },
+    {
+      "subtitle_index": 722,
+      "start_time": 5452.9,
+      "end_time": 5455.9,
+      "duration": 3.0,
+      "dialogue_text": "Je moet wat vlugger gaan als je de volgende bus wilt halen."
+    },
+    {
+      "subtitle_index": 723,
+      "start_time": 5457.9,
+      "end_time": 5460.9,
+      "duration": 3.0,
+      "dialogue_text": "Haar ziekte is zeer ernstig. Kon ik maar bij haar blijven."
+    },
+    {
+      "subtitle_index": 724,
+      "start_time": 5461.9,
+      "end_time": 5466.9,
+      "duration": 5.0,
+      "dialogue_text": "Je moet werken, jij bent een man met een drijfveer. Nou, ga snel terug."
+    },
+    {
+      "subtitle_index": 725,
+      "start_time": 5473.9,
+      "end_time": 5477.9,
+      "duration": 4.0,
+      "dialogue_text": "Hij is vertrokken. Ah, tranen!"
+    },
+    {
+      "subtitle_index": 726,
+      "start_time": 5480.9,
+      "end_time": 5484.9,
+      "duration": 4.0,
+      "dialogue_text": "Vader, ik wil naar het ziekenhuis in de bergen gaan, dat de dokters me aanbevolen."
+    },
+    {
+      "subtitle_index": 727,
+      "start_time": 5485.9,
+      "end_time": 5488.9,
+      "duration": 3.0,
+      "dialogue_text": "Maar ik wil je daar niet achterlaten."
+    },
+    {
+      "subtitle_index": 728,
+      "start_time": 5489.9,
+      "end_time": 5493.9,
+      "duration": 4.0,
+      "dialogue_text": "Ik wil deze ziekte genezen, en dan kan ik met Jiro gaan wonen."
+    },
+    {
+      "subtitle_index": 729,
+      "start_time": 5497.9,
+      "end_time": 5501.9,
+      "duration": 4.0,
+      "dialogue_text": "Het is goed dat je terugkwam. Onze oversten wachten."
+    },
+    {
+      "subtitle_index": 730,
+      "start_time": 5507.9,
+      "end_time": 5509.9,
+      "duration": 2.0,
+      "dialogue_text": "Wel, wat is jouw opinie over deze zaak?"
+    },
+    {
+      "subtitle_index": 731,
+      "start_time": 5510.9,
+      "end_time": 5511.9,
+      "duration": 1.0,
+      "dialogue_text": "Ik zal het doen."
+    },
+    {
+      "subtitle_index": 732,
+      "start_time": 5512.9,
+      "end_time": 5515.9,
+      "duration": 3.0,
+      "dialogue_text": "Na de marine moeten we naar de klanten kijken."
+    },
+    {
+      "subtitle_index": 733,
+      "start_time": 5525.9,
+      "end_time": 5527.9,
+      "duration": 2.0,
+      "dialogue_text": "Ik zal het doen."
+    },
+    {
+      "subtitle_index": 734,
+      "start_time": 5527.9,
+      "end_time": 5528.9,
+      "duration": 1.0,
+      "dialogue_text": "Je wil eenvoudig niet luisteren."
+    },
+    {
+      "subtitle_index": 735,
+      "start_time": 5528.9,
+      "end_time": 5529.9,
+      "duration": 1.0,
+      "dialogue_text": "Juist."
+    },
+    {
+      "subtitle_index": 736,
+      "start_time": 5531.9,
+      "end_time": 5533.9,
+      "duration": 2.0,
+      "dialogue_text": "Dus het algemeen advies was het opgeven!"
+    },
+    {
+      "subtitle_index": 737,
+      "start_time": 5535.9,
+      "end_time": 5537.9,
+      "duration": 2.0,
+      "dialogue_text": "Ik wens je een goede nacht."
+    },
+    {
+      "subtitle_index": 738,
+      "start_time": 5537.9,
+      "end_time": 5539.9,
+      "duration": 2.0,
+      "dialogue_text": "Ze lijken hun onafhankelijke directeur wel goed te vinden."
+    },
+    {
+      "subtitle_index": 739,
+      "start_time": 5542.9,
+      "end_time": 5544.9,
+      "duration": 2.0,
+      "dialogue_text": "Nou, als we het hebben over het idee om de nieuwste luchtvaarttechnologie toe te passen..."
+    },
+    {
+      "subtitle_index": 740,
+      "start_time": 5545.9,
+      "end_time": 5547.9,
+      "duration": 2.0,
+      "dialogue_text": "kijk dan hier eens!"
+    },
+    {
+      "subtitle_index": 741,
+      "start_time": 5547.9,
+      "end_time": 5549.0,
+      "duration": 1.1000000000003638,
+      "dialogue_text": "Dat is een intrekbaar landingssysteem!"
+    },
+    {
+      "subtitle_index": 742,
+      "start_time": 5549.4,
+      "end_time": 5550.9,
+      "duration": 1.5,
+      "dialogue_text": "Dit heb je nodig om 270 zeemijl te bereiken."
+    },
+    {
+      "subtitle_index": 743,
+      "start_time": 5551.9,
+      "end_time": 5554.9,
+      "duration": 3.0,
+      "dialogue_text": "270 zeemijl, dat is bijna 500 km!"
+    },
+    {
+      "subtitle_index": 744,
+      "start_time": 5554.9,
+      "end_time": 5556.9,
+      "duration": 2.0,
+      "dialogue_text": "De noden van de Marine zijn zelfs geen 220 zeemijl!"
+    },
+    {
+      "subtitle_index": 745,
+      "start_time": 5557.9,
+      "end_time": 5564.9,
+      "duration": 7.0,
+      "dialogue_text": "De weerstand zal hierdoor reëel worden verminderd."
+    },
+    {
+      "subtitle_index": 746,
+      "start_time": 5565.9,
+      "end_time": 5567.9,
+      "duration": 2.0,
+      "dialogue_text": "Dit is de stoutmoedige introductie van de meest recente technologie."
+    },
+    {
+      "subtitle_index": 747,
+      "start_time": 5567.901,
+      "end_time": 5571.0,
+      "duration": 3.09900000000016,
+      "dialogue_text": "Natuurlijk zal er een split jet vleugel met vleugellatten aan het eind bijhoren."
+    },
+    {
+      "subtitle_index": 748,
+      "start_time": 5591.9,
+      "end_time": 5593.9,
+      "duration": 2.0,
+      "dialogue_text": "Er zijn nochtans wat zware nadelen..."
+    },
+    {
+      "subtitle_index": 749,
+      "start_time": 5596.9,
+      "end_time": 5599.9,
+      "duration": 3.0,
+      "dialogue_text": "Als je geen wapens meedraagt, is er geen probleem!"
+    },
+    {
+      "subtitle_index": 750,
+      "start_time": 5605.9,
+      "end_time": 5608.9,
+      "duration": 3.0,
+      "dialogue_text": "Dit idee zal in gebruik blijven."
+    },
+    {
+      "subtitle_index": 751,
+      "start_time": 5609.9,
+      "end_time": 5611.9,
+      "duration": 2.0,
+      "dialogue_text": "Een levendige discussie!"
+    },
+    {
+      "subtitle_index": 752,
+      "start_time": 5613.9,
+      "end_time": 5618.9,
+      "duration": 5.0,
+      "dialogue_text": "Onze job is het maken van lichtgewicht dingen voor onze motoren."
+    },
+    {
+      "subtitle_index": 753,
+      "start_time": 5618.95,
+      "end_time": 5623.9,
+      "duration": 4.949999999999818,
+      "dialogue_text": "We moeten zo veel mogelijk de luchtweerstand verminderen met een glad oppervlak."
+    },
+    {
+      "subtitle_index": 754,
+      "start_time": 5623.95,
+      "end_time": 5628.89,
+      "duration": 4.940000000000509,
+      "dialogue_text": "En we moeten onthouden dat ons vliegtuig geen precedent kent, 'n volledig metalen vliegtuig!"
+    },
+    {
+      "subtitle_index": 755,
+      "start_time": 5629.9,
+      "end_time": 5630.9,
+      "duration": 1.0,
+      "dialogue_text": "Laten we allen onze nieuwkomer verwelkomen."
+    },
+    {
+      "subtitle_index": 756,
+      "start_time": 5632.9,
+      "end_time": 5635.9,
+      "duration": 3.0,
+      "dialogue_text": "Ik stel je Hirayama voor. Hij is technieker van de productieafdeling."
+    },
+    {
+      "subtitle_index": 757,
+      "start_time": 5635.9,
+      "end_time": 5636.9,
+      "duration": 1.0,
+      "dialogue_text": "Ik ben Hirayama!"
+    },
+    {
+      "subtitle_index": 758,
+      "start_time": 5638.9,
+      "end_time": 5641.9,
+      "duration": 3.0,
+      "dialogue_text": "Hij zal je de nieuwe ankers uitleggen."
+    },
+    {
+      "subtitle_index": 759,
+      "start_time": 5642.9,
+      "end_time": 5647.9,
+      "duration": 5.0,
+      "dialogue_text": "Als je gladde nagels wil met behoud van de stevigheid, is dat niet helemaal onmogelijk."
+    },
+    {
+      "subtitle_index": 760,
+      "start_time": 5647.9,
+      "end_time": 5648.9,
+      "duration": 1.0,
+      "dialogue_text": "Wat zegt hij?"
+    },
+    {
+      "subtitle_index": 761,
+      "start_time": 5649.9,
+      "end_time": 5651.9,
+      "duration": 2.0,
+      "dialogue_text": "Hij heeft het over ankers met platte koppen."
+    },
+    {
+      "subtitle_index": 762,
+      "start_time": 5651.9,
+      "end_time": 5656.9,
+      "duration": 5.0,
+      "dialogue_text": "Verscheidene landen gebruiken al ankers met platte koppen. Dus moeten wij ze ook gebruiken!"
+    },
+    {
+      "subtitle_index": 763,
+      "start_time": 5661.9,
+      "end_time": 5662.9,
+      "duration": 1.0,
+      "dialogue_text": "Dat was echt goed."
+    },
+    {
+      "subtitle_index": 764,
+      "start_time": 5684.9,
+      "end_time": 5686.9,
+      "duration": 2.0,
+      "dialogue_text": "Miss Satomi! Je hebt post."
+    },
+    {
+      "subtitle_index": 765,
+      "start_time": 5686.9,
+      "end_time": 5687.9,
+      "duration": 1.0,
+      "dialogue_text": "Ah, dank je wel!"
+    },
+    {
+      "subtitle_index": 766,
+      "start_time": 5764.9,
+      "end_time": 5765.9,
+      "duration": 1.0,
+      "dialogue_text": "Directeur! Iemand wil je aan de telefoon."
+    },
+    {
+      "subtitle_index": 767,
+      "start_time": 5766.9,
+      "end_time": 5767.9,
+      "duration": 1.0,
+      "dialogue_text": "Kan het wachten?"
+    },
+    {
+      "subtitle_index": 768,
+      "start_time": 5767.9,
+      "end_time": 5769.0,
+      "duration": 1.1000000000003638,
+      "dialogue_text": "Oh, ze heeft blijkbaar veel haast."
+    },
+    {
+      "subtitle_index": 769,
+      "start_time": 5769.9,
+      "end_time": 5772.9,
+      "duration": 3.0,
+      "dialogue_text": "Ja? Oh! Wat? Nu? Ja!"
+    },
+    {
+      "subtitle_index": 770,
+      "start_time": 5844.9,
+      "end_time": 5846.9,
+      "duration": 2.0,
+      "dialogue_text": "Jiro! Mijn Jiro! Ah!"
+    },
+    {
+      "subtitle_index": 771,
+      "start_time": 5846.9,
+      "end_time": 5849.9,
+      "duration": 3.0,
+      "dialogue_text": "Ah... Je weet niet hoe graag ik je wilde zien."
+    },
+    {
+      "subtitle_index": 772,
+      "start_time": 5851.9,
+      "end_time": 5853.9,
+      "duration": 2.0,
+      "dialogue_text": "Maak je geen zorgen. Ik zal je helpen met wandelen."
+    },
+    {
+      "subtitle_index": 773,
+      "start_time": 5855.9,
+      "end_time": 5856.9,
+      "duration": 1.0,
+      "dialogue_text": "Langzaam nu."
+    },
+    {
+      "subtitle_index": 774,
+      "start_time": 5863.9,
+      "end_time": 5866.9,
+      "duration": 3.0,
+      "dialogue_text": "Ik wou je zo vreselijk graag zien. Ik ga onmiddellijk terug."
+    },
+    {
+      "subtitle_index": 775,
+      "start_time": 5866.9,
+      "end_time": 5867.9,
+      "duration": 1.0,
+      "dialogue_text": "Niet weggaan."
+    },
+    {
+      "subtitle_index": 776,
+      "start_time": 5870.9,
+      "end_time": 5871.9,
+      "duration": 1.0,
+      "dialogue_text": "Blijf hier en kom bij mij wonen."
+    },
+    {
+      "subtitle_index": 777,
+      "start_time": 5885.9,
+      "end_time": 5887.9,
+      "duration": 2.0,
+      "dialogue_text": "Ah, wat een mooie gaste! - Goedendag."
+    },
+    {
+      "subtitle_index": 778,
+      "start_time": 5887.9,
+      "end_time": 5888.9,
+      "duration": 1.0,
+      "dialogue_text": "Welkom Miss Naoko."
+    },
+    {
+      "subtitle_index": 779,
+      "start_time": 5888.9,
+      "end_time": 5889.9,
+      "duration": 1.0,
+      "dialogue_text": "Jiro!"
+    },
+    {
+      "subtitle_index": 780,
+      "start_time": 5889.9,
+      "end_time": 5892.9,
+      "duration": 3.0,
+      "dialogue_text": "Mr. Kurokawa, we moeten ergens over praten."
+    },
+    {
+      "subtitle_index": 781,
+      "start_time": 5893.9,
+      "end_time": 5895.9,
+      "duration": 2.0,
+      "dialogue_text": "Hij is nog niet haar echtgenoot."
+    },
+    {
+      "subtitle_index": 782,
+      "start_time": 5895.9,
+      "end_time": 5898.4,
+      "duration": 2.5,
+      "dialogue_text": "Een kamer huren is geen probleem. Een ongehuwd koppel er..."
+    },
+    {
+      "subtitle_index": 783,
+      "start_time": 5898.405,
+      "end_time": 5901.9,
+      "duration": 3.494999999999891,
+      "dialogue_text": "..in laten leven wel. Dat sta ik niet toe!"
+    },
+    {
+      "subtitle_index": 784,
+      "start_time": 5902.9,
+      "end_time": 5905.4,
+      "duration": 2.5,
+      "dialogue_text": "Wij willen zo snel mogelijk trouwen. Vanavond!"
+    },
+    {
+      "subtitle_index": 785,
+      "start_time": 5905.405,
+      "end_time": 5907.9,
+      "duration": 2.494999999999891,
+      "dialogue_text": "Alsjeblieft, Mr. Kurokawa, Mrs. Kurokawa, wees onze getuigen."
+    },
+    {
+      "subtitle_index": 786,
+      "start_time": 5907.9,
+      "end_time": 5908.9,
+      "duration": 1.0,
+      "dialogue_text": "Vanavond!"
+    },
+    {
+      "subtitle_index": 787,
+      "start_time": 5908.9,
+      "end_time": 5911.9,
+      "duration": 3.0,
+      "dialogue_text": "Mijn man is hier niet blij om, maar ik hou van een moedig koppel zoals jullie."
+    },
+    {
+      "subtitle_index": 788,
+      "start_time": 5911.905,
+      "end_time": 5913.9,
+      "duration": 1.9949999999998909,
+      "dialogue_text": "Je liefde reisde duizenden kilometers!"
+    },
+    {
+      "subtitle_index": 789,
+      "start_time": 5914.9,
+      "end_time": 5918.9,
+      "duration": 4.0,
+      "dialogue_text": "Mijn vader zal geen begrip tonen. Ik schreef hem toen ik in het ziekenhuis lag."
+    },
+    {
+      "subtitle_index": 790,
+      "start_time": 5918.9,
+      "end_time": 5919.9,
+      "duration": 1.0,
+      "dialogue_text": "Ons lot hangt van jou af."
+    },
+    {
+      "subtitle_index": 791,
+      "start_time": 5922.9,
+      "end_time": 5927.9,
+      "duration": 5.0,
+      "dialogue_text": "Als je ja antwoordt, zet ik stappen om haar voor te bereiden. Miss Naoko, kom met me mee."
+    },
+    {
+      "subtitle_index": 792,
+      "start_time": 5932.9,
+      "end_time": 5935.9,
+      "duration": 3.0,
+      "dialogue_text": "Mijn kind, je hebt geen angst van de liefde."
+    },
+    {
+      "subtitle_index": 793,
+      "start_time": 5939.9,
+      "end_time": 5943.9,
+      "duration": 4.0,
+      "dialogue_text": "Als je 't doet omdat je van haar houdt, neem haar dan zo snel mogelijk mee de bergen in."
+    },
+    {
+      "subtitle_index": 794,
+      "start_time": 5944.9,
+      "end_time": 5948.9,
+      "duration": 4.0,
+      "dialogue_text": "Dan moet ik mee teruggaan. En ik kan het maken van vliegtuigen niet opgeven."
+    },
+    {
+      "subtitle_index": 795,
+      "start_time": 5949.9,
+      "end_time": 5952.9,
+      "duration": 3.0,
+      "dialogue_text": "Je weet niet hoe je moet liefhebben! Je liefde is zeer egoïstisch!"
+    },
+    {
+      "subtitle_index": 796,
+      "start_time": 5953.9,
+      "end_time": 5956.9,
+      "duration": 3.0,
+      "dialogue_text": "Ik heb niet genoeg tijd met haar, en ik wil er geen verliezen. We gaan ermee akkoord."
+    },
+    {
+      "subtitle_index": 797,
+      "start_time": 5957.9,
+      "end_time": 5962.9,
+      "duration": 5.0,
+      "dialogue_text": "Goed dan. Ik begrijp het. Ik zal de ceremonie doen!"
+    },
+    {
+      "subtitle_index": 798,
+      "start_time": 5985.9,
+      "end_time": 5986.9,
+      "duration": 1.0,
+      "dialogue_text": "Ze komen er aan!"
+    },
+    {
+      "subtitle_index": 799,
+      "start_time": 5988.9,
+      "end_time": 5989.9,
+      "duration": 1.0,
+      "dialogue_text": "Laten we het doen!"
+    },
+    {
+      "subtitle_index": 800,
+      "start_time": 6008.9,
+      "end_time": 6018.9,
+      "duration": 10.0,
+      "dialogue_text": "Luister! Dit mooie meisje doorkruiste Bergen enkel om hier te zijn. Ze liet alles achter."
+    },
+    {
+      "subtitle_index": 801,
+      "start_time": 6018.9,
+      "end_time": 6027.9,
+      "duration": 9.0,
+      "dialogue_text": "Ik denk dat dit hun naar 't hoofd kan stijgen. Hopelijk krijgen ze er geen spijt van."
+    },
+    {
+      "subtitle_index": 802,
+      "start_time": 6027.9,
+      "end_time": 6030.9,
+      "duration": 3.0,
+      "dialogue_text": "Dan zijn ze getrouwd tot de dood hen scheidt."
+    },
+    {
+      "subtitle_index": 803,
+      "start_time": 6052.9,
+      "end_time": 6053.9,
+      "duration": 1.0,
+      "dialogue_text": "Voorzichtig..."
+    },
+    {
+      "subtitle_index": 804,
+      "start_time": 6088.9,
+      "end_time": 6093.9,
+      "duration": 5.0,
+      "dialogue_text": "Mr. Kurokawa, Mrs. Kurokawa... we appreciëren dit ten stelligste."
+    },
+    {
+      "subtitle_index": 805,
+      "start_time": 6093.905,
+      "end_time": 6098.9,
+      "duration": 4.994999999999891,
+      "dialogue_text": "Ik kan je niet genoeg bedanken voor je warmte en zegening."
+    },
+    {
+      "subtitle_index": 806,
+      "start_time": 6101.9,
+      "end_time": 6107.9,
+      "duration": 6.0,
+      "dialogue_text": "Alles voor de liefde. Je hebt zo'n goed meisje, Jiro. We zijn zo blij, nietwaar?"
+    },
+    {
+      "subtitle_index": 807,
+      "start_time": 6108.9,
+      "end_time": 6111.9,
+      "duration": 3.0,
+      "dialogue_text": "Ah, ja. Jullie zijn een moedig koppel. Gefeliciteerd!"
+    },
+    {
+      "subtitle_index": 808,
+      "start_time": 6126.9,
+      "end_time": 6127.9,
+      "duration": 1.0,
+      "dialogue_text": "Ben je erg moe?"
+    },
+    {
+      "subtitle_index": 809,
+      "start_time": 6128.9,
+      "end_time": 6132.9,
+      "duration": 4.0,
+      "dialogue_text": "Ik voel me wat duizelig, alsof ik aan het dromen ben."
+    },
+    {
+      "subtitle_index": 810,
+      "start_time": 6132.9,
+      "end_time": 6134.9,
+      "duration": 2.0,
+      "dialogue_text": "Rust nu maar goed."
+    },
+    {
+      "subtitle_index": 811,
+      "start_time": 6135.9,
+      "end_time": 6136.9,
+      "duration": 1.0,
+      "dialogue_text": "Kom hier."
+    },
+    {
+      "subtitle_index": 812,
+      "start_time": 6136.9,
+      "end_time": 6137.9,
+      "duration": 1.0,
+      "dialogue_text": "Maar, nu?"
+    },
+    {
+      "subtitle_index": 813,
+      "start_time": 6140.9,
+      "end_time": 6141.9,
+      "duration": 1.0,
+      "dialogue_text": "Kom."
+    },
+    {
+      "subtitle_index": 814,
+      "start_time": 6181.9,
+      "end_time": 6183.9,
+      "duration": 2.0,
+      "dialogue_text": "Je bent altijd te laat, broer!"
+    },
+    {
+      "subtitle_index": 815,
+      "start_time": 6183.9,
+      "end_time": 6185.9,
+      "duration": 2.0,
+      "dialogue_text": "Kayo! ik was vergeten dat jij kwam."
+    },
+    {
+      "subtitle_index": 816,
+      "start_time": 6185.9,
+      "end_time": 6187.9,
+      "duration": 2.0,
+      "dialogue_text": "Jij bent echt ongevoelig!"
+    },
+    {
+      "subtitle_index": 817,
+      "start_time": 6189.9,
+      "end_time": 6191.9,
+      "duration": 2.0,
+      "dialogue_text": "Gefeliciteerd! Je hebt het echt goed gedaan!"
+    },
+    {
+      "subtitle_index": 818,
+      "start_time": 6192.9,
+      "end_time": 6195.9,
+      "duration": 3.0,
+      "dialogue_text": "Ik feliciteer jou ook, broer! Voor je huwelijk."
+    },
+    {
+      "subtitle_index": 819,
+      "start_time": 6195.9,
+      "end_time": 6198.9,
+      "duration": 3.0,
+      "dialogue_text": "Ik kwam als vertegenwoordiger van onze ouders om Mr. Kurokawa terdege te bedanken."
+    },
+    {
+      "subtitle_index": 820,
+      "start_time": 6201.9,
+      "end_time": 6203.9,
+      "duration": 2.0,
+      "dialogue_text": "Ik weet niet waar Naoko is."
+    },
+    {
+      "subtitle_index": 821,
+      "start_time": 6203.9,
+      "end_time": 6204.9,
+      "duration": 1.0,
+      "dialogue_text": "Goed."
+    },
+    {
+      "subtitle_index": 822,
+      "start_time": 6207.9,
+      "end_time": 6209.9,
+      "duration": 2.0,
+      "dialogue_text": "Broer, hoe kan je dit Naoko aandoen? Ze gaat sterven!"
+    },
+    {
+      "subtitle_index": 823,
+      "start_time": 6209.905,
+      "end_time": 6211.9,
+      "duration": 1.9949999999998909,
+      "dialogue_text": "En hoe durf je haar alleen te laten, om in het huis van andere mensen te slapen!"
+    },
+    {
+      "subtitle_index": 824,
+      "start_time": 6212.9,
+      "end_time": 6216.9,
+      "duration": 4.0,
+      "dialogue_text": "Je weet hoe ziek ze is. Het is ernstiger dan je denkt."
+    },
+    {
+      "subtitle_index": 825,
+      "start_time": 6216.905,
+      "end_time": 6219.9,
+      "duration": 2.994999999999891,
+      "dialogue_text": "Ik ben weldra dokter, ik weet wat ik zeg."
+    },
+    {
+      "subtitle_index": 826,
+      "start_time": 6219.9,
+      "end_time": 6225.9,
+      "duration": 6.0,
+      "dialogue_text": "Hoe kan je gerust zijn terwijl Naoko zo ziek is? En haar elke ochtend in de ogen kijken? 01:43:45,905 --> 01:43:50,900 Ah, ik hou ook van haar, ze is prachtig, en dat breekt allemaal mijn hart!"
+    },
+    {
+      "subtitle_index": 827,
+      "start_time": 6235.9,
+      "end_time": 6238.9,
+      "duration": 3.0,
+      "dialogue_text": "Waarom gaat ze niet terug naar het ziekenhuis in de bergen?"
+    },
+    {
+      "subtitle_index": 828,
+      "start_time": 6238.9,
+      "end_time": 6244.9,
+      "duration": 6.0,
+      "dialogue_text": "Omdat zowel Naoko als ikzelf van elke dag genieten die we samen kunnen doorbrengen."
+    },
+    {
+      "subtitle_index": 829,
+      "start_time": 6246.9,
+      "end_time": 6249.9,
+      "duration": 3.0,
+      "dialogue_text": "Ga maar en rust nu wat. Ik ben blij dat je ons kon komen bezoeken."
+    },
+    {
+      "subtitle_index": 830,
+      "start_time": 6264.9,
+      "end_time": 6265.9,
+      "duration": 1.0,
+      "dialogue_text": "Ik ben terug."
+    },
+    {
+      "subtitle_index": 831,
+      "start_time": 6265.9,
+      "end_time": 6266.9,
+      "duration": 1.0,
+      "dialogue_text": "Hoi."
+    },
+    {
+      "subtitle_index": 832,
+      "start_time": 6266.9,
+      "end_time": 6267.9,
+      "duration": 1.0,
+      "dialogue_text": "Slaap maar verder."
+    },
+    {
+      "subtitle_index": 833,
+      "start_time": 6273.9,
+      "end_time": 6274.9,
+      "duration": 1.0,
+      "dialogue_text": "Ben je erg moe?"
+    },
+    {
+      "subtitle_index": 834,
+      "start_time": 6274.9,
+      "end_time": 6276.9,
+      "duration": 2.0,
+      "dialogue_text": "Kayo kwam me bezoeken."
+    },
+    {
+      "subtitle_index": 835,
+      "start_time": 6277.9,
+      "end_time": 6279.9,
+      "duration": 2.0,
+      "dialogue_text": "Ik heb me snel met haar ingelaten."
+    },
+    {
+      "subtitle_index": 836,
+      "start_time": 6280.9,
+      "end_time": 6284.9,
+      "duration": 4.0,
+      "dialogue_text": "Kayo zal een vrouw zijn met een briljante toekomst."
+    },
+    {
+      "subtitle_index": 837,
+      "start_time": 6284.905,
+      "end_time": 6288.9,
+      "duration": 3.994999999999891,
+      "dialogue_text": "Ze zei dat bij onze volgende ontmoeting ze dokter zou zijn."
+    },
+    {
+      "subtitle_index": 838,
+      "start_time": 6289.9,
+      "end_time": 6296.9,
+      "duration": 7.0,
+      "dialogue_text": "Ze zal me ook een vrouw vinden die mijn ondergoed en pyjamas zal maken."
+    },
+    {
+      "subtitle_index": 839,
+      "start_time": 6298.9,
+      "end_time": 6299.9,
+      "duration": 1.0,
+      "dialogue_text": "Is het niet te klaar voor je?"
+    },
+    {
+      "subtitle_index": 840,
+      "start_time": 6299.9,
+      "end_time": 6301.9,
+      "duration": 2.0,
+      "dialogue_text": "Het is goed zo."
+    },
+    {
+      "subtitle_index": 841,
+      "start_time": 6303.9,
+      "end_time": 6304.9,
+      "duration": 1.0,
+      "dialogue_text": "Ik zal zo moeten werken."
+    },
+    {
+      "subtitle_index": 842,
+      "start_time": 6306.9,
+      "end_time": 6307.9,
+      "duration": 1.0,
+      "dialogue_text": "Je houdt veel van je werk."
+    },
+    {
+      "subtitle_index": 843,
+      "start_time": 6314.9,
+      "end_time": 6316.9,
+      "duration": 2.0,
+      "dialogue_text": "Kan je wat dichter bij me komen zitten?"
+    },
+    {
+      "subtitle_index": 844,
+      "start_time": 6325.9,
+      "end_time": 6326.9,
+      "duration": 1.0,
+      "dialogue_text": "Neem mijn hand."
+    },
+    {
+      "subtitle_index": 845,
+      "start_time": 6329.9,
+      "end_time": 6333.9,
+      "duration": 4.0,
+      "dialogue_text": "ik kijk graag naar je, hoe je gefocust bent op je werk."
+    },
+    {
+      "subtitle_index": 846,
+      "start_time": 6334.9,
+      "end_time": 6337.9,
+      "duration": 3.0,
+      "dialogue_text": "Als er een competitie was in het gebruik van de meetlat met één hand,"
+    },
+    {
+      "subtitle_index": 847,
+      "start_time": 6337.905,
+      "end_time": 6339.9,
+      "duration": 1.9949999999998909,
+      "dialogue_text": "..dan denk ik dat ik de beste zou zijn."
+    },
+    {
+      "subtitle_index": 848,
+      "start_time": 6343.9,
+      "end_time": 6344.9,
+      "duration": 1.0,
+      "dialogue_text": "Is dat zo?"
+    },
+    {
+      "subtitle_index": 849,
+      "start_time": 6347.9,
+      "end_time": 6351.9,
+      "duration": 4.0,
+      "dialogue_text": "Wauw, er zijn zo veel onderdelen!"
+    },
+    {
+      "subtitle_index": 850,
+      "start_time": 6351.9,
+      "end_time": 6355.9,
+      "duration": 4.0,
+      "dialogue_text": "Ja, als het been lichter is, zou het makkelijk het gewicht houden."
+    },
+    {
+      "subtitle_index": 851,
+      "start_time": 6361.9,
+      "end_time": 6363.9,
+      "duration": 2.0,
+      "dialogue_text": "Ik laat je hand niet los. Rust nu maar wat."
+    },
+    {
+      "subtitle_index": 852,
+      "start_time": 6363.9,
+      "end_time": 6364.9,
+      "duration": 1.0,
+      "dialogue_text": "Je gaat ze niet loslaten?"
+    },
+    {
+      "subtitle_index": 853,
+      "start_time": 6365.9,
+      "end_time": 6366.9,
+      "duration": 1.0,
+      "dialogue_text": "Ik laat ze niet los."
+    },
+    {
+      "subtitle_index": 854,
+      "start_time": 6369.9,
+      "end_time": 6372.9,
+      "duration": 3.0,
+      "dialogue_text": "Kan ik gaan roken?"
+    },
+    {
+      "subtitle_index": 855,
+      "start_time": 6372.9,
+      "end_time": 6374.9,
+      "duration": 2.0,
+      "dialogue_text": "Nee. Rook hier maar."
+    },
+    {
+      "subtitle_index": 856,
+      "start_time": 6375.9,
+      "end_time": 6376.9,
+      "duration": 1.0,
+      "dialogue_text": "Maar je gezondheid?"
+    },
+    {
+      "subtitle_index": 857,
+      "start_time": 6376.9,
+      "end_time": 6377.9,
+      "duration": 1.0,
+      "dialogue_text": "Speelt geen rol."
+    },
+    {
+      "subtitle_index": 858,
+      "start_time": 6396.9,
+      "end_time": 6397.9,
+      "duration": 1.0,
+      "dialogue_text": "Hé, Honjo!"
+    },
+    {
+      "subtitle_index": 859,
+      "start_time": 6397.9,
+      "end_time": 6398.9,
+      "duration": 1.0,
+      "dialogue_text": "Mag ik eens kijken?"
+    },
+    {
+      "subtitle_index": 860,
+      "start_time": 6398.9,
+      "end_time": 6401.9,
+      "duration": 3.0,
+      "dialogue_text": "Dit is een goed ontworpen vliegtuig."
+    },
+    {
+      "subtitle_index": 861,
+      "start_time": 6401.9,
+      "end_time": 6406.9,
+      "duration": 5.0,
+      "dialogue_text": "In het algemeen ziet het eruit als een gedurfd avant-garde design!"
+    },
+    {
+      "subtitle_index": 862,
+      "start_time": 6409.9,
+      "end_time": 6411.9,
+      "duration": 2.0,
+      "dialogue_text": "Ah, dit zijn de legendarische ankers me platte koppen, niet?"
+    },
+    {
+      "subtitle_index": 863,
+      "start_time": 6412.9,
+      "end_time": 6414.9,
+      "duration": 2.0,
+      "dialogue_text": "Oneven aantal ankers."
+    },
+    {
+      "subtitle_index": 864,
+      "start_time": 6417.9,
+      "end_time": 6418.9,
+      "duration": 1.0,
+      "dialogue_text": "Dit werd gemaakt door iemand die er niet voor is opgeleid, hé?"
+    },
+    {
+      "subtitle_index": 865,
+      "start_time": 6418.9,
+      "end_time": 6422.9,
+      "duration": 4.0,
+      "dialogue_text": "Dit is niet jouw stijl."
+    },
+    {
+      "subtitle_index": 866,
+      "start_time": 6424.9,
+      "end_time": 6428.9,
+      "duration": 4.0,
+      "dialogue_text": "Alles is hier behoorlijk goed. Oh, been zo licht als een veer!"
+    },
+    {
+      "subtitle_index": 867,
+      "start_time": 6431.9,
+      "end_time": 6436.9,
+      "duration": 5.0,
+      "dialogue_text": "Jiro! - Ja? Mag ik de ankers met platte koppen gebruiken voor een open design?"
+    },
+    {
+      "subtitle_index": 868,
+      "start_time": 6436.9,
+      "end_time": 6437.9,
+      "duration": 1.0,
+      "dialogue_text": "Ja, geen probleem."
+    },
+    {
+      "subtitle_index": 869,
+      "start_time": 6439.9,
+      "end_time": 6443.9,
+      "duration": 4.0,
+      "dialogue_text": "Ik wil alles herdoen, maar ze zeiden dat ik enkel wijzigingen mag doen aan de romp."
+    },
+    {
+      "subtitle_index": 870,
+      "start_time": 6443.9,
+      "end_time": 6444.9,
+      "duration": 1.0,
+      "dialogue_text": "Is de hoofdvleugel nog niet weerhouden?"
+    },
+    {
+      "subtitle_index": 871,
+      "start_time": 6444.9,
+      "end_time": 6447.9,
+      "duration": 3.0,
+      "dialogue_text": "Het grootste deel van de hoofdvleugel heeft brandstof in zijn tank."
+    },
+    {
+      "subtitle_index": 872,
+      "start_time": 6447.905,
+      "end_time": 6451.9,
+      "duration": 3.994999999999891,
+      "dialogue_text": "Enkele kogels kunnen de het tuig laten vuur vatten. We maakten nooit 'n kogelvrije tank."
+    },
+    {
+      "subtitle_index": 873,
+      "start_time": 6452.9,
+      "end_time": 6457.9,
+      "duration": 5.0,
+      "dialogue_text": "De marine wil de eerste lichte Japanse bommenwerper creëren."
+    },
+    {
+      "subtitle_index": 874,
+      "start_time": 6457.905,
+      "end_time": 6461.9,
+      "duration": 3.994999999999891,
+      "dialogue_text": "Hij gaf goede resultaten. De bommen vliegen 3000 km ver."
+    },
+    {
+      "subtitle_index": 875,
+      "start_time": 6461.9,
+      "end_time": 6464.9,
+      "duration": 3.0,
+      "dialogue_text": "De paardenkracht speelt hier een kleine rol."
+    },
+    {
+      "subtitle_index": 876,
+      "start_time": 6477.9,
+      "end_time": 6479.0,
+      "duration": 1.1000000000003638,
+      "dialogue_text": "Ja, maar wie wil er tegen Japan vechten?"
+    },
+    {
+      "subtitle_index": 877,
+      "start_time": 6479.9,
+      "end_time": 6483.9,
+      "duration": 4.0,
+      "dialogue_text": "Chinezen, de Sovjet Unie, en ook de VS, Engeland, Nederland..."
+    },
+    {
+      "subtitle_index": 878,
+      "start_time": 6483.9,
+      "end_time": 6484.9,
+      "duration": 1.0,
+      "dialogue_text": "Japan zal vernietigd worden."
+    },
+    {
+      "subtitle_index": 879,
+      "start_time": 6484.9,
+      "end_time": 6488.9,
+      "duration": 4.0,
+      "dialogue_text": "Wij zijn niet de oorlogmakers. Wij willen gewoon een superieur vliegtuig bouwen."
+    },
+    {
+      "subtitle_index": 880,
+      "start_time": 6488.9,
+      "end_time": 6489.9,
+      "duration": 1.0,
+      "dialogue_text": "Dat is waar."
+    },
+    {
+      "subtitle_index": 881,
+      "start_time": 6489.9,
+      "end_time": 6491.9,
+      "duration": 2.0,
+      "dialogue_text": "Tot ziens en goedenacht!"
+    },
+    {
+      "subtitle_index": 882,
+      "start_time": 6492.9,
+      "end_time": 6493.9,
+      "duration": 1.0,
+      "dialogue_text": "Voor jou ook!"
+    },
+    {
+      "subtitle_index": 883,
+      "start_time": 6494.9,
+      "end_time": 6499.9,
+      "duration": 5.0,
+      "dialogue_text": "Tot ziens! Tot later! - Daag."
+    },
+    {
+      "subtitle_index": 884,
+      "start_time": 6523.9,
+      "end_time": 6524.9,
+      "duration": 1.0,
+      "dialogue_text": "Hé, je bent terug."
+    },
+    {
+      "subtitle_index": 885,
+      "start_time": 6525.9,
+      "end_time": 6528.9,
+      "duration": 3.0,
+      "dialogue_text": "Mijn vliegtuig is klaar voor de test."
+    },
+    {
+      "subtitle_index": 886,
+      "start_time": 6528.9,
+      "end_time": 6531.9,
+      "duration": 3.0,
+      "dialogue_text": "Proficiat! Je werkte echt hard om het klaar te krijgen."
+    },
+    {
+      "subtitle_index": 887,
+      "start_time": 6531.9,
+      "end_time": 6538.9,
+      "duration": 7.0,
+      "dialogue_text": "We gebruiken vee om het naar de testzone te brengen. Misschien blijf ik daar enkele dagen."
+    },
+    {
+      "subtitle_index": 888,
+      "start_time": 6539.9,
+      "end_time": 6540.9,
+      "duration": 1.0,
+      "dialogue_text": "Je bent heel moe, nietwaar?"
+    },
+    {
+      "subtitle_index": 889,
+      "start_time": 6541.9,
+      "end_time": 13025.8,
+      "duration": 6483.9,
+      "dialogue_text": "Een klein beetje maar..."
+    },
+    {
+      "subtitle_index": 890,
+      "start_time": 6544.9,
+      "end_time": 6546.9,
+      "duration": 2.0,
+      "dialogue_text": "Zal het met succes kunnen vliegen?"
+    },
+    {
+      "subtitle_index": 891,
+      "start_time": 6547.9,
+      "end_time": 6552.9,
+      "duration": 5.0,
+      "dialogue_text": "Ah, dat zal lukken omdat jij aan mijn zijde stond."
+    },
+    {
+      "subtitle_index": 892,
+      "start_time": 6552.9,
+      "end_time": 6554.9,
+      "duration": 2.0,
+      "dialogue_text": "Jiro, ik hou van je."
+    },
+    {
+      "subtitle_index": 893,
+      "start_time": 6554.9,
+      "end_time": 6556.9,
+      "duration": 2.0,
+      "dialogue_text": "Naoko..."
+    },
+    {
+      "subtitle_index": 894,
+      "start_time": 6607.9,
+      "end_time": 6608.9,
+      "duration": 1.0,
+      "dialogue_text": "Ik ga nu."
+    },
+    {
+      "subtitle_index": 895,
+      "start_time": 6608.9,
+      "end_time": 6610.9,
+      "duration": 2.0,
+      "dialogue_text": "Ik wens je succes."
+    },
+    {
+      "subtitle_index": 896,
+      "start_time": 6635.9,
+      "end_time": 6637.9,
+      "duration": 2.0,
+      "dialogue_text": "Oh, Mevrouw Naoko!"
+    },
+    {
+      "subtitle_index": 897,
+      "start_time": 6638.9,
+      "end_time": 6642.9,
+      "duration": 4.0,
+      "dialogue_text": "Mrs. Kurokawa! Ik ben vanmorgen goed geluimd. Ik wou een wandeling maken in de buurt."
+    },
+    {
+      "subtitle_index": 898,
+      "start_time": 6642.9,
+      "end_time": 6644.9,
+      "duration": 2.0,
+      "dialogue_text": "Maar natuurlijk! maar ga niet t ever weg."
+    },
+    {
+      "subtitle_index": 899,
+      "start_time": 6645.9,
+      "end_time": 6650.9,
+      "duration": 5.0,
+      "dialogue_text": "Doe ik niet. En als ik terug ben, zal ik mijn kamer opruimen. Ze is wat rommelig."
+    },
+    {
+      "subtitle_index": 900,
+      "start_time": 6655.9,
+      "end_time": 6657.9,
+      "duration": 2.0,
+      "dialogue_text": "Goed dan, ik ben weg!"
+    },
+    {
+      "subtitle_index": 901,
+      "start_time": 6697.9,
+      "end_time": 6699.9,
+      "duration": 2.0,
+      "dialogue_text": "Kom hier, we zullen samen eens kijken."
+    },
+    {
+      "subtitle_index": 902,
+      "start_time": 6705.9,
+      "end_time": 6707.9,
+      "duration": 2.0,
+      "dialogue_text": "Oh, hemel! Ze ging echt weg!"
+    },
+    {
+      "subtitle_index": 903,
+      "start_time": 6715.9,
+      "end_time": 6719.9,
+      "duration": 4.0,
+      "dialogue_text": "Ze liet een brief voor je achter Mrs. Kurokawa! En eentje voor mij."
+    },
+    {
+      "subtitle_index": 904,
+      "start_time": 6724.9,
+      "end_time": 6727.9,
+      "duration": 3.0,
+      "dialogue_text": "Het is waar! Mrs. Naoko vertrok naar de bergen. Ik breng haar terug!"
+    },
+    {
+      "subtitle_index": 905,
+      "start_time": 6728.9,
+      "end_time": 6729.9,
+      "duration": 1.0,
+      "dialogue_text": "Nee! Ga niet achter haar aan!"
+    },
+    {
+      "subtitle_index": 906,
+      "start_time": 6732.9,
+      "end_time": 6740.9,
+      "duration": 8.0,
+      "dialogue_text": "Ze zit wellicht al op de trein. Ze wou enkel bij haar geliefde zijn... voor ze stierf."
+    },
+    {
+      "subtitle_index": 907,
+      "start_time": 6786.9,
+      "end_time": 6789.9,
+      "duration": 3.0,
+      "dialogue_text": "Ah, excellent! Alsof het een buitenlands vliegtuig is!"
+    },
+    {
+      "subtitle_index": 908,
+      "start_time": 6790.9,
+      "end_time": 6792.9,
+      "duration": 2.0,
+      "dialogue_text": "Hoeveel is de gemeten snelheid?"
+    },
+    {
+      "subtitle_index": 909,
+      "start_time": 6792.9,
+      "end_time": 6795.9,
+      "duration": 3.0,
+      "dialogue_text": "Het spijt me! Ik heb het meerdere keren moeten berekenen! Omdat het zo snel is!"
+    },
+    {
+      "subtitle_index": 910,
+      "start_time": 6795.9,
+      "end_time": 6796.9,
+      "duration": 1.0,
+      "dialogue_text": "Hoeveel mijl?"
+    },
+    {
+      "subtitle_index": 911,
+      "start_time": 6797.9,
+      "end_time": 6798.9,
+      "duration": 1.0,
+      "dialogue_text": "240 mijl!"
+    },
+    {
+      "subtitle_index": 912,
+      "start_time": 6799.0,
+      "end_time": 6800.9,
+      "duration": 1.8999999999996362,
+      "dialogue_text": "240!"
+    },
+    {
+      "subtitle_index": 913,
+      "start_time": 6834.9,
+      "end_time": 6837.9,
+      "duration": 3.0,
+      "dialogue_text": "Succes! We hebben het voor elkaar!"
+    },
+    {
+      "subtitle_index": 914,
+      "start_time": 6838.9,
+      "end_time": 6840.9,
+      "duration": 2.0,
+      "dialogue_text": "Hé, Jiro! Jiro!"
+    },
+    {
+      "subtitle_index": 915,
+      "start_time": 6848.9,
+      "end_time": 6851.9,
+      "duration": 3.0,
+      "dialogue_text": "Dit is een uitmuntend vliegtuig! Dank je!"
+    },
+    {
+      "subtitle_index": 916,
+      "start_time": 6920.9,
+      "end_time": 6924.9,
+      "duration": 4.0,
+      "dialogue_text": "Ah, Je bent er! De Japanner."
+    },
+    {
+      "subtitle_index": 917,
+      "start_time": 6925.9,
+      "end_time": 6926.9,
+      "duration": 1.0,
+      "dialogue_text": "Mr. Caproni."
+    },
+    {
+      "subtitle_index": 918,
+      "start_time": 6930.9,
+      "end_time": 6933.9,
+      "duration": 3.0,
+      "dialogue_text": "Het is hier op dit vliegtuig dat we elkaar voor het eerst ontmoetten."
+    },
+    {
+      "subtitle_index": 919,
+      "start_time": 6933.9,
+      "end_time": 6935.9,
+      "duration": 2.0,
+      "dialogue_text": "Inderdaad, we ontmoetten elkaar in het koninkrijk der dromen."
+    },
+    {
+      "subtitle_index": 920,
+      "start_time": 6935.9,
+      "end_time": 6937.9,
+      "duration": 2.0,
+      "dialogue_text": "Ik denk dat het nu onze hel is."
+    },
+    {
+      "subtitle_index": 921,
+      "start_time": 6937.9,
+      "end_time": 6940.9,
+      "duration": 3.0,
+      "dialogue_text": "Het is nu een beetje anders, maar bijna hetzelfde."
+    },
+    {
+      "subtitle_index": 922,
+      "start_time": 6940.905,
+      "end_time": 6944.9,
+      "duration": 3.994999999999891,
+      "dialogue_text": "Hoe maakt je het? Je bent dit decennium goed vooruit gegaan, hé?"
+    },
+    {
+      "subtitle_index": 923,
+      "start_time": 6945.9,
+      "end_time": 6947.8,
+      "duration": 1.9000000000005457,
+      "dialogue_text": "Ja. Ik voel spijt vanwege mijn uitvindingen."
+    },
+    {
+      "subtitle_index": 924,
+      "start_time": 6947.9,
+      "end_time": 6952.9,
+      "duration": 5.0,
+      "dialogue_text": "Omdat ze de nederlaag toebrachten aan jouw land. Kijk, daar zijn je Zero jagers!"
+    },
+    {
+      "subtitle_index": 925,
+      "start_time": 6988.9,
+      "end_time": 6991.8,
+      "duration": 2.9000000000005457,
+      "dialogue_text": "Wat een spectaculair zicht! Je droom is desalniettemin gerealiseerd."
+    },
+    {
+      "subtitle_index": 926,
+      "start_time": 6991.9,
+      "end_time": 6993.9,
+      "duration": 2.0,
+      "dialogue_text": "Maar geen enkele kwam terug."
+    },
+    {
+      "subtitle_index": 927,
+      "start_time": 6994.9,
+      "end_time": 6998.9,
+      "duration": 4.0,
+      "dialogue_text": "Deze dingen komen nooit terug. Luchtvaart is besmet met een vloek."
+    },
+    {
+      "subtitle_index": 928,
+      "start_time": 6998.905,
+      "end_time": 7001.9,
+      "duration": 2.994999999999891,
+      "dialogue_text": "Onze droom wordt door de hemel opgeslokt."
+    },
+    {
+      "subtitle_index": 929,
+      "start_time": 7003.9,
+      "end_time": 7005.9,
+      "duration": 2.0,
+      "dialogue_text": "Er wacht iemand op je."
+    },
+    {
+      "subtitle_index": 930,
+      "start_time": 7019.9,
+      "end_time": 7020.9,
+      "duration": 1.0,
+      "dialogue_text": "Naoko."
+    },
+    {
+      "subtitle_index": 931,
+      "start_time": 7021.9,
+      "end_time": 7024.9,
+      "duration": 3.0,
+      "dialogue_text": "Ze is hier al een tijdje."
+    },
+    {
+      "subtitle_index": 932,
+      "start_time": 7024.9,
+      "end_time": 7031.9,
+      "duration": 7.0,
+      "dialogue_text": "Jiro... je moet proberen te leven. Probeer te leven!"
+    },
+    {
+      "subtitle_index": 933,
+      "start_time": 7053.9,
+      "end_time": 7058.9,
+      "duration": 5.0,
+      "dialogue_text": "Ze is nu weg. Haar schoonheid is als de wind."
+    },
+    {
+      "subtitle_index": 934,
+      "start_time": 7060.9,
+      "end_time": 7063.9,
+      "duration": 3.0,
+      "dialogue_text": "Dank je... dank je!"
+    },
+    {
+      "subtitle_index": 935,
+      "start_time": 7065.9,
+      "end_time": 7071.9,
+      "duration": 6.0,
+      "dialogue_text": "Je moet verder leven. Kom met me wandelen."
+    }
+  ]
+}

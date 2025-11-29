@@ -1,0 +1,3953 @@
+{
+  "metadata": {
+    "film_name": "My Neighbor Totoro",
+    "film_slug": "my_neighbor_totoro_ar",
+    "language_code": "ar",
+    "total_subtitles": 563,
+    "total_duration": 5150.498,
+    "parse_timestamp": "2025-10-30T17:09:42.368198"
+  },
+  "subtitles": [
+    {
+      "subtitle_index": 1,
+      "start_time": 41.363,
+      "end_time": 49.567,
+      "duration": 8.204,
+      "dialogue_text": "هيا بنا نمشي, لنمشي, أحس بسعادة غامرة"
+    },
+    {
+      "subtitle_index": 2,
+      "start_time": 50.095,
+      "end_time": 57.647,
+      "duration": 7.552,
+      "dialogue_text": "أحب أن أمشي , فهيا بنا نمشي"
+    },
+    {
+      "subtitle_index": 3,
+      "start_time": 58.151,
+      "end_time": 65.655,
+      "duration": 7.503999999999998,
+      "dialogue_text": "على المنحدرات و في الشوارع والأنفاق, على الحشائش"
+    },
+    {
+      "subtitle_index": 4,
+      "start_time": 66.142,
+      "end_time": 73.686,
+      "duration": 7.544000000000011,
+      "dialogue_text": "على الجسور, والطرق المرصوفة"
+    },
+    {
+      "subtitle_index": 5,
+      "start_time": 74.176,
+      "end_time": 81.631,
+      "duration": 7.454999999999998,
+      "dialogue_text": "في الأيام الغائمة وفي الشوارع المنحدرة"
+    },
+    {
+      "subtitle_index": 6,
+      "start_time": 89.452,
+      "end_time": 97.252,
+      "duration": 7.799999999999997,
+      "dialogue_text": "هيا بنا نتمشّى لنتمشّى, أحس بسعادة غامرة"
+    },
+    {
+      "subtitle_index": 7,
+      "start_time": 97.544,
+      "end_time": 105.26,
+      "duration": 7.716000000000008,
+      "dialogue_text": "أحب أن أمشي , فهيا بنا نمشي"
+    },
+    {
+      "subtitle_index": 8,
+      "start_time": 105.468,
+      "end_time": 113.268,
+      "duration": 7.799999999999997,
+      "dialogue_text": "حتى الثعالب وحيوانات الغرير, أخرجوا من مخابئكم الآن"
+    },
+    {
+      "subtitle_index": 9,
+      "start_time": 113.435,
+      "end_time": 121.234,
+      "duration": 7.798999999999992,
+      "dialogue_text": "لنتسابق عدواً إلى الغابة"
+    },
+    {
+      "subtitle_index": 10,
+      "start_time": 121.651,
+      "end_time": 142.38,
+      "duration": 20.729,
+      "dialogue_text": "لدي أصدقاء كثيرون , السعادة تغمرني"
+    },
+    {
+      "subtitle_index": 11,
+      "start_time": 162.943,
+      "end_time": 166.196,
+      "duration": 3.252999999999986,
+      "dialogue_text": "أبي, حلوى كاراميل؟- شكراً-"
+    },
+    {
+      "subtitle_index": 12,
+      "start_time": 166.53,
+      "end_time": 167.989,
+      "duration": 1.4590000000000032,
+      "dialogue_text": "هل تعبتما؟ - كلا -"
+    },
+    {
+      "subtitle_index": 13,
+      "start_time": 168.74,
+      "end_time": 170.2,
+      "duration": 1.4599999999999795,
+      "dialogue_text": "قليلاً بعد"
+    },
+    {
+      "subtitle_index": 14,
+      "start_time": 181.461,
+      "end_time": 182.796,
+      "duration": 1.3349999999999795,
+      "dialogue_text": "مي\" أختبئي\""
+    },
+    {
+      "subtitle_index": 15,
+      "start_time": 188.343,
+      "end_time": 191.263,
+      "duration": 2.920000000000016,
+      "dialogue_text": "لم يكن شرطياً ... مرحبا"
+    },
+    {
+      "subtitle_index": 16,
+      "start_time": 223.044,
+      "end_time": 226.047,
+      "duration": 3.002999999999986,
+      "dialogue_text": "أين المسؤولين عن المنزل؟ أليسوا هنا؟"
+    },
+    {
+      "subtitle_index": 17,
+      "start_time": 227.841,
+      "end_time": 228.967,
+      "duration": 1.1260000000000048,
+      "dialogue_text": "شكراً"
+    },
+    {
+      "subtitle_index": 18,
+      "start_time": 231.136,
+      "end_time": 234.806,
+      "duration": 3.670000000000016,
+      "dialogue_text": "أنا السيد\" كوسكابي\" انتقلنا لتوّنا"
+    },
+    {
+      "subtitle_index": 19,
+      "start_time": 235.849,
+      "end_time": 237.934,
+      "duration": 2.085000000000008,
+      "dialogue_text": "سررت بمقابلتكم"
+    },
+    {
+      "subtitle_index": 20,
+      "start_time": 238.435,
+      "end_time": 240.395,
+      "duration": 1.960000000000008,
+      "dialogue_text": "شكراً لمراقبتك للحاجيات"
+    },
+    {
+      "subtitle_index": 21,
+      "start_time": 245.108,
+      "end_time": 246.484,
+      "duration": 1.3760000000000048,
+      "dialogue_text": "شكراً لك"
+    },
+    {
+      "subtitle_index": 22,
+      "start_time": 268.84,
+      "end_time": 270.175,
+      "duration": 1.3350000000000364,
+      "dialogue_text": "لقد وصلنا"
+    },
+    {
+      "subtitle_index": 23,
+      "start_time": 271.301,
+      "end_time": 272.969,
+      "duration": 1.6680000000000064,
+      "dialogue_text": "انتظريني"
+    },
+    {
+      "subtitle_index": 24,
+      "start_time": 275.514,
+      "end_time": 277.807,
+      "duration": 2.2930000000000064,
+      "dialogue_text": "مي\" يوجد جسر هنا\" - جسر؟ -"
+    },
+    {
+      "subtitle_index": 25,
+      "start_time": 283.104,
+      "end_time": 285.19,
+      "duration": 2.0860000000000127,
+      "dialogue_text": "سمك لقد ظهر ثانية"
+    },
+    {
+      "subtitle_index": 26,
+      "start_time": 286.858,
+      "end_time": 288.527,
+      "duration": 1.6689999999999827,
+      "dialogue_text": "هل أعجبكما؟"
+    },
+    {
+      "subtitle_index": 27,
+      "start_time": 290.737,
+      "end_time": 294.407,
+      "duration": 3.669999999999959,
+      "dialogue_text": "أبي , هذا رائع , نفق من الأشجار"
+    },
+    {
+      "subtitle_index": 28,
+      "start_time": 297.702,
+      "end_time": 299.913,
+      "duration": 2.2110000000000127,
+      "dialogue_text": "هل هذا هو المنزل؟"
+    },
+    {
+      "subtitle_index": 29,
+      "start_time": 303.5,
+      "end_time": 305.502,
+      "duration": 2.0020000000000095,
+      "dialogue_text": "أسرعا"
+    },
+    {
+      "subtitle_index": 30,
+      "start_time": 319.099,
+      "end_time": 322.561,
+      "duration": 3.461999999999989,
+      "dialogue_text": "إنه متداعٍ- متداعٍ-"
+    },
+    {
+      "subtitle_index": 31,
+      "start_time": 323.52,
+      "end_time": 325.939,
+      "duration": 2.4190000000000396,
+      "dialogue_text": "يبدو كمنزلٍ مسكون- مسكون؟-"
+    },
+    {
+      "subtitle_index": 32,
+      "start_time": 332.445,
+      "end_time": 335.031,
+      "duration": 2.5860000000000127,
+      "dialogue_text": "انه متداع"
+    },
+    {
+      "subtitle_index": 33,
+      "start_time": 345.625,
+      "end_time": 347.711,
+      "duration": 2.0860000000000127,
+      "dialogue_text": "إنه ينهار"
+    },
+    {
+      "subtitle_index": 34,
+      "start_time": 359.639,
+      "end_time": 361.308,
+      "duration": 1.6689999999999827,
+      "dialogue_text": "\"مي\" أنظري"
+    },
+    {
+      "subtitle_index": 35,
+      "start_time": 362.517,
+      "end_time": 364.811,
+      "duration": 2.2939999999999827,
+      "dialogue_text": "هناك"
+    },
+    {
+      "subtitle_index": 36,
+      "start_time": 372.694,
+      "end_time": 374.988,
+      "duration": 2.2939999999999827,
+      "dialogue_text": "! كم هي ضخمة"
+    },
+    {
+      "subtitle_index": 37,
+      "start_time": 380.243,
+      "end_time": 382.829,
+      "duration": 2.5860000000000127,
+      "dialogue_text": "أبي , ما نوع هذه الشجرة؟"
+    },
+    {
+      "subtitle_index": 38,
+      "start_time": 383.914,
+      "end_time": 386.124,
+      "duration": 2.2100000000000364,
+      "dialogue_text": "أنها شجرة كافور"
+    },
+    {
+      "subtitle_index": 39,
+      "start_time": 387.417,
+      "end_time": 389.503,
+      "duration": 2.0860000000000127,
+      "dialogue_text": "شجرة كافور- شجرة كافور-"
+    },
+    {
+      "subtitle_index": 40,
+      "start_time": 398.303,
+      "end_time": 399.763,
+      "duration": 1.4599999999999795,
+      "dialogue_text": "انتبهي"
+    },
+    {
+      "subtitle_index": 41,
+      "start_time": 402.641,
+      "end_time": 404.309,
+      "duration": 1.6680000000000064,
+      "dialogue_text": "حبة بلوط"
+    },
+    {
+      "subtitle_index": 42,
+      "start_time": 405.894,
+      "end_time": 407.896,
+      "duration": 2.0020000000000095,
+      "dialogue_text": "دعيني أرى"
+    },
+    {
+      "subtitle_index": 43,
+      "start_time": 409.105,
+      "end_time": 410.565,
+      "duration": 1.4599999999999795,
+      "dialogue_text": "واحدة أخرى"
+    },
+    {
+      "subtitle_index": 44,
+      "start_time": 415.82,
+      "end_time": 417.364,
+      "duration": 1.5439999999999827,
+      "dialogue_text": "وجدت واحدة"
+    },
+    {
+      "subtitle_index": 45,
+      "start_time": 422.619,
+      "end_time": 425.747,
+      "duration": 3.127999999999986,
+      "dialogue_text": "انتبها , الأبواب المنزلقة لا يفترض أن تفتح"
+    },
+    {
+      "subtitle_index": 46,
+      "start_time": 426.289,
+      "end_time": 427.457,
+      "duration": 1.1680000000000064,
+      "dialogue_text": "حبة بلوط"
+    },
+    {
+      "subtitle_index": 47,
+      "start_time": 428.208,
+      "end_time": 431.962,
+      "duration": 3.7539999999999623,
+      "dialogue_text": "حبات بلوط تسقط في الغرفة- سقطت من الأعلى-"
+    },
+    {
+      "subtitle_index": 48,
+      "start_time": 436.216,
+      "end_time": 439.01,
+      "duration": 2.7939999999999827,
+      "dialogue_text": "إذن لابد من وجود سناجب هنا"
+    },
+    {
+      "subtitle_index": 49,
+      "start_time": 439.719,
+      "end_time": 440.679,
+      "duration": 0.9599999999999795,
+      "dialogue_text": "!سناجب"
+    },
+    {
+      "subtitle_index": 50,
+      "start_time": 441.805,
+      "end_time": 443.89,
+      "duration": 2.0849999999999795,
+      "dialogue_text": "أو فئران تحب البلوط"
+    },
+    {
+      "subtitle_index": 51,
+      "start_time": 445.225,
+      "end_time": 446.685,
+      "duration": 1.4599999999999795,
+      "dialogue_text": "أريد سناجب"
+    },
+    {
+      "subtitle_index": 52,
+      "start_time": 447.686,
+      "end_time": 448.937,
+      "duration": 1.2510000000000332,
+      "dialogue_text": "أين أضع هذا؟"
+    },
+    {
+      "subtitle_index": 53,
+      "start_time": 450.105,
+      "end_time": 451.773,
+      "duration": 1.6680000000000064,
+      "dialogue_text": "هنا بالداخل سأفتح لك الباب الآن"
+    },
+    {
+      "subtitle_index": 54,
+      "start_time": 452.607,
+      "end_time": 454.359,
+      "duration": 1.7519999999999527,
+      "dialogue_text": "\"ساتسوكي\" افتحي له باب المطبخ الخلفي"
+    },
+    {
+      "subtitle_index": 55,
+      "start_time": 455.318,
+      "end_time": 457.112,
+      "duration": 1.7940000000000396,
+      "dialogue_text": "أكيد- ستعرفين الباب لدى رؤيته-"
+    },
+    {
+      "subtitle_index": 56,
+      "start_time": 459.114,
+      "end_time": 462.576,
+      "duration": 3.462000000000046,
+      "dialogue_text": "اتبعيني - انتظريني -"
+    },
+    {
+      "subtitle_index": 57,
+      "start_time": 464.703,
+      "end_time": 466.371,
+      "duration": 1.6680000000000064,
+      "dialogue_text": "هيّا أسرعي"
+    },
+    {
+      "subtitle_index": 58,
+      "start_time": 504.117,
+      "end_time": 505.785,
+      "duration": 1.6680000000000064,
+      "dialogue_text": "لندخل"
+    },
+    {
+      "subtitle_index": 59,
+      "start_time": 518.006,
+      "end_time": 520.175,
+      "duration": 2.1689999999999827,
+      "dialogue_text": "الحمّام؟ - أجل -"
+    },
+    {
+      "subtitle_index": 60,
+      "start_time": 525.222,
+      "end_time": 526.973,
+      "duration": 1.7509999999999764,
+      "dialogue_text": "ليسوا هنا"
+    },
+    {
+      "subtitle_index": 61,
+      "start_time": 528.475,
+      "end_time": 529.935,
+      "duration": 1.4599999999999227,
+      "dialogue_text": "هذا هو الحمّام"
+    },
+    {
+      "subtitle_index": 62,
+      "start_time": 530.894,
+      "end_time": 531.52,
+      "duration": 0.6259999999999764,
+      "dialogue_text": "أبي ثمة شيء ما هنا بالداخل"
+    },
+    {
+      "subtitle_index": 63,
+      "start_time": 532.479,
+      "end_time": 535.941,
+      "duration": 3.461999999999989,
+      "dialogue_text": "سناجب؟ - لا أدري , ليست بصراصير ولا بفئران -"
+    },
+    {
+      "subtitle_index": 64,
+      "start_time": 536.691,
+      "end_time": 537.859,
+      "duration": 1.1680000000000064,
+      "dialogue_text": "و هي مليئة بالسواد"
+    },
+    {
+      "subtitle_index": 65,
+      "start_time": 550.622,
+      "end_time": 552.082,
+      "duration": 1.4600000000000364,
+      "dialogue_text": "إذن؟"
+    },
+    {
+      "subtitle_index": 66,
+      "start_time": 553.416,
+      "end_time": 555.085,
+      "duration": 1.6689999999999827,
+      "dialogue_text": "\"إنها \" السخام الأسود"
+    },
+    {
+      "subtitle_index": 67,
+      "start_time": 556.086,
+      "end_time": 558.296,
+      "duration": 2.2100000000000364,
+      "dialogue_text": "السخام الأسود ؟ كما في كتاب الصور ؟"
+    },
+    {
+      "subtitle_index": 68,
+      "start_time": 559.089,
+      "end_time": 563.051,
+      "duration": 3.961999999999989,
+      "dialogue_text": "هذا صحيح ما من سبب يمنع ظهور الأشباح في طقسٍ جميلٍ كهذا"
+    },
+    {
+      "subtitle_index": 69,
+      "start_time": 567.097,
+      "end_time": 569.724,
+      "duration": 2.6270000000000664,
+      "dialogue_text": "عندما تنتقلين فجأة من مكان مضاء إلى مكان مظلم"
+    },
+    {
+      "subtitle_index": 70,
+      "start_time": 570.392,
+      "end_time": 572.894,
+      "duration": 2.5019999999999527,
+      "dialogue_text": "و لا يمكنكِ الرؤية, تظهر كرات السخام"
+    },
+    {
+      "subtitle_index": 71,
+      "start_time": 573.812,
+      "end_time": 578.9,
+      "duration": 5.087999999999965,
+      "dialogue_text": "فهمت يا كرات السخام, أخرجي من مخبأك"
+    },
+    {
+      "subtitle_index": 72,
+      "start_time": 579.192,
+      "end_time": 581.361,
+      "duration": 2.1689999999999827,
+      "dialogue_text": "أخرجي من مخبأك وإلا أقتلعنا أعينكِ"
+    },
+    {
+      "subtitle_index": 73,
+      "start_time": 586.908,
+      "end_time": 591.496,
+      "duration": 4.587999999999965,
+      "dialogue_text": "هيا إلي العمل أين من المفترض أن يكون درج السلالم إلى الطابق الثاني يا ترى؟"
+    },
+    {
+      "subtitle_index": 74,
+      "start_time": 592.205,
+      "end_time": 596.251,
+      "duration": 4.045999999999935,
+      "dialogue_text": "ماذا ؟ - لما لا تبحثا عن درج السلالم وتفتحا نوافذ الطابق الثاني؟ -"
+    },
+    {
+      "subtitle_index": 75,
+      "start_time": 597.21,
+      "end_time": 599.713,
+      "duration": 2.502999999999929,
+      "dialogue_text": "نعم - مهلاً , وأنا أيضاً -"
+    },
+    {
+      "subtitle_index": 76,
+      "start_time": 607.596,
+      "end_time": 609.264,
+      "duration": 1.6680000000000064,
+      "dialogue_text": "! إنه المرحاض"
+    },
+    {
+      "subtitle_index": 77,
+      "start_time": 611.266,
+      "end_time": 612.642,
+      "duration": 1.37600000000009,
+      "dialogue_text": "حسناً ؟"
+    },
+    {
+      "subtitle_index": 78,
+      "start_time": 615.27,
+      "end_time": 617.689,
+      "duration": 2.4189999999999827,
+      "dialogue_text": "ذاك؟"
+    },
+    {
+      "subtitle_index": 79,
+      "start_time": 620.901,
+      "end_time": 623.528,
+      "duration": 2.6270000000000664,
+      "dialogue_text": "انظري - انظري -"
+    },
+    {
+      "subtitle_index": 80,
+      "start_time": 626.072,
+      "end_time": 629.117,
+      "duration": 3.044999999999959,
+      "dialogue_text": "حسناً ؟ - حسناً؟ -"
+    },
+    {
+      "subtitle_index": 81,
+      "start_time": 630.285,
+      "end_time": 632.996,
+      "duration": 2.7110000000000127,
+      "dialogue_text": "ليست هنا ؟ - ليست هنا ؟ -"
+    },
+    {
+      "subtitle_index": 82,
+      "start_time": 642.672,
+      "end_time": 644.674,
+      "duration": 2.0019999999999527,
+      "dialogue_text": "\"ماي \" وجدته"
+    },
+    {
+      "subtitle_index": 83,
+      "start_time": 651.598,
+      "end_time": 653.35,
+      "duration": 1.7520000000000664,
+      "dialogue_text": "إنه مظلم أليس كذلك؟"
+    },
+    {
+      "subtitle_index": 84,
+      "start_time": 653.808,
+      "end_time": 655.685,
+      "duration": 1.8769999999999527,
+      "dialogue_text": "إنها كرات السخام"
+    },
+    {
+      "subtitle_index": 85,
+      "start_time": 663.902,
+      "end_time": 665.904,
+      "duration": 2.0019999999999527,
+      "dialogue_text": "حبة بلّوط؟"
+    },
+    {
+      "subtitle_index": 86,
+      "start_time": 670.992,
+      "end_time": 675.247,
+      "duration": 4.2549999999999955,
+      "dialogue_text": "كرات السخام !!أخرجي من مخبأك"
+    },
+    {
+      "subtitle_index": 87,
+      "start_time": 714.411,
+      "end_time": 718.248,
+      "duration": 3.8370000000001028,
+      "dialogue_text": "كرات السخام هل أنتِ هنا؟"
+    },
+    {
+      "subtitle_index": 88,
+      "start_time": 743.481,
+      "end_time": 747.36,
+      "duration": 3.879000000000019,
+      "dialogue_text": "أبي ثمة شيء ما في هذا المنزل بالفعل"
+    },
+    {
+      "subtitle_index": 89,
+      "start_time": 748.069,
+      "end_time": 753.408,
+      "duration": 5.3390000000000555,
+      "dialogue_text": "رائع منذ صغري لطالما حلمت بالعيش في منزل مسكون"
+    },
+    {
+      "subtitle_index": 90,
+      "start_time": 754.659,
+      "end_time": 757.162,
+      "duration": 2.5030000000000427,
+      "dialogue_text": "أوه كلا"
+    },
+    {
+      "subtitle_index": 91,
+      "start_time": 803.583,
+      "end_time": 806.378,
+      "duration": 2.7950000000000728,
+      "dialogue_text": "أمسكت بها ! أختي"
+    },
+    {
+      "subtitle_index": 92,
+      "start_time": 819.683,
+      "end_time": 821.059,
+      "duration": 1.3759999999999764,
+      "dialogue_text": "....\"ماي\""
+    },
+    {
+      "subtitle_index": 93,
+      "start_time": 831.403,
+      "end_time": 833.154,
+      "duration": 1.7509999999999764,
+      "dialogue_text": "بنت ملؤها النشاط والحيوية, أليس كذلك؟"
+    },
+    {
+      "subtitle_index": 94,
+      "start_time": 833.864,
+      "end_time": 836.575,
+      "duration": 2.7110000000000127,
+      "dialogue_text": "الجدة هي الجارة التي كانت تعتني بهذا المنزل"
+    },
+    {
+      "subtitle_index": 95,
+      "start_time": 837.367,
+      "end_time": 838.618,
+      "duration": 1.25100000000009,
+      "dialogue_text": "ولقد جائت لمساعدتنا"
+    },
+    {
+      "subtitle_index": 96,
+      "start_time": 839.452,
+      "end_time": 841.329,
+      "duration": 1.8769999999999527,
+      "dialogue_text": "\"أنا \"ساتسوكي وهذه أختي الصغيرة \"ماي\" , طاب يومك"
+    },
+    {
+      "subtitle_index": 97,
+      "start_time": 842.164,
+      "end_time": 843.707,
+      "duration": 1.5430000000000064,
+      "dialogue_text": "حسناً , طاب يومكما"
+    },
+    {
+      "subtitle_index": 98,
+      "start_time": 844.583,
+      "end_time": 846.668,
+      "duration": 2.0850000000000364,
+      "dialogue_text": "أنها فتاة ذكية"
+    },
+    {
+      "subtitle_index": 99,
+      "start_time": 847.586,
+      "end_time": 851.131,
+      "duration": 3.544999999999959,
+      "dialogue_text": "إنها مجرد مسألة تصليحات منزلية اذا كنتم في عجلة من أمركم لهذه الدرجة"
+    },
+    {
+      "subtitle_index": 100,
+      "start_time": 852.174,
+      "end_time": 853.425,
+      "duration": 1.2509999999999764,
+      "dialogue_text": "هذا أكثر من كافٍ"
+    },
+    {
+      "subtitle_index": 101,
+      "start_time": 854.259,
+      "end_time": 859.389,
+      "duration": 5.1299999999999955,
+      "dialogue_text": "في هذاالوقت من العام ننشغل في حقول الأرز لكني تدبرت أمري في تنظيف المنزل بين فترة وأخرى"
+    },
+    {
+      "subtitle_index": 102,
+      "start_time": 860.39,
+      "end_time": 862.976,
+      "duration": 2.5860000000000127,
+      "dialogue_text": "\"ماي\" يداكِ ملطختان بالسواد , ماذا حصل؟"
+    },
+    {
+      "subtitle_index": 103,
+      "start_time": 863.602,
+      "end_time": 865.27,
+      "duration": 1.6680000000000064,
+      "dialogue_text": "كرة السخام هربت"
+    },
+    {
+      "subtitle_index": 104,
+      "start_time": 866.188,
+      "end_time": 867.439,
+      "duration": 1.2509999999999764,
+      "dialogue_text": "! قدماكِ"
+    },
+    {
+      "subtitle_index": 105,
+      "start_time": 871.568,
+      "end_time": 873.653,
+      "duration": 2.0850000000000364,
+      "dialogue_text": "! قدماي ملطختان بالسواد أيضاً"
+    },
+    {
+      "subtitle_index": 106,
+      "start_time": 878.241,
+      "end_time": 880.66,
+      "duration": 2.4189999999999827,
+      "dialogue_text": "! حسناً حسناً حسناً لنرى"
+    },
+    {
+      "subtitle_index": 107,
+      "start_time": 882.662,
+      "end_time": 885.165,
+      "duration": 2.502999999999929,
+      "dialogue_text": "إذن, أشباح \"ساسوتاريس\" قد ظهرت"
+    },
+    {
+      "subtitle_index": 108,
+      "start_time": 887.584,
+      "end_time": 891.546,
+      "duration": 3.9620000000001028,
+      "dialogue_text": "أرواح \"ساسوتاريس\"؟ هل هي بهذا الشكل وتصدرخشخشة عندما تتحرك ؟"
+    },
+    {
+      "subtitle_index": 109,
+      "start_time": 892.839,
+      "end_time": 899.721,
+      "duration": 6.881999999999948,
+      "dialogue_text": "أجل, إنها تتنقل بين البيوت القديمة والخالية من السكان وتكسو البيوت بالسخام والغبار من الداخل"
+    },
+    {
+      "subtitle_index": 110,
+      "start_time": 900.847,
+      "end_time": 908.271,
+      "duration": 7.423999999999978,
+      "dialogue_text": "رأيتها عندما كنت صغيرة لقد رأيتماها أيضاً إذن"
+    },
+    {
+      "subtitle_index": 111,
+      "start_time": 909.397,
+      "end_time": 910.649,
+      "duration": 1.2519999999999527,
+      "dialogue_text": "هل هي أشباح إذن؟"
+    },
+    {
+      "subtitle_index": 112,
+      "start_time": 911.191,
+      "end_time": 914.11,
+      "duration": 2.9189999999999827,
+      "dialogue_text": "حسناً لو أنها كذلك فهي ليست مخيفة"
+    },
+    {
+      "subtitle_index": 113,
+      "start_time": 914.653,
+      "end_time": 920.2,
+      "duration": 5.5470000000000255,
+      "dialogue_text": "إذا ابتسمتِ لن تقوم بإيذائك وتختفي قبل أن تدركي بذلك"
+    },
+    {
+      "subtitle_index": 114,
+      "start_time": 921.785,
+      "end_time": 925.747,
+      "duration": 3.961999999999989,
+      "dialogue_text": "صوت الحركة يزعجها في هذه اللحظة في العليّة أليس كذلك؟"
+    },
+    {
+      "subtitle_index": 115,
+      "start_time": 931.586,
+      "end_time": 933.964,
+      "duration": 2.3780000000000427,
+      "dialogue_text": "\"ان الأشباح كلها تهرب\"ماي خسارة -"
+    },
+    {
+      "subtitle_index": 116,
+      "start_time": 934.464,
+      "end_time": 937.509,
+      "duration": 3.044999999999959,
+      "dialogue_text": "ماذا ستفعلين لو أن كلها اجتمعت بهذا الشكل؟"
+    },
+    {
+      "subtitle_index": 117,
+      "start_time": 938.593,
+      "end_time": 939.219,
+      "duration": 0.62600000000009,
+      "dialogue_text": "لن أخاف"
+    },
+    {
+      "subtitle_index": 118,
+      "start_time": 939.761,
+      "end_time": 942.681,
+      "duration": 2.9200000000000728,
+      "dialogue_text": "حسناً لن أذهب معك إلى المرحاض عند حلول الظلام"
+    },
+    {
+      "subtitle_index": 119,
+      "start_time": 945.267,
+      "end_time": 950.272,
+      "duration": 5.0049999999999955,
+      "dialogue_text": "حسناً لنقم بالتنظيف, هلاّ جلبتما الماء من النهر؟"
+    },
+    {
+      "subtitle_index": 120,
+      "start_time": 950.772,
+      "end_time": 952.524,
+      "duration": 1.7519999999999527,
+      "dialogue_text": "من النهر؟ - وأنا أيضاً -"
+    },
+    {
+      "subtitle_index": 121,
+      "start_time": 956.653,
+      "end_time": 958.321,
+      "duration": 1.6680000000000064,
+      "dialogue_text": "\"انتظري هنا يا \"ماي"
+    },
+    {
+      "subtitle_index": 122,
+      "start_time": 967.455,
+      "end_time": 969.124,
+      "duration": 1.6689999999999827,
+      "dialogue_text": "هل أمسكتِ بسمكة؟"
+    },
+    {
+      "subtitle_index": 123,
+      "start_time": 980.969,
+      "end_time": 982.929,
+      "duration": 1.9599999999999227,
+      "dialogue_text": "!جدتي إن الماء يخرج"
+    },
+    {
+      "subtitle_index": 124,
+      "start_time": 983.638,
+      "end_time": 988.351,
+      "duration": 4.712999999999965,
+      "dialogue_text": "استمري بالضخ إلى يبرد الماء"
+    },
+    {
+      "subtitle_index": 125,
+      "start_time": 989.06,
+      "end_time": 990.103,
+      "duration": 1.0430000000000064,
+      "dialogue_text": "حسناً"
+    },
+    {
+      "subtitle_index": 126,
+      "start_time": 1031.645,
+      "end_time": 1035.106,
+      "duration": 3.4610000000000127,
+      "dialogue_text": "ألست أنت من ؟ ماذا تريد؟"
+    },
+    {
+      "subtitle_index": 127,
+      "start_time": 1035.982,
+      "end_time": 1038.693,
+      "duration": 2.7110000000000127,
+      "dialogue_text": "هذا من والدتي للجدّة"
+    },
+    {
+      "subtitle_index": 128,
+      "start_time": 1040.862,
+      "end_time": 1041.696,
+      "duration": 0.8339999999998327,
+      "dialogue_text": "ماذا؟"
+    },
+    {
+      "subtitle_index": 129,
+      "start_time": 1048.453,
+      "end_time": 1050.247,
+      "duration": 1.7940000000000964,
+      "dialogue_text": "انتظر ! ما هذا؟"
+    },
+    {
+      "subtitle_index": 130,
+      "start_time": 1050.747,
+      "end_time": 1053.542,
+      "duration": 2.7949999999998454,
+      "dialogue_text": "أهذا \"كانتا\"؟"
+    },
+    {
+      "subtitle_index": 131,
+      "start_time": 1054.751,
+      "end_time": 1059.339,
+      "duration": 4.587999999999965,
+      "dialogue_text": "!اسمعي !منزلكم مسكون"
+    },
+    {
+      "subtitle_index": 132,
+      "start_time": 1060.382,
+      "end_time": 1061.716,
+      "duration": 1.3339999999998327,
+      "dialogue_text": "! \" كانتا \""
+    },
+    {
+      "subtitle_index": 133,
+      "start_time": 1071.142,
+      "end_time": 1073.728,
+      "duration": 2.5860000000000127,
+      "dialogue_text": "أجل هذا يعيد لي الكثير من الذكريات"
+    },
+    {
+      "subtitle_index": 134,
+      "start_time": 1074.437,
+      "end_time": 1078.817,
+      "duration": 4.380000000000109,
+      "dialogue_text": "! أكره الأولاد !لكني بقية أفراد عائلتك يروقون لي كثيراً يا جدتي"
+    },
+    {
+      "subtitle_index": 135,
+      "start_time": 1080.36,
+      "end_time": 1082.028,
+      "duration": 1.66800000000012,
+      "dialogue_text": "اخدمي نفسك"
+    },
+    {
+      "subtitle_index": 136,
+      "start_time": 1083.572,
+      "end_time": 1085.031,
+      "duration": 1.45900000000006,
+      "dialogue_text": "شكراً لمساعدتك"
+    },
+    {
+      "subtitle_index": 137,
+      "start_time": 1087.158,
+      "end_time": 1088.827,
+      "duration": 1.6690000000000964,
+      "dialogue_text": "شكراً جزيلاً"
+    },
+    {
+      "subtitle_index": 138,
+      "start_time": 1090.37,
+      "end_time": 1091.705,
+      "duration": 1.3350000000000364,
+      "dialogue_text": "مع السلامة"
+    },
+    {
+      "subtitle_index": 139,
+      "start_time": 1167.03,
+      "end_time": 1169.95,
+      "duration": 2.9200000000000728,
+      "dialogue_text": "أبي هل سينهار المنزل لأنه خرب"
+    },
+    {
+      "subtitle_index": 140,
+      "start_time": 1172.035,
+      "end_time": 1175.372,
+      "duration": 3.336999999999989,
+      "dialogue_text": "بما أننا انتقلنا للتو ستكون هذه مشكلة"
+    },
+    {
+      "subtitle_index": 141,
+      "start_time": 1210.532,
+      "end_time": 1215.12,
+      "duration": 4.587999999999965,
+      "dialogue_text": "جرّبوا الضحك جميعكم ستهرب الأشباح فالضحك يخيفها"
+    },
+    {
+      "subtitle_index": 142,
+      "start_time": 1216.037,
+      "end_time": 1217.914,
+      "duration": 1.8769999999999527,
+      "dialogue_text": "لست خائفة"
+    },
+    {
+      "subtitle_index": 143,
+      "start_time": 1264.544,
+      "end_time": 1269.007,
+      "duration": 4.462999999999965,
+      "dialogue_text": "واحد , اثنان , واحد , اثنان , واحد . اثنان"
+    },
+    {
+      "subtitle_index": 144,
+      "start_time": 1269.633,
+      "end_time": 1272.135,
+      "duration": 2.5019999999999527,
+      "dialogue_text": "تماماً استمرّا , أقوى"
+    },
+    {
+      "subtitle_index": 145,
+      "start_time": 1277.14,
+      "end_time": 1279.226,
+      "duration": 2.0860000000000127,
+      "dialogue_text": "جيّد انتهى الغسيل"
+    },
+    {
+      "subtitle_index": 146,
+      "start_time": 1289.236,
+      "end_time": 1291.446,
+      "duration": 2.209999999999809,
+      "dialogue_text": "! انطلقنا"
+    },
+    {
+      "subtitle_index": 147,
+      "start_time": 1308.63,
+      "end_time": 1310.298,
+      "duration": 1.6679999999998927,
+      "dialogue_text": "! أيتها الجدة"
+    },
+    {
+      "subtitle_index": 148,
+      "start_time": 1311.216,
+      "end_time": 1312.676,
+      "duration": 1.4600000000000364,
+      "dialogue_text": "طاب نهاركِ"
+    },
+    {
+      "subtitle_index": 149,
+      "start_time": 1313.635,
+      "end_time": 1315.303,
+      "duration": 1.66800000000012,
+      "dialogue_text": "!يبدو أنك تعملين بكدّ"
+    },
+    {
+      "subtitle_index": 150,
+      "start_time": 1315.929,
+      "end_time": 1318.223,
+      "duration": 2.293999999999869,
+      "dialogue_text": "أين أنتم ذاهبون جميعكم؟"
+    },
+    {
+      "subtitle_index": 151,
+      "start_time": 1318.932,
+      "end_time": 1320.392,
+      "duration": 1.4600000000000364,
+      "dialogue_text": "نحن ذاهبون لزيارة أمنا"
+    },
+    {
+      "subtitle_index": 152,
+      "start_time": 1321.518,
+      "end_time": 1326.585,
+      "duration": 5.067000000000007,
+      "dialogue_text": "هذا لطيف بلغيها تحيّاتي"
+    },
+    {
+      "subtitle_index": 153,
+      "start_time": 1326.62,
+      "end_time": 1327.19,
+      "duration": 0.5700000000001637,
+      "dialogue_text": "حسناً"
+    },
+    {
+      "subtitle_index": 154,
+      "start_time": 1344.124,
+      "end_time": 1345.667,
+      "duration": 1.5429999999998927,
+      "dialogue_text": "! من هنا من هنا"
+    },
+    {
+      "subtitle_index": 155,
+      "start_time": 1373.153,
+      "end_time": 1375.238,
+      "duration": 2.0850000000000364,
+      "dialogue_text": "طاب يومكم - أرجوكما ِ تفضلا بالدخول -"
+    },
+    {
+      "subtitle_index": 156,
+      "start_time": 1376.948,
+      "end_time": 1378.074,
+      "duration": 1.1259999999999764,
+      "dialogue_text": "أمي"
+    },
+    {
+      "subtitle_index": 157,
+      "start_time": 1379.326,
+      "end_time": 1381.828,
+      "duration": 2.5019999999999527,
+      "dialogue_text": "\"ماي\" أنا سعيدة لأنكم جئتم لرؤيتي"
+    },
+    {
+      "subtitle_index": 158,
+      "start_time": 1382.537,
+      "end_time": 1383.663,
+      "duration": 1.1259999999999764,
+      "dialogue_text": "أبي ضل الطريق"
+    },
+    {
+      "subtitle_index": 159,
+      "start_time": 1384.748,
+      "end_time": 1385.79,
+      "duration": 1.0419999999999163,
+      "dialogue_text": "أحقاً؟ - مرحبا -"
+    },
+    {
+      "subtitle_index": 160,
+      "start_time": 1386.917,
+      "end_time": 1388.376,
+      "duration": 1.45900000000006,
+      "dialogue_text": "اليوم هو يوم غرس الأرز"
+    },
+    {
+      "subtitle_index": 161,
+      "start_time": 1389.544,
+      "end_time": 1391.421,
+      "duration": 1.8769999999999527,
+      "dialogue_text": "أبي يتحدث مع الطبيب"
+    },
+    {
+      "subtitle_index": 162,
+      "start_time": 1393.34,
+      "end_time": 1394.466,
+      "duration": 1.1259999999999764,
+      "dialogue_text": "أنا سعيدة لأنكم جميعكم أتيتوا"
+    },
+    {
+      "subtitle_index": 163,
+      "start_time": 1395.55,
+      "end_time": 1397.844,
+      "duration": 2.2940000000000964,
+      "dialogue_text": "هل اعجبكما المنزل الجديد؟ هل استقريتم للتو؟"
+    },
+    {
+      "subtitle_index": 164,
+      "start_time": 1402.933,
+      "end_time": 1404.184,
+      "duration": 1.2509999999999764,
+      "dialogue_text": "منزل ٌ مسكون؟"
+    },
+    {
+      "subtitle_index": 165,
+      "start_time": 1405.727,
+      "end_time": 1407.27,
+      "duration": 1.5429999999998927,
+      "dialogue_text": "هل تعجبك البيوت المسكونة يا أمي؟"
+    },
+    {
+      "subtitle_index": 166,
+      "start_time": 1407.938,
+      "end_time": 1410.941,
+      "duration": 3.002999999999929,
+      "dialogue_text": "بالطبع أريد مغادرة المستشفى في أسرع وقت لرؤية شبح"
+    },
+    {
+      "subtitle_index": 167,
+      "start_time": 1411.525,
+      "end_time": 1412.651,
+      "duration": 1.1259999999999764,
+      "dialogue_text": "هذا جيّد أليس كذلك يا ماي ؟"
+    },
+    {
+      "subtitle_index": 168,
+      "start_time": 1414.027,
+      "end_time": 1417.28,
+      "duration": 3.252999999999929,
+      "dialogue_text": "كانت قلقة قائلة: \" أذا كانت أمي لا تروق لها الأشباح ستكون مشكلة , أليس كذلك\"؟"
+    },
+    {
+      "subtitle_index": 169,
+      "start_time": 1417.822,
+      "end_time": 1418.782,
+      "duration": 0.9600000000000364,
+      "dialogue_text": "ماذا عنكما؟"
+    },
+    {
+      "subtitle_index": 170,
+      "start_time": 1419.199,
+      "end_time": 1419.95,
+      "duration": 0.7509999999999764,
+      "dialogue_text": "! أحببنا الفكرة"
+    },
+    {
+      "subtitle_index": 171,
+      "start_time": 1420.742,
+      "end_time": 1422.285,
+      "duration": 1.54300000000012,
+      "dialogue_text": "لست خائفة"
+    },
+    {
+      "subtitle_index": 172,
+      "start_time": 1423.912,
+      "end_time": 1426.498,
+      "duration": 2.5860000000000127,
+      "dialogue_text": "\"شعر \"ماي هل صففته لها يا \"ساتسوكي \"؟"
+    },
+    {
+      "subtitle_index": 173,
+      "start_time": 1427.541,
+      "end_time": 1427.833,
+      "duration": 0.2920000000001437,
+      "dialogue_text": "أجل"
+    },
+    {
+      "subtitle_index": 174,
+      "start_time": 1428.333,
+      "end_time": 1430.836,
+      "duration": 2.502999999999929,
+      "dialogue_text": "أحسنتِ صنعاً ,أنه يعجبك يا \"ماي\". أليس كذلك؟"
+    },
+    {
+      "subtitle_index": 175,
+      "start_time": 1431.92,
+      "end_time": 1433.672,
+      "duration": 1.7519999999999527,
+      "dialogue_text": "نعم لكن \"ساتسوكي\" تغضب على الدوام"
+    },
+    {
+      "subtitle_index": 176,
+      "start_time": 1434.214,
+      "end_time": 1436.007,
+      "duration": 1.79300000000012,
+      "dialogue_text": "ذلك لأنها لا تحسن التصرف"
+    },
+    {
+      "subtitle_index": 177,
+      "start_time": 1438.009,
+      "end_time": 1440.303,
+      "duration": 2.2940000000000964,
+      "dialogue_text": "تعالي هنا يا \"ساتسوكي\" أليس شعرك قصيراً؟"
+    },
+    {
+      "subtitle_index": 178,
+      "start_time": 1441.221,
+      "end_time": 1441.847,
+      "duration": 0.6259999999999764,
+      "dialogue_text": "يعجبني هكذا"
+    },
+    {
+      "subtitle_index": 179,
+      "start_time": 1442.722,
+      "end_time": 1444.474,
+      "duration": 1.7519999999999527,
+      "dialogue_text": "وأنا أيضاً وأنا أيضاً - في الوقت المناسب -"
+    },
+    {
+      "subtitle_index": 180,
+      "start_time": 1445.308,
+      "end_time": 1450.605,
+      "duration": 5.2970000000000255,
+      "dialogue_text": "تماماً عندما كنت فتاة صغيرة"
+    },
+    {
+      "subtitle_index": 181,
+      "start_time": 1451.022,
+      "end_time": 1453.65,
+      "duration": 2.6280000000001564,
+      "dialogue_text": "عندما أكبر سيكون شعري كشعرك أيضاً"
+    },
+    {
+      "subtitle_index": 182,
+      "start_time": 1454.943,
+      "end_time": 1457.654,
+      "duration": 2.7110000000000127,
+      "dialogue_text": "ربما ستعتنين بدورك بشعري"
+    },
+    {
+      "subtitle_index": 183,
+      "start_time": 1476.006,
+      "end_time": 1478.091,
+      "duration": 2.084999999999809,
+      "dialogue_text": "بدت أمي بصحة جيّدة أليس كذلك؟"
+    },
+    {
+      "subtitle_index": 184,
+      "start_time": 1478.717,
+      "end_time": 1481.928,
+      "duration": 3.2110000000000127,
+      "dialogue_text": "نعم بدت كذلك قال الطبيب انها ستغادر المستشفى بعد فترة قصيرة"
+    },
+    {
+      "subtitle_index": 185,
+      "start_time": 1482.512,
+      "end_time": 1484.181,
+      "duration": 1.6690000000000964,
+      "dialogue_text": "بعد فترة قصيرة , غداً؟"
+    },
+    {
+      "subtitle_index": 186,
+      "start_time": 1484.598,
+      "end_time": 1486.683,
+      "duration": 2.0850000000000364,
+      "dialogue_text": "! بدأت عادة \"ماي\" من جديد, \"غداً غداً\""
+    },
+    {
+      "subtitle_index": 187,
+      "start_time": 1487.309,
+      "end_time": 1489.06,
+      "duration": 1.7509999999999764,
+      "dialogue_text": "ليس من المعقول أن تغادر المسشفى غداً أليس كذلك؟"
+    },
+    {
+      "subtitle_index": 188,
+      "start_time": 1489.603,
+      "end_time": 1491.813,
+      "duration": 2.2100000000000364,
+      "dialogue_text": "قالت أمي أنه يمكنني النوم معها في فراشي"
+    },
+    {
+      "subtitle_index": 189,
+      "start_time": 1492.314,
+      "end_time": 1496.484,
+      "duration": 4.169999999999845,
+      "dialogue_text": "ماذا؟ ألم تنامي وحدكِ منذ أن كبرتِ يا \"ماي\"؟"
+    },
+    {
+      "subtitle_index": 190,
+      "start_time": 1497.11,
+      "end_time": 1499.696,
+      "duration": 2.5860000000000127,
+      "dialogue_text": "أنا موافقة إذا كان ذلك مع أمي"
+    },
+    {
+      "subtitle_index": 191,
+      "start_time": 1520.717,
+      "end_time": 1523.637,
+      "duration": 2.9199999999998454,
+      "dialogue_text": "أبي لقد جاء الصباح"
+    },
+    {
+      "subtitle_index": 192,
+      "start_time": 1527.39,
+      "end_time": 1530.018,
+      "duration": 2.627999999999929,
+      "dialogue_text": "انهض"
+    },
+    {
+      "subtitle_index": 193,
+      "start_time": 1535.607,
+      "end_time": 1537.4,
+      "duration": 1.79300000000012,
+      "dialogue_text": "أنا آسف لقد استغرقت في النوم ثانية"
+    },
+    {
+      "subtitle_index": 194,
+      "start_time": 1538.193,
+      "end_time": 1539.778,
+      "duration": 1.5850000000000364,
+      "dialogue_text": "من اليوم فصاعداً سأعدالغداء"
+    },
+    {
+      "subtitle_index": 195,
+      "start_time": 1540.987,
+      "end_time": 1541.821,
+      "duration": 0.8339999999998327,
+      "dialogue_text": "!عزيزتي لقد نسيت تماماً"
+    },
+    {
+      "subtitle_index": 196,
+      "start_time": 1542.697,
+      "end_time": 1544.449,
+      "duration": 1.75200000000018,
+      "dialogue_text": "لا بأس سأعد الغداء للجميع"
+    },
+    {
+      "subtitle_index": 197,
+      "start_time": 1545.325,
+      "end_time": 1546.993,
+      "duration": 1.6679999999998927,
+      "dialogue_text": "أنه يحترق - انتظري -"
+    },
+    {
+      "subtitle_index": 198,
+      "start_time": 1549.329,
+      "end_time": 1550.664,
+      "duration": 1.3350000000000364,
+      "dialogue_text": "\" هذه لِ \" ماي"
+    },
+    {
+      "subtitle_index": 199,
+      "start_time": 1551.998,
+      "end_time": 1553.166,
+      "duration": 1.1679999999998927,
+      "dialogue_text": "! غدائي"
+    },
+    {
+      "subtitle_index": 200,
+      "start_time": 1554.793,
+      "end_time": 1556.044,
+      "duration": 1.2510000000002037,
+      "dialogue_text": "\"ماي\" أجلسي وكلي"
+    },
+    {
+      "subtitle_index": 201,
+      "start_time": 1556.795,
+      "end_time": 1557.212,
+      "duration": 0.4169999999999163,
+      "dialogue_text": "تفضلي"
+    },
+    {
+      "subtitle_index": 202,
+      "start_time": 1558.296,
+      "end_time": 1559.631,
+      "duration": 1.3350000000000364,
+      "dialogue_text": "لفّيه بنفسك"
+    },
+    {
+      "subtitle_index": 203,
+      "start_time": 1563.51,
+      "end_time": 1565.387,
+      "duration": 1.8769999999999527,
+      "dialogue_text": "\"ساستيوكي شان\""
+    },
+    {
+      "subtitle_index": 204,
+      "start_time": 1566.721,
+      "end_time": 1568.89,
+      "duration": 2.1690000000000964,
+      "dialogue_text": "أوه لا ! آتية"
+    },
+    {
+      "subtitle_index": 205,
+      "start_time": 1571.518,
+      "end_time": 1573.395,
+      "duration": 1.8769999999999527,
+      "dialogue_text": "أصبحت لك صديقة منذ الآن؟"
+    },
+    {
+      "subtitle_index": 206,
+      "start_time": 1574.104,
+      "end_time": 1575.647,
+      "duration": 1.5429999999998927,
+      "dialogue_text": "\"نادتكِ \" ساتسوكي شان"
+    },
+    {
+      "subtitle_index": 207,
+      "start_time": 1576.314,
+      "end_time": 1578.817,
+      "duration": 2.502999999999929,
+      "dialogue_text": "نعم \"إنها \"ميتشان"
+    },
+    {
+      "subtitle_index": 208,
+      "start_time": 1580.318,
+      "end_time": 1581.987,
+      "duration": 1.6690000000000964,
+      "dialogue_text": "كان طعاماً شهياً"
+    },
+    {
+      "subtitle_index": 209,
+      "start_time": 1583.113,
+      "end_time": 1586.533,
+      "duration": 3.4199999999998454,
+      "dialogue_text": "أراكما لاحقاً - نراكِ لاحقاً -"
+    },
+    {
+      "subtitle_index": 210,
+      "start_time": 1588.41,
+      "end_time": 1591.538,
+      "duration": 3.127999999999929,
+      "dialogue_text": "صباح الخير - صباح الخير , لنسرع"
+    },
+    {
+      "subtitle_index": 211,
+      "start_time": 1605.177,
+      "end_time": 1608.43,
+      "duration": 3.2530000000001564,
+      "dialogue_text": "! أبي هل أبدو كأختي الكبرى؟"
+    },
+    {
+      "subtitle_index": 212,
+      "start_time": 1609.514,
+      "end_time": 1611.057,
+      "duration": 1.54300000000012,
+      "dialogue_text": "أجل أين تذهبين بغدائك؟"
+    },
+    {
+      "subtitle_index": 213,
+      "start_time": 1611.892,
+      "end_time": 1613.435,
+      "duration": 1.5429999999998927,
+      "dialogue_text": "فقط هناك لبرهة"
+    },
+    {
+      "subtitle_index": 214,
+      "start_time": 1634.915,
+      "end_time": 1637.709,
+      "duration": 2.7940000000000964,
+      "dialogue_text": "أبي أحان وقت الغداء بعد؟"
+    },
+    {
+      "subtitle_index": 215,
+      "start_time": 1638.585,
+      "end_time": 1641.63,
+      "duration": 3.0450000000000728,
+      "dialogue_text": "ماذا؟ بهذه السرعة؟"
+    },
+    {
+      "subtitle_index": 216,
+      "start_time": 1651.89,
+      "end_time": 1654.059,
+      "duration": 2.168999999999869,
+      "dialogue_text": "أبي بائع الزهور"
+    },
+    {
+      "subtitle_index": 217,
+      "start_time": 1670.2,
+      "end_time": 1671.785,
+      "duration": 1.5850000000000364,
+      "dialogue_text": "! فراخ الضفادع"
+    },
+    {
+      "subtitle_index": 218,
+      "start_time": 1691.179,
+      "end_time": 1693.39,
+      "duration": 2.2110000000000127,
+      "dialogue_text": "ماذا؟ إنها بلا قاع"
+    },
+    {
+      "subtitle_index": 219,
+      "start_time": 1706.319,
+      "end_time": 1707.654,
+      "duration": 1.3350000000000364,
+      "dialogue_text": "وجدت واحدة"
+    },
+    {
+      "subtitle_index": 220,
+      "start_time": 2043.949,
+      "end_time": 2046.785,
+      "duration": 2.8360000000000127,
+      "dialogue_text": "من أنت؟ هل أنت كرة السخام؟"
+    },
+    {
+      "subtitle_index": 221,
+      "start_time": 2074.938,
+      "end_time": 2078.608,
+      "duration": 3.6700000000000728,
+      "dialogue_text": "توتورو\"؟\" تقول أنك \"توتورو\", أليس كذلك؟"
+    },
+    {
+      "subtitle_index": 222,
+      "start_time": 2083.864,
+      "end_time": 2085.407,
+      "duration": 1.54300000000012,
+      "dialogue_text": "\" أنت بالفعل \"توتورو"
+    },
+    {
+      "subtitle_index": 223,
+      "start_time": 2088.16,
+      "end_time": 2089.828,
+      "duration": 1.66800000000012,
+      "dialogue_text": "\"توتورو\""
+    },
+    {
+      "subtitle_index": 224,
+      "start_time": 2158.438,
+      "end_time": 2160.19,
+      "duration": 1.7519999999999527,
+      "dialogue_text": "أراكِ لاحقاً - مع السلامة -"
+    },
+    {
+      "subtitle_index": 225,
+      "start_time": 2162.317,
+      "end_time": 2163.985,
+      "duration": 1.66800000000012,
+      "dialogue_text": "أهلاً بعودتك أحان الوقت بهذه السرعة؟"
+    },
+    {
+      "subtitle_index": 226,
+      "start_time": 2165.737,
+      "end_time": 2168.24,
+      "duration": 2.5029999999997017,
+      "dialogue_text": "أين \"ماي\"؟ \"أنا ذاهبة لمنزل \"ميتشان"
+    },
+    {
+      "subtitle_index": 227,
+      "start_time": 2169.241,
+      "end_time": 2171.409,
+      "duration": 2.16800000000012,
+      "dialogue_text": "لم أتناول غدائي بعد ألا تلعب\"ماي \" في الحديقة؟"
+    },
+    {
+      "subtitle_index": 228,
+      "start_time": 2171.117,
+      "end_time": 2172.577,
+      "duration": 1.4600000000000364,
+      "dialogue_text": "\"ماي\""
+    },
+    {
+      "subtitle_index": 229,
+      "start_time": 2173.453,
+      "end_time": 2174.704,
+      "duration": 1.2510000000002037,
+      "dialogue_text": "\"ماي\""
+    },
+    {
+      "subtitle_index": 230,
+      "start_time": 2176.54,
+      "end_time": 2179.042,
+      "duration": 2.5019999999999527,
+      "dialogue_text": "\"ماي\""
+    },
+    {
+      "subtitle_index": 231,
+      "start_time": 2188.134,
+      "end_time": 2191.471,
+      "duration": 3.336999999999989,
+      "dialogue_text": "أبي \" وجدت قبعة \" ماي"
+    },
+    {
+      "subtitle_index": 232,
+      "start_time": 2208.113,
+      "end_time": 2209.281,
+      "duration": 1.16800000000012,
+      "dialogue_text": "\"ماي\""
+    },
+    {
+      "subtitle_index": 233,
+      "start_time": 2216.121,
+      "end_time": 2218.623,
+      "duration": 2.5019999999999527,
+      "dialogue_text": "\"ماي\" ! هيا استيقظي"
+    },
+    {
+      "subtitle_index": 234,
+      "start_time": 2221.042,
+      "end_time": 2222.377,
+      "duration": 1.3350000000000364,
+      "dialogue_text": "ما كان عليكِ النوم في مكانٍ كهذا"
+    },
+    {
+      "subtitle_index": 235,
+      "start_time": 2225.046,
+      "end_time": 2226.715,
+      "duration": 1.6690000000003238,
+      "dialogue_text": "أين \"توتورو\"؟ - توتورو \" ؟ \" -"
+    },
+    {
+      "subtitle_index": 236,
+      "start_time": 2227.632,
+      "end_time": 2230.135,
+      "duration": 2.5030000000001564,
+      "dialogue_text": "ماذا؟"
+    },
+    {
+      "subtitle_index": 237,
+      "start_time": 2231.845,
+      "end_time": 2233.18,
+      "duration": 1.3350000000000364,
+      "dialogue_text": "أكنتِ تحلمين؟"
+    },
+    {
+      "subtitle_index": 238,
+      "start_time": 2234.139,
+      "end_time": 2235.307,
+      "duration": 1.1679999999996653,
+      "dialogue_text": "\" وجدت \"توتورو"
+    },
+    {
+      "subtitle_index": 239,
+      "start_time": 2236.057,
+      "end_time": 2238.435,
+      "duration": 2.3780000000001564,
+      "dialogue_text": "\" توتورو\" أتقصدين الحيوان الخرافي كما في كتاب الصور؟"
+    },
+    {
+      "subtitle_index": 240,
+      "start_time": 2239.728,
+      "end_time": 2241.396,
+      "duration": 1.66800000000012,
+      "dialogue_text": "لا توتورو\" هو ما قاله بالضبط\""
+    },
+    {
+      "subtitle_index": 241,
+      "start_time": 2242.23,
+      "end_time": 2245.442,
+      "duration": 3.211999999999989,
+      "dialogue_text": "ذو فرو و فمٍ بهذا الشكل"
+    },
+    {
+      "subtitle_index": 242,
+      "start_time": 2246.526,
+      "end_time": 2252.699,
+      "duration": 6.173000000000229,
+      "dialogue_text": "واحدٌ بهذا الحجم وواحدُ بهذا الحجم وواحدٌ ضخم كان نائماً بهذا الحجم"
+    },
+    {
+      "subtitle_index": 243,
+      "start_time": 2256.912,
+      "end_time": 2262.25,
+      "duration": 5.338000000000193,
+      "dialogue_text": "وجدتكما نعم , رائع , يبدو كأنه قاعدة سرية"
+    },
+    {
+      "subtitle_index": 244,
+      "start_time": 2262.459,
+      "end_time": 2265.045,
+      "duration": 2.58600000000024,
+      "dialogue_text": "أبي تقول \"ماي\" أنها رأت \"توتورو\" هنا"
+    },
+    {
+      "subtitle_index": 245,
+      "start_time": 2265.629,
+      "end_time": 2266.338,
+      "duration": 0.7090000000002874,
+      "dialogue_text": "\"توتورو\""
+    },
+    {
+      "subtitle_index": 246,
+      "start_time": 2268.131,
+      "end_time": 2269.925,
+      "duration": 1.7940000000003238,
+      "dialogue_text": "من هنا"
+    },
+    {
+      "subtitle_index": 247,
+      "start_time": 2277.641,
+      "end_time": 2278.975,
+      "duration": 1.3339999999998327,
+      "dialogue_text": "مهلاً انتظرا"
+    },
+    {
+      "subtitle_index": 248,
+      "start_time": 2281.436,
+      "end_time": 2282.145,
+      "duration": 0.7089999999998327,
+      "dialogue_text": "ماذا؟"
+    },
+    {
+      "subtitle_index": 249,
+      "start_time": 2284.439,
+      "end_time": 2289.444,
+      "duration": 5.005000000000109,
+      "dialogue_text": "هنا؟- لا لقد ذهب إلى شجرة كبيرة"
+    },
+    {
+      "subtitle_index": 250,
+      "start_time": 2290.445,
+      "end_time": 2291.988,
+      "duration": 1.5429999999996653,
+      "dialogue_text": "لكن لم يكن هناك سوى ممر واحد"
+    },
+    {
+      "subtitle_index": 251,
+      "start_time": 2293.532,
+      "end_time": 2294.908,
+      "duration": 1.375999999999749,
+      "dialogue_text": "\"ماي\" تعالي إلى هنا"
+    },
+    {
+      "subtitle_index": 252,
+      "start_time": 2309.923,
+      "end_time": 2315.47,
+      "duration": 5.5470000000000255,
+      "dialogue_text": "إنها الحقيقة كان هناك \" توتورو\" أنا لا أكذب"
+    },
+    {
+      "subtitle_index": 253,
+      "start_time": 2324.646,
+      "end_time": 2327.566,
+      "duration": 2.919999999999618,
+      "dialogue_text": "\"ماي\" - إنها ليست كذبة -"
+    },
+    {
+      "subtitle_index": 254,
+      "start_time": 2329.651,
+      "end_time": 2333.488,
+      "duration": 3.836999999999989,
+      "dialogue_text": "\"ماي\" لا أنا ولا \"ساتسوكي\" نظن أنكِ كاذبة"
+    },
+    {
+      "subtitle_index": 255,
+      "start_time": 2336.658,
+      "end_time": 2340.203,
+      "duration": 3.5450000000000728,
+      "dialogue_text": "لقد رأيت بالتأكيد سيد الغابة وهذا من حظك"
+    },
+    {
+      "subtitle_index": 256,
+      "start_time": 2341.121,
+      "end_time": 2343.54,
+      "duration": 2.418999999999869,
+      "dialogue_text": "لكن ليس بالإمكان دائماً إيجاده"
+    },
+    {
+      "subtitle_index": 257,
+      "start_time": 2344.833,
+      "end_time": 2347.21,
+      "duration": 2.3769999999999527,
+      "dialogue_text": "حسناً ما زال بوسعنا أن نلقي له التحية , أليس كذلك؟"
+    },
+    {
+      "subtitle_index": 258,
+      "start_time": 2347.919,
+      "end_time": 2349.713,
+      "duration": 1.7940000000003238,
+      "dialogue_text": "نلقي له التحية؟- لننطلق إلى الغابة -"
+    },
+    {
+      "subtitle_index": 259,
+      "start_time": 2367.647,
+      "end_time": 2369.399,
+      "duration": 1.7519999999999527,
+      "dialogue_text": "\"ماي\" أصبحتِ ثقيلة"
+    },
+    {
+      "subtitle_index": 260,
+      "start_time": 2370.442,
+      "end_time": 2371.985,
+      "duration": 1.54300000000012,
+      "dialogue_text": "أبي شجرة الكافور هذه"
+    },
+    {
+      "subtitle_index": 261,
+      "start_time": 2372.903,
+      "end_time": 2375.614,
+      "duration": 2.71100000000024,
+      "dialogue_text": "إنها ضخمة أليس كذلك؟"
+    },
+    {
+      "subtitle_index": 262,
+      "start_time": 2381.828,
+      "end_time": 2383.288,
+      "duration": 1.4600000000000364,
+      "dialogue_text": "!هذه هي الشجرة"
+    },
+    {
+      "subtitle_index": 263,
+      "start_time": 2384.331,
+      "end_time": 2385.707,
+      "duration": 1.375999999999749,
+      "dialogue_text": "هذه الشجرة - نعم -"
+    },
+    {
+      "subtitle_index": 264,
+      "start_time": 2386.5,
+      "end_time": 2388.168,
+      "duration": 1.66800000000012,
+      "dialogue_text": "أبي !!أسرع أسرع"
+    },
+    {
+      "subtitle_index": 265,
+      "start_time": 2399.304,
+      "end_time": 2400.972,
+      "duration": 1.66800000000012,
+      "dialogue_text": "لقد اختفت الفتحة"
+    },
+    {
+      "subtitle_index": 266,
+      "start_time": 2401.723,
+      "end_time": 2402.766,
+      "duration": 1.04300000000012,
+      "dialogue_text": "أهي حقاً هنا؟ - نعم -"
+    },
+    {
+      "subtitle_index": 267,
+      "start_time": 2404.518,
+      "end_time": 2406.186,
+      "duration": 1.66800000000012,
+      "dialogue_text": "تقول أن الفتحة اختفت"
+    },
+    {
+      "subtitle_index": 268,
+      "start_time": 2407.229,
+      "end_time": 2409.397,
+      "duration": 2.16800000000012,
+      "dialogue_text": "في الواقع ذلك لأنه لا يمكنك دائماً رؤيته"
+    },
+    {
+      "subtitle_index": 269,
+      "start_time": 2410.023,
+      "end_time": 2411.691,
+      "duration": 1.6679999999996653,
+      "dialogue_text": "هل نستطيع رؤيته ثانية؟ أودّ رؤيته أيضاً"
+    },
+    {
+      "subtitle_index": 270,
+      "start_time": 2412.692,
+      "end_time": 2414.903,
+      "duration": 2.2109999999997854,
+      "dialogue_text": "سوف تريه إذا حالفكِ الحظ"
+    },
+    {
+      "subtitle_index": 271,
+      "start_time": 2416.822,
+      "end_time": 2418.573,
+      "duration": 1.750999999999749,
+      "dialogue_text": "أنها شجرة ضخمة أليست كذلك؟"
+    },
+    {
+      "subtitle_index": 272,
+      "start_time": 2420.116,
+      "end_time": 2424.83,
+      "duration": 4.713999999999942,
+      "dialogue_text": "كانت واقفة هنا طوال كل هذه المدة بالتأكيد"
+    },
+    {
+      "subtitle_index": 273,
+      "start_time": 2425.831,
+      "end_time": 2428.75,
+      "duration": 2.918999999999869,
+      "dialogue_text": "منذ زمن بعيد كان الناس والأشجار اصدقاء"
+    },
+    {
+      "subtitle_index": 274,
+      "start_time": 2430.71,
+      "end_time": 2434.256,
+      "duration": 3.5459999999998217,
+      "dialogue_text": "بسبب هذه الشجرة أحب المنزل كثيراً"
+    },
+    {
+      "subtitle_index": 275,
+      "start_time": 2435.423,
+      "end_time": 2438.009,
+      "duration": 2.58600000000024,
+      "dialogue_text": "أعتقد أن أمكما ستحبه بالتأكيد ألا تظنّا ذلك؟"
+    },
+    {
+      "subtitle_index": 276,
+      "start_time": 2438.718,
+      "end_time": 2441.763,
+      "duration": 3.0450000000000728,
+      "dialogue_text": "جسناً دعنا نقوم بالشكر ثم تعود للبيت لم تتناولا الغداء بعد"
+    },
+    {
+      "subtitle_index": 277,
+      "start_time": 2442.305,
+      "end_time": 2443.765,
+      "duration": 1.4600000000000364,
+      "dialogue_text": "!هذا صحيح لقد وعدت \" ميتشان\" بزيارتها"
+    },
+    {
+      "subtitle_index": 278,
+      "start_time": 2444.516,
+      "end_time": 2445.475,
+      "duration": 0.9589999999998327,
+      "dialogue_text": "سأذهب أنا أيضاً"
+    },
+    {
+      "subtitle_index": 279,
+      "start_time": 2446.101,
+      "end_time": 2446.935,
+      "duration": 0.8339999999998327,
+      "dialogue_text": "انتباه"
+    },
+    {
+      "subtitle_index": 280,
+      "start_time": 2447.644,
+      "end_time": 2451.398,
+      "duration": 3.75400000000036,
+      "dialogue_text": "ماي\" تؤمن بوجودك , من الآن وصاعداً\" سيكون من دواع سرورنا مقابلتك"
+    },
+    {
+      "subtitle_index": 281,
+      "start_time": 2451.815,
+      "end_time": 2453.275,
+      "duration": 1.4600000000000364,
+      "dialogue_text": "سررنا بمقابلتك"
+    },
+    {
+      "subtitle_index": 282,
+      "start_time": 2455.11,
+      "end_time": 2456.778,
+      "duration": 1.6679999999996653,
+      "dialogue_text": "لنتسابق إلى البيت"
+    },
+    {
+      "subtitle_index": 283,
+      "start_time": 2457.32,
+      "end_time": 2460.24,
+      "duration": 2.919999999999618,
+      "dialogue_text": "مهلاً, هذا ليس عدلاً"
+    },
+    {
+      "subtitle_index": 284,
+      "start_time": 2461.032,
+      "end_time": 2461.658,
+      "duration": 0.625999999999749,
+      "dialogue_text": "انتظراني"
+    },
+    {
+      "subtitle_index": 285,
+      "start_time": 2463.41,
+      "end_time": 2464.035,
+      "duration": 0.625,
+      "dialogue_text": "اسرعي"
+    },
+    {
+      "subtitle_index": 286,
+      "start_time": 2464.911,
+      "end_time": 2466.163,
+      "duration": 1.2519999999999527,
+      "dialogue_text": "انتظراني"
+    },
+    {
+      "subtitle_index": 287,
+      "start_time": 2468.707,
+      "end_time": 2471.738,
+      "duration": 3.030999999999949,
+      "dialogue_text": "حدثت اليوم أمور غريبة"
+    },
+    {
+      "subtitle_index": 288,
+      "start_time": 2472.535,
+      "end_time": 2475.126,
+      "duration": 2.5910000000003492,
+      "dialogue_text": "\" قابلت \" ماي \" شبح \" توتوتورو"
+    },
+    {
+      "subtitle_index": 289,
+      "start_time": 2480.637,
+      "end_time": 2484.815,
+      "duration": 4.177999999999884,
+      "dialogue_text": "آمل أن أقابله أنا أيضاً"
+    },
+    {
+      "subtitle_index": 290,
+      "start_time": 2515.292,
+      "end_time": 2518.134,
+      "duration": 2.8420000000000982,
+      "dialogue_text": "\"كانتا\" أسرع , سوف تتأخر"
+    },
+    {
+      "subtitle_index": 291,
+      "start_time": 2518.526,
+      "end_time": 2519.398,
+      "duration": 0.8720000000002983,
+      "dialogue_text": "نعم"
+    },
+    {
+      "subtitle_index": 292,
+      "start_time": 2562.446,
+      "end_time": 2563.15,
+      "duration": 0.7040000000001783,
+      "dialogue_text": "\"ماي\""
+    },
+    {
+      "subtitle_index": 293,
+      "start_time": 2563.926,
+      "end_time": 2566.085,
+      "duration": 2.1590000000001055,
+      "dialogue_text": "أيتها المعلمة - نعم \"ساتسوكي\"؟-"
+    },
+    {
+      "subtitle_index": 294,
+      "start_time": 2567.309,
+      "end_time": 2568.813,
+      "duration": 1.5039999999999054,
+      "dialogue_text": "أختي الصغرى"
+    },
+    {
+      "subtitle_index": 295,
+      "start_time": 2576.048,
+      "end_time": 2577.452,
+      "duration": 1.404000000000451,
+      "dialogue_text": "\"أيتها الجدة.....\"ماي"
+    },
+    {
+      "subtitle_index": 296,
+      "start_time": 2578.115,
+      "end_time": 2582.639,
+      "duration": 4.524000000000342,
+      "dialogue_text": "أنا آسفة \"لكنها أرادت أن تذهب إلى\" حيث اختي الكبرى ذهبت"
+    },
+    {
+      "subtitle_index": 297,
+      "start_time": 2583.134,
+      "end_time": 2587.755,
+      "duration": 4.621000000000095,
+      "dialogue_text": "\"لكن ...\"ماي بما أن اليوم هو اليوم الذي يذهب أبونا فيه إلى الجامعة"
+    },
+    {
+      "subtitle_index": 298,
+      "start_time": 2588.514,
+      "end_time": 2590.637,
+      "duration": 2.1230000000000473,
+      "dialogue_text": "ألم تعديني أن تنتظريني كبنتٍ عاقلة؟"
+    },
+    {
+      "subtitle_index": 299,
+      "start_time": 2593.643,
+      "end_time": 2597.449,
+      "duration": 3.80600000000004,
+      "dialogue_text": "وما زال أمامي ساعتين على انتهاء الدوام والجدة مشغولة"
+    },
+    {
+      "subtitle_index": 300,
+      "start_time": 2598.249,
+      "end_time": 2602.443,
+      "duration": 4.194000000000415,
+      "dialogue_text": "كانت بنتً عاقلة طوال الوقت , أليس كذلك؟"
+    },
+    {
+      "subtitle_index": 301,
+      "start_time": 2610.211,
+      "end_time": 2612.844,
+      "duration": 2.6330000000002656,
+      "dialogue_text": "يا جدّة سأتحدث إلى المعلمة"
+    },
+    {
+      "subtitle_index": 302,
+      "start_time": 2619.025,
+      "end_time": 2624.247,
+      "duration": 5.221999999999753,
+      "dialogue_text": "شقيقة \"ساتسوكي\" قلقة لأن والدتها في المستشفى"
+    },
+    {
+      "subtitle_index": 303,
+      "start_time": 2624.717,
+      "end_time": 2625.87,
+      "duration": 1.1529999999997926,
+      "dialogue_text": "كونوا أصدقاء لها , موافقون؟"
+    },
+    {
+      "subtitle_index": 304,
+      "start_time": 2626.302,
+      "end_time": 2627.094,
+      "duration": 0.7919999999999163,
+      "dialogue_text": "موافقون"
+    },
+    {
+      "subtitle_index": 305,
+      "start_time": 2633.623,
+      "end_time": 2635.767,
+      "duration": 2.143999999999778,
+      "dialogue_text": "ما هذا؟ - \"هذا \"توتورو -"
+    },
+    {
+      "subtitle_index": 306,
+      "start_time": 2637.76,
+      "end_time": 2639.313,
+      "duration": 1.5529999999998836,
+      "dialogue_text": "إلزمي الصمت عليكِ أن تحسني التصرف"
+    },
+    {
+      "subtitle_index": 307,
+      "start_time": 2639.706,
+      "end_time": 2640.386,
+      "duration": 0.6799999999998363,
+      "dialogue_text": "نعم"
+    },
+    {
+      "subtitle_index": 308,
+      "start_time": 2650.973,
+      "end_time": 2653.3,
+      "duration": 2.3270000000002256,
+      "dialogue_text": "مع السلامة , أراك فيما بعد - تعالي إلى النادي-"
+    },
+    {
+      "subtitle_index": 309,
+      "start_time": 2654.149,
+      "end_time": 2655.989,
+      "duration": 1.8400000000001455,
+      "dialogue_text": "بالتأكيد , سأخبر المعلمة بذلك"
+    },
+    {
+      "subtitle_index": 310,
+      "start_time": 2656.571,
+      "end_time": 2658.699,
+      "duration": 2.1280000000001564,
+      "dialogue_text": "أراكم لاحقاً - مع السلامة -"
+    },
+    {
+      "subtitle_index": 311,
+      "start_time": 2660.916,
+      "end_time": 2662.612,
+      "duration": 1.6959999999999127,
+      "dialogue_text": "أسرعي \"ماي\" سوف تمطر - حسناً -"
+    },
+    {
+      "subtitle_index": 312,
+      "start_time": 2672.013,
+      "end_time": 2672.916,
+      "duration": 0.9030000000002474,
+      "dialogue_text": "إنها تهطل بغزارة"
+    },
+    {
+      "subtitle_index": 313,
+      "start_time": 2690.308,
+      "end_time": 2692.589,
+      "duration": 2.280999999999949,
+      "dialogue_text": "أنا لاأبكي ,أليس هذا عظيماً؟ - بلا -"
+    },
+    {
+      "subtitle_index": 314,
+      "start_time": 2695.203,
+      "end_time": 2697.158,
+      "duration": 1.9549999999999272,
+      "dialogue_text": "نحن في ورطة"
+    },
+    {
+      "subtitle_index": 315,
+      "start_time": 2699.932,
+      "end_time": 2703.555,
+      "duration": 3.6230000000000473,
+      "dialogue_text": "أيها الحارس الأمين أرجوك دعنا نحتمي من المطر لفترة قصيرة هنا"
+    },
+    {
+      "subtitle_index": 316,
+      "start_time": 2746.881,
+      "end_time": 2747.556,
+      "duration": 0.6750000000001819,
+      "dialogue_text": ".....لكن"
+    },
+    {
+      "subtitle_index": 317,
+      "start_time": 2768.382,
+      "end_time": 2770.765,
+      "duration": 2.382999999999811,
+      "dialogue_text": "كان هذا لطفاً منه, أليس كذلك؟ - أجل -"
+    },
+    {
+      "subtitle_index": 318,
+      "start_time": 2771.764,
+      "end_time": 2775.224,
+      "duration": 3.4600000000000364,
+      "dialogue_text": "هناك فتحة بالمظلة- أجل -"
+    },
+    {
+      "subtitle_index": 319,
+      "start_time": 2785.623,
+      "end_time": 2789.666,
+      "duration": 4.04300000000012,
+      "dialogue_text": "لم يأخذ أبي مظلته أليس كذلك؟- أريد مقابلته أيضاً -"
+    },
+    {
+      "subtitle_index": 320,
+      "start_time": 2793.115,
+      "end_time": 2795.101,
+      "duration": 1.986000000000331,
+      "dialogue_text": "! هكذا أضعتها"
+    },
+    {
+      "subtitle_index": 321,
+      "start_time": 2795.55,
+      "end_time": 2798.437,
+      "duration": 2.8869999999997162,
+      "dialogue_text": "وحده الأحمق الذي ينسى مظلته عندما تمطر"
+    },
+    {
+      "subtitle_index": 322,
+      "start_time": 2800.621,
+      "end_time": 2802.789,
+      "duration": 2.16800000000012,
+      "dialogue_text": "على أية حال ربما كنت تلوح بها وكسرتها"
+    },
+    {
+      "subtitle_index": 323,
+      "start_time": 2803.222,
+      "end_time": 2804.125,
+      "duration": 0.9029999999997926,
+      "dialogue_text": "هذا ليس صحيحاً"
+    },
+    {
+      "subtitle_index": 324,
+      "start_time": 2817.477,
+      "end_time": 2818.381,
+      "duration": 0.9039999999999964,
+      "dialogue_text": "المعذرة"
+    },
+    {
+      "subtitle_index": 325,
+      "start_time": 2821.101,
+      "end_time": 2823.131,
+      "duration": 2.0299999999997453,
+      "dialogue_text": "ساتسوكي\" و \"ماي\" أيضاُ\""
+    },
+    {
+      "subtitle_index": 326,
+      "start_time": 2823.626,
+      "end_time": 2824.389,
+      "duration": 0.76299999999992,
+      "dialogue_text": "خالتي"
+    },
+    {
+      "subtitle_index": 327,
+      "start_time": 2826.254,
+      "end_time": 2829.462,
+      "duration": 3.2080000000000837,
+      "dialogue_text": "آسفة على حصل اليوم - المكان ميؤوس منه, أليس كذلك؟ -"
+    },
+    {
+      "subtitle_index": 328,
+      "start_time": 2830.238,
+      "end_time": 2832.743,
+      "duration": 2.505000000000109,
+      "dialogue_text": "كانتا \" أعارنا هذه المظلة \""
+    },
+    {
+      "subtitle_index": 329,
+      "start_time": 2833.39,
+      "end_time": 2837.214,
+      "duration": 3.824000000000069,
+      "dialogue_text": "ماذا؟ هو أعاركما إياها؟ ليست هذه المظلة البالية"
+    },
+    {
+      "subtitle_index": 330,
+      "start_time": 2837.661,
+      "end_time": 2841.584,
+      "duration": 3.9229999999997744,
+      "dialogue_text": "كانت نافعة للغاية لأن \"ماي\" كانت معي لكن \"كانتا\" تعرّض للمطر"
+    },
+    {
+      "subtitle_index": 331,
+      "start_time": 2842.153,
+      "end_time": 2843.281,
+      "duration": 1.1280000000001564,
+      "dialogue_text": "شكراً جزيلاً"
+    },
+    {
+      "subtitle_index": 332,
+      "start_time": 2843.936,
+      "end_time": 2848.288,
+      "duration": 4.351999999999862,
+      "dialogue_text": "حسناً عندما لا تكوني مغطاة بالوحل تبدين جميلة للغاية"
+    },
+    {
+      "subtitle_index": 333,
+      "start_time": 2849.127,
+      "end_time": 2851.016,
+      "duration": 1.8890000000001237,
+      "dialogue_text": "هل أنتما ذاهبتان لرؤية والدكما؟- نعم-"
+    },
+    {
+      "subtitle_index": 334,
+      "start_time": 2851.616,
+      "end_time": 2854.935,
+      "duration": 3.31899999999996,
+      "dialogue_text": "\"هذا رائع, مع السلامة \"ماي"
+    },
+    {
+      "subtitle_index": 335,
+      "start_time": 2855.503,
+      "end_time": 2856.063,
+      "duration": 0.5599999999999454,
+      "dialogue_text": "مع السلامة -"
+    },
+    {
+      "subtitle_index": 336,
+      "start_time": 2866.313,
+      "end_time": 2868.83,
+      "duration": 2.5169999999998254,
+      "dialogue_text": "من كان هذا؟ - لا أعرف -"
+    },
+    {
+      "subtitle_index": 337,
+      "start_time": 2873.432,
+      "end_time": 2874.718,
+      "duration": 1.2860000000000582,
+      "dialogue_text": "تماماً في الموعد"
+    },
+    {
+      "subtitle_index": 338,
+      "start_time": 2888.663,
+      "end_time": 2890.554,
+      "duration": 1.8910000000000764,
+      "dialogue_text": "هل ستستقلان الحافلة ؟"
+    },
+    {
+      "subtitle_index": 339,
+      "start_time": 2891.977,
+      "end_time": 2893.319,
+      "duration": 1.3420000000000982,
+      "dialogue_text": "نحن مغادرون"
+    },
+    {
+      "subtitle_index": 340,
+      "start_time": 2900.874,
+      "end_time": 2903.091,
+      "duration": 2.2170000000000982,
+      "dialogue_text": "لم يكن والدي في هذه الحافلة"
+    },
+    {
+      "subtitle_index": 341,
+      "start_time": 2903.126,
+      "end_time": 2909.253,
+      "duration": 6.126999999999953,
+      "dialogue_text": "أنا واثقة من انه سيكون في الحافلة التالية هل تريدين الإنتظار عند الجدة يا ماي؟"
+    },
+    {
+      "subtitle_index": 342,
+      "start_time": 2943.932,
+      "end_time": 2944.924,
+      "duration": 0.9920000000001892,
+      "dialogue_text": "ما الأمر؟"
+    },
+    {
+      "subtitle_index": 343,
+      "start_time": 2977.259,
+      "end_time": 2984.43,
+      "duration": 7.170999999999822,
+      "dialogue_text": "هل تشعرين بالنعاس؟ لقد قلت لك, هل ستذهبين الآن إلى منزل الجدة؟"
+    },
+    {
+      "subtitle_index": 344,
+      "start_time": 2987.03,
+      "end_time": 2988.892,
+      "duration": 1.8619999999996253,
+      "dialogue_text": "إذن أصمدي لبرهة"
+    },
+    {
+      "subtitle_index": 345,
+      "start_time": 2995.303,
+      "end_time": 2997.524,
+      "duration": 2.2210000000000036,
+      "dialogue_text": "لقد تأخرت الحافلة, أليس كذلك؟"
+    },
+    {
+      "subtitle_index": 346,
+      "start_time": 2997.559,
+      "end_time": 3007.699,
+      "duration": 10.139999999999873,
+      "dialogue_text": "اصعدي على ظهري"
+    },
+    {
+      "subtitle_index": 347,
+      "start_time": 3090.279,
+      "end_time": 3091.605,
+      "duration": 1.3260000000000218,
+      "dialogue_text": "\"توتورو\""
+    },
+    {
+      "subtitle_index": 348,
+      "start_time": 3101.398,
+      "end_time": 3102.471,
+      "duration": 1.0729999999998654,
+      "dialogue_text": "مهلاً"
+    },
+    {
+      "subtitle_index": 349,
+      "start_time": 3108.831,
+      "end_time": 3110.095,
+      "duration": 1.263999999999669,
+      "dialogue_text": "سأعيرها لك"
+    },
+    {
+      "subtitle_index": 350,
+      "start_time": 3111.559,
+      "end_time": 3114.503,
+      "duration": 2.94399999999996,
+      "dialogue_text": "بسرعة \"ماي\" تنزلق مني"
+    },
+    {
+      "subtitle_index": 351,
+      "start_time": 3120.053,
+      "end_time": 3121.63,
+      "duration": 1.5770000000002256,
+      "dialogue_text": "استعملها هكذا"
+    },
+    {
+      "subtitle_index": 352,
+      "start_time": 3198.462,
+      "end_time": 3199.742,
+      "duration": 1.2800000000002,
+      "dialogue_text": "ها هي الحافلة"
+    },
+    {
+      "subtitle_index": 353,
+      "start_time": 3267.422,
+      "end_time": 3270.68,
+      "duration": 3.257999999999811,
+      "dialogue_text": "لقد أخذ \"توتورو\" مظلة أبي"
+    },
+    {
+      "subtitle_index": 354,
+      "start_time": 3284.217,
+      "end_time": 3285.537,
+      "duration": 1.319999999999709,
+      "dialogue_text": "آسف لتأخري - سنغادر -"
+    },
+    {
+      "subtitle_index": 355,
+      "start_time": 3287.735,
+      "end_time": 3292.566,
+      "duration": 4.830999999999676,
+      "dialogue_text": "لقد تأخر القطار لهذا فاتتني الحافلة هل قلقتما؟"
+    },
+    {
+      "subtitle_index": 356,
+      "start_time": 3293.261,
+      "end_time": 3297.629,
+      "duration": 4.367999999999938,
+      "dialogue_text": "لقد جاء يا أبي , لقد جاء - هّر , حافلة هرّّ-"
+    },
+    {
+      "subtitle_index": 357,
+      "start_time": 3299.677,
+      "end_time": 3303.677,
+      "duration": 4.0,
+      "dialogue_text": "كان ضخماً للغاية وعينان كبيرتنان بهذا الحجم ! مفزع"
+    },
+    {
+      "subtitle_index": 358,
+      "start_time": 3306.285,
+      "end_time": 3310.854,
+      "duration": 4.56899999999996,
+      "dialogue_text": "\"لقد قابلته , قابلت \"توتورو"
+    },
+    {
+      "subtitle_index": 359,
+      "start_time": 3311.319,
+      "end_time": 3313.501,
+      "duration": 2.1820000000002437,
+      "dialogue_text": "كان ذلك رائعاً"
+    },
+    {
+      "subtitle_index": 360,
+      "start_time": 3333.63,
+      "end_time": 3336.869,
+      "duration": 3.2390000000000327,
+      "dialogue_text": "أمي, مازال قلبي يخفق بشدّة"
+    },
+    {
+      "subtitle_index": 361,
+      "start_time": 3337.558,
+      "end_time": 3340.886,
+      "duration": 3.3279999999999745,
+      "dialogue_text": "كان يوماً رائعاً وغريباً وممتعاً"
+    },
+    {
+      "subtitle_index": 362,
+      "start_time": 3341.59,
+      "end_time": 3344.663,
+      "duration": 3.0729999999998654,
+      "dialogue_text": "بالإضافة إلى ذلك, كانت الهدية التي أعطانا إياها \"توتورو\" رائعة"
+    },
+    {
+      "subtitle_index": 363,
+      "start_time": 3345.184,
+      "end_time": 3348.753,
+      "duration": 3.56899999999996,
+      "dialogue_text": "كانت ملفوفة بورق الخيزران ومربوطة بخيط"
+    },
+    {
+      "subtitle_index": 364,
+      "start_time": 3349.498,
+      "end_time": 3353.951,
+      "duration": 4.4529999999999745,
+      "dialogue_text": "بعد عودتنا إلى المنزل فتحنا الهديةونظرنا إليها كانت توجد بذور أشجار بداخلها"
+    },
+    {
+      "subtitle_index": 365,
+      "start_time": 3359.303,
+      "end_time": 3364.136,
+      "duration": 4.833000000000084,
+      "dialogue_text": "سيكون من الرائع وجود أشجار في حديقتنا لهذا زرعنا بذور الأشجار في الحديقة اليوم"
+    },
+    {
+      "subtitle_index": 366,
+      "start_time": 3364.648,
+      "end_time": 3366.888,
+      "duration": 2.2399999999997817,
+      "dialogue_text": "لكنها لم تبرعم على الإطلاق"
+    },
+    {
+      "subtitle_index": 367,
+      "start_time": 3367.528,
+      "end_time": 3371.472,
+      "duration": 3.9440000000004147,
+      "dialogue_text": "\"يوماً بعد يوم \"ماي \" تقول\"لم تظهر بعد لم تظهر بعد"
+    },
+    {
+      "subtitle_index": 368,
+      "start_time": 3373.199,
+      "end_time": 3378.903,
+      "duration": 5.7039999999997235,
+      "dialogue_text": "تبدو كأنها تحولت إلى سلطعون مستعد للقتال"
+    },
+    {
+      "subtitle_index": 369,
+      "start_time": 3382.275,
+      "end_time": 3388.042,
+      "duration": 5.766999999999825,
+      "dialogue_text": "قريباً ستبدأ العطلة الصيفية \"أرجو أن تتماثلي بالشفاء بسرعة يا أمي , \"ساتسوكي"
+    },
+    {
+      "subtitle_index": 370,
+      "start_time": 3397.547,
+      "end_time": 3399.321,
+      "duration": 1.7739999999998872,
+      "dialogue_text": "سأطفئ النور - مهلاً -"
+    },
+    {
+      "subtitle_index": 371,
+      "start_time": 3400.105,
+      "end_time": 3403.202,
+      "duration": 3.0970000000002074,
+      "dialogue_text": "هل ستنمو البذور غداً يا أبي؟"
+    },
+    {
+      "subtitle_index": 372,
+      "start_time": 3403.723,
+      "end_time": 3407.592,
+      "duration": 3.869000000000142,
+      "dialogue_text": "حسناً لا أدري لكني متأكد من أن \"توتورو\" سيظهر"
+    },
+    {
+      "subtitle_index": 373,
+      "start_time": 3408.104,
+      "end_time": 3409.055,
+      "duration": 0.9510000000000218,
+      "dialogue_text": "تصبحان على خير"
+    },
+    {
+      "subtitle_index": 374,
+      "start_time": 3456.534,
+      "end_time": 3457.582,
+      "duration": 1.0479999999997744,
+      "dialogue_text": "\"مي\""
+    },
+    {
+      "subtitle_index": 375,
+      "start_time": 3476.551,
+      "end_time": 3477.956,
+      "duration": 1.4050000000002,
+      "dialogue_text": "إنه حيث زرعنا بذور الأشجار"
+    },
+    {
+      "subtitle_index": 376,
+      "start_time": 3569.346,
+      "end_time": 3572.459,
+      "duration": 3.112999999999829,
+      "dialogue_text": "مرحى لقد نجحنا"
+    },
+    {
+      "subtitle_index": 377,
+      "start_time": 3648.681,
+      "end_time": 3651.176,
+      "duration": 2.494999999999891,
+      "dialogue_text": "\"ماي\" نحن نسابق الريح"
+    },
+    {
+      "subtitle_index": 378,
+      "start_time": 3712.629,
+      "end_time": 3713.541,
+      "duration": 0.9120000000002619,
+      "dialogue_text": "أين هي الشجرة؟"
+    },
+    {
+      "subtitle_index": 379,
+      "start_time": 3718.717,
+      "end_time": 3721.531,
+      "duration": 2.813999999999851,
+      "dialogue_text": "لقد نجحنا"
+    },
+    {
+      "subtitle_index": 380,
+      "start_time": 3723.789,
+      "end_time": 3730.725,
+      "duration": 6.935999999999694,
+      "dialogue_text": "كان كالحلم ولكنه لم يكن حلماً"
+    },
+    {
+      "subtitle_index": 381,
+      "start_time": 3731.149,
+      "end_time": 3731.765,
+      "duration": 0.6159999999999854,
+      "dialogue_text": "لقد نجحنا"
+    },
+    {
+      "subtitle_index": 382,
+      "start_time": 3748.522,
+      "end_time": 3756.307,
+      "duration": 7.7849999999998545,
+      "dialogue_text": "سيد \"كوسكابي\"؟ برقية لك"
+    },
+    {
+      "subtitle_index": 383,
+      "start_time": 3758.523,
+      "end_time": 3759.531,
+      "duration": 1.0079999999998108,
+      "dialogue_text": "لا أحد في البيت"
+    },
+    {
+      "subtitle_index": 384,
+      "start_time": 3766.724,
+      "end_time": 3768.445,
+      "duration": 1.7210000000000036,
+      "dialogue_text": "جدتي"
+    },
+    {
+      "subtitle_index": 385,
+      "start_time": 3773.373,
+      "end_time": 3778.282,
+      "duration": 4.9090000000001055,
+      "dialogue_text": "ها أنا هنا الذرة الناضجة هنا"
+    },
+    {
+      "subtitle_index": 386,
+      "start_time": 3787.772,
+      "end_time": 3789.47,
+      "duration": 1.6979999999998654,
+      "dialogue_text": "جدتي . هذه؟- هذه جيدة-"
+    },
+    {
+      "subtitle_index": 387,
+      "start_time": 3797.123,
+      "end_time": 3800.099,
+      "duration": 2.9760000000001128,
+      "dialogue_text": "حديقة جدتي مثل جبل من الكنز أليس كذلك؟"
+    },
+    {
+      "subtitle_index": 388,
+      "start_time": 3800.985,
+      "end_time": 3803.186,
+      "duration": 2.201000000000022,
+      "dialogue_text": "حسناً لنسترح"
+    },
+    {
+      "subtitle_index": 389,
+      "start_time": 3809.532,
+      "end_time": 3812.048,
+      "duration": 2.5159999999996217,
+      "dialogue_text": "إنها مغسولة جيداً الآن"
+    },
+    {
+      "subtitle_index": 390,
+      "start_time": 3812.765,
+      "end_time": 3814.054,
+      "duration": 1.2890000000002146,
+      "dialogue_text": "شكراً جزيلاً"
+    },
+    {
+      "subtitle_index": 391,
+      "start_time": 3823.334,
+      "end_time": 3830.885,
+      "duration": 7.551000000000386,
+      "dialogue_text": "لذيذة- أن المحصول جيد لأنه كان هناك الكثير من البعزوقات-"
+    },
+    {
+      "subtitle_index": 392,
+      "start_time": 3831.517,
+      "end_time": 3833.188,
+      "duration": 1.6710000000002765,
+      "dialogue_text": "هل هي جيدة لمرض أمي أيضاً؟"
+    },
+    {
+      "subtitle_index": 393,
+      "start_time": 3833.766,
+      "end_time": 3838.293,
+      "duration": 4.527000000000044,
+      "dialogue_text": "بالطبع , إذا أكلت من مزرعة الجدة ستتعافين بسرعة"
+    },
+    {
+      "subtitle_index": 394,
+      "start_time": 3839.045,
+      "end_time": 3841.086,
+      "duration": 2.0409999999997126,
+      "dialogue_text": "ستعود أمي للبيت يوم الأحد"
+    },
+    {
+      "subtitle_index": 395,
+      "start_time": 3841.517,
+      "end_time": 3843.493,
+      "duration": 1.9760000000001128,
+      "dialogue_text": "ستنام معي في سريري"
+    },
+    {
+      "subtitle_index": 396,
+      "start_time": 3844.669,
+      "end_time": 3847.115,
+      "duration": 2.4459999999999127,
+      "dialogue_text": "ستسرح من المستشفى أخيراً؟"
+    },
+    {
+      "subtitle_index": 397,
+      "start_time": 3848.066,
+      "end_time": 3853.005,
+      "duration": 4.939000000000306,
+      "dialogue_text": "لا ليس تسريحا تاماً بعد ستعود إلى المستشفى يوم الإثنين لتتعود على ذلك بالتدريج"
+    },
+    {
+      "subtitle_index": 398,
+      "start_time": 3854.068,
+      "end_time": 3857.995,
+      "duration": 3.92699999999968,
+      "dialogue_text": "هكذا إذاً حسناً لا بد أن نجعلها أن تأكل بعضاً من المحصول"
+    },
+    {
+      "subtitle_index": 399,
+      "start_time": 3858.518,
+      "end_time": 3864.003,
+      "duration": 5.485000000000127,
+      "dialogue_text": "سأعطي هذه الذرة التي اقتطفتها لأمي - أنا متأكدة أن أمك ستحبها -"
+    },
+    {
+      "subtitle_index": 400,
+      "start_time": 3864.498,
+      "end_time": 3865.073,
+      "duration": 0.5749999999998181,
+      "dialogue_text": "أجل"
+    },
+    {
+      "subtitle_index": 401,
+      "start_time": 3873.208,
+      "end_time": 3875.719,
+      "duration": 2.5109999999999673,
+      "dialogue_text": "جائتكم برقية ولم تكونوا بالمنزل لهذا جلبتها"
+    },
+    {
+      "subtitle_index": 402,
+      "start_time": 3876.103,
+      "end_time": 3876.807,
+      "duration": 0.7039999999997235,
+      "dialogue_text": "إلى بيتي؟"
+    },
+    {
+      "subtitle_index": 403,
+      "start_time": 3880.552,
+      "end_time": 3883.079,
+      "duration": 2.5270000000000437,
+      "dialogue_text": "جدتي لن يعود أبي قبل المساء"
+    },
+    {
+      "subtitle_index": 404,
+      "start_time": 3883.713,
+      "end_time": 3885.936,
+      "duration": 2.2229999999999563,
+      "dialogue_text": "افتحيها لا بد أنه أمر طارئ"
+    },
+    {
+      "subtitle_index": 405,
+      "start_time": 3889.931,
+      "end_time": 3893.84,
+      "duration": 3.9090000000001055,
+      "dialogue_text": "اتصل بنا مستشفى البلدة"
+    },
+    {
+      "subtitle_index": 406,
+      "start_time": 3894.425,
+      "end_time": 3896.673,
+      "duration": 2.2479999999995925,
+      "dialogue_text": "مستشفى البلدة إنها المستشفى حيث ترقد فيها أمي"
+    },
+    {
+      "subtitle_index": 407,
+      "start_time": 3897.288,
+      "end_time": 3899.058,
+      "duration": 1.7699999999999818,
+      "dialogue_text": "حصل أمر ما لأمي"
+    },
+    {
+      "subtitle_index": 408,
+      "start_time": 3901.344,
+      "end_time": 3903.735,
+      "duration": 2.3910000000000764,
+      "dialogue_text": "جدتي ماذا علينا أن نفعل ؟ يريدون الإتصال بالمستشفى"
+    },
+    {
+      "subtitle_index": 409,
+      "start_time": 3904.24,
+      "end_time": 3907.148,
+      "duration": 2.9080000000003565,
+      "dialogue_text": "! هدئي من روعك ألا تعرفين أين هو والدك؟"
+    },
+    {
+      "subtitle_index": 410,
+      "start_time": 3907.564,
+      "end_time": 3911.108,
+      "duration": 3.544000000000324,
+      "dialogue_text": "أعرف رقم هاتف المكتب لكن ليس لدينا هاتف"
+    },
+    {
+      "subtitle_index": 411,
+      "start_time": 3911.564,
+      "end_time": 3914.65,
+      "duration": 3.08600000000024,
+      "dialogue_text": "\"كانتا\" خذها للمنزل الرئيسي وأعرها الهاتف"
+    },
+    {
+      "subtitle_index": 412,
+      "start_time": 3915.494,
+      "end_time": 3916.029,
+      "duration": 0.5349999999998545,
+      "dialogue_text": "حسناً"
+    },
+    {
+      "subtitle_index": 413,
+      "start_time": 3921.037,
+      "end_time": 3922.814,
+      "duration": 1.7770000000000437,
+      "dialogue_text": "\"ماي\" عليك البقاء هنا"
+    },
+    {
+      "subtitle_index": 414,
+      "start_time": 3932.406,
+      "end_time": 3934.382,
+      "duration": 1.9760000000001128,
+      "dialogue_text": "\"ماي\" أبقي مع الجدة"
+    },
+    {
+      "subtitle_index": 415,
+      "start_time": 3972.185,
+      "end_time": 3974.213,
+      "duration": 2.0280000000002474,
+      "dialogue_text": "مرحباً مكالمة بعيدة المدى من فضلك"
+    },
+    {
+      "subtitle_index": 416,
+      "start_time": 3975.654,
+      "end_time": 3979.941,
+      "duration": 4.286999999999807,
+      "dialogue_text": "الرقم 1382 مكتب 31 في طوكيو أجل"
+    },
+    {
+      "subtitle_index": 417,
+      "start_time": 3981.829,
+      "end_time": 3984.533,
+      "duration": 2.7039999999997235,
+      "dialogue_text": "أليست فتاة لطيفة يا \" كانتا\"؟"
+    },
+    {
+      "subtitle_index": 418,
+      "start_time": 3987.317,
+      "end_time": 3989.173,
+      "duration": 1.8559999999997672,
+      "dialogue_text": "مرحباً....أجل"
+    },
+    {
+      "subtitle_index": 419,
+      "start_time": 3990.926,
+      "end_time": 3993.298,
+      "duration": 2.3719999999998436,
+      "dialogue_text": "مرحباً هل هذا معمل الآثار؟"
+    },
+    {
+      "subtitle_index": 420,
+      "start_time": 3993.721,
+      "end_time": 3996.522,
+      "duration": 2.800999999999931,
+      "dialogue_text": "هلّا ناديت أبي ؟ أقصد السيد كوساكابي؟"
+    },
+    {
+      "subtitle_index": 421,
+      "start_time": 3997.138,
+      "end_time": 3998.457,
+      "duration": 1.31899999999996,
+      "dialogue_text": "نعم أنا ساتسوكي كوساكابي ....نعم"
+    },
+    {
+      "subtitle_index": 422,
+      "start_time": 4002.546,
+      "end_time": 4004.434,
+      "duration": 1.8880000000003747,
+      "dialogue_text": "أبي \"هذا أنا \"ساتسوكي"
+    },
+    {
+      "subtitle_index": 423,
+      "start_time": 4004.97,
+      "end_time": 4005.938,
+      "duration": 0.968000000000302,
+      "dialogue_text": "ماالأمر؟"
+    },
+    {
+      "subtitle_index": 424,
+      "start_time": 4008.954,
+      "end_time": 4010.428,
+      "duration": 1.4739999999997053,
+      "dialogue_text": "من المستشفى؟"
+    },
+    {
+      "subtitle_index": 425,
+      "start_time": 4010.906,
+      "end_time": 4013.564,
+      "duration": 2.6579999999999018,
+      "dialogue_text": "حسناً سأحاول الإتصال بالمستشفى"
+    },
+    {
+      "subtitle_index": 426,
+      "start_time": 4014.046,
+      "end_time": 4016.47,
+      "duration": 2.423999999999978,
+      "dialogue_text": "حل حصل شيء لأمي؟ أبي ماذا علي أن أفعل؟"
+    },
+    {
+      "subtitle_index": 427,
+      "start_time": 4016.925,
+      "end_time": 4020.803,
+      "duration": 3.8779999999997017,
+      "dialogue_text": "لا بأس سأتصل بالمستشفى وأرى ماذا في الأمر"
+    },
+    {
+      "subtitle_index": 428,
+      "start_time": 4021.411,
+      "end_time": 4022.747,
+      "duration": 1.3359999999997854,
+      "dialogue_text": "انتظري فحسب"
+    },
+    {
+      "subtitle_index": 429,
+      "start_time": 4024.55,
+      "end_time": 4026.166,
+      "duration": 1.6159999999999854,
+      "dialogue_text": "حسناً علي أن أقفل الخط الآن"
+    },
+    {
+      "subtitle_index": 430,
+      "start_time": 4028.422,
+      "end_time": 4032.27,
+      "duration": 3.8479999999999563,
+      "dialogue_text": "جدتي أرجوك دعيني أنتظر هنا , سيتصل والدي"
+    },
+    {
+      "subtitle_index": 431,
+      "start_time": 4033.071,
+      "end_time": 4035.351,
+      "duration": 2.2800000000002,
+      "dialogue_text": "خذي راحتك"
+    },
+    {
+      "subtitle_index": 432,
+      "start_time": 4042.521,
+      "end_time": 4043.794,
+      "duration": 1.2729999999996835,
+      "dialogue_text": "أختي"
+    },
+    {
+      "subtitle_index": 433,
+      "start_time": 4053.226,
+      "end_time": 4056.122,
+      "duration": 2.895999999999731,
+      "dialogue_text": "!! كلا هذه الذرة لأمي"
+    },
+    {
+      "subtitle_index": 434,
+      "start_time": 4057.904,
+      "end_time": 4060.387,
+      "duration": 2.4830000000001746,
+      "dialogue_text": "!!كلا سأعطيها لأمي"
+    },
+    {
+      "subtitle_index": 435,
+      "start_time": 4077.269,
+      "end_time": 4083.141,
+      "duration": 5.872000000000298,
+      "dialogue_text": "\"ماي\" يقولون أن أمي ليست بخير وسيؤجلون عودتها للمنزل"
+    },
+    {
+      "subtitle_index": 436,
+      "start_time": 4083.693,
+      "end_time": 4084.684,
+      "duration": 0.9909999999999854,
+      "dialogue_text": "لا"
+    },
+    {
+      "subtitle_index": 437,
+      "start_time": 4086.286,
+      "end_time": 4089.813,
+      "duration": 3.5270000000000437,
+      "dialogue_text": "ما بالأمر حيلة حالة أمي تزداد سوءاً وهذه مشكلة"
+    },
+    {
+      "subtitle_index": 438,
+      "start_time": 4090.307,
+      "end_time": 4090.988,
+      "duration": 0.68100000000004,
+      "dialogue_text": "لا"
+    },
+    {
+      "subtitle_index": 439,
+      "start_time": 4092.934,
+      "end_time": 4095.259,
+      "duration": 2.324999999999818,
+      "dialogue_text": "\"ماي\" ستؤجل أمي عودتها فقط لبعض الوقت"
+    },
+    {
+      "subtitle_index": 440,
+      "start_time": 4095.85,
+      "end_time": 4096.474,
+      "duration": 0.624000000000251,
+      "dialogue_text": "لا"
+    },
+    {
+      "subtitle_index": 441,
+      "start_time": 4098.205,
+      "end_time": 4100.314,
+      "duration": 2.1090000000003783,
+      "dialogue_text": "أذن أفترض أنه من الأفضل لو أنها تموت؟"
+    },
+    {
+      "subtitle_index": 442,
+      "start_time": 4100.754,
+      "end_time": 4102.23,
+      "duration": 1.475999999999658,
+      "dialogue_text": "لا"
+    },
+    {
+      "subtitle_index": 443,
+      "start_time": 4102.925,
+      "end_time": 4103.749,
+      "duration": 0.8239999999996144,
+      "dialogue_text": "غبية"
+    },
+    {
+      "subtitle_index": 444,
+      "start_time": 4104.51,
+      "end_time": 4106.205,
+      "duration": 1.694999999999709,
+      "dialogue_text": "لا أريد أن أراكِ ثانية ً"
+    },
+    {
+      "subtitle_index": 445,
+      "start_time": 4116.363,
+      "end_time": 4117.259,
+      "duration": 0.8959999999997308,
+      "dialogue_text": "لنذهب"
+    },
+    {
+      "subtitle_index": 446,
+      "start_time": 4121.205,
+      "end_time": 4124.252,
+      "duration": 3.04700000000048,
+      "dialogue_text": "أختي الغبية"
+    },
+    {
+      "subtitle_index": 447,
+      "start_time": 4151.142,
+      "end_time": 4154.373,
+      "duration": 3.230999999999767,
+      "dialogue_text": ".......إذا لم أجمع الغسيل بسرعة"
+    },
+    {
+      "subtitle_index": 448,
+      "start_time": 4155.603,
+      "end_time": 4162.243,
+      "duration": 6.640000000000327,
+      "dialogue_text": "لا تكوني حزينة , ابتهجي الجدة هنا لمساعدتك"
+    },
+    {
+      "subtitle_index": 449,
+      "start_time": 4166.987,
+      "end_time": 4173.606,
+      "duration": 6.618999999999687,
+      "dialogue_text": "تحدث والدك إلى المستشفى وقالو أن أمك قد أصابها البرد"
+    },
+    {
+      "subtitle_index": 450,
+      "start_time": 4174.454,
+      "end_time": 4177.118,
+      "duration": 2.6640000000006694,
+      "dialogue_text": "وستعود الأحد القادم"
+    },
+    {
+      "subtitle_index": 451,
+      "start_time": 4182.358,
+      "end_time": 4186.373,
+      "duration": 4.014999999999418,
+      "dialogue_text": "هكذا كان الحال من قبل قائلين أنها ستبقى بالمستشفى لمدة قصيرة"
+    },
+    {
+      "subtitle_index": 452,
+      "start_time": 4187.259,
+      "end_time": 4192.292,
+      "duration": 5.0330000000003565,
+      "dialogue_text": "قالوا أنها مصابة بالبرد ماذا سأفعل لو أن أمي ماتت؟"
+    },
+    {
+      "subtitle_index": 453,
+      "start_time": 4193.532,
+      "end_time": 4194.363,
+      "duration": 0.831000000000131,
+      "dialogue_text": "......ساتسوكي"
+    },
+    {
+      "subtitle_index": 454,
+      "start_time": 4194.964,
+      "end_time": 4196.516,
+      "duration": 1.5519999999996799,
+      "dialogue_text": ".......لو أن أمي"
+    },
+    {
+      "subtitle_index": 455,
+      "start_time": 4200.765,
+      "end_time": 4203.691,
+      "duration": 2.925999999999476,
+      "dialogue_text": "لا بأس لا بأس"
+    },
+    {
+      "subtitle_index": 456,
+      "start_time": 4204.141,
+      "end_time": 4212.3,
+      "duration": 8.15900000000056,
+      "dialogue_text": "من يموت ويترك طفلتنان رائعتان مثلكما لا تبكي لا تبكي"
+    },
+    {
+      "subtitle_index": 457,
+      "start_time": 4212.94,
+      "end_time": 4217.683,
+      "duration": 4.743000000000393,
+      "dialogue_text": "سأبقى معكما إلى أن يأتي والدكما اتفقنا؟"
+    },
+    {
+      "subtitle_index": 458,
+      "start_time": 4259.17,
+      "end_time": 4261.283,
+      "duration": 2.1130000000002838,
+      "dialogue_text": "\"ماي\""
+    },
+    {
+      "subtitle_index": 459,
+      "start_time": 4266.329,
+      "end_time": 4267.882,
+      "duration": 1.5529999999998836,
+      "dialogue_text": "\"مي\""
+    },
+    {
+      "subtitle_index": 460,
+      "start_time": 4276.117,
+      "end_time": 4277.054,
+      "duration": 0.9369999999998981,
+      "dialogue_text": "ألم ترجع \"ماي\"؟"
+    },
+    {
+      "subtitle_index": 461,
+      "start_time": 4277.557,
+      "end_time": 4280.046,
+      "duration": 2.4890000000004875,
+      "dialogue_text": "ألم تكن في محطة الحافلة؟ - لا -"
+    },
+    {
+      "subtitle_index": 462,
+      "start_time": 4281.359,
+      "end_time": 4284.913,
+      "duration": 3.553999999999178,
+      "dialogue_text": "هذا غريب أين ذهبت يا ترى؟"
+    },
+    {
+      "subtitle_index": 463,
+      "start_time": 4285.609,
+      "end_time": 4287.762,
+      "duration": 2.152999999999338,
+      "dialogue_text": "تخاصمت معها فبل فترة ...لكن"
+    },
+    {
+      "subtitle_index": 464,
+      "start_time": 4288.24,
+      "end_time": 4291.431,
+      "duration": 3.1909999999998035,
+      "dialogue_text": "هذه هي ربما ذهبت إلى المستشفى حيث أمي"
+    },
+    {
+      "subtitle_index": 465,
+      "start_time": 4292.336,
+      "end_time": 4297.859,
+      "duration": 5.523000000000138,
+      "dialogue_text": "مستشفى البلدة ؟ أنها تبعد مسافة يقطعها البالغ ثلاث ساعات من هنا"
+    },
+    {
+      "subtitle_index": 466,
+      "start_time": 4298.428,
+      "end_time": 4299.235,
+      "duration": 0.806999999999789,
+      "dialogue_text": "سأبحث عنها"
+    },
+    {
+      "subtitle_index": 467,
+      "start_time": 4300.692,
+      "end_time": 4307.141,
+      "duration": 6.448999999999614,
+      "dialogue_text": "\"كانتا\" أسرع, ناد والدك , \"ماي \"ضاعت"
+    },
+    {
+      "subtitle_index": 468,
+      "start_time": 4316.286,
+      "end_time": 4318.63,
+      "duration": 2.344000000000051,
+      "dialogue_text": "\"ماي \" أيتها الغبية , تضيعين الآن"
+    },
+    {
+      "subtitle_index": 469,
+      "start_time": 4335.875,
+      "end_time": 4337.563,
+      "duration": 1.6880000000001019,
+      "dialogue_text": "المعذرة يا سيدي"
+    },
+    {
+      "subtitle_index": 470,
+      "start_time": 4339.707,
+      "end_time": 4343.776,
+      "duration": 4.068999999999505,
+      "dialogue_text": "هل مرت طفلة صغيرة من هذا الطريق؟ إنها أختي الصغيرة"
+    },
+    {
+      "subtitle_index": 471,
+      "start_time": 4344.384,
+      "end_time": 4349.102,
+      "duration": 4.717999999999847,
+      "dialogue_text": "حسناً طفلة صغيرة .... لا , لو مرّت من هنا لكنت لاحظتها"
+    },
+    {
+      "subtitle_index": 472,
+      "start_time": 4350.758,
+      "end_time": 4352.143,
+      "duration": 1.3850000000002183,
+      "dialogue_text": "لم تمر من هنا؟"
+    },
+    {
+      "subtitle_index": 473,
+      "start_time": 4371.763,
+      "end_time": 4374.911,
+      "duration": 3.1480000000001382,
+      "dialogue_text": "هل أنت واثقة من أنها مرّت من هنا؟ - لا أعرف -"
+    },
+    {
+      "subtitle_index": 474,
+      "start_time": 4407.554,
+      "end_time": 4408.843,
+      "duration": 1.28899999999976,
+      "dialogue_text": "! أرجوك, توقف"
+    },
+    {
+      "subtitle_index": 475,
+      "start_time": 4411.636,
+      "end_time": 4413.258,
+      "duration": 1.6219999999993888,
+      "dialogue_text": "حمقاء انتبهي"
+    },
+    {
+      "subtitle_index": 476,
+      "start_time": 4413.923,
+      "end_time": 4416.506,
+      "duration": 2.5830000000005384,
+      "dialogue_text": "أنني أبحث عن أختي الصغيرة , هل رأيت طفلة صغيرة؟"
+    },
+    {
+      "subtitle_index": 477,
+      "start_time": 4417.13,
+      "end_time": 4418.043,
+      "duration": 0.9129999999995562,
+      "dialogue_text": "طفلة صغيرة ؟"
+    },
+    {
+      "subtitle_index": 478,
+      "start_time": 4418.699,
+      "end_time": 4422.147,
+      "duration": 3.44800000000032,
+      "dialogue_text": "من المحتمل أنها كانت ذاهبة إلى مستشفى البلدة عمرها أربع سنوات"
+    },
+    {
+      "subtitle_index": 479,
+      "start_time": 4422.691,
+      "end_time": 4424.179,
+      "duration": 1.4880000000002838,
+      "dialogue_text": "\"ريوكو\" هل لاحظت أحداً؟"
+    },
+    {
+      "subtitle_index": 480,
+      "start_time": 4424.619,
+      "end_time": 4429.403,
+      "duration": 4.78400000000056,
+      "dialogue_text": "لا لقد أتينا من البلدة ولم نرى طفلة بهذه المواصفات"
+    },
+    {
+      "subtitle_index": 481,
+      "start_time": 4430.611,
+      "end_time": 4432.227,
+      "duration": 1.6159999999999854,
+      "dialogue_text": "فهمت شكراً"
+    },
+    {
+      "subtitle_index": 482,
+      "start_time": 4433.523,
+      "end_time": 4435.979,
+      "duration": 2.456000000000131,
+      "dialogue_text": "من أين أتيتي؟- بلدة ماتسوغو -"
+    },
+    {
+      "subtitle_index": 483,
+      "start_time": 4436.468,
+      "end_time": 4439.956,
+      "duration": 3.4880000000002838,
+      "dialogue_text": "ماتسوغو؟- ربما أرتكبت خطأً ما-"
+    },
+    {
+      "subtitle_index": 484,
+      "start_time": 4441.235,
+      "end_time": 4443.38,
+      "duration": 2.1450000000004366,
+      "dialogue_text": "حسناً ... مع السلامة"
+    },
+    {
+      "subtitle_index": 485,
+      "start_time": 4453.985,
+      "end_time": 4460.961,
+      "duration": 6.9760000000005675,
+      "dialogue_text": "\"ساتسوكي\" - كانتا\" هل وجدتها؟\" -"
+    },
+    {
+      "subtitle_index": 486,
+      "start_time": 4461.569,
+      "end_time": 4462.642,
+      "duration": 1.0729999999994106,
+      "dialogue_text": "لا- لا. إنها ليست هنا-"
+    },
+    {
+      "subtitle_index": 487,
+      "start_time": 4464.281,
+      "end_time": 4466.665,
+      "duration": 2.3840000000000146,
+      "dialogue_text": "أبي والآخرون يقومون بالبحث عنها الآن"
+    },
+    {
+      "subtitle_index": 488,
+      "start_time": 4467.097,
+      "end_time": 4469.449,
+      "duration": 2.3519999999998618,
+      "dialogue_text": "سأذهب إلى البلدة الآن من أجلك لكي تعودي إلى المنزل"
+    },
+    {
+      "subtitle_index": 489,
+      "start_time": 4470.053,
+      "end_time": 4473.674,
+      "duration": 3.6210000000000946,
+      "dialogue_text": "لو أن \"ماي\" كانت ذاهبة إلى المستشفى لابد من أنها قد ضلّت الطريق أنا متأكدة"
+    },
+    {
+      "subtitle_index": 490,
+      "start_time": 4474.362,
+      "end_time": 4477.257,
+      "duration": 2.894999999999527,
+      "dialogue_text": "وجدوا صندلاً في البحيرة منذ برهة"
+    },
+    {
+      "subtitle_index": 491,
+      "start_time": 4484.359,
+      "end_time": 4487.483,
+      "duration": 3.1239999999997963,
+      "dialogue_text": "\"ليسوا متأكدين بعد من أنه ل \"ماي"
+    },
+    {
+      "subtitle_index": 492,
+      "start_time": 4504.377,
+      "end_time": 4505.69,
+      "duration": 1.3129999999991924,
+      "dialogue_text": "ألم تجديها ؟"
+    },
+    {
+      "subtitle_index": 493,
+      "start_time": 4537.418,
+      "end_time": 4541.859,
+      "duration": 4.441000000000713,
+      "dialogue_text": "أيها الرحيم اعد لنا ماي"
+    },
+    {
+      "subtitle_index": 494,
+      "start_time": 4542.507,
+      "end_time": 4544.755,
+      "duration": 2.248000000000502,
+      "dialogue_text": "جرّب هذا الجانب , الوحل فيه أعمق"
+    },
+    {
+      "subtitle_index": 495,
+      "start_time": 4545.339,
+      "end_time": 4547.162,
+      "duration": 1.8230000000003201,
+      "dialogue_text": "هل بحثتم في كل مكان؟"
+    },
+    {
+      "subtitle_index": 496,
+      "start_time": 4555.665,
+      "end_time": 4557.466,
+      "duration": 1.8010000000003856,
+      "dialogue_text": "جدتي عادت ساتسوكي"
+    },
+    {
+      "subtitle_index": 497,
+      "start_time": 4562.346,
+      "end_time": 4563.584,
+      "duration": 1.2380000000002838,
+      "dialogue_text": "جدتي"
+    },
+    {
+      "subtitle_index": 498,
+      "start_time": 4565.26,
+      "end_time": 4567.347,
+      "duration": 2.0869999999995343,
+      "dialogue_text": "هل هذا هو؟"
+    },
+    {
+      "subtitle_index": 499,
+      "start_time": 4576.309,
+      "end_time": 4577.923,
+      "duration": 1.613999999999578,
+      "dialogue_text": "\"إنه ليس ل \"ماي"
+    },
+    {
+      "subtitle_index": 500,
+      "start_time": 4588.401,
+      "end_time": 4593.742,
+      "duration": 5.341000000000349,
+      "dialogue_text": "جيد كنت متأكدة تماماً من أنه صندل ماي"
+    },
+    {
+      "subtitle_index": 501,
+      "start_time": 4594.319,
+      "end_time": 4595.723,
+      "duration": 1.4039999999995416,
+      "dialogue_text": "لقد قفزت الجدة في استنتاجاتها إذن"
+    },
+    {
+      "subtitle_index": 502,
+      "start_time": 4596.137,
+      "end_time": 4597.92,
+      "duration": 1.7830000000003565,
+      "dialogue_text": "اسمعوا كان هذا خطأّ"
+    },
+    {
+      "subtitle_index": 503,
+      "start_time": 4598.738,
+      "end_time": 4600.378,
+      "duration": 1.639999999999418,
+      "dialogue_text": "حسناً أين من المفترض أن ذهبت يا ترى؟"
+    },
+    {
+      "subtitle_index": 504,
+      "start_time": 4600.801,
+      "end_time": 4603.573,
+      "duration": 2.7719999999999345,
+      "dialogue_text": "سنبدأ البحث من جديد - سيحلّ الظلام إذا لم نسرع بالبحث -"
+    },
+    {
+      "subtitle_index": 505,
+      "start_time": 4604.058,
+      "end_time": 4605.931,
+      "duration": 1.8729999999995925,
+      "dialogue_text": "أعتذر لكم"
+    },
+    {
+      "subtitle_index": 506,
+      "start_time": 4606.37,
+      "end_time": 4608.529,
+      "duration": 2.1590000000005602,
+      "dialogue_text": "شكراً لمساعدتكم علينا أن ننقسم ألى مجموعات للبحث عنها"
+    },
+    {
+      "subtitle_index": 507,
+      "start_time": 4637.25,
+      "end_time": 4642.369,
+      "duration": 5.118999999999687,
+      "dialogue_text": "أرجوك دعني أرى توتورو . ماي ضائعة"
+    },
+    {
+      "subtitle_index": 508,
+      "start_time": 4642.866,
+      "end_time": 4646.424,
+      "duration": 3.5579999999999927,
+      "dialogue_text": "بالرغم من أن الظلام قد حلّ لا بدّ أنها هائمة في مكانٍِ ما"
+    },
+    {
+      "subtitle_index": 509,
+      "start_time": 4677.458,
+      "end_time": 4684.786,
+      "duration": 7.328000000000429,
+      "dialogue_text": "توتورو ماي ضائعة, بحثت عنها ولم أجدها"
+    },
+    {
+      "subtitle_index": 510,
+      "start_time": 4685.417,
+      "end_time": 4687.393,
+      "duration": 1.975999999999658,
+      "dialogue_text": "أرجوك أبحث عن ماي"
+    },
+    {
+      "subtitle_index": 511,
+      "start_time": 4688.009,
+      "end_time": 4694.458,
+      "duration": 6.448999999999614,
+      "dialogue_text": "أعرف أنها تبكي في مكانٍ ما ولا أعرف ماذا علي أن أفعل"
+    },
+    {
+      "subtitle_index": 512,
+      "start_time": 4752.679,
+      "end_time": 4754.444,
+      "duration": 1.7650000000003274,
+      "dialogue_text": "لا يمكن لأحدٍ رؤيته"
+    },
+    {
+      "subtitle_index": 513,
+      "start_time": 4807.51,
+      "end_time": 4808.344,
+      "duration": 0.8339999999998327,
+      "dialogue_text": "\"ماي\""
+    },
+    {
+      "subtitle_index": 514,
+      "start_time": 4838.197,
+      "end_time": 4839.923,
+      "duration": 1.725999999999658,
+      "dialogue_text": "الأشجار تتنحّى جانباً عن طريقنا"
+    },
+    {
+      "subtitle_index": 515,
+      "start_time": 4871.109,
+      "end_time": 4872.735,
+      "duration": 1.6259999999992942,
+      "dialogue_text": "\"ماي\""
+    },
+    {
+      "subtitle_index": 516,
+      "start_time": 4876.887,
+      "end_time": 4878.567,
+      "duration": 1.680000000000291,
+      "dialogue_text": "أختي"
+    },
+    {
+      "subtitle_index": 517,
+      "start_time": 4893.448,
+      "end_time": 4896.391,
+      "duration": 2.9429999999993015,
+      "dialogue_text": "ماي - أختي ؟-"
+    },
+    {
+      "subtitle_index": 518,
+      "start_time": 4898.869,
+      "end_time": 4902.215,
+      "duration": 3.3460000000004584,
+      "dialogue_text": "أنا آسفة"
+    },
+    {
+      "subtitle_index": 519,
+      "start_time": 4905.145,
+      "end_time": 4908.076,
+      "duration": 2.9309999999995853,
+      "dialogue_text": "هل كنت تأخذين الذرة لأمنا؟"
+    },
+    {
+      "subtitle_index": 520,
+      "start_time": 4916.178,
+      "end_time": 4919.708,
+      "duration": 3.5299999999997453,
+      "dialogue_text": "مستشفى البلدة"
+    },
+    {
+      "subtitle_index": 521,
+      "start_time": 4920.604,
+      "end_time": 4926.093,
+      "duration": 5.488999999999578,
+      "dialogue_text": "هل ستذهب إلى المستشفى؟ شكراً لك"
+    },
+    {
+      "subtitle_index": 522,
+      "start_time": 4935.683,
+      "end_time": 4940.388,
+      "duration": 4.704999999999927,
+      "dialogue_text": "أنا آسفة أرسلت المستشفى برقية بالرغم من أنه مجرد نزلة برد"
+    },
+    {
+      "subtitle_index": 523,
+      "start_time": 4940.947,
+      "end_time": 4944.753,
+      "duration": 3.8059999999995853,
+      "dialogue_text": "لا بد من أن الفتاتين قلقتين الآن مسكينتان"
+    },
+    {
+      "subtitle_index": 524,
+      "start_time": 4945.412,
+      "end_time": 4947.792,
+      "duration": 2.380000000000109,
+      "dialogue_text": "لا بأس ستتنفسا الصعداء عندماتعلمان بالأمر"
+    },
+    {
+      "subtitle_index": 525,
+      "start_time": 4948.535,
+      "end_time": 4950.91,
+      "duration": 2.375,
+      "dialogue_text": "حتى الآن بذلتن ثلاثتكن قصارى جهدكن"
+    },
+    {
+      "subtitle_index": 526,
+      "start_time": 4951.446,
+      "end_time": 4953.319,
+      "duration": 1.873000000000502,
+      "dialogue_text": "الأوقات السعيدة أجلت لوقت آخر فحسب"
+    },
+    {
+      "subtitle_index": 527,
+      "start_time": 4954.747,
+      "end_time": 4958.484,
+      "duration": 3.73700000000008,
+      "dialogue_text": "تحملت الفتاتان الكثير طوال هذا الوقت"
+    },
+    {
+      "subtitle_index": 528,
+      "start_time": 4959.011,
+      "end_time": 4961.519,
+      "duration": 2.507999999999811,
+      "dialogue_text": "خصوصاً ساتسوكي إنها تبذل ما بوسعها بعد ما حصل , يا للمسكينة"
+    },
+    {
+      "subtitle_index": 529,
+      "start_time": 4962.43,
+      "end_time": 4968.959,
+      "duration": 6.528999999999542,
+      "dialogue_text": "أجل- عندما أغادر المستشفى هذه المرة , أنوي أن أدلل هاتين الفتاتين -"
+    },
+    {
+      "subtitle_index": 530,
+      "start_time": 4969.695,
+      "end_time": 4970.079,
+      "duration": 0.38400000000001455,
+      "dialogue_text": "حقاً؟"
+    },
+    {
+      "subtitle_index": 531,
+      "start_time": 4977.022,
+      "end_time": 4981.092,
+      "duration": 4.069999999999709,
+      "dialogue_text": "أمي تضحك - يبدو أنها بخير -"
+    },
+    {
+      "subtitle_index": 532,
+      "start_time": 4989.23,
+      "end_time": 4991.447,
+      "duration": 2.217000000000553,
+      "dialogue_text": "حسناً علي أن أتحسن بسرعة"
+    },
+    {
+      "subtitle_index": 533,
+      "start_time": 4992.003,
+      "end_time": 4994.086,
+      "duration": 2.0830000000005384,
+      "dialogue_text": "نعم - ماذا؟-"
+    },
+    {
+      "subtitle_index": 534,
+      "start_time": 5001.19,
+      "end_time": 5002.653,
+      "duration": 1.4630000000006476,
+      "dialogue_text": "من بحق السماء؟"
+    },
+    {
+      "subtitle_index": 535,
+      "start_time": 5004.382,
+      "end_time": 5005.23,
+      "duration": 0.8479999999999563,
+      "dialogue_text": "ما الأمر؟"
+    },
+    {
+      "subtitle_index": 536,
+      "start_time": 5006.205,
+      "end_time": 5010.805,
+      "duration": 4.600000000000364,
+      "dialogue_text": "للتو ,خيّل إلي الآن أنني رأيت ساتسوكي و ماي تبتسمان على شجرة الصنوبر تلك"
+    },
+    {
+      "subtitle_index": 537,
+      "start_time": 5012.654,
+      "end_time": 5015.304,
+      "duration": 2.649999999999636,
+      "dialogue_text": "ربما كان كذلك رغم كل شيء , انظري"
+    },
+    {
+      "subtitle_index": 538,
+      "start_time": 5015.79,
+      "end_time": 5018.982,
+      "duration": 3.1920000000000073,
+      "dialogue_text": "\" إلى أمي \""
+    },
+    {
+      "subtitle_index": 539,
+      "start_time": 5020.805,
+      "end_time": 5027.013,
+      "duration": 6.207999999999629,
+      "dialogue_text": "توتورو تورتورو"
+    },
+    {
+      "subtitle_index": 540,
+      "start_time": 5036.128,
+      "end_time": 5042.591,
+      "duration": 6.463000000000648,
+      "dialogue_text": "شخصاً ما بالخفاء"
+    },
+    {
+      "subtitle_index": 541,
+      "start_time": 5043.157,
+      "end_time": 5049.113,
+      "duration": 5.956000000000131,
+      "dialogue_text": "يدفن البندق في الطربق"
+    },
+    {
+      "subtitle_index": 542,
+      "start_time": 5050.976,
+      "end_time": 5057.696,
+      "duration": 6.720000000000255,
+      "dialogue_text": "عندما تنمو الكرنبات الصغيرة"
+    },
+    {
+      "subtitle_index": 543,
+      "start_time": 5058.207,
+      "end_time": 5064.856,
+      "duration": 6.6489999999994325,
+      "dialogue_text": "ستجد كلمة السر لدخول الغابة"
+    },
+    {
+      "subtitle_index": 544,
+      "start_time": 5065.518,
+      "end_time": 5071.886,
+      "duration": 6.368000000000393,
+      "dialogue_text": "وتبدأ مغامرة مدهشة"
+    },
+    {
+      "subtitle_index": 545,
+      "start_time": 5072.382,
+      "end_time": 5075.83,
+      "duration": 3.44800000000032,
+      "dialogue_text": "جاري توتورو . توتورو"
+    },
+    {
+      "subtitle_index": 546,
+      "start_time": 5076.518,
+      "end_time": 5079.082,
+      "duration": 2.5640000000003056,
+      "dialogue_text": "توتورو توتورو"
+    },
+    {
+      "subtitle_index": 547,
+      "start_time": 5080.651,
+      "end_time": 5086.938,
+      "duration": 6.287000000000262,
+      "dialogue_text": "عاش في هذه الغابة منذ أقدم الأزمان"
+    },
+    {
+      "subtitle_index": 548,
+      "start_time": 5087.681,
+      "end_time": 5090.318,
+      "duration": 2.6370000000006257,
+      "dialogue_text": "جاري توتورو توتورو"
+    },
+    {
+      "subtitle_index": 549,
+      "start_time": 5091.393,
+      "end_time": 5094.717,
+      "duration": 3.3239999999996144,
+      "dialogue_text": "توتورو توتورو"
+    },
+    {
+      "subtitle_index": 550,
+      "start_time": 5095.455,
+      "end_time": 5102.684,
+      "duration": 7.229000000000269,
+      "dialogue_text": "بوسعه زيارتك فقط عندما تكون طفلاً"
+    },
+    {
+      "subtitle_index": 551,
+      "start_time": 5103.424,
+      "end_time": 5106.68,
+      "duration": 3.256000000000313,
+      "dialogue_text": "لقاءه عجيب"
+    },
+    {
+      "subtitle_index": 552,
+      "start_time": 5108.752,
+      "end_time": 5115.393,
+      "duration": 6.640999999999622,
+      "dialogue_text": "عندما تهطل الأمطار في محطة الحافلة"
+    },
+    {
+      "subtitle_index": 553,
+      "start_time": 5115.952,
+      "end_time": 5121.78,
+      "duration": 5.82799999999952,
+      "dialogue_text": "إذا شاهدت مخلوقاً غارقاً في المطر"
+    },
+    {
+      "subtitle_index": 554,
+      "start_time": 5123.572,
+      "end_time": 5133.614,
+      "duration": 10.041999999999462,
+      "dialogue_text": "افتح له مظلتك"
+    },
+    {
+      "subtitle_index": 555,
+      "start_time": 5134.095,
+      "end_time": 5137.478,
+      "duration": 3.382999999999811,
+      "dialogue_text": "مفتاح دخولك للغابة"
+    },
+    {
+      "subtitle_index": 556,
+      "start_time": 5138.179,
+      "end_time": 5144.396,
+      "duration": 6.2169999999996435,
+      "dialogue_text": "وسييفتح لك الباب السحري"
+    },
+    {
+      "subtitle_index": 557,
+      "start_time": 5144.973,
+      "end_time": 5149.964,
+      "duration": 4.9909999999999854,
+      "dialogue_text": "جاري توتورو . توتورو"
+    },
+    {
+      "subtitle_index": 558,
+      "start_time": 5150.686,
+      "end_time": 5152.061,
+      "duration": 1.375,
+      "dialogue_text": "توتورو توتورو"
+    },
+    {
+      "subtitle_index": 559,
+      "start_time": 5153.486,
+      "end_time": 5159.276,
+      "duration": 5.789999999999964,
+      "dialogue_text": "يعزف الناي في الليالي المقمرة"
+    },
+    {
+      "subtitle_index": 560,
+      "start_time": 5159.979,
+      "end_time": 5163.059,
+      "duration": 3.0799999999999272,
+      "dialogue_text": "جاري توتورو . توتورو"
+    },
+    {
+      "subtitle_index": 561,
+      "start_time": 5163.964,
+      "end_time": 5167.292,
+      "duration": 3.3280000000004293,
+      "dialogue_text": "توتورو توتورو"
+    },
+    {
+      "subtitle_index": 562,
+      "start_time": 5168.004,
+      "end_time": 5180.324,
+      "duration": 12.319999999999709,
+      "dialogue_text": "إذا صدف أن قابلته ستحصل على كنز ثمين"
+    },
+    {
+      "subtitle_index": 563,
+      "start_time": 5181.485,
+      "end_time": 5191.861,
+      "duration": 10.376000000000204,
+      "dialogue_text": "SolitaryWitchترجمة"
+    }
+  ]
+}

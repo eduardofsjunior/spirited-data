@@ -1,0 +1,117 @@
+{
+  "metadata": {
+    "film_name": "The Red Turtle",
+    "film_slug": "the_red_turtle_fr",
+    "language_code": "fr",
+    "total_subtitles": 15,
+    "total_duration": 4689.17,
+    "parse_timestamp": "2025-10-30T17:09:42.383497"
+  },
+  "subtitles": [
+    {
+      "subtitle_index": 1,
+      "start_time": 159.57,
+      "end_time": 164.57,
+      "duration": 5.0,
+      "dialogue_text": "LA TOURTUE ROUGE"
+    },
+    {
+      "subtitle_index": 2,
+      "start_time": 365.95,
+      "end_time": 368.45,
+      "duration": 2.5,
+      "dialogue_text": "Hé!"
+    },
+    {
+      "subtitle_index": 3,
+      "start_time": 1242.65,
+      "end_time": 1243.86,
+      "duration": 1.209999999999809,
+      "dialogue_text": "Hé."
+    },
+    {
+      "subtitle_index": 4,
+      "start_time": 1248.2,
+      "end_time": 1249.24,
+      "duration": 1.0399999999999636,
+      "dialogue_text": "Hé!"
+    },
+    {
+      "subtitle_index": 5,
+      "start_time": 1269.78,
+      "end_time": 1271.53,
+      "duration": 1.75,
+      "dialogue_text": "Hé!"
+    },
+    {
+      "subtitle_index": 6,
+      "start_time": 3123.49,
+      "end_time": 3124.99,
+      "duration": 1.5,
+      "dialogue_text": "Hé!"
+    },
+    {
+      "subtitle_index": 7,
+      "start_time": 3519.36,
+      "end_time": 3521.78,
+      "duration": 2.4200000000000728,
+      "dialogue_text": "Hé!"
+    },
+    {
+      "subtitle_index": 8,
+      "start_time": 3539.53,
+      "end_time": 3541.9,
+      "duration": 2.369999999999891,
+      "dialogue_text": "Hé!"
+    },
+    {
+      "subtitle_index": 9,
+      "start_time": 3548.65,
+      "end_time": 3549.82,
+      "duration": 1.1700000000000728,
+      "dialogue_text": "Hé."
+    },
+    {
+      "subtitle_index": 10,
+      "start_time": 3549.99,
+      "end_time": 3552.32,
+      "duration": 2.330000000000382,
+      "dialogue_text": "Hé!"
+    },
+    {
+      "subtitle_index": 11,
+      "start_time": 3602.61,
+      "end_time": 3605.2,
+      "duration": 2.5899999999996908,
+      "dialogue_text": "Salut."
+    },
+    {
+      "subtitle_index": 12,
+      "start_time": 3642.74,
+      "end_time": 3645.53,
+      "duration": 2.7900000000004184,
+      "dialogue_text": "Hé!"
+    },
+    {
+      "subtitle_index": 13,
+      "start_time": 3729.24,
+      "end_time": 3731.4,
+      "duration": 2.1600000000003092,
+      "dialogue_text": "Hé!"
+    },
+    {
+      "subtitle_index": 14,
+      "start_time": 3736.7,
+      "end_time": 3739.07,
+      "duration": 2.3700000000003456,
+      "dialogue_text": "Hé!"
+    },
+    {
+      "subtitle_index": 15,
+      "start_time": 4843.9,
+      "end_time": 4848.74,
+      "duration": 4.8400000000001455,
+      "dialogue_text": "Traduction: Kátia Dias Allegrini"
+    }
+  ]
+}

@@ -1,0 +1,6347 @@
+{
+  "metadata": {
+    "film_name": "Porco Rosso",
+    "film_slug": "porco_rosso_en",
+    "language_code": "en",
+    "total_subtitles": 905,
+    "total_duration": 5574.817999999999,
+    "parse_timestamp": "2025-10-30T17:09:42.360838"
+  },
+  "subtitles": [
+    {
+      "subtitle_index": 1,
+      "start_time": 7.716,
+      "end_time": 12.803,
+      "duration": 5.087000000000001,
+      "dialogue_text": "Tokuma Shoten, Japan Αirlines, Nippon Television Network and Studio Ghibli Present"
+    },
+    {
+      "subtitle_index": 2,
+      "start_time": 42.625,
+      "end_time": 49.506,
+      "duration": 6.881,
+      "dialogue_text": "PORCO ROSSO"
+    },
+    {
+      "subtitle_index": 3,
+      "start_time": 102.352,
+      "end_time": 103.31,
+      "duration": 0.9579999999999984,
+      "dialogue_text": "Υeah?"
+    },
+    {
+      "subtitle_index": 4,
+      "start_time": 103.436,
+      "end_time": 106.814,
+      "duration": 3.377999999999986,
+      "dialogue_text": "Porco Rosso! The Mamma Aiutos are on the move."
+    },
+    {
+      "subtitle_index": 5,
+      "start_time": 106.94,
+      "end_time": 110.692,
+      "duration": 3.7519999999999953,
+      "dialogue_text": "The Mamma Αiutos? I don't work cheap, you know."
+    },
+    {
+      "subtitle_index": 6,
+      "start_time": 111.361,
+      "end_time": 114.947,
+      "duration": 3.5859999999999985,
+      "dialogue_text": "They're after a mine's payroll out of Venice."
+    },
+    {
+      "subtitle_index": 7,
+      "start_time": 115.073,
+      "end_time": 116.156,
+      "duration": 1.0830000000000126,
+      "dialogue_text": "Is that all?"
+    },
+    {
+      "subtitle_index": 8,
+      "start_time": 116.783,
+      "end_time": 118.242,
+      "duration": 1.4590000000000032,
+      "dialogue_text": "Uh, no..."
+    },
+    {
+      "subtitle_index": 9,
+      "start_time": 118.701,
+      "end_time": 120.994,
+      "duration": 2.2930000000000064,
+      "dialogue_text": "There's a school tour group aboard."
+    },
+    {
+      "subtitle_index": 10,
+      "start_time": 122.122,
+      "end_time": 123.914,
+      "duration": 1.7920000000000016,
+      "dialogue_text": "That'll cost you."
+    },
+    {
+      "subtitle_index": 11,
+      "start_time": 124.082,
+      "end_time": 125.999,
+      "duration": 1.9170000000000016,
+      "dialogue_text": "We'll pay top dollar."
+    },
+    {
+      "subtitle_index": 12,
+      "start_time": 126.126,
+      "end_time": 127.543,
+      "duration": 1.4170000000000016,
+      "dialogue_text": "And a bonus too."
+    },
+    {
+      "subtitle_index": 13,
+      "start_time": 130.797,
+      "end_time": 131.922,
+      "duration": 1.125,
+      "dialogue_text": "Stop!"
+    },
+    {
+      "subtitle_index": 14,
+      "start_time": 132.382,
+      "end_time": 134.842,
+      "duration": 2.460000000000008,
+      "dialogue_text": "Stop or we sink you."
+    },
+    {
+      "subtitle_index": 15,
+      "start_time": 134.968,
+      "end_time": 137.01,
+      "duration": 2.0420000000000016,
+      "dialogue_text": "Wow, pirates!"
+    },
+    {
+      "subtitle_index": 16,
+      "start_time": 137.137,
+      "end_time": 139.847,
+      "duration": 2.710000000000008,
+      "dialogue_text": "Not just pirates. Air pirates!"
+    },
+    {
+      "subtitle_index": 17,
+      "start_time": 166.833,
+      "end_time": 169.042,
+      "duration": 2.209000000000003,
+      "dialogue_text": "Time for an overhaul."
+    },
+    {
+      "subtitle_index": 18,
+      "start_time": 201.242,
+      "end_time": 202.743,
+      "duration": 1.5010000000000048,
+      "dialogue_text": "Are you bad guys?"
+    },
+    {
+      "subtitle_index": 19,
+      "start_time": 202.869,
+      "end_time": 203.869,
+      "duration": 1.0,
+      "dialogue_text": "Yep."
+    },
+    {
+      "subtitle_index": 20,
+      "start_time": 204.037,
+      "end_time": 205.495,
+      "duration": 1.4579999999999984,
+      "dialogue_text": "And we're hostages?"
+    },
+    {
+      "subtitle_index": 21,
+      "start_time": 205.622,
+      "end_time": 206.538,
+      "duration": 0.9159999999999968,
+      "dialogue_text": "Right."
+    },
+    {
+      "subtitle_index": 22,
+      "start_time": 206.664,
+      "end_time": 208.081,
+      "duration": 1.4170000000000016,
+      "dialogue_text": "Are you air pirates?"
+    },
+    {
+      "subtitle_index": 23,
+      "start_time": 208.208,
+      "end_time": 209.249,
+      "duration": 1.0409999999999968,
+      "dialogue_text": "Smart girl."
+    },
+    {
+      "subtitle_index": 24,
+      "start_time": 209.542,
+      "end_time": 210.751,
+      "duration": 1.2090000000000032,
+      "dialogue_text": "A skull!"
+    },
+    {
+      "subtitle_index": 25,
+      "start_time": 210.877,
+      "end_time": 212.461,
+      "duration": 1.5840000000000032,
+      "dialogue_text": "And very well-drawn."
+    },
+    {
+      "subtitle_index": 26,
+      "start_time": 213.713,
+      "end_time": 215.422,
+      "duration": 1.7090000000000032,
+      "dialogue_text": "Come on, hurry up!"
+    },
+    {
+      "subtitle_index": 27,
+      "start_time": 216.049,
+      "end_time": 218.717,
+      "duration": 2.6680000000000064,
+      "dialogue_text": "There's 15 of them. Do we take them all?"
+    },
+    {
+      "subtitle_index": 28,
+      "start_time": 218.843,
+      "end_time": 221.511,
+      "duration": 2.6680000000000064,
+      "dialogue_text": "We can't leave anyone out."
+    },
+    {
+      "subtitle_index": 29,
+      "start_time": 240.49,
+      "end_time": 241.657,
+      "duration": 1.1670000000000016,
+      "dialogue_text": "Too late!"
+    },
+    {
+      "subtitle_index": 30,
+      "start_time": 241.908,
+      "end_time": 244.66,
+      "duration": 2.7520000000000095,
+      "dialogue_text": "They took the girls and the money."
+    },
+    {
+      "subtitle_index": 31,
+      "start_time": 244.827,
+      "end_time": 246.828,
+      "duration": 2.0010000000000048,
+      "dialogue_text": "Bring them back!"
+    },
+    {
+      "subtitle_index": 32,
+      "start_time": 247.247,
+      "end_time": 249.331,
+      "duration": 2.0839999999999748,
+      "dialogue_text": "They went that way."
+    },
+    {
+      "subtitle_index": 33,
+      "start_time": 257.84,
+      "end_time": 260.842,
+      "duration": 3.0020000000000095,
+      "dialogue_text": "No, not that way!"
+    },
+    {
+      "subtitle_index": 34,
+      "start_time": 261.678,
+      "end_time": 264.638,
+      "duration": 2.9599999999999795,
+      "dialogue_text": "I know what those cheapskates are up to."
+    },
+    {
+      "subtitle_index": 35,
+      "start_time": 264.847,
+      "end_time": 269.81,
+      "duration": 4.963000000000022,
+      "dialogue_text": "They'll change course for the nearest island as soon as they're out of sight."
+    },
+    {
+      "subtitle_index": 36,
+      "start_time": 270.019,
+      "end_time": 272.187,
+      "duration": 2.1680000000000064,
+      "dialogue_text": "They can't waste gas."
+    },
+    {
+      "subtitle_index": 37,
+      "start_time": 275.692,
+      "end_time": 276.692,
+      "duration": 1.0,
+      "dialogue_text": "Uh-oh."
+    },
+    {
+      "subtitle_index": 38,
+      "start_time": 284.867,
+      "end_time": 285.993,
+      "duration": 1.1259999999999764,
+      "dialogue_text": "Come on!"
+    },
+    {
+      "subtitle_index": 39,
+      "start_time": 300.008,
+      "end_time": 301.883,
+      "duration": 1.875,
+      "dialogue_text": "I don't have much time."
+    },
+    {
+      "subtitle_index": 40,
+      "start_time": 306.973,
+      "end_time": 308.14,
+      "duration": 1.1669999999999732,
+      "dialogue_text": "Gotcha!"
+    },
+    {
+      "subtitle_index": 41,
+      "start_time": 322.405,
+      "end_time": 325.699,
+      "duration": 3.2940000000000396,
+      "dialogue_text": "What, it's just a tour group."
+    },
+    {
+      "subtitle_index": 42,
+      "start_time": 325.825,
+      "end_time": 328.869,
+      "duration": 3.0440000000000396,
+      "dialogue_text": "Hey, it's a pig. A pig!"
+    },
+    {
+      "subtitle_index": 43,
+      "start_time": 328.995,
+      "end_time": 331.413,
+      "duration": 2.4180000000000064,
+      "dialogue_text": "Hey, piggy! He's so cute!"
+    },
+    {
+      "subtitle_index": 44,
+      "start_time": 331.748,
+      "end_time": 335.917,
+      "duration": 4.168999999999983,
+      "dialogue_text": "Be careful or the pirates will get you."
+    },
+    {
+      "subtitle_index": 45,
+      "start_time": 339.422,
+      "end_time": 341.423,
+      "duration": 2.0009999999999764,
+      "dialogue_text": "He's so cool!"
+    },
+    {
+      "subtitle_index": 46,
+      "start_time": 354.52,
+      "end_time": 356.772,
+      "duration": 2.2520000000000095,
+      "dialogue_text": "Will you all shut up?"
+    },
+    {
+      "subtitle_index": 47,
+      "start_time": 356.939,
+      "end_time": 358.023,
+      "duration": 1.0840000000000032,
+      "dialogue_text": "We're flying!"
+    },
+    {
+      "subtitle_index": 48,
+      "start_time": 358.149,
+      "end_time": 359.066,
+      "duration": 0.9169999999999732,
+      "dialogue_text": "Let me see!"
+    },
+    {
+      "subtitle_index": 49,
+      "start_time": 359.192,
+      "end_time": 360.942,
+      "duration": 1.75,
+      "dialogue_text": "Hey, cut that out!"
+    },
+    {
+      "subtitle_index": 50,
+      "start_time": 361.486,
+      "end_time": 364.237,
+      "duration": 2.751000000000033,
+      "dialogue_text": "Be quiet, will you?"
+    },
+    {
+      "subtitle_index": 51,
+      "start_time": 364.364,
+      "end_time": 365.739,
+      "duration": 1.375,
+      "dialogue_text": "Do something!"
+    },
+    {
+      "subtitle_index": 52,
+      "start_time": 365.948,
+      "end_time": 369.409,
+      "duration": 3.4610000000000127,
+      "dialogue_text": "You're the one who said to bring them all."
+    },
+    {
+      "subtitle_index": 53,
+      "start_time": 371.162,
+      "end_time": 374.373,
+      "duration": 3.2110000000000127,
+      "dialogue_text": "Just for a second. I'm not supposed to let you."
+    },
+    {
+      "subtitle_index": 54,
+      "start_time": 375.291,
+      "end_time": 378.001,
+      "duration": 2.7099999999999795,
+      "dialogue_text": "It's beautiful. Hey, look!"
+    },
+    {
+      "subtitle_index": 55,
+      "start_time": 378.419,
+      "end_time": 379.795,
+      "duration": 1.3760000000000332,
+      "dialogue_text": "A red plane!"
+    },
+    {
+      "subtitle_index": 56,
+      "start_time": 380.129,
+      "end_time": 381.713,
+      "duration": 1.5840000000000032,
+      "dialogue_text": "Where? Where?"
+    },
+    {
+      "subtitle_index": 57,
+      "start_time": 381.839,
+      "end_time": 383.423,
+      "duration": 1.5840000000000032,
+      "dialogue_text": "We saw it, didn't we?"
+    },
+    {
+      "subtitle_index": 58,
+      "start_time": 388.846,
+      "end_time": 390.639,
+      "duration": 1.7930000000000064,
+      "dialogue_text": "That's as far as you go."
+    },
+    {
+      "subtitle_index": 59,
+      "start_time": 392.683,
+      "end_time": 393.975,
+      "duration": 1.29200000000003,
+      "dialogue_text": "Here he comes!"
+    },
+    {
+      "subtitle_index": 60,
+      "start_time": 395.019,
+      "end_time": 396.978,
+      "duration": 1.9590000000000032,
+      "dialogue_text": "- It's Porco! - I can't see!"
+    },
+    {
+      "subtitle_index": 61,
+      "start_time": 402.151,
+      "end_time": 403.652,
+      "duration": 1.5009999999999764,
+      "dialogue_text": "Oh, no!"
+    },
+    {
+      "subtitle_index": 62,
+      "start_time": 403.82,
+      "end_time": 404.778,
+      "duration": 0.9580000000000268,
+      "dialogue_text": "It stopped."
+    },
+    {
+      "subtitle_index": 63,
+      "start_time": 404.904,
+      "end_time": 405.946,
+      "duration": 1.04200000000003,
+      "dialogue_text": "We'll crash!"
+    },
+    {
+      "subtitle_index": 64,
+      "start_time": 406.072,
+      "end_time": 408.156,
+      "duration": 2.084000000000003,
+      "dialogue_text": "No, we've got another engine."
+    },
+    {
+      "subtitle_index": 65,
+      "start_time": 411.994,
+      "end_time": 415.205,
+      "duration": 3.210999999999956,
+      "dialogue_text": "What are you doing? Shoot him down!"
+    },
+    {
+      "subtitle_index": 66,
+      "start_time": 415.998,
+      "end_time": 418.125,
+      "duration": 2.1270000000000095,
+      "dialogue_text": "That red plane's tough."
+    },
+    {
+      "subtitle_index": 67,
+      "start_time": 422.547,
+      "end_time": 423.964,
+      "duration": 1.4169999999999732,
+      "dialogue_text": "Missed!"
+    },
+    {
+      "subtitle_index": 68,
+      "start_time": 431.806,
+      "end_time": 435.225,
+      "duration": 3.4190000000000396,
+      "dialogue_text": "Message from the pig. \"You're beat. Do what I say.\""
+    },
+    {
+      "subtitle_index": 69,
+      "start_time": 435.351,
+      "end_time": 436.393,
+      "duration": 1.0419999999999732,
+      "dialogue_text": "Shut up!"
+    },
+    {
+      "subtitle_index": 70,
+      "start_time": 440.398,
+      "end_time": 443.108,
+      "duration": 2.7099999999999795,
+      "dialogue_text": "He's coming. Get down!"
+    },
+    {
+      "subtitle_index": 71,
+      "start_time": 445.778,
+      "end_time": 446.862,
+      "duration": 1.0840000000000032,
+      "dialogue_text": "Where did he go?"
+    },
+    {
+      "subtitle_index": 72,
+      "start_time": 447.029,
+      "end_time": 448.029,
+      "duration": 1.0,
+      "dialogue_text": "He's hiding."
+    },
+    {
+      "subtitle_index": 73,
+      "start_time": 459.792,
+      "end_time": 464.045,
+      "duration": 4.253000000000043,
+      "dialogue_text": "We crashed. We're going to sink!"
+    },
+    {
+      "subtitle_index": 74,
+      "start_time": 464.213,
+      "end_time": 466.84,
+      "duration": 2.6269999999999527,
+      "dialogue_text": "No we won't. This is a seaplane."
+    },
+    {
+      "subtitle_index": 75,
+      "start_time": 472.638,
+      "end_time": 474.598,
+      "duration": 1.9600000000000364,
+      "dialogue_text": "We're sinking."
+    },
+    {
+      "subtitle_index": 76,
+      "start_time": 475.016,
+      "end_time": 477.434,
+      "duration": 2.4180000000000064,
+      "dialogue_text": "Hey, stop that!"
+    },
+    {
+      "subtitle_index": 77,
+      "start_time": 477.602,
+      "end_time": 479.853,
+      "duration": 2.251000000000033,
+      "dialogue_text": "Halt! You're hostages."
+    },
+    {
+      "subtitle_index": 78,
+      "start_time": 479.979,
+      "end_time": 483.565,
+      "duration": 3.5860000000000127,
+      "dialogue_text": "Don't worry. We're on the swim team."
+    },
+    {
+      "subtitle_index": 79,
+      "start_time": 483.733,
+      "end_time": 486.151,
+      "duration": 2.4180000000000064,
+      "dialogue_text": "That's not what I mean!"
+    },
+    {
+      "subtitle_index": 80,
+      "start_time": 486.402,
+      "end_time": 488.236,
+      "duration": 1.8340000000000032,
+      "dialogue_text": "Another message."
+    },
+    {
+      "subtitle_index": 81,
+      "start_time": 489.238,
+      "end_time": 494.409,
+      "duration": 5.170999999999992,
+      "dialogue_text": "\"You can keep half the money. Give me the rest and the kids.\""
+    },
+    {
+      "subtitle_index": 82,
+      "start_time": 494.994,
+      "end_time": 497.704,
+      "duration": 2.7099999999999795,
+      "dialogue_text": "Or I'll kill you all."
+    },
+    {
+      "subtitle_index": 83,
+      "start_time": 497.83,
+      "end_time": 498.83,
+      "duration": 1.0,
+      "dialogue_text": "That's it."
+    },
+    {
+      "subtitle_index": 84,
+      "start_time": 498.956,
+      "end_time": 499.873,
+      "duration": 0.9169999999999732,
+      "dialogue_text": "Half the money?"
+    },
+    {
+      "subtitle_index": 85,
+      "start_time": 499.999,
+      "end_time": 504.461,
+      "duration": 4.461999999999989,
+      "dialogue_text": "Shut up! Come on, you swine. It's you and me!"
+    },
+    {
+      "subtitle_index": 86,
+      "start_time": 509.926,
+      "end_time": 510.926,
+      "duration": 1.0,
+      "dialogue_text": "Eat lead!"
+    },
+    {
+      "subtitle_index": 87,
+      "start_time": 513.679,
+      "end_time": 514.721,
+      "duration": 1.04200000000003,
+      "dialogue_text": "It jammed!"
+    },
+    {
+      "subtitle_index": 88,
+      "start_time": 523.272,
+      "end_time": 526.775,
+      "duration": 3.502999999999929,
+      "dialogue_text": "Bye-bye!"
+    },
+    {
+      "subtitle_index": 89,
+      "start_time": 526.901,
+      "end_time": 528.401,
+      "duration": 1.5,
+      "dialogue_text": "Farewell!"
+    },
+    {
+      "subtitle_index": 90,
+      "start_time": 528.528,
+      "end_time": 530.779,
+      "duration": 2.2509999999999764,
+      "dialogue_text": "He left us money for repairs."
+    },
+    {
+      "subtitle_index": 91,
+      "start_time": 530.947,
+      "end_time": 533.573,
+      "duration": 2.6259999999999764,
+      "dialogue_text": "Don't be such a sap."
+    },
+    {
+      "subtitle_index": 92,
+      "start_time": 540.206,
+      "end_time": 543.291,
+      "duration": 3.0850000000000364,
+      "dialogue_text": "Be quiet, will you?"
+    },
+    {
+      "subtitle_index": 93,
+      "start_time": 544.794,
+      "end_time": 547.462,
+      "duration": 2.6680000000000064,
+      "dialogue_text": "Don't pull on that, you'll break it."
+    },
+    {
+      "subtitle_index": 94,
+      "start_time": 550.841,
+      "end_time": 553.093,
+      "duration": 2.2519999999999527,
+      "dialogue_text": "Stay away from the propeller."
+    },
+    {
+      "subtitle_index": 95,
+      "start_time": 553.219,
+      "end_time": 555.637,
+      "duration": 2.4179999999998927,
+      "dialogue_text": "Got to pee? Do it over there."
+    },
+    {
+      "subtitle_index": 96,
+      "start_time": 560.142,
+      "end_time": 562.602,
+      "duration": 2.4599999999999227,
+      "dialogue_text": "So the Mamma Αiutos can't come tonight."
+    },
+    {
+      "subtitle_index": 97,
+      "start_time": 562.728,
+      "end_time": 566.94,
+      "duration": 4.212000000000103,
+      "dialogue_text": "And that filthy pig of a bounty hunter is a hero."
+    },
+    {
+      "subtitle_index": 98,
+      "start_time": 567.358,
+      "end_time": 570.443,
+      "duration": 3.0850000000000364,
+      "dialogue_text": "But this young kid's an American, right?"
+    },
+    {
+      "subtitle_index": 99,
+      "start_time": 570.57,
+      "end_time": 574.489,
+      "duration": 3.9189999999999827,
+      "dialogue_text": "The air pirates of the Adriatic, asking a Yankee for help!"
+    },
+    {
+      "subtitle_index": 100,
+      "start_time": 574.824,
+      "end_time": 578.618,
+      "duration": 3.7940000000000964,
+      "dialogue_text": "His grandmother was part Italian."
+    },
+    {
+      "subtitle_index": 101,
+      "start_time": 578.744,
+      "end_time": 582.497,
+      "duration": 3.752999999999929,
+      "dialogue_text": "And he'll finish Porco for us."
+    },
+    {
+      "subtitle_index": 102,
+      "start_time": 582.999,
+      "end_time": 585.0,
+      "duration": 2.0009999999999764,
+      "dialogue_text": "But ten per cent is outrageous."
+    },
+    {
+      "subtitle_index": 103,
+      "start_time": 608.774,
+      "end_time": 610.191,
+      "duration": 1.41700000000003,
+      "dialogue_text": "Beautiful."
+    },
+    {
+      "subtitle_index": 104,
+      "start_time": 689.355,
+      "end_time": 690.397,
+      "duration": 1.04200000000003,
+      "dialogue_text": "He's here."
+    },
+    {
+      "subtitle_index": 105,
+      "start_time": 690.94,
+      "end_time": 693.775,
+      "duration": 2.8349999999999227,
+      "dialogue_text": "With his snout in the air, as always."
+    },
+    {
+      "subtitle_index": 106,
+      "start_time": 708.624,
+      "end_time": 711.292,
+      "duration": 2.6680000000000064,
+      "dialogue_text": "Mr. Porco Rosso? I'm from The Neptune."
+    },
+    {
+      "subtitle_index": 107,
+      "start_time": 711.46,
+      "end_time": 716.089,
+      "duration": 4.629000000000019,
+      "dialogue_text": "We hear you put the Mamma Αiutos out of action."
+    },
+    {
+      "subtitle_index": 108,
+      "start_time": 716.215,
+      "end_time": 721.094,
+      "duration": 4.879000000000019,
+      "dialogue_text": "Do you think that will affect this year's bounties?"
+    },
+    {
+      "subtitle_index": 109,
+      "start_time": 721.22,
+      "end_time": 723.471,
+      "duration": 2.2509999999999764,
+      "dialogue_text": "Hey, put me down!"
+    },
+    {
+      "subtitle_index": 110,
+      "start_time": 726.976,
+      "end_time": 729.06,
+      "duration": 2.0839999999999463,
+      "dialogue_text": "Listen to the music."
+    },
+    {
+      "subtitle_index": 111,
+      "start_time": 738.237,
+      "end_time": 739.946,
+      "duration": 1.70900000000006,
+      "dialogue_text": "She's quite a woman."
+    },
+    {
+      "subtitle_index": 112,
+      "start_time": 740.406,
+      "end_time": 745.16,
+      "duration": 4.754000000000019,
+      "dialogue_text": "Even American pilots know Madame Gina of the Hotel Adriano."
+    },
+    {
+      "subtitle_index": 113,
+      "start_time": 745.661,
+      "end_time": 749.038,
+      "duration": 3.3770000000000664,
+      "dialogue_text": "That's why we all leave our quarrels outside."
+    },
+    {
+      "subtitle_index": 114,
+      "start_time": 749.498,
+      "end_time": 751.499,
+      "duration": 2.0009999999999764,
+      "dialogue_text": "Is that your Curtiss out front?"
+    },
+    {
+      "subtitle_index": 115,
+      "start_time": 751.834,
+      "end_time": 755.712,
+      "duration": 3.8780000000000427,
+      "dialogue_text": "The Rattlesnake. Winner of fame and fortune."
+    },
+    {
+      "subtitle_index": 116,
+      "start_time": 756.213,
+      "end_time": 760.133,
+      "duration": 3.9200000000000728,
+      "dialogue_text": "You took the Schneider Cup two years running."
+    },
+    {
+      "subtitle_index": 117,
+      "start_time": 760.301,
+      "end_time": 763.344,
+      "duration": 3.0430000000000064,
+      "dialogue_text": "She's unbeatable in a dogfight, too."
+    },
+    {
+      "subtitle_index": 118,
+      "start_time": 764.18,
+      "end_time": 768.475,
+      "duration": 4.295000000000073,
+      "dialogue_text": "But I hear there's this Porco Rosso who's pretty famous, too."
+    },
+    {
+      "subtitle_index": 119,
+      "start_time": 768.934,
+      "end_time": 771.978,
+      "duration": 3.0439999999999827,
+      "dialogue_text": "Better watch your back with those pirates, kid."
+    },
+    {
+      "subtitle_index": 120,
+      "start_time": 772.396,
+      "end_time": 776.691,
+      "duration": 4.295000000000073,
+      "dialogue_text": "They're poor, cheap, and dirty. They could use a bath."
+    },
+    {
+      "subtitle_index": 121,
+      "start_time": 778.235,
+      "end_time": 779.027,
+      "duration": 0.79200000000003,
+      "dialogue_text": "That's true."
+    },
+    {
+      "subtitle_index": 122,
+      "start_time": 779.278,
+      "end_time": 781.613,
+      "duration": 2.3350000000000364,
+      "dialogue_text": "Who you calling dirty, pig?"
+    },
+    {
+      "subtitle_index": 123,
+      "start_time": 781.739,
+      "end_time": 786.159,
+      "duration": 4.419999999999959,
+      "dialogue_text": "Quite a distinguished gathering! You boys must be planning something."
+    },
+    {
+      "subtitle_index": 124,
+      "start_time": 787.453,
+      "end_time": 788.536,
+      "duration": 1.08299999999997,
+      "dialogue_text": "As usual."
+    },
+    {
+      "subtitle_index": 125,
+      "start_time": 788.829,
+      "end_time": 792.415,
+      "duration": 3.5860000000000127,
+      "dialogue_text": "Always glad to see you, but no war games here, okay?"
+    },
+    {
+      "subtitle_index": 126,
+      "start_time": 792.708,
+      "end_time": 797.42,
+      "duration": 4.711999999999989,
+      "dialogue_text": "We know, Gina. We never work within 50 kilometers of here."
+    },
+    {
+      "subtitle_index": 127,
+      "start_time": 797.546,
+      "end_time": 800.215,
+      "duration": 2.6689999999999827,
+      "dialogue_text": "We're even nice to the pig."
+    },
+    {
+      "subtitle_index": 128,
+      "start_time": 802.718,
+      "end_time": 804.01,
+      "duration": 1.29200000000003,
+      "dialogue_text": "That's my boys."
+    },
+    {
+      "subtitle_index": 129,
+      "start_time": 804.178,
+      "end_time": 805.512,
+      "duration": 1.3339999999999463,
+      "dialogue_text": "See you again."
+    },
+    {
+      "subtitle_index": 130,
+      "start_time": 815.689,
+      "end_time": 817.899,
+      "duration": 2.2100000000000364,
+      "dialogue_text": "Porco, tell us a war story."
+    },
+    {
+      "subtitle_index": 131,
+      "start_time": 818.067,
+      "end_time": 819.901,
+      "duration": 1.8339999999999463,
+      "dialogue_text": "Next time we're alone."
+    },
+    {
+      "subtitle_index": 132,
+      "start_time": 829.286,
+      "end_time": 831.162,
+      "duration": 1.87600000000009,
+      "dialogue_text": "That American is so funny."
+    },
+    {
+      "subtitle_index": 133,
+      "start_time": 832.665,
+      "end_time": 835.208,
+      "duration": 2.5430000000000064,
+      "dialogue_text": "He took one look and said marry me."
+    },
+    {
+      "subtitle_index": 134,
+      "start_time": 835.918,
+      "end_time": 840.213,
+      "duration": 4.294999999999959,
+      "dialogue_text": "I told him I'd lost three pilot husbands already."
+    },
+    {
+      "subtitle_index": 135,
+      "start_time": 840.339,
+      "end_time": 845.426,
+      "duration": 5.086999999999989,
+      "dialogue_text": "One in combat, one in the Atlantic. The third died in Asia."
+    },
+    {
+      "subtitle_index": 136,
+      "start_time": 849.765,
+      "end_time": 850.932,
+      "duration": 1.16700000000003,
+      "dialogue_text": "They found him?"
+    },
+    {
+      "subtitle_index": 137,
+      "start_time": 852.268,
+      "end_time": 857.105,
+      "duration": 4.836999999999989,
+      "dialogue_text": "I got a call today. They found the wreckage in Bengal."
+    },
+    {
+      "subtitle_index": 138,
+      "start_time": 864.446,
+      "end_time": 868.074,
+      "duration": 3.627999999999929,
+      "dialogue_text": "I waited three years. I've got no tears left."
+    },
+    {
+      "subtitle_index": 139,
+      "start_time": 869.535,
+      "end_time": 873.58,
+      "duration": 4.045000000000073,
+      "dialogue_text": "The good always get killed. To comrades."
+    },
+    {
+      "subtitle_index": 140,
+      "start_time": 875.04,
+      "end_time": 877.959,
+      "duration": 2.9189999999999827,
+      "dialogue_text": "Thanks, Marco. You're always here for me."
+    },
+    {
+      "subtitle_index": 141,
+      "start_time": 885.05,
+      "end_time": 887.969,
+      "duration": 2.9190000000000964,
+      "dialogue_text": "You're the only one left from the old days."
+    },
+    {
+      "subtitle_index": 142,
+      "start_time": 889.972,
+      "end_time": 892.724,
+      "duration": 2.7520000000000664,
+      "dialogue_text": "One thing I don't like about this place..."
+    },
+    {
+      "subtitle_index": 143,
+      "start_time": 892.85,
+      "end_time": 894.475,
+      "duration": 1.625,
+      "dialogue_text": "is that picture."
+    },
+    {
+      "subtitle_index": 144,
+      "start_time": 895.394,
+      "end_time": 901.107,
+      "duration": 5.712999999999965,
+      "dialogue_text": "Don't touch it. It's the only one of you when you were human."
+    },
+    {
+      "subtitle_index": 145,
+      "start_time": 904.32,
+      "end_time": 908.364,
+      "duration": 4.043999999999983,
+      "dialogue_text": "I wish I could release you from that spell."
+    },
+    {
+      "subtitle_index": 146,
+      "start_time": 928.51,
+      "end_time": 932.055,
+      "duration": 3.544999999999959,
+      "dialogue_text": "That Yank knows how to fly."
+    },
+    {
+      "subtitle_index": 147,
+      "start_time": 960.542,
+      "end_time": 964.629,
+      "duration": 4.086999999999989,
+      "dialogue_text": "Must be nice to make that much money."
+    },
+    {
+      "subtitle_index": 148,
+      "start_time": 965.422,
+      "end_time": 966.756,
+      "duration": 1.3339999999999463,
+      "dialogue_text": "This month's payment."
+    },
+    {
+      "subtitle_index": 149,
+      "start_time": 967.049,
+      "end_time": 969.3,
+      "duration": 2.2509999999999764,
+      "dialogue_text": "That pays off your loan."
+    },
+    {
+      "subtitle_index": 150,
+      "start_time": 969.551,
+      "end_time": 974.597,
+      "duration": 5.045999999999935,
+      "dialogue_text": "How about helping the people out with a Patriot Bond?"
+    },
+    {
+      "subtitle_index": 151,
+      "start_time": 974.89,
+      "end_time": 977.558,
+      "duration": 2.6680000000000064,
+      "dialogue_text": "Do I look like a person?"
+    },
+    {
+      "subtitle_index": 152,
+      "start_time": 994.493,
+      "end_time": 996.703,
+      "duration": 2.2099999999999227,
+      "dialogue_text": "All ready for you, Mr. Porco Rosso."
+    },
+    {
+      "subtitle_index": 153,
+      "start_time": 997.121,
+      "end_time": 998.913,
+      "duration": 1.79200000000003,
+      "dialogue_text": "I'll take some ammo too."
+    },
+    {
+      "subtitle_index": 154,
+      "start_time": 1001.667,
+      "end_time": 1003.459,
+      "duration": 1.7919999999999163,
+      "dialogue_text": "The streets are packed."
+    },
+    {
+      "subtitle_index": 155,
+      "start_time": 1003.836,
+      "end_time": 1008.214,
+      "duration": 4.378000000000043,
+      "dialogue_text": "Υeah? Maybe the government's going to change again."
+    },
+    {
+      "subtitle_index": 156,
+      "start_time": 1008.34,
+      "end_time": 1010.758,
+      "duration": 2.4180000000000064,
+      "dialogue_text": "They'll pass a law against you guys."
+    },
+    {
+      "subtitle_index": 157,
+      "start_time": 1011.677,
+      "end_time": 1013.594,
+      "duration": 1.91700000000003,
+      "dialogue_text": "Laws don't apply to pigs."
+    },
+    {
+      "subtitle_index": 158,
+      "start_time": 1015.264,
+      "end_time": 1017.724,
+      "duration": 2.4600000000000364,
+      "dialogue_text": "That's for sure. Or moles like me."
+    },
+    {
+      "subtitle_index": 159,
+      "start_time": 1020.519,
+      "end_time": 1024.772,
+      "duration": 4.252999999999929,
+      "dialogue_text": "Just regular ammo? No high-explosive or armor-piercing?"
+    },
+    {
+      "subtitle_index": 160,
+      "start_time": 1024.94,
+      "end_time": 1028.109,
+      "duration": 3.168999999999869,
+      "dialogue_text": "We're not fighting a war out there, kid."
+    },
+    {
+      "subtitle_index": 161,
+      "start_time": 1028.277,
+      "end_time": 1029.277,
+      "duration": 1.0,
+      "dialogue_text": "See you."
+    },
+    {
+      "subtitle_index": 162,
+      "start_time": 1029.945,
+      "end_time": 1030.945,
+      "duration": 1.0,
+      "dialogue_text": "Thank you!"
+    },
+    {
+      "subtitle_index": 163,
+      "start_time": 1033.449,
+      "end_time": 1037.035,
+      "duration": 3.5860000000000127,
+      "dialogue_text": "Hey, Boss. How is war different from bounty hunting?"
+    },
+    {
+      "subtitle_index": 164,
+      "start_time": 1037.161,
+      "end_time": 1043.583,
+      "duration": 6.4220000000000255,
+      "dialogue_text": "War profiteers are villains. Bounty hunters are just stupid."
+    },
+    {
+      "subtitle_index": 165,
+      "start_time": 1045.419,
+      "end_time": 1048.588,
+      "duration": 3.168999999999869,
+      "dialogue_text": "We're air pirates. We don't borrow from banks."
+    },
+    {
+      "subtitle_index": 166,
+      "start_time": 1048.714,
+      "end_time": 1050.089,
+      "duration": 1.375,
+      "dialogue_text": "What else can we do?"
+    },
+    {
+      "subtitle_index": 167,
+      "start_time": 1050.299,
+      "end_time": 1052.425,
+      "duration": 2.1259999999999764,
+      "dialogue_text": "These repairs were expensive."
+    },
+    {
+      "subtitle_index": 168,
+      "start_time": 1052.968,
+      "end_time": 1054.802,
+      "duration": 1.8339999999998327,
+      "dialogue_text": "Pirate Federation planes!"
+    },
+    {
+      "subtitle_index": 169,
+      "start_time": 1061.727,
+      "end_time": 1065.897,
+      "duration": 4.169999999999845,
+      "dialogue_text": "Why do we have to fly with that bunch of losers?"
+    },
+    {
+      "subtitle_index": 170,
+      "start_time": 1066.023,
+      "end_time": 1068.107,
+      "duration": 2.08400000000006,
+      "dialogue_text": "It's all the pig's fault."
+    },
+    {
+      "subtitle_index": 171,
+      "start_time": 1068.484,
+      "end_time": 1071.819,
+      "duration": 3.3350000000000364,
+      "dialogue_text": "Can't those Mamma Αiutos even afford paint?"
+    },
+    {
+      "subtitle_index": 172,
+      "start_time": 1072.237,
+      "end_time": 1073.821,
+      "duration": 1.5839999999998327,
+      "dialogue_text": "That is so shabby."
+    },
+    {
+      "subtitle_index": 173,
+      "start_time": 1074.74,
+      "end_time": 1076.824,
+      "duration": 2.08400000000006,
+      "dialogue_text": "It looks like everyone's here."
+    },
+    {
+      "subtitle_index": 174,
+      "start_time": 1077.493,
+      "end_time": 1080.328,
+      "duration": 2.8350000000000364,
+      "dialogue_text": "Hey, is the American here yet?"
+    },
+    {
+      "subtitle_index": 175,
+      "start_time": 1080.913,
+      "end_time": 1082.622,
+      "duration": 1.70900000000006,
+      "dialogue_text": "He's up in the sun."
+    },
+    {
+      "subtitle_index": 176,
+      "start_time": 1082.748,
+      "end_time": 1084.665,
+      "duration": 1.9169999999999163,
+      "dialogue_text": "Right where he should be."
+    },
+    {
+      "subtitle_index": 177,
+      "start_time": 1093.092,
+      "end_time": 1096.886,
+      "duration": 3.793999999999869,
+      "dialogue_text": "Sighted target: The Mediterranean Queen."
+    },
+    {
+      "subtitle_index": 178,
+      "start_time": 1097.179,
+      "end_time": 1099.347,
+      "duration": 2.1679999999998927,
+      "dialogue_text": "We're taking a ship that big?"
+    },
+    {
+      "subtitle_index": 179,
+      "start_time": 1099.598,
+      "end_time": 1102.642,
+      "duration": 3.0440000000000964,
+      "dialogue_text": "That's why we all got together."
+    },
+    {
+      "subtitle_index": 180,
+      "start_time": 1103.185,
+      "end_time": 1106.979,
+      "duration": 3.7940000000000964,
+      "dialogue_text": "Having engine trouble. Go first. We'll cover you."
+    },
+    {
+      "subtitle_index": 181,
+      "start_time": 1107.147,
+      "end_time": 1110.149,
+      "duration": 3.0019999999999527,
+      "dialogue_text": "That's a dirty trick! We follow the plan."
+    },
+    {
+      "subtitle_index": 182,
+      "start_time": 1110.859,
+      "end_time": 1113.653,
+      "duration": 2.7940000000000964,
+      "dialogue_text": "Then we share repair costs!"
+    },
+    {
+      "subtitle_index": 183,
+      "start_time": 1114.071,
+      "end_time": 1118.157,
+      "duration": 4.086000000000013,
+      "dialogue_text": "You gutless wonder! We pay our own repairs, just like always."
+    },
+    {
+      "subtitle_index": 184,
+      "start_time": 1119.618,
+      "end_time": 1122.662,
+      "duration": 3.0440000000000964,
+      "dialogue_text": "Engine trouble! Engine trouble!"
+    },
+    {
+      "subtitle_index": 185,
+      "start_time": 1122.788,
+      "end_time": 1124.997,
+      "duration": 2.20900000000006,
+      "dialogue_text": "We settled all this before!"
+    },
+    {
+      "subtitle_index": 186,
+      "start_time": 1126.875,
+      "end_time": 1129.669,
+      "duration": 2.7940000000000964,
+      "dialogue_text": "All of you, shut up!"
+    },
+    {
+      "subtitle_index": 187,
+      "start_time": 1134.049,
+      "end_time": 1137.301,
+      "duration": 3.2519999999999527,
+      "dialogue_text": "Attention! We are under attack by air pirates."
+    },
+    {
+      "subtitle_index": 188,
+      "start_time": 1137.427,
+      "end_time": 1141.347,
+      "duration": 3.9200000000000728,
+      "dialogue_text": "There is no need for alarm."
+    },
+    {
+      "subtitle_index": 189,
+      "start_time": 1141.974,
+      "end_time": 1145.268,
+      "duration": 3.2940000000000964,
+      "dialogue_text": "We carry two advanced fighter aircraft."
+    },
+    {
+      "subtitle_index": 190,
+      "start_time": 1145.686,
+      "end_time": 1149.188,
+      "duration": 3.50200000000018,
+      "dialogue_text": "We will now introduce our pilots."
+    },
+    {
+      "subtitle_index": 191,
+      "start_time": 1151.567,
+      "end_time": 1155.486,
+      "duration": 3.9190000000000964,
+      "dialogue_text": "The Black Stallion, Signor Valleta."
+    },
+    {
+      "subtitle_index": 192,
+      "start_time": 1156.78,
+      "end_time": 1160.867,
+      "duration": 4.086999999999989,
+      "dialogue_text": "And the Wolf of the Tiber, Signor Visconti."
+    },
+    {
+      "subtitle_index": 193,
+      "start_time": 1172.087,
+      "end_time": 1175.506,
+      "duration": 3.4190000000000964,
+      "dialogue_text": "- They brought muscle! - That wasn't in the deal!"
+    },
+    {
+      "subtitle_index": 194,
+      "start_time": 1182.806,
+      "end_time": 1185.266,
+      "duration": 2.4600000000000364,
+      "dialogue_text": "Aw, what a mess."
+    },
+    {
+      "subtitle_index": 195,
+      "start_time": 1185.434,
+      "end_time": 1188.102,
+      "duration": 2.66800000000012,
+      "dialogue_text": "Get away from me, Curtiss!"
+    },
+    {
+      "subtitle_index": 196,
+      "start_time": 1189.021,
+      "end_time": 1190.688,
+      "duration": 1.6670000000001437,
+      "dialogue_text": "All right, let's go!"
+    },
+    {
+      "subtitle_index": 197,
+      "start_time": 1208.207,
+      "end_time": 1209.916,
+      "duration": 1.7089999999998327,
+      "dialogue_text": "That's not good."
+    },
+    {
+      "subtitle_index": 198,
+      "start_time": 1212.461,
+      "end_time": 1214.754,
+      "duration": 2.2929999999998927,
+      "dialogue_text": "Guess I have to go to Milan."
+    },
+    {
+      "subtitle_index": 199,
+      "start_time": 1220.969,
+      "end_time": 1224.597,
+      "duration": 3.627999999999929,
+      "dialogue_text": "Both pilots were shot down, but parachuted to safety."
+    },
+    {
+      "subtitle_index": 200,
+      "start_time": 1225.39,
+      "end_time": 1230.603,
+      "duration": 5.212999999999965,
+      "dialogue_text": "The Pirate Federation looted the vessel and left this message."
+    },
+    {
+      "subtitle_index": 201,
+      "start_time": 1231.23,
+      "end_time": 1232.647,
+      "duration": 1.4169999999999163,
+      "dialogue_text": "You're next!"
+    },
+    {
+      "subtitle_index": 202,
+      "start_time": 1233.398,
+      "end_time": 1235.441,
+      "duration": 2.04300000000012,
+      "dialogue_text": "Come and get us, pig!"
+    },
+    {
+      "subtitle_index": 203,
+      "start_time": 1236.485,
+      "end_time": 1237.443,
+      "duration": 0.9580000000000837,
+      "dialogue_text": "We repeat..."
+    },
+    {
+      "subtitle_index": 204,
+      "start_time": 1237.986,
+      "end_time": 1240.446,
+      "duration": 2.459999999999809,
+      "dialogue_text": "You're next. Come and get us, pig."
+    },
+    {
+      "subtitle_index": 205,
+      "start_time": 1242.574,
+      "end_time": 1244.992,
+      "duration": 2.4179999999998927,
+      "dialogue_text": "Way to go, turkeys."
+    },
+    {
+      "subtitle_index": 206,
+      "start_time": 1250.499,
+      "end_time": 1252.667,
+      "duration": 2.1679999999998927,
+      "dialogue_text": "I'm afraid I'm on vacation."
+    },
+    {
+      "subtitle_index": 207,
+      "start_time": 1254.878,
+      "end_time": 1259.924,
+      "duration": 5.046000000000049,
+      "dialogue_text": "White sheets, beautiful women."
+    },
+    {
+      "subtitle_index": 208,
+      "start_time": 1266.265,
+      "end_time": 1269.308,
+      "duration": 3.0429999999998927,
+      "dialogue_text": "Just get me to Milan, little engine."
+    },
+    {
+      "subtitle_index": 209,
+      "start_time": 1293.417,
+      "end_time": 1298.421,
+      "duration": 5.004000000000133,
+      "dialogue_text": "I don't like this weather. I'll have to fly low."
+    },
+    {
+      "subtitle_index": 210,
+      "start_time": 1353.518,
+      "end_time": 1355.77,
+      "duration": 2.2519999999999527,
+      "dialogue_text": "Come on, you can do it!"
+    },
+    {
+      "subtitle_index": 211,
+      "start_time": 1360.025,
+      "end_time": 1362.485,
+      "duration": 2.459999999999809,
+      "dialogue_text": "That's right. Good girl!"
+    },
+    {
+      "subtitle_index": 212,
+      "start_time": 1374.206,
+      "end_time": 1375.915,
+      "duration": 1.70900000000006,
+      "dialogue_text": "Pig!"
+    },
+    {
+      "subtitle_index": 213,
+      "start_time": 1384.216,
+      "end_time": 1386.3,
+      "duration": 2.08400000000006,
+      "dialogue_text": "It's one on one!"
+    },
+    {
+      "subtitle_index": 214,
+      "start_time": 1386.468,
+      "end_time": 1388.302,
+      "duration": 1.8339999999998327,
+      "dialogue_text": "Not now!"
+    },
+    {
+      "subtitle_index": 215,
+      "start_time": 1397.145,
+      "end_time": 1399.98,
+      "duration": 2.8350000000000364,
+      "dialogue_text": "I'll tell everyone you ran."
+    },
+    {
+      "subtitle_index": 216,
+      "start_time": 1400.232,
+      "end_time": 1402.483,
+      "duration": 2.2509999999999764,
+      "dialogue_text": "Catch you later, Yank!"
+    },
+    {
+      "subtitle_index": 217,
+      "start_time": 1405.237,
+      "end_time": 1407.113,
+      "duration": 1.8759999999999764,
+      "dialogue_text": "Damn, lost my cover."
+    },
+    {
+      "subtitle_index": 218,
+      "start_time": 1409.991,
+      "end_time": 1410.95,
+      "duration": 0.95900000000006,
+      "dialogue_text": "Uh-oh."
+    },
+    {
+      "subtitle_index": 219,
+      "start_time": 1411.993,
+      "end_time": 1412.993,
+      "duration": 1.0,
+      "dialogue_text": "Gotcha!"
+    },
+    {
+      "subtitle_index": 220,
+      "start_time": 1413.328,
+      "end_time": 1415.996,
+      "duration": 2.66800000000012,
+      "dialogue_text": "No you didn't. My engine quit."
+    },
+    {
+      "subtitle_index": 221,
+      "start_time": 1427.509,
+      "end_time": 1431.846,
+      "duration": 4.336999999999989,
+      "dialogue_text": "Yes! Now I'll be famous too. Yahoo!"
+    },
+    {
+      "subtitle_index": 222,
+      "start_time": 1448.864,
+      "end_time": 1453.909,
+      "duration": 5.045000000000073,
+      "dialogue_text": "I can't go back empty-handed. They won't believe me without proof."
+    },
+    {
+      "subtitle_index": 223,
+      "start_time": 1460.625,
+      "end_time": 1461.75,
+      "duration": 1.125,
+      "dialogue_text": "There!"
+    },
+    {
+      "subtitle_index": 224,
+      "start_time": 1479.311,
+      "end_time": 1482.021,
+      "duration": 2.7100000000000364,
+      "dialogue_text": "That stupid red color. No mistake."
+    },
+    {
+      "subtitle_index": 225,
+      "start_time": 1483.607,
+      "end_time": 1486.4,
+      "duration": 2.79300000000012,
+      "dialogue_text": "A souvenir for my mama in Alabama."
+    },
+    {
+      "subtitle_index": 226,
+      "start_time": 1530.612,
+      "end_time": 1531.779,
+      "duration": 1.1669999999999163,
+      "dialogue_text": "Please hurry."
+    },
+    {
+      "subtitle_index": 227,
+      "start_time": 1537.285,
+      "end_time": 1540.746,
+      "duration": 3.4610000000000127,
+      "dialogue_text": "Madame Gina!"
+    },
+    {
+      "subtitle_index": 228,
+      "start_time": 1541.289,
+      "end_time": 1544.083,
+      "duration": 2.7940000000000964,
+      "dialogue_text": "There's a phone call. He's safe. He's alive."
+    },
+    {
+      "subtitle_index": 229,
+      "start_time": 1546.294,
+      "end_time": 1548.045,
+      "duration": 1.7509999999999764,
+      "dialogue_text": "Use the phone at the front desk."
+    },
+    {
+      "subtitle_index": 230,
+      "start_time": 1556.429,
+      "end_time": 1560.474,
+      "duration": 4.044999999999845,
+      "dialogue_text": "Marco? Are you all right? I was just leaving to look for you."
+    },
+    {
+      "subtitle_index": 231,
+      "start_time": 1562.018,
+      "end_time": 1564.228,
+      "duration": 2.2100000000000364,
+      "dialogue_text": "Oh? Good!"
+    },
+    {
+      "subtitle_index": 232,
+      "start_time": 1564.354,
+      "end_time": 1568.274,
+      "duration": 3.9199999999998454,
+      "dialogue_text": "I've lost weight. Two nights on a deserted island."
+    },
+    {
+      "subtitle_index": 233,
+      "start_time": 1568.775,
+      "end_time": 1573.988,
+      "duration": 5.212999999999965,
+      "dialogue_text": "I'm taking the plane to Milan for repairs."
+    },
+    {
+      "subtitle_index": 234,
+      "start_time": 1574.155,
+      "end_time": 1577.575,
+      "duration": 3.4200000000000728,
+      "dialogue_text": "If the Yank comes in, tell him I'll see him again."
+    },
+    {
+      "subtitle_index": 235,
+      "start_time": 1578.243,
+      "end_time": 1581.495,
+      "duration": 3.2519999999999527,
+      "dialogue_text": "Hey! I'm not a messenger."
+    },
+    {
+      "subtitle_index": 236,
+      "start_time": 1581.913,
+      "end_time": 1588.002,
+      "duration": 6.088999999999942,
+      "dialogue_text": "I worry about you pilots, but you treat me like the furniture."
+    },
+    {
+      "subtitle_index": 237,
+      "start_time": 1589.796,
+      "end_time": 1595.509,
+      "duration": 5.712999999999965,
+      "dialogue_text": "Marco, you'll end up roasted. I won't go to your funeral."
+    },
+    {
+      "subtitle_index": 238,
+      "start_time": 1597.596,
+      "end_time": 1599.43,
+      "duration": 1.83400000000006,
+      "dialogue_text": "A pig's gotta fly."
+    },
+    {
+      "subtitle_index": 239,
+      "start_time": 1599.556,
+      "end_time": 1600.306,
+      "duration": 0.75,
+      "dialogue_text": "Idiot!"
+    },
+    {
+      "subtitle_index": 240,
+      "start_time": 1655.153,
+      "end_time": 1658.072,
+      "duration": 2.918999999999869,
+      "dialogue_text": "I figured you'd show up tonight."
+    },
+    {
+      "subtitle_index": 241,
+      "start_time": 1658.239,
+      "end_time": 1659.698,
+      "duration": 1.45900000000006,
+      "dialogue_text": "I need your help."
+    },
+    {
+      "subtitle_index": 242,
+      "start_time": 1659.949,
+      "end_time": 1662.034,
+      "duration": 2.0850000000000364,
+      "dialogue_text": "Looks pretty bad."
+    },
+    {
+      "subtitle_index": 243,
+      "start_time": 1662.619,
+      "end_time": 1665.245,
+      "duration": 2.6259999999999764,
+      "dialogue_text": "Why not just get a new plane?"
+    },
+    {
+      "subtitle_index": 244,
+      "start_time": 1665.413,
+      "end_time": 1666.914,
+      "duration": 1.5009999999999764,
+      "dialogue_text": "I like this one."
+    },
+    {
+      "subtitle_index": 245,
+      "start_time": 1667.29,
+      "end_time": 1669.041,
+      "duration": 1.7509999999999764,
+      "dialogue_text": "I know how you feel."
+    },
+    {
+      "subtitle_index": 246,
+      "start_time": 1670.293,
+      "end_time": 1672.378,
+      "duration": 2.0850000000000364,
+      "dialogue_text": "Look out. I'll back her in."
+    },
+    {
+      "subtitle_index": 247,
+      "start_time": 1676.341,
+      "end_time": 1678.676,
+      "duration": 2.3350000000000364,
+      "dialogue_text": "Who's the cutie?"
+    },
+    {
+      "subtitle_index": 248,
+      "start_time": 1678.802,
+      "end_time": 1681.011,
+      "duration": 2.20900000000006,
+      "dialogue_text": "My granddaughter, back from the States."
+    },
+    {
+      "subtitle_index": 249,
+      "start_time": 1683.556,
+      "end_time": 1686.1,
+      "duration": 2.543999999999869,
+      "dialogue_text": "Keep coming, keep coming."
+    },
+    {
+      "subtitle_index": 250,
+      "start_time": 1705.537,
+      "end_time": 1710.124,
+      "duration": 4.586999999999989,
+      "dialogue_text": "What a beautiful plane, Grandpa! It's got great lines."
+    },
+    {
+      "subtitle_index": 251,
+      "start_time": 1710.625,
+      "end_time": 1714.086,
+      "duration": 3.4610000000000127,
+      "dialogue_text": "They don't make them like that anymore."
+    },
+    {
+      "subtitle_index": 252,
+      "start_time": 1714.295,
+      "end_time": 1715.587,
+      "duration": 1.2919999999999163,
+      "dialogue_text": "I can't see it."
+    },
+    {
+      "subtitle_index": 253,
+      "start_time": 1716.715,
+      "end_time": 1718.799,
+      "duration": 2.08400000000006,
+      "dialogue_text": "She's really your granddaughter?"
+    },
+    {
+      "subtitle_index": 254,
+      "start_time": 1719.134,
+      "end_time": 1720.384,
+      "duration": 1.25,
+      "dialogue_text": "Hands off."
+    },
+    {
+      "subtitle_index": 255,
+      "start_time": 1724.472,
+      "end_time": 1725.723,
+      "duration": 1.2509999999999764,
+      "dialogue_text": "Fio, lock up."
+    },
+    {
+      "subtitle_index": 256,
+      "start_time": 1725.849,
+      "end_time": 1727.433,
+      "duration": 1.58400000000006,
+      "dialogue_text": "Okay."
+    },
+    {
+      "subtitle_index": 257,
+      "start_time": 1728.768,
+      "end_time": 1732.02,
+      "duration": 3.2519999999999527,
+      "dialogue_text": "I'm going up against Curtiss. I need another 15 knots."
+    },
+    {
+      "subtitle_index": 258,
+      "start_time": 1732.188,
+      "end_time": 1735.107,
+      "duration": 2.918999999999869,
+      "dialogue_text": "Curtiss? I haven't heard that name for a while."
+    },
+    {
+      "subtitle_index": 259,
+      "start_time": 1740.405,
+      "end_time": 1741.321,
+      "duration": 0.91599999999994,
+      "dialogue_text": "Well?"
+    },
+    {
+      "subtitle_index": 260,
+      "start_time": 1741.489,
+      "end_time": 1743.323,
+      "duration": 1.83400000000006,
+      "dialogue_text": "Where did you get a Folgore?"
+    },
+    {
+      "subtitle_index": 261,
+      "start_time": 1743.575,
+      "end_time": 1744.783,
+      "duration": 1.2079999999998563,
+      "dialogue_text": "Don't ask."
+    },
+    {
+      "subtitle_index": 262,
+      "start_time": 1745.326,
+      "end_time": 1751.29,
+      "duration": 5.963999999999942,
+      "dialogue_text": "The plane Curtiss beat in 1927 for the Schneider Cup had this engine."
+    },
+    {
+      "subtitle_index": 263,
+      "start_time": 1751.666,
+      "end_time": 1755.294,
+      "duration": 3.6280000000001564,
+      "dialogue_text": "But it wasn't the engine's fault. The mechanic was a fool."
+    },
+    {
+      "subtitle_index": 264,
+      "start_time": 1756.921,
+      "end_time": 1758.297,
+      "duration": 1.3759999999999764,
+      "dialogue_text": "I can hardly wait."
+    },
+    {
+      "subtitle_index": 265,
+      "start_time": 1758.59,
+      "end_time": 1762.76,
+      "duration": 4.170000000000073,
+      "dialogue_text": "Don't over-tune her. It's not a race."
+    },
+    {
+      "subtitle_index": 266,
+      "start_time": 1763.178,
+      "end_time": 1767.473,
+      "duration": 4.294999999999845,
+      "dialogue_text": "Tell me about it! You're preaching to the converted."
+    },
+    {
+      "subtitle_index": 267,
+      "start_time": 1771.561,
+      "end_time": 1773.645,
+      "duration": 2.08400000000006,
+      "dialogue_text": "You're cleaning me out."
+    },
+    {
+      "subtitle_index": 268,
+      "start_time": 1774.272,
+      "end_time": 1778.984,
+      "duration": 4.711999999999989,
+      "dialogue_text": "These days money's not worth the paper it's printed on."
+    },
+    {
+      "subtitle_index": 269,
+      "start_time": 1779.194,
+      "end_time": 1782.696,
+      "duration": 3.5019999999999527,
+      "dialogue_text": "Empty your pockets. That's for the propeller, the paint..."
+    },
+    {
+      "subtitle_index": 270,
+      "start_time": 1782.864,
+      "end_time": 1786.366,
+      "duration": 3.5019999999999527,
+      "dialogue_text": "That's for hotel and meals!"
+    },
+    {
+      "subtitle_index": 271,
+      "start_time": 1786.618,
+      "end_time": 1789.995,
+      "duration": 3.3769999999999527,
+      "dialogue_text": "Stay here. I'll put you up cheap."
+    },
+    {
+      "subtitle_index": 272,
+      "start_time": 1792.457,
+      "end_time": 1795.292,
+      "duration": 2.834999999999809,
+      "dialogue_text": "Where are your sons? Are they good?"
+    },
+    {
+      "subtitle_index": 273,
+      "start_time": 1795.502,
+      "end_time": 1797.211,
+      "duration": 1.70900000000006,
+      "dialogue_text": "They left to find work."
+    },
+    {
+      "subtitle_index": 274,
+      "start_time": 1797.504,
+      "end_time": 1799.463,
+      "duration": 1.95900000000006,
+      "dialogue_text": "So who'll do the design?"
+    },
+    {
+      "subtitle_index": 275,
+      "start_time": 1799.798,
+      "end_time": 1800.881,
+      "duration": 1.0830000000000837,
+      "dialogue_text": "Fio."
+    },
+    {
+      "subtitle_index": 276,
+      "start_time": 1801.299,
+      "end_time": 1803.884,
+      "duration": 2.5850000000000364,
+      "dialogue_text": "Fio? That little girl?"
+    },
+    {
+      "subtitle_index": 277,
+      "start_time": 1804.26,
+      "end_time": 1808.555,
+      "duration": 4.295000000000073,
+      "dialogue_text": "She's young, but she's got something my sons don't."
+    },
+    {
+      "subtitle_index": 278,
+      "start_time": 1812.769,
+      "end_time": 1818.023,
+      "duration": 5.253999999999905,
+      "dialogue_text": "I've known you a long time, but I think I'll try somewhere else."
+    },
+    {
+      "subtitle_index": 279,
+      "start_time": 1819.818,
+      "end_time": 1820.859,
+      "duration": 1.04099999999994,
+      "dialogue_text": "Wait!"
+    },
+    {
+      "subtitle_index": 280,
+      "start_time": 1826.908,
+      "end_time": 1830.369,
+      "duration": 3.4610000000000127,
+      "dialogue_text": "It is because I'm a girl? Or because I'm young?"
+    },
+    {
+      "subtitle_index": 281,
+      "start_time": 1830.912,
+      "end_time": 1832.412,
+      "duration": 1.5,
+      "dialogue_text": "Both, actually."
+    },
+    {
+      "subtitle_index": 282,
+      "start_time": 1832.831,
+      "end_time": 1834.706,
+      "duration": 1.875,
+      "dialogue_text": "Well, I can understand that."
+    },
+    {
+      "subtitle_index": 283,
+      "start_time": 1835.333,
+      "end_time": 1839.419,
+      "duration": 4.086000000000013,
+      "dialogue_text": "Tell me, what's the main thing a good pilot needs?"
+    },
+    {
+      "subtitle_index": 284,
+      "start_time": 1840.922,
+      "end_time": 1841.88,
+      "duration": 0.9580000000000837,
+      "dialogue_text": "Experience?"
+    },
+    {
+      "subtitle_index": 285,
+      "start_time": 1842.006,
+      "end_time": 1844.132,
+      "duration": 2.1259999999999764,
+      "dialogue_text": "No. Inspiration."
+    },
+    {
+      "subtitle_index": 286,
+      "start_time": 1844.634,
+      "end_time": 1847.01,
+      "duration": 2.3759999999999764,
+      "dialogue_text": "I'm glad you didn't say experience."
+    },
+    {
+      "subtitle_index": 287,
+      "start_time": 1847.428,
+      "end_time": 1852.14,
+      "duration": 4.711999999999989,
+      "dialogue_text": "Grandpa says you were very young when you first soloed."
+    },
+    {
+      "subtitle_index": 288,
+      "start_time": 1853.059,
+      "end_time": 1855.143,
+      "duration": 2.08400000000006,
+      "dialogue_text": "You were good from the start."
+    },
+    {
+      "subtitle_index": 289,
+      "start_time": 1855.77,
+      "end_time": 1859.106,
+      "duration": 3.3360000000000127,
+      "dialogue_text": "That was 1910. I was 17."
+    },
+    {
+      "subtitle_index": 290,
+      "start_time": 1859.941,
+      "end_time": 1862.609,
+      "duration": 2.6679999999998927,
+      "dialogue_text": "I'm 17 too!"
+    },
+    {
+      "subtitle_index": 291,
+      "start_time": 1863.611,
+      "end_time": 1868.156,
+      "duration": 4.544999999999845,
+      "dialogue_text": "I can't help being a girl, but we've got your old blueprints."
+    },
+    {
+      "subtitle_index": 292,
+      "start_time": 1868.533,
+      "end_time": 1872.16,
+      "duration": 3.62700000000018,
+      "dialogue_text": "If it's no good, you don't have to pay. Okay, Grandpa?"
+    },
+    {
+      "subtitle_index": 293,
+      "start_time": 1872.62,
+      "end_time": 1874.83,
+      "duration": 2.2100000000000364,
+      "dialogue_text": "She'll do fine."
+    },
+    {
+      "subtitle_index": 294,
+      "start_time": 1875.415,
+      "end_time": 1878.667,
+      "duration": 3.2519999999999527,
+      "dialogue_text": "I was overhauling engines when I was 12."
+    },
+    {
+      "subtitle_index": 295,
+      "start_time": 1879.127,
+      "end_time": 1880.168,
+      "duration": 1.04099999999994,
+      "dialogue_text": "Sleep on it."
+    },
+    {
+      "subtitle_index": 296,
+      "start_time": 1880.295,
+      "end_time": 1885.257,
+      "duration": 4.961999999999989,
+      "dialogue_text": "Shower's hot. Towels on the rack. Breakfast at 7. Good night."
+    },
+    {
+      "subtitle_index": 297,
+      "start_time": 1888.469,
+      "end_time": 1893.307,
+      "duration": 4.837999999999965,
+      "dialogue_text": "You're short, but we're friends. I'll loan you the rest."
+    },
+    {
+      "subtitle_index": 298,
+      "start_time": 1938.686,
+      "end_time": 1940.52,
+      "duration": 1.83400000000006,
+      "dialogue_text": "Good morning. Sleep okay?"
+    },
+    {
+      "subtitle_index": 299,
+      "start_time": 1940.688,
+      "end_time": 1942.189,
+      "duration": 1.5009999999999764,
+      "dialogue_text": "Did you work all night?"
+    },
+    {
+      "subtitle_index": 300,
+      "start_time": 1942.44,
+      "end_time": 1944.024,
+      "duration": 1.5839999999998327,
+      "dialogue_text": "Just a rough idea."
+    },
+    {
+      "subtitle_index": 301,
+      "start_time": 1944.567,
+      "end_time": 1948.612,
+      "duration": 4.045000000000073,
+      "dialogue_text": "Same wing plan with a different cross section."
+    },
+    {
+      "subtitle_index": 302,
+      "start_time": 1949.238,
+      "end_time": 1951.782,
+      "duration": 2.543999999999869,
+      "dialogue_text": "That should give us five knots."
+    },
+    {
+      "subtitle_index": 303,
+      "start_time": 1952.367,
+      "end_time": 1957.204,
+      "duration": 4.836999999999989,
+      "dialogue_text": "The original plans are amazing. The old wings were monocoque."
+    },
+    {
+      "subtitle_index": 304,
+      "start_time": 1957.455,
+      "end_time": 1959.373,
+      "duration": 1.91800000000012,
+      "dialogue_text": "I've never seen anything like it."
+    },
+    {
+      "subtitle_index": 305,
+      "start_time": 1959.624,
+      "end_time": 1963.21,
+      "duration": 3.5860000000000127,
+      "dialogue_text": "Whoever designed this wing really understood wood."
+    },
+    {
+      "subtitle_index": 306,
+      "start_time": 1963.795,
+      "end_time": 1965.17,
+      "duration": 1.375,
+      "dialogue_text": "I'm so impressed."
+    },
+    {
+      "subtitle_index": 307,
+      "start_time": 1965.546,
+      "end_time": 1970.676,
+      "duration": 5.129999999999882,
+      "dialogue_text": "They only built one. They said it was too dangerous to fly."
+    },
+    {
+      "subtitle_index": 308,
+      "start_time": 1971.97,
+      "end_time": 1973.929,
+      "duration": 1.95900000000006,
+      "dialogue_text": "Found it in a warehouse."
+    },
+    {
+      "subtitle_index": 309,
+      "start_time": 1974.055,
+      "end_time": 1975.055,
+      "duration": 1.0,
+      "dialogue_text": "What luck."
+    },
+    {
+      "subtitle_index": 310,
+      "start_time": 1975.932,
+      "end_time": 1979.518,
+      "duration": 3.5860000000000127,
+      "dialogue_text": "With this wing sweep, I'm surprised you even get lift."
+    },
+    {
+      "subtitle_index": 311,
+      "start_time": 1979.978,
+      "end_time": 1985.357,
+      "duration": 5.378999999999905,
+      "dialogue_text": "Takeoffs and landings are tricky. No one can touch her in the air."
+    },
+    {
+      "subtitle_index": 312,
+      "start_time": 1986.109,
+      "end_time": 1990.404,
+      "duration": 4.295000000000073,
+      "dialogue_text": "Sweep the wings half a degree more."
+    },
+    {
+      "subtitle_index": 313,
+      "start_time": 1990.655,
+      "end_time": 1992.572,
+      "duration": 1.9169999999999163,
+      "dialogue_text": "The rest is fine."
+    },
+    {
+      "subtitle_index": 314,
+      "start_time": 1992.74,
+      "end_time": 1996.451,
+      "duration": 3.7110000000000127,
+      "dialogue_text": "So you'll let me do it? Thank you! You won't be sorry."
+    },
+    {
+      "subtitle_index": 315,
+      "start_time": 1998.246,
+      "end_time": 2000.956,
+      "duration": 2.709999999999809,
+      "dialogue_text": "But on one condition."
+    },
+    {
+      "subtitle_index": 316,
+      "start_time": 2002.583,
+      "end_time": 2006.003,
+      "duration": 3.4199999999998454,
+      "dialogue_text": "Don't work all night. You need sleep to do good work."
+    },
+    {
+      "subtitle_index": 317,
+      "start_time": 2006.671,
+      "end_time": 2008.463,
+      "duration": 1.7919999999999163,
+      "dialogue_text": "And to look good, too."
+    },
+    {
+      "subtitle_index": 318,
+      "start_time": 2009.799,
+      "end_time": 2010.757,
+      "duration": 0.9580000000000837,
+      "dialogue_text": "All right."
+    },
+    {
+      "subtitle_index": 319,
+      "start_time": 2012.093,
+      "end_time": 2015.929,
+      "duration": 3.8360000000000127,
+      "dialogue_text": "Actually, I was so nervous last night I couldn't sleep."
+    },
+    {
+      "subtitle_index": 320,
+      "start_time": 2016.097,
+      "end_time": 2020.267,
+      "duration": 4.170000000000073,
+      "dialogue_text": "To tell the truth, I was afraid you wouldn't let me do it."
+    },
+    {
+      "subtitle_index": 321,
+      "start_time": 2020.435,
+      "end_time": 2022.769,
+      "duration": 2.33400000000006,
+      "dialogue_text": "I'm so happy! I'll make some coffee."
+    },
+    {
+      "subtitle_index": 322,
+      "start_time": 2025.523,
+      "end_time": 2028.859,
+      "duration": 3.3360000000000127,
+      "dialogue_text": "I hope she's not going to build it herself too."
+    },
+    {
+      "subtitle_index": 323,
+      "start_time": 2037.493,
+      "end_time": 2042.748,
+      "duration": 5.255000000000109,
+      "dialogue_text": "My niece Monica will do the drawings, my nephew's wife the finishing..."
+    },
+    {
+      "subtitle_index": 324,
+      "start_time": 2042.957,
+      "end_time": 2046.96,
+      "duration": 4.002999999999929,
+      "dialogue_text": "My cousin's daughters, Sophia, Laura, Constance and Valentina."
+    },
+    {
+      "subtitle_index": 325,
+      "start_time": 2047.378,
+      "end_time": 2053.133,
+      "duration": 5.754999999999882,
+      "dialogue_text": "Fio's sister Giliola. Sandra's her cousin. Marietta, you've gotten so pretty."
+    },
+    {
+      "subtitle_index": 326,
+      "start_time": 2053.301,
+      "end_time": 2058.138,
+      "duration": 4.836999999999989,
+      "dialogue_text": "My sons' wives Maria, Tina, Anna, and her sister Miletta."
+    },
+    {
+      "subtitle_index": 327,
+      "start_time": 2058.389,
+      "end_time": 2059.931,
+      "duration": 1.5419999999999163,
+      "dialogue_text": "Porcelino!"
+    },
+    {
+      "subtitle_index": 328,
+      "start_time": 2060.183,
+      "end_time": 2061.85,
+      "duration": 1.6669999999999163,
+      "dialogue_text": "Grandma!"
+    },
+    {
+      "subtitle_index": 329,
+      "start_time": 2062.643,
+      "end_time": 2064.811,
+      "duration": 2.16800000000012,
+      "dialogue_text": "The angels haven't come for you yet?"
+    },
+    {
+      "subtitle_index": 330,
+      "start_time": 2066.147,
+      "end_time": 2069.149,
+      "duration": 3.0019999999999527,
+      "dialogue_text": "You've grown into a fine man!"
+    },
+    {
+      "subtitle_index": 331,
+      "start_time": 2072.153,
+      "end_time": 2073.987,
+      "duration": 1.8340000000002874,
+      "dialogue_text": "You all work here, too?"
+    },
+    {
+      "subtitle_index": 332,
+      "start_time": 2075.323,
+      "end_time": 2077.783,
+      "duration": 2.4600000000000364,
+      "dialogue_text": "To buy things for our great grandchildren."
+    },
+    {
+      "subtitle_index": 333,
+      "start_time": 2083.372,
+      "end_time": 2085.791,
+      "duration": 2.419000000000324,
+      "dialogue_text": "Not a single man."
+    },
+    {
+      "subtitle_index": 334,
+      "start_time": 2087.418,
+      "end_time": 2089.127,
+      "duration": 1.7089999999998327,
+      "dialogue_text": "They're all family?"
+    },
+    {
+      "subtitle_index": 335,
+      "start_time": 2089.253,
+      "end_time": 2094.966,
+      "duration": 5.712999999999738,
+      "dialogue_text": "Υeah. There's no work here. The men are all away working."
+    },
+    {
+      "subtitle_index": 336,
+      "start_time": 2096.427,
+      "end_time": 2098.428,
+      "duration": 2.000999999999749,
+      "dialogue_text": "This depression..."
+    },
+    {
+      "subtitle_index": 337,
+      "start_time": 2099.013,
+      "end_time": 2103.683,
+      "duration": 4.670000000000073,
+      "dialogue_text": "Don't worry. The women are tough and they work hard."
+    },
+    {
+      "subtitle_index": 338,
+      "start_time": 2104.018,
+      "end_time": 2106.686,
+      "duration": 2.66800000000012,
+      "dialogue_text": "We're not making pancakes here."
+    },
+    {
+      "subtitle_index": 339,
+      "start_time": 2115.154,
+      "end_time": 2117.197,
+      "duration": 2.04300000000012,
+      "dialogue_text": "Our Lord who art in Heaven..."
+    },
+    {
+      "subtitle_index": 340,
+      "start_time": 2117.406,
+      "end_time": 2121.701,
+      "duration": 4.295000000000073,
+      "dialogue_text": "We thank Thee for giving our struggling company work and bread."
+    },
+    {
+      "subtitle_index": 341,
+      "start_time": 2121.869,
+      "end_time": 2126.706,
+      "duration": 4.836999999999989,
+      "dialogue_text": "Forgive our using women's hands to build a fighter plane."
+    },
+    {
+      "subtitle_index": 342,
+      "start_time": 2130.753,
+      "end_time": 2133.964,
+      "duration": 3.2109999999997854,
+      "dialogue_text": "Let's eat up and get to work!"
+    },
+    {
+      "subtitle_index": 343,
+      "start_time": 2144.142,
+      "end_time": 2147.352,
+      "duration": 3.2100000000000364,
+      "dialogue_text": "Hear that? She's perfect."
+    },
+    {
+      "subtitle_index": 344,
+      "start_time": 2154.277,
+      "end_time": 2156.528,
+      "duration": 2.250999999999749,
+      "dialogue_text": "How do you like them RPMs?"
+    },
+    {
+      "subtitle_index": 345,
+      "start_time": 2156.654,
+      "end_time": 2160.073,
+      "duration": 3.418999999999869,
+      "dialogue_text": "Watch out or you'll blow the shed away."
+    },
+    {
+      "subtitle_index": 346,
+      "start_time": 2160.825,
+      "end_time": 2164.202,
+      "duration": 3.3770000000004075,
+      "dialogue_text": "Curtiss doesn't stand a chance."
+    },
+    {
+      "subtitle_index": 347,
+      "start_time": 2195.276,
+      "end_time": 2197.444,
+      "duration": 2.16800000000012,
+      "dialogue_text": "Υeah, it's a good idea."
+    },
+    {
+      "subtitle_index": 348,
+      "start_time": 2197.653,
+      "end_time": 2199.362,
+      "duration": 1.7090000000002874,
+      "dialogue_text": "So can I do it?"
+    },
+    {
+      "subtitle_index": 349,
+      "start_time": 2200.031,
+      "end_time": 2204.075,
+      "duration": 4.043999999999869,
+      "dialogue_text": "Well, this is going to cost a lot more money."
+    },
+    {
+      "subtitle_index": 350,
+      "start_time": 2204.619,
+      "end_time": 2210.207,
+      "duration": 5.587999999999738,
+      "dialogue_text": "We're way over budget already. Ask our sponsor."
+    },
+    {
+      "subtitle_index": 351,
+      "start_time": 2212.46,
+      "end_time": 2213.501,
+      "duration": 1.0410000000001673,
+      "dialogue_text": "Porco..."
+    },
+    {
+      "subtitle_index": 352,
+      "start_time": 2215.963,
+      "end_time": 2219.799,
+      "duration": 3.8359999999997854,
+      "dialogue_text": "Don't look at me like that. Do whatever you like."
+    },
+    {
+      "subtitle_index": 353,
+      "start_time": 2220.134,
+      "end_time": 2223.929,
+      "duration": 3.7950000000000728,
+      "dialogue_text": "Great! I'll tell the workshop and we'll get to work."
+    },
+    {
+      "subtitle_index": 354,
+      "start_time": 2224.555,
+      "end_time": 2226.097,
+      "duration": 1.542000000000371,
+      "dialogue_text": "Porco, I love you!"
+    },
+    {
+      "subtitle_index": 355,
+      "start_time": 2230.394,
+      "end_time": 2232.437,
+      "duration": 2.04300000000012,
+      "dialogue_text": "I can wait three months."
+    },
+    {
+      "subtitle_index": 356,
+      "start_time": 2232.647,
+      "end_time": 2234.898,
+      "duration": 2.2510000000002037,
+      "dialogue_text": "Maybe I'll become a pirate."
+    },
+    {
+      "subtitle_index": 357,
+      "start_time": 2235.358,
+      "end_time": 2236.566,
+      "duration": 1.207999999999629,
+      "dialogue_text": "She's a good kid, huh?"
+    },
+    {
+      "subtitle_index": 358,
+      "start_time": 2237.526,
+      "end_time": 2238.652,
+      "duration": 1.1260000000002037,
+      "dialogue_text": "Hands off."
+    },
+    {
+      "subtitle_index": 359,
+      "start_time": 2239.528,
+      "end_time": 2242.28,
+      "duration": 2.7520000000004075,
+      "dialogue_text": "That's the furthest thing from my mind."
+    },
+    {
+      "subtitle_index": 360,
+      "start_time": 2316.689,
+      "end_time": 2318.857,
+      "duration": 2.16800000000012,
+      "dialogue_text": "So you made Squadron Leader."
+    },
+    {
+      "subtitle_index": 361,
+      "start_time": 2318.983,
+      "end_time": 2320.775,
+      "duration": 1.7919999999999163,
+      "dialogue_text": "Why did you come back?"
+    },
+    {
+      "subtitle_index": 362,
+      "start_time": 2321.902,
+      "end_time": 2323.987,
+      "duration": 2.0850000000000364,
+      "dialogue_text": "I go where I want, Ferrarin."
+    },
+    {
+      "subtitle_index": 363,
+      "start_time": 2324.739,
+      "end_time": 2328.908,
+      "duration": 4.168999999999869,
+      "dialogue_text": "The authorities don't like it. Did you notice you're being tailed?"
+    },
+    {
+      "subtitle_index": 364,
+      "start_time": 2329.035,
+      "end_time": 2330.118,
+      "duration": 1.0830000000000837,
+      "dialogue_text": "Υeah."
+    },
+    {
+      "subtitle_index": 365,
+      "start_time": 2330.828,
+      "end_time": 2337.042,
+      "duration": 6.213999999999942,
+      "dialogue_text": "There are warrants out on you for treason, illegal entry, decadence..."
+    },
+    {
+      "subtitle_index": 366,
+      "start_time": 2337.418,
+      "end_time": 2340.086,
+      "duration": 2.6679999999996653,
+      "dialogue_text": "...pornography, and being a lazy pig."
+    },
+    {
+      "subtitle_index": 367,
+      "start_time": 2341.797,
+      "end_time": 2343.631,
+      "duration": 1.8339999999998327,
+      "dialogue_text": "It's not funny!"
+    },
+    {
+      "subtitle_index": 368,
+      "start_time": 2344.759,
+      "end_time": 2347.469,
+      "duration": 2.7100000000000364,
+      "dialogue_text": "They want to seize your plane, too."
+    },
+    {
+      "subtitle_index": 369,
+      "start_time": 2348.512,
+      "end_time": 2350.388,
+      "duration": 1.875999999999749,
+      "dialogue_text": "This is a lousy film."
+    },
+    {
+      "subtitle_index": 370,
+      "start_time": 2350.931,
+      "end_time": 2356.102,
+      "duration": 5.170999999999822,
+      "dialogue_text": "Come back to the Air Force, Marco. I could still get you in."
+    },
+    {
+      "subtitle_index": 371,
+      "start_time": 2356.937,
+      "end_time": 2359.564,
+      "duration": 2.6269999999999527,
+      "dialogue_text": "Better a pig than a Fascist."
+    },
+    {
+      "subtitle_index": 372,
+      "start_time": 2359.774,
+      "end_time": 2361.733,
+      "duration": 1.9590000000002874,
+      "dialogue_text": "Freelance daredevils are finished."
+    },
+    {
+      "subtitle_index": 373,
+      "start_time": 2362.276,
+      "end_time": 2366.112,
+      "duration": 3.83600000000024,
+      "dialogue_text": "To fly now you need a government or an airline to pay you."
+    },
+    {
+      "subtitle_index": 374,
+      "start_time": 2367.656,
+      "end_time": 2370.075,
+      "duration": 2.418999999999869,
+      "dialogue_text": "I only fly for myself."
+    },
+    {
+      "subtitle_index": 375,
+      "start_time": 2371.619,
+      "end_time": 2373.703,
+      "duration": 2.0839999999998327,
+      "dialogue_text": "Wherever you fly, you're still a pig."
+    },
+    {
+      "subtitle_index": 376,
+      "start_time": 2374.955,
+      "end_time": 2378.208,
+      "duration": 3.2530000000001564,
+      "dialogue_text": "Thanks, Ferrarin. Say hello to the guys."
+    },
+    {
+      "subtitle_index": 377,
+      "start_time": 2379.96,
+      "end_time": 2381.294,
+      "duration": 1.3339999999998327,
+      "dialogue_text": "This is a good film."
+    },
+    {
+      "subtitle_index": 378,
+      "start_time": 2381.962,
+      "end_time": 2385.423,
+      "duration": 3.4609999999997854,
+      "dialogue_text": "Watch your back. They won't bother with a trial."
+    },
+    {
+      "subtitle_index": 379,
+      "start_time": 2387.635,
+      "end_time": 2388.885,
+      "duration": 1.25,
+      "dialogue_text": "See you, buddy."
+    },
+    {
+      "subtitle_index": 380,
+      "start_time": 2407.863,
+      "end_time": 2409.03,
+      "duration": 1.167000000000371,
+      "dialogue_text": "Want a ride?"
+    },
+    {
+      "subtitle_index": 381,
+      "start_time": 2414.328,
+      "end_time": 2415.995,
+      "duration": 1.6669999999999163,
+      "dialogue_text": "Good timing."
+    },
+    {
+      "subtitle_index": 382,
+      "start_time": 2422.086,
+      "end_time": 2427.34,
+      "duration": 5.25400000000036,
+      "dialogue_text": "I borrowed this to take the plane to the lake for tests tomorrow."
+    },
+    {
+      "subtitle_index": 383,
+      "start_time": 2427.508,
+      "end_time": 2430.051,
+      "duration": 2.54300000000012,
+      "dialogue_text": "No tests. I've got no time."
+    },
+    {
+      "subtitle_index": 384,
+      "start_time": 2431.262,
+      "end_time": 2434.681,
+      "duration": 3.418999999999869,
+      "dialogue_text": "Don't be stupid! I won't deliver an untested plane."
+    },
+    {
+      "subtitle_index": 385,
+      "start_time": 2434.932,
+      "end_time": 2438.56,
+      "duration": 3.6280000000001564,
+      "dialogue_text": "We can take it apart and get it to the lake in a day."
+    },
+    {
+      "subtitle_index": 386,
+      "start_time": 2438.769,
+      "end_time": 2443.523,
+      "duration": 4.75400000000036,
+      "dialogue_text": "I said there's no time. Take a look behind us."
+    },
+    {
+      "subtitle_index": 387,
+      "start_time": 2445.192,
+      "end_time": 2446.901,
+      "duration": 1.7089999999998327,
+      "dialogue_text": "The Fascist Secret Police."
+    },
+    {
+      "subtitle_index": 388,
+      "start_time": 2448.571,
+      "end_time": 2449.904,
+      "duration": 1.3330000000000837,
+      "dialogue_text": "They followed you."
+    },
+    {
+      "subtitle_index": 389,
+      "start_time": 2450.781,
+      "end_time": 2452.866,
+      "duration": 2.0850000000000364,
+      "dialogue_text": "Me? Why?"
+    },
+    {
+      "subtitle_index": 390,
+      "start_time": 2453.367,
+      "end_time": 2458.705,
+      "duration": 5.337999999999738,
+      "dialogue_text": "Because they're following me. And you're fixing my plane."
+    },
+    {
+      "subtitle_index": 391,
+      "start_time": 2461.917,
+      "end_time": 2464.544,
+      "duration": 2.6269999999999527,
+      "dialogue_text": "Porco, are you a spy?"
+    },
+    {
+      "subtitle_index": 392,
+      "start_time": 2469.091,
+      "end_time": 2470.717,
+      "duration": 1.6260000000002037,
+      "dialogue_text": "Me, a spy?"
+    },
+    {
+      "subtitle_index": 393,
+      "start_time": 2472.678,
+      "end_time": 2476.264,
+      "duration": 3.58600000000024,
+      "dialogue_text": "I don't work hard enough to be a spy."
+    },
+    {
+      "subtitle_index": 394,
+      "start_time": 2476.64,
+      "end_time": 2479.184,
+      "duration": 2.544000000000324,
+      "dialogue_text": "But you were a war hero."
+    },
+    {
+      "subtitle_index": 395,
+      "start_time": 2479.894,
+      "end_time": 2482.103,
+      "duration": 2.2090000000002874,
+      "dialogue_text": "Why follow an innocent man?"
+    },
+    {
+      "subtitle_index": 396,
+      "start_time": 2482.313,
+      "end_time": 2484.564,
+      "duration": 2.250999999999749,
+      "dialogue_text": "My thoughts exactly."
+    },
+    {
+      "subtitle_index": 397,
+      "start_time": 2488.944,
+      "end_time": 2490.695,
+      "duration": 1.7510000000002037,
+      "dialogue_text": "Whoops! Wrong way."
+    },
+    {
+      "subtitle_index": 398,
+      "start_time": 2503.0,
+      "end_time": 2505.96,
+      "duration": 2.9600000000000364,
+      "dialogue_text": "Doesn't seem like you've been doing nothing."
+    },
+    {
+      "subtitle_index": 399,
+      "start_time": 2506.212,
+      "end_time": 2508.254,
+      "duration": 2.0419999999999163,
+      "dialogue_text": "Time to get busy."
+    },
+    {
+      "subtitle_index": 400,
+      "start_time": 2537.785,
+      "end_time": 2539.035,
+      "duration": 1.25,
+      "dialogue_text": "It's ready to fly."
+    },
+    {
+      "subtitle_index": 401,
+      "start_time": 2539.161,
+      "end_time": 2542.83,
+      "duration": 3.668999999999869,
+      "dialogue_text": "There's two men out back and three in front."
+    },
+    {
+      "subtitle_index": 402,
+      "start_time": 2542.957,
+      "end_time": 2544.832,
+      "duration": 1.875,
+      "dialogue_text": "This is so exciting!"
+    },
+    {
+      "subtitle_index": 403,
+      "start_time": 2545.459,
+      "end_time": 2547.752,
+      "duration": 2.29300000000012,
+      "dialogue_text": "Settle down, Grandma."
+    },
+    {
+      "subtitle_index": 404,
+      "start_time": 2550.464,
+      "end_time": 2551.714,
+      "duration": 1.25,
+      "dialogue_text": "I'll see you."
+    },
+    {
+      "subtitle_index": 405,
+      "start_time": 2564.144,
+      "end_time": 2565.687,
+      "duration": 1.54300000000012,
+      "dialogue_text": "What are you doing?"
+    },
+    {
+      "subtitle_index": 406,
+      "start_time": 2566.438,
+      "end_time": 2569.148,
+      "duration": 2.7100000000000364,
+      "dialogue_text": "I'm coming with you. Give me five minutes."
+    },
+    {
+      "subtitle_index": 407,
+      "start_time": 2570.609,
+      "end_time": 2573.987,
+      "duration": 3.3780000000001564,
+      "dialogue_text": "What are you talking about? Don't be stupid!"
+    },
+    {
+      "subtitle_index": 408,
+      "start_time": 2574.488,
+      "end_time": 2576.948,
+      "duration": 2.4600000000000364,
+      "dialogue_text": "Shh! Don't shout."
+    },
+    {
+      "subtitle_index": 409,
+      "start_time": 2577.283,
+      "end_time": 2578.992,
+      "duration": 1.7090000000002874,
+      "dialogue_text": "Listen to me, Fio."
+    },
+    {
+      "subtitle_index": 410,
+      "start_time": 2581.12,
+      "end_time": 2585.123,
+      "duration": 4.003000000000156,
+      "dialogue_text": "You're a respectable woman. And you're not married."
+    },
+    {
+      "subtitle_index": 411,
+      "start_time": 2585.249,
+      "end_time": 2586.666,
+      "duration": 1.417000000000371,
+      "dialogue_text": "Hold this."
+    },
+    {
+      "subtitle_index": 412,
+      "start_time": 2588.127,
+      "end_time": 2591.129,
+      "duration": 3.0019999999999527,
+      "dialogue_text": "Thanks. I just finished this."
+    },
+    {
+      "subtitle_index": 413,
+      "start_time": 2595.426,
+      "end_time": 2596.676,
+      "duration": 1.25,
+      "dialogue_text": "Perfect!"
+    },
+    {
+      "subtitle_index": 414,
+      "start_time": 2597.97,
+      "end_time": 2599.22,
+      "duration": 1.25,
+      "dialogue_text": "Hold that, will you?"
+    },
+    {
+      "subtitle_index": 415,
+      "start_time": 2601.181,
+      "end_time": 2607.02,
+      "duration": 5.838999999999942,
+      "dialogue_text": "Look, I'm a bounty hunter. I'm not running a tourist service."
+    },
+    {
+      "subtitle_index": 416,
+      "start_time": 2608.314,
+      "end_time": 2614.027,
+      "duration": 5.713000000000193,
+      "dialogue_text": "I want to get my first job right. I can make adjustments as we go."
+    },
+    {
+      "subtitle_index": 417,
+      "start_time": 2614.528,
+      "end_time": 2620.033,
+      "duration": 5.505000000000109,
+      "dialogue_text": "I'm taking off from the canal. I might not even get airborne."
+    },
+    {
+      "subtitle_index": 418,
+      "start_time": 2620.284,
+      "end_time": 2625.705,
+      "duration": 5.420999999999822,
+      "dialogue_text": "All the more reason to take me. You'll need a mechanic against Curtiss."
+    },
+    {
+      "subtitle_index": 419,
+      "start_time": 2625.831,
+      "end_time": 2630.71,
+      "duration": 4.878999999999905,
+      "dialogue_text": "I'm a man. We'll be all alone on a deserted island."
+    },
+    {
+      "subtitle_index": 420,
+      "start_time": 2630.836,
+      "end_time": 2632.962,
+      "duration": 2.1260000000002037,
+      "dialogue_text": "Great. I love camping."
+    },
+    {
+      "subtitle_index": 421,
+      "start_time": 2633.088,
+      "end_time": 2635.131,
+      "duration": 2.0429999999996653,
+      "dialogue_text": "That's not the point."
+    },
+    {
+      "subtitle_index": 422,
+      "start_time": 2636.3,
+      "end_time": 2640.72,
+      "duration": 4.419999999999618,
+      "dialogue_text": "Take her along. If you don't beat Curtiss, we don't get paid."
+    },
+    {
+      "subtitle_index": 423,
+      "start_time": 2641.18,
+      "end_time": 2643.89,
+      "duration": 2.7100000000000364,
+      "dialogue_text": "If you don't pay, we go broke."
+    },
+    {
+      "subtitle_index": 424,
+      "start_time": 2644.016,
+      "end_time": 2645.725,
+      "duration": 1.7089999999998327,
+      "dialogue_text": "You're her grandfather!"
+    },
+    {
+      "subtitle_index": 425,
+      "start_time": 2646.143,
+      "end_time": 2650.229,
+      "duration": 4.085999999999785,
+      "dialogue_text": "I'll give you a break on her salary and throw in this voice tube."
+    },
+    {
+      "subtitle_index": 426,
+      "start_time": 2650.981,
+      "end_time": 2653.441,
+      "duration": 2.4599999999995816,
+      "dialogue_text": "They'll put a price on her head."
+    },
+    {
+      "subtitle_index": 427,
+      "start_time": 2653.692,
+      "end_time": 2656.569,
+      "duration": 2.8769999999999527,
+      "dialogue_text": "No. I'll be your hostage."
+    },
+    {
+      "subtitle_index": 428,
+      "start_time": 2656.82,
+      "end_time": 2661.741,
+      "duration": 4.920999999999822,
+      "dialogue_text": "We'll tell the police you forced us to help you. That'll be our excuse."
+    },
+    {
+      "subtitle_index": 429,
+      "start_time": 2662.951,
+      "end_time": 2667.08,
+      "duration": 4.128999999999905,
+      "dialogue_text": "Please take me with you. I'll make myself useful."
+    },
+    {
+      "subtitle_index": 430,
+      "start_time": 2669.958,
+      "end_time": 2671.918,
+      "duration": 1.9600000000000364,
+      "dialogue_text": "Take out the right machine gun."
+    },
+    {
+      "subtitle_index": 431,
+      "start_time": 2673.087,
+      "end_time": 2677.548,
+      "duration": 4.460999999999785,
+      "dialogue_text": "I don't care how small your bottom is, that's a tight fit."
+    },
+    {
+      "subtitle_index": 432,
+      "start_time": 2677.883,
+      "end_time": 2681.928,
+      "duration": 4.045000000000073,
+      "dialogue_text": "Okay! My hips are bigger than they look. Wait a minute."
+    },
+    {
+      "subtitle_index": 433,
+      "start_time": 2683.722,
+      "end_time": 2687.6,
+      "duration": 3.8779999999997017,
+      "dialogue_text": "We better leave before Grandma decides to come too."
+    },
+    {
+      "subtitle_index": 434,
+      "start_time": 2687.768,
+      "end_time": 2689.894,
+      "duration": 2.125999999999749,
+      "dialogue_text": "Hey, that's an idea!"
+    },
+    {
+      "subtitle_index": 435,
+      "start_time": 2692.606,
+      "end_time": 2694.065,
+      "duration": 1.4589999999998327,
+      "dialogue_text": "Grandma, quick!"
+    },
+    {
+      "subtitle_index": 436,
+      "start_time": 2694.274,
+      "end_time": 2696.442,
+      "duration": 2.16800000000012,
+      "dialogue_text": "No souvenirs, please."
+    },
+    {
+      "subtitle_index": 437,
+      "start_time": 2705.577,
+      "end_time": 2707.412,
+      "duration": 1.8349999999995816,
+      "dialogue_text": "Contact!"
+    },
+    {
+      "subtitle_index": 438,
+      "start_time": 2716.714,
+      "end_time": 2718.256,
+      "duration": 1.5419999999999163,
+      "dialogue_text": "Open up!"
+    },
+    {
+      "subtitle_index": 439,
+      "start_time": 2726.306,
+      "end_time": 2727.306,
+      "duration": 1.0,
+      "dialogue_text": "Let go!"
+    },
+    {
+      "subtitle_index": 440,
+      "start_time": 2747.786,
+      "end_time": 2751.33,
+      "duration": 3.543999999999869,
+      "dialogue_text": "Kidnapper! Pay us our money!"
+    },
+    {
+      "subtitle_index": 441,
+      "start_time": 2760.007,
+      "end_time": 2761.632,
+      "duration": 1.625,
+      "dialogue_text": "How's the rudder, Porco?"
+    },
+    {
+      "subtitle_index": 442,
+      "start_time": 2761.842,
+      "end_time": 2765.636,
+      "duration": 3.793999999999869,
+      "dialogue_text": "A handful, just like you. I can barely control it."
+    },
+    {
+      "subtitle_index": 443,
+      "start_time": 2769.141,
+      "end_time": 2771.35,
+      "duration": 2.2089999999998327,
+      "dialogue_text": "Stop and I'll fix it."
+    },
+    {
+      "subtitle_index": 444,
+      "start_time": 2771.518,
+      "end_time": 2774.353,
+      "duration": 2.8350000000000364,
+      "dialogue_text": "No time. I've got to get her up."
+    },
+    {
+      "subtitle_index": 445,
+      "start_time": 2778.15,
+      "end_time": 2779.859,
+      "duration": 1.7089999999998327,
+      "dialogue_text": "This water's like glue!"
+    },
+    {
+      "subtitle_index": 446,
+      "start_time": 2780.986,
+      "end_time": 2781.986,
+      "duration": 1.0,
+      "dialogue_text": "Barge ahead!"
+    },
+    {
+      "subtitle_index": 447,
+      "start_time": 2785.949,
+      "end_time": 2787.033,
+      "duration": 1.0839999999998327,
+      "dialogue_text": "Here we go!"
+    },
+    {
+      "subtitle_index": 448,
+      "start_time": 2790.829,
+      "end_time": 2792.079,
+      "duration": 1.25,
+      "dialogue_text": "Come on, baby!"
+    },
+    {
+      "subtitle_index": 449,
+      "start_time": 2792.664,
+      "end_time": 2795.082,
+      "duration": 2.4179999999996653,
+      "dialogue_text": "The flaps are in the water. Use your tabs."
+    },
+    {
+      "subtitle_index": 450,
+      "start_time": 2795.209,
+      "end_time": 2795.875,
+      "duration": 0.6660000000001673,
+      "dialogue_text": "Tabs?"
+    },
+    {
+      "subtitle_index": 451,
+      "start_time": 2796.043,
+      "end_time": 2797.21,
+      "duration": 1.1669999999999163,
+      "dialogue_text": "They're new."
+    },
+    {
+      "subtitle_index": 452,
+      "start_time": 2798.629,
+      "end_time": 2799.587,
+      "duration": 0.9580000000000837,
+      "dialogue_text": "Quick!"
+    },
+    {
+      "subtitle_index": 453,
+      "start_time": 2812.684,
+      "end_time": 2815.228,
+      "duration": 2.543999999999869,
+      "dialogue_text": "That's right. Now you're behaving."
+    },
+    {
+      "subtitle_index": 454,
+      "start_time": 2850.764,
+      "end_time": 2853.766,
+      "duration": 3.0019999999999527,
+      "dialogue_text": "Beautiful. The world is so beautiful."
+    },
+    {
+      "subtitle_index": 455,
+      "start_time": 2858.23,
+      "end_time": 2859.272,
+      "duration": 1.0419999999999163,
+      "dialogue_text": "Are they after us?"
+    },
+    {
+      "subtitle_index": 456,
+      "start_time": 2859.69,
+      "end_time": 2861.649,
+      "duration": 1.9589999999998327,
+      "dialogue_text": "He's not stalking us."
+    },
+    {
+      "subtitle_index": 457,
+      "start_time": 2862.651,
+      "end_time": 2865.319,
+      "duration": 2.66800000000012,
+      "dialogue_text": "But that's an Air Force plane."
+    },
+    {
+      "subtitle_index": 458,
+      "start_time": 2866.238,
+      "end_time": 2867.78,
+      "duration": 1.542000000000371,
+      "dialogue_text": "It's Ferrarin."
+    },
+    {
+      "subtitle_index": 459,
+      "start_time": 2874.079,
+      "end_time": 2875.079,
+      "duration": 1.0,
+      "dialogue_text": "You know him?"
+    },
+    {
+      "subtitle_index": 460,
+      "start_time": 2875.247,
+      "end_time": 2879.458,
+      "duration": 4.21100000000024,
+      "dialogue_text": "The Air Force is waiting for us. He'll show us a way through."
+    },
+    {
+      "subtitle_index": 461,
+      "start_time": 2898.604,
+      "end_time": 2901.522,
+      "duration": 2.91800000000012,
+      "dialogue_text": "He says to fly low to the Adriatic."
+    },
+    {
+      "subtitle_index": 462,
+      "start_time": 2901.982,
+      "end_time": 2903.441,
+      "duration": 1.4589999999998327,
+      "dialogue_text": "Thanks, buddy!"
+    },
+    {
+      "subtitle_index": 463,
+      "start_time": 2904.318,
+      "end_time": 2905.818,
+      "duration": 1.5,
+      "dialogue_text": "Thank you!"
+    },
+    {
+      "subtitle_index": 464,
+      "start_time": 2913.911,
+      "end_time": 2917.163,
+      "duration": 3.2519999999999527,
+      "dialogue_text": "He saw you and signaled \"pearls before swine.\""
+    },
+    {
+      "subtitle_index": 465,
+      "start_time": 2983.897,
+      "end_time": 2985.481,
+      "duration": 1.5840000000002874,
+      "dialogue_text": "Beautiful."
+    },
+    {
+      "subtitle_index": 466,
+      "start_time": 2986.4,
+      "end_time": 2989.902,
+      "duration": 3.5019999999999527,
+      "dialogue_text": "A single rose blooming in a secret garden."
+    },
+    {
+      "subtitle_index": 467,
+      "start_time": 2993.865,
+      "end_time": 2996.993,
+      "duration": 3.1280000000001564,
+      "dialogue_text": "Naughty boy. This is a private garden."
+    },
+    {
+      "subtitle_index": 468,
+      "start_time": 2997.452,
+      "end_time": 2999.495,
+      "duration": 2.0429999999996653,
+      "dialogue_text": "You've got to read this."
+    },
+    {
+      "subtitle_index": 469,
+      "start_time": 3006.128,
+      "end_time": 3007.753,
+      "duration": 1.625,
+      "dialogue_text": "It's from Hollywood."
+    },
+    {
+      "subtitle_index": 470,
+      "start_time": 3008.338,
+      "end_time": 3011.757,
+      "duration": 3.418999999999869,
+      "dialogue_text": "\"Regarding your starring in the movie script you sent...\""
+    },
+    {
+      "subtitle_index": 471,
+      "start_time": 3012.259,
+      "end_time": 3015.594,
+      "duration": 3.3350000000000364,
+      "dialogue_text": "I'm going to be a star, I'm sure of it."
+    },
+    {
+      "subtitle_index": 472,
+      "start_time": 3016.263,
+      "end_time": 3019.223,
+      "duration": 2.9600000000000364,
+      "dialogue_text": "The movie's called Flower of the Adriatic."
+    },
+    {
+      "subtitle_index": 473,
+      "start_time": 3019.391,
+      "end_time": 3020.266,
+      "duration": 0.875,
+      "dialogue_text": "Nice name."
+    },
+    {
+      "subtitle_index": 474,
+      "start_time": 3020.434,
+      "end_time": 3022.435,
+      "duration": 2.000999999999749,
+      "dialogue_text": "Like it? Then it's settled."
+    },
+    {
+      "subtitle_index": 475,
+      "start_time": 3022.894,
+      "end_time": 3025.271,
+      "duration": 2.3770000000004075,
+      "dialogue_text": "Gina, come to Hollywood with me."
+    },
+    {
+      "subtitle_index": 476,
+      "start_time": 3027.566,
+      "end_time": 3031.61,
+      "duration": 4.044000000000324,
+      "dialogue_text": "Being a hired gun is just a rung on the ladder."
+    },
+    {
+      "subtitle_index": 477,
+      "start_time": 3032.404,
+      "end_time": 3034.613,
+      "duration": 2.2089999999998327,
+      "dialogue_text": "The next rung is Hollywood star."
+    },
+    {
+      "subtitle_index": 478,
+      "start_time": 3035.157,
+      "end_time": 3036.115,
+      "duration": 0.9579999999996289,
+      "dialogue_text": "And then?"
+    },
+    {
+      "subtitle_index": 479,
+      "start_time": 3036.908,
+      "end_time": 3038.117,
+      "duration": 1.2090000000002874,
+      "dialogue_text": "President!"
+    },
+    {
+      "subtitle_index": 480,
+      "start_time": 3045.834,
+      "end_time": 3050.713,
+      "duration": 4.87900000000036,
+      "dialogue_text": "I'm serious. I'll make you First Lady, Gina. I mean it."
+    },
+    {
+      "subtitle_index": 481,
+      "start_time": 3051.131,
+      "end_time": 3052.131,
+      "duration": 1.0,
+      "dialogue_text": "Gina!"
+    },
+    {
+      "subtitle_index": 482,
+      "start_time": 3053.633,
+      "end_time": 3056.302,
+      "duration": 2.669000000000324,
+      "dialogue_text": "You're a dreamer. I like that in a man."
+    },
+    {
+      "subtitle_index": 483,
+      "start_time": 3056.47,
+      "end_time": 3057.47,
+      "duration": 1.0,
+      "dialogue_text": "Really?"
+    },
+    {
+      "subtitle_index": 484,
+      "start_time": 3058.889,
+      "end_time": 3062.349,
+      "duration": 3.4600000000000364,
+      "dialogue_text": "But I can't go. I'm gambling right now."
+    },
+    {
+      "subtitle_index": 485,
+      "start_time": 3065.437,
+      "end_time": 3071.609,
+      "duration": 6.1720000000000255,
+      "dialogue_text": "Gambling someone will visit me here, and I'll tell him I love him."
+    },
+    {
+      "subtitle_index": 486,
+      "start_time": 3072.778,
+      "end_time": 3075.988,
+      "duration": 3.2100000000000364,
+      "dialogue_text": "But the fool only comes to the club at night."
+    },
+    {
+      "subtitle_index": 487,
+      "start_time": 3076.615,
+      "end_time": 3079.158,
+      "duration": 2.54300000000012,
+      "dialogue_text": "He never comes out in daylight."
+    },
+    {
+      "subtitle_index": 488,
+      "start_time": 3121.827,
+      "end_time": 3123.869,
+      "duration": 2.0419999999999163,
+      "dialogue_text": "That jerk is back!"
+    },
+    {
+      "subtitle_index": 489,
+      "start_time": 3184.222,
+      "end_time": 3185.264,
+      "duration": 1.0419999999999163,
+      "dialogue_text": "You fool."
+    },
+    {
+      "subtitle_index": 490,
+      "start_time": 3195.108,
+      "end_time": 3198.652,
+      "duration": 3.543999999999869,
+      "dialogue_text": "He kept going. I lost again."
+    },
+    {
+      "subtitle_index": 491,
+      "start_time": 3198.82,
+      "end_time": 3201.78,
+      "duration": 2.9600000000000364,
+      "dialogue_text": "You mean you're betting on that jerk?"
+    },
+    {
+      "subtitle_index": 492,
+      "start_time": 3202.365,
+      "end_time": 3203.407,
+      "duration": 1.042000000000371,
+      "dialogue_text": "Why not?"
+    },
+    {
+      "subtitle_index": 493,
+      "start_time": 3204.284,
+      "end_time": 3207.953,
+      "duration": 3.668999999999869,
+      "dialogue_text": "Life here is more complicated than in your country."
+    },
+    {
+      "subtitle_index": 494,
+      "start_time": 3208.413,
+      "end_time": 3210.289,
+      "duration": 1.8760000000002037,
+      "dialogue_text": "Romance is easy, but..."
+    },
+    {
+      "subtitle_index": 495,
+      "start_time": 3211.625,
+      "end_time": 3214.46,
+      "duration": 2.8350000000000364,
+      "dialogue_text": "Good luck in Hollywood, kid."
+    },
+    {
+      "subtitle_index": 496,
+      "start_time": 3214.753,
+      "end_time": 3216.17,
+      "duration": 1.4169999999999163,
+      "dialogue_text": "\"Kid?\""
+    },
+    {
+      "subtitle_index": 497,
+      "start_time": 3220.467,
+      "end_time": 3223.719,
+      "duration": 3.2519999999999527,
+      "dialogue_text": "I bumped my head when you did that roll."
+    },
+    {
+      "subtitle_index": 498,
+      "start_time": 3224.137,
+      "end_time": 3226.138,
+      "duration": 2.000999999999749,
+      "dialogue_text": "Just saying hello to a friend."
+    },
+    {
+      "subtitle_index": 499,
+      "start_time": 3226.389,
+      "end_time": 3228.182,
+      "duration": 1.7929999999996653,
+      "dialogue_text": "Gina of the Hotel Adriano?"
+    },
+    {
+      "subtitle_index": 500,
+      "start_time": 3229.935,
+      "end_time": 3234.271,
+      "duration": 4.33600000000024,
+      "dialogue_text": "The woman in white on the terrace? Grandpa told me."
+    },
+    {
+      "subtitle_index": 501,
+      "start_time": 3234.439,
+      "end_time": 3237.983,
+      "duration": 3.544000000000324,
+      "dialogue_text": "All the pilots in the Adriatic are in love with Gina."
+    },
+    {
+      "subtitle_index": 502,
+      "start_time": 3238.235,
+      "end_time": 3239.777,
+      "duration": 1.5419999999999163,
+      "dialogue_text": "He's got a big mouth."
+    },
+    {
+      "subtitle_index": 503,
+      "start_time": 3241.404,
+      "end_time": 3244.782,
+      "duration": 3.3780000000001564,
+      "dialogue_text": "What's she like? Are you in love with her too?"
+    },
+    {
+      "subtitle_index": 504,
+      "start_time": 3245.2,
+      "end_time": 3248.285,
+      "duration": 3.0850000000000364,
+      "dialogue_text": "I'm putting down. Shut up or you'll bite your tongue."
+    },
+    {
+      "subtitle_index": 505,
+      "start_time": 3248.411,
+      "end_time": 3249.995,
+      "duration": 1.5839999999998327,
+      "dialogue_text": "Wait. Hey!"
+    },
+    {
+      "subtitle_index": 506,
+      "start_time": 3275.063,
+      "end_time": 3277.731,
+      "duration": 2.66800000000012,
+      "dialogue_text": "A girl in a fighter plane!"
+    },
+    {
+      "subtitle_index": 507,
+      "start_time": 3279.025,
+      "end_time": 3280.15,
+      "duration": 1.125,
+      "dialogue_text": "Where's Porco?"
+    },
+    {
+      "subtitle_index": 508,
+      "start_time": 3280.652,
+      "end_time": 3282.736,
+      "duration": 2.0839999999998327,
+      "dialogue_text": "Talking politics with my dad."
+    },
+    {
+      "subtitle_index": 509,
+      "start_time": 3282.946,
+      "end_time": 3287.241,
+      "duration": 4.295000000000073,
+      "dialogue_text": "It's not just the caretaker government. It's the royalists, too."
+    },
+    {
+      "subtitle_index": 510,
+      "start_time": 3287.492,
+      "end_time": 3291.161,
+      "duration": 3.668999999999869,
+      "dialogue_text": "They want to link up with the Pirates' Federation."
+    },
+    {
+      "subtitle_index": 511,
+      "start_time": 3291.329,
+      "end_time": 3294.999,
+      "duration": 3.669999999999618,
+      "dialogue_text": "There's no money in chasing pirates any more."
+    },
+    {
+      "subtitle_index": 512,
+      "start_time": 3295.125,
+      "end_time": 3296.0,
+      "duration": 0.875,
+      "dialogue_text": "There."
+    },
+    {
+      "subtitle_index": 513,
+      "start_time": 3296.126,
+      "end_time": 3297.042,
+      "duration": 0.9159999999997126,
+      "dialogue_text": "Thanks."
+    },
+    {
+      "subtitle_index": 514,
+      "start_time": 3297.669,
+      "end_time": 3299.878,
+      "duration": 2.2090000000002874,
+      "dialogue_text": "All this talk about a depression!"
+    },
+    {
+      "subtitle_index": 515,
+      "start_time": 3300.046,
+      "end_time": 3303.757,
+      "duration": 3.71100000000024,
+      "dialogue_text": "You ought to sell your services somewhere, too."
+    },
+    {
+      "subtitle_index": 516,
+      "start_time": 3304.175,
+      "end_time": 3306.885,
+      "duration": 2.7100000000000364,
+      "dialogue_text": "A good pilot can make good money."
+    },
+    {
+      "subtitle_index": 517,
+      "start_time": 3307.012,
+      "end_time": 3308.22,
+      "duration": 1.207999999999629,
+      "dialogue_text": "Got any smokes?"
+    },
+    {
+      "subtitle_index": 518,
+      "start_time": 3308.388,
+      "end_time": 3311.557,
+      "duration": 3.168999999999869,
+      "dialogue_text": "Curtiss'll go back to the States soon."
+    },
+    {
+      "subtitle_index": 519,
+      "start_time": 3311.683,
+      "end_time": 3315.227,
+      "duration": 3.543999999999869,
+      "dialogue_text": "We're the ones who should go to America."
+    },
+    {
+      "subtitle_index": 520,
+      "start_time": 3316.521,
+      "end_time": 3320.065,
+      "duration": 3.543999999999869,
+      "dialogue_text": "Farewell to days of fun and freedom in the Adriatic."
+    },
+    {
+      "subtitle_index": 521,
+      "start_time": 3320.65,
+      "end_time": 3321.817,
+      "duration": 1.1669999999999163,
+      "dialogue_text": "Is that Byron?"
+    },
+    {
+      "subtitle_index": 522,
+      "start_time": 3321.943,
+      "end_time": 3323.902,
+      "duration": 1.9589999999998327,
+      "dialogue_text": "No, it's me. See you."
+    },
+    {
+      "subtitle_index": 523,
+      "start_time": 3328.533,
+      "end_time": 3330.075,
+      "duration": 1.5419999999999163,
+      "dialogue_text": "Porco, it's terrible!"
+    },
+    {
+      "subtitle_index": 524,
+      "start_time": 3330.869,
+      "end_time": 3333.912,
+      "duration": 3.0429999999996653,
+      "dialogue_text": "Their fuel costs three times more than in Italy."
+    },
+    {
+      "subtitle_index": 525,
+      "start_time": 3336.041,
+      "end_time": 3337.916,
+      "duration": 1.875,
+      "dialogue_text": "Give us a break."
+    },
+    {
+      "subtitle_index": 526,
+      "start_time": 3338.71,
+      "end_time": 3342.379,
+      "duration": 3.668999999999869,
+      "dialogue_text": "We don't water our gas here. Girls are so stupid."
+    },
+    {
+      "subtitle_index": 527,
+      "start_time": 3342.839,
+      "end_time": 3344.59,
+      "duration": 1.7510000000002037,
+      "dialogue_text": "Talk to her, will you?"
+    },
+    {
+      "subtitle_index": 528,
+      "start_time": 3345.216,
+      "end_time": 3346.717,
+      "duration": 1.5010000000002037,
+      "dialogue_text": "Pay him, Fio."
+    },
+    {
+      "subtitle_index": 529,
+      "start_time": 3347.218,
+      "end_time": 3351.43,
+      "duration": 4.211999999999989,
+      "dialogue_text": "Then stuff your bigger-than-it-looks backside in the jump seat."
+    },
+    {
+      "subtitle_index": 530,
+      "start_time": 3351.973,
+      "end_time": 3353.265,
+      "duration": 1.2919999999999163,
+      "dialogue_text": "We're off."
+    },
+    {
+      "subtitle_index": 531,
+      "start_time": 3353.725,
+      "end_time": 3356.602,
+      "duration": 2.8769999999999527,
+      "dialogue_text": "The fuel goes on your bill!"
+    },
+    {
+      "subtitle_index": 532,
+      "start_time": 3362.609,
+      "end_time": 3366.07,
+      "duration": 3.46100000000024,
+      "dialogue_text": "He wasn't gouging us. It's give and take."
+    },
+    {
+      "subtitle_index": 533,
+      "start_time": 3367.072,
+      "end_time": 3371.408,
+      "duration": 4.335999999999785,
+      "dialogue_text": "It's pretty around here, but everyone's broke."
+    },
+    {
+      "subtitle_index": 534,
+      "start_time": 3373.953,
+      "end_time": 3375.621,
+      "duration": 1.66800000000012,
+      "dialogue_text": "There's the island."
+    },
+    {
+      "subtitle_index": 535,
+      "start_time": 3396.601,
+      "end_time": 3397.81,
+      "duration": 1.2089999999998327,
+      "dialogue_text": "It's beautiful!"
+    },
+    {
+      "subtitle_index": 536,
+      "start_time": 3414.661,
+      "end_time": 3416.245,
+      "duration": 1.5839999999998327,
+      "dialogue_text": "What a great hideout."
+    },
+    {
+      "subtitle_index": 537,
+      "start_time": 3417.789,
+      "end_time": 3421.166,
+      "duration": 3.3769999999999527,
+      "dialogue_text": "Agh! My butt's gone to sleep."
+    },
+    {
+      "subtitle_index": 538,
+      "start_time": 3437.934,
+      "end_time": 3440.853,
+      "duration": 2.918999999999869,
+      "dialogue_text": "Look at you silly idiots."
+    },
+    {
+      "subtitle_index": 539,
+      "start_time": 3440.979,
+      "end_time": 3443.063,
+      "duration": 2.0840000000002874,
+      "dialogue_text": "Boss! We got him!"
+    },
+    {
+      "subtitle_index": 540,
+      "start_time": 3443.731,
+      "end_time": 3445.816,
+      "duration": 2.0849999999995816,
+      "dialogue_text": "Watch who you're stepping on!"
+    },
+    {
+      "subtitle_index": 541,
+      "start_time": 3446.151,
+      "end_time": 3447.609,
+      "duration": 1.4580000000000837,
+      "dialogue_text": "Out of my way!"
+    },
+    {
+      "subtitle_index": 542,
+      "start_time": 3447.861,
+      "end_time": 3450.112,
+      "duration": 2.2510000000002037,
+      "dialogue_text": "We've been waiting, pig."
+    },
+    {
+      "subtitle_index": 543,
+      "start_time": 3450.238,
+      "end_time": 3451.864,
+      "duration": 1.6260000000002037,
+      "dialogue_text": "We knew you were coming."
+    },
+    {
+      "subtitle_index": 544,
+      "start_time": 3451.99,
+      "end_time": 3454.032,
+      "duration": 2.042000000000371,
+      "dialogue_text": "We've got scores to settle."
+    },
+    {
+      "subtitle_index": 545,
+      "start_time": 3455.285,
+      "end_time": 3458.036,
+      "duration": 2.7510000000002037,
+      "dialogue_text": "Look at this! He brought a girl!"
+    },
+    {
+      "subtitle_index": 546,
+      "start_time": 3458.163,
+      "end_time": 3459.037,
+      "duration": 0.8739999999997963,
+      "dialogue_text": "She's pretty."
+    },
+    {
+      "subtitle_index": 547,
+      "start_time": 3459.33,
+      "end_time": 3463.375,
+      "duration": 4.045000000000073,
+      "dialogue_text": "Shut up! So what? Half the world is women."
+    },
+    {
+      "subtitle_index": 548,
+      "start_time": 3463.793,
+      "end_time": 3468.338,
+      "duration": 4.545000000000073,
+      "dialogue_text": "That's not just any girl. She's Piccolo's chief designer."
+    },
+    {
+      "subtitle_index": 549,
+      "start_time": 3469.549,
+      "end_time": 3472.217,
+      "duration": 2.66800000000012,
+      "dialogue_text": "This cute little thing?"
+    },
+    {
+      "subtitle_index": 550,
+      "start_time": 3472.594,
+      "end_time": 3474.052,
+      "duration": 1.4580000000000837,
+      "dialogue_text": "Are you sure?"
+    },
+    {
+      "subtitle_index": 551,
+      "start_time": 3474.22,
+      "end_time": 3479.558,
+      "duration": 5.338000000000193,
+      "dialogue_text": "My plane's a lot better than it was. She's young but she's good."
+    },
+    {
+      "subtitle_index": 552,
+      "start_time": 3481.269,
+      "end_time": 3482.561,
+      "duration": 1.292000000000371,
+      "dialogue_text": "Really, Porco?"
+    },
+    {
+      "subtitle_index": 553,
+      "start_time": 3483.229,
+      "end_time": 3485.564,
+      "duration": 2.3350000000000364,
+      "dialogue_text": "I never lie about planes."
+    },
+    {
+      "subtitle_index": 554,
+      "start_time": 3485.732,
+      "end_time": 3489.568,
+      "duration": 3.83600000000024,
+      "dialogue_text": "She's here to make sure I pay the bill."
+    },
+    {
+      "subtitle_index": 555,
+      "start_time": 3491.321,
+      "end_time": 3494.072,
+      "duration": 2.7510000000002037,
+      "dialogue_text": "You're in debt, too? Serves you right!"
+    },
+    {
+      "subtitle_index": 556,
+      "start_time": 3494.24,
+      "end_time": 3499.369,
+      "duration": 5.12900000000036,
+      "dialogue_text": "Bust that plane up so bad, all he's got left is the loan!"
+    },
+    {
+      "subtitle_index": 557,
+      "start_time": 3501.08,
+      "end_time": 3504.082,
+      "duration": 3.0019999999999527,
+      "dialogue_text": "You're going to take an axe to the plane I built?"
+    },
+    {
+      "subtitle_index": 558,
+      "start_time": 3504.876,
+      "end_time": 3507.377,
+      "duration": 2.500999999999749,
+      "dialogue_text": "A plane as beautiful as that?"
+    },
+    {
+      "subtitle_index": 559,
+      "start_time": 3508.213,
+      "end_time": 3511.089,
+      "duration": 2.875999999999749,
+      "dialogue_text": "It's a long story, Miss."
+    },
+    {
+      "subtitle_index": 560,
+      "start_time": 3511.341,
+      "end_time": 3512.299,
+      "duration": 0.9580000000000837,
+      "dialogue_text": "I'll bet!"
+    },
+    {
+      "subtitle_index": 561,
+      "start_time": 3512.425,
+      "end_time": 3514.092,
+      "duration": 1.6669999999999163,
+      "dialogue_text": "Well, you know..."
+    },
+    {
+      "subtitle_index": 562,
+      "start_time": 3514.385,
+      "end_time": 3516.887,
+      "duration": 2.5019999999999527,
+      "dialogue_text": "And you call yourselves pilots?"
+    },
+    {
+      "subtitle_index": 563,
+      "start_time": 3517.096,
+      "end_time": 3519.264,
+      "duration": 2.16800000000012,
+      "dialogue_text": "Where are my shoes?"
+    },
+    {
+      "subtitle_index": 564,
+      "start_time": 3527.857,
+      "end_time": 3532.069,
+      "duration": 4.211999999999989,
+      "dialogue_text": "I was raised on stories about seaplane pilots."
+    },
+    {
+      "subtitle_index": 565,
+      "start_time": 3532.695,
+      "end_time": 3537.783,
+      "duration": 5.087999999999738,
+      "dialogue_text": "My grandpa always said there's no finer people anywhere."
+    },
+    {
+      "subtitle_index": 566,
+      "start_time": 3538.284,
+      "end_time": 3542.412,
+      "duration": 4.127999999999702,
+      "dialogue_text": "Their hearts are washed clean by the sea and sky."
+    },
+    {
+      "subtitle_index": 567,
+      "start_time": 3543.206,
+      "end_time": 3545.999,
+      "duration": 2.7929999999996653,
+      "dialogue_text": "So they're braver than sailors..."
+    },
+    {
+      "subtitle_index": 568,
+      "start_time": 3546.584,
+      "end_time": 3549.419,
+      "duration": 2.8350000000000364,
+      "dialogue_text": "and prouder than regular pilots."
+    },
+    {
+      "subtitle_index": 569,
+      "start_time": 3551.256,
+      "end_time": 3554.841,
+      "duration": 3.5850000000000364,
+      "dialogue_text": "That's right. That's us seaplane pilots!"
+    },
+    {
+      "subtitle_index": 570,
+      "start_time": 3555.468,
+      "end_time": 3560.639,
+      "duration": 5.1710000000002765,
+      "dialogue_text": "The most precious thing to them isn't money or women, it's honor."
+    },
+    {
+      "subtitle_index": 571,
+      "start_time": 3560.765,
+      "end_time": 3563.308,
+      "duration": 2.54300000000012,
+      "dialogue_text": "Υeah! That's right, Miss!"
+    },
+    {
+      "subtitle_index": 572,
+      "start_time": 3563.726,
+      "end_time": 3565.644,
+      "duration": 1.9179999999996653,
+      "dialogue_text": "Hurray for seaplane pilots!"
+    },
+    {
+      "subtitle_index": 573,
+      "start_time": 3566.938,
+      "end_time": 3568.981,
+      "duration": 2.04300000000012,
+      "dialogue_text": "Play them like a fiddle."
+    },
+    {
+      "subtitle_index": 574,
+      "start_time": 3569.607,
+      "end_time": 3574.486,
+      "duration": 4.878999999999905,
+      "dialogue_text": "All right. We won't take our axes and bust up the plane you built."
+    },
+    {
+      "subtitle_index": 575,
+      "start_time": 3574.779,
+      "end_time": 3578.49,
+      "duration": 3.7109999999997854,
+      "dialogue_text": "But honor won't let us just walk away, either."
+    },
+    {
+      "subtitle_index": 576,
+      "start_time": 3578.95,
+      "end_time": 3580.826,
+      "duration": 1.8760000000002037,
+      "dialogue_text": "Mince the pig!"
+    },
+    {
+      "subtitle_index": 577,
+      "start_time": 3580.952,
+      "end_time": 3583.829,
+      "duration": 2.8769999999999527,
+      "dialogue_text": "Υeah! Make hamburger out of him!"
+    },
+    {
+      "subtitle_index": 578,
+      "start_time": 3584.622,
+      "end_time": 3586.206,
+      "duration": 1.5840000000002874,
+      "dialogue_text": "Don't be so pig-headed!"
+    },
+    {
+      "subtitle_index": 579,
+      "start_time": 3586.791,
+      "end_time": 3590.627,
+      "duration": 3.8359999999997854,
+      "dialogue_text": "You don't understand! Haven't you any shame?"
+    },
+    {
+      "subtitle_index": 580,
+      "start_time": 3591.004,
+      "end_time": 3593.672,
+      "duration": 2.66800000000012,
+      "dialogue_text": "You need that American to save you?"
+    },
+    {
+      "subtitle_index": 581,
+      "start_time": 3594.132,
+      "end_time": 3597.968,
+      "duration": 3.8359999999997854,
+      "dialogue_text": "Your mothers would weep. And tell you to take a bath!"
+    },
+    {
+      "subtitle_index": 582,
+      "start_time": 3598.344,
+      "end_time": 3602.514,
+      "duration": 4.170000000000073,
+      "dialogue_text": "Porco's come back to go one-on-one with Curtiss..."
+    },
+    {
+      "subtitle_index": 583,
+      "start_time": 3602.807,
+      "end_time": 3606.351,
+      "duration": 3.544000000000324,
+      "dialogue_text": "for the honor of the seaplane pilots of the Adriatic!"
+    },
+    {
+      "subtitle_index": 584,
+      "start_time": 3606.644,
+      "end_time": 3610.48,
+      "duration": 3.83600000000024,
+      "dialogue_text": "A man without honor or scruples is nothing. Fight fair!"
+    },
+    {
+      "subtitle_index": 585,
+      "start_time": 3612.15,
+      "end_time": 3615.193,
+      "duration": 3.04300000000012,
+      "dialogue_text": "I always said we shouldn't hire Curtiss."
+    },
+    {
+      "subtitle_index": 586,
+      "start_time": 3615.32,
+      "end_time": 3618.196,
+      "duration": 2.875999999999749,
+      "dialogue_text": "Stop trying to weasel out."
+    },
+    {
+      "subtitle_index": 587,
+      "start_time": 3618.448,
+      "end_time": 3619.823,
+      "duration": 1.375,
+      "dialogue_text": "What do we do, Boss?"
+    },
+    {
+      "subtitle_index": 588,
+      "start_time": 3619.949,
+      "end_time": 3621.7,
+      "duration": 1.750999999999749,
+      "dialogue_text": "She has a point."
+    },
+    {
+      "subtitle_index": 589,
+      "start_time": 3621.909,
+      "end_time": 3626.538,
+      "duration": 4.628999999999905,
+      "dialogue_text": "We could lose face here. Should we talk to Curtiss?"
+    },
+    {
+      "subtitle_index": 590,
+      "start_time": 3626.664,
+      "end_time": 3629.374,
+      "duration": 2.7099999999995816,
+      "dialogue_text": "Get him to fight the pig again?"
+    },
+    {
+      "subtitle_index": 591,
+      "start_time": 3629.667,
+      "end_time": 3631.71,
+      "duration": 2.04300000000012,
+      "dialogue_text": "But the contract's expired."
+    },
+    {
+      "subtitle_index": 592,
+      "start_time": 3632.337,
+      "end_time": 3634.004,
+      "duration": 1.6669999999999163,
+      "dialogue_text": "This is embarrassing!"
+    },
+    {
+      "subtitle_index": 593,
+      "start_time": 3638.217,
+      "end_time": 3639.926,
+      "duration": 1.7089999999998327,
+      "dialogue_text": "It's Curtiss!"
+    },
+    {
+      "subtitle_index": 594,
+      "start_time": 3643.139,
+      "end_time": 3646.892,
+      "duration": 3.7529999999997017,
+      "dialogue_text": "I heard you! I don't run and I don't hide!"
+    },
+    {
+      "subtitle_index": 595,
+      "start_time": 3648.853,
+      "end_time": 3652.356,
+      "duration": 3.5030000000001564,
+      "dialogue_text": "What idiot put a path up there?"
+    },
+    {
+      "subtitle_index": 596,
+      "start_time": 3663.576,
+      "end_time": 3665.077,
+      "duration": 1.5010000000002037,
+      "dialogue_text": "Hold this for me."
+    },
+    {
+      "subtitle_index": 597,
+      "start_time": 3669.707,
+      "end_time": 3672.125,
+      "duration": 2.41800000000012,
+      "dialogue_text": "So you want a return match?"
+    },
+    {
+      "subtitle_index": 598,
+      "start_time": 3672.502,
+      "end_time": 3678.131,
+      "duration": 5.628999999999905,
+      "dialogue_text": "But I already won once. I'm no one's hired gun now."
+    },
+    {
+      "subtitle_index": 599,
+      "start_time": 3678.549,
+      "end_time": 3680.926,
+      "duration": 2.3769999999999527,
+      "dialogue_text": "So what do you want?"
+    },
+    {
+      "subtitle_index": 600,
+      "start_time": 3691.688,
+      "end_time": 3693.271,
+      "duration": 1.5830000000000837,
+      "dialogue_text": "Beautiful!"
+    },
+    {
+      "subtitle_index": 601,
+      "start_time": 3694.399,
+      "end_time": 3696.441,
+      "duration": 2.0419999999999163,
+      "dialogue_text": "Will you marry me if I win?"
+    },
+    {
+      "subtitle_index": 602,
+      "start_time": 3700.363,
+      "end_time": 3701.613,
+      "duration": 1.25,
+      "dialogue_text": "I'm serious."
+    },
+    {
+      "subtitle_index": 603,
+      "start_time": 3701.781,
+      "end_time": 3706.618,
+      "duration": 4.836999999999989,
+      "dialogue_text": "All right. But if Porco wins, you pay his bills."
+    },
+    {
+      "subtitle_index": 604,
+      "start_time": 3707.078,
+      "end_time": 3708.078,
+      "duration": 1.0,
+      "dialogue_text": "Wait, Fio!"
+    },
+    {
+      "subtitle_index": 605,
+      "start_time": 3708.621,
+      "end_time": 3710.08,
+      "duration": 1.4589999999998327,
+      "dialogue_text": "You keep out of it."
+    },
+    {
+      "subtitle_index": 606,
+      "start_time": 3714.419,
+      "end_time": 3716.962,
+      "duration": 2.54300000000012,
+      "dialogue_text": "Speak now or hold your peace, Fio."
+    },
+    {
+      "subtitle_index": 607,
+      "start_time": 3717.13,
+      "end_time": 3718.797,
+      "duration": 1.6669999999999163,
+      "dialogue_text": "It's up to him."
+    },
+    {
+      "subtitle_index": 608,
+      "start_time": 3718.923,
+      "end_time": 3720.757,
+      "duration": 1.8340000000002874,
+      "dialogue_text": "It's a lot of money."
+    },
+    {
+      "subtitle_index": 609,
+      "start_time": 3720.883,
+      "end_time": 3721.967,
+      "duration": 1.0840000000002874,
+      "dialogue_text": "It's a bargain!"
+    },
+    {
+      "subtitle_index": 610,
+      "start_time": 3722.385,
+      "end_time": 3723.76,
+      "duration": 1.375,
+      "dialogue_text": "Yes or no?"
+    },
+    {
+      "subtitle_index": 611,
+      "start_time": 3724.679,
+      "end_time": 3727.305,
+      "duration": 2.625999999999749,
+      "dialogue_text": "I'll gladly fight for the woman I love!"
+    },
+    {
+      "subtitle_index": 612,
+      "start_time": 3727.432,
+      "end_time": 3728.64,
+      "duration": 1.2080000000000837,
+      "dialogue_text": "Good!"
+    },
+    {
+      "subtitle_index": 613,
+      "start_time": 3729.475,
+      "end_time": 3733.77,
+      "duration": 4.295000000000073,
+      "dialogue_text": "Listen, all of you! I like this girl's spirit."
+    },
+    {
+      "subtitle_index": 614,
+      "start_time": 3733.938,
+      "end_time": 3737.482,
+      "duration": 3.543999999999869,
+      "dialogue_text": "The Mamma Αiutos will sponsor this fight!"
+    },
+    {
+      "subtitle_index": 615,
+      "start_time": 3738.609,
+      "end_time": 3740.819,
+      "duration": 2.2100000000000364,
+      "dialogue_text": "Count the Federation in!"
+    },
+    {
+      "subtitle_index": 616,
+      "start_time": 3745.45,
+      "end_time": 3748.16,
+      "duration": 2.7100000000000364,
+      "dialogue_text": "See you later, Miss Fio!"
+    },
+    {
+      "subtitle_index": 617,
+      "start_time": 3750.788,
+      "end_time": 3751.83,
+      "duration": 1.0419999999999163,
+      "dialogue_text": "Morons!"
+    },
+    {
+      "subtitle_index": 618,
+      "start_time": 3752.123,
+      "end_time": 3754.833,
+      "duration": 2.7100000000000364,
+      "dialogue_text": "Don't forget to show up, pig!"
+    },
+    {
+      "subtitle_index": 619,
+      "start_time": 3755.168,
+      "end_time": 3758.837,
+      "duration": 3.668999999999869,
+      "dialogue_text": "Shut up and get out of here!"
+    },
+    {
+      "subtitle_index": 620,
+      "start_time": 3759.422,
+      "end_time": 3760.338,
+      "duration": 0.9160000000001673,
+      "dialogue_text": "See ya!"
+    },
+    {
+      "subtitle_index": 621,
+      "start_time": 3764.427,
+      "end_time": 3768.972,
+      "duration": 4.545000000000073,
+      "dialogue_text": "Look what you've gone and gotten me into!"
+    },
+    {
+      "subtitle_index": 622,
+      "start_time": 3769.432,
+      "end_time": 3773.852,
+      "duration": 4.420000000000073,
+      "dialogue_text": "Don't be angry. I know it was stupid."
+    },
+    {
+      "subtitle_index": 623,
+      "start_time": 3780.026,
+      "end_time": 3781.026,
+      "duration": 1.0,
+      "dialogue_text": "Fio?"
+    },
+    {
+      "subtitle_index": 624,
+      "start_time": 3781.652,
+      "end_time": 3784.696,
+      "duration": 3.043999999999869,
+      "dialogue_text": "I've got to thank you anyway."
+    },
+    {
+      "subtitle_index": 625,
+      "start_time": 3785.615,
+      "end_time": 3787.199,
+      "duration": 1.5840000000002874,
+      "dialogue_text": "You got me a chance."
+    },
+    {
+      "subtitle_index": 626,
+      "start_time": 3787.825,
+      "end_time": 3791.703,
+      "duration": 3.8780000000001564,
+      "dialogue_text": "Thanks. I guess fate meant for us to be a team."
+    },
+    {
+      "subtitle_index": 627,
+      "start_time": 3792.205,
+      "end_time": 3793.83,
+      "duration": 1.625,
+      "dialogue_text": "So we're partners?"
+    },
+    {
+      "subtitle_index": 628,
+      "start_time": 3795.833,
+      "end_time": 3797.834,
+      "duration": 2.000999999999749,
+      "dialogue_text": "My chances are only 50-50."
+    },
+    {
+      "subtitle_index": 629,
+      "start_time": 3799.128,
+      "end_time": 3800.796,
+      "duration": 1.6679999999996653,
+      "dialogue_text": "I believe in you."
+    },
+    {
+      "subtitle_index": 630,
+      "start_time": 3802.298,
+      "end_time": 3807.719,
+      "duration": 5.4210000000002765,
+      "dialogue_text": "I hate that word, but it sounds different coming from you."
+    },
+    {
+      "subtitle_index": 631,
+      "start_time": 3813.392,
+      "end_time": 3817.395,
+      "duration": 4.003000000000156,
+      "dialogue_text": "What's the matter? You're not feeling well?"
+    },
+    {
+      "subtitle_index": 632,
+      "start_time": 3817.814,
+      "end_time": 3819.064,
+      "duration": 1.25,
+      "dialogue_text": "I'm fine."
+    },
+    {
+      "subtitle_index": 633,
+      "start_time": 3819.857,
+      "end_time": 3823.36,
+      "duration": 3.5030000000001564,
+      "dialogue_text": "My heart started beating so fast I couldn't breathe."
+    },
+    {
+      "subtitle_index": 634,
+      "start_time": 3823.694,
+      "end_time": 3825.57,
+      "duration": 1.8760000000002037,
+      "dialogue_text": "I was really scared."
+    },
+    {
+      "subtitle_index": 635,
+      "start_time": 3826.322,
+      "end_time": 3828.865,
+      "duration": 2.5429999999996653,
+      "dialogue_text": "My knees are all wobbly!"
+    },
+    {
+      "subtitle_index": 636,
+      "start_time": 3832.37,
+      "end_time": 3833.578,
+      "duration": 1.2080000000000837,
+      "dialogue_text": "Hey!"
+    },
+    {
+      "subtitle_index": 637,
+      "start_time": 3834.205,
+      "end_time": 3835.247,
+      "duration": 1.0419999999999163,
+      "dialogue_text": "I'm going swimming."
+    },
+    {
+      "subtitle_index": 638,
+      "start_time": 3854.851,
+      "end_time": 3856.768,
+      "duration": 1.9169999999999163,
+      "dialogue_text": "Porco, we screwed up!"
+    },
+    {
+      "subtitle_index": 639,
+      "start_time": 3856.936,
+      "end_time": 3858.144,
+      "duration": 1.207999999999629,
+      "dialogue_text": "How?"
+    },
+    {
+      "subtitle_index": 640,
+      "start_time": 3858.896,
+      "end_time": 3862.107,
+      "duration": 3.2109999999997854,
+      "dialogue_text": "We didn't pad the bill."
+    },
+    {
+      "subtitle_index": 641,
+      "start_time": 3862.775,
+      "end_time": 3864.442,
+      "duration": 1.6669999999999163,
+      "dialogue_text": "We blew it!"
+    },
+    {
+      "subtitle_index": 642,
+      "start_time": 3868.364,
+      "end_time": 3869.573,
+      "duration": 1.2089999999998327,
+      "dialogue_text": "You're right!"
+    },
+    {
+      "subtitle_index": 643,
+      "start_time": 3923.753,
+      "end_time": 3924.878,
+      "duration": 1.125,
+      "dialogue_text": "Porco?"
+    },
+    {
+      "subtitle_index": 644,
+      "start_time": 3925.296,
+      "end_time": 3927.881,
+      "duration": 2.5850000000000364,
+      "dialogue_text": "What? Can't you sleep?"
+    },
+    {
+      "subtitle_index": 645,
+      "start_time": 3929.342,
+      "end_time": 3930.634,
+      "duration": 1.2919999999999163,
+      "dialogue_text": "I could've sworn..."
+    },
+    {
+      "subtitle_index": 646,
+      "start_time": 3932.303,
+      "end_time": 3933.887,
+      "duration": 1.5840000000002874,
+      "dialogue_text": "Or was I dreaming?"
+    },
+    {
+      "subtitle_index": 647,
+      "start_time": 3935.056,
+      "end_time": 3938.016,
+      "duration": 2.9600000000000364,
+      "dialogue_text": "Go back to sleep. We're off early tomorrow."
+    },
+    {
+      "subtitle_index": 648,
+      "start_time": 3939.644,
+      "end_time": 3940.644,
+      "duration": 1.0,
+      "dialogue_text": "Porco?"
+    },
+    {
+      "subtitle_index": 649,
+      "start_time": 3941.187,
+      "end_time": 3943.521,
+      "duration": 2.3340000000002874,
+      "dialogue_text": "Why did you turn into a pig?"
+    },
+    {
+      "subtitle_index": 650,
+      "start_time": 3943.94,
+      "end_time": 3945.357,
+      "duration": 1.4169999999999163,
+      "dialogue_text": "It's a long story."
+    },
+    {
+      "subtitle_index": 651,
+      "start_time": 3946.943,
+      "end_time": 3952.405,
+      "duration": 5.461999999999989,
+      "dialogue_text": "My father was in the same unit with Lieutenant Marco Paggot."
+    },
+    {
+      "subtitle_index": 652,
+      "start_time": 3952.99,
+      "end_time": 3957.535,
+      "duration": 4.545000000000073,
+      "dialogue_text": "I used to love the story of how he jumped off a cliff..."
+    },
+    {
+      "subtitle_index": 653,
+      "start_time": 3957.662,
+      "end_time": 3959.663,
+      "duration": 2.0010000000002037,
+      "dialogue_text": "to rescue an enemy pilot."
+    },
+    {
+      "subtitle_index": 654,
+      "start_time": 3964.71,
+      "end_time": 3966.711,
+      "duration": 2.000999999999749,
+      "dialogue_text": "Porco! Shall I kiss you?"
+    },
+    {
+      "subtitle_index": 655,
+      "start_time": 3968.547,
+      "end_time": 3973.718,
+      "duration": 5.170999999999822,
+      "dialogue_text": "Like the princess who turned the frog back into a prince?"
+    },
+    {
+      "subtitle_index": 656,
+      "start_time": 3974.053,
+      "end_time": 3978.056,
+      "duration": 4.003000000000156,
+      "dialogue_text": "Don't be stupid. Save it for someone special."
+    },
+    {
+      "subtitle_index": 657,
+      "start_time": 3979.892,
+      "end_time": 3981.726,
+      "duration": 1.8340000000002874,
+      "dialogue_text": "Maybe I'm not the one."
+    },
+    {
+      "subtitle_index": 658,
+      "start_time": 3984.355,
+      "end_time": 3985.73,
+      "duration": 1.375,
+      "dialogue_text": "You're a good girl."
+    },
+    {
+      "subtitle_index": 659,
+      "start_time": 3986.065,
+      "end_time": 3991.027,
+      "duration": 4.961999999999989,
+      "dialogue_text": "You make me think humanity's not a complete waste."
+    },
+    {
+      "subtitle_index": 660,
+      "start_time": 3991.404,
+      "end_time": 3993.405,
+      "duration": 2.0010000000002037,
+      "dialogue_text": "Now be good and go to sleep."
+    },
+    {
+      "subtitle_index": 661,
+      "start_time": 3993.531,
+      "end_time": 3996.116,
+      "duration": 2.5850000000000364,
+      "dialogue_text": "Tell me a story, then I'll sleep."
+    },
+    {
+      "subtitle_index": 662,
+      "start_time": 3997.66,
+      "end_time": 3998.91,
+      "duration": 1.25,
+      "dialogue_text": "A story?"
+    },
+    {
+      "subtitle_index": 663,
+      "start_time": 4001.205,
+      "end_time": 4002.58,
+      "duration": 1.375,
+      "dialogue_text": "Let's see."
+    },
+    {
+      "subtitle_index": 664,
+      "start_time": 4011.382,
+      "end_time": 4014.009,
+      "duration": 2.6269999999999527,
+      "dialogue_text": "It was the last summer of the war."
+    },
+    {
+      "subtitle_index": 665,
+      "start_time": 4015.302,
+      "end_time": 4021.558,
+      "duration": 6.255999999999858,
+      "dialogue_text": "We were on our usual patrol over the Adriatic, heading for Istria."
+    },
+    {
+      "subtitle_index": 666,
+      "start_time": 4026.647,
+      "end_time": 4029.607,
+      "duration": 2.9600000000000364,
+      "dialogue_text": "Berlini was my wingman."
+    },
+    {
+      "subtitle_index": 667,
+      "start_time": 4030.109,
+      "end_time": 4034.571,
+      "duration": 4.461999999999989,
+      "dialogue_text": "An old friend, who'd gotten married two days before."
+    },
+    {
+      "subtitle_index": 668,
+      "start_time": 4035.531,
+      "end_time": 4038.616,
+      "duration": 3.0850000000000364,
+      "dialogue_text": "I was best man at his wedding."
+    },
+    {
+      "subtitle_index": 669,
+      "start_time": 4039.118,
+      "end_time": 4043.413,
+      "duration": 4.295000000000073,
+      "dialogue_text": "But we couldn't get leave, so we'd come straight back to base."
+    },
+    {
+      "subtitle_index": 670,
+      "start_time": 4063.893,
+      "end_time": 4067.312,
+      "duration": 3.418999999999869,
+      "dialogue_text": "Planes were dropping like flies, ours and theirs."
+    },
+    {
+      "subtitle_index": 671,
+      "start_time": 4067.688,
+      "end_time": 4070.315,
+      "duration": 2.6269999999999527,
+      "dialogue_text": "There were three on my tail."
+    },
+    {
+      "subtitle_index": 672,
+      "start_time": 4071.025,
+      "end_time": 4073.485,
+      "duration": 2.4600000000000364,
+      "dialogue_text": "I had my hands full."
+    },
+    {
+      "subtitle_index": 673,
+      "start_time": 4073.736,
+      "end_time": 4076.446,
+      "duration": 2.7100000000000364,
+      "dialogue_text": "Then I was the only one left on our side."
+    },
+    {
+      "subtitle_index": 674,
+      "start_time": 4076.739,
+      "end_time": 4081.618,
+      "duration": 4.878999999999905,
+      "dialogue_text": "The enemy kept on coming. They had blood in their eyes."
+    },
+    {
+      "subtitle_index": 675,
+      "start_time": 4081.952,
+      "end_time": 4087.499,
+      "duration": 5.546999999999571,
+      "dialogue_text": "I was numb, I couldn't see. I thought I was a goner."
+    },
+    {
+      "subtitle_index": 676,
+      "start_time": 4087.625,
+      "end_time": 4091.836,
+      "duration": 4.210999999999785,
+      "dialogue_text": "Suddenly everything went white all around me."
+    },
+    {
+      "subtitle_index": 677,
+      "start_time": 4092.129,
+      "end_time": 4093.129,
+      "duration": 1.0,
+      "dialogue_text": "White?"
+    },
+    {
+      "subtitle_index": 678,
+      "start_time": 4093.255,
+      "end_time": 4096.049,
+      "duration": 2.793999999999869,
+      "dialogue_text": "Like I was in pure light."
+    },
+    {
+      "subtitle_index": 679,
+      "start_time": 4097.843,
+      "end_time": 4102.347,
+      "duration": 4.503999999999905,
+      "dialogue_text": "But a light so strange I didn't notice I was in cloud."
+    },
+    {
+      "subtitle_index": 680,
+      "start_time": 4103.349,
+      "end_time": 4107.519,
+      "duration": 4.170000000000073,
+      "dialogue_text": "I didn't even have the strength to hold the stick."
+    },
+    {
+      "subtitle_index": 681,
+      "start_time": 4107.812,
+      "end_time": 4111.064,
+      "duration": 3.2520000000004075,
+      "dialogue_text": "But the plane flew itself."
+    },
+    {
+      "subtitle_index": 682,
+      "start_time": 4137.258,
+      "end_time": 4138.925,
+      "duration": 1.667000000000371,
+      "dialogue_text": "A world above the clouds?"
+    },
+    {
+      "subtitle_index": 683,
+      "start_time": 4139.385,
+      "end_time": 4145.056,
+      "duration": 5.670999999999367,
+      "dialogue_text": "Υeah, and dead quiet. The sky was so beautiful..."
+    },
+    {
+      "subtitle_index": 684,
+      "start_time": 4145.558,
+      "end_time": 4150.562,
+      "duration": 5.003999999999905,
+      "dialogue_text": "with this one long contrail stretching out of sight."
+    },
+    {
+      "subtitle_index": 685,
+      "start_time": 4178.132,
+      "end_time": 4180.425,
+      "duration": 2.293000000000575,
+      "dialogue_text": "Berlini, you're okay!"
+    },
+    {
+      "subtitle_index": 686,
+      "start_time": 4184.096,
+      "end_time": 4186.431,
+      "duration": 2.3350000000000364,
+      "dialogue_text": "Berlini, wait! Where are you going?"
+    },
+    {
+      "subtitle_index": 687,
+      "start_time": 4199.445,
+      "end_time": 4202.947,
+      "duration": 3.5020000000004075,
+      "dialogue_text": "Berlini, stop! What about Gina?"
+    },
+    {
+      "subtitle_index": 688,
+      "start_time": 4203.282,
+      "end_time": 4204.616,
+      "duration": 1.3339999999998327,
+      "dialogue_text": "I'll go instead!"
+    },
+    {
+      "subtitle_index": 689,
+      "start_time": 4245.157,
+      "end_time": 4250.161,
+      "duration": 5.003999999999905,
+      "dialogue_text": "When I came to, I was all alone, flying just above the waves."
+    },
+    {
+      "subtitle_index": 690,
+      "start_time": 4253.54,
+      "end_time": 4256.167,
+      "duration": 2.6270000000004075,
+      "dialogue_text": "Heaven wasn't ready for you."
+    },
+    {
+      "subtitle_index": 691,
+      "start_time": 4258.504,
+      "end_time": 4263.007,
+      "duration": 4.502999999999702,
+      "dialogue_text": "I think God was telling me to fly alone forever."
+    },
+    {
+      "subtitle_index": 692,
+      "start_time": 4263.3,
+      "end_time": 4265.843,
+      "duration": 2.5429999999996653,
+      "dialogue_text": "No, Porco! You're a good person!"
+    },
+    {
+      "subtitle_index": 693,
+      "start_time": 4266.47,
+      "end_time": 4271.516,
+      "duration": 5.045999999999367,
+      "dialogue_text": "The good ones are all dead. And maybe what I saw was Hell."
+    },
+    {
+      "subtitle_index": 694,
+      "start_time": 4272.101,
+      "end_time": 4275.019,
+      "duration": 2.918000000000575,
+      "dialogue_text": "End of story. Go to sleep."
+    },
+    {
+      "subtitle_index": 695,
+      "start_time": 4277.523,
+      "end_time": 4280.108,
+      "duration": 2.5850000000000364,
+      "dialogue_text": "That junkyard sold me rusty ammo."
+    },
+    {
+      "subtitle_index": 696,
+      "start_time": 4282.486,
+      "end_time": 4287.532,
+      "duration": 5.0460000000002765,
+      "dialogue_text": "I'm glad you came back alive. I really like you, Porco."
+    },
+    {
+      "subtitle_index": 697,
+      "start_time": 4288.534,
+      "end_time": 4289.575,
+      "duration": 1.0410000000001673,
+      "dialogue_text": "Good night!"
+    },
+    {
+      "subtitle_index": 698,
+      "start_time": 4314.226,
+      "end_time": 4317.061,
+      "duration": 2.8350000000000364,
+      "dialogue_text": "Place your bets here!"
+    },
+    {
+      "subtitle_index": 699,
+      "start_time": 4318.689,
+      "end_time": 4321.899,
+      "duration": 3.2100000000000364,
+      "dialogue_text": "If you're real men, put your money where your mouths are!"
+    },
+    {
+      "subtitle_index": 700,
+      "start_time": 4332.161,
+      "end_time": 4334.912,
+      "duration": 2.7510000000002037,
+      "dialogue_text": "You'd think it was a carnival!"
+    },
+    {
+      "subtitle_index": 701,
+      "start_time": 4335.08,
+      "end_time": 4337.081,
+      "duration": 2.0010000000002037,
+      "dialogue_text": "They're all air pirates?"
+    },
+    {
+      "subtitle_index": 702,
+      "start_time": 4337.249,
+      "end_time": 4341.919,
+      "duration": 4.670000000000073,
+      "dialogue_text": "The scum of the Mediterranean. Gangsters, pirates, smugglers..."
+    },
+    {
+      "subtitle_index": 703,
+      "start_time": 4342.212,
+      "end_time": 4345.59,
+      "duration": 3.3779999999997017,
+      "dialogue_text": "spies, undercover cops, and a few respectable citizens."
+    },
+    {
+      "subtitle_index": 704,
+      "start_time": 4346.925,
+      "end_time": 4349.802,
+      "duration": 2.876999999999498,
+      "dialogue_text": "This is going to make me even more famous!"
+    },
+    {
+      "subtitle_index": 705,
+      "start_time": 4350.387,
+      "end_time": 4353.598,
+      "duration": 3.21100000000024,
+      "dialogue_text": "Ten minutes to start!"
+    },
+    {
+      "subtitle_index": 706,
+      "start_time": 4354.266,
+      "end_time": 4359.604,
+      "duration": 5.338000000000648,
+      "dialogue_text": "The showdown between Porco Rosso and Donald Curtiss is about to begin!"
+    },
+    {
+      "subtitle_index": 707,
+      "start_time": 4360.147,
+      "end_time": 4366.11,
+      "duration": 5.962999999999738,
+      "dialogue_text": "There's no rules. The first one to run is a coward forever!"
+    },
+    {
+      "subtitle_index": 708,
+      "start_time": 4366.403,
+      "end_time": 4370.114,
+      "duration": 3.7109999999993306,
+      "dialogue_text": "Shut up! We came here for a dogfight, not speeches!"
+    },
+    {
+      "subtitle_index": 709,
+      "start_time": 4373.577,
+      "end_time": 4377.455,
+      "duration": 3.8779999999997017,
+      "dialogue_text": "Shut up! Open your mouth and we shoot you!"
+    },
+    {
+      "subtitle_index": 710,
+      "start_time": 4386.715,
+      "end_time": 4389.008,
+      "duration": 2.2929999999996653,
+      "dialogue_text": "A ten-ton bomb would be better."
+    },
+    {
+      "subtitle_index": 711,
+      "start_time": 4389.426,
+      "end_time": 4393.971,
+      "duration": 4.544999999999163,
+      "dialogue_text": "This fight decides the fate of our beloved Miss Fio Piccolo..."
+    },
+    {
+      "subtitle_index": 712,
+      "start_time": 4394.098,
+      "end_time": 4396.015,
+      "duration": 1.917000000000371,
+      "dialogue_text": "who needs no introduction!"
+    },
+    {
+      "subtitle_index": 713,
+      "start_time": 4396.558,
+      "end_time": 4400.77,
+      "duration": 4.212000000000444,
+      "dialogue_text": "Know what I mean? A big hand for Fio! Applaud!"
+    },
+    {
+      "subtitle_index": 714,
+      "start_time": 4402.815,
+      "end_time": 4404.148,
+      "duration": 1.3330000000005384,
+      "dialogue_text": "Get on with it!"
+    },
+    {
+      "subtitle_index": 715,
+      "start_time": 4404.274,
+      "end_time": 4407.61,
+      "duration": 3.3359999999993306,
+      "dialogue_text": "Quiet! There are formalities to observe!"
+    },
+    {
+      "subtitle_index": 716,
+      "start_time": 4408.32,
+      "end_time": 4411.322,
+      "duration": 3.0020000000004075,
+      "dialogue_text": "Both sides will place their wagers!"
+    },
+    {
+      "subtitle_index": 717,
+      "start_time": 4416.37,
+      "end_time": 4417.161,
+      "duration": 0.7910000000001673,
+      "dialogue_text": "Please sit down."
+    },
+    {
+      "subtitle_index": 718,
+      "start_time": 4417.287,
+      "end_time": 4418.329,
+      "duration": 1.0419999999994616,
+      "dialogue_text": "Thank you."
+    },
+    {
+      "subtitle_index": 719,
+      "start_time": 4419.123,
+      "end_time": 4420.498,
+      "duration": 1.375,
+      "dialogue_text": "Put it down!"
+    },
+    {
+      "subtitle_index": 720,
+      "start_time": 4423.71,
+      "end_time": 4428.131,
+      "duration": 4.4210000000002765,
+      "dialogue_text": "No complaints? All right, shake hands and come out flying!"
+    },
+    {
+      "subtitle_index": 721,
+      "start_time": 4428.257,
+      "end_time": 4431.05,
+      "duration": 2.793000000000575,
+      "dialogue_text": "Forget it. I'll keep my hands clean."
+    },
+    {
+      "subtitle_index": 722,
+      "start_time": 4433.345,
+      "end_time": 4436.139,
+      "duration": 2.793999999999869,
+      "dialogue_text": "That's not very friendly."
+    },
+    {
+      "subtitle_index": 723,
+      "start_time": 4436.39,
+      "end_time": 4439.142,
+      "duration": 2.751999999999498,
+      "dialogue_text": "We'll go straight to the church!"
+    },
+    {
+      "subtitle_index": 724,
+      "start_time": 4440.018,
+      "end_time": 4444.313,
+      "duration": 4.295000000000073,
+      "dialogue_text": "Don't worry. My mother says you can get used to anything."
+    },
+    {
+      "subtitle_index": 725,
+      "start_time": 4449.695,
+      "end_time": 4451.654,
+      "duration": 1.9590000000007421,
+      "dialogue_text": "May we have a picture?"
+    },
+    {
+      "subtitle_index": 726,
+      "start_time": 4451.78,
+      "end_time": 4452.822,
+      "duration": 1.042000000000371,
+      "dialogue_text": "We took a bath!"
+    },
+    {
+      "subtitle_index": 727,
+      "start_time": 4452.948,
+      "end_time": 4454.824,
+      "duration": 1.8759999999992942,
+      "dialogue_text": "Smile, everyone!"
+    },
+    {
+      "subtitle_index": 728,
+      "start_time": 4455.284,
+      "end_time": 4456.367,
+      "duration": 1.0830000000005384,
+      "dialogue_text": "Smile!"
+    },
+    {
+      "subtitle_index": 729,
+      "start_time": 4478.724,
+      "end_time": 4481.559,
+      "duration": 2.8350000000000364,
+      "dialogue_text": "Black wins if it's over in three minutes!"
+    },
+    {
+      "subtitle_index": 730,
+      "start_time": 4481.727,
+      "end_time": 4485.062,
+      "duration": 3.3350000000000364,
+      "dialogue_text": "Maybe we could get them to do this every month!"
+    },
+    {
+      "subtitle_index": 731,
+      "start_time": 4488.317,
+      "end_time": 4490.401,
+      "duration": 2.0839999999998327,
+      "dialogue_text": "15 seconds to start."
+    },
+    {
+      "subtitle_index": 732,
+      "start_time": 4494.698,
+      "end_time": 4496.407,
+      "duration": 1.7089999999998327,
+      "dialogue_text": "That is so cool!"
+    },
+    {
+      "subtitle_index": 733,
+      "start_time": 4497.701,
+      "end_time": 4498.743,
+      "duration": 1.042000000000371,
+      "dialogue_text": "Five seconds..."
+    },
+    {
+      "subtitle_index": 734,
+      "start_time": 4498.869,
+      "end_time": 4499.744,
+      "duration": 0.875,
+      "dialogue_text": "Four..."
+    },
+    {
+      "subtitle_index": 735,
+      "start_time": 4499.87,
+      "end_time": 4500.745,
+      "duration": 0.875,
+      "dialogue_text": "Three..."
+    },
+    {
+      "subtitle_index": 736,
+      "start_time": 4500.871,
+      "end_time": 4501.746,
+      "duration": 0.875,
+      "dialogue_text": "Two..."
+    },
+    {
+      "subtitle_index": 737,
+      "start_time": 4501.872,
+      "end_time": 4502.58,
+      "duration": 0.7079999999996289,
+      "dialogue_text": "One..."
+    },
+    {
+      "subtitle_index": 738,
+      "start_time": 4502.706,
+      "end_time": 4503.414,
+      "duration": 0.7079999999996289,
+      "dialogue_text": "Zero!"
+    },
+    {
+      "subtitle_index": 739,
+      "start_time": 4512.09,
+      "end_time": 4513.591,
+      "duration": 1.5010000000002037,
+      "dialogue_text": "Curtiss has the height!"
+    },
+    {
+      "subtitle_index": 740,
+      "start_time": 4531.36,
+      "end_time": 4533.444,
+      "duration": 2.084000000000742,
+      "dialogue_text": "It's all Curtiss so far!"
+    },
+    {
+      "subtitle_index": 741,
+      "start_time": 4533.612,
+      "end_time": 4534.612,
+      "duration": 1.0,
+      "dialogue_text": "Gimme!"
+    },
+    {
+      "subtitle_index": 742,
+      "start_time": 4541.37,
+      "end_time": 4543.788,
+      "duration": 2.4179999999996653,
+      "dialogue_text": "Come on, Porco! Get above him!"
+    },
+    {
+      "subtitle_index": 743,
+      "start_time": 4543.914,
+      "end_time": 4546.165,
+      "duration": 2.2510000000002037,
+      "dialogue_text": "He's smart to stay low."
+    },
+    {
+      "subtitle_index": 744,
+      "start_time": 4546.542,
+      "end_time": 4548.668,
+      "duration": 2.1259999999992942,
+      "dialogue_text": "He's harder to hit."
+    },
+    {
+      "subtitle_index": 745,
+      "start_time": 4555.259,
+      "end_time": 4557.969,
+      "duration": 2.7100000000000364,
+      "dialogue_text": "Don't worry! I've got lots of ammo."
+    },
+    {
+      "subtitle_index": 746,
+      "start_time": 4574.111,
+      "end_time": 4576.654,
+      "duration": 2.543000000000575,
+      "dialogue_text": "A barrel roll. The pig's on his tail!"
+    },
+    {
+      "subtitle_index": 747,
+      "start_time": 4576.78,
+      "end_time": 4577.822,
+      "duration": 1.042000000000371,
+      "dialogue_text": "A barrel roll?"
+    },
+    {
+      "subtitle_index": 748,
+      "start_time": 4578.282,
+      "end_time": 4581.158,
+      "duration": 2.8760000000002037,
+      "dialogue_text": "That trick made him the Ace of the Adriatic!"
+    },
+    {
+      "subtitle_index": 749,
+      "start_time": 4586.331,
+      "end_time": 4587.331,
+      "duration": 1.0,
+      "dialogue_text": "Damn!"
+    },
+    {
+      "subtitle_index": 750,
+      "start_time": 4593.505,
+      "end_time": 4594.505,
+      "duration": 1.0,
+      "dialogue_text": "Now!"
+    },
+    {
+      "subtitle_index": 751,
+      "start_time": 4599.303,
+      "end_time": 4602.138,
+      "duration": 2.8350000000000364,
+      "dialogue_text": "- He didn't shoot! - Did his gun jam?"
+    },
+    {
+      "subtitle_index": 752,
+      "start_time": 4602.472,
+      "end_time": 4606.309,
+      "duration": 3.837000000000444,
+      "dialogue_text": "He's not going to shoot until the very end."
+    },
+    {
+      "subtitle_index": 753,
+      "start_time": 4607.102,
+      "end_time": 4611.689,
+      "duration": 4.587000000000444,
+      "dialogue_text": "The pig's not a killer. The American's still got plenty of ammo!"
+    },
+    {
+      "subtitle_index": 754,
+      "start_time": 4611.857,
+      "end_time": 4613.024,
+      "duration": 1.167000000000371,
+      "dialogue_text": "Now! Shoot!"
+    },
+    {
+      "subtitle_index": 755,
+      "start_time": 4613.525,
+      "end_time": 4616.861,
+      "duration": 3.33600000000024,
+      "dialogue_text": "He didn't fire. What did I tell you?"
+    },
+    {
+      "subtitle_index": 756,
+      "start_time": 4617.696,
+      "end_time": 4620.197,
+      "duration": 2.5010000000002037,
+      "dialogue_text": "If he shoots now, he'll hit the American."
+    },
+    {
+      "subtitle_index": 757,
+      "start_time": 4620.324,
+      "end_time": 4624.869,
+      "duration": 4.545000000000073,
+      "dialogue_text": "He's going to wait till he can put two or three rounds into the engine."
+    },
+    {
+      "subtitle_index": 758,
+      "start_time": 4625.037,
+      "end_time": 4628.289,
+      "duration": 3.251999999999498,
+      "dialogue_text": "The damn fool! This is no time for sportsmanship."
+    },
+    {
+      "subtitle_index": 759,
+      "start_time": 4628.415,
+      "end_time": 4629.582,
+      "duration": 1.167000000000371,
+      "dialogue_text": "Porco..."
+    },
+    {
+      "subtitle_index": 760,
+      "start_time": 4630.459,
+      "end_time": 4633.544,
+      "duration": 3.0850000000000364,
+      "dialogue_text": "What's wrong with you? Shoot!"
+    },
+    {
+      "subtitle_index": 761,
+      "start_time": 4634.838,
+      "end_time": 4638.883,
+      "duration": 4.045000000000073,
+      "dialogue_text": "Or are your guns jammed? Too bad."
+    },
+    {
+      "subtitle_index": 762,
+      "start_time": 4644.556,
+      "end_time": 4645.89,
+      "duration": 1.3340000000007421,
+      "dialogue_text": "Here they come!"
+    },
+    {
+      "subtitle_index": 763,
+      "start_time": 4648.852,
+      "end_time": 4651.395,
+      "duration": 2.543000000000575,
+      "dialogue_text": "Come on, fight like a pig!"
+    },
+    {
+      "subtitle_index": 764,
+      "start_time": 4656.401,
+      "end_time": 4658.778,
+      "duration": 2.3770000000004075,
+      "dialogue_text": "Not this way! No!"
+    },
+    {
+      "subtitle_index": 765,
+      "start_time": 4658.987,
+      "end_time": 4660.529,
+      "duration": 1.542000000000371,
+      "dialogue_text": "He's coming around!"
+    },
+    {
+      "subtitle_index": 766,
+      "start_time": 4673.543,
+      "end_time": 4674.794,
+      "duration": 1.2510000000002037,
+      "dialogue_text": "Go fight somewhere else!"
+    },
+    {
+      "subtitle_index": 767,
+      "start_time": 4680.217,
+      "end_time": 4682.718,
+      "duration": 2.5010000000002037,
+      "dialogue_text": "Look at those vapor trails!"
+    },
+    {
+      "subtitle_index": 768,
+      "start_time": 4689.184,
+      "end_time": 4692.77,
+      "duration": 3.58600000000024,
+      "dialogue_text": "You only see this once in a lifetime!"
+    },
+    {
+      "subtitle_index": 769,
+      "start_time": 4692.938,
+      "end_time": 4694.397,
+      "duration": 1.4589999999998327,
+      "dialogue_text": "This is so moving!"
+    },
+    {
+      "subtitle_index": 770,
+      "start_time": 4704.116,
+      "end_time": 4707.284,
+      "duration": 3.1679999999996653,
+      "dialogue_text": "If she doesn't hurry she'll miss it."
+    },
+    {
+      "subtitle_index": 771,
+      "start_time": 4707.452,
+      "end_time": 4710.121,
+      "duration": 2.668999999999869,
+      "dialogue_text": "She won't come out of her room."
+    },
+    {
+      "subtitle_index": 772,
+      "start_time": 4710.247,
+      "end_time": 4713.999,
+      "duration": 3.751999999999498,
+      "dialogue_text": "Are we going or not? I want to see it too!"
+    },
+    {
+      "subtitle_index": 773,
+      "start_time": 4725.137,
+      "end_time": 4728.097,
+      "duration": 2.9600000000000364,
+      "dialogue_text": "F to Gina. Warn pig."
+    },
+    {
+      "subtitle_index": 774,
+      "start_time": 4728.223,
+      "end_time": 4731.475,
+      "duration": 3.2520000000004075,
+      "dialogue_text": "Stop fooling around. Air Force is coming."
+    },
+    {
+      "subtitle_index": 775,
+      "start_time": 4731.893,
+      "end_time": 4734.103,
+      "duration": 2.2100000000000364,
+      "dialogue_text": "\"F\"? That's Ferrarin."
+    },
+    {
+      "subtitle_index": 776,
+      "start_time": 4737.065,
+      "end_time": 4738.149,
+      "duration": 1.0840000000007421,
+      "dialogue_text": "Time to go!"
+    },
+    {
+      "subtitle_index": 777,
+      "start_time": 4757.127,
+      "end_time": 4760.504,
+      "duration": 3.376999999999498,
+      "dialogue_text": "They're both really tough."
+    },
+    {
+      "subtitle_index": 778,
+      "start_time": 4760.672,
+      "end_time": 4762.798,
+      "duration": 2.1260000000002037,
+      "dialogue_text": "They're just getting warmed up."
+    },
+    {
+      "subtitle_index": 779,
+      "start_time": 4764.634,
+      "end_time": 4766.969,
+      "duration": 2.3350000000000364,
+      "dialogue_text": "Go, Porco!"
+    },
+    {
+      "subtitle_index": 780,
+      "start_time": 4771.308,
+      "end_time": 4772.975,
+      "duration": 1.667000000000371,
+      "dialogue_text": "You stupid pig!"
+    },
+    {
+      "subtitle_index": 781,
+      "start_time": 4778.523,
+      "end_time": 4781.15,
+      "duration": 2.626999999999498,
+      "dialogue_text": "You think you can have Fio?"
+    },
+    {
+      "subtitle_index": 782,
+      "start_time": 4786.698,
+      "end_time": 4789.033,
+      "duration": 2.3350000000000364,
+      "dialogue_text": "Now the pig's got his tail!"
+    },
+    {
+      "subtitle_index": 783,
+      "start_time": 4789.284,
+      "end_time": 4790.701,
+      "duration": 1.417000000000371,
+      "dialogue_text": "The finale!"
+    },
+    {
+      "subtitle_index": 784,
+      "start_time": 4794.539,
+      "end_time": 4795.539,
+      "duration": 1.0,
+      "dialogue_text": "Huh?"
+    },
+    {
+      "subtitle_index": 785,
+      "start_time": 4797.709,
+      "end_time": 4799.043,
+      "duration": 1.3339999999998327,
+      "dialogue_text": "It's jammed."
+    },
+    {
+      "subtitle_index": 786,
+      "start_time": 4802.839,
+      "end_time": 4804.048,
+      "duration": 1.2089999999998327,
+      "dialogue_text": "You're finished!"
+    },
+    {
+      "subtitle_index": 787,
+      "start_time": 4807.219,
+      "end_time": 4808.886,
+      "duration": 1.667000000000371,
+      "dialogue_text": "What?"
+    },
+    {
+      "subtitle_index": 788,
+      "start_time": 4809.471,
+      "end_time": 4810.888,
+      "duration": 1.417000000000371,
+      "dialogue_text": "Jammed!"
+    },
+    {
+      "subtitle_index": 789,
+      "start_time": 4811.932,
+      "end_time": 4815.059,
+      "duration": 3.1270000000004075,
+      "dialogue_text": "What's the matter, out of ammo?"
+    },
+    {
+      "subtitle_index": 790,
+      "start_time": 4815.685,
+      "end_time": 4818.938,
+      "duration": 3.2529999999997017,
+      "dialogue_text": "It's broken. Fio's big butt!"
+    },
+    {
+      "subtitle_index": 791,
+      "start_time": 4821.358,
+      "end_time": 4824.401,
+      "duration": 3.0429999999996653,
+      "dialogue_text": "No ties in this game!"
+    },
+    {
+      "subtitle_index": 792,
+      "start_time": 4826.196,
+      "end_time": 4829.406,
+      "duration": 3.2100000000000364,
+      "dialogue_text": "This isn't a western! What are you going to hit with that?"
+    },
+    {
+      "subtitle_index": 793,
+      "start_time": 4831.91,
+      "end_time": 4833.077,
+      "duration": 1.167000000000371,
+      "dialogue_text": "You jerk!"
+    },
+    {
+      "subtitle_index": 794,
+      "start_time": 4835.288,
+      "end_time": 4839.25,
+      "duration": 3.962000000000444,
+      "dialogue_text": "What's that going to do? Hi-ho Silver!"
+    },
+    {
+      "subtitle_index": 795,
+      "start_time": 4847.384,
+      "end_time": 4849.093,
+      "duration": 1.7089999999998327,
+      "dialogue_text": "You rotten pig!"
+    },
+    {
+      "subtitle_index": 796,
+      "start_time": 4851.763,
+      "end_time": 4852.596,
+      "duration": 0.8329999999996289,
+      "dialogue_text": "Missed!"
+    },
+    {
+      "subtitle_index": 797,
+      "start_time": 4854.224,
+      "end_time": 4855.432,
+      "duration": 1.207999999999629,
+      "dialogue_text": "Chicken!"
+    },
+    {
+      "subtitle_index": 798,
+      "start_time": 4855.559,
+      "end_time": 4856.559,
+      "duration": 1.0,
+      "dialogue_text": "You ducked!"
+    },
+    {
+      "subtitle_index": 799,
+      "start_time": 4856.685,
+      "end_time": 4857.935,
+      "duration": 1.25,
+      "dialogue_text": "You don't love her."
+    },
+    {
+      "subtitle_index": 800,
+      "start_time": 4858.103,
+      "end_time": 4859.144,
+      "duration": 1.0410000000001673,
+      "dialogue_text": "Shut up, pig!"
+    },
+    {
+      "subtitle_index": 801,
+      "start_time": 4860.355,
+      "end_time": 4862.106,
+      "duration": 1.7510000000002037,
+      "dialogue_text": "Something's wrong."
+    },
+    {
+      "subtitle_index": 802,
+      "start_time": 4862.232,
+      "end_time": 4863.482,
+      "duration": 1.25,
+      "dialogue_text": "They're coming down!"
+    },
+    {
+      "subtitle_index": 803,
+      "start_time": 4872.45,
+      "end_time": 4873.45,
+      "duration": 1.0,
+      "dialogue_text": "They're back!"
+    },
+    {
+      "subtitle_index": 804,
+      "start_time": 4873.702,
+      "end_time": 4876.62,
+      "duration": 2.9179999999996653,
+      "dialogue_text": "Wait! The prizes stay here!"
+    },
+    {
+      "subtitle_index": 805,
+      "start_time": 4877.122,
+      "end_time": 4879.874,
+      "duration": 2.751999999999498,
+      "dialogue_text": "All right, wait for me!"
+    },
+    {
+      "subtitle_index": 806,
+      "start_time": 4886.256,
+      "end_time": 4887.631,
+      "duration": 1.375,
+      "dialogue_text": "You eat too much!"
+    },
+    {
+      "subtitle_index": 807,
+      "start_time": 4889.676,
+      "end_time": 4891.468,
+      "duration": 1.7919999999994616,
+      "dialogue_text": "Cowboy!"
+    },
+    {
+      "subtitle_index": 808,
+      "start_time": 4897.392,
+      "end_time": 4898.767,
+      "duration": 1.375,
+      "dialogue_text": "Put 'em up."
+    },
+    {
+      "subtitle_index": 809,
+      "start_time": 4899.102,
+      "end_time": 4900.978,
+      "duration": 1.8760000000002037,
+      "dialogue_text": "Go punch a cow!"
+    },
+    {
+      "subtitle_index": 810,
+      "start_time": 4907.944,
+      "end_time": 4909.445,
+      "duration": 1.5009999999992942,
+      "dialogue_text": "Come on, Porco!"
+    },
+    {
+      "subtitle_index": 811,
+      "start_time": 4911.823,
+      "end_time": 4913.49,
+      "duration": 1.6669999999994616,
+      "dialogue_text": "Get up, pig."
+    },
+    {
+      "subtitle_index": 812,
+      "start_time": 4918.121,
+      "end_time": 4919.121,
+      "duration": 1.0,
+      "dialogue_text": "That's dirty!"
+    },
+    {
+      "subtitle_index": 813,
+      "start_time": 4943.48,
+      "end_time": 4946.523,
+      "duration": 3.043000000000575,
+      "dialogue_text": "Uppercut! Block!"
+    },
+    {
+      "subtitle_index": 814,
+      "start_time": 4946.691,
+      "end_time": 4948.025,
+      "duration": 1.3339999999998327,
+      "dialogue_text": "Yes! Yes!"
+    },
+    {
+      "subtitle_index": 815,
+      "start_time": 4948.61,
+      "end_time": 4952.863,
+      "duration": 4.253000000000611,
+      "dialogue_text": "Yes! The Federation can take bets."
+    },
+    {
+      "subtitle_index": 816,
+      "start_time": 4952.989,
+      "end_time": 4954.823,
+      "duration": 1.8340000000007421,
+      "dialogue_text": "Somebody bring a bell!"
+    },
+    {
+      "subtitle_index": 817,
+      "start_time": 4958.787,
+      "end_time": 4960.037,
+      "duration": 1.25,
+      "dialogue_text": "Can't you go faster?"
+    },
+    {
+      "subtitle_index": 818,
+      "start_time": 4960.163,
+      "end_time": 4962.331,
+      "duration": 2.168000000000575,
+      "dialogue_text": "No. She'll overheat."
+    },
+    {
+      "subtitle_index": 819,
+      "start_time": 4963.124,
+      "end_time": 4965.542,
+      "duration": 2.418000000000575,
+      "dialogue_text": "Pilots are all crazy!"
+    },
+    {
+      "subtitle_index": 820,
+      "start_time": 4971.716,
+      "end_time": 4975.177,
+      "duration": 3.4609999999993306,
+      "dialogue_text": "Fio! Did you see that punch?"
+    },
+    {
+      "subtitle_index": 821,
+      "start_time": 4979.683,
+      "end_time": 4982.226,
+      "duration": 2.5429999999996653,
+      "dialogue_text": "I'll finish you in the next round."
+    },
+    {
+      "subtitle_index": 822,
+      "start_time": 4982.811,
+      "end_time": 4984.269,
+      "duration": 1.4580000000005384,
+      "dialogue_text": "You're going down."
+    },
+    {
+      "subtitle_index": 823,
+      "start_time": 4984.396,
+      "end_time": 4986.897,
+      "duration": 2.5010000000002037,
+      "dialogue_text": "Stay in there!"
+    },
+    {
+      "subtitle_index": 824,
+      "start_time": 4987.315,
+      "end_time": 4989.4,
+      "duration": 2.0850000000000364,
+      "dialogue_text": "I'm gonna flatten you, pig."
+    },
+    {
+      "subtitle_index": 825,
+      "start_time": 4991.486,
+      "end_time": 4993.237,
+      "duration": 1.7510000000002037,
+      "dialogue_text": "Come on, pretty boy!"
+    },
+    {
+      "subtitle_index": 826,
+      "start_time": 4994.197,
+      "end_time": 4996.365,
+      "duration": 2.1679999999996653,
+      "dialogue_text": "You're the pretty boy here!"
+    },
+    {
+      "subtitle_index": 827,
+      "start_time": 4998.201,
+      "end_time": 5000.077,
+      "duration": 1.8760000000002037,
+      "dialogue_text": "Chasing every girl you see!"
+    },
+    {
+      "subtitle_index": 828,
+      "start_time": 5000.203,
+      "end_time": 5001.578,
+      "duration": 1.375,
+      "dialogue_text": "What about you?"
+    },
+    {
+      "subtitle_index": 829,
+      "start_time": 5001.997,
+      "end_time": 5004.415,
+      "duration": 2.4179999999996653,
+      "dialogue_text": "Who's it going to be, Fio or Gina?"
+    },
+    {
+      "subtitle_index": 830,
+      "start_time": 5004.749,
+      "end_time": 5006.083,
+      "duration": 1.3339999999998327,
+      "dialogue_text": "What was that?"
+    },
+    {
+      "subtitle_index": 831,
+      "start_time": 5008.92,
+      "end_time": 5010.754,
+      "duration": 1.8339999999998327,
+      "dialogue_text": "You only get one!"
+    },
+    {
+      "subtitle_index": 832,
+      "start_time": 5013.091,
+      "end_time": 5014.466,
+      "duration": 1.375,
+      "dialogue_text": "Gina..."
+    },
+    {
+      "subtitle_index": 833,
+      "start_time": 5016.72,
+      "end_time": 5019.763,
+      "duration": 3.0429999999996653,
+      "dialogue_text": "Miss Gina to you!"
+    },
+    {
+      "subtitle_index": 834,
+      "start_time": 5021.016,
+      "end_time": 5024.601,
+      "duration": 3.5850000000000364,
+      "dialogue_text": "Gina's in love with you!"
+    },
+    {
+      "subtitle_index": 835,
+      "start_time": 5028.732,
+      "end_time": 5031.275,
+      "duration": 2.5429999999996653,
+      "dialogue_text": "She sits in that garden..."
+    },
+    {
+      "subtitle_index": 836,
+      "start_time": 5034.404,
+      "end_time": 5036.113,
+      "duration": 1.7089999999998327,
+      "dialogue_text": "and waits..."
+    },
+    {
+      "subtitle_index": 837,
+      "start_time": 5037.615,
+      "end_time": 5040.284,
+      "duration": 2.668999999999869,
+      "dialogue_text": "for you to come!"
+    },
+    {
+      "subtitle_index": 838,
+      "start_time": 5047.625,
+      "end_time": 5048.625,
+      "duration": 1.0,
+      "dialogue_text": "Porco!"
+    },
+    {
+      "subtitle_index": 839,
+      "start_time": 5048.752,
+      "end_time": 5049.752,
+      "duration": 1.0,
+      "dialogue_text": "The bell!"
+    },
+    {
+      "subtitle_index": 840,
+      "start_time": 5049.878,
+      "end_time": 5051.42,
+      "duration": 1.542000000000371,
+      "dialogue_text": "Start the count!"
+    },
+    {
+      "subtitle_index": 841,
+      "start_time": 5052.422,
+      "end_time": 5053.756,
+      "duration": 1.3340000000007421,
+      "dialogue_text": "Look at him!"
+    },
+    {
+      "subtitle_index": 842,
+      "start_time": 5059.471,
+      "end_time": 5061.847,
+      "duration": 2.3760000000002037,
+      "dialogue_text": "The Air Force isn't here yet."
+    },
+    {
+      "subtitle_index": 843,
+      "start_time": 5073.109,
+      "end_time": 5076.487,
+      "duration": 3.3779999999997017,
+      "dialogue_text": "Trying to psyche me out, are you?"
+    },
+    {
+      "subtitle_index": 844,
+      "start_time": 5080.283,
+      "end_time": 5082.826,
+      "duration": 2.5429999999996653,
+      "dialogue_text": "I don't get you."
+    },
+    {
+      "subtitle_index": 845,
+      "start_time": 5083.328,
+      "end_time": 5085.662,
+      "duration": 2.3339999999998327,
+      "dialogue_text": "It's the truth!"
+    },
+    {
+      "subtitle_index": 846,
+      "start_time": 5088.124,
+      "end_time": 5090.167,
+      "duration": 2.043000000000575,
+      "dialogue_text": "You can't have Fio!"
+    },
+    {
+      "subtitle_index": 847,
+      "start_time": 5091.503,
+      "end_time": 5092.544,
+      "duration": 1.0410000000001673,
+      "dialogue_text": "That's Gina!"
+    },
+    {
+      "subtitle_index": 848,
+      "start_time": 5095.799,
+      "end_time": 5097.341,
+      "duration": 1.542000000000371,
+      "dialogue_text": "There's trouble!"
+    },
+    {
+      "subtitle_index": 849,
+      "start_time": 5111.606,
+      "end_time": 5113.524,
+      "duration": 1.9180000000005748,
+      "dialogue_text": "First one to stand wins!"
+    },
+    {
+      "subtitle_index": 850,
+      "start_time": 5114.484,
+      "end_time": 5116.485,
+      "duration": 2.0009999999992942,
+      "dialogue_text": "Coming through!"
+    },
+    {
+      "subtitle_index": 851,
+      "start_time": 5119.489,
+      "end_time": 5121.365,
+      "duration": 1.8760000000002037,
+      "dialogue_text": "Gina, stop!"
+    },
+    {
+      "subtitle_index": 852,
+      "start_time": 5124.994,
+      "end_time": 5127.037,
+      "duration": 2.043000000000575,
+      "dialogue_text": "Marco, can you hear me?"
+    },
+    {
+      "subtitle_index": 853,
+      "start_time": 5130.041,
+      "end_time": 5133.043,
+      "duration": 3.001999999999498,
+      "dialogue_text": "Are you going to break another woman's heart?"
+    },
+    {
+      "subtitle_index": 854,
+      "start_time": 5142.178,
+      "end_time": 5143.778,
+      "duration": 1.6000000000003638,
+      "dialogue_text": "Porco!"
+    },
+    {
+      "subtitle_index": 855,
+      "start_time": 5147.392,
+      "end_time": 5149.184,
+      "duration": 1.792000000000371,
+      "dialogue_text": "Thank you, Porco!"
+    },
+    {
+      "subtitle_index": 856,
+      "start_time": 5149.352,
+      "end_time": 5151.895,
+      "duration": 2.543000000000575,
+      "dialogue_text": "It was nothing."
+    },
+    {
+      "subtitle_index": 857,
+      "start_time": 5159.07,
+      "end_time": 5162.906,
+      "duration": 3.83600000000024,
+      "dialogue_text": "Okay, the party's over. The Italian Air Force is coming."
+    },
+    {
+      "subtitle_index": 858,
+      "start_time": 5163.533,
+      "end_time": 5165.409,
+      "duration": 1.8759999999992942,
+      "dialogue_text": "Get out of here, everyone."
+    },
+    {
+      "subtitle_index": 859,
+      "start_time": 5165.869,
+      "end_time": 5169.913,
+      "duration": 4.043999999999869,
+      "dialogue_text": "Come to the club. Drinks are on the house!"
+    },
+    {
+      "subtitle_index": 860,
+      "start_time": 5171.749,
+      "end_time": 5173.584,
+      "duration": 1.8350000000000364,
+      "dialogue_text": "We're out of here!"
+    },
+    {
+      "subtitle_index": 861,
+      "start_time": 5184.888,
+      "end_time": 5186.096,
+      "duration": 1.207999999999629,
+      "dialogue_text": "It's over."
+    },
+    {
+      "subtitle_index": 862,
+      "start_time": 5188.099,
+      "end_time": 5191.268,
+      "duration": 3.168999999999869,
+      "dialogue_text": "Boss! Hurry!"
+    },
+    {
+      "subtitle_index": 863,
+      "start_time": 5191.394,
+      "end_time": 5193.478,
+      "duration": 2.0839999999998327,
+      "dialogue_text": "There are formalities to observe!"
+    },
+    {
+      "subtitle_index": 864,
+      "start_time": 5195.523,
+      "end_time": 5199.943,
+      "duration": 4.420000000000073,
+      "dialogue_text": "I hate the pig, but I like you. Build some good planes."
+    },
+    {
+      "subtitle_index": 865,
+      "start_time": 5200.069,
+      "end_time": 5201.278,
+      "duration": 1.2089999999998327,
+      "dialogue_text": "Bye!"
+    },
+    {
+      "subtitle_index": 866,
+      "start_time": 5201.529,
+      "end_time": 5204.406,
+      "duration": 2.876999999999498,
+      "dialogue_text": "Thanks. Take a bath sometime!"
+    },
+    {
+      "subtitle_index": 867,
+      "start_time": 5205.2,
+      "end_time": 5207.951,
+      "duration": 2.7510000000002037,
+      "dialogue_text": "Thanks, Mr. Curtiss!"
+    },
+    {
+      "subtitle_index": 868,
+      "start_time": 5208.077,
+      "end_time": 5211.288,
+      "duration": 3.2109999999993306,
+      "dialogue_text": "Next time it won't be a bet. I'll court you for real."
+    },
+    {
+      "subtitle_index": 869,
+      "start_time": 5211.915,
+      "end_time": 5214.625,
+      "duration": 2.7100000000000364,
+      "dialogue_text": "Sure. But I've made up my mind."
+    },
+    {
+      "subtitle_index": 870,
+      "start_time": 5215.293,
+      "end_time": 5217.628,
+      "duration": 2.3350000000000364,
+      "dialogue_text": "You ride in Gina's plane."
+    },
+    {
+      "subtitle_index": 871,
+      "start_time": 5217.754,
+      "end_time": 5219.296,
+      "duration": 1.542000000000371,
+      "dialogue_text": "No!"
+    },
+    {
+      "subtitle_index": 872,
+      "start_time": 5219.589,
+      "end_time": 5222.925,
+      "duration": 3.33600000000024,
+      "dialogue_text": "I ride in your plane! We're partners, aren't we?"
+    },
+    {
+      "subtitle_index": 873,
+      "start_time": 5224.636,
+      "end_time": 5228.263,
+      "duration": 3.626999999999498,
+      "dialogue_text": "Gina, take this girl back to the regular world."
+    },
+    {
+      "subtitle_index": 874,
+      "start_time": 5230.433,
+      "end_time": 5232.976,
+      "duration": 2.5429999999996653,
+      "dialogue_text": "You always do this. It's not fair."
+    },
+    {
+      "subtitle_index": 875,
+      "start_time": 5235.563,
+      "end_time": 5238.148,
+      "duration": 2.5850000000000364,
+      "dialogue_text": "Sorry. Off you go."
+    },
+    {
+      "subtitle_index": 876,
+      "start_time": 5243.446,
+      "end_time": 5244.446,
+      "duration": 1.0,
+      "dialogue_text": "Take her up."
+    },
+    {
+      "subtitle_index": 877,
+      "start_time": 5276.521,
+      "end_time": 5278.689,
+      "duration": 2.168000000000575,
+      "dialogue_text": "Here comes the cavalry."
+    },
+    {
+      "subtitle_index": 878,
+      "start_time": 5278.982,
+      "end_time": 5282.359,
+      "duration": 3.3770000000004075,
+      "dialogue_text": "Help me draw them away."
+    },
+    {
+      "subtitle_index": 879,
+      "start_time": 5283.695,
+      "end_time": 5285.57,
+      "duration": 1.875,
+      "dialogue_text": "Hey, your face! Wait!"
+    },
+    {
+      "subtitle_index": 880,
+      "start_time": 5286.322,
+      "end_time": 5287.698,
+      "duration": 1.3760000000002037,
+      "dialogue_text": "Show me your face!"
+    },
+    {
+      "subtitle_index": 881,
+      "start_time": 5287.824,
+      "end_time": 5289.199,
+      "duration": 1.375,
+      "dialogue_text": "Your plane's over there!"
+    },
+    {
+      "subtitle_index": 882,
+      "start_time": 5289.325,
+      "end_time": 5290.575,
+      "duration": 1.25,
+      "dialogue_text": "Just one look!"
+    },
+    {
+      "subtitle_index": 883,
+      "start_time": 5299.502,
+      "end_time": 5305.882,
+      "duration": 6.3799999999992,
+      "dialogue_text": "I never saw Porco again, even after the Air Force gave up..."
+    },
+    {
+      "subtitle_index": 884,
+      "start_time": 5306.509,
+      "end_time": 5309.052,
+      "duration": 2.5429999999996653,
+      "dialogue_text": "and I went back to Milan."
+    },
+    {
+      "subtitle_index": 885,
+      "start_time": 5310.596,
+      "end_time": 5315.225,
+      "duration": 4.629000000000815,
+      "dialogue_text": "But Gina and I became good friends."
+    },
+    {
+      "subtitle_index": 886,
+      "start_time": 5316.894,
+      "end_time": 5324.443,
+      "duration": 7.548999999999978,
+      "dialogue_text": "And we still are, through all the war and turmoil since then."
+    },
+    {
+      "subtitle_index": 887,
+      "start_time": 5326.612,
+      "end_time": 5333.91,
+      "duration": 7.2979999999997744,
+      "dialogue_text": "Now I run Piccolo Co., but I still summer at the Hotel Adriano."
+    },
+    {
+      "subtitle_index": 888,
+      "start_time": 5335.246,
+      "end_time": 5340.083,
+      "duration": 4.836999999999534,
+      "dialogue_text": "Gina is more beautiful every year, and there are lots of old faces."
+    },
+    {
+      "subtitle_index": 889,
+      "start_time": 5342.879,
+      "end_time": 5347.591,
+      "duration": 4.712000000000444,
+      "dialogue_text": "Oh, yes. Mr. Curtiss isn't President yet, but he writes us..."
+    },
+    {
+      "subtitle_index": 890,
+      "start_time": 5347.717,
+      "end_time": 5352.637,
+      "duration": 4.920000000000073,
+      "dialogue_text": "saying he misses the good old days of that Adriatic summer."
+    },
+    {
+      "subtitle_index": 891,
+      "start_time": 5354.849,
+      "end_time": 5359.77,
+      "duration": 4.9210000000002765,
+      "dialogue_text": "And did Gina win her bet? That's our secret."
+    },
+    {
+      "subtitle_index": 892,
+      "start_time": 5368.613,
+      "end_time": 5375.243,
+      "duration": 6.630000000000109,
+      "dialogue_text": "Songs Performed by Tokiko Kato"
+    },
+    {
+      "subtitle_index": 893,
+      "start_time": 5381.084,
+      "end_time": 5384.086,
+      "duration": 3.0020000000004075,
+      "dialogue_text": "VOICES"
+    },
+    {
+      "subtitle_index": 894,
+      "start_time": 5385.088,
+      "end_time": 5393.095,
+      "duration": 8.007000000000517,
+      "dialogue_text": "PORCO ROSSO Shuichiro Moriyama MΑDΑME GINΑ Tokiko Kato"
+    },
+    {
+      "subtitle_index": 895,
+      "start_time": 5394.097,
+      "end_time": 5401.728,
+      "duration": 7.631000000000313,
+      "dialogue_text": "MΑSTER PICCOLO Sanshi Katsura MΑMMΑ ΑIUTO BOSS Tsunehiko Kamijo"
+    },
+    {
+      "subtitle_index": 896,
+      "start_time": 5409.237,
+      "end_time": 5414.866,
+      "duration": 5.628999999999905,
+      "dialogue_text": "Executive Producers Υasuyoshi Tokuma"
+    },
+    {
+      "subtitle_index": 897,
+      "start_time": 5415.66,
+      "end_time": 5421.998,
+      "duration": 6.337999999999738,
+      "dialogue_text": "Matsuo Toshimitsu and Υoshio Sasaki"
+    },
+    {
+      "subtitle_index": 898,
+      "start_time": 5422.917,
+      "end_time": 5426.837,
+      "duration": 3.9200000000000728,
+      "dialogue_text": "Original Story and Screenplay by Hayao Miyazaki"
+    },
+    {
+      "subtitle_index": 899,
+      "start_time": 5428.172,
+      "end_time": 5432.175,
+      "duration": 4.003000000000611,
+      "dialogue_text": "Music by Joe Hisaishi"
+    },
+    {
+      "subtitle_index": 900,
+      "start_time": 5433.177,
+      "end_time": 5437.18,
+      "duration": 4.003000000000611,
+      "dialogue_text": "English Translation by Stephen Alpert, Haruyo Moriyoshi"
+    },
+    {
+      "subtitle_index": 901,
+      "start_time": 5437.682,
+      "end_time": 5441.685,
+      "duration": 4.003000000000611,
+      "dialogue_text": "Jim Hubbert and lan MacDougall"
+    },
+    {
+      "subtitle_index": 902,
+      "start_time": 5443.02,
+      "end_time": 5447.19,
+      "duration": 4.169999999999163,
+      "dialogue_text": "English Subtitles by AURA"
+    },
+    {
+      "subtitle_index": 903,
+      "start_time": 5561.639,
+      "end_time": 5565.642,
+      "duration": 4.002999999999702,
+      "dialogue_text": "A Studio Ghibli Film"
+    },
+    {
+      "subtitle_index": 904,
+      "start_time": 5566.644,
+      "end_time": 5570.689,
+      "duration": 4.045000000000073,
+      "dialogue_text": "Producer Toshio Suzuki"
+    },
+    {
+      "subtitle_index": 905,
+      "start_time": 5576.153,
+      "end_time": 5582.534,
+      "duration": 6.380999999999403,
+      "dialogue_text": "Directed by Hayao Miyazaki"
+    }
+  ]
+}

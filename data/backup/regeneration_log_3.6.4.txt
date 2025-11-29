@@ -1,0 +1,136 @@
+2025-11-27 13:57:40,490 - __main__ - INFO - Using smoothing window: 10 minutes
+2025-11-27 13:57:40,490 - __main__ - INFO - Subtitle version: v1
+2025-11-27 13:57:40,490 - __main__ - INFO - Replace existing: True
+2025-11-27 13:57:40,490 - __main__ - INFO - Starting batch emotion analysis from data/processed/subtitles
+2025-11-27 13:57:40,493 - __main__ - INFO - Using v2 improved subtitle for kikis_delivery_service_en
+2025-11-27 13:57:40,493 - __main__ - INFO - Using v2 improved subtitle for whisper_of_the_heart_en
+2025-11-27 13:57:40,493 - __main__ - INFO - Using v2 improved subtitle for earwig_and_the_witch_en
+2025-11-27 13:57:40,493 - __main__ - INFO - Using v2 improved subtitle for princess_mononoke_en
+2025-11-27 13:57:40,493 - __main__ - INFO - Using v2 improved subtitle for spirited_away_en
+2025-11-27 13:57:40,493 - __main__ - INFO - Using v2 improved subtitle for the_wind_rises_en
+2025-11-27 13:57:40,493 - __main__ - INFO - Using v2 improved subtitle for the_red_turtle_en
+2025-11-27 13:57:40,493 - __main__ - INFO - Using v2 improved subtitle for grave_of_the_fireflies_en
+2025-11-27 13:57:40,493 - __main__ - INFO - Using v2 improved subtitle for howls_moving_castle_en
+2025-11-27 13:57:40,493 - __main__ - INFO - Using v2 improved subtitle for pom_poko_en
+2025-11-27 13:57:40,493 - __main__ - INFO - Using v2 improved subtitle for only_yesterday_en
+2025-11-27 13:57:40,493 - __main__ - INFO - Using v2 improved subtitle for castle_in_the_sky_en
+2025-11-27 13:57:40,493 - __main__ - INFO - Using v2 improved subtitle for my_neighbor_totoro_en
+2025-11-27 13:57:40,493 - __main__ - INFO - Using v2 improved subtitle for ponyo_en
+2025-11-27 13:57:40,493 - __main__ - INFO - Subtitle priority map built: 134 total (120 v1, 14 v2)
+2025-11-27 13:57:40,493 - __main__ - INFO - Detected language: en from my_neighbor_totoro_en_v2_parsed.json
+2025-11-27 13:57:40,493 - __main__ - INFO - Detected language: fr from the_red_turtle_fr_parsed.json
+2025-11-27 13:57:40,493 - __main__ - INFO - Detected language: ar from the_red_turtle_ar_parsed.json
+2025-11-27 13:57:40,493 - __main__ - INFO - Detected language: nl from only_yesterday_nl_parsed.json
+2025-11-27 13:57:40,493 - __main__ - INFO - Detected language: en from from_up_on_poppy_hill_en_parsed.json
+2025-11-27 13:57:40,493 - __main__ - INFO - Detected language: es from spirited_away_es_parsed.json
+2025-11-27 13:57:40,493 - __main__ - INFO - Detected language: ar from only_yesterday_ar_parsed.json
+2025-11-27 13:57:40,493 - __main__ - INFO - Detected language: fr from only_yesterday_fr_parsed.json
+2025-11-27 13:57:40,493 - __main__ - INFO - Detected language: en from the_tale_of_the_princess_kaguya_en_parsed.json
+2025-11-27 13:57:40,493 - __main__ - INFO - Detected language: en from grave_of_the_fireflies_en_v2_parsed.json
+2025-11-27 13:57:40,493 - __main__ - INFO - Detected language: nl from the_red_turtle_nl_parsed.json
+2025-11-27 13:57:40,493 - __main__ - INFO - Detected language: es from howls_moving_castle_es_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: en from earwig_and_the_witch_en_v2_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: en from porco_rosso_en_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: en from castle_in_the_sky_en_v2_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: es from the_wind_rises_es_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: en from whisper_of_the_heart_en_v2_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: es from kikis_delivery_service_es_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: es from the_cat_returns_es_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: fr from the_wind_rises_fr_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: ar from the_wind_rises_ar_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: en from tales_from_earthsea_en_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: nl from spirited_away_nl_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: ar from the_cat_returns_ar_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: fr from the_cat_returns_fr_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: fr from kikis_delivery_service_fr_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: ar from kikis_delivery_service_ar_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: es from only_yesterday_es_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: ar from howls_moving_castle_ar_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: fr from howls_moving_castle_fr_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: en from pom_poko_en_v2_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: nl from kikis_delivery_service_nl_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: en from ponyo_en_v2_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: en from arrietty_en_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: ar from spirited_away_ar_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: nl from the_cat_returns_nl_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: fr from spirited_away_fr_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: en from when_marnie_was_there_en_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: nl from the_wind_rises_nl_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: es from the_red_turtle_es_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: en from princess_mononoke_en_v2_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: nl from howls_moving_castle_nl_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: en from my_neighbors_the_yamadas_en_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: fr from castle_in_the_sky_fr_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: es from tales_from_earthsea_es_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: ar from castle_in_the_sky_ar_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: fr from whisper_of_the_heart_fr_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: en from film1_en_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: ar from whisper_of_the_heart_ar_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: ar from grave_of_the_fireflies_ar_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: fr from the_tale_of_the_princess_kaguya_fr_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: es from pom_poko_es_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: ar from the_tale_of_the_princess_kaguya_ar_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: fr from grave_of_the_fireflies_fr_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: nl from my_neighbor_totoro_nl_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: ar from porco_rosso_ar_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: fr from earwig_and_the_witch_fr_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: fr from porco_rosso_fr_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: ar from earwig_and_the_witch_ar_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: nl from from_up_on_poppy_hill_nl_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: en from only_yesterday_en_v2_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: nl from whisper_of_the_heart_nl_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: nl from castle_in_the_sky_nl_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: es from when_marnie_was_there_es_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: es from arrietty_es_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: es from ponyo_es_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: fr from from_up_on_poppy_hill_fr_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: ar from from_up_on_poppy_hill_ar_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: es from my_neighbors_the_yamadas_es_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: nl from porco_rosso_nl_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: nl from earwig_and_the_witch_nl_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: nl from grave_of_the_fireflies_nl_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: es from princess_mononoke_es_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: fr from my_neighbor_totoro_fr_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: en from the_red_turtle_en_v2_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: nl from the_tale_of_the_princess_kaguya_nl_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: ar from my_neighbor_totoro_ar_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: es from from_up_on_poppy_hill_es_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: ar from princess_mononoke_ar_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: es from my_neighbor_totoro_es_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: fr from princess_mononoke_fr_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: nl from pom_poko_nl_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: ar from my_neighbors_the_yamadas_ar_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: fr from my_neighbors_the_yamadas_fr_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: nl from tales_from_earthsea_nl_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: fr from ponyo_fr_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: ar from when_marnie_was_there_ar_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: fr from arrietty_fr_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: ar from ponyo_ar_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: fr from when_marnie_was_there_fr_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: en from spirited_away_en_v2_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: ar from arrietty_ar_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: es from porco_rosso_es_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: nl from my_neighbors_the_yamadas_nl_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: es from earwig_and_the_witch_es_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: en from howls_moving_castle_en_v2_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: es from grave_of_the_fireflies_es_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: nl from princess_mononoke_nl_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: fr from pom_poko_fr_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: es from the_tale_of_the_princess_kaguya_es_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: ar from pom_poko_ar_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: nl from when_marnie_was_there_nl_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: nl from ponyo_nl_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: en from the_cat_returns_en_parsed.json
+2025-11-27 13:57:40,494 - __main__ - INFO - Detected language: nl from arrietty_nl_parsed.json
+2025-11-27 13:57:40,495 - __main__ - INFO - Detected language: en from kikis_delivery_service_en_v2_parsed.json
+2025-11-27 13:57:40,495 - __main__ - INFO - Detected language: es from whisper_of_the_heart_es_parsed.json
+2025-11-27 13:57:40,495 - __main__ - INFO - Detected language: ar from tales_from_earthsea_ar_parsed.json
+2025-11-27 13:57:40,495 - __main__ - INFO - Detected language: en from the_wind_rises_en_v2_parsed.json
+2025-11-27 13:57:40,495 - __main__ - INFO - Detected language: es from castle_in_the_sky_es_parsed.json
+2025-11-27 13:57:40,495 - __main__ - INFO - Detected language: fr from tales_from_earthsea_fr_parsed.json
+2025-11-27 13:57:40,495 - __main__ - INFO - Processing 111 files after filtering
+2025-11-27 13:57:40,495 - __main__ - INFO - Loading emotion model: AnasAlokla/multilingual_go_emotions
+Device set to use mps:0
+2025-11-27 13:57:42,316 - __main__ - INFO - Successfully loaded emotion model
+2025-11-27 13:57:42,329 - __main__ - ERROR - Failed to create emotions table: IO Error: Could not set lock on file "/Users/edjunior/personal_projects/ghibli_pipeline/data/ghibli.duckdb": Conflicting lock is held in /opt/anaconda3/bin/python3.12 (PID 71740) by user edjunior. However, you would be able to open this database in read-only mode, e.g. by using the -readonly parameter in the CLI. See also https://duckdb.org/docs/stable/connect/concurrency
+2025-11-27 13:57:42,329 - __main__ - ERROR - Fatal error: cannot access local variable 'conn' where it is not associated with a value

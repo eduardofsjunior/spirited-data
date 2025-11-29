@@ -1,0 +1,6746 @@
+{
+  "metadata": {
+    "film_name": "Porco Rosso",
+    "film_slug": "porco_rosso_fr",
+    "language_code": "fr",
+    "total_subtitles": 962,
+    "total_duration": 5584.4039999999995,
+    "parse_timestamp": "2025-10-30T17:09:42.585061"
+  },
+  "subtitles": [
+    {
+      "subtitle_index": 1,
+      "start_time": 7.438,
+      "end_time": 12.193,
+      "duration": 4.755,
+      "dialogue_text": "Une coproduction TOKUMA SHOTEN PUBLISHING CO, LTD JAPAN AIRLINES NIPPON TELEVISION NETWORK CORP. STUDIO GHIBLI CO, LTD"
+    },
+    {
+      "subtitle_index": 2,
+      "start_time": 41.932,
+      "end_time": 49.065,
+      "duration": 7.132999999999996,
+      "dialogue_text": "PORCO ROSSO"
+    },
+    {
+      "subtitle_index": 3,
+      "start_time": 102.913,
+      "end_time": 106.375,
+      "duration": 3.4620000000000033,
+      "dialogue_text": "- Porco, rapplique ! - Les Ayuto remettent ça."
+    },
+    {
+      "subtitle_index": 4,
+      "start_time": 106.5,
+      "end_time": 110.546,
+      "duration": 4.0460000000000065,
+      "dialogue_text": "Les Mamma Ayuto ? Ca rapporte pas assez !"
+    },
+    {
+      "subtitle_index": 5,
+      "start_time": 110.754,
+      "end_time": 112.673,
+      "duration": 1.918999999999997,
+      "dialogue_text": "- Ils visent un paquebot"
+    },
+    {
+      "subtitle_index": 6,
+      "start_time": 112.798,
+      "end_time": 114.467,
+      "duration": 1.668999999999997,
+      "dialogue_text": "- qui transporte de l'or."
+    },
+    {
+      "subtitle_index": 7,
+      "start_time": 114.634,
+      "end_time": 116.093,
+      "duration": 1.4590000000000032,
+      "dialogue_text": "Et alors ?"
+    },
+    {
+      "subtitle_index": 8,
+      "start_time": 116.26,
+      "end_time": 117.595,
+      "duration": 1.3349999999999937,
+      "dialogue_text": "- C'est que..."
+    },
+    {
+      "subtitle_index": 9,
+      "start_time": 118.096,
+      "end_time": 120.932,
+      "duration": 2.8359999999999985,
+      "dialogue_text": "- Il y a à bord - un groupe d'écolières."
+    },
+    {
+      "subtitle_index": 10,
+      "start_time": 121.641,
+      "end_time": 123.351,
+      "duration": 1.7099999999999937,
+      "dialogue_text": "Là, ça va faire cher !"
+    },
+    {
+      "subtitle_index": 11,
+      "start_time": 123.476,
+      "end_time": 125.478,
+      "duration": 2.0019999999999953,
+      "dialogue_text": "- Article 14-3 du contrat."
+    },
+    {
+      "subtitle_index": 12,
+      "start_time": 125.645,
+      "end_time": 127.605,
+      "duration": 1.960000000000008,
+      "dialogue_text": "Et 14-4 aussi !"
+    },
+    {
+      "subtitle_index": 13,
+      "start_time": 130.275,
+      "end_time": 131.276,
+      "duration": 1.0010000000000048,
+      "dialogue_text": "Arrêtez-vous !"
+    },
+    {
+      "subtitle_index": 14,
+      "start_time": 131.777,
+      "end_time": 134.279,
+      "duration": 2.5020000000000095,
+      "dialogue_text": "Sinon, on vous coule !"
+    },
+    {
+      "subtitle_index": 15,
+      "start_time": 135.53,
+      "end_time": 139.201,
+      "duration": 3.6709999999999923,
+      "dialogue_text": "- Des pirates !? - J'ai peur ! Des kidnappers !"
+    },
+    {
+      "subtitle_index": 16,
+      "start_time": 166.271,
+      "end_time": 169.233,
+      "duration": 2.9620000000000175,
+      "dialogue_text": "Il est temps de faire une bonne révision."
+    },
+    {
+      "subtitle_index": 17,
+      "start_time": 200.64,
+      "end_time": 203.268,
+      "duration": 2.6280000000000143,
+      "dialogue_text": "- Vous êtes des méchants ? - C'est sûr !"
+    },
+    {
+      "subtitle_index": 18,
+      "start_time": 203.435,
+      "end_time": 205.896,
+      "duration": 2.4609999999999843,
+      "dialogue_text": "- Nous, on est des otages ? - Bien sûr !"
+    },
+    {
+      "subtitle_index": 19,
+      "start_time": 206.105,
+      "end_time": 208.565,
+      "duration": 2.460000000000008,
+      "dialogue_text": "- T'es un pirate du ciel ? - Tout juste."
+    },
+    {
+      "subtitle_index": 20,
+      "start_time": 208.941,
+      "end_time": 210.943,
+      "duration": 2.0020000000000095,
+      "dialogue_text": "- Une tête de mort ! - Elle est super !"
+    },
+    {
+      "subtitle_index": 21,
+      "start_time": 211.152,
+      "end_time": 212.862,
+      "duration": 1.710000000000008,
+      "dialogue_text": "Grouillez-vous !"
+    },
+    {
+      "subtitle_index": 22,
+      "start_time": 213.154,
+      "end_time": 215.239,
+      "duration": 2.085000000000008,
+      "dialogue_text": "On est pressés !"
+    },
+    {
+      "subtitle_index": 23,
+      "start_time": 215.573,
+      "end_time": 218.159,
+      "duration": 2.5859999999999843,
+      "dialogue_text": "Y en a 15. On les prend toutes ?"
+    },
+    {
+      "subtitle_index": 24,
+      "start_time": 218.326,
+      "end_time": 220.87,
+      "duration": 2.544000000000011,
+      "dialogue_text": "Ce serait cruel de les séparer !"
+    },
+    {
+      "subtitle_index": 25,
+      "start_time": 239.973,
+      "end_time": 241.016,
+      "duration": 1.042999999999978,
+      "dialogue_text": "Trop tard !?"
+    },
+    {
+      "subtitle_index": 26,
+      "start_time": 241.392,
+      "end_time": 246.147,
+      "duration": 4.7549999999999955,
+      "dialogue_text": "Ils ont enlevé les fillettes et l'or ! Ramenez-les-nous."
+    },
+    {
+      "subtitle_index": 27,
+      "start_time": 246.731,
+      "end_time": 249.317,
+      "duration": 2.5860000000000127,
+      "dialogue_text": "Ils ont filé par là."
+    },
+    {
+      "subtitle_index": 28,
+      "start_time": 257.242,
+      "end_time": 260.203,
+      "duration": 2.960999999999956,
+      "dialogue_text": "Mais non ! Pas par là !"
+    },
+    {
+      "subtitle_index": 29,
+      "start_time": 261.079,
+      "end_time": 263.248,
+      "duration": 2.1689999999999827,
+      "dialogue_text": "Je sais, je les connais !"
+    },
+    {
+      "subtitle_index": 30,
+      "start_time": 264.291,
+      "end_time": 267.377,
+      "duration": 3.0860000000000127,
+      "dialogue_text": "Sitôt hors de vue, ils changent de cap."
+    },
+    {
+      "subtitle_index": 31,
+      "start_time": 267.502,
+      "end_time": 271.507,
+      "duration": 4.0049999999999955,
+      "dialogue_text": "Fauchés et radins, ils rallient l'île la plus proche..."
+    },
+    {
+      "subtitle_index": 32,
+      "start_time": 275.094,
+      "end_time": 276.595,
+      "duration": 1.5010000000000332,
+      "dialogue_text": "Bon sang !"
+    },
+    {
+      "subtitle_index": 33,
+      "start_time": 299.536,
+      "end_time": 301.788,
+      "duration": 2.2520000000000095,
+      "dialogue_text": "J'ai pas le temps !"
+    },
+    {
+      "subtitle_index": 34,
+      "start_time": 306.502,
+      "end_time": 308.087,
+      "duration": 1.5849999999999795,
+      "dialogue_text": "Les voilà !"
+    },
+    {
+      "subtitle_index": 35,
+      "start_time": 321.768,
+      "end_time": 322.769,
+      "duration": 1.0010000000000332,
+      "dialogue_text": "Quoi !?"
+    },
+    {
+      "subtitle_index": 36,
+      "start_time": 323.061,
+      "end_time": 325.396,
+      "duration": 2.3350000000000364,
+      "dialogue_text": "Des touristes en goguette !"
+    },
+    {
+      "subtitle_index": 37,
+      "start_time": 327.065,
+      "end_time": 330.777,
+      "duration": 3.711999999999989,
+      "dialogue_text": "Un cochon !! C'est lui !! Adorable ! Un sourire !"
+    },
+    {
+      "subtitle_index": 38,
+      "start_time": 331.153,
+      "end_time": 336.033,
+      "duration": 4.8799999999999955,
+      "dialogue_text": "A vous balader par là, vous serez bientôt kidnappées !"
+    },
+    {
+      "subtitle_index": 39,
+      "start_time": 338.702,
+      "end_time": 340.996,
+      "duration": 2.2939999999999827,
+      "dialogue_text": "Quelle classe !"
+    },
+    {
+      "subtitle_index": 40,
+      "start_time": 354.052,
+      "end_time": 356.262,
+      "duration": 2.2099999999999795,
+      "dialogue_text": "Quelle volière !"
+    },
+    {
+      "subtitle_index": 41,
+      "start_time": 356.429,
+      "end_time": 358.431,
+      "duration": 2.0020000000000095,
+      "dialogue_text": "- On est en l'air ! - Je veux voir !"
+    },
+    {
+      "subtitle_index": 42,
+      "start_time": 358.64,
+      "end_time": 360.266,
+      "duration": 1.6260000000000332,
+      "dialogue_text": "Ca suffit !"
+    },
+    {
+      "subtitle_index": 43,
+      "start_time": 360.809,
+      "end_time": 361.81,
+      "duration": 1.0009999999999764,
+      "dialogue_text": "Calmez-vous un peu !"
+    },
+    {
+      "subtitle_index": 44,
+      "start_time": 361.935,
+      "end_time": 365.063,
+      "duration": 3.127999999999986,
+      "dialogue_text": "Vous autres, faites quelque chose !"
+    },
+    {
+      "subtitle_index": 45,
+      "start_time": 365.397,
+      "end_time": 369.484,
+      "duration": 4.086999999999989,
+      "dialogue_text": "Vous avez voulu les prendre toutes !"
+    },
+    {
+      "subtitle_index": 46,
+      "start_time": 370.736,
+      "end_time": 374.281,
+      "duration": 3.545000000000016,
+      "dialogue_text": "Pas longtemps ! C'est interdit !"
+    },
+    {
+      "subtitle_index": 47,
+      "start_time": 374.823,
+      "end_time": 377.368,
+      "duration": 2.545000000000016,
+      "dialogue_text": "Super !! Regarde !"
+    },
+    {
+      "subtitle_index": 48,
+      "start_time": 377.952,
+      "end_time": 379.12,
+      "duration": 1.1680000000000064,
+      "dialogue_text": "Un avion rouge !"
+    },
+    {
+      "subtitle_index": 49,
+      "start_time": 379.662,
+      "end_time": 381.33,
+      "duration": 1.6680000000000064,
+      "dialogue_text": "Où ça ?"
+    },
+    {
+      "subtitle_index": 50,
+      "start_time": 381.414,
+      "end_time": 383.624,
+      "duration": 2.2100000000000364,
+      "dialogue_text": "On l'a bien vu, hein ?"
+    },
+    {
+      "subtitle_index": 51,
+      "start_time": 388.338,
+      "end_time": 390.59,
+      "duration": 2.2519999999999527,
+      "dialogue_text": "Vous m'aurez pas !"
+    },
+    {
+      "subtitle_index": 52,
+      "start_time": 392.175,
+      "end_time": 393.385,
+      "duration": 1.2099999999999795,
+      "dialogue_text": "Le voilà !"
+    },
+    {
+      "subtitle_index": 53,
+      "start_time": 394.386,
+      "end_time": 396.346,
+      "duration": 1.9599999999999795,
+      "dialogue_text": "- C'est Porco ! - Où il est ?"
+    },
+    {
+      "subtitle_index": 54,
+      "start_time": 401.518,
+      "end_time": 403.103,
+      "duration": 1.5850000000000364,
+      "dialogue_text": "Zut !"
+    },
+    {
+      "subtitle_index": 55,
+      "start_time": 403.186,
+      "end_time": 405.522,
+      "duration": 2.3360000000000127,
+      "dialogue_text": "- La panne ! - On va tomber !"
+    },
+    {
+      "subtitle_index": 56,
+      "start_time": 405.606,
+      "end_time": 407.524,
+      "duration": 1.9180000000000064,
+      "dialogue_text": "Non, y a un autre moteur !"
+    },
+    {
+      "subtitle_index": 57,
+      "start_time": 411.57,
+      "end_time": 414.573,
+      "duration": 3.002999999999986,
+      "dialogue_text": "Le salaud ! Qu'est-ce qu'il fout ? Feu !"
+    },
+    {
+      "subtitle_index": 58,
+      "start_time": 415.574,
+      "end_time": 418.119,
+      "duration": 2.545000000000016,
+      "dialogue_text": "Fortiche, l'avion rouge !"
+    },
+    {
+      "subtitle_index": 59,
+      "start_time": 422.04,
+      "end_time": 424.042,
+      "duration": 2.0019999999999527,
+      "dialogue_text": "- Encore raté ! - Tirez-vous !"
+    },
+    {
+      "subtitle_index": 60,
+      "start_time": 431.424,
+      "end_time": 434.845,
+      "duration": 3.421000000000049,
+      "dialogue_text": "Un message du cochon. \"Tu as perdu ! Ecoute-moi !\""
+    },
+    {
+      "subtitle_index": 61,
+      "start_time": 435.012,
+      "end_time": 435.762,
+      "duration": 0.75,
+      "dialogue_text": "Ta gueule !"
+    },
+    {
+      "subtitle_index": 62,
+      "start_time": 439.725,
+      "end_time": 443.062,
+      "duration": 3.336999999999989,
+      "dialogue_text": "Le voilà ! II fonce sur nous ! Baissez-vous !"
+    },
+    {
+      "subtitle_index": 63,
+      "start_time": 445.272,
+      "end_time": 446.399,
+      "duration": 1.1270000000000095,
+      "dialogue_text": "Où ? Où est-il ?"
+    },
+    {
+      "subtitle_index": 64,
+      "start_time": 446.607,
+      "end_time": 447.358,
+      "duration": 0.7509999999999764,
+      "dialogue_text": "Il s'est caché !"
+    },
+    {
+      "subtitle_index": 65,
+      "start_time": 459.329,
+      "end_time": 463.625,
+      "duration": 4.295999999999992,
+      "dialogue_text": "On tombe ! On va couler !"
+    },
+    {
+      "subtitle_index": 66,
+      "start_time": 463.708,
+      "end_time": 466.628,
+      "duration": 2.919999999999959,
+      "dialogue_text": "Impossible ! C'est un hydravion."
+    },
+    {
+      "subtitle_index": 67,
+      "start_time": 472.217,
+      "end_time": 474.011,
+      "duration": 1.7940000000000396,
+      "dialogue_text": "On va couler !"
+    },
+    {
+      "subtitle_index": 68,
+      "start_time": 474.47,
+      "end_time": 476.805,
+      "duration": 2.3349999999999795,
+      "dialogue_text": "Arrêtez ! C'est dangereux !"
+    },
+    {
+      "subtitle_index": 69,
+      "start_time": 477.056,
+      "end_time": 479.308,
+      "duration": 2.2520000000000095,
+      "dialogue_text": "Arrêtez-les ! Nos précieux otages !!"
+    },
+    {
+      "subtitle_index": 70,
+      "start_time": 479.35,
+      "end_time": 483.062,
+      "duration": 3.711999999999989,
+      "dialogue_text": "Vous en faites pas ! On sait toutes nager !"
+    },
+    {
+      "subtitle_index": 71,
+      "start_time": 483.229,
+      "end_time": 485.69,
+      "duration": 2.4610000000000127,
+      "dialogue_text": "C'est pas le problème !"
+    },
+    {
+      "subtitle_index": 72,
+      "start_time": 485.857,
+      "end_time": 488.067,
+      "duration": 2.2099999999999795,
+      "dialogue_text": "2ème message du cochon !!"
+    },
+    {
+      "subtitle_index": 73,
+      "start_time": 488.651,
+      "end_time": 490.945,
+      "duration": 2.2939999999999827,
+      "dialogue_text": "Je vous laisse la moitié de l'or."
+    },
+    {
+      "subtitle_index": 74,
+      "start_time": 491.029,
+      "end_time": 493.948,
+      "duration": 2.9189999999999827,
+      "dialogue_text": "Rendez le reste et les otages !"
+    },
+    {
+      "subtitle_index": 75,
+      "start_time": 494.449,
+      "end_time": 497.035,
+      "duration": 2.5860000000000127,
+      "dialogue_text": "Sinon, je vous tue tous !"
+    },
+    {
+      "subtitle_index": 76,
+      "start_time": 497.285,
+      "end_time": 498.286,
+      "duration": 1.0009999999999764,
+      "dialogue_text": "C'est tout."
+    },
+    {
+      "subtitle_index": 77,
+      "start_time": 498.411,
+      "end_time": 500.706,
+      "duration": 2.295000000000016,
+      "dialogue_text": "La moitié de l'or !"
+    },
+    {
+      "subtitle_index": 78,
+      "start_time": 501.039,
+      "end_time": 503.834,
+      "duration": 2.795000000000016,
+      "dialogue_text": "La ferme ! Viens donc, sale cochon !"
+    },
+    {
+      "subtitle_index": 79,
+      "start_time": 509.381,
+      "end_time": 510.549,
+      "duration": 1.1680000000000064,
+      "dialogue_text": "Prends ça !"
+    },
+    {
+      "subtitle_index": 80,
+      "start_time": 513.135,
+      "end_time": 514.47,
+      "duration": 1.3350000000000364,
+      "dialogue_text": "Foutue !"
+    },
+    {
+      "subtitle_index": 81,
+      "start_time": 522.645,
+      "end_time": 526.149,
+      "duration": 3.504000000000019,
+      "dialogue_text": "Au revoir !"
+    },
+    {
+      "subtitle_index": 82,
+      "start_time": 528.109,
+      "end_time": 530.237,
+      "duration": 2.127999999999929,
+      "dialogue_text": "Quelle veine d'avoir de quoi réparer !"
+    },
+    {
+      "subtitle_index": 83,
+      "start_time": 530.403,
+      "end_time": 532.948,
+      "duration": 2.544999999999959,
+      "dialogue_text": "Crétin ! Un peu d'ambition !"
+    },
+    {
+      "subtitle_index": 84,
+      "start_time": 539.705,
+      "end_time": 542.708,
+      "duration": 3.002999999999929,
+      "dialogue_text": "Tenez-vous tranquilles !"
+    },
+    {
+      "subtitle_index": 85,
+      "start_time": 544.21,
+      "end_time": 546.796,
+      "duration": 2.5860000000000127,
+      "dialogue_text": "Tirez pas dessus ! Ca casse !"
+    },
+    {
+      "subtitle_index": 86,
+      "start_time": 550.299,
+      "end_time": 552.593,
+      "duration": 2.2939999999999827,
+      "dialogue_text": "Attention à l'hélice !"
+    },
+    {
+      "subtitle_index": 87,
+      "start_time": 552.718,
+      "end_time": 555.346,
+      "duration": 2.6280000000000427,
+      "dialogue_text": "Pipi ? Allez faire ça là-bas !"
+    },
+    {
+      "subtitle_index": 88,
+      "start_time": 556.014,
+      "end_time": 558.474,
+      "duration": 2.4600000000000364,
+      "dialogue_text": "- Nouveau triomphe de Porco Rosso"
+    },
+    {
+      "subtitle_index": 89,
+      "start_time": 559.559,
+      "end_time": 562.729,
+      "duration": 3.1700000000000728,
+      "dialogue_text": "Paraît que les Ayuto ne viennent pas ce soir."
+    },
+    {
+      "subtitle_index": 90,
+      "start_time": 562.896,
+      "end_time": 566.691,
+      "duration": 3.7950000000000728,
+      "dialogue_text": "Saloperie de mercenaire qui joue au héros !"
+    },
+    {
+      "subtitle_index": 91,
+      "start_time": 566.9,
+      "end_time": 569.903,
+      "duration": 3.0030000000000427,
+      "dialogue_text": "Mais ce jeunot est américain ?"
+    },
+    {
+      "subtitle_index": 92,
+      "start_time": 570.07,
+      "end_time": 573.782,
+      "duration": 3.711999999999989,
+      "dialogue_text": "Honte aux pilotes de l'Adriatique !"
+    },
+    {
+      "subtitle_index": 93,
+      "start_time": 573.907,
+      "end_time": 578.12,
+      "duration": 4.212999999999965,
+      "dialogue_text": "Mais sa grand-mère est 1/4 italienne."
+    },
+    {
+      "subtitle_index": 94,
+      "start_time": 578.245,
+      "end_time": 582.291,
+      "duration": 4.046000000000049,
+      "dialogue_text": "De toute façon, faut vous débarrasser de Porco."
+    },
+    {
+      "subtitle_index": 95,
+      "start_time": 582.458,
+      "end_time": 584.877,
+      "duration": 2.4189999999999827,
+      "dialogue_text": "Mais 10%, c'est exorbitant !"
+    },
+    {
+      "subtitle_index": 96,
+      "start_time": 608.36,
+      "end_time": 609.57,
+      "duration": 1.2100000000000364,
+      "dialogue_text": "Qu'elle est belle..."
+    },
+    {
+      "subtitle_index": 97,
+      "start_time": 688.861,
+      "end_time": 690.029,
+      "duration": 1.1680000000000064,
+      "dialogue_text": "Le voilà !"
+    },
+    {
+      "subtitle_index": 98,
+      "start_time": 690.405,
+      "end_time": 694.325,
+      "duration": 3.9200000000000728,
+      "dialogue_text": "Quel frimeur malgré sa sale gueule !"
+    },
+    {
+      "subtitle_index": 99,
+      "start_time": 708.132,
+      "end_time": 710.759,
+      "duration": 2.6270000000000664,
+      "dialogue_text": "M. Porco Rosso, je suis du Neptune."
+    },
+    {
+      "subtitle_index": 100,
+      "start_time": 710.926,
+      "end_time": 713.721,
+      "duration": 2.794999999999959,
+      "dialogue_text": "Encore un exploit ! Les Ayuto"
+    },
+    {
+      "subtitle_index": 101,
+      "start_time": 713.846,
+      "end_time": 717.433,
+      "duration": 3.586999999999989,
+      "dialogue_text": "ne s'en remettront pas de sitôt !"
+    },
+    {
+      "subtitle_index": 102,
+      "start_time": 717.6,
+      "end_time": 721.02,
+      "duration": 3.419999999999959,
+      "dialogue_text": "Vos primes vont encore augmenter cette année ?"
+    },
+    {
+      "subtitle_index": 103,
+      "start_time": 721.187,
+      "end_time": 722.814,
+      "duration": 1.6269999999999527,
+      "dialogue_text": "Qu'est-ce qui vous prend ?"
+    },
+    {
+      "subtitle_index": 104,
+      "start_time": 726.443,
+      "end_time": 728.695,
+      "duration": 2.2520000000000664,
+      "dialogue_text": "Une chanson, ça s'écoute !"
+    },
+    {
+      "subtitle_index": 105,
+      "start_time": 737.746,
+      "end_time": 739.873,
+      "duration": 2.1270000000000664,
+      "dialogue_text": "Elle est merveilleuse !"
+    },
+    {
+      "subtitle_index": 106,
+      "start_time": 739.998,
+      "end_time": 744.962,
+      "duration": 4.963999999999942,
+      "dialogue_text": "Gina de l'hôtel Adriano est connue des pilotes de mon pays."
+    },
+    {
+      "subtitle_index": 107,
+      "start_time": 745.087,
+      "end_time": 748.799,
+      "duration": 3.711999999999989,
+      "dialogue_text": "On dit qu'ici, tous se tiennent à carreaux !"
+    },
+    {
+      "subtitle_index": 108,
+      "start_time": 748.966,
+      "end_time": 750.885,
+      "duration": 1.9189999999999827,
+      "dialogue_text": "Le Curtis dehors est à toi ?"
+    },
+    {
+      "subtitle_index": 109,
+      "start_time": 751.385,
+      "end_time": 755.098,
+      "duration": 3.7129999999999654,
+      "dialogue_text": "Oui, c'est mon gri-gri qui m'apporte gloire et fortune."
+    },
+    {
+      "subtitle_index": 110,
+      "start_time": 755.765,
+      "end_time": 759.519,
+      "duration": 3.754000000000019,
+      "dialogue_text": "C'est lui qui a gagné 2 fois le Trophée Schneider."
+    },
+    {
+      "subtitle_index": 111,
+      "start_time": 759.894,
+      "end_time": 763.273,
+      "duration": 3.379000000000019,
+      "dialogue_text": "Il est rapide et très bon au combat !"
+    },
+    {
+      "subtitle_index": 112,
+      "start_time": 763.607,
+      "end_time": 768.32,
+      "duration": 4.713000000000079,
+      "dialogue_text": "Vous connaissez Porco Rosso, un cochon célèbre par ici ?"
+    },
+    {
+      "subtitle_index": 113,
+      "start_time": 768.403,
+      "end_time": 771.323,
+      "duration": 2.919999999999959,
+      "dialogue_text": "Prends garde si tu t'allies aux pirates."
+    },
+    {
+      "subtitle_index": 114,
+      "start_time": 771.907,
+      "end_time": 773.951,
+      "duration": 2.0439999999999827,
+      "dialogue_text": "Ils sont radins et ils puent,"
+    },
+    {
+      "subtitle_index": 115,
+      "start_time": 774.159,
+      "end_time": 776.12,
+      "duration": 1.9610000000000127,
+      "dialogue_text": "ils ne se lavent pas."
+    },
+    {
+      "subtitle_index": 116,
+      "start_time": 777.663,
+      "end_time": 778.372,
+      "duration": 0.7089999999999463,
+      "dialogue_text": "C'est vrai !"
+    },
+    {
+      "subtitle_index": 117,
+      "start_time": 778.831,
+      "end_time": 781.167,
+      "duration": 2.3360000000000127,
+      "dialogue_text": "Que dit ce fumier de cochon !?"
+    },
+    {
+      "subtitle_index": 118,
+      "start_time": 781.25,
+      "end_time": 786.088,
+      "duration": 4.837999999999965,
+      "dialogue_text": "Une vraie réunion au sommet !! Vous tramez quelque chose !"
+    },
+    {
+      "subtitle_index": 119,
+      "start_time": 786.923,
+      "end_time": 787.924,
+      "duration": 1.0009999999999764,
+      "dialogue_text": "Dans le mille !"
+    },
+    {
+      "subtitle_index": 120,
+      "start_time": 788.341,
+      "end_time": 791.803,
+      "duration": 3.461999999999989,
+      "dialogue_text": "Vous êtes bienvenus ! Mais pas de guéguerre !"
+    },
+    {
+      "subtitle_index": 121,
+      "start_time": 792.262,
+      "end_time": 796.808,
+      "duration": 4.546000000000049,
+      "dialogue_text": "C'est OK, Gina ! On fait rien à moins de 50 km d'ici !"
+    },
+    {
+      "subtitle_index": 122,
+      "start_time": 797.017,
+      "end_time": 800.395,
+      "duration": 3.377999999999929,
+      "dialogue_text": "Même le cochon, on l'aime bien !!"
+    },
+    {
+      "subtitle_index": 123,
+      "start_time": 802.147,
+      "end_time": 803.398,
+      "duration": 1.2509999999999764,
+      "dialogue_text": "Braves petits !"
+    },
+    {
+      "subtitle_index": 124,
+      "start_time": 803.649,
+      "end_time": 805.692,
+      "duration": 2.0430000000000064,
+      "dialogue_text": "On se reverra !"
+    },
+    {
+      "subtitle_index": 125,
+      "start_time": 815.202,
+      "end_time": 817.371,
+      "duration": 2.1689999999999827,
+      "dialogue_text": "Porco, racontez !"
+    },
+    {
+      "subtitle_index": 126,
+      "start_time": 817.538,
+      "end_time": 820.041,
+      "duration": 2.5030000000000427,
+      "dialogue_text": "Quand on sera seuls tous les 2..."
+    },
+    {
+      "subtitle_index": 127,
+      "start_time": 828.717,
+      "end_time": 831.261,
+      "duration": 2.5439999999999827,
+      "dialogue_text": "Cet Américain est bizarre."
+    },
+    {
+      "subtitle_index": 128,
+      "start_time": 832.095,
+      "end_time": 834.598,
+      "duration": 2.502999999999929,
+      "dialogue_text": "Il m'a demandé ma main !"
+    },
+    {
+      "subtitle_index": 129,
+      "start_time": 835.39,
+      "end_time": 839.603,
+      "duration": 4.212999999999965,
+      "dialogue_text": "Je lui ai dit que j'avais eu 3 maris pilotes."
+    },
+    {
+      "subtitle_index": 130,
+      "start_time": 839.853,
+      "end_time": 844.817,
+      "duration": 4.9640000000000555,
+      "dialogue_text": "Que le 3ème venait de mourir lui aussi, en Asie..."
+    },
+    {
+      "subtitle_index": 131,
+      "start_time": 849.238,
+      "end_time": 850.364,
+      "duration": 1.1259999999999764,
+      "dialogue_text": "T'as eu des nouvelles ?"
+    },
+    {
+      "subtitle_index": 132,
+      "start_time": 851.741,
+      "end_time": 856.496,
+      "duration": 4.7549999999999955,
+      "dialogue_text": "On a retrouvé ses restes au fin fond du Bengale."
+    },
+    {
+      "subtitle_index": 133,
+      "start_time": 864.087,
+      "end_time": 867.466,
+      "duration": 3.379000000000019,
+      "dialogue_text": "3 ans d'attente... mes larmes se sont taries."
+    },
+    {
+      "subtitle_index": 134,
+      "start_time": 869.092,
+      "end_time": 871.678,
+      "duration": 2.5860000000000127,
+      "dialogue_text": "Ce sont les meilleurs qui partent."
+    },
+    {
+      "subtitle_index": 135,
+      "start_time": 872.012,
+      "end_time": 872.93,
+      "duration": 0.9180000000000064,
+      "dialogue_text": "Aux copains !"
+    },
+    {
+      "subtitle_index": 136,
+      "start_time": 874.515,
+      "end_time": 877.351,
+      "duration": 2.8360000000000127,
+      "dialogue_text": "Merci, Marco, d'être toujours près de moi."
+    },
+    {
+      "subtitle_index": 137,
+      "start_time": 884.525,
+      "end_time": 887.403,
+      "duration": 2.8780000000000427,
+      "dialogue_text": "Des vieux amis, il n'y a plus que toi."
+    },
+    {
+      "subtitle_index": 138,
+      "start_time": 889.489,
+      "end_time": 893.91,
+      "duration": 4.420999999999935,
+      "dialogue_text": "La seule chose qui me déplait ici, c'est cette photo sur le mur..."
+    },
+    {
+      "subtitle_index": 139,
+      "start_time": 894.911,
+      "end_time": 896.329,
+      "duration": 1.4180000000000064,
+      "dialogue_text": "N'y touche pas !"
+    },
+    {
+      "subtitle_index": 140,
+      "start_time": 896.454,
+      "end_time": 901.126,
+      "duration": 4.6720000000000255,
+      "dialogue_text": "C'est la seule du temps où tu étais humain."
+    },
+    {
+      "subtitle_index": 141,
+      "start_time": 903.795,
+      "end_time": 907.758,
+      "duration": 3.963000000000079,
+      "dialogue_text": "Comment te délivrer du sort qu'on t'a jeté ?"
+    },
+    {
+      "subtitle_index": 142,
+      "start_time": 927.904,
+      "end_time": 931.491,
+      "duration": 3.586999999999989,
+      "dialogue_text": "Il est doué, cet Amerloque !"
+    },
+    {
+      "subtitle_index": 143,
+      "start_time": 959.854,
+      "end_time": 964.317,
+      "duration": 4.462999999999965,
+      "dialogue_text": "J'aimerais gagner autant que vous !"
+    },
+    {
+      "subtitle_index": 144,
+      "start_time": 964.943,
+      "end_time": 966.152,
+      "duration": 1.20900000000006,
+      "dialogue_text": "Ma mensualité."
+    },
+    {
+      "subtitle_index": 145,
+      "start_time": 966.528,
+      "end_time": 968.822,
+      "duration": 2.2939999999999827,
+      "dialogue_text": "Votre hydravion est remboursé."
+    },
+    {
+      "subtitle_index": 146,
+      "start_time": 968.947,
+      "end_time": 973.994,
+      "duration": 5.0470000000000255,
+      "dialogue_text": "Voulez-vous de l'Emprunt Patriotique pour le bien-être de la nation ?"
+    },
+    {
+      "subtitle_index": 147,
+      "start_time": 974.411,
+      "end_time": 977.414,
+      "duration": 3.0030000000000427,
+      "dialogue_text": "Je laisse ça aux humains."
+    },
+    {
+      "subtitle_index": 148,
+      "start_time": 993.89,
+      "end_time": 996.518,
+      "duration": 2.6280000000000427,
+      "dialogue_text": "Bonjour Monsieur, c'est prêt !"
+    },
+    {
+      "subtitle_index": 149,
+      "start_time": 996.643,
+      "end_time": 998.103,
+      "duration": 1.4599999999999227,
+      "dialogue_text": "Et 60 balles en plus."
+    },
+    {
+      "subtitle_index": 150,
+      "start_time": 998.228,
+      "end_time": 999.688,
+      "duration": 1.4600000000000364,
+      "dialogue_text": "Entendu !"
+    },
+    {
+      "subtitle_index": 151,
+      "start_time": 1001.148,
+      "end_time": 1002.858,
+      "duration": 1.7099999999999227,
+      "dialogue_text": "Là-haut, ça bouge pas mal !"
+    },
+    {
+      "subtitle_index": 152,
+      "start_time": 1003.275,
+      "end_time": 1007.654,
+      "duration": 4.379000000000019,
+      "dialogue_text": "Vraiment ? Encore des changements politiques !"
+    },
+    {
+      "subtitle_index": 153,
+      "start_time": 1007.78,
+      "end_time": 1010.741,
+      "duration": 2.9610000000000127,
+      "dialogue_text": "Vous serez bientôt hors-la-loi !"
+    },
+    {
+      "subtitle_index": 154,
+      "start_time": 1011.075,
+      "end_time": 1012.993,
+      "duration": 1.9180000000000064,
+      "dialogue_text": "Un cochon n'a ni loi ni patrie."
+    },
+    {
+      "subtitle_index": 155,
+      "start_time": 1014.62,
+      "end_time": 1017.999,
+      "duration": 3.379000000000019,
+      "dialogue_text": "Bien vrai ! Pareil pour nous, les taupes !"
+    },
+    {
+      "subtitle_index": 156,
+      "start_time": 1019.876,
+      "end_time": 1024.255,
+      "duration": 4.379000000000133,
+      "dialogue_text": "Ce sera tout ? On a aussi des balles incendiaires extra..."
+    },
+    {
+      "subtitle_index": 157,
+      "start_time": 1024.422,
+      "end_time": 1028.885,
+      "duration": 4.462999999999965,
+      "dialogue_text": "P'tit gars, moi, je fais pas la guerre ! Salut !"
+    },
+    {
+      "subtitle_index": 158,
+      "start_time": 1029.302,
+      "end_time": 1030.762,
+      "duration": 1.4600000000000364,
+      "dialogue_text": "Au revoir."
+    },
+    {
+      "subtitle_index": 159,
+      "start_time": 1032.848,
+      "end_time": 1036.518,
+      "duration": 3.6700000000000728,
+      "dialogue_text": "Patron, les chasseurs de prime, ça fait pas la guerre ?"
+    },
+    {
+      "subtitle_index": 160,
+      "start_time": 1036.643,
+      "end_time": 1039.73,
+      "duration": 3.086999999999989,
+      "dialogue_text": "Ceux qui vivent de la guerre sont des salauds."
+    },
+    {
+      "subtitle_index": 161,
+      "start_time": 1039.855,
+      "end_time": 1043.15,
+      "duration": 3.2950000000000728,
+      "dialogue_text": "Les chasseurs de prime sont comme nous."
+    },
+    {
+      "subtitle_index": 162,
+      "start_time": 1044.86,
+      "end_time": 1047.988,
+      "duration": 3.1280000000001564,
+      "dialogue_text": "Des pirates endettés, ça la fout mal !"
+    },
+    {
+      "subtitle_index": 163,
+      "start_time": 1048.155,
+      "end_time": 1049.448,
+      "duration": 1.29300000000012,
+      "dialogue_text": "On n'y peut rien !"
+    },
+    {
+      "subtitle_index": 164,
+      "start_time": 1049.657,
+      "end_time": 1052.243,
+      "duration": 2.5860000000000127,
+      "dialogue_text": "Les réparations coûtent les yeux de la tête !"
+    },
+    {
+      "subtitle_index": 165,
+      "start_time": 1052.451,
+      "end_time": 1054.495,
+      "duration": 2.043999999999869,
+      "dialogue_text": "Voilà la flotte de la Coalition !"
+    },
+    {
+      "subtitle_index": 166,
+      "start_time": 1061.169,
+      "end_time": 1065.423,
+      "duration": 4.253999999999905,
+      "dialogue_text": "Ca me fait mal de m'accointer avec ces ratés !"
+    },
+    {
+      "subtitle_index": 167,
+      "start_time": 1065.507,
+      "end_time": 1067.467,
+      "duration": 1.9600000000000364,
+      "dialogue_text": "La faute au cochon, ce salaud !"
+    },
+    {
+      "subtitle_index": 168,
+      "start_time": 1067.968,
+      "end_time": 1071.179,
+      "duration": 3.2110000000000127,
+      "dialogue_text": "Alors les Ayuto, plus de fric pour la peinture ?"
+    },
+    {
+      "subtitle_index": 169,
+      "start_time": 1071.805,
+      "end_time": 1073.932,
+      "duration": 2.1269999999999527,
+      "dialogue_text": "Vous avez pas honte !?"
+    },
+    {
+      "subtitle_index": 170,
+      "start_time": 1074.141,
+      "end_time": 1076.769,
+      "duration": 2.627999999999929,
+      "dialogue_text": "Je crois qu'on est tous là."
+    },
+    {
+      "subtitle_index": 171,
+      "start_time": 1076.935,
+      "end_time": 1079.73,
+      "duration": 2.7950000000000728,
+      "dialogue_text": "L'Amerloque est arrivé ?"
+    },
+    {
+      "subtitle_index": 172,
+      "start_time": 1080.397,
+      "end_time": 1082.066,
+      "duration": 1.6690000000000964,
+      "dialogue_text": "Il est dans le soleil."
+    },
+    {
+      "subtitle_index": 173,
+      "start_time": 1082.233,
+      "end_time": 1084.235,
+      "duration": 2.0019999999999527,
+      "dialogue_text": "Tout marche comme prévu."
+    },
+    {
+      "subtitle_index": 174,
+      "start_time": 1092.619,
+      "end_time": 1096.289,
+      "duration": 3.6700000000000728,
+      "dialogue_text": "Objectif \"Reine de la Méditerranée\" en vue !"
+    },
+    {
+      "subtitle_index": 175,
+      "start_time": 1096.581,
+      "end_time": 1098.917,
+      "duration": 2.3360000000000127,
+      "dialogue_text": "On va se farcir un monstre pareil !?"
+    },
+    {
+      "subtitle_index": 176,
+      "start_time": 1099.125,
+      "end_time": 1102.003,
+      "duration": 2.877999999999929,
+      "dialogue_text": "C'est pour ça qu'on s'est coalisés !"
+    },
+    {
+      "subtitle_index": 177,
+      "start_time": 1102.546,
+      "end_time": 1106.425,
+      "duration": 3.8789999999999054,
+      "dialogue_text": "Mon moteur cafouille ! Passez devant, je vous couvre !"
+    },
+    {
+      "subtitle_index": 178,
+      "start_time": 1106.55,
+      "end_time": 1109.511,
+      "duration": 2.9610000000000127,
+      "dialogue_text": "Dégonflé ! On ne change pas les plans !"
+    },
+    {
+      "subtitle_index": 179,
+      "start_time": 1110.179,
+      "end_time": 1113.015,
+      "duration": 2.8360000000000127,
+      "dialogue_text": "En cas de dommages, on partage, hein ?"
+    },
+    {
+      "subtitle_index": 180,
+      "start_time": 1113.39,
+      "end_time": 1117.52,
+      "duration": 4.129999999999882,
+      "dialogue_text": "Mauviette ! On a décidé que c'est chacun pour soi !"
+    },
+    {
+      "subtitle_index": 181,
+      "start_time": 1117.853,
+      "end_time": 1119.897,
+      "duration": 2.043999999999869,
+      "dialogue_text": "- Les bombes aussi ? - Bien sûr !"
+    },
+    {
+      "subtitle_index": 182,
+      "start_time": 1120.022,
+      "end_time": 1122.4,
+      "duration": 2.3780000000001564,
+      "dialogue_text": "Moteur grippé ! Moteur grippé !"
+    },
+    {
+      "subtitle_index": 183,
+      "start_time": 1122.483,
+      "end_time": 1125.528,
+      "duration": 3.0450000000000728,
+      "dialogue_text": "- On connaît la rengaine ! - Radin, va !"
+    },
+    {
+      "subtitle_index": 184,
+      "start_time": 1126.237,
+      "end_time": 1129.032,
+      "duration": 2.7949999999998454,
+      "dialogue_text": "Quel boucan ! Vos gueules !"
+    },
+    {
+      "subtitle_index": 185,
+      "start_time": 1133.411,
+      "end_time": 1136.707,
+      "duration": 3.296000000000049,
+      "dialogue_text": "- Attention, attention..."
+    },
+    {
+      "subtitle_index": 186,
+      "start_time": 1136.832,
+      "end_time": 1141.128,
+      "duration": 4.295999999999822,
+      "dialogue_text": "- Des pirates du ciel nous attaquent. - Mais n'ayez crainte."
+    },
+    {
+      "subtitle_index": 187,
+      "start_time": 1141.295,
+      "end_time": 1143.839,
+      "duration": 2.543999999999869,
+      "dialogue_text": "- Nous avons 2 chasseurs à bord."
+    },
+    {
+      "subtitle_index": 188,
+      "start_time": 1145.09,
+      "end_time": 1149.136,
+      "duration": 4.046000000000049,
+      "dialogue_text": "- Nous vous présentons - leurs valeureux pilotes."
+    },
+    {
+      "subtitle_index": 189,
+      "start_time": 1150.972,
+      "end_time": 1151.847,
+      "duration": 0.875,
+      "dialogue_text": "- Numéro 1."
+    },
+    {
+      "subtitle_index": 190,
+      "start_time": 1152.056,
+      "end_time": 1155.435,
+      "duration": 3.3789999999999054,
+      "dialogue_text": "- Etalon noir, Signore Barakka."
+    },
+    {
+      "subtitle_index": 191,
+      "start_time": 1156.144,
+      "end_time": 1160.231,
+      "duration": 4.086999999999989,
+      "dialogue_text": "- N2, Loup du Tibéré - Général Visconti."
+    },
+    {
+      "subtitle_index": 192,
+      "start_time": 1171.576,
+      "end_time": 1172.786,
+      "duration": 1.2100000000000364,
+      "dialogue_text": "Des agents de sécurité !"
+    },
+    {
+      "subtitle_index": 193,
+      "start_time": 1172.953,
+      "end_time": 1175.372,
+      "duration": 2.4190000000000964,
+      "dialogue_text": "Ca change tout !"
+    },
+    {
+      "subtitle_index": 194,
+      "start_time": 1182.254,
+      "end_time": 1184.674,
+      "duration": 2.4200000000000728,
+      "dialogue_text": "Allons bon ! Quelle débandade !"
+    },
+    {
+      "subtitle_index": 195,
+      "start_time": 1184.84,
+      "end_time": 1187.593,
+      "duration": 2.7530000000001564,
+      "dialogue_text": "Curtis, au secours !"
+    },
+    {
+      "subtitle_index": 196,
+      "start_time": 1188.428,
+      "end_time": 1190.388,
+      "duration": 1.959999999999809,
+      "dialogue_text": "Bon, j'y vais !"
+    },
+    {
+      "subtitle_index": 197,
+      "start_time": 1207.614,
+      "end_time": 1209.783,
+      "duration": 2.168999999999869,
+      "dialogue_text": "Ca va vraiment mal !"
+    },
+    {
+      "subtitle_index": 198,
+      "start_time": 1211.91,
+      "end_time": 1214.747,
+      "duration": 2.836999999999989,
+      "dialogue_text": "Va falloir l'emmener à Milan !"
+    },
+    {
+      "subtitle_index": 199,
+      "start_time": 1220.211,
+      "end_time": 1224.382,
+      "duration": 4.171000000000049,
+      "dialogue_text": "- ...abattus mais les pilotes - sont sains et saufs."
+    },
+    {
+      "subtitle_index": 200,
+      "start_time": 1224.841,
+      "end_time": 1228.052,
+      "duration": 3.2110000000000127,
+      "dialogue_text": "- La Coalition des pirates - a pillé le navire"
+    },
+    {
+      "subtitle_index": 201,
+      "start_time": 1228.178,
+      "end_time": 1229.971,
+      "duration": 1.7929999999998927,
+      "dialogue_text": "- et laisse ce message."
+    },
+    {
+      "subtitle_index": 202,
+      "start_time": 1230.764,
+      "end_time": 1232.349,
+      "duration": 1.5850000000000364,
+      "dialogue_text": "A ton tour !"
+    },
+    {
+      "subtitle_index": 203,
+      "start_time": 1232.849,
+      "end_time": 1234.81,
+      "duration": 1.9610000000000127,
+      "dialogue_text": "Cochon, on t'attend !"
+    },
+    {
+      "subtitle_index": 204,
+      "start_time": 1235.977,
+      "end_time": 1236.812,
+      "duration": 0.834999999999809,
+      "dialogue_text": "- Je répète."
+    },
+    {
+      "subtitle_index": 205,
+      "start_time": 1237.396,
+      "end_time": 1241.15,
+      "duration": 3.754000000000133,
+      "dialogue_text": "- A ton tour. Cochon, on t'attend !"
+    },
+    {
+      "subtitle_index": 206,
+      "start_time": 1242.109,
+      "end_time": 1244.862,
+      "duration": 2.7530000000001564,
+      "dialogue_text": "Ils en veulent, ces ordures !"
+    },
+    {
+      "subtitle_index": 207,
+      "start_time": 1250.034,
+      "end_time": 1252.453,
+      "duration": 2.418999999999869,
+      "dialogue_text": "Désolé mais je me repose !"
+    },
+    {
+      "subtitle_index": 208,
+      "start_time": 1254.372,
+      "end_time": 1256.833,
+      "duration": 2.4610000000000127,
+      "dialogue_text": "A moi, les draps blancs..."
+    },
+    {
+      "subtitle_index": 209,
+      "start_time": 1256.958,
+      "end_time": 1259.836,
+      "duration": 2.877999999999929,
+      "dialogue_text": "les créatures de rêve..."
+    },
+    {
+      "subtitle_index": 210,
+      "start_time": 1265.675,
+      "end_time": 1269.012,
+      "duration": 3.336999999999989,
+      "dialogue_text": "Tiens bon jusqu'à Milan, petit moteur chéri !"
+    },
+    {
+      "subtitle_index": 211,
+      "start_time": 1292.829,
+      "end_time": 1295.582,
+      "duration": 2.7530000000001564,
+      "dialogue_text": "Le temps se détériore..."
+    },
+    {
+      "subtitle_index": 212,
+      "start_time": 1295.749,
+      "end_time": 1298.126,
+      "duration": 2.3769999999999527,
+      "dialogue_text": "faut voler sous les nuages !"
+    },
+    {
+      "subtitle_index": 213,
+      "start_time": 1352.975,
+      "end_time": 1355.686,
+      "duration": 2.7110000000000127,
+      "dialogue_text": "Tu es bien brave, olé, olé !"
+    },
+    {
+      "subtitle_index": 214,
+      "start_time": 1359.44,
+      "end_time": 1361.943,
+      "duration": 2.502999999999929,
+      "dialogue_text": "C'est ça, tiens bon mon chéri !"
+    },
+    {
+      "subtitle_index": 215,
+      "start_time": 1373.705,
+      "end_time": 1374.748,
+      "duration": 1.04300000000012,
+      "dialogue_text": "Cochon !"
+    },
+    {
+      "subtitle_index": 216,
+      "start_time": 1383.632,
+      "end_time": 1385.718,
+      "duration": 2.0860000000000127,
+      "dialogue_text": "Un contre un ! Duel à mort !"
+    },
+    {
+      "subtitle_index": 217,
+      "start_time": 1385.885,
+      "end_time": 1388.137,
+      "duration": 2.2519999999999527,
+      "dialogue_text": "C'est pas le moment !"
+    },
+    {
+      "subtitle_index": 218,
+      "start_time": 1396.521,
+      "end_time": 1399.274,
+      "duration": 2.752999999999929,
+      "dialogue_text": "T'enfuis pas ! Je le dirai partout !"
+    },
+    {
+      "subtitle_index": 219,
+      "start_time": 1399.733,
+      "end_time": 1402.944,
+      "duration": 3.2110000000000127,
+      "dialogue_text": "On se reverra, Amerloque !"
+    },
+    {
+      "subtitle_index": 220,
+      "start_time": 1404.78,
+      "end_time": 1407.115,
+      "duration": 2.3350000000000364,
+      "dialogue_text": "Bon sang ! II va me voir !"
+    },
+    {
+      "subtitle_index": 221,
+      "start_time": 1409.409,
+      "end_time": 1410.828,
+      "duration": 1.418999999999869,
+      "dialogue_text": "Merde !"
+    },
+    {
+      "subtitle_index": 222,
+      "start_time": 1411.537,
+      "end_time": 1412.413,
+      "duration": 0.8759999999999764,
+      "dialogue_text": "Touché !"
+    },
+    {
+      "subtitle_index": 223,
+      "start_time": 1412.746,
+      "end_time": 1415.416,
+      "duration": 2.6699999999998454,
+      "dialogue_text": "Mais non, idiot ! C'est une panne !"
+    },
+    {
+      "subtitle_index": 224,
+      "start_time": 1426.97,
+      "end_time": 1430.306,
+      "duration": 3.3360000000000127,
+      "dialogue_text": "Je l'ai eu ! A moi, la célébrité !"
+    },
+    {
+      "subtitle_index": 225,
+      "start_time": 1448.242,
+      "end_time": 1451.329,
+      "duration": 3.086999999999989,
+      "dialogue_text": "On ne me croira pas si je n'ai pas de preuve."
+    },
+    {
+      "subtitle_index": 226,
+      "start_time": 1451.454,
+      "end_time": 1453.873,
+      "duration": 2.4190000000000964,
+      "dialogue_text": "Qu'est-ce qui pourrait bien... ?"
+    },
+    {
+      "subtitle_index": 227,
+      "start_time": 1460.129,
+      "end_time": 1461.172,
+      "duration": 1.04300000000012,
+      "dialogue_text": "J'ai trouvé !"
+    },
+    {
+      "subtitle_index": 228,
+      "start_time": 1478.691,
+      "end_time": 1481.861,
+      "duration": 3.1700000000000728,
+      "dialogue_text": "Ce rouge tape-à-l'oeil ! Pas d'erreur possible !"
+    },
+    {
+      "subtitle_index": 229,
+      "start_time": 1483.07,
+      "end_time": 1486.198,
+      "duration": 3.1280000000001564,
+      "dialogue_text": "En Alabama, ma mère va être contente !"
+    },
+    {
+      "subtitle_index": 230,
+      "start_time": 1530.12,
+      "end_time": 1531.788,
+      "duration": 1.66800000000012,
+      "dialogue_text": "Faites vite !"
+    },
+    {
+      "subtitle_index": 231,
+      "start_time": 1536.71,
+      "end_time": 1538.211,
+      "duration": 1.5009999999999764,
+      "dialogue_text": "Madame !"
+    },
+    {
+      "subtitle_index": 232,
+      "start_time": 1540.839,
+      "end_time": 1543.842,
+      "duration": 3.0030000000001564,
+      "dialogue_text": "Téléphone ! II est vivant, sain et sauf !"
+    },
+    {
+      "subtitle_index": 233,
+      "start_time": 1545.761,
+      "end_time": 1547.93,
+      "duration": 2.1690000000000964,
+      "dialogue_text": "Prenez l'appareil à la réception."
+    },
+    {
+      "subtitle_index": 234,
+      "start_time": 1555.855,
+      "end_time": 1559.901,
+      "duration": 4.046000000000049,
+      "dialogue_text": "Marco, c'est bien toi ? Blessé ? J'allais à ta recherche..."
+    },
+    {
+      "subtitle_index": 235,
+      "start_time": 1561.486,
+      "end_time": 1563.655,
+      "duration": 2.168999999999869,
+      "dialogue_text": "Bon... tant mieux !"
+    },
+    {
+      "subtitle_index": 236,
+      "start_time": 1563.78,
+      "end_time": 1567.909,
+      "duration": 4.129000000000133,
+      "dialogue_text": "- 2 jours sur une île déserte - pour maigrir, c'est au poil !"
+    },
+    {
+      "subtitle_index": 237,
+      "start_time": 1568.201,
+      "end_time": 1571.538,
+      "duration": 3.336999999999989,
+      "dialogue_text": "Je pars pour Milan faire réparer l'engin."
+    },
+    {
+      "subtitle_index": 238,
+      "start_time": 1571.663,
+      "end_time": 1573.332,
+      "duration": 1.6690000000000964,
+      "dialogue_text": "Si tu vois l'Amerloque,"
+    },
+    {
+      "subtitle_index": 239,
+      "start_time": 1573.498,
+      "end_time": 1577.419,
+      "duration": 3.921000000000049,
+      "dialogue_text": "- dis-lui qu'on se reverra sans faute."
+    },
+    {
+      "subtitle_index": 240,
+      "start_time": 1577.753,
+      "end_time": 1580.923,
+      "duration": 3.1700000000000728,
+      "dialogue_text": "- Quoi ! Tu me prends - pour une boîte aux lettres !"
+    },
+    {
+      "subtitle_index": 241,
+      "start_time": 1581.298,
+      "end_time": 1584.009,
+      "duration": 2.7110000000000127,
+      "dialogue_text": "Pour vous, même mortes d'inquiétude."
+    },
+    {
+      "subtitle_index": 242,
+      "start_time": 1584.135,
+      "end_time": 1587.43,
+      "duration": 3.2950000000000728,
+      "dialogue_text": "les femmes ne sont bonnes qu'à vous attendre."
+    },
+    {
+      "subtitle_index": 243,
+      "start_time": 1589.223,
+      "end_time": 1592.644,
+      "duration": 3.421000000000049,
+      "dialogue_text": "Marco, tu vas finir en rôti de porc..."
+    },
+    {
+      "subtitle_index": 244,
+      "start_time": 1592.894,
+      "end_time": 1594.938,
+      "duration": 2.0440000000000964,
+      "dialogue_text": "épargne-moi ça !"
+    },
+    {
+      "subtitle_index": 245,
+      "start_time": 1597.023,
+      "end_time": 1599.067,
+      "duration": 2.0440000000000964,
+      "dialogue_text": "Je suis un cochon, mais je vois."
+    },
+    {
+      "subtitle_index": 246,
+      "start_time": 1599.15,
+      "end_time": 1600.527,
+      "duration": 1.3769999999999527,
+      "dialogue_text": "- Idiot !"
+    },
+    {
+      "subtitle_index": 247,
+      "start_time": 1614.166,
+      "end_time": 1616.669,
+      "duration": 2.5030000000001564,
+      "dialogue_text": "- Les ailes rouges se sont brisées"
+    },
+    {
+      "subtitle_index": 248,
+      "start_time": 1654.542,
+      "end_time": 1657.545,
+      "duration": 3.0030000000001564,
+      "dialogue_text": "J'étais sûr que t'arriverais ce soir !"
+    },
+    {
+      "subtitle_index": 249,
+      "start_time": 1657.67,
+      "end_time": 1659.38,
+      "duration": 1.7100000000000364,
+      "dialogue_text": "Je compte sur toi."
+    },
+    {
+      "subtitle_index": 250,
+      "start_time": 1659.505,
+      "end_time": 1661.424,
+      "duration": 1.918999999999869,
+      "dialogue_text": "Quels dégts, dis donc !"
+    },
+    {
+      "subtitle_index": 251,
+      "start_time": 1662.133,
+      "end_time": 1664.719,
+      "duration": 2.5860000000000127,
+      "dialogue_text": "Ca serait pas mieux d'en faire un neuf ?"
+    },
+    {
+      "subtitle_index": 252,
+      "start_time": 1664.844,
+      "end_time": 1666.304,
+      "duration": 1.4600000000000364,
+      "dialogue_text": "Je tiens à celui-ci."
+    },
+    {
+      "subtitle_index": 253,
+      "start_time": 1666.763,
+      "end_time": 1668.849,
+      "duration": 2.0860000000000127,
+      "dialogue_text": "Oui, bien sûr..."
+    },
+    {
+      "subtitle_index": 254,
+      "start_time": 1669.766,
+      "end_time": 1672.352,
+      "duration": 2.5860000000000127,
+      "dialogue_text": "Reculez ! Je fais une marche arrière !"
+    },
+    {
+      "subtitle_index": 255,
+      "start_time": 1675.564,
+      "end_time": 1678.15,
+      "duration": 2.5860000000000127,
+      "dialogue_text": "Qui c'est, cette jolie môme ?"
+    },
+    {
+      "subtitle_index": 256,
+      "start_time": 1678.275,
+      "end_time": 1680.986,
+      "duration": 2.7110000000000127,
+      "dialogue_text": "Ma petite-fille qui rentre d'Amérique."
+    },
+    {
+      "subtitle_index": 257,
+      "start_time": 1683.03,
+      "end_time": 1685.825,
+      "duration": 2.7950000000000728,
+      "dialogue_text": "OK, c'est bon."
+    },
+    {
+      "subtitle_index": 258,
+      "start_time": 1704.97,
+      "end_time": 1708.557,
+      "duration": 3.586999999999989,
+      "dialogue_text": "Il est super cet hydravion, hein grand-père !?"
+    },
+    {
+      "subtitle_index": 259,
+      "start_time": 1708.64,
+      "end_time": 1709.6,
+      "duration": 0.959999999999809,
+      "dialogue_text": "Quelle ligne !"
+    },
+    {
+      "subtitle_index": 260,
+      "start_time": 1710.058,
+      "end_time": 1713.687,
+      "duration": 3.6289999999999054,
+      "dialogue_text": "On ne sait plus faire ce boulot de nos jours."
+    },
+    {
+      "subtitle_index": 261,
+      "start_time": 1713.812,
+      "end_time": 1715.481,
+      "duration": 1.6690000000000964,
+      "dialogue_text": "Aucune ressemblance..."
+    },
+    {
+      "subtitle_index": 262,
+      "start_time": 1716.148,
+      "end_time": 1718.484,
+      "duration": 2.3360000000000127,
+      "dialogue_text": "C'est vraiment ta petite-fille ?"
+    },
+    {
+      "subtitle_index": 263,
+      "start_time": 1718.609,
+      "end_time": 1720.236,
+      "duration": 1.62700000000018,
+      "dialogue_text": "Pas touche !"
+    },
+    {
+      "subtitle_index": 264,
+      "start_time": 1723.906,
+      "end_time": 1725.867,
+      "duration": 1.9610000000000127,
+      "dialogue_text": "Fio, fais le nécessaire."
+    },
+    {
+      "subtitle_index": 265,
+      "start_time": 1725.992,
+      "end_time": 1727.201,
+      "duration": 1.20900000000006,
+      "dialogue_text": "Compte sur moi !"
+    },
+    {
+      "subtitle_index": 266,
+      "start_time": 1728.161,
+      "end_time": 1731.331,
+      "duration": 3.1699999999998454,
+      "dialogue_text": "Contre Curtis, il me faut 15 noeuds de plus."
+    },
+    {
+      "subtitle_index": 267,
+      "start_time": 1731.664,
+      "end_time": 1733.124,
+      "duration": 1.4600000000000364,
+      "dialogue_text": "Curtis ?"
+    },
+    {
+      "subtitle_index": 268,
+      "start_time": 1733.291,
+      "end_time": 1734.96,
+      "duration": 1.6690000000000964,
+      "dialogue_text": "Quel souvenir !"
+    },
+    {
+      "subtitle_index": 269,
+      "start_time": 1739.923,
+      "end_time": 1740.841,
+      "duration": 0.9179999999998927,
+      "dialogue_text": "Qu'en dis-tu ?"
+    },
+    {
+      "subtitle_index": 270,
+      "start_time": 1741.008,
+      "end_time": 1742.926,
+      "duration": 1.9179999999998927,
+      "dialogue_text": "C'est un Fulgore, non ?"
+    },
+    {
+      "subtitle_index": 271,
+      "start_time": 1743.051,
+      "end_time": 1744.178,
+      "duration": 1.12700000000018,
+      "dialogue_text": "N'en demande pas plus."
+    },
+    {
+      "subtitle_index": 272,
+      "start_time": 1744.762,
+      "end_time": 1747.306,
+      "duration": 2.5440000000000964,
+      "dialogue_text": "Dans le Trophée Schneider de 1927,"
+    },
+    {
+      "subtitle_index": 273,
+      "start_time": 1747.473,
+      "end_time": 1750.684,
+      "duration": 3.2110000000000127,
+      "dialogue_text": "son pilote italien a été battu par Curtis."
+    },
+    {
+      "subtitle_index": 274,
+      "start_time": 1751.143,
+      "end_time": 1754.689,
+      "duration": 3.546000000000049,
+      "dialogue_text": "Pas par sa faute mais son mécano était nul."
+    },
+    {
+      "subtitle_index": 275,
+      "start_time": 1756.065,
+      "end_time": 1757.859,
+      "duration": 1.793999999999869,
+      "dialogue_text": "J'ai le sang qui bout !"
+    },
+    {
+      "subtitle_index": 276,
+      "start_time": 1758.067,
+      "end_time": 1760.528,
+      "duration": 2.4610000000000127,
+      "dialogue_text": "Pas de réglages trop pointus !"
+    },
+    {
+      "subtitle_index": 277,
+      "start_time": 1760.653,
+      "end_time": 1762.572,
+      "duration": 1.918999999999869,
+      "dialogue_text": "Ce n'est pas un rallye."
+    },
+    {
+      "subtitle_index": 278,
+      "start_time": 1762.697,
+      "end_time": 1767.369,
+      "duration": 4.6720000000000255,
+      "dialogue_text": "On n'apprend pas à un vieux singe à faire la grimace !"
+    },
+    {
+      "subtitle_index": 279,
+      "start_time": 1770.997,
+      "end_time": 1773.542,
+      "duration": 2.5449999999998454,
+      "dialogue_text": "Tu vas me prendre tout mon fric ?"
+    },
+    {
+      "subtitle_index": 280,
+      "start_time": 1773.75,
+      "end_time": 1778.547,
+      "duration": 4.7970000000000255,
+      "dialogue_text": "De nos jours, les billets, ça vaut pas plus que le papier !"
+    },
+    {
+      "subtitle_index": 281,
+      "start_time": 1778.672,
+      "end_time": 1782.218,
+      "duration": 3.546000000000049,
+      "dialogue_text": "Vide tes poches. Y a l'hélice, la peinture..."
+    },
+    {
+      "subtitle_index": 282,
+      "start_time": 1782.384,
+      "end_time": 1786.013,
+      "duration": 3.6289999999999054,
+      "dialogue_text": "C'est pour l'hôtel, la bouffe..."
+    },
+    {
+      "subtitle_index": 283,
+      "start_time": 1786.138,
+      "end_time": 1789.892,
+      "duration": 3.754000000000133,
+      "dialogue_text": "T'as qu'à crécher ici. Je te ferai un prix."
+    },
+    {
+      "subtitle_index": 284,
+      "start_time": 1791.894,
+      "end_time": 1794.898,
+      "duration": 3.0039999999999054,
+      "dialogue_text": "Je ne vois pas tes 3 fils. Ils vont bien ?"
+    },
+    {
+      "subtitle_index": 285,
+      "start_time": 1795.023,
+      "end_time": 1796.816,
+      "duration": 1.79300000000012,
+      "dialogue_text": "Ils se louent ailleurs."
+    },
+    {
+      "subtitle_index": 286,
+      "start_time": 1796.941,
+      "end_time": 1799.11,
+      "duration": 2.168999999999869,
+      "dialogue_text": "Qui donc va faire les plans ?"
+    },
+    {
+      "subtitle_index": 287,
+      "start_time": 1799.277,
+      "end_time": 1800.32,
+      "duration": 1.0429999999998927,
+      "dialogue_text": "Fio s'en chargera."
+    },
+    {
+      "subtitle_index": 288,
+      "start_time": 1802.28,
+      "end_time": 1803.323,
+      "duration": 1.04300000000012,
+      "dialogue_text": "Ta petite-fille ?"
+    },
+    {
+      "subtitle_index": 289,
+      "start_time": 1803.615,
+      "end_time": 1805.242,
+      "duration": 1.6269999999999527,
+      "dialogue_text": "Elle est jeune,"
+    },
+    {
+      "subtitle_index": 290,
+      "start_time": 1805.409,
+      "end_time": 1808.12,
+      "duration": 2.7109999999997854,
+      "dialogue_text": "mais déjà plus forte que mes fils."
+    },
+    {
+      "subtitle_index": 291,
+      "start_time": 1812.249,
+      "end_time": 1814.835,
+      "duration": 2.5860000000000127,
+      "dialogue_text": "Ecoute, on se connaît depuis longtemps,"
+    },
+    {
+      "subtitle_index": 292,
+      "start_time": 1815.169,
+      "end_time": 1818.047,
+      "duration": 2.877999999999929,
+      "dialogue_text": "mais cette fois, je vais voir ailleurs."
+    },
+    {
+      "subtitle_index": 293,
+      "start_time": 1819.298,
+      "end_time": 1820.549,
+      "duration": 1.2509999999999764,
+      "dialogue_text": "Attendez !"
+    },
+    {
+      "subtitle_index": 294,
+      "start_time": 1826.306,
+      "end_time": 1829.767,
+      "duration": 3.4610000000000127,
+      "dialogue_text": "Parce que je suis une femme ? Ou trop jeune ?"
+    },
+    {
+      "subtitle_index": 295,
+      "start_time": 1830.351,
+      "end_time": 1831.853,
+      "duration": 1.5019999999999527,
+      "dialogue_text": "Les deux, mademoiselle !"
+    },
+    {
+      "subtitle_index": 296,
+      "start_time": 1832.27,
+      "end_time": 1834.773,
+      "duration": 2.502999999999929,
+      "dialogue_text": "Bien sûr ! Je comprends !"
+    },
+    {
+      "subtitle_index": 297,
+      "start_time": 1835.815,
+      "end_time": 1838.819,
+      "duration": 3.0039999999999054,
+      "dialogue_text": "Pour être bon pilote, que faut-il d'abord ?"
+    },
+    {
+      "subtitle_index": 298,
+      "start_time": 1840.404,
+      "end_time": 1841.405,
+      "duration": 1.0009999999999764,
+      "dialogue_text": "De l'expérience ?"
+    },
+    {
+      "subtitle_index": 299,
+      "start_time": 1841.572,
+      "end_time": 1843.574,
+      "duration": 2.00200000000018,
+      "dialogue_text": "Non, de l'inspiration."
+    },
+    {
+      "subtitle_index": 300,
+      "start_time": 1844.074,
+      "end_time": 1846.702,
+      "duration": 2.627999999999929,
+      "dialogue_text": "C'est ce que j'espérais !"
+    },
+    {
+      "subtitle_index": 301,
+      "start_time": 1846.869,
+      "end_time": 1851.582,
+      "duration": 4.713000000000193,
+      "dialogue_text": "Il paraît que votre 1er vol solo, vous l'avez fait très tôt..."
+    },
+    {
+      "subtitle_index": 302,
+      "start_time": 1852.541,
+      "end_time": 1854.585,
+      "duration": 2.0440000000000964,
+      "dialogue_text": "et vous étiez déjà très fort..."
+    },
+    {
+      "subtitle_index": 303,
+      "start_time": 1855.336,
+      "end_time": 1859.132,
+      "duration": 3.796000000000049,
+      "dialogue_text": "C'était en 1910. J'avais 17 ans."
+    },
+    {
+      "subtitle_index": 304,
+      "start_time": 1859.424,
+      "end_time": 1862.594,
+      "duration": 3.1700000000000728,
+      "dialogue_text": "17 ans ! Juste mon ge !"
+    },
+    {
+      "subtitle_index": 305,
+      "start_time": 1863.052,
+      "end_time": 1865.18,
+      "duration": 2.1280000000001564,
+      "dialogue_text": "Je suis femme, c'est vrai."
+    },
+    {
+      "subtitle_index": 306,
+      "start_time": 1865.346,
+      "end_time": 1867.599,
+      "duration": 2.252999999999929,
+      "dialogue_text": "Mais quoi ? On a les anciens plans !"
+    },
+    {
+      "subtitle_index": 307,
+      "start_time": 1868.058,
+      "end_time": 1871.603,
+      "duration": 3.5450000000000728,
+      "dialogue_text": "Si ça ne va pas, on vous rembourse, hein Papi ?"
+    },
+    {
+      "subtitle_index": 308,
+      "start_time": 1872.104,
+      "end_time": 1874.731,
+      "duration": 2.6269999999999527,
+      "dialogue_text": "Bon sang ne peut mentir. Tout ira bien."
+    },
+    {
+      "subtitle_index": 309,
+      "start_time": 1874.856,
+      "end_time": 1878.11,
+      "duration": 3.2539999999999054,
+      "dialogue_text": "J'ai bien démonté mon 1er moteur à 12 ans !"
+    },
+    {
+      "subtitle_index": 310,
+      "start_time": 1878.652,
+      "end_time": 1880.821,
+      "duration": 2.168999999999869,
+      "dialogue_text": "Ce soir, dormez ici. Demain, on verra !"
+    },
+    {
+      "subtitle_index": 311,
+      "start_time": 1880.946,
+      "end_time": 1883.532,
+      "duration": 2.5860000000000127,
+      "dialogue_text": "Petit déjeuner à 7 h. Douche à volonté."
+    },
+    {
+      "subtitle_index": 312,
+      "start_time": 1883.657,
+      "end_time": 1885.159,
+      "duration": 1.50200000000018,
+      "dialogue_text": "Bonne nuit !"
+    },
+    {
+      "subtitle_index": 313,
+      "start_time": 1887.912,
+      "end_time": 1890.79,
+      "duration": 2.877999999999929,
+      "dialogue_text": "T'as pas assez, mais on se connaît !"
+    },
+    {
+      "subtitle_index": 314,
+      "start_time": 1890.915,
+      "end_time": 1892.667,
+      "duration": 1.7519999999999527,
+      "dialogue_text": "Je te fais crédit."
+    },
+    {
+      "subtitle_index": 315,
+      "start_time": 1938.006,
+      "end_time": 1939.966,
+      "duration": 1.959999999999809,
+      "dialogue_text": "Bonjour. Bien dormi ?"
+    },
+    {
+      "subtitle_index": 316,
+      "start_time": 1940.133,
+      "end_time": 1941.718,
+      "duration": 1.5850000000000364,
+      "dialogue_text": "Tu as passé la nuit dessus ?"
+    },
+    {
+      "subtitle_index": 317,
+      "start_time": 1941.843,
+      "end_time": 1943.637,
+      "duration": 1.793999999999869,
+      "dialogue_text": "Ce n'est qu'une ébauche..."
+    },
+    {
+      "subtitle_index": 318,
+      "start_time": 1943.971,
+      "end_time": 1945.723,
+      "duration": 1.7519999999999527,
+      "dialogue_text": "Je laisse le fuselage tel quel,"
+    },
+    {
+      "subtitle_index": 319,
+      "start_time": 1945.848,
+      "end_time": 1948.601,
+      "duration": 2.7530000000001564,
+      "dialogue_text": "mais je change le profil des ailes."
+    },
+    {
+      "subtitle_index": 320,
+      "start_time": 1948.684,
+      "end_time": 1951.645,
+      "duration": 2.9610000000000127,
+      "dialogue_text": "Avec ça, je dois gagner 5 noeuds."
+    },
+    {
+      "subtitle_index": 321,
+      "start_time": 1951.729,
+      "end_time": 1954.065,
+      "duration": 2.3360000000000127,
+      "dialogue_text": "Les anciens plans m'ont épatée."
+    },
+    {
+      "subtitle_index": 322,
+      "start_time": 1954.231,
+      "end_time": 1956.692,
+      "duration": 2.4610000000000127,
+      "dialogue_text": "Des ailes de bois monocoques !"
+    },
+    {
+      "subtitle_index": 323,
+      "start_time": 1956.943,
+      "end_time": 1959.028,
+      "duration": 2.0850000000000364,
+      "dialogue_text": "Les calculs sont géniaux."
+    },
+    {
+      "subtitle_index": 324,
+      "start_time": 1959.112,
+      "end_time": 1962.699,
+      "duration": 3.586999999999989,
+      "dialogue_text": "Quelle connaissance des caractéristiques du bois !"
+    },
+    {
+      "subtitle_index": 325,
+      "start_time": 1963.158,
+      "end_time": 1964.826,
+      "duration": 1.66800000000012,
+      "dialogue_text": "Ca m'a impressionnée !"
+    },
+    {
+      "subtitle_index": 326,
+      "start_time": 1964.951,
+      "end_time": 1968.163,
+      "duration": 3.211999999999989,
+      "dialogue_text": "Le type qui l'a fait n'a fait que cet engin-là."
+    },
+    {
+      "subtitle_index": 327,
+      "start_time": 1968.371,
+      "end_time": 1970.582,
+      "duration": 2.2110000000000127,
+      "dialogue_text": "Il le croyait dangereux"
+    },
+    {
+      "subtitle_index": 328,
+      "start_time": 1971.333,
+      "end_time": 1973.377,
+      "duration": 2.043999999999869,
+      "dialogue_text": "et le gardait dans son hangar."
+    },
+    {
+      "subtitle_index": 329,
+      "start_time": 1973.502,
+      "end_time": 1975.254,
+      "duration": 1.7519999999999527,
+      "dialogue_text": "J'en étais sûre !"
+    },
+    {
+      "subtitle_index": 330,
+      "start_time": 1975.379,
+      "end_time": 1979.383,
+      "duration": 4.004000000000133,
+      "dialogue_text": "Avec cet équilibrage, le décollage devait être ardu."
+    },
+    {
+      "subtitle_index": 331,
+      "start_time": 1979.425,
+      "end_time": 1982.303,
+      "duration": 2.8780000000001564,
+      "dialogue_text": "L'amerrissage aussi."
+    },
+    {
+      "subtitle_index": 332,
+      "start_time": 1982.386,
+      "end_time": 1985.473,
+      "duration": 3.086999999999989,
+      "dialogue_text": "Mais en vol, la portance est excellente."
+    },
+    {
+      "subtitle_index": 333,
+      "start_time": 1985.598,
+      "end_time": 1990.061,
+      "duration": 4.462999999999965,
+      "dialogue_text": "Augmente-moi de 5 le calage des ailes."
+    },
+    {
+      "subtitle_index": 334,
+      "start_time": 1990.144,
+      "end_time": 1991.145,
+      "duration": 1.0009999999999764,
+      "dialogue_text": "Le reste, tel quel..."
+    },
+    {
+      "subtitle_index": 335,
+      "start_time": 1992.146,
+      "end_time": 1994.399,
+      "duration": 2.252999999999929,
+      "dialogue_text": "Alors, vous me le confiez ? Merci !"
+    },
+    {
+      "subtitle_index": 336,
+      "start_time": 1994.524,
+      "end_time": 1995.942,
+      "duration": 1.41800000000012,
+      "dialogue_text": "Je vais me défoncer."
+    },
+    {
+      "subtitle_index": 337,
+      "start_time": 1997.61,
+      "end_time": 2000.405,
+      "duration": 2.7950000000000728,
+      "dialogue_text": "Cependant jeune fille... à une condition :"
+    },
+    {
+      "subtitle_index": 338,
+      "start_time": 2001.948,
+      "end_time": 2005.952,
+      "duration": 4.003999999999905,
+      "dialogue_text": "Plus de nuit blanche. Mauvais pour le boulot..."
+    },
+    {
+      "subtitle_index": 339,
+      "start_time": 2006.119,
+      "end_time": 2007.913,
+      "duration": 1.7940000000000964,
+      "dialogue_text": "et aussi pour le teint."
+    },
+    {
+      "subtitle_index": 340,
+      "start_time": 2009.206,
+      "end_time": 2010.582,
+      "duration": 1.3760000000002037,
+      "dialogue_text": "D'accord !"
+    },
+    {
+      "subtitle_index": 341,
+      "start_time": 2011.458,
+      "end_time": 2016.338,
+      "duration": 4.879999999999882,
+      "dialogue_text": "En fait, hier soir, j'étais trop excitée pour dormir."
+    },
+    {
+      "subtitle_index": 342,
+      "start_time": 2016.672,
+      "end_time": 2019.759,
+      "duration": 3.086999999999989,
+      "dialogue_text": "J'avais peur de ne pas avoir ce boulot."
+    },
+    {
+      "subtitle_index": 343,
+      "start_time": 2019.884,
+      "end_time": 2022.428,
+      "duration": 2.5440000000000964,
+      "dialogue_text": "C'est super ! je vais faire du café !"
+    },
+    {
+      "subtitle_index": 344,
+      "start_time": 2024.972,
+      "end_time": 2028.476,
+      "duration": 3.504000000000133,
+      "dialogue_text": "Elle va quand même pas travailler seule !?"
+    },
+    {
+      "subtitle_index": 345,
+      "start_time": 2036.902,
+      "end_time": 2038.361,
+      "duration": 1.45900000000006,
+      "dialogue_text": "Ma nièce, Monica."
+    },
+    {
+      "subtitle_index": 346,
+      "start_time": 2038.487,
+      "end_time": 2039.404,
+      "duration": 0.9169999999999163,
+      "dialogue_text": "Enchantée."
+    },
+    {
+      "subtitle_index": 347,
+      "start_time": 2039.529,
+      "end_time": 2042.324,
+      "duration": 2.7950000000000728,
+      "dialogue_text": "La femme de mon petit-neveu, Sylvana."
+    },
+    {
+      "subtitle_index": 348,
+      "start_time": 2042.449,
+      "end_time": 2046.37,
+      "duration": 3.9209999999998217,
+      "dialogue_text": "Les filles de mes cousins, Sofia, Laura, Constance..."
+    },
+    {
+      "subtitle_index": 349,
+      "start_time": 2046.787,
+      "end_time": 2048.372,
+      "duration": 1.584999999999809,
+      "dialogue_text": "La soeur de Fio, Giliola."
+    },
+    {
+      "subtitle_index": 350,
+      "start_time": 2048.455,
+      "end_time": 2050.666,
+      "duration": 2.21100000000024,
+      "dialogue_text": "Sandra, bienvenue ! Une cousine."
+    },
+    {
+      "subtitle_index": 351,
+      "start_time": 2050.749,
+      "end_time": 2052.543,
+      "duration": 1.7940000000003238,
+      "dialogue_text": "Marietta, t'as embelli !"
+    },
+    {
+      "subtitle_index": 352,
+      "start_time": 2052.626,
+      "end_time": 2057.59,
+      "duration": 4.963999999999942,
+      "dialogue_text": "Les femmes de mes fils, Maria, Tina, Anna et sa soeur Miletta."
+    },
+    {
+      "subtitle_index": 353,
+      "start_time": 2057.882,
+      "end_time": 2059.342,
+      "duration": 1.4600000000000364,
+      "dialogue_text": "Porcellino !"
+    },
+    {
+      "subtitle_index": 354,
+      "start_time": 2059.926,
+      "end_time": 2061.344,
+      "duration": 1.41800000000012,
+      "dialogue_text": "Les mémés !"
+    },
+    {
+      "subtitle_index": 355,
+      "start_time": 2062.011,
+      "end_time": 2064.597,
+      "duration": 2.58600000000024,
+      "dialogue_text": "Encore en vie !?"
+    },
+    {
+      "subtitle_index": 356,
+      "start_time": 2065.557,
+      "end_time": 2068.602,
+      "duration": 3.0450000000000728,
+      "dialogue_text": "Et toi, t'es devenu un Adonis !"
+    },
+    {
+      "subtitle_index": 357,
+      "start_time": 2071.48,
+      "end_time": 2073.44,
+      "duration": 1.9600000000000364,
+      "dialogue_text": "Vous aussi, au boulot ?"
+    },
+    {
+      "subtitle_index": 358,
+      "start_time": 2074.733,
+      "end_time": 2077.903,
+      "duration": 3.169999999999618,
+      "dialogue_text": "Pour gter nos arrière-petits-enfants."
+    },
+    {
+      "subtitle_index": 359,
+      "start_time": 2082.908,
+      "end_time": 2085.327,
+      "duration": 2.419000000000324,
+      "dialogue_text": "Il n'y a pas un seul homme."
+    },
+    {
+      "subtitle_index": 360,
+      "start_time": 2086.746,
+      "end_time": 2088.623,
+      "duration": 1.8769999999999527,
+      "dialogue_text": "Elles sont toutes de ta famille ?"
+    },
+    {
+      "subtitle_index": 361,
+      "start_time": 2088.706,
+      "end_time": 2089.498,
+      "duration": 0.7919999999999163,
+      "dialogue_text": "Oui."
+    },
+    {
+      "subtitle_index": 362,
+      "start_time": 2089.665,
+      "end_time": 2092.919,
+      "duration": 3.2539999999999054,
+      "dialogue_text": "Il n'y a guère de boulot ces temps-ci."
+    },
+    {
+      "subtitle_index": 363,
+      "start_time": 2093.002,
+      "end_time": 2095.296,
+      "duration": 2.293999999999869,
+      "dialogue_text": "Les hommes se louent ailleurs."
+    },
+    {
+      "subtitle_index": 364,
+      "start_time": 2095.838,
+      "end_time": 2098.341,
+      "duration": 2.5029999999997017,
+      "dialogue_text": "La crise mondiale ?"
+    },
+    {
+      "subtitle_index": 365,
+      "start_time": 2098.466,
+      "end_time": 2103.096,
+      "duration": 4.630000000000109,
+      "dialogue_text": "T'en fais pas. Les femmes travaillent bien et sont teigneuses."
+    },
+    {
+      "subtitle_index": 366,
+      "start_time": 2103.471,
+      "end_time": 2106.6,
+      "duration": 3.1289999999999054,
+      "dialogue_text": "Là c'est pas de la ptisserie..."
+    },
+    {
+      "subtitle_index": 367,
+      "start_time": 2114.566,
+      "end_time": 2116.652,
+      "duration": 2.08600000000024,
+      "dialogue_text": "Notre Père qui êtes aux cieux,"
+    },
+    {
+      "subtitle_index": 368,
+      "start_time": 2116.777,
+      "end_time": 2121.24,
+      "duration": 4.462999999999738,
+      "dialogue_text": "merci pour ce pain et ce travail qui sauve notre entreprise,"
+    },
+    {
+      "subtitle_index": 369,
+      "start_time": 2121.365,
+      "end_time": 2126.412,
+      "duration": 5.0470000000000255,
+      "dialogue_text": "pardon de faire un avion de combat avec de la main-d'oeuvre féminine."
+    },
+    {
+      "subtitle_index": 370,
+      "start_time": 2130.083,
+      "end_time": 2133.67,
+      "duration": 3.586999999999989,
+      "dialogue_text": "Mangeons a gogo et bossons d'arrache-pied."
+    },
+    {
+      "subtitle_index": 371,
+      "start_time": 2143.597,
+      "end_time": 2146.975,
+      "duration": 3.3779999999997017,
+      "dialogue_text": "Quel son parfait ! Ce moteur est au poil !"
+    },
+    {
+      "subtitle_index": 372,
+      "start_time": 2153.691,
+      "end_time": 2155.985,
+      "duration": 2.294000000000324,
+      "dialogue_text": "Alors ? II tourne bien, non ?"
+    },
+    {
+      "subtitle_index": 373,
+      "start_time": 2156.152,
+      "end_time": 2159.947,
+      "duration": 3.7950000000000728,
+      "dialogue_text": "Arrête. Le toit va s'envoler !"
+    },
+    {
+      "subtitle_index": 374,
+      "start_time": 2160.156,
+      "end_time": 2163.868,
+      "duration": 3.711999999999989,
+      "dialogue_text": "Quoi !? Le Curtis, tu vas l'avaler tout cru !"
+    },
+    {
+      "subtitle_index": 375,
+      "start_time": 2194.901,
+      "end_time": 2196.861,
+      "duration": 1.9600000000000364,
+      "dialogue_text": "Bonne idée."
+    },
+    {
+      "subtitle_index": 376,
+      "start_time": 2196.986,
+      "end_time": 2199.406,
+      "duration": 2.4200000000000728,
+      "dialogue_text": "N'est-ce pas ! Alors je peux ?"
+    },
+    {
+      "subtitle_index": 377,
+      "start_time": 2199.531,
+      "end_time": 2200.991,
+      "duration": 1.4600000000000364,
+      "dialogue_text": "Oui, mais..."
+    },
+    {
+      "subtitle_index": 378,
+      "start_time": 2201.366,
+      "end_time": 2203.91,
+      "duration": 2.543999999999869,
+      "dialogue_text": "ça va coûter cher."
+    },
+    {
+      "subtitle_index": 379,
+      "start_time": 2203.994,
+      "end_time": 2208.04,
+      "duration": 4.045999999999822,
+      "dialogue_text": "Regarde toutes ces factures supplémentaires !"
+    },
+    {
+      "subtitle_index": 380,
+      "start_time": 2208.206,
+      "end_time": 2209.958,
+      "duration": 1.7519999999999527,
+      "dialogue_text": "Si notre mécène..."
+    },
+    {
+      "subtitle_index": 381,
+      "start_time": 2215.339,
+      "end_time": 2219.218,
+      "duration": 3.8789999999999054,
+      "dialogue_text": "Ne fais pas ces yeux-là ! Carte blanche."
+    },
+    {
+      "subtitle_index": 382,
+      "start_time": 2219.552,
+      "end_time": 2223.514,
+      "duration": 3.961999999999989,
+      "dialogue_text": "Super ! L'atelier n'attend que mon feu vert."
+    },
+    {
+      "subtitle_index": 383,
+      "start_time": 2223.931,
+      "end_time": 2225.892,
+      "duration": 1.9609999999997854,
+      "dialogue_text": "Porco, je t'adore !"
+    },
+    {
+      "subtitle_index": 384,
+      "start_time": 2229.854,
+      "end_time": 2231.898,
+      "duration": 2.044000000000324,
+      "dialogue_text": "Je peux attendre 3 mois."
+    },
+    {
+      "subtitle_index": 385,
+      "start_time": 2232.023,
+      "end_time": 2234.651,
+      "duration": 2.6279999999997017,
+      "dialogue_text": "Et si je passais pirate du ciel ?"
+    },
+    {
+      "subtitle_index": 386,
+      "start_time": 2234.776,
+      "end_time": 2236.486,
+      "duration": 1.7100000000000364,
+      "dialogue_text": "Elle est bien, non ?"
+    },
+    {
+      "subtitle_index": 387,
+      "start_time": 2236.945,
+      "end_time": 2238.572,
+      "duration": 1.6269999999999527,
+      "dialogue_text": "Mais pas touche !"
+    },
+    {
+      "subtitle_index": 388,
+      "start_time": 2238.947,
+      "end_time": 2242.367,
+      "duration": 3.4200000000000728,
+      "dialogue_text": "Vu mon état, j'ai pas la tête à ça !"
+    },
+    {
+      "subtitle_index": 389,
+      "start_time": 2316.028,
+      "end_time": 2318.28,
+      "duration": 2.2520000000004075,
+      "dialogue_text": "Commandant ? Bravo Ferrarin !"
+    },
+    {
+      "subtitle_index": 390,
+      "start_time": 2318.364,
+      "end_time": 2320.241,
+      "duration": 1.8769999999999527,
+      "dialogue_text": "Idiot ! Pourquoi t'es revenu ?"
+    },
+    {
+      "subtitle_index": 391,
+      "start_time": 2321.242,
+      "end_time": 2323.911,
+      "duration": 2.668999999999869,
+      "dialogue_text": "Je vais où bon me semble."
+    },
+    {
+      "subtitle_index": 392,
+      "start_time": 2324.12,
+      "end_time": 2326.748,
+      "duration": 2.6280000000001564,
+      "dialogue_text": "Cette fois, le Bureau ne te ratera pas."
+    },
+    {
+      "subtitle_index": 393,
+      "start_time": 2327.04,
+      "end_time": 2329.584,
+      "duration": 2.543999999999869,
+      "dialogue_text": "- Tu n'as pas été suivi ? - Je les ai semés."
+    },
+    {
+      "subtitle_index": 394,
+      "start_time": 2330.293,
+      "end_time": 2333.296,
+      "duration": 3.0029999999997017,
+      "dialogue_text": "Il y a un avis de recherche contre toi,"
+    },
+    {
+      "subtitle_index": 395,
+      "start_time": 2333.421,
+      "end_time": 2336.633,
+      "duration": 3.211999999999989,
+      "dialogue_text": "pour subversion anti-patriotique, pensées décadentes,"
+    },
+    {
+      "subtitle_index": 396,
+      "start_time": 2336.8,
+      "end_time": 2340.095,
+      "duration": 3.294999999999618,
+      "dialogue_text": "allées et venues illicites, et exhibitionnisme porcin."
+    },
+    {
+      "subtitle_index": 397,
+      "start_time": 2341.179,
+      "end_time": 2343.098,
+      "duration": 1.918999999999869,
+      "dialogue_text": "Ce n'est pas risible !"
+    },
+    {
+      "subtitle_index": 398,
+      "start_time": 2344.099,
+      "end_time": 2347.102,
+      "duration": 3.0029999999997017,
+      "dialogue_text": "Ils veulent saisir ton hydravion."
+    },
+    {
+      "subtitle_index": 399,
+      "start_time": 2347.853,
+      "end_time": 2350.272,
+      "duration": 2.418999999999869,
+      "dialogue_text": "Quel navet !"
+    },
+    {
+      "subtitle_index": 400,
+      "start_time": 2350.439,
+      "end_time": 2352.817,
+      "duration": 2.3780000000001564,
+      "dialogue_text": "Marco, rejoins l'armée de l'air."
+    },
+    {
+      "subtitle_index": 401,
+      "start_time": 2352.942,
+      "end_time": 2355.903,
+      "duration": 2.9609999999997854,
+      "dialogue_text": "On peut encore t'aider."
+    },
+    {
+      "subtitle_index": 402,
+      "start_time": 2356.32,
+      "end_time": 2359.115,
+      "duration": 2.794999999999618,
+      "dialogue_text": "J'aime mieux être cochon que fasciste."
+    },
+    {
+      "subtitle_index": 403,
+      "start_time": 2359.198,
+      "end_time": 2361.534,
+      "duration": 2.33600000000024,
+      "dialogue_text": "L'époque de l'aventure est révolue."
+    },
+    {
+      "subtitle_index": 404,
+      "start_time": 2361.659,
+      "end_time": 2365.872,
+      "duration": 4.212999999999738,
+      "dialogue_text": "Pour voler, il faut être patronné par l'Etat."
+    },
+    {
+      "subtitle_index": 405,
+      "start_time": 2366.998,
+      "end_time": 2369.96,
+      "duration": 2.961999999999989,
+      "dialogue_text": "Je ne vole qu'avec le fric que je gagne."
+    },
+    {
+      "subtitle_index": 406,
+      "start_time": 2370.961,
+      "end_time": 2373.588,
+      "duration": 2.6270000000004075,
+      "dialogue_text": "Même s'il vole, un cochon est un cochon."
+    },
+    {
+      "subtitle_index": 407,
+      "start_time": 2374.423,
+      "end_time": 2378.01,
+      "duration": 3.587000000000444,
+      "dialogue_text": "Merci, Ferrarin. Salue bien les copains."
+    },
+    {
+      "subtitle_index": 408,
+      "start_time": 2379.303,
+      "end_time": 2381.138,
+      "duration": 1.8350000000000364,
+      "dialogue_text": "Plutôt bon ce film, finalement !"
+    },
+    {
+      "subtitle_index": 409,
+      "start_time": 2381.305,
+      "end_time": 2385.142,
+      "duration": 3.836999999999989,
+      "dialogue_text": "Fais gaffe. Ils ne feront pas le procès d'un cochon."
+    },
+    {
+      "subtitle_index": 410,
+      "start_time": 2385.309,
+      "end_time": 2386.393,
+      "duration": 1.0839999999998327,
+      "dialogue_text": "Je sais."
+    },
+    {
+      "subtitle_index": 411,
+      "start_time": 2386.894,
+      "end_time": 2389.021,
+      "duration": 2.1270000000004075,
+      "dialogue_text": "Salut, mon vieux !"
+    },
+    {
+      "subtitle_index": 412,
+      "start_time": 2407.207,
+      "end_time": 2408.5,
+      "duration": 1.29300000000012,
+      "dialogue_text": "Porco, tu montes ?"
+    },
+    {
+      "subtitle_index": 413,
+      "start_time": 2413.63,
+      "end_time": 2415.883,
+      "duration": 2.2529999999997017,
+      "dialogue_text": "Tu tombes bien !"
+    },
+    {
+      "subtitle_index": 414,
+      "start_time": 2421.514,
+      "end_time": 2424.559,
+      "duration": 3.0450000000000728,
+      "dialogue_text": "C'est pour transporter l'engin au lac demain."
+    },
+    {
+      "subtitle_index": 415,
+      "start_time": 2424.892,
+      "end_time": 2426.811,
+      "duration": 1.9190000000003238,
+      "dialogue_text": "On passe aux essais en vol."
+    },
+    {
+      "subtitle_index": 416,
+      "start_time": 2426.936,
+      "end_time": 2429.522,
+      "duration": 2.5859999999997854,
+      "dialogue_text": "Pas d'essais. Je dois partir."
+    },
+    {
+      "subtitle_index": 417,
+      "start_time": 2430.607,
+      "end_time": 2434.319,
+      "duration": 3.711999999999989,
+      "dialogue_text": "Dis pas de bêtises ! Sans essais, pas de livraison."
+    },
+    {
+      "subtitle_index": 418,
+      "start_time": 2434.402,
+      "end_time": 2438.031,
+      "duration": 3.6289999999999054,
+      "dialogue_text": "En plus, il faut un jour pour le démontage et le transport."
+    },
+    {
+      "subtitle_index": 419,
+      "start_time": 2438.198,
+      "end_time": 2441.827,
+      "duration": 3.62900000000036,
+      "dialogue_text": "Pas le temps. Regarde un peu par la lunette arrière."
+    },
+    {
+      "subtitle_index": 420,
+      "start_time": 2441.952,
+      "end_time": 2443.537,
+      "duration": 1.5849999999995816,
+      "dialogue_text": "Discrètement."
+    },
+    {
+      "subtitle_index": 421,
+      "start_time": 2444.58,
+      "end_time": 2446.373,
+      "duration": 1.79300000000012,
+      "dialogue_text": "C'est la police fasciste."
+    },
+    {
+      "subtitle_index": 422,
+      "start_time": 2447.916,
+      "end_time": 2449.376,
+      "duration": 1.4600000000000364,
+      "dialogue_text": "Ils te suivaient."
+    },
+    {
+      "subtitle_index": 423,
+      "start_time": 2450.127,
+      "end_time": 2452.63,
+      "duration": 2.5030000000001564,
+      "dialogue_text": "Moi ? Pourquoi ?"
+    },
+    {
+      "subtitle_index": 424,
+      "start_time": 2452.755,
+      "end_time": 2458.678,
+      "duration": 5.9229999999997744,
+      "dialogue_text": "Je les avais semés et tu t'occupes de mon avion."
+    },
+    {
+      "subtitle_index": 425,
+      "start_time": 2461.347,
+      "end_time": 2463.933,
+      "duration": 2.5859999999997854,
+      "dialogue_text": "Dis... tu es un espion ?"
+    },
+    {
+      "subtitle_index": 426,
+      "start_time": 2468.48,
+      "end_time": 2470.774,
+      "duration": 2.293999999999869,
+      "dialogue_text": "Moi, espion !?"
+    },
+    {
+      "subtitle_index": 427,
+      "start_time": 2472.192,
+      "end_time": 2475.737,
+      "duration": 3.5450000000000728,
+      "dialogue_text": "Ce serait trop de boulot !"
+    },
+    {
+      "subtitle_index": 428,
+      "start_time": 2476.071,
+      "end_time": 2479.241,
+      "duration": 3.1700000000000728,
+      "dialogue_text": "Mais tu étais un héros pendant la guerre."
+    },
+    {
+      "subtitle_index": 429,
+      "start_time": 2479.324,
+      "end_time": 2481.577,
+      "duration": 2.2530000000001564,
+      "dialogue_text": "On n'a rien à te reprocher."
+    },
+    {
+      "subtitle_index": 430,
+      "start_time": 2481.744,
+      "end_time": 2484.455,
+      "duration": 2.7109999999997854,
+      "dialogue_text": "C'est bien mon avis."
+    },
+    {
+      "subtitle_index": 431,
+      "start_time": 2488.417,
+      "end_time": 2489.877,
+      "duration": 1.4600000000000364,
+      "dialogue_text": "Pas par là !"
+    },
+    {
+      "subtitle_index": 432,
+      "start_time": 2502.349,
+      "end_time": 2505.185,
+      "duration": 2.8359999999997854,
+      "dialogue_text": "T'as dû faire quelque chose !?"
+    },
+    {
+      "subtitle_index": 433,
+      "start_time": 2505.727,
+      "end_time": 2508.313,
+      "duration": 2.58600000000024,
+      "dialogue_text": "Va falloir faire vite !"
+    },
+    {
+      "subtitle_index": 434,
+      "start_time": 2537.302,
+      "end_time": 2538.386,
+      "duration": 1.0839999999998327,
+      "dialogue_text": "Prêt à décoller."
+    },
+    {
+      "subtitle_index": 435,
+      "start_time": 2538.595,
+      "end_time": 2542.14,
+      "duration": 3.5450000000000728,
+      "dialogue_text": "Derrière y en a 2 de planqués, devant, ils sont 3..."
+    },
+    {
+      "subtitle_index": 436,
+      "start_time": 2542.224,
+      "end_time": 2544.601,
+      "duration": 2.3769999999999527,
+      "dialogue_text": "c'est palpitant !"
+    },
+    {
+      "subtitle_index": 437,
+      "start_time": 2544.852,
+      "end_time": 2547.146,
+      "duration": 2.294000000000324,
+      "dialogue_text": "La mémé, cesse de tournicoter !"
+    },
+    {
+      "subtitle_index": 438,
+      "start_time": 2549.773,
+      "end_time": 2552.193,
+      "duration": 2.4200000000000728,
+      "dialogue_text": "- J'y vais ! - Prends garde à toi !"
+    },
+    {
+      "subtitle_index": 439,
+      "start_time": 2563.538,
+      "end_time": 2565.123,
+      "duration": 1.5850000000000364,
+      "dialogue_text": "Fio, que fais-tu ?"
+    },
+    {
+      "subtitle_index": 440,
+      "start_time": 2565.748,
+      "end_time": 2569.044,
+      "duration": 3.2959999999998217,
+      "dialogue_text": "Je viens aussi. Je m'installe un siège."
+    },
+    {
+      "subtitle_index": 441,
+      "start_time": 2570.003,
+      "end_time": 2573.381,
+      "duration": 3.3779999999997017,
+      "dialogue_text": "Ca va pas, non ? Tu sais ce que tu dis ?"
+    },
+    {
+      "subtitle_index": 442,
+      "start_time": 2574.549,
+      "end_time": 2576.468,
+      "duration": 1.918999999999869,
+      "dialogue_text": "Ne crie pas si fort !"
+    },
+    {
+      "subtitle_index": 443,
+      "start_time": 2576.635,
+      "end_time": 2578.846,
+      "duration": 2.2109999999997854,
+      "dialogue_text": "Fio, écoute-moi... !"
+    },
+    {
+      "subtitle_index": 444,
+      "start_time": 2580.472,
+      "end_time": 2584.602,
+      "duration": 4.129999999999654,
+      "dialogue_text": "Tu es une jeune fille honnête !"
+    },
+    {
+      "subtitle_index": 445,
+      "start_time": 2584.727,
+      "end_time": 2586.479,
+      "duration": 1.7519999999999527,
+      "dialogue_text": "Prends-moi ça."
+    },
+    {
+      "subtitle_index": 446,
+      "start_time": 2587.521,
+      "end_time": 2590.942,
+      "duration": 3.4209999999998217,
+      "dialogue_text": "Merci. Je l'ai fait en vitesse, t'as vu ?"
+    },
+    {
+      "subtitle_index": 447,
+      "start_time": 2595.071,
+      "end_time": 2596.572,
+      "duration": 1.5010000000002037,
+      "dialogue_text": "Impeccable !"
+    },
+    {
+      "subtitle_index": 448,
+      "start_time": 2597.407,
+      "end_time": 2598.658,
+      "duration": 1.250999999999749,
+      "dialogue_text": "Tiens ça !"
+    },
+    {
+      "subtitle_index": 449,
+      "start_time": 2600.577,
+      "end_time": 2604.789,
+      "duration": 4.211999999999989,
+      "dialogue_text": "Jeune fille ! Je suis un chasseur de primes criminel."
+    },
+    {
+      "subtitle_index": 450,
+      "start_time": 2604.873,
+      "end_time": 2606.374,
+      "duration": 1.500999999999749,
+      "dialogue_text": "S'agit pas de tourisme !"
+    },
+    {
+      "subtitle_index": 451,
+      "start_time": 2607.834,
+      "end_time": 2611.63,
+      "duration": 3.7960000000002765,
+      "dialogue_text": "Désolée ! Mais c'est mon 1er boulot, je dois assurer."
+    },
+    {
+      "subtitle_index": 452,
+      "start_time": 2611.755,
+      "end_time": 2613.424,
+      "duration": 1.668999999999869,
+      "dialogue_text": "Il reste des réglages..."
+    },
+    {
+      "subtitle_index": 453,
+      "start_time": 2613.882,
+      "end_time": 2616.885,
+      "duration": 3.0030000000001564,
+      "dialogue_text": "Mais je dois décoller du canal."
+    },
+    {
+      "subtitle_index": 454,
+      "start_time": 2616.969,
+      "end_time": 2619.43,
+      "duration": 2.4609999999997854,
+      "dialogue_text": "Sais même pas si je vais y arriver !"
+    },
+    {
+      "subtitle_index": 455,
+      "start_time": 2619.638,
+      "end_time": 2621.015,
+      "duration": 1.3769999999999527,
+      "dialogue_text": "Raison de plus !"
+    },
+    {
+      "subtitle_index": 456,
+      "start_time": 2621.098,
+      "end_time": 2624.685,
+      "duration": 3.586999999999989,
+      "dialogue_text": "Et contre Curtis, il te faut un super mécano."
+    },
+    {
+      "subtitle_index": 457,
+      "start_time": 2625.144,
+      "end_time": 2627.188,
+      "duration": 2.044000000000324,
+      "dialogue_text": "Ecoute, je suis un homme."
+    },
+    {
+      "subtitle_index": 458,
+      "start_time": 2627.397,
+      "end_time": 2630.149,
+      "duration": 2.7519999999999527,
+      "dialogue_text": "On sera seuls sur une île déserte !"
+    },
+    {
+      "subtitle_index": 459,
+      "start_time": 2630.275,
+      "end_time": 2632.527,
+      "duration": 2.2519999999999527,
+      "dialogue_text": "Chic, J'adore camper."
+    },
+    {
+      "subtitle_index": 460,
+      "start_time": 2632.694,
+      "end_time": 2634.988,
+      "duration": 2.293999999999869,
+      "dialogue_text": "C'est pas la question !"
+    },
+    {
+      "subtitle_index": 461,
+      "start_time": 2635.655,
+      "end_time": 2640.118,
+      "duration": 4.462999999999738,
+      "dialogue_text": "Emmène-la. Si tu gagnes pas, je reverrai jamais mon argent."
+    },
+    {
+      "subtitle_index": 462,
+      "start_time": 2640.577,
+      "end_time": 2643.288,
+      "duration": 2.7109999999997854,
+      "dialogue_text": "Et je ferai faillite."
+    },
+    {
+      "subtitle_index": 463,
+      "start_time": 2643.455,
+      "end_time": 2645.123,
+      "duration": 1.66800000000012,
+      "dialogue_text": "Quel grand-père indigne !"
+    },
+    {
+      "subtitle_index": 464,
+      "start_time": 2645.415,
+      "end_time": 2649.628,
+      "duration": 4.213000000000193,
+      "dialogue_text": "Je te fais un prix pour son salaire. Et je t'offre un porte-voix."
+    },
+    {
+      "subtitle_index": 465,
+      "start_time": 2650.296,
+      "end_time": 2652.882,
+      "duration": 2.58600000000024,
+      "dialogue_text": "Tu veux faire d'elle une proscrite ?"
+    },
+    {
+      "subtitle_index": 466,
+      "start_time": 2654.049,
+      "end_time": 2656.177,
+      "duration": 2.1280000000001564,
+      "dialogue_text": "Mais non, je serai ton otage."
+    },
+    {
+      "subtitle_index": 467,
+      "start_time": 2656.302,
+      "end_time": 2659.472,
+      "duration": 3.1700000000000728,
+      "dialogue_text": "Ici, ils crieront au voleur,"
+    },
+    {
+      "subtitle_index": 468,
+      "start_time": 2659.555,
+      "end_time": 2661.557,
+      "duration": 2.0019999999999527,
+      "dialogue_text": "le Bureau sera berné."
+    },
+    {
+      "subtitle_index": 469,
+      "start_time": 2662.35,
+      "end_time": 2664.811,
+      "duration": 2.46100000000024,
+      "dialogue_text": "Je t'en prie, emmène-moi,"
+    },
+    {
+      "subtitle_index": 470,
+      "start_time": 2664.936,
+      "end_time": 2666.563,
+      "duration": 1.6269999999999527,
+      "dialogue_text": "Je te serai utile."
+    },
+    {
+      "subtitle_index": 471,
+      "start_time": 2669.232,
+      "end_time": 2671.86,
+      "duration": 2.6280000000001564,
+      "dialogue_text": "Démonte la mitrailleuse de droite."
+    },
+    {
+      "subtitle_index": 472,
+      "start_time": 2672.444,
+      "end_time": 2676.949,
+      "duration": 4.505000000000109,
+      "dialogue_text": "T'as beau avoir un petit cul, c'est trop étroit..."
+    },
+    {
+      "subtitle_index": 473,
+      "start_time": 2677.282,
+      "end_time": 2680.035,
+      "duration": 2.7529999999997017,
+      "dialogue_text": "Super ! C'est vrai que je suis plutôt potelée."
+    },
+    {
+      "subtitle_index": 474,
+      "start_time": 2680.16,
+      "end_time": 2681.954,
+      "duration": 1.7940000000003238,
+      "dialogue_text": "J'en ai pour 1 min."
+    },
+    {
+      "subtitle_index": 475,
+      "start_time": 2683.205,
+      "end_time": 2687.042,
+      "duration": 3.836999999999989,
+      "dialogue_text": "Partons vite. Les mémés aussi vont vouloir venir."
+    },
+    {
+      "subtitle_index": 476,
+      "start_time": 2687.168,
+      "end_time": 2689.337,
+      "duration": 2.168999999999869,
+      "dialogue_text": "C'est vrai ! Ca m'étonnerait pas !"
+    },
+    {
+      "subtitle_index": 477,
+      "start_time": 2692.173,
+      "end_time": 2693.466,
+      "duration": 1.29300000000012,
+      "dialogue_text": "Grouillez-vous !"
+    },
+    {
+      "subtitle_index": 478,
+      "start_time": 2693.633,
+      "end_time": 2696.344,
+      "duration": 2.71100000000024,
+      "dialogue_text": "Inutile de me rapporter un souvenir !"
+    },
+    {
+      "subtitle_index": 479,
+      "start_time": 2705.02,
+      "end_time": 2707.355,
+      "duration": 2.3350000000000364,
+      "dialogue_text": "Contact !"
+    },
+    {
+      "subtitle_index": 480,
+      "start_time": 2716.24,
+      "end_time": 2717.992,
+      "duration": 1.7520000000004075,
+      "dialogue_text": "Ouvrez les portes !"
+    },
+    {
+      "subtitle_index": 481,
+      "start_time": 2725.708,
+      "end_time": 2727.043,
+      "duration": 1.3350000000000364,
+      "dialogue_text": "Lchez tout !"
+    },
+    {
+      "subtitle_index": 482,
+      "start_time": 2747.272,
+      "end_time": 2750.985,
+      "duration": 3.713000000000193,
+      "dialogue_text": "Voleur d'enfant ! Paie ta dette !"
+    },
+    {
+      "subtitle_index": 483,
+      "start_time": 2759.494,
+      "end_time": 2761.037,
+      "duration": 1.5429999999996653,
+      "dialogue_text": "Le gouvernail, ça va ?"
+    },
+    {
+      "subtitle_index": 484,
+      "start_time": 2761.245,
+      "end_time": 2765.041,
+      "duration": 3.7960000000002765,
+      "dialogue_text": "Aussi rosse que toi ! Très nerveux !"
+    },
+    {
+      "subtitle_index": 485,
+      "start_time": 2768.586,
+      "end_time": 2770.755,
+      "duration": 2.169000000000324,
+      "dialogue_text": "Arrête-toi ! Je vais le régler."
+    },
+    {
+      "subtitle_index": 486,
+      "start_time": 2770.964,
+      "end_time": 2773.759,
+      "duration": 2.7950000000000728,
+      "dialogue_text": "Pas le temps ! Je vais faire avec !"
+    },
+    {
+      "subtitle_index": 487,
+      "start_time": 2777.679,
+      "end_time": 2779.556,
+      "duration": 1.8769999999999527,
+      "dialogue_text": "L'eau nous colle aux pattes !"
+    },
+    {
+      "subtitle_index": 488,
+      "start_time": 2780.516,
+      "end_time": 2781.392,
+      "duration": 0.875999999999749,
+      "dialogue_text": "Bateau devant !"
+    },
+    {
+      "subtitle_index": 489,
+      "start_time": 2785.437,
+      "end_time": 2787.106,
+      "duration": 1.6690000000003238,
+      "dialogue_text": "On décolle !"
+    },
+    {
+      "subtitle_index": 490,
+      "start_time": 2790.359,
+      "end_time": 2791.527,
+      "duration": 1.16800000000012,
+      "dialogue_text": "Redresse-toi !"
+    },
+    {
+      "subtitle_index": 491,
+      "start_time": 2792.069,
+      "end_time": 2794.572,
+      "duration": 2.5030000000001564,
+      "dialogue_text": "L'aileron ! Sers-toi du stab !"
+    },
+    {
+      "subtitle_index": 492,
+      "start_time": 2794.864,
+      "end_time": 2796.616,
+      "duration": 1.7519999999999527,
+      "dialogue_text": "- Le stab ? - Un nouveau truc."
+    },
+    {
+      "subtitle_index": 493,
+      "start_time": 2812.216,
+      "end_time": 2815.094,
+      "duration": 2.8780000000001564,
+      "dialogue_text": "Formidable ! II s'est calmé d'un coup !"
+    },
+    {
+      "subtitle_index": 494,
+      "start_time": 2850.214,
+      "end_time": 2853.551,
+      "duration": 3.336999999999989,
+      "dialogue_text": "Que c'est beau ! Le monde, c'est rudement beau !"
+    },
+    {
+      "subtitle_index": 495,
+      "start_time": 2857.638,
+      "end_time": 2858.931,
+      "duration": 1.29300000000012,
+      "dialogue_text": "On est poursuivis ?"
+    },
+    {
+      "subtitle_index": 496,
+      "start_time": 2859.098,
+      "end_time": 2861.142,
+      "duration": 2.043999999999869,
+      "dialogue_text": "Il n'a pas l'air hostile."
+    },
+    {
+      "subtitle_index": 497,
+      "start_time": 2862.226,
+      "end_time": 2864.771,
+      "duration": 2.5450000000000728,
+      "dialogue_text": "L'armée de l'air italienne."
+    },
+    {
+      "subtitle_index": 498,
+      "start_time": 2865.73,
+      "end_time": 2867.774,
+      "duration": 2.043999999999869,
+      "dialogue_text": "Ce bon vieux Ferrarin !"
+    },
+    {
+      "subtitle_index": 499,
+      "start_time": 2873.488,
+      "end_time": 2874.448,
+      "duration": 0.9600000000000364,
+      "dialogue_text": "Tu le connais ?"
+    },
+    {
+      "subtitle_index": 500,
+      "start_time": 2874.614,
+      "end_time": 2877.075,
+      "duration": 2.4609999999997854,
+      "dialogue_text": "L'armée nous attend plus loin."
+    },
+    {
+      "subtitle_index": 501,
+      "start_time": 2877.242,
+      "end_time": 2878.827,
+      "duration": 1.5850000000000364,
+      "dialogue_text": "Il nous aide à l'éviter."
+    },
+    {
+      "subtitle_index": 502,
+      "start_time": 2898.056,
+      "end_time": 2901.309,
+      "duration": 3.2530000000001564,
+      "dialogue_text": "Nous devons voler bas jusqu'à l'Adriatique."
+    },
+    {
+      "subtitle_index": 503,
+      "start_time": 2901.392,
+      "end_time": 2902.852,
+      "duration": 1.4600000000000364,
+      "dialogue_text": "Merci, vieux !"
+    },
+    {
+      "subtitle_index": 504,
+      "start_time": 2903.77,
+      "end_time": 2905.48,
+      "duration": 1.7100000000000364,
+      "dialogue_text": "Merci !"
+    },
+    {
+      "subtitle_index": 505,
+      "start_time": 2913.322,
+      "end_time": 2916.659,
+      "duration": 3.336999999999989,
+      "dialogue_text": "Il dit que t'es trop bien pour moi."
+    },
+    {
+      "subtitle_index": 506,
+      "start_time": 2983.354,
+      "end_time": 2985.314,
+      "duration": 1.9600000000000364,
+      "dialogue_text": "Vous êtes si jolie..."
+    },
+    {
+      "subtitle_index": 507,
+      "start_time": 2985.94,
+      "end_time": 2989.527,
+      "duration": 3.586999999999989,
+      "dialogue_text": "Une rose qui fleurit dans un jardin secret..."
+    },
+    {
+      "subtitle_index": 508,
+      "start_time": 2993.155,
+      "end_time": 2996.576,
+      "duration": 3.4209999999998217,
+      "dialogue_text": "Vous êtes impossible. Ce jardin est privé."
+    },
+    {
+      "subtitle_index": 509,
+      "start_time": 2996.784,
+      "end_time": 2999.204,
+      "duration": 2.4200000000000728,
+      "dialogue_text": "Je voulais vous montrer ça..."
+    },
+    {
+      "subtitle_index": 510,
+      "start_time": 3005.502,
+      "end_time": 3007.504,
+      "duration": 2.0019999999999527,
+      "dialogue_text": "Ca vient d'Hollywood !"
+    },
+    {
+      "subtitle_index": 511,
+      "start_time": 3007.671,
+      "end_time": 3011.216,
+      "duration": 3.5450000000000728,
+      "dialogue_text": "\"A propos de votre scénario et votre personnage..."
+    },
+    {
+      "subtitle_index": 512,
+      "start_time": 3011.55,
+      "end_time": 3015.053,
+      "duration": 3.5029999999997017,
+      "dialogue_text": "\"...veuillez nous contacter très vite... \""
+    },
+    {
+      "subtitle_index": 513,
+      "start_time": 3015.554,
+      "end_time": 3018.766,
+      "duration": 3.211999999999989,
+      "dialogue_text": "Ca s'intitule Le Bouquet de l'Adriatique."
+    },
+    {
+      "subtitle_index": 514,
+      "start_time": 3018.933,
+      "end_time": 3022.144,
+      "duration": 3.2109999999997854,
+      "dialogue_text": "- Charmant. - Vraiment ? Alors, c'est décidé !"
+    },
+    {
+      "subtitle_index": 515,
+      "start_time": 3022.269,
+      "end_time": 3024.689,
+      "duration": 2.4200000000000728,
+      "dialogue_text": "Gina, venez avec moi à Hollywood."
+    },
+    {
+      "subtitle_index": 516,
+      "start_time": 3026.858,
+      "end_time": 3031.321,
+      "duration": 4.462999999999738,
+      "dialogue_text": "Mercenaire des pirates... une étape vers la gloire."
+    },
+    {
+      "subtitle_index": 517,
+      "start_time": 3031.696,
+      "end_time": 3034.032,
+      "duration": 2.33600000000024,
+      "dialogue_text": "Ensuite... grande étoile d'Hollywood."
+    },
+    {
+      "subtitle_index": 518,
+      "start_time": 3034.449,
+      "end_time": 3035.533,
+      "duration": 1.0839999999998327,
+      "dialogue_text": "Et ensuit ?"
+    },
+    {
+      "subtitle_index": 519,
+      "start_time": 3036.117,
+      "end_time": 3037.535,
+      "duration": 1.4179999999996653,
+      "dialogue_text": "Président."
+    },
+    {
+      "subtitle_index": 520,
+      "start_time": 3045.085,
+      "end_time": 3047.045,
+      "duration": 1.9600000000000364,
+      "dialogue_text": "Je suis sérieux !"
+    },
+    {
+      "subtitle_index": 521,
+      "start_time": 3047.171,
+      "end_time": 3050.633,
+      "duration": 3.461999999999989,
+      "dialogue_text": "Je ferai de vous l'épouse du Président."
+    },
+    {
+      "subtitle_index": 522,
+      "start_time": 3052.927,
+      "end_time": 3055.763,
+      "duration": 2.8359999999997854,
+      "dialogue_text": "J'aime votre côté brindezingue."
+    },
+    {
+      "subtitle_index": 523,
+      "start_time": 3055.888,
+      "end_time": 3057.223,
+      "duration": 1.3350000000000364,
+      "dialogue_text": "C'est vrai !?"
+    },
+    {
+      "subtitle_index": 524,
+      "start_time": 3058.182,
+      "end_time": 3062.061,
+      "duration": 3.87900000000036,
+      "dialogue_text": "Mais c'est impossible. J'ai fait un pari."
+    },
+    {
+      "subtitle_index": 525,
+      "start_time": 3064.897,
+      "end_time": 3068.693,
+      "duration": 3.7960000000002765,
+      "dialogue_text": "S'il vient quand je suis dans ce jardin,"
+    },
+    {
+      "subtitle_index": 526,
+      "start_time": 3068.818,
+      "end_time": 3071.613,
+      "duration": 2.794999999999618,
+      "dialogue_text": "je lui avouerai mon amour."
+    },
+    {
+      "subtitle_index": 527,
+      "start_time": 3072.197,
+      "end_time": 3076.034,
+      "duration": 3.836999999999989,
+      "dialogue_text": "Mais cet imbécile ne vient que le soir au bar."
+    },
+    {
+      "subtitle_index": 528,
+      "start_time": 3076.118,
+      "end_time": 3079.204,
+      "duration": 3.08600000000024,
+      "dialogue_text": "Il ne se montre jamais en plein jour."
+    },
+    {
+      "subtitle_index": 529,
+      "start_time": 3121.248,
+      "end_time": 3123.292,
+      "duration": 2.043999999999869,
+      "dialogue_text": "Le cochon est de retour !"
+    },
+    {
+      "subtitle_index": 530,
+      "start_time": 3183.689,
+      "end_time": 3184.898,
+      "duration": 1.2090000000002874,
+      "dialogue_text": "L'imbécile..."
+    },
+    {
+      "subtitle_index": 531,
+      "start_time": 3194.534,
+      "end_time": 3198.204,
+      "duration": 3.6700000000000728,
+      "dialogue_text": "Il est parti sans s'arrêter. J'ai encore perdu mon pari."
+    },
+    {
+      "subtitle_index": 532,
+      "start_time": 3198.288,
+      "end_time": 3201.624,
+      "duration": 3.3359999999997854,
+      "dialogue_text": "Quoi !? Votre pari, c'était ce type ?"
+    },
+    {
+      "subtitle_index": 533,
+      "start_time": 3201.791,
+      "end_time": 3203.251,
+      "duration": 1.4600000000000364,
+      "dialogue_text": "Je n'ai pas le droit ?"
+    },
+    {
+      "subtitle_index": 534,
+      "start_time": 3203.71,
+      "end_time": 3207.798,
+      "duration": 4.087999999999738,
+      "dialogue_text": "Ici, la vie est un peu plus complexe que chez vous."
+    },
+    {
+      "subtitle_index": 535,
+      "start_time": 3207.881,
+      "end_time": 3210.384,
+      "duration": 2.5030000000001564,
+      "dialogue_text": "Etre amoureux, c'est facile mais..."
+    },
+    {
+      "subtitle_index": 536,
+      "start_time": 3210.926,
+      "end_time": 3214.096,
+      "duration": 3.1700000000000728,
+      "dialogue_text": "Va donc seul à Hollywood, blanc-bec !"
+    },
+    {
+      "subtitle_index": 537,
+      "start_time": 3214.221,
+      "end_time": 3215.681,
+      "duration": 1.4600000000000364,
+      "dialogue_text": "Blanc-bec ?"
+    },
+    {
+      "subtitle_index": 538,
+      "start_time": 3219.852,
+      "end_time": 3223.439,
+      "duration": 3.586999999999989,
+      "dialogue_text": "Avec tes acrobaties, je me suis cogné la tête !"
+    },
+    {
+      "subtitle_index": 539,
+      "start_time": 3223.564,
+      "end_time": 3225.65,
+      "duration": 2.08600000000024,
+      "dialogue_text": "Je saluais une vieille connaissance."
+    },
+    {
+      "subtitle_index": 540,
+      "start_time": 3225.775,
+      "end_time": 3227.652,
+      "duration": 1.8769999999999527,
+      "dialogue_text": "Gina de l'hôtel Adriano ?"
+    },
+    {
+      "subtitle_index": 541,
+      "start_time": 3229.404,
+      "end_time": 3231.823,
+      "duration": 2.418999999999869,
+      "dialogue_text": "La dame en blanc sur la terrasse ?"
+    },
+    {
+      "subtitle_index": 542,
+      "start_time": 3232.115,
+      "end_time": 3233.7,
+      "duration": 1.5850000000000364,
+      "dialogue_text": "Grand-père m'a dit"
+    },
+    {
+      "subtitle_index": 543,
+      "start_time": 3233.825,
+      "end_time": 3237.37,
+      "duration": 3.5450000000000728,
+      "dialogue_text": "que tous les pilotes d'ici en étaient amoureux."
+    },
+    {
+      "subtitle_index": 544,
+      "start_time": 3237.662,
+      "end_time": 3239.205,
+      "duration": 1.54300000000012,
+      "dialogue_text": "Ce vieux, quel bavard..."
+    },
+    {
+      "subtitle_index": 545,
+      "start_time": 3240.79,
+      "end_time": 3244.211,
+      "duration": 3.4209999999998217,
+      "dialogue_text": "Dis, comment elle est ? Toi aussi, t'es amoureux ?"
+    },
+    {
+      "subtitle_index": 546,
+      "start_time": 3244.711,
+      "end_time": 3247.714,
+      "duration": 3.0030000000001564,
+      "dialogue_text": "Tais-toi ou tu vas te mordre la langue."
+    },
+    {
+      "subtitle_index": 547,
+      "start_time": 3247.84,
+      "end_time": 3249.675,
+      "duration": 1.8350000000000364,
+      "dialogue_text": "Attends !!"
+    },
+    {
+      "subtitle_index": 548,
+      "start_time": 3274.534,
+      "end_time": 3277.245,
+      "duration": 2.7109999999997854,
+      "dialogue_text": "Une fille dans un avion de chasse !"
+    },
+    {
+      "subtitle_index": 549,
+      "start_time": 3278.497,
+      "end_time": 3279.915,
+      "duration": 1.41800000000012,
+      "dialogue_text": "Où est Porco ?"
+    },
+    {
+      "subtitle_index": 550,
+      "start_time": 3280.165,
+      "end_time": 3282.167,
+      "duration": 2.0019999999999527,
+      "dialogue_text": "Il discute dur avec mon père."
+    },
+    {
+      "subtitle_index": 551,
+      "start_time": 3282.251,
+      "end_time": 3284.461,
+      "duration": 2.2099999999995816,
+      "dialogue_text": "Pas que le gouvernement provisoire !"
+    },
+    {
+      "subtitle_index": 552,
+      "start_time": 3284.586,
+      "end_time": 3286.714,
+      "duration": 2.1280000000001564,
+      "dialogue_text": "Les royalistes aussi"
+    },
+    {
+      "subtitle_index": 553,
+      "start_time": 3286.881,
+      "end_time": 3290.551,
+      "duration": 3.6700000000000728,
+      "dialogue_text": "veulent pactiser avec la Coalition des pirates."
+    },
+    {
+      "subtitle_index": 554,
+      "start_time": 3290.718,
+      "end_time": 3294.43,
+      "duration": 3.711999999999989,
+      "dialogue_text": "La chasse aux pirates va faire faillite !"
+    },
+    {
+      "subtitle_index": 555,
+      "start_time": 3294.597,
+      "end_time": 3296.474,
+      "duration": 1.8769999999999527,
+      "dialogue_text": "- Et voici ! - Merci."
+    },
+    {
+      "subtitle_index": 556,
+      "start_time": 3296.974,
+      "end_time": 3299.394,
+      "duration": 2.419999999999618,
+      "dialogue_text": "Toujours ces histoires sinistres !"
+    },
+    {
+      "subtitle_index": 557,
+      "start_time": 3299.561,
+      "end_time": 3303.231,
+      "duration": 3.6700000000000728,
+      "dialogue_text": "Ben quoi ! T'as qu'à te vendre au plus offrant !"
+    },
+    {
+      "subtitle_index": 558,
+      "start_time": 3303.523,
+      "end_time": 3306.443,
+      "duration": 2.9200000000000728,
+      "dialogue_text": "Tu pourrais te faire un max !"
+    },
+    {
+      "subtitle_index": 559,
+      "start_time": 3306.568,
+      "end_time": 3307.777,
+      "duration": 1.2089999999998327,
+      "dialogue_text": "T'as des cigarettes ?"
+    },
+    {
+      "subtitle_index": 560,
+      "start_time": 3307.903,
+      "end_time": 3310.989,
+      "duration": 3.08600000000024,
+      "dialogue_text": "Curtis va bientôt rentrer en Amérique."
+    },
+    {
+      "subtitle_index": 561,
+      "start_time": 3311.114,
+      "end_time": 3315.077,
+      "duration": 3.963000000000193,
+      "dialogue_text": "C'est plutôt nous qui devrions y aller !"
+    },
+    {
+      "subtitle_index": 562,
+      "start_time": 3315.911,
+      "end_time": 3319.623,
+      "duration": 3.711999999999989,
+      "dialogue_text": "\"Adieu, jours de liberté et de débauche sur l'Adriatique !\""
+    },
+    {
+      "subtitle_index": 563,
+      "start_time": 3320.04,
+      "end_time": 3321.167,
+      "duration": 1.1269999999999527,
+      "dialogue_text": "Câest de Byron ?"
+    },
+    {
+      "subtitle_index": 564,
+      "start_time": 3321.292,
+      "end_time": 3323.002,
+      "duration": 1.7100000000000364,
+      "dialogue_text": "Non, de moi. Salut !"
+    },
+    {
+      "subtitle_index": 565,
+      "start_time": 3323.169,
+      "end_time": 3324.545,
+      "duration": 1.3760000000002037,
+      "dialogue_text": "Merci."
+    },
+    {
+      "subtitle_index": 566,
+      "start_time": 3327.882,
+      "end_time": 3329.55,
+      "duration": 1.66800000000012,
+      "dialogue_text": "Porco, c'est terrible !"
+    },
+    {
+      "subtitle_index": 567,
+      "start_time": 3330.176,
+      "end_time": 3333.346,
+      "duration": 3.1700000000000728,
+      "dialogue_text": "L'essence est 3 fois plus chère ici."
+    },
+    {
+      "subtitle_index": 568,
+      "start_time": 3335.431,
+      "end_time": 3337.35,
+      "duration": 1.918999999999869,
+      "dialogue_text": "Fais un rabais !"
+    },
+    {
+      "subtitle_index": 569,
+      "start_time": 3338.059,
+      "end_time": 3342.063,
+      "duration": 4.003999999999905,
+      "dialogue_text": "Notre essence est pure. Je déteste les femmes."
+    },
+    {
+      "subtitle_index": 570,
+      "start_time": 3342.23,
+      "end_time": 3344.066,
+      "duration": 1.8359999999997854,
+      "dialogue_text": "Patron, dites-lui !"
+    },
+    {
+      "subtitle_index": 571,
+      "start_time": 3344.65,
+      "end_time": 3346.443,
+      "duration": 1.79300000000012,
+      "dialogue_text": "Paie-le, Fio..."
+    },
+    {
+      "subtitle_index": 572,
+      "start_time": 3346.568,
+      "end_time": 3350.864,
+      "duration": 4.295999999999822,
+      "dialogue_text": "Et après, remets ton cul potelé à sa place."
+    },
+    {
+      "subtitle_index": 573,
+      "start_time": 3351.365,
+      "end_time": 3352.95,
+      "duration": 1.5850000000000364,
+      "dialogue_text": "On rentre au repaire."
+    },
+    {
+      "subtitle_index": 574,
+      "start_time": 3353.075,
+      "end_time": 3356.495,
+      "duration": 3.4200000000000728,
+      "dialogue_text": "J'ajoute le montant du plein à ta facture."
+    },
+    {
+      "subtitle_index": 575,
+      "start_time": 3362.001,
+      "end_time": 3365.588,
+      "duration": 3.586999999999989,
+      "dialogue_text": "Ce n'est pas exagéré, tu sais. La vie est dure ici."
+    },
+    {
+      "subtitle_index": 576,
+      "start_time": 3366.422,
+      "end_time": 3368.591,
+      "duration": 2.168999999999869,
+      "dialogue_text": "La mer et la terre sont belles."
+    },
+    {
+      "subtitle_index": 577,
+      "start_time": 3368.8,
+      "end_time": 3371.094,
+      "duration": 2.293999999999869,
+      "dialogue_text": "Mais c'est un vrai désert."
+    },
+    {
+      "subtitle_index": 578,
+      "start_time": 3373.471,
+      "end_time": 3375.015,
+      "duration": 1.543999999999869,
+      "dialogue_text": "Voilà mon île ! Là-bas."
+    },
+    {
+      "subtitle_index": 579,
+      "start_time": 3396.037,
+      "end_time": 3397.538,
+      "duration": 1.5010000000002037,
+      "dialogue_text": "C'est superbe !"
+    },
+    {
+      "subtitle_index": 580,
+      "start_time": 3414.097,
+      "end_time": 3416.1,
+      "duration": 2.0029999999997017,
+      "dialogue_text": "Quel repaire formidable !"
+    },
+    {
+      "subtitle_index": 581,
+      "start_time": 3418.435,
+      "end_time": 3420.688,
+      "duration": 2.2530000000001564,
+      "dialogue_text": "J'ai les fesses en compote !"
+    },
+    {
+      "subtitle_index": 582,
+      "start_time": 3434.869,
+      "end_time": 3436.496,
+      "duration": 1.6269999999999527,
+      "dialogue_text": "Bouge pas !"
+    },
+    {
+      "subtitle_index": 583,
+      "start_time": 3437.288,
+      "end_time": 3440.292,
+      "duration": 3.0039999999999054,
+      "dialogue_text": "Ces ordures sont venues en nombre !"
+    },
+    {
+      "subtitle_index": 584,
+      "start_time": 3440.375,
+      "end_time": 3442.544,
+      "duration": 2.168999999999869,
+      "dialogue_text": "Boss, on le tient !"
+    },
+    {
+      "subtitle_index": 585,
+      "start_time": 3443.253,
+      "end_time": 3445.255,
+      "duration": 2.0019999999999527,
+      "dialogue_text": "Gaffe où vous marchez !"
+    },
+    {
+      "subtitle_index": 586,
+      "start_time": 3445.547,
+      "end_time": 3447.09,
+      "duration": 1.54300000000012,
+      "dialogue_text": "Otez-vous !"
+    },
+    {
+      "subtitle_index": 587,
+      "start_time": 3447.382,
+      "end_time": 3449.468,
+      "duration": 2.0859999999997854,
+      "dialogue_text": "Je t'attendais, sale cochon !"
+    },
+    {
+      "subtitle_index": 588,
+      "start_time": 3449.593,
+      "end_time": 3451.303,
+      "duration": 1.7100000000000364,
+      "dialogue_text": "On savait que tu viendrais !"
+    },
+    {
+      "subtitle_index": 589,
+      "start_time": 3451.387,
+      "end_time": 3453.597,
+      "duration": 2.2100000000000364,
+      "dialogue_text": "On a des comptes à régler."
+    },
+    {
+      "subtitle_index": 590,
+      "start_time": 3454.807,
+      "end_time": 3457.268,
+      "duration": 2.46100000000024,
+      "dialogue_text": "Une fille ! II a une fille avec lui !"
+    },
+    {
+      "subtitle_index": 591,
+      "start_time": 3457.393,
+      "end_time": 3458.519,
+      "duration": 1.125999999999749,
+      "dialogue_text": "Rudement batie !"
+    },
+    {
+      "subtitle_index": 592,
+      "start_time": 3458.811,
+      "end_time": 3460.938,
+      "duration": 2.1269999999999527,
+      "dialogue_text": "Une femme, et après ?"
+    },
+    {
+      "subtitle_index": 593,
+      "start_time": 3461.105,
+      "end_time": 3462.982,
+      "duration": 1.8769999999999527,
+      "dialogue_text": "Un homme sur 2 est une femme !"
+    },
+    {
+      "subtitle_index": 594,
+      "start_time": 3463.149,
+      "end_time": 3466.069,
+      "duration": 2.9200000000000728,
+      "dialogue_text": "Oui, mais ce n'est pas n'importe laquelle."
+    },
+    {
+      "subtitle_index": 595,
+      "start_time": 3466.235,
+      "end_time": 3467.779,
+      "duration": 1.543999999999869,
+      "dialogue_text": "C'est l'ingénieur de Piccolo."
+    },
+    {
+      "subtitle_index": 596,
+      "start_time": 3467.987,
+      "end_time": 3471.825,
+      "duration": 3.837999999999738,
+      "dialogue_text": "Si jeune et si mignonne !!"
+    },
+    {
+      "subtitle_index": 597,
+      "start_time": 3471.992,
+      "end_time": 3473.493,
+      "duration": 1.500999999999749,
+      "dialogue_text": "C'est bien vrai ?"
+    },
+    {
+      "subtitle_index": 598,
+      "start_time": 3473.66,
+      "end_time": 3477.205,
+      "duration": 3.5450000000000728,
+      "dialogue_text": "Grce à elle, mon zinc est bien meilleur qu'avant."
+    },
+    {
+      "subtitle_index": 599,
+      "start_time": 3477.33,
+      "end_time": 3479.082,
+      "duration": 1.7519999999999527,
+      "dialogue_text": "C'est un crack !"
+    },
+    {
+      "subtitle_index": 600,
+      "start_time": 3480.709,
+      "end_time": 3482.085,
+      "duration": 1.3760000000002037,
+      "dialogue_text": "C'est vrai ?"
+    },
+    {
+      "subtitle_index": 601,
+      "start_time": 3482.669,
+      "end_time": 3484.963,
+      "duration": 2.294000000000324,
+      "dialogue_text": "Sur les avions, je ne mens jamais."
+    },
+    {
+      "subtitle_index": 602,
+      "start_time": 3485.13,
+      "end_time": 3489.093,
+      "duration": 3.962999999999738,
+      "dialogue_text": "Elle vient récupérer ce que je lui dois."
+    },
+    {
+      "subtitle_index": 603,
+      "start_time": 3490.678,
+      "end_time": 3493.431,
+      "duration": 2.7530000000001564,
+      "dialogue_text": "Toi aussi, t'as des dettes ? Bien fait !"
+    },
+    {
+      "subtitle_index": 604,
+      "start_time": 3493.598,
+      "end_time": 3498.811,
+      "duration": 5.213000000000193,
+      "dialogue_text": "Bousillons-lui son zinc écarlate en ne laissant que ses dettes !"
+    },
+    {
+      "subtitle_index": 605,
+      "start_time": 3500.438,
+      "end_time": 3503.608,
+      "duration": 3.1700000000000728,
+      "dialogue_text": "Vous démoliriez cet avion que j'ai fait ?"
+    },
+    {
+      "subtitle_index": 606,
+      "start_time": 3504.317,
+      "end_time": 3507.112,
+      "duration": 2.7950000000000728,
+      "dialogue_text": "Vous casseriez un si bel avion à la hache ?"
+    },
+    {
+      "subtitle_index": 607,
+      "start_time": 3507.654,
+      "end_time": 3510.615,
+      "duration": 2.9609999999997854,
+      "dialogue_text": "Mademoiselle, on a nos raisons..."
+    },
+    {
+      "subtitle_index": 608,
+      "start_time": 3510.907,
+      "end_time": 3511.783,
+      "duration": 0.875999999999749,
+      "dialogue_text": "Ah, oui ?"
+    },
+    {
+      "subtitle_index": 609,
+      "start_time": 3512.326,
+      "end_time": 3513.577,
+      "duration": 1.2510000000002037,
+      "dialogue_text": "C'est que ..."
+    },
+    {
+      "subtitle_index": 610,
+      "start_time": 3513.702,
+      "end_time": 3516.371,
+      "duration": 2.668999999999869,
+      "dialogue_text": "Et ça se dit pilote d'hydravion ?"
+    },
+    {
+      "subtitle_index": 611,
+      "start_time": 3516.538,
+      "end_time": 3519.083,
+      "duration": 2.5450000000000728,
+      "dialogue_text": "Ecartez-vous ! Mes chaussures !"
+    },
+    {
+      "subtitle_index": 612,
+      "start_time": 3527.3,
+      "end_time": 3531.512,
+      "duration": 4.211999999999989,
+      "dialogue_text": "J'ai toujours été bercée d'histoires d'hydraviateurs."
+    },
+    {
+      "subtitle_index": 613,
+      "start_time": 3532.138,
+      "end_time": 3535.35,
+      "duration": 3.211999999999989,
+      "dialogue_text": "Mon grand-père me disait que personne au monde"
+    },
+    {
+      "subtitle_index": 614,
+      "start_time": 3535.475,
+      "end_time": 3537.602,
+      "duration": 2.1269999999999527,
+      "dialogue_text": "ne les surpassait."
+    },
+    {
+      "subtitle_index": 615,
+      "start_time": 3537.769,
+      "end_time": 3542.023,
+      "duration": 4.25400000000036,
+      "dialogue_text": "Car leur coeur baigne entre mer et ciel."
+    },
+    {
+      "subtitle_index": 616,
+      "start_time": 3542.649,
+      "end_time": 3545.527,
+      "duration": 2.8780000000001564,
+      "dialogue_text": "Ils sont donc plus intrépides que les marins,"
+    },
+    {
+      "subtitle_index": 617,
+      "start_time": 3545.986,
+      "end_time": 3548.78,
+      "duration": 2.794000000000324,
+      "dialogue_text": "plus fiers que les autres pilotes."
+    },
+    {
+      "subtitle_index": 618,
+      "start_time": 3548.906,
+      "end_time": 3550.532,
+      "duration": 1.6260000000002037,
+      "dialogue_text": "C'est vrai !"
+    },
+    {
+      "subtitle_index": 619,
+      "start_time": 3550.741,
+      "end_time": 3554.328,
+      "duration": 3.586999999999989,
+      "dialogue_text": "L'évidence même ! Notre portrait tout craché !"
+    },
+    {
+      "subtitle_index": 620,
+      "start_time": 3554.87,
+      "end_time": 3558.916,
+      "duration": 4.0460000000002765,
+      "dialogue_text": "Le plus précieux pour eux, ce n'est ni l'argent ni les femmes."
+    },
+    {
+      "subtitle_index": 621,
+      "start_time": 3559.0,
+      "end_time": 3560.042,
+      "duration": 1.0419999999999163,
+      "dialogue_text": "C'est l'honneur."
+    },
+    {
+      "subtitle_index": 622,
+      "start_time": 3560.167,
+      "end_time": 3561.544,
+      "duration": 1.3769999999999527,
+      "dialogue_text": "Tout juste !"
+    },
+    {
+      "subtitle_index": 623,
+      "start_time": 3561.669,
+      "end_time": 3562.795,
+      "duration": 1.1260000000002037,
+      "dialogue_text": "Exact, frangine !"
+    },
+    {
+      "subtitle_index": 624,
+      "start_time": 3563.087,
+      "end_time": 3565.173,
+      "duration": 2.0859999999997854,
+      "dialogue_text": "Vive les hydraviateurs !"
+    },
+    {
+      "subtitle_index": 625,
+      "start_time": 3566.424,
+      "end_time": 3568.843,
+      "duration": 2.418999999999869,
+      "dialogue_text": "Elle est incroyable, cette gamine !"
+    },
+    {
+      "subtitle_index": 626,
+      "start_time": 3568.927,
+      "end_time": 3570.72,
+      "duration": 1.7929999999996653,
+      "dialogue_text": "Je t'ai comprise."
+    },
+    {
+      "subtitle_index": 627,
+      "start_time": 3570.845,
+      "end_time": 3574.057,
+      "duration": 3.211999999999989,
+      "dialogue_text": "On ne cassera pas ton oeuvre à la hache."
+    },
+    {
+      "subtitle_index": 628,
+      "start_time": 3574.182,
+      "end_time": 3577.936,
+      "duration": 3.75400000000036,
+      "dialogue_text": "Mais notre honneur de pirates du ciel est en jeu !"
+    },
+    {
+      "subtitle_index": 629,
+      "start_time": 3578.353,
+      "end_time": 3580.23,
+      "duration": 1.8769999999999527,
+      "dialogue_text": "On va hacher menu le cochon !"
+    },
+    {
+      "subtitle_index": 630,
+      "start_time": 3580.355,
+      "end_time": 3583.442,
+      "duration": 3.086999999999989,
+      "dialogue_text": "Ouais ! De la chair à saucisse !"
+    },
+    {
+      "subtitle_index": 631,
+      "start_time": 3584.026,
+      "end_time": 3585.736,
+      "duration": 1.7100000000000364,
+      "dialogue_text": "Encore des idioties !"
+    },
+    {
+      "subtitle_index": 632,
+      "start_time": 3586.362,
+      "end_time": 3590.116,
+      "duration": 3.7539999999999054,
+      "dialogue_text": "Vous n'avez rien compris ! Vous n'avez donc pas honte ?"
+    },
+    {
+      "subtitle_index": 633,
+      "start_time": 3590.491,
+      "end_time": 3594.412,
+      "duration": 3.9209999999998217,
+      "dialogue_text": "Engager un Américain ! Si vos mères savaient ça..."
+    },
+    {
+      "subtitle_index": 634,
+      "start_time": 3594.495,
+      "end_time": 3597.415,
+      "duration": 2.9200000000000728,
+      "dialogue_text": "Et vous vous lavez jamais !"
+    },
+    {
+      "subtitle_index": 635,
+      "start_time": 3597.79,
+      "end_time": 3601.961,
+      "duration": 4.170999999999822,
+      "dialogue_text": "Porco est là pour affronter Curtis en duel,"
+    },
+    {
+      "subtitle_index": 636,
+      "start_time": 3602.212,
+      "end_time": 3605.924,
+      "duration": 3.711999999999989,
+      "dialogue_text": "et venger l'honneur des pilotes de l'Adriatique."
+    },
+    {
+      "subtitle_index": 637,
+      "start_time": 3606.091,
+      "end_time": 3609.928,
+      "duration": 3.836999999999989,
+      "dialogue_text": "Vous n'avez pas d'amour-propre ? Battez-vous loyalement !"
+    },
+    {
+      "subtitle_index": 638,
+      "start_time": 3611.638,
+      "end_time": 3614.6,
+      "duration": 2.961999999999989,
+      "dialogue_text": "Moi, je voulais pas qu'on embauche Curtis."
+    },
+    {
+      "subtitle_index": 639,
+      "start_time": 3614.725,
+      "end_time": 3617.644,
+      "duration": 2.918999999999869,
+      "dialogue_text": "Péteux ! Toujours prêt à te défiler !"
+    },
+    {
+      "subtitle_index": 640,
+      "start_time": 3617.853,
+      "end_time": 3619.146,
+      "duration": 1.29300000000012,
+      "dialogue_text": "Boss, qu'est-ce qu'on fait ?"
+    },
+    {
+      "subtitle_index": 641,
+      "start_time": 3619.313,
+      "end_time": 3621.148,
+      "duration": 1.8350000000000364,
+      "dialogue_text": "Elle est convaincante !"
+    },
+    {
+      "subtitle_index": 642,
+      "start_time": 3621.357,
+      "end_time": 3623.901,
+      "duration": 2.543999999999869,
+      "dialogue_text": "On pourrait doublement sauver la face."
+    },
+    {
+      "subtitle_index": 643,
+      "start_time": 3623.984,
+      "end_time": 3625.987,
+      "duration": 2.0030000000001564,
+      "dialogue_text": "Faut consulter Curtis."
+    },
+    {
+      "subtitle_index": 644,
+      "start_time": 3626.195,
+      "end_time": 3628.99,
+      "duration": 2.794999999999618,
+      "dialogue_text": "Un nouveau duel avec le cochon ?"
+    },
+    {
+      "subtitle_index": 645,
+      "start_time": 3629.115,
+      "end_time": 3631.534,
+      "duration": 2.419000000000324,
+      "dialogue_text": "Notre contrat est terminé."
+    },
+    {
+      "subtitle_index": 646,
+      "start_time": 3631.743,
+      "end_time": 3633.661,
+      "duration": 1.91800000000012,
+      "dialogue_text": "Oh, la honte !"
+    },
+    {
+      "subtitle_index": 647,
+      "start_time": 3637.665,
+      "end_time": 3639.167,
+      "duration": 1.5019999999999527,
+      "dialogue_text": "Curtis était là !"
+    },
+    {
+      "subtitle_index": 648,
+      "start_time": 3642.546,
+      "end_time": 3646.758,
+      "duration": 4.211999999999989,
+      "dialogue_text": "J'ai tout entendu. Je ne me défile pas."
+    },
+    {
+      "subtitle_index": 649,
+      "start_time": 3648.26,
+      "end_time": 3651.805,
+      "duration": 3.544999999999618,
+      "dialogue_text": "Ils ont même creusé un passage dans le roc !"
+    },
+    {
+      "subtitle_index": 650,
+      "start_time": 3663.067,
+      "end_time": 3665.028,
+      "duration": 1.9609999999997854,
+      "dialogue_text": "Tiens-moi ça."
+    },
+    {
+      "subtitle_index": 651,
+      "start_time": 3669.115,
+      "end_time": 3671.618,
+      "duration": 2.5030000000001564,
+      "dialogue_text": "En somme, tu veux ta revanche."
+    },
+    {
+      "subtitle_index": 652,
+      "start_time": 3671.868,
+      "end_time": 3674.329,
+      "duration": 2.46100000000024,
+      "dialogue_text": "Mais le duel a déjà eu lieu."
+    },
+    {
+      "subtitle_index": 653,
+      "start_time": 3674.704,
+      "end_time": 3677.666,
+      "duration": 2.961999999999989,
+      "dialogue_text": "Et je ne suis plus leur mercenaire."
+    },
+    {
+      "subtitle_index": 654,
+      "start_time": 3677.999,
+      "end_time": 3680.377,
+      "duration": 2.3780000000001564,
+      "dialogue_text": "Tu veux quoi ! Tes conditions ?"
+    },
+    {
+      "subtitle_index": 655,
+      "start_time": 3691.013,
+      "end_time": 3692.64,
+      "duration": 1.6269999999999527,
+      "dialogue_text": "Que tu es jolie !"
+    },
+    {
+      "subtitle_index": 656,
+      "start_time": 3693.933,
+      "end_time": 3695.893,
+      "duration": 1.9600000000000364,
+      "dialogue_text": "Si je gagne, tu m'épouseras ?"
+    },
+    {
+      "subtitle_index": 657,
+      "start_time": 3699.814,
+      "end_time": 3701.107,
+      "duration": 1.29300000000012,
+      "dialogue_text": "Je suis sérieux."
+    },
+    {
+      "subtitle_index": 658,
+      "start_time": 3701.232,
+      "end_time": 3706.029,
+      "duration": 4.7970000000000255,
+      "dialogue_text": "D'accord. Mais si Porco gagne, tu paies sa facture."
+    },
+    {
+      "subtitle_index": 659,
+      "start_time": 3706.488,
+      "end_time": 3707.614,
+      "duration": 1.1260000000002037,
+      "dialogue_text": "Attends, Fio !"
+    },
+    {
+      "subtitle_index": 660,
+      "start_time": 3708.114,
+      "end_time": 3710.158,
+      "duration": 2.043999999999869,
+      "dialogue_text": "Tire-toi de là !"
+    },
+    {
+      "subtitle_index": 661,
+      "start_time": 3713.829,
+      "end_time": 3716.498,
+      "duration": 2.668999999999869,
+      "dialogue_text": "Mlle Fio, vous pouvez encore refuser..."
+    },
+    {
+      "subtitle_index": 662,
+      "start_time": 3716.665,
+      "end_time": 3718.125,
+      "duration": 1.4600000000000364,
+      "dialogue_text": "Demandez-lui sa réponse."
+    },
+    {
+      "subtitle_index": 663,
+      "start_time": 3718.333,
+      "end_time": 3720.169,
+      "duration": 1.8359999999997854,
+      "dialogue_text": "Plutôt salée, cette facture !"
+    },
+    {
+      "subtitle_index": 664,
+      "start_time": 3720.336,
+      "end_time": 3721.67,
+      "duration": 1.3340000000002874,
+      "dialogue_text": "Un prix d'ami !"
+    },
+    {
+      "subtitle_index": 665,
+      "start_time": 3721.754,
+      "end_time": 3723.798,
+      "duration": 2.043999999999869,
+      "dialogue_text": "C'est oui ou c'est non ?"
+    },
+    {
+      "subtitle_index": 666,
+      "start_time": 3724.131,
+      "end_time": 3726.759,
+      "duration": 2.6280000000001564,
+      "dialogue_text": "J'accepte avec joie... pour mon amour !"
+    },
+    {
+      "subtitle_index": 667,
+      "start_time": 3726.884,
+      "end_time": 3728.094,
+      "duration": 1.2100000000000364,
+      "dialogue_text": "Parfait !"
+    },
+    {
+      "subtitle_index": 668,
+      "start_time": 3728.97,
+      "end_time": 3733.266,
+      "duration": 4.2960000000002765,
+      "dialogue_text": "Ecoutez tous ! Elle a du cran, Mlle Fio !"
+    },
+    {
+      "subtitle_index": 669,
+      "start_time": 3733.391,
+      "end_time": 3737.103,
+      "duration": 3.711999999999989,
+      "dialogue_text": "Nous, les Ayuto, allons organiser le combat !"
+    },
+    {
+      "subtitle_index": 670,
+      "start_time": 3738.104,
+      "end_time": 3740.857,
+      "duration": 2.7530000000001564,
+      "dialogue_text": "La Coalition aussi sera partie prenante."
+    },
+    {
+      "subtitle_index": 671,
+      "start_time": 3744.861,
+      "end_time": 3748.323,
+      "duration": 3.461999999999989,
+      "dialogue_text": "Mlle Fio, on vous attend !"
+    },
+    {
+      "subtitle_index": 672,
+      "start_time": 3750.367,
+      "end_time": 3751.326,
+      "duration": 0.9589999999998327,
+      "dialogue_text": "Salopards !"
+    },
+    {
+      "subtitle_index": 673,
+      "start_time": 3751.577,
+      "end_time": 3754.288,
+      "duration": 2.7109999999997854,
+      "dialogue_text": "Sale cochon, n'en profite pas pour filer."
+    },
+    {
+      "subtitle_index": 674,
+      "start_time": 3754.663,
+      "end_time": 3758.292,
+      "duration": 3.6289999999999054,
+      "dialogue_text": "Vos gueules ! Fichez-moi le camp !"
+    },
+    {
+      "subtitle_index": 675,
+      "start_time": 3758.834,
+      "end_time": 3760.461,
+      "duration": 1.6269999999999527,
+      "dialogue_text": "A bientôt !"
+    },
+    {
+      "subtitle_index": 676,
+      "start_time": 3763.84,
+      "end_time": 3767.01,
+      "duration": 3.1700000000000728,
+      "dialogue_text": "On est dans de beaux draps !"
+    },
+    {
+      "subtitle_index": 677,
+      "start_time": 3767.135,
+      "end_time": 3768.469,
+      "duration": 1.3339999999998327,
+      "dialogue_text": "De quel droit tu..."
+    },
+    {
+      "subtitle_index": 678,
+      "start_time": 3768.845,
+      "end_time": 3770.43,
+      "duration": 1.5850000000000364,
+      "dialogue_text": "Ne te fche pas !"
+    },
+    {
+      "subtitle_index": 679,
+      "start_time": 3771.222,
+      "end_time": 3773.433,
+      "duration": 2.2109999999997854,
+      "dialogue_text": "Je sais que j'ai été idiote."
+    },
+    {
+      "subtitle_index": 680,
+      "start_time": 3781.233,
+      "end_time": 3784.528,
+      "duration": 3.294999999999618,
+      "dialogue_text": "Non, je dois te remercier..."
+    },
+    {
+      "subtitle_index": 681,
+      "start_time": 3784.987,
+      "end_time": 3786.739,
+      "duration": 1.7519999999999527,
+      "dialogue_text": "Sans toi, j'étais cuit."
+    },
+    {
+      "subtitle_index": 682,
+      "start_time": 3787.281,
+      "end_time": 3791.202,
+      "duration": 3.9210000000002765,
+      "dialogue_text": "Nous formons désormais une communauté de destins."
+    },
+    {
+      "subtitle_index": 683,
+      "start_time": 3791.702,
+      "end_time": 3793.913,
+      "duration": 2.2109999999997854,
+      "dialogue_text": "On est partenaires, quoi !"
+    },
+    {
+      "subtitle_index": 684,
+      "start_time": 3795.373,
+      "end_time": 3797.875,
+      "duration": 2.5019999999999527,
+      "dialogue_text": "C'est pas joué, tu sais."
+    },
+    {
+      "subtitle_index": 685,
+      "start_time": 3798.459,
+      "end_time": 3800.753,
+      "duration": 2.294000000000324,
+      "dialogue_text": "J'ai confiance en toi."
+    },
+    {
+      "subtitle_index": 686,
+      "start_time": 3801.838,
+      "end_time": 3803.256,
+      "duration": 1.4179999999996653,
+      "dialogue_text": "Confiance..."
+    },
+    {
+      "subtitle_index": 687,
+      "start_time": 3803.423,
+      "end_time": 3807.427,
+      "duration": 4.00400000000036,
+      "dialogue_text": "je hais ce mot, mais dans ta bouche, c'est différent."
+    },
+    {
+      "subtitle_index": 688,
+      "start_time": 3812.891,
+      "end_time": 3815.894,
+      "duration": 3.0029999999997017,
+      "dialogue_text": "Qu'as-tu ? Ca ne va pas ?"
+    },
+    {
+      "subtitle_index": 689,
+      "start_time": 3817.354,
+      "end_time": 3818.731,
+      "duration": 1.3770000000004075,
+      "dialogue_text": "Ca va aller."
+    },
+    {
+      "subtitle_index": 690,
+      "start_time": 3819.231,
+      "end_time": 3822.985,
+      "duration": 3.7539999999999054,
+      "dialogue_text": "Mon coeur s'est mis à battre si fort que j'ai eu mal."
+    },
+    {
+      "subtitle_index": 691,
+      "start_time": 3823.194,
+      "end_time": 3825.363,
+      "duration": 2.168999999999869,
+      "dialogue_text": "En fait, j'ai eu très peur."
+    },
+    {
+      "subtitle_index": 692,
+      "start_time": 3825.738,
+      "end_time": 3828.366,
+      "duration": 2.6280000000001564,
+      "dialogue_text": "Mes genoux jouent des castagnettes."
+    },
+    {
+      "subtitle_index": 693,
+      "start_time": 3833.663,
+      "end_time": 3835.248,
+      "duration": 1.5850000000000364,
+      "dialogue_text": "Je vais nager."
+    },
+    {
+      "subtitle_index": 694,
+      "start_time": 3854.31,
+      "end_time": 3856.353,
+      "duration": 2.04300000000012,
+      "dialogue_text": "Porco, j'ai fait une grosse bêtise."
+    },
+    {
+      "subtitle_index": 695,
+      "start_time": 3856.52,
+      "end_time": 3857.646,
+      "duration": 1.1260000000002037,
+      "dialogue_text": "Quoi donc ?"
+    },
+    {
+      "subtitle_index": 696,
+      "start_time": 3858.397,
+      "end_time": 3861.901,
+      "duration": 3.5039999999999054,
+      "dialogue_text": "J'aurais dû gonfler la facture !"
+    },
+    {
+      "subtitle_index": 697,
+      "start_time": 3862.276,
+      "end_time": 3864.403,
+      "duration": 2.1269999999999527,
+      "dialogue_text": "J'ai fait une mauvaise affaire !"
+    },
+    {
+      "subtitle_index": 698,
+      "start_time": 3867.699,
+      "end_time": 3869.701,
+      "duration": 2.0019999999999527,
+      "dialogue_text": "Ca, c'est sûr !"
+    },
+    {
+      "subtitle_index": 699,
+      "start_time": 3926.218,
+      "end_time": 3927.386,
+      "duration": 1.16800000000012,
+      "dialogue_text": "Tu ne dors pas ?"
+    },
+    {
+      "subtitle_index": 700,
+      "start_time": 3928.721,
+      "end_time": 3930.598,
+      "duration": 1.8769999999999527,
+      "dialogue_text": "A l'instant, là..."
+    },
+    {
+      "subtitle_index": 701,
+      "start_time": 3931.766,
+      "end_time": 3933.434,
+      "duration": 1.66800000000012,
+      "dialogue_text": "j'ai dû rêver."
+    },
+    {
+      "subtitle_index": 702,
+      "start_time": 3934.519,
+      "end_time": 3938.022,
+      "duration": 3.5030000000001564,
+      "dialogue_text": "Dors tranquillement. Demain, on se lève tôt."
+    },
+    {
+      "subtitle_index": 703,
+      "start_time": 3940.65,
+      "end_time": 3943.278,
+      "duration": 2.6279999999997017,
+      "dialogue_text": "Pourquoi es-tu devenu un cochon ?"
+    },
+    {
+      "subtitle_index": 704,
+      "start_time": 3943.403,
+      "end_time": 3945.405,
+      "duration": 2.0020000000004075,
+      "dialogue_text": "Bah..."
+    },
+    {
+      "subtitle_index": 705,
+      "start_time": 3946.323,
+      "end_time": 3949.743,
+      "duration": 3.4200000000000728,
+      "dialogue_text": "Je connais bien le Capitaine Marco Pagotto."
+    },
+    {
+      "subtitle_index": 706,
+      "start_time": 3949.868,
+      "end_time": 3951.912,
+      "duration": 2.043999999999869,
+      "dialogue_text": "Mon père était dans son escadrille."
+    },
+    {
+      "subtitle_index": 707,
+      "start_time": 3952.413,
+      "end_time": 3956.917,
+      "duration": 4.503999999999905,
+      "dialogue_text": "J'aime l'histoire où il a secouru un pilote ennemi"
+    },
+    {
+      "subtitle_index": 708,
+      "start_time": 3957.001,
+      "end_time": 3959.503,
+      "duration": 2.5019999999999527,
+      "dialogue_text": "par une mer déchaînée."
+    },
+    {
+      "subtitle_index": 709,
+      "start_time": 3964.091,
+      "end_time": 3966.219,
+      "duration": 2.1280000000001564,
+      "dialogue_text": "Porco ! Et si je t'embrassais ?"
+    },
+    {
+      "subtitle_index": 710,
+      "start_time": 3967.971,
+      "end_time": 3971.057,
+      "duration": 3.0859999999997854,
+      "dialogue_text": "Tu connais l'histoire du prince-grenouille"
+    },
+    {
+      "subtitle_index": 711,
+      "start_time": 3971.182,
+      "end_time": 3973.226,
+      "duration": 2.044000000000324,
+      "dialogue_text": "sauvé par le baiser de la princesse ?"
+    },
+    {
+      "subtitle_index": 712,
+      "start_time": 3973.518,
+      "end_time": 3978.064,
+      "duration": 4.545999999999822,
+      "dialogue_text": "Bécasse ! Garde ça pour le Grand Jour !"
+    },
+    {
+      "subtitle_index": 713,
+      "start_time": 3979.358,
+      "end_time": 3981.318,
+      "duration": 1.9600000000000364,
+      "dialogue_text": "Je ne te plais pas ?"
+    },
+    {
+      "subtitle_index": 714,
+      "start_time": 3983.737,
+      "end_time": 3987.199,
+      "duration": 3.461999999999989,
+      "dialogue_text": "Tu es une brave petite ! Quand je te vois,"
+    },
+    {
+      "subtitle_index": 715,
+      "start_time": 3987.282,
+      "end_time": 3990.494,
+      "duration": 3.211999999999989,
+      "dialogue_text": "je me dis que tout n'est pas foutu."
+    },
+    {
+      "subtitle_index": 716,
+      "start_time": 3990.911,
+      "end_time": 3992.872,
+      "duration": 1.9609999999997854,
+      "dialogue_text": "Allez, sois sage et dors."
+    },
+    {
+      "subtitle_index": 717,
+      "start_time": 3992.997,
+      "end_time": 3995.791,
+      "duration": 2.794000000000324,
+      "dialogue_text": "Raconte-moi une histoire..."
+    },
+    {
+      "subtitle_index": 718,
+      "start_time": 3997.084,
+      "end_time": 3998.878,
+      "duration": 1.7940000000003238,
+      "dialogue_text": "Une histoire."
+    },
+    {
+      "subtitle_index": 719,
+      "start_time": 4010.765,
+      "end_time": 4013.935,
+      "duration": 3.1700000000000728,
+      "dialogue_text": "C'était le dernier été de la guerre."
+    },
+    {
+      "subtitle_index": 720,
+      "start_time": 4014.686,
+      "end_time": 4017.314,
+      "duration": 2.6279999999997017,
+      "dialogue_text": "Nous patrouillions comme d'habitude"
+    },
+    {
+      "subtitle_index": 721,
+      "start_time": 4017.439,
+      "end_time": 4021.11,
+      "duration": 3.6710000000002765,
+      "dialogue_text": "au-dessus de l'Adriatique, vers Istria."
+    },
+    {
+      "subtitle_index": 722,
+      "start_time": 4026.198,
+      "end_time": 4029.368,
+      "duration": 3.1700000000000728,
+      "dialogue_text": "Un copain, Berlini, volait à mon côté."
+    },
+    {
+      "subtitle_index": 723,
+      "start_time": 4029.535,
+      "end_time": 4031.162,
+      "duration": 1.6269999999999527,
+      "dialogue_text": "On se connaissait bien."
+    },
+    {
+      "subtitle_index": 724,
+      "start_time": 4031.245,
+      "end_time": 4034.04,
+      "duration": 2.7950000000000728,
+      "dialogue_text": "Il s'était marié 2 jours plus tôt."
+    },
+    {
+      "subtitle_index": 725,
+      "start_time": 4034.999,
+      "end_time": 4038.294,
+      "duration": 3.2950000000000728,
+      "dialogue_text": "J'avais été son témoin."
+    },
+    {
+      "subtitle_index": 726,
+      "start_time": 4038.628,
+      "end_time": 4040.088,
+      "duration": 1.4600000000000364,
+      "dialogue_text": "Impossible de prendre une perm',"
+    },
+    {
+      "subtitle_index": 727,
+      "start_time": 4040.255,
+      "end_time": 4043.133,
+      "duration": 2.8779999999997017,
+      "dialogue_text": "il était aussitôt revenu sur le front."
+    },
+    {
+      "subtitle_index": 728,
+      "start_time": 4063.279,
+      "end_time": 4067.033,
+      "duration": 3.7539999999999054,
+      "dialogue_text": "Autour de nous, c'était l'hécatombe."
+    },
+    {
+      "subtitle_index": 729,
+      "start_time": 4067.116,
+      "end_time": 4069.827,
+      "duration": 2.71100000000024,
+      "dialogue_text": "J'étais poursuivi par 3 vieux briscards."
+    },
+    {
+      "subtitle_index": 730,
+      "start_time": 4070.453,
+      "end_time": 4073.039,
+      "duration": 2.58600000000024,
+      "dialogue_text": "Pas le temps de m'occuper des copains."
+    },
+    {
+      "subtitle_index": 731,
+      "start_time": 4073.164,
+      "end_time": 4076.084,
+      "duration": 2.919999999999618,
+      "dialogue_text": "Bientôt, je fus le seul de notre camp."
+    },
+    {
+      "subtitle_index": 732,
+      "start_time": 4076.251,
+      "end_time": 4078.67,
+      "duration": 2.418999999999869,
+      "dialogue_text": "Mais ils ne me lchaient pas."
+    },
+    {
+      "subtitle_index": 733,
+      "start_time": 4078.837,
+      "end_time": 4081.256,
+      "duration": 2.418999999999869,
+      "dialogue_text": "Je tentais désespérément de fuir."
+    },
+    {
+      "subtitle_index": 734,
+      "start_time": 4081.465,
+      "end_time": 4083.217,
+      "duration": 1.7519999999999527,
+      "dialogue_text": "J'étais tout engourdi,"
+    },
+    {
+      "subtitle_index": 735,
+      "start_time": 4083.342,
+      "end_time": 4086.929,
+      "duration": 3.586999999999989,
+      "dialogue_text": "je n'y voyais plus, je me suis cru foutu."
+    },
+    {
+      "subtitle_index": 736,
+      "start_time": 4087.012,
+      "end_time": 4088.222,
+      "duration": 1.2100000000000364,
+      "dialogue_text": "C'est alors que..."
+    },
+    {
+      "subtitle_index": 737,
+      "start_time": 4088.639,
+      "end_time": 4091.475,
+      "duration": 2.8359999999997854,
+      "dialogue_text": "tout à coup, tout est devenu blanc."
+    },
+    {
+      "subtitle_index": 738,
+      "start_time": 4091.6,
+      "end_time": 4093.227,
+      "duration": 1.6269999999999527,
+      "dialogue_text": "Tout blanc ?"
+    },
+    {
+      "subtitle_index": 739,
+      "start_time": 4093.644,
+      "end_time": 4095.605,
+      "duration": 1.96100000000024,
+      "dialogue_text": "Comme si j'étais en pleine lumière."
+    },
+    {
+      "subtitle_index": 740,
+      "start_time": 4097.231,
+      "end_time": 4098.399,
+      "duration": 1.1680000000005748,
+      "dialogue_text": "Une clarté étrange..."
+    },
+    {
+      "subtitle_index": 741,
+      "start_time": 4098.608,
+      "end_time": 4101.861,
+      "duration": 3.2529999999997017,
+      "dialogue_text": "j'ai fini par réaliser que j'étais dans un nuage."
+    },
+    {
+      "subtitle_index": 742,
+      "start_time": 4102.779,
+      "end_time": 4107.075,
+      "duration": 4.295999999999367,
+      "dialogue_text": "J'étais épuisé, je n'avais plus la force de piloter."
+    },
+    {
+      "subtitle_index": 743,
+      "start_time": 4107.242,
+      "end_time": 4110.579,
+      "duration": 3.3369999999995343,
+      "dialogue_text": "Malgré ça, l'avion continuait à voler."
+    },
+    {
+      "subtitle_index": 744,
+      "start_time": 4136.731,
+      "end_time": 4138.483,
+      "duration": 1.7520000000004075,
+      "dialogue_text": "La fameuse mer de nuages..."
+    },
+    {
+      "subtitle_index": 745,
+      "start_time": 4140.402,
+      "end_time": 4142.07,
+      "duration": 1.6679999999996653,
+      "dialogue_text": "Désespérément silencieuse."
+    },
+    {
+      "subtitle_index": 746,
+      "start_time": 4142.195,
+      "end_time": 4144.656,
+      "duration": 2.46100000000024,
+      "dialogue_text": "Le ciel était splendide."
+    },
+    {
+      "subtitle_index": 747,
+      "start_time": 4145.031,
+      "end_time": 4148.41,
+      "duration": 3.3789999999999054,
+      "dialogue_text": "Très haut, il y avait un nuage bizarre"
+    },
+    {
+      "subtitle_index": 748,
+      "start_time": 4148.493,
+      "end_time": 4150.662,
+      "duration": 2.168999999999869,
+      "dialogue_text": "comme un ruban."
+    },
+    {
+      "subtitle_index": 749,
+      "start_time": 4177.524,
+      "end_time": 4179.901,
+      "duration": 2.376999999999498,
+      "dialogue_text": "Berlini ! Tu es sain et sauf ?"
+    },
+    {
+      "subtitle_index": 750,
+      "start_time": 4183.488,
+      "end_time": 4186.45,
+      "duration": 2.9619999999995343,
+      "dialogue_text": "Berlini, attends ! Où vas-tu ?"
+    },
+    {
+      "subtitle_index": 751,
+      "start_time": 4198.88,
+      "end_time": 4202.55,
+      "duration": 3.6700000000000728,
+      "dialogue_text": "Berlini, ne pars pas ! Pense à Gina !"
+    },
+    {
+      "subtitle_index": 752,
+      "start_time": 4202.675,
+      "end_time": 4204.844,
+      "duration": 2.168999999999869,
+      "dialogue_text": "Je pars à ta place !"
+    },
+    {
+      "subtitle_index": 753,
+      "start_time": 4244.594,
+      "end_time": 4246.096,
+      "duration": 1.501999999999498,
+      "dialogue_text": "Quand j'ai repris connaissance,"
+    },
+    {
+      "subtitle_index": 754,
+      "start_time": 4246.263,
+      "end_time": 4249.725,
+      "duration": 3.462000000000444,
+      "dialogue_text": "j'étais seul à voler au ras de l'eau."
+    },
+    {
+      "subtitle_index": 755,
+      "start_time": 4252.978,
+      "end_time": 4256.106,
+      "duration": 3.1279999999997017,
+      "dialogue_text": "Dieu avait dit que ce n'était pas ton heure."
+    },
+    {
+      "subtitle_index": 756,
+      "start_time": 4257.858,
+      "end_time": 4262.488,
+      "duration": 4.630000000000109,
+      "dialogue_text": "Comme s'il me disait de voler tout seul à jamais."
+    },
+    {
+      "subtitle_index": 757,
+      "start_time": 4262.78,
+      "end_time": 4265.324,
+      "duration": 2.543999999999869,
+      "dialogue_text": "Sûrement pas ! Tu es un chic type !"
+    },
+    {
+      "subtitle_index": 758,
+      "start_time": 4265.867,
+      "end_time": 4268.286,
+      "duration": 2.418999999999869,
+      "dialogue_text": "Les meilleurs sont morts."
+    },
+    {
+      "subtitle_index": 759,
+      "start_time": 4268.411,
+      "end_time": 4271.331,
+      "duration": 2.9200000000000728,
+      "dialogue_text": "Là-haut, c'était peut-être l'enfer."
+    },
+    {
+      "subtitle_index": 760,
+      "start_time": 4271.623,
+      "end_time": 4275.001,
+      "duration": 3.378000000000611,
+      "dialogue_text": "Bon, l'histoire est finie. Dors maintenant."
+    },
+    {
+      "subtitle_index": 761,
+      "start_time": 4277.003,
+      "end_time": 4280.424,
+      "duration": 3.4210000000002765,
+      "dialogue_text": "Salaud d'armurier. Des balles rouillées."
+    },
+    {
+      "subtitle_index": 762,
+      "start_time": 4281.967,
+      "end_time": 4284.887,
+      "duration": 2.9200000000000728,
+      "dialogue_text": "Je suis contente que tu sois vivant."
+    },
+    {
+      "subtitle_index": 763,
+      "start_time": 4284.97,
+      "end_time": 4287.097,
+      "duration": 2.126999999999498,
+      "dialogue_text": "Je t'aime beaucoup !"
+    },
+    {
+      "subtitle_index": 764,
+      "start_time": 4288.599,
+      "end_time": 4290.017,
+      "duration": 1.4179999999996653,
+      "dialogue_text": "Bonne nuit !"
+    },
+    {
+      "subtitle_index": 765,
+      "start_time": 4331.686,
+      "end_time": 4334.605,
+      "duration": 2.918999999999869,
+      "dialogue_text": "Ces abrutis en ont fait une kermesse."
+    },
+    {
+      "subtitle_index": 766,
+      "start_time": 4334.689,
+      "end_time": 4336.691,
+      "duration": 2.001999999999498,
+      "dialogue_text": "Ce sont tous des pirates du ciel ?"
+    },
+    {
+      "subtitle_index": 767,
+      "start_time": 4336.816,
+      "end_time": 4338.777,
+      "duration": 1.96100000000024,
+      "dialogue_text": "La fange de la Méditerranée..."
+    },
+    {
+      "subtitle_index": 768,
+      "start_time": 4338.902,
+      "end_time": 4341.488,
+      "duration": 2.58600000000024,
+      "dialogue_text": "Gangsters, contrebandiers,"
+    },
+    {
+      "subtitle_index": 769,
+      "start_time": 4341.738,
+      "end_time": 4345.075,
+      "duration": 3.3369999999995343,
+      "dialogue_text": "espions, flics en civil et quelques braves gens..."
+    },
+    {
+      "subtitle_index": 770,
+      "start_time": 4346.41,
+      "end_time": 4349.371,
+      "duration": 2.96100000000024,
+      "dialogue_text": "Avec ça, ma renommée est assurée !"
+    },
+    {
+      "subtitle_index": 771,
+      "start_time": 4349.83,
+      "end_time": 4353.167,
+      "duration": 3.337000000000444,
+      "dialogue_text": "Départ dans 10 min !"
+    },
+    {
+      "subtitle_index": 772,
+      "start_time": 4353.751,
+      "end_time": 4359.173,
+      "duration": 5.421999999999571,
+      "dialogue_text": "Le duel entre Porco Rosso et Donald Curtis va commencer."
+    },
+    {
+      "subtitle_index": 773,
+      "start_time": 4359.632,
+      "end_time": 4361.092,
+      "duration": 1.4600000000000364,
+      "dialogue_text": "Aucune règle particulière."
+    },
+    {
+      "subtitle_index": 774,
+      "start_time": 4361.217,
+      "end_time": 4365.638,
+      "duration": 4.4210000000002765,
+      "dialogue_text": "Mais celui qui trichera sera l'objet d'un éternel mépris."
+    },
+    {
+      "subtitle_index": 775,
+      "start_time": 4365.805,
+      "end_time": 4368.683,
+      "duration": 2.8779999999997017,
+      "dialogue_text": "Assez de bla-bla, commençons ! Ote ta sale bobine !"
+    },
+    {
+      "subtitle_index": 776,
+      "start_time": 4373.021,
+      "end_time": 4374.689,
+      "duration": 1.6680000000005748,
+      "dialogue_text": "Silence !"
+    },
+    {
+      "subtitle_index": 777,
+      "start_time": 4374.814,
+      "end_time": 4377.275,
+      "duration": 2.4609999999993306,
+      "dialogue_text": "Les rleurs, je les écrabouille !"
+    },
+    {
+      "subtitle_index": 778,
+      "start_time": 4386.076,
+      "end_time": 4388.579,
+      "duration": 2.5029999999997017,
+      "dialogue_text": "Faudrait balancer une bombe de 10 tonnes."
+    },
+    {
+      "subtitle_index": 779,
+      "start_time": 4388.829,
+      "end_time": 4393.417,
+      "duration": 4.588000000000648,
+      "dialogue_text": "Ce duel va décider du sort de notre vénérée Mlle Fio Piccolo."
+    },
+    {
+      "subtitle_index": 780,
+      "start_time": 4393.584,
+      "end_time": 4395.544,
+      "duration": 1.9600000000000364,
+      "dialogue_text": "Je ne tolérerai aucun murmure."
+    },
+    {
+      "subtitle_index": 781,
+      "start_time": 4395.962,
+      "end_time": 4400.633,
+      "duration": 4.670999999999367,
+      "dialogue_text": "Compris ? Alors, applaudissez ! Allez !"
+    },
+    {
+      "subtitle_index": 782,
+      "start_time": 4402.302,
+      "end_time": 4404.012,
+      "duration": 1.7100000000000364,
+      "dialogue_text": "Et si on commençait !?"
+    },
+    {
+      "subtitle_index": 783,
+      "start_time": 4404.178,
+      "end_time": 4407.39,
+      "duration": 3.212000000000444,
+      "dialogue_text": "Silence ! Faut respecter les formes !"
+    },
+    {
+      "subtitle_index": 784,
+      "start_time": 4407.807,
+      "end_time": 4410.852,
+      "duration": 3.0450000000000728,
+      "dialogue_text": "Présentez les enjeux."
+    },
+    {
+      "subtitle_index": 785,
+      "start_time": 4415.941,
+      "end_time": 4417.943,
+      "duration": 2.0020000000004075,
+      "dialogue_text": "- Je vous en prie. - Merci."
+    },
+    {
+      "subtitle_index": 786,
+      "start_time": 4418.569,
+      "end_time": 4420.529,
+      "duration": 1.9600000000000364,
+      "dialogue_text": "Pose ça, toi !"
+    },
+    {
+      "subtitle_index": 787,
+      "start_time": 4423.198,
+      "end_time": 4425.159,
+      "duration": 1.9609999999993306,
+      "dialogue_text": "Les 2 parties sont d'accord ?"
+    },
+    {
+      "subtitle_index": 788,
+      "start_time": 4425.367,
+      "end_time": 4427.62,
+      "duration": 2.2529999999997017,
+      "dialogue_text": "Dans ce cas, serrez-vous la main."
+    },
+    {
+      "subtitle_index": 789,
+      "start_time": 4427.703,
+      "end_time": 4431.04,
+      "duration": 3.3369999999995343,
+      "dialogue_text": "J'aurais peur de me salir !"
+    },
+    {
+      "subtitle_index": 790,
+      "start_time": 4433.709,
+      "end_time": 4435.67,
+      "duration": 1.96100000000024,
+      "dialogue_text": "Quelle tête de lard !"
+    },
+    {
+      "subtitle_index": 791,
+      "start_time": 4435.878,
+      "end_time": 4438.965,
+      "duration": 3.087000000000444,
+      "dialogue_text": "Fio, on va à l'église dès que c'est fini."
+    },
+    {
+      "subtitle_index": 792,
+      "start_time": 4439.507,
+      "end_time": 4440.717,
+      "duration": 1.2100000000000364,
+      "dialogue_text": "Ne t'en fais pas !"
+    },
+    {
+      "subtitle_index": 793,
+      "start_time": 4440.884,
+      "end_time": 4444.012,
+      "duration": 3.1279999999997017,
+      "dialogue_text": "Ma mère dit que l'amour vient avec l'habitude."
+    },
+    {
+      "subtitle_index": 794,
+      "start_time": 4449.226,
+      "end_time": 4452.271,
+      "duration": 3.0450000000000728,
+      "dialogue_text": "- Une photo ensemble, svp, - J'ai pris un bain !"
+    },
+    {
+      "subtitle_index": 795,
+      "start_time": 4452.396,
+      "end_time": 4454.314,
+      "duration": 1.9180000000005748,
+      "dialogue_text": "Tout le monde sourit !"
+    },
+    {
+      "subtitle_index": 796,
+      "start_time": 4454.69,
+      "end_time": 4456.025,
+      "duration": 1.3350000000000364,
+      "dialogue_text": "Souriez !"
+    },
+    {
+      "subtitle_index": 797,
+      "start_time": 4478.215,
+      "end_time": 4481.134,
+      "duration": 2.918999999999869,
+      "dialogue_text": "Si ça se règle en 3 min, le noir gagne !"
+    },
+    {
+      "subtitle_index": 798,
+      "start_time": 4481.343,
+      "end_time": 4484.596,
+      "duration": 3.2529999999997017,
+      "dialogue_text": "Super ! On devrait faire ça tous les mois !"
+    },
+    {
+      "subtitle_index": 799,
+      "start_time": 4487.766,
+      "end_time": 4490.144,
+      "duration": 2.378000000000611,
+      "dialogue_text": "Départ dans 15 sec. !"
+    },
+    {
+      "subtitle_index": 800,
+      "start_time": 4494.148,
+      "end_time": 4496.317,
+      "duration": 2.168999999999869,
+      "dialogue_text": "Quelle classe !"
+    },
+    {
+      "subtitle_index": 801,
+      "start_time": 4497.235,
+      "end_time": 4498.194,
+      "duration": 0.9590000000007421,
+      "dialogue_text": "5 secondes..."
+    },
+    {
+      "subtitle_index": 802,
+      "start_time": 4511.625,
+      "end_time": 4513.126,
+      "duration": 1.5010000000002037,
+      "dialogue_text": "Curtis a le dessus !"
+    },
+    {
+      "subtitle_index": 803,
+      "start_time": 4530.77,
+      "end_time": 4532.939,
+      "duration": 2.168999999999869,
+      "dialogue_text": "Ca m'a tout l'air d'être à sens unique !"
+    },
+    {
+      "subtitle_index": 804,
+      "start_time": 4533.106,
+      "end_time": 4534.19,
+      "duration": 1.0839999999998327,
+      "dialogue_text": "Prêtez-les-moi !"
+    },
+    {
+      "subtitle_index": 805,
+      "start_time": 4540.739,
+      "end_time": 4543.241,
+      "duration": 2.5020000000004075,
+      "dialogue_text": "Porco, que fais-tu ? Grimpe donc !"
+    },
+    {
+      "subtitle_index": 806,
+      "start_time": 4543.408,
+      "end_time": 4545.744,
+      "duration": 2.3359999999993306,
+      "dialogue_text": "Non ! II choperait toutes les balles !"
+    },
+    {
+      "subtitle_index": 807,
+      "start_time": 4545.952,
+      "end_time": 4548.205,
+      "duration": 2.2529999999997017,
+      "dialogue_text": "Au ras de l'eau, il est hors d'atteinte."
+    },
+    {
+      "subtitle_index": 808,
+      "start_time": 4554.795,
+      "end_time": 4557.548,
+      "duration": 2.7529999999997017,
+      "dialogue_text": "Ces balles perdues, ça te plaît, hein !?"
+    },
+    {
+      "subtitle_index": 809,
+      "start_time": 4573.565,
+      "end_time": 4576.192,
+      "duration": 2.6270000000004075,
+      "dialogue_text": "Un triple looping ! Le cochon est derrière !"
+    },
+    {
+      "subtitle_index": 810,
+      "start_time": 4576.318,
+      "end_time": 4577.277,
+      "duration": 0.9589999999998327,
+      "dialogue_text": "Triple !"
+    },
+    {
+      "subtitle_index": 811,
+      "start_time": 4577.777,
+      "end_time": 4580.989,
+      "duration": 3.2119999999995343,
+      "dialogue_text": "Avec ce coup, il devient l'as de l'Adriatique !"
+    },
+    {
+      "subtitle_index": 812,
+      "start_time": 4585.869,
+      "end_time": 4587.121,
+      "duration": 1.2520000000004075,
+      "dialogue_text": "Merde !"
+    },
+    {
+      "subtitle_index": 813,
+      "start_time": 4592.877,
+      "end_time": 4594.378,
+      "duration": 1.5009999999992942,
+      "dialogue_text": "Il va tirer !"
+    },
+    {
+      "subtitle_index": 814,
+      "start_time": 4598.758,
+      "end_time": 4599.55,
+      "duration": 0.7920000000003711,
+      "dialogue_text": "Il ne tire pas !"
+    },
+    {
+      "subtitle_index": 815,
+      "start_time": 4599.675,
+      "end_time": 4601.427,
+      "duration": 1.751999999999498,
+      "dialogue_text": "Sa mitrailleuse est enrayée ?"
+    },
+    {
+      "subtitle_index": 816,
+      "start_time": 4601.886,
+      "end_time": 4603.054,
+      "duration": 1.1679999999996653,
+      "dialogue_text": "Je vois..."
+    },
+    {
+      "subtitle_index": 817,
+      "start_time": 4603.346,
+      "end_time": 4605.849,
+      "duration": 2.503000000000611,
+      "dialogue_text": "il n'a pas l'intention de tirer."
+    },
+    {
+      "subtitle_index": 818,
+      "start_time": 4606.558,
+      "end_time": 4608.768,
+      "duration": 2.2100000000000364,
+      "dialogue_text": "Le cochon ne tue pas."
+    },
+    {
+      "subtitle_index": 819,
+      "start_time": 4608.935,
+      "end_time": 4612.898,
+      "duration": 3.962999999999738,
+      "dialogue_text": "L'Amerloque est trop confiant. Vas-y, tire !"
+    },
+    {
+      "subtitle_index": 820,
+      "start_time": 4613.064,
+      "end_time": 4616.401,
+      "duration": 3.3369999999995343,
+      "dialogue_text": "Et voilà, il ne tire pas ! C'est ce que je disais !"
+    },
+    {
+      "subtitle_index": 821,
+      "start_time": 4617.194,
+      "end_time": 4619.696,
+      "duration": 2.501999999999498,
+      "dialogue_text": "S'il tire maintenant, il peut pas le rater !"
+    },
+    {
+      "subtitle_index": 822,
+      "start_time": 4619.822,
+      "end_time": 4623.534,
+      "duration": 3.7119999999995343,
+      "dialogue_text": "Quand l'autre sera crevé, 2 balles dans le moteur suffiront !"
+    },
+    {
+      "subtitle_index": 823,
+      "start_time": 4624.577,
+      "end_time": 4628.164,
+      "duration": 3.5869999999995343,
+      "dialogue_text": "Il va frimer \"Moi, je fais pas la guerre !\""
+    },
+    {
+      "subtitle_index": 824,
+      "start_time": 4629.999,
+      "end_time": 4633.044,
+      "duration": 3.0450000000000728,
+      "dialogue_text": "Tu te fous de moi ! Tire !"
+    },
+    {
+      "subtitle_index": 825,
+      "start_time": 4634.295,
+      "end_time": 4638.716,
+      "duration": 4.4210000000002765,
+      "dialogue_text": "Ta mitrailleuse est enrayée ! Bien fait !"
+    },
+    {
+      "subtitle_index": 826,
+      "start_time": 4644.097,
+      "end_time": 4645.39,
+      "duration": 1.2930000000005748,
+      "dialogue_text": "Ils foncent sur nous !"
+    },
+    {
+      "subtitle_index": 827,
+      "start_time": 4648.268,
+      "end_time": 4650.896,
+      "duration": 2.6279999999997017,
+      "dialogue_text": "Tu vas voir ! Accroche-toi, mon cochon !"
+    },
+    {
+      "subtitle_index": 828,
+      "start_time": 4658.571,
+      "end_time": 4660.448,
+      "duration": 1.8770000000004075,
+      "dialogue_text": "Le cochon est coincé !"
+    },
+    {
+      "subtitle_index": 829,
+      "start_time": 4673.002,
+      "end_time": 4674.337,
+      "duration": 1.3350000000000364,
+      "dialogue_text": "Allez jouer ailleurs !"
+    },
+    {
+      "subtitle_index": 830,
+      "start_time": 4679.759,
+      "end_time": 4682.22,
+      "duration": 2.46100000000024,
+      "dialogue_text": "Quel festival !"
+    },
+    {
+      "subtitle_index": 831,
+      "start_time": 4688.769,
+      "end_time": 4692.273,
+      "duration": 3.5039999999999054,
+      "dialogue_text": "Un duel aérien comme ça, c'est unique dans une vie !"
+    },
+    {
+      "subtitle_index": 832,
+      "start_time": 4692.398,
+      "end_time": 4693.899,
+      "duration": 1.5010000000002037,
+      "dialogue_text": "Renversant !"
+    },
+    {
+      "subtitle_index": 833,
+      "start_time": 4703.576,
+      "end_time": 4706.788,
+      "duration": 3.2119999999995343,
+      "dialogue_text": "Si elle ne se dépêche pas, tout sera fini !"
+    },
+    {
+      "subtitle_index": 834,
+      "start_time": 4706.913,
+      "end_time": 4709.541,
+      "duration": 2.628000000000611,
+      "dialogue_text": "Elle ne bouge pas de sa chambre !"
+    },
+    {
+      "subtitle_index": 835,
+      "start_time": 4709.666,
+      "end_time": 4713.545,
+      "duration": 3.8789999999999054,
+      "dialogue_text": "Elle y va, oui ou non ? Je veux voir, moi aussi !"
+    },
+    {
+      "subtitle_index": 836,
+      "start_time": 4724.64,
+      "end_time": 4727.643,
+      "duration": 3.0029999999997017,
+      "dialogue_text": "As. de coeur. pour Porco."
+    },
+    {
+      "subtitle_index": 837,
+      "start_time": 4727.768,
+      "end_time": 4730.896,
+      "duration": 3.1279999999997017,
+      "dialogue_text": "L'armée de l'air t'a repéré. Cesse tes idioties."
+    },
+    {
+      "subtitle_index": 838,
+      "start_time": 4731.355,
+      "end_time": 4733.941,
+      "duration": 2.58600000000024,
+      "dialogue_text": "F. C'est Ferrarin..."
+    },
+    {
+      "subtitle_index": 839,
+      "start_time": 4736.486,
+      "end_time": 4738.112,
+      "duration": 1.6260000000002037,
+      "dialogue_text": "Il faut faire vite !"
+    },
+    {
+      "subtitle_index": 840,
+      "start_time": 4756.757,
+      "end_time": 4760.177,
+      "duration": 3.4200000000000728,
+      "dialogue_text": "En tout cas, ils sont increvables !"
+    },
+    {
+      "subtitle_index": 841,
+      "start_time": 4760.302,
+      "end_time": 4762.722,
+      "duration": 2.4200000000000728,
+      "dialogue_text": "Et ce n'est qu'un début !"
+    },
+    {
+      "subtitle_index": 842,
+      "start_time": 4764.181,
+      "end_time": 4766.476,
+      "duration": 2.2950000000000728,
+      "dialogue_text": "Porco, tiens bon !"
+    },
+    {
+      "subtitle_index": 843,
+      "start_time": 4770.688,
+      "end_time": 4772.482,
+      "duration": 1.793999999999869,
+      "dialogue_text": "Sale cochon !"
+    },
+    {
+      "subtitle_index": 844,
+      "start_time": 4778.196,
+      "end_time": 4780.74,
+      "duration": 2.543999999999869,
+      "dialogue_text": "Tu crois pas que je vais te laisser Fio !"
+    },
+    {
+      "subtitle_index": 845,
+      "start_time": 4786.246,
+      "end_time": 4788.54,
+      "duration": 2.293999999999869,
+      "dialogue_text": "Le cochon est repassé derrière !"
+    },
+    {
+      "subtitle_index": 846,
+      "start_time": 4788.874,
+      "end_time": 4790.459,
+      "duration": 1.5850000000000364,
+      "dialogue_text": "C'est le final !"
+    },
+    {
+      "subtitle_index": 847,
+      "start_time": 4794.213,
+      "end_time": 4795.214,
+      "duration": 1.0010000000002037,
+      "dialogue_text": "Zut !"
+    },
+    {
+      "subtitle_index": 848,
+      "start_time": 4797.341,
+      "end_time": 4798.551,
+      "duration": 1.2100000000000364,
+      "dialogue_text": "Enrayée !"
+    },
+    {
+      "subtitle_index": 849,
+      "start_time": 4802.513,
+      "end_time": 4803.848,
+      "duration": 1.3350000000000364,
+      "dialogue_text": "C'est le finish !"
+    },
+    {
+      "subtitle_index": 850,
+      "start_time": 4806.893,
+      "end_time": 4808.686,
+      "duration": 1.7929999999996653,
+      "dialogue_text": "Qu'est-ce qui se passe ?"
+    },
+    {
+      "subtitle_index": 851,
+      "start_time": 4809.187,
+      "end_time": 4810.855,
+      "duration": 1.6679999999996653,
+      "dialogue_text": "Elle est enrayée !"
+    },
+    {
+      "subtitle_index": 852,
+      "start_time": 4811.565,
+      "end_time": 4815.068,
+      "duration": 3.503000000000611,
+      "dialogue_text": "Idiot ! Tu n'as plus de munitions !"
+    },
+    {
+      "subtitle_index": 853,
+      "start_time": 4815.402,
+      "end_time": 4818.78,
+      "duration": 3.3779999999997017,
+      "dialogue_text": "Cassée ! C'est les fesses de Fio !"
+    },
+    {
+      "subtitle_index": 854,
+      "start_time": 4821.075,
+      "end_time": 4823.869,
+      "duration": 2.793999999999869,
+      "dialogue_text": "Pas question d'un match nul !"
+    },
+    {
+      "subtitle_index": 855,
+      "start_time": 4825.663,
+      "end_time": 4829.375,
+      "duration": 3.712000000000444,
+      "dialogue_text": "C'est pas un western ici ! Tu repasseras !"
+    },
+    {
+      "subtitle_index": 856,
+      "start_time": 4831.46,
+      "end_time": 4832.628,
+      "duration": 1.1679999999996653,
+      "dialogue_text": "Prends ça !"
+    },
+    {
+      "subtitle_index": 857,
+      "start_time": 4835.048,
+      "end_time": 4838.76,
+      "duration": 3.712000000000444,
+      "dialogue_text": "Tu crois m'avoir avec ça ? Tiens, saucisse !"
+    },
+    {
+      "subtitle_index": 858,
+      "start_time": 4846.935,
+      "end_time": 4848.937,
+      "duration": 2.001999999999498,
+      "dialogue_text": "Porc puant !"
+    },
+    {
+      "subtitle_index": 859,
+      "start_time": 4851.607,
+      "end_time": 4853.567,
+      "duration": 1.9600000000000364,
+      "dialogue_text": "T'y arriveras pas ! Aâe !"
+    },
+    {
+      "subtitle_index": 860,
+      "start_time": 4854.026,
+      "end_time": 4854.985,
+      "duration": 0.9589999999998327,
+      "dialogue_text": "Poule mouillée !"
+    },
+    {
+      "subtitle_index": 861,
+      "start_time": 4855.152,
+      "end_time": 4856.195,
+      "duration": 1.0429999999996653,
+      "dialogue_text": "Ca chauffe !"
+    },
+    {
+      "subtitle_index": 862,
+      "start_time": 4856.32,
+      "end_time": 4858.656,
+      "duration": 2.33600000000024,
+      "dialogue_text": "- Toujours amoureux ? - Ta gueule, patate !"
+    },
+    {
+      "subtitle_index": 863,
+      "start_time": 4859.865,
+      "end_time": 4861.7,
+      "duration": 1.8350000000000364,
+      "dialogue_text": "C'est bizarre !"
+    },
+    {
+      "subtitle_index": 864,
+      "start_time": 4861.867,
+      "end_time": 4863.035,
+      "duration": 1.1679999999996653,
+      "dialogue_text": "Ils redescendent !"
+    },
+    {
+      "subtitle_index": 865,
+      "start_time": 4872.045,
+      "end_time": 4873.087,
+      "duration": 1.042000000000371,
+      "dialogue_text": "Ils reviennent !"
+    },
+    {
+      "subtitle_index": 866,
+      "start_time": 4873.213,
+      "end_time": 4876.633,
+      "duration": 3.4200000000000728,
+      "dialogue_text": "Attends ! L'enjeu ne doit pas disparaître !"
+    },
+    {
+      "subtitle_index": 867,
+      "start_time": 4876.8,
+      "end_time": 4879.636,
+      "duration": 2.83600000000024,
+      "dialogue_text": "Vous tous, restez là !"
+    },
+    {
+      "subtitle_index": 868,
+      "start_time": 4885.809,
+      "end_time": 4887.644,
+      "duration": 1.8350000000000364,
+      "dialogue_text": "Gros lard !"
+    },
+    {
+      "subtitle_index": 869,
+      "start_time": 4889.188,
+      "end_time": 4891.398,
+      "duration": 2.2100000000000364,
+      "dialogue_text": "Cow-boy d'opérette !"
+    },
+    {
+      "subtitle_index": 870,
+      "start_time": 4896.946,
+      "end_time": 4898.489,
+      "duration": 1.5429999999996653,
+      "dialogue_text": "Aux poings !"
+    },
+    {
+      "subtitle_index": 871,
+      "start_time": 4898.614,
+      "end_time": 4900.867,
+      "duration": 2.253000000000611,
+      "dialogue_text": "Retourne garder les vaches !"
+    },
+    {
+      "subtitle_index": 872,
+      "start_time": 4907.457,
+      "end_time": 4909.542,
+      "duration": 2.0850000000000364,
+      "dialogue_text": "Porco, tiens bon !"
+    },
+    {
+      "subtitle_index": 873,
+      "start_time": 4911.336,
+      "end_time": 4913.421,
+      "duration": 2.0850000000000364,
+      "dialogue_text": "Debout, sale cochon !"
+    },
+    {
+      "subtitle_index": 874,
+      "start_time": 4917.05,
+      "end_time": 4918.635,
+      "duration": 1.5850000000000364,
+      "dialogue_text": "Tricheur !"
+    },
+    {
+      "subtitle_index": 875,
+      "start_time": 4948.25,
+      "end_time": 4952.337,
+      "duration": 4.087000000000444,
+      "dialogue_text": "Allez, on prend les paris ! La Coalition s'en charge !"
+    },
+    {
+      "subtitle_index": 876,
+      "start_time": 4952.546,
+      "end_time": 4954.339,
+      "duration": 1.7929999999996653,
+      "dialogue_text": "On n'a pas de gong ? Un gong !"
+    },
+    {
+      "subtitle_index": 877,
+      "start_time": 4958.26,
+      "end_time": 4959.512,
+      "duration": 1.251999999999498,
+      "dialogue_text": "Dépêche-toi !"
+    },
+    {
+      "subtitle_index": 878,
+      "start_time": 4959.678,
+      "end_time": 4961.847,
+      "duration": 2.168999999999869,
+      "dialogue_text": "Le moteur va exploser."
+    },
+    {
+      "subtitle_index": 879,
+      "start_time": 4962.765,
+      "end_time": 4965.851,
+      "duration": 3.0859999999993306,
+      "dialogue_text": "Ces hydraviateurs sont tous cinglés !"
+    },
+    {
+      "subtitle_index": 880,
+      "start_time": 4972.692,
+      "end_time": 4975.153,
+      "duration": 2.46100000000024,
+      "dialogue_text": "Tu as vu ce gauche ?"
+    },
+    {
+      "subtitle_index": 881,
+      "start_time": 4979.199,
+      "end_time": 4981.701,
+      "duration": 2.5020000000004075,
+      "dialogue_text": "Cette fois, c'est la bonne !"
+    },
+    {
+      "subtitle_index": 882,
+      "start_time": 4982.452,
+      "end_time": 4983.787,
+      "duration": 1.3350000000000364,
+      "dialogue_text": "Tu vas faire dodo !"
+    },
+    {
+      "subtitle_index": 883,
+      "start_time": 4983.954,
+      "end_time": 4986.748,
+      "duration": 2.793999999999869,
+      "dialogue_text": "Tiens bon !"
+    },
+    {
+      "subtitle_index": 884,
+      "start_time": 4986.915,
+      "end_time": 4988.917,
+      "duration": 2.0020000000004075,
+      "dialogue_text": "Je vais te réduire en ptée !"
+    },
+    {
+      "subtitle_index": 885,
+      "start_time": 4991.045,
+      "end_time": 4993.214,
+      "duration": 2.168999999999869,
+      "dialogue_text": "Espèce de suborneur !"
+    },
+    {
+      "subtitle_index": 886,
+      "start_time": 4993.881,
+      "end_time": 4996.425,
+      "duration": 2.543999999999869,
+      "dialogue_text": "Suborneur toi-même !"
+    },
+    {
+      "subtitle_index": 887,
+      "start_time": 4997.677,
+      "end_time": 4999.72,
+      "duration": 2.043000000000575,
+      "dialogue_text": "Dragueur tous azimuts !"
+    },
+    {
+      "subtitle_index": 888,
+      "start_time": 4999.887,
+      "end_time": 5001.472,
+      "duration": 1.5850000000000364,
+      "dialogue_text": "Et toi donc !"
+    },
+    {
+      "subtitle_index": 889,
+      "start_time": 5001.597,
+      "end_time": 5004.1,
+      "duration": 2.503000000000611,
+      "dialogue_text": "Gina ou Fio, tu dois choisir !"
+    },
+    {
+      "subtitle_index": 890,
+      "start_time": 5004.309,
+      "end_time": 5005.935,
+      "duration": 1.6260000000002037,
+      "dialogue_text": "De quoi ?"
+    },
+    {
+      "subtitle_index": 891,
+      "start_time": 5008.688,
+      "end_time": 5011.191,
+      "duration": 2.5029999999997017,
+      "dialogue_text": "Tu te les gardes toutes les 2 !"
+    },
+    {
+      "subtitle_index": 892,
+      "start_time": 5012.776,
+      "end_time": 5013.819,
+      "duration": 1.0430000000005748,
+      "dialogue_text": "Gina..."
+    },
+    {
+      "subtitle_index": 893,
+      "start_time": 5016.279,
+      "end_time": 5018.323,
+      "duration": 2.043999999999869,
+      "dialogue_text": "Attention !"
+    },
+    {
+      "subtitle_index": 894,
+      "start_time": 5020.617,
+      "end_time": 5022.494,
+      "duration": 1.876999999999498,
+      "dialogue_text": "Gina, eh bien..."
+    },
+    {
+      "subtitle_index": 895,
+      "start_time": 5022.578,
+      "end_time": 5025.331,
+      "duration": 2.7529999999997017,
+      "dialogue_text": "elle est amoureuse de toi !"
+    },
+    {
+      "subtitle_index": 896,
+      "start_time": 5027.458,
+      "end_time": 5030.836,
+      "duration": 3.378000000000611,
+      "dialogue_text": "Elle attend ta venue..."
+    },
+    {
+      "subtitle_index": 897,
+      "start_time": 5033.965,
+      "end_time": 5035.633,
+      "duration": 1.6679999999996653,
+      "dialogue_text": "dans son jardin..."
+    },
+    {
+      "subtitle_index": 898,
+      "start_time": 5037.176,
+      "end_time": 5038.595,
+      "duration": 1.418999999999869,
+      "dialogue_text": "depuis toujours !"
+    },
+    {
+      "subtitle_index": 899,
+      "start_time": 5049.398,
+      "end_time": 5051.441,
+      "duration": 2.0429999999996653,
+      "dialogue_text": "Il est K.O."
+    },
+    {
+      "subtitle_index": 900,
+      "start_time": 5051.984,
+      "end_time": 5053.277,
+      "duration": 1.2929999999996653,
+      "dialogue_text": "Regardez !"
+    },
+    {
+      "subtitle_index": 901,
+      "start_time": 5059.033,
+      "end_time": 5061.41,
+      "duration": 2.376999999999498,
+      "dialogue_text": "Je les vois. L'armée n'est pas là !"
+    },
+    {
+      "subtitle_index": 902,
+      "start_time": 5072.547,
+      "end_time": 5076.384,
+      "duration": 3.837000000000444,
+      "dialogue_text": "Espèce de beau parleur irresponsable !"
+    },
+    {
+      "subtitle_index": 903,
+      "start_time": 5079.721,
+      "end_time": 5082.349,
+      "duration": 2.628000000000611,
+      "dialogue_text": "Il est vraiment bouché, ce crétin !"
+    },
+    {
+      "subtitle_index": 904,
+      "start_time": 5082.849,
+      "end_time": 5085.727,
+      "duration": 2.8779999999997017,
+      "dialogue_text": "C'est la pure vérité !"
+    },
+    {
+      "subtitle_index": 905,
+      "start_time": 5087.771,
+      "end_time": 5089.857,
+      "duration": 2.08600000000024,
+      "dialogue_text": "T'auras pas Fio !"
+    },
+    {
+      "subtitle_index": 906,
+      "start_time": 5091.15,
+      "end_time": 5092.067,
+      "duration": 0.9170000000003711,
+      "dialogue_text": "C'est Gina !"
+    },
+    {
+      "subtitle_index": 907,
+      "start_time": 5095.321,
+      "end_time": 5097.323,
+      "duration": 2.0020000000004075,
+      "dialogue_text": "Un signal de détresse !"
+    },
+    {
+      "subtitle_index": 908,
+      "start_time": 5111.087,
+      "end_time": 5113.215,
+      "duration": 2.1279999999997017,
+      "dialogue_text": "Le premier debout aura gagné !"
+    },
+    {
+      "subtitle_index": 909,
+      "start_time": 5114.007,
+      "end_time": 5116.635,
+      "duration": 2.628000000000611,
+      "dialogue_text": "Laissez-moi passer."
+    },
+    {
+      "subtitle_index": 910,
+      "start_time": 5119.012,
+      "end_time": 5122.725,
+      "duration": 3.7130000000006476,
+      "dialogue_text": "Gina, il ne faut pas ! 8..."
+    },
+    {
+      "subtitle_index": 911,
+      "start_time": 5124.518,
+      "end_time": 5126.604,
+      "duration": 2.08600000000024,
+      "dialogue_text": "Marco ! Marco, tu m'entends ?"
+    },
+    {
+      "subtitle_index": 912,
+      "start_time": 5129.565,
+      "end_time": 5132.61,
+      "duration": 3.0450000000000728,
+      "dialogue_text": "Tu veux le malheur d'une autre femme ?"
+    },
+    {
+      "subtitle_index": 913,
+      "start_time": 5147.0,
+      "end_time": 5148.752,
+      "duration": 1.7520000000004075,
+      "dialogue_text": "Porco, merci !"
+    },
+    {
+      "subtitle_index": 914,
+      "start_time": 5148.919,
+      "end_time": 5151.546,
+      "duration": 2.6270000000004075,
+      "dialogue_text": "Pas de quoi !"
+    },
+    {
+      "subtitle_index": 915,
+      "start_time": 5158.596,
+      "end_time": 5162.475,
+      "duration": 3.879000000000815,
+      "dialogue_text": "Bon, la fête est finie. L'armée de l'air arrive !"
+    },
+    {
+      "subtitle_index": 916,
+      "start_time": 5163.1,
+      "end_time": 5164.977,
+      "duration": 1.876999999999498,
+      "dialogue_text": "Filez tous à toute vitesse !"
+    },
+    {
+      "subtitle_index": 917,
+      "start_time": 5165.436,
+      "end_time": 5168.022,
+      "duration": 2.58600000000024,
+      "dialogue_text": "Venez tous à l'hôtel."
+    },
+    {
+      "subtitle_index": 918,
+      "start_time": 5168.105,
+      "end_time": 5169.482,
+      "duration": 1.3770000000004075,
+      "dialogue_text": "Je vous invite."
+    },
+    {
+      "subtitle_index": 919,
+      "start_time": 5171.317,
+      "end_time": 5173.653,
+      "duration": 2.33600000000024,
+      "dialogue_text": "Allez, les gars ! On se tire !"
+    },
+    {
+      "subtitle_index": 920,
+      "start_time": 5184.414,
+      "end_time": 5186.208,
+      "duration": 1.793999999999869,
+      "dialogue_text": "C'est fini."
+    },
+    {
+      "subtitle_index": 921,
+      "start_time": 5187.626,
+      "end_time": 5190.879,
+      "duration": 3.2529999999997017,
+      "dialogue_text": "Patron, vite !"
+    },
+    {
+      "subtitle_index": 922,
+      "start_time": 5191.046,
+      "end_time": 5193.007,
+      "duration": 1.9609999999993306,
+      "dialogue_text": "Les formes ! Faut respecter les formes !"
+    },
+    {
+      "subtitle_index": 923,
+      "start_time": 5195.217,
+      "end_time": 5197.803,
+      "duration": 2.58600000000024,
+      "dialogue_text": "Le cochon, je le hais mais toi, je t'aime."
+    },
+    {
+      "subtitle_index": 924,
+      "start_time": 5197.928,
+      "end_time": 5200.806,
+      "duration": 2.8779999999997017,
+      "dialogue_text": "Deviens une bonne avionneuse ! Salut !"
+    },
+    {
+      "subtitle_index": 925,
+      "start_time": 5200.932,
+      "end_time": 5204.477,
+      "duration": 3.5450000000000728,
+      "dialogue_text": "Merci ! Prenez un bain de temps en temps !"
+    },
+    {
+      "subtitle_index": 926,
+      "start_time": 5204.644,
+      "end_time": 5207.438,
+      "duration": 2.793999999999869,
+      "dialogue_text": "Merci à vous aussi, Mister Curtis."
+    },
+    {
+      "subtitle_index": 927,
+      "start_time": 5207.564,
+      "end_time": 5210.817,
+      "duration": 3.2529999999997017,
+      "dialogue_text": "Je reviendrai faire ma demande dans les règles."
+    },
+    {
+      "subtitle_index": 928,
+      "start_time": 5211.526,
+      "end_time": 5214.529,
+      "duration": 3.003000000000611,
+      "dialogue_text": "Si vous voulez. Mais ma décision est prise."
+    },
+    {
+      "subtitle_index": 929,
+      "start_time": 5214.988,
+      "end_time": 5217.157,
+      "duration": 2.168999999999869,
+      "dialogue_text": "Toi, tu rentres avec Gina."
+    },
+    {
+      "subtitle_index": 930,
+      "start_time": 5217.282,
+      "end_time": 5218.784,
+      "duration": 1.501999999999498,
+      "dialogue_text": "Je ne veux pas !"
+    },
+    {
+      "subtitle_index": 931,
+      "start_time": 5219.159,
+      "end_time": 5223.163,
+      "duration": 4.003999999999905,
+      "dialogue_text": "Je rentre avec toi ! On est partenaires, non ?"
+    },
+    {
+      "subtitle_index": 932,
+      "start_time": 5225.165,
+      "end_time": 5227.96,
+      "duration": 2.7950000000000728,
+      "dialogue_text": "Ramène-la à une vie honnête."
+    },
+    {
+      "subtitle_index": 933,
+      "start_time": 5229.92,
+      "end_time": 5232.965,
+      "duration": 3.0450000000000728,
+      "dialogue_text": "Roublard ! Tu ne changeras jamais !"
+    },
+    {
+      "subtitle_index": 934,
+      "start_time": 5235.259,
+      "end_time": 5237.971,
+      "duration": 2.7119999999995343,
+      "dialogue_text": "Désolé. Allez, partez !"
+    },
+    {
+      "subtitle_index": 935,
+      "start_time": 5243.184,
+      "end_time": 5243.977,
+      "duration": 0.7929999999996653,
+      "dialogue_text": "On y va."
+    },
+    {
+      "subtitle_index": 936,
+      "start_time": 5276.177,
+      "end_time": 5278.388,
+      "duration": 2.21100000000024,
+      "dialogue_text": "Et voici l'armée de l'air italienne !"
+    },
+    {
+      "subtitle_index": 937,
+      "start_time": 5278.555,
+      "end_time": 5282.392,
+      "duration": 3.8369999999995343,
+      "dialogue_text": "Tu m'aides à les attirer ailleurs ?"
+    },
+    {
+      "subtitle_index": 938,
+      "start_time": 5282.559,
+      "end_time": 5285.145,
+      "duration": 2.58600000000024,
+      "dialogue_text": "Oh ! Ton visage ! Attends !"
+    },
+    {
+      "subtitle_index": 939,
+      "start_time": 5285.938,
+      "end_time": 5287.189,
+      "duration": 1.2510000000002037,
+      "dialogue_text": "Montre donc ton visage !"
+    },
+    {
+      "subtitle_index": 940,
+      "start_time": 5287.356,
+      "end_time": 5290.109,
+      "duration": 2.753000000000611,
+      "dialogue_text": "- Pas le temps. - Attends !"
+    },
+    {
+      "subtitle_index": 941,
+      "start_time": 5298.909,
+      "end_time": 5302.58,
+      "duration": 3.6710000000002765,
+      "dialogue_text": "- L'intervention de l'armée - fut un échec."
+    },
+    {
+      "subtitle_index": 942,
+      "start_time": 5302.872,
+      "end_time": 5305.667,
+      "duration": 2.7950000000000728,
+      "dialogue_text": "- Jusqu'au jour - de mon retour à Milan."
+    },
+    {
+      "subtitle_index": 943,
+      "start_time": 5305.875,
+      "end_time": 5308.753,
+      "duration": 2.8779999999997017,
+      "dialogue_text": "- Porco ne donna pas signe de vie."
+    },
+    {
+      "subtitle_index": 944,
+      "start_time": 5310.213,
+      "end_time": 5314.843,
+      "duration": 4.630000000000109,
+      "dialogue_text": "- Par contre, - je suis devenue très amie avec Gina."
+    },
+    {
+      "subtitle_index": 945,
+      "start_time": 5316.47,
+      "end_time": 5320.974,
+      "duration": 4.503999999999905,
+      "dialogue_text": "- Depuis lors, il y a eu des guerres - et des crises,"
+    },
+    {
+      "subtitle_index": 946,
+      "start_time": 5321.266,
+      "end_time": 5324.311,
+      "duration": 3.0450000000000728,
+      "dialogue_text": "- mais cette amitié dure - encore aujourd'hui."
+    },
+    {
+      "subtitle_index": 947,
+      "start_time": 5326.48,
+      "end_time": 5328.566,
+      "duration": 2.08600000000024,
+      "dialogue_text": "- J'ai repris l'entreprise Piccolo"
+    },
+    {
+      "subtitle_index": 948,
+      "start_time": 5328.732,
+      "end_time": 5333.696,
+      "duration": 4.963999999999942,
+      "dialogue_text": "- mais je passe toujours mes vacances - d'été à l'hôtel Adriano."
+    },
+    {
+      "subtitle_index": 949,
+      "start_time": 5334.864,
+      "end_time": 5337.7,
+      "duration": 2.83600000000024,
+      "dialogue_text": "- Gina est de plus en plus belle"
+    },
+    {
+      "subtitle_index": 950,
+      "start_time": 5337.825,
+      "end_time": 5340.078,
+      "duration": 2.253000000000611,
+      "dialogue_text": "- et les vieux copains - sont toujours là."
+    },
+    {
+      "subtitle_index": 951,
+      "start_time": 5342.497,
+      "end_time": 5345.75,
+      "duration": 3.2529999999997017,
+      "dialogue_text": "- Au fait, même s'il n'est pas - encore Président."
+    },
+    {
+      "subtitle_index": 952,
+      "start_time": 5345.959,
+      "end_time": 5349.129,
+      "duration": 3.1700000000000728,
+      "dialogue_text": "- Mister Curtis nous écrit - de temps en temps,{133746,{133810,- en souvenir de cet été - sur l'Adriatique."
+    },
+    {
+      "subtitle_index": 953,
+      "start_time": 5354.468,
+      "end_time": 5357.012,
+      "duration": 2.543999999999869,
+      "dialogue_text": "- Quant au dénouement - du pari de Gina,"
+    },
+    {
+      "subtitle_index": 954,
+      "start_time": 5357.179,
+      "end_time": 5360.224,
+      "duration": 3.0450000000000728,
+      "dialogue_text": "- c'est devenu notre secret - à toutes les deux."
+    },
+    {
+      "subtitle_index": 955,
+      "start_time": 5410.485,
+      "end_time": 5417.033,
+      "duration": 6.548000000000684,
+      "dialogue_text": "Producteurs délégués YASUYOSHI TOKUMA MATSUO TOSHIMITSU YOSHIO SASAKI"
+    },
+    {
+      "subtitle_index": 956,
+      "start_time": 5418.368,
+      "end_time": 5422.998,
+      "duration": 4.6299999999992,
+      "dialogue_text": "Histoire originale et Scénario HAYAO MIYAZAKI"
+    },
+    {
+      "subtitle_index": 957,
+      "start_time": 5423.123,
+      "end_time": 5425.834,
+      "duration": 2.71100000000024,
+      "dialogue_text": "Musique JOE HISAISHI"
+    },
+    {
+      "subtitle_index": 958,
+      "start_time": 5425.918,
+      "end_time": 5430.881,
+      "duration": 4.963000000000648,
+      "dialogue_text": "Chanson JE VOUS PARLERAI DE CE TEMPS Paroles, musique et interprétée par TOKIKO KATO"
+    },
+    {
+      "subtitle_index": 959,
+      "start_time": 5561.435,
+      "end_time": 5564.855,
+      "duration": 3.4199999999991633,
+      "dialogue_text": "Production STUDIO GHIBLI CO, LTD"
+    },
+    {
+      "subtitle_index": 960,
+      "start_time": 5564.939,
+      "end_time": 5569.777,
+      "duration": 4.837999999999738,
+      "dialogue_text": "Producteur exécutif TOSHIO SUZUKI"
+    },
+    {
+      "subtitle_index": 961,
+      "start_time": 5573.323,
+      "end_time": 5582.207,
+      "duration": 8.884000000000015,
+      "dialogue_text": "Réalisateur HAYAO MIYAZAKI"
+    },
+    {
+      "subtitle_index": 962,
+      "start_time": 5590.09,
+      "end_time": 5591.842,
+      "duration": 1.751999999999498,
+      "dialogue_text": "FIN"
+    }
+  ]
+}

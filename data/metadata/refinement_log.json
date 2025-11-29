@@ -1,0 +1,37 @@
+{
+  "timestamp": "2025-11-17 16:36:39",
+  "films_processed": 3,
+  "films_improved": 3,
+  "results": [
+    {
+      "film": "Earwig and the Witch",
+      "slug": "earwig_and_the_witch",
+      "improved": true,
+      "old_drift": 17.9,
+      "new_drift": 0.6893902439024322,
+      "improvement": 17.210609756097565,
+      "file_id": 6712366,
+      "uploader": "os-auto"
+    },
+    {
+      "film": "The Red Turtle",
+      "slug": "the_red_turtle",
+      "improved": true,
+      "old_drift": 30.8,
+      "new_drift": 1.3640208333333323,
+      "improvement": 29.43597916666667,
+      "file_id": 9498360,
+      "uploader": "Anonymous"
+    },
+    {
+      "film": "The Wind Rises",
+      "slug": "the_wind_rises",
+      "improved": true,
+      "old_drift": 33.2,
+      "new_drift": 0.295939153439148,
+      "improvement": 32.90406084656085,
+      "file_id": 7723160,
+      "uploader": "Anonymous"
+    }
+  ]
+}

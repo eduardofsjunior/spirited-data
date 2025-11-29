@@ -1,0 +1,103 @@
+{
+  "metadata": {
+    "film_name": "The Red Turtle",
+    "film_slug": "the_red_turtle_ar",
+    "language_code": "ar",
+    "total_subtitles": 13,
+    "total_duration": 4696.692,
+    "parse_timestamp": "2025-10-30T17:09:42.971019"
+  },
+  "subtitles": [
+    {
+      "subtitle_index": 1,
+      "start_time": 189.731,
+      "end_time": 195.361,
+      "duration": 5.6299999999999955,
+      "dialogue_text": "‫\"السلحفاة الحمراء\"‬"
+    },
+    {
+      "subtitle_index": 2,
+      "start_time": 396.521,
+      "end_time": 398.064,
+      "duration": 1.5430000000000064,
+      "dialogue_text": "‫هل من أحد؟‬"
+    },
+    {
+      "subtitle_index": 3,
+      "start_time": 404.529,
+      "end_time": 406.656,
+      "duration": 2.1270000000000095,
+      "dialogue_text": "‫هل من أحد؟‬"
+    },
+    {
+      "subtitle_index": 4,
+      "start_time": 1273.188,
+      "end_time": 1274.189,
+      "duration": 1.0009999999999764,
+      "dialogue_text": "‫مرحباً.‬"
+    },
+    {
+      "subtitle_index": 5,
+      "start_time": 1278.902,
+      "end_time": 1280.112,
+      "duration": 1.2100000000000364,
+      "dialogue_text": "‫مرحباً!‬"
+    },
+    {
+      "subtitle_index": 6,
+      "start_time": 1300.382,
+      "end_time": 1301.383,
+      "duration": 1.0009999999999764,
+      "dialogue_text": "‫مرحباً!‬"
+    },
+    {
+      "subtitle_index": 7,
+      "start_time": 3154.109,
+      "end_time": 3155.11,
+      "duration": 1.0010000000002037,
+      "dialogue_text": "‫مرحباً!‬"
+    },
+    {
+      "subtitle_index": 8,
+      "start_time": 3549.921,
+      "end_time": 3551.214,
+      "duration": 1.29300000000012,
+      "dialogue_text": "‫هل من أحد؟‬"
+    },
+    {
+      "subtitle_index": 9,
+      "start_time": 3570.108,
+      "end_time": 3571.401,
+      "duration": 1.2929999999996653,
+      "dialogue_text": "‫هل من أحد؟‬"
+    },
+    {
+      "subtitle_index": 10,
+      "start_time": 3580.41,
+      "end_time": 3581.744,
+      "duration": 1.3340000000002874,
+      "dialogue_text": "‫هل من أحد؟‬"
+    },
+    {
+      "subtitle_index": 11,
+      "start_time": 3673.795,
+      "end_time": 3675.129,
+      "duration": 1.3339999999998327,
+      "dialogue_text": "‫هل من أحد؟‬"
+    },
+    {
+      "subtitle_index": 12,
+      "start_time": 3777.398,
+      "end_time": 3778.983,
+      "duration": 1.5850000000000364,
+      "dialogue_text": "‫النجدة!‬"
+    },
+    {
+      "subtitle_index": 13,
+      "start_time": 4884.421,
+      "end_time": 4886.423,
+      "duration": 2.001999999999498,
+      "dialogue_text": "‫ترجم من قبل: ناجي بهنان‬"
+    }
+  ]
+}

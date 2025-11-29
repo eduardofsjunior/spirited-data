@@ -1,0 +1,5633 @@
+{
+  "metadata": {
+    "film_name": "Ponyo",
+    "film_slug": "ponyo_nl",
+    "language_code": "nl",
+    "total_subtitles": 803,
+    "total_duration": 5645.187,
+    "parse_timestamp": "2025-10-30T17:09:42.955165"
+  },
+  "subtitles": [
+    {
+      "subtitle_index": 1,
+      "start_time": 408.651,
+      "end_time": 411.527,
+      "duration": 2.8759999999999764,
+      "dialogue_text": "Sosuke, snel thuiskomen oké?"
+    },
+    {
+      "subtitle_index": 2,
+      "start_time": 411.528,
+      "end_time": 413.913,
+      "duration": 2.384999999999991,
+      "dialogue_text": "Oké."
+    },
+    {
+      "subtitle_index": 3,
+      "start_time": 513.047,
+      "end_time": 515.723,
+      "duration": 2.675999999999931,
+      "dialogue_text": "Het is een goudvis."
+    },
+    {
+      "subtitle_index": 4,
+      "start_time": 527.311,
+      "end_time": 529.904,
+      "duration": 2.592999999999961,
+      "dialogue_text": "Ze zit vast."
+    },
+    {
+      "subtitle_index": 5,
+      "start_time": 545.955,
+      "end_time": 548.714,
+      "duration": 2.7590000000000146,
+      "dialogue_text": "Vreemd..."
+    },
+    {
+      "subtitle_index": 6,
+      "start_time": 557.758,
+      "end_time": 560.309,
+      "duration": 2.550999999999931,
+      "dialogue_text": "Au."
+    },
+    {
+      "subtitle_index": 7,
+      "start_time": 562.054,
+      "end_time": 564.897,
+      "duration": 2.8430000000000746,
+      "dialogue_text": "Is ze dood?"
+    },
+    {
+      "subtitle_index": 8,
+      "start_time": 567.768,
+      "end_time": 571.028,
+      "duration": 3.259999999999991,
+      "dialogue_text": "Ze likte aan mijn vinger. Ze leeft nog."
+    },
+    {
+      "subtitle_index": 9,
+      "start_time": 572.94,
+      "end_time": 575.608,
+      "duration": 2.6679999999998927,
+      "dialogue_text": "Sosuke, we moeten nu gaan."
+    },
+    {
+      "subtitle_index": 10,
+      "start_time": 575.609,
+      "end_time": 580.079,
+      "duration": 4.469999999999914,
+      "dialogue_text": "Lisa, ik heb een goudvis gevangen."
+    },
+    {
+      "subtitle_index": 11,
+      "start_time": 589.29,
+      "end_time": 594.969,
+      "duration": 5.679000000000087,
+      "dialogue_text": "Een vreemde wind... Sosuke, ik start de auto eerst."
+    },
+    {
+      "subtitle_index": 12,
+      "start_time": 602.761,
+      "end_time": 605.229,
+      "duration": 2.4680000000000746,
+      "dialogue_text": "Heb je haar gevonden?"
+    },
+    {
+      "subtitle_index": 13,
+      "start_time": 609.602,
+      "end_time": 613.946,
+      "duration": 4.344000000000051,
+      "dialogue_text": "Wat? Gevangen door een mens?"
+    },
+    {
+      "subtitle_index": 14,
+      "start_time": 615.774,
+      "end_time": 619.66,
+      "duration": 3.8859999999999673,
+      "dialogue_text": "Dit is slecht, heel slecht."
+    },
+    {
+      "subtitle_index": 15,
+      "start_time": 644.595,
+      "end_time": 647.605,
+      "duration": 3.009999999999991,
+      "dialogue_text": "Ben je dood?"
+    },
+    {
+      "subtitle_index": 16,
+      "start_time": 654.438,
+      "end_time": 657.156,
+      "duration": 2.717999999999961,
+      "dialogue_text": "Ze leeft nog."
+    },
+    {
+      "subtitle_index": 17,
+      "start_time": 665.115,
+      "end_time": 669.577,
+      "duration": 4.461999999999989,
+      "dialogue_text": "Sosuke, ik kom te laat."
+    },
+    {
+      "subtitle_index": 18,
+      "start_time": 669.578,
+      "end_time": 672.705,
+      "duration": 3.1270000000000664,
+      "dialogue_text": "Lisa, ik heb een goudvis gevangen."
+    },
+    {
+      "subtitle_index": 19,
+      "start_time": 672.706,
+      "end_time": 674.358,
+      "duration": 1.65199999999993,
+      "dialogue_text": "Goudvis?"
+    },
+    {
+      "subtitle_index": 20,
+      "start_time": 674.458,
+      "end_time": 678.01,
+      "duration": 3.552000000000021,
+      "dialogue_text": "Bij de rotsen."
+    },
+    {
+      "subtitle_index": 21,
+      "start_time": 702.57,
+      "end_time": 707.248,
+      "duration": 4.677999999999997,
+      "dialogue_text": "Het spijt me, maar wil je hier alsjeblieft niet sproeien?"
+    },
+    {
+      "subtitle_index": 22,
+      "start_time": 708.576,
+      "end_time": 714.497,
+      "duration": 5.920999999999935,
+      "dialogue_text": "Dit is geen vergif. Dit is zeewater om dehydratie te vermijden."
+    },
+    {
+      "subtitle_index": 23,
+      "start_time": 714.498,
+      "end_time": 717.667,
+      "duration": 3.1689999999999827,
+      "dialogue_text": "Goed, zolang het maar geen vergif is."
+    },
+    {
+      "subtitle_index": 24,
+      "start_time": 717.668,
+      "end_time": 720.261,
+      "duration": 2.592999999999961,
+      "dialogue_text": "Tot ziens."
+    },
+    {
+      "subtitle_index": 25,
+      "start_time": 727.011,
+      "end_time": 730.354,
+      "duration": 3.3430000000000746,
+      "dialogue_text": "Het ziet er slecht uit."
+    },
+    {
+      "subtitle_index": 26,
+      "start_time": 731.807,
+      "end_time": 733.584,
+      "duration": 1.77699999999993,
+      "dialogue_text": "Wat een vreemde man."
+    },
+    {
+      "subtitle_index": 27,
+      "start_time": 733.684,
+      "end_time": 737.02,
+      "duration": 3.3360000000000127,
+      "dialogue_text": "Dat mag je niet zeggen over vreemdelingen, Sosuke."
+    },
+    {
+      "subtitle_index": 28,
+      "start_time": 737.021,
+      "end_time": 738.464,
+      "duration": 1.4430000000000973,
+      "dialogue_text": "Dat doe ik ook niet."
+    },
+    {
+      "subtitle_index": 29,
+      "start_time": 738.564,
+      "end_time": 742.066,
+      "duration": 3.5020000000000664,
+      "dialogue_text": "Breng je haar naar de kleuterschool?"
+    },
+    {
+      "subtitle_index": 30,
+      "start_time": 742.067,
+      "end_time": 743.844,
+      "duration": 1.7770000000000437,
+      "dialogue_text": "Vind je leraar dat goed?"
+    },
+    {
+      "subtitle_index": 31,
+      "start_time": 743.944,
+      "end_time": 747.822,
+      "duration": 3.8780000000000427,
+      "dialogue_text": "Geen probleem, ik zorg wel voor haar."
+    },
+    {
+      "subtitle_index": 32,
+      "start_time": 747.823,
+      "end_time": 750.583,
+      "duration": 2.759999999999991,
+      "dialogue_text": "Ze is schattig."
+    },
+    {
+      "subtitle_index": 33,
+      "start_time": 756.123,
+      "end_time": 759.258,
+      "duration": 3.134999999999991,
+      "dialogue_text": "Ze gebruiken het droog dek."
+    },
+    {
+      "subtitle_index": 34,
+      "start_time": 759.543,
+      "end_time": 763.296,
+      "duration": 3.7530000000000427,
+      "dialogue_text": "Sosuke, eet dit op voordat we er zijn."
+    },
+    {
+      "subtitle_index": 35,
+      "start_time": 763.297,
+      "end_time": 766.132,
+      "duration": 2.8349999999999227,
+      "dialogue_text": "Misschien heeft ze ook honger."
+    },
+    {
+      "subtitle_index": 36,
+      "start_time": 766.133,
+      "end_time": 768.726,
+      "duration": 2.592999999999961,
+      "dialogue_text": "Wil je ook iets?"
+    },
+    {
+      "subtitle_index": 37,
+      "start_time": 768.802,
+      "end_time": 772.438,
+      "duration": 3.6359999999999673,
+      "dialogue_text": "De snee is verdwenen."
+    },
+    {
+      "subtitle_index": 38,
+      "start_time": 774.308,
+      "end_time": 777.81,
+      "duration": 3.5019999999999527,
+      "dialogue_text": "Ik noem haar Ponyo."
+    },
+    {
+      "subtitle_index": 39,
+      "start_time": 777.811,
+      "end_time": 781.481,
+      "duration": 3.669999999999959,
+      "dialogue_text": "Ze lijkt op een 'Ponyo'. En ze kan toveren."
+    },
+    {
+      "subtitle_index": 40,
+      "start_time": 781.482,
+      "end_time": 785.493,
+      "duration": 4.011000000000081,
+      "dialogue_text": "Nadat ze de wond had schoon gelikt, verdween de snee."
+    },
+    {
+      "subtitle_index": 41,
+      "start_time": 794.37,
+      "end_time": 797.63,
+      "duration": 3.259999999999991,
+      "dialogue_text": "Vind je ham lekker?"
+    },
+    {
+      "subtitle_index": 42,
+      "start_time": 811.303,
+      "end_time": 816.607,
+      "duration": 5.303999999999974,
+      "dialogue_text": "Lisa, Ponyo vind ham lekker. - Dan is ze niet de enige."
+    },
+    {
+      "subtitle_index": 43,
+      "start_time": 843.085,
+      "end_time": 844.904,
+      "duration": 1.81899999999996,
+      "dialogue_text": "Afschuwelijk."
+    },
+    {
+      "subtitle_index": 44,
+      "start_time": 845.004,
+      "end_time": 848.055,
+      "duration": 3.050999999999931,
+      "dialogue_text": "Sneller."
+    },
+    {
+      "subtitle_index": 45,
+      "start_time": 855.723,
+      "end_time": 859.567,
+      "duration": 3.844000000000051,
+      "dialogue_text": "Wat een vuiligheid. Ondragelijk."
+    },
+    {
+      "subtitle_index": 46,
+      "start_time": 860.394,
+      "end_time": 863.07,
+      "duration": 2.6760000000000446,
+      "dialogue_text": "Goedemorgen."
+    },
+    {
+      "subtitle_index": 47,
+      "start_time": 868.527,
+      "end_time": 872.497,
+      "duration": 3.9699999999999136,
+      "dialogue_text": "Ponyo, we zijn er. Daar is ons huis."
+    },
+    {
+      "subtitle_index": 48,
+      "start_time": 892.509,
+      "end_time": 894.761,
+      "duration": 2.2519999999999527,
+      "dialogue_text": "Ik zet je hier af. - Oké."
+    },
+    {
+      "subtitle_index": 49,
+      "start_time": 894.762,
+      "end_time": 895.83,
+      "duration": 1.0680000000000973,
+      "dialogue_text": "Veel plezier."
+    },
+    {
+      "subtitle_index": 50,
+      "start_time": 895.93,
+      "end_time": 898.856,
+      "duration": 2.9260000000000446,
+      "dialogue_text": "Ik moet gaan."
+    },
+    {
+      "subtitle_index": 51,
+      "start_time": 898.933,
+      "end_time": 900.417,
+      "duration": 1.4840000000000373,
+      "dialogue_text": "Goedemorgen, sorry ik ben laat."
+    },
+    {
+      "subtitle_index": 52,
+      "start_time": 900.517,
+      "end_time": 903.694,
+      "duration": 3.1769999999999072,
+      "dialogue_text": "Wil je alsjeblieft de rolstoel pakken voor oma Noriko?"
+    },
+    {
+      "subtitle_index": 53,
+      "start_time": 917.952,
+      "end_time": 919.645,
+      "duration": 1.6929999999999836,
+      "dialogue_text": "Goedemorgen, Sosuke."
+    },
+    {
+      "subtitle_index": 54,
+      "start_time": 919.745,
+      "end_time": 922.664,
+      "duration": 2.9189999999999827,
+      "dialogue_text": "Yoshie, ik heb het druk. Ik spreek je later."
+    },
+    {
+      "subtitle_index": 55,
+      "start_time": 922.665,
+      "end_time": 923.899,
+      "duration": 1.2340000000000373,
+      "dialogue_text": "Hey."
+    },
+    {
+      "subtitle_index": 56,
+      "start_time": 923.999,
+      "end_time": 925.526,
+      "duration": 1.52699999999993,
+      "dialogue_text": "Hallo, Sosuke."
+    },
+    {
+      "subtitle_index": 57,
+      "start_time": 925.626,
+      "end_time": 929.303,
+      "duration": 3.677000000000021,
+      "dialogue_text": "Ik kan nu niet praten, Toki."
+    },
+    {
+      "subtitle_index": 58,
+      "start_time": 935.177,
+      "end_time": 939.021,
+      "duration": 3.8439999999999372,
+      "dialogue_text": "Misschien wordt de leraar boos?"
+    },
+    {
+      "subtitle_index": 59,
+      "start_time": 939.473,
+      "end_time": 942.066,
+      "duration": 2.5930000000000746,
+      "dialogue_text": "Ik heb een idee."
+    },
+    {
+      "subtitle_index": 60,
+      "start_time": 944.52,
+      "end_time": 948.781,
+      "duration": 4.260999999999967,
+      "dialogue_text": "Wacht hier op me. Ik ben zo terug."
+    },
+    {
+      "subtitle_index": 61,
+      "start_time": 950.15,
+      "end_time": 953.411,
+      "duration": 3.2609999999999673,
+      "dialogue_text": "En als er een kat komt?"
+    },
+    {
+      "subtitle_index": 62,
+      "start_time": 962.705,
+      "end_time": 967.717,
+      "duration": 5.011999999999944,
+      "dialogue_text": "Verroer je niet, oké? Ik ben zo terug."
+    },
+    {
+      "subtitle_index": 63,
+      "start_time": 973.841,
+      "end_time": 977.435,
+      "duration": 3.5939999999999372,
+      "dialogue_text": "Tot straks."
+    },
+    {
+      "subtitle_index": 64,
+      "start_time": 978.178,
+      "end_time": 981.806,
+      "duration": 3.6280000000000427,
+      "dialogue_text": "Het is in orde. Het komt wel goed met haar."
+    },
+    {
+      "subtitle_index": 65,
+      "start_time": 981.807,
+      "end_time": 984.517,
+      "duration": 2.7100000000000364,
+      "dialogue_text": "Oké, bedankt. Tot ziens."
+    },
+    {
+      "subtitle_index": 66,
+      "start_time": 984.518,
+      "end_time": 986.295,
+      "duration": 1.77699999999993,
+      "dialogue_text": "Goedemorgen, lerares."
+    },
+    {
+      "subtitle_index": 67,
+      "start_time": 986.395,
+      "end_time": 987.546,
+      "duration": 1.1510000000000673,
+      "dialogue_text": "Goedemorgen, Sosuke."
+    },
+    {
+      "subtitle_index": 68,
+      "start_time": 987.646,
+      "end_time": 990.448,
+      "duration": 2.802000000000021,
+      "dialogue_text": "Sosuke, hoe gaat het met je?"
+    },
+    {
+      "subtitle_index": 69,
+      "start_time": 994.32,
+      "end_time": 996.613,
+      "duration": 2.2930000000000064,
+      "dialogue_text": "Sosuke. - Kumiko..."
+    },
+    {
+      "subtitle_index": 70,
+      "start_time": 996.614,
+      "end_time": 1000.033,
+      "duration": 3.4189999999999827,
+      "dialogue_text": "Vind je mijn jurk mooi? Die heeft mama voor me gekocht."
+    },
+    {
+      "subtitle_index": 71,
+      "start_time": 1001.285,
+      "end_time": 1003.02,
+      "duration": 1.7350000000000136,
+      "dialogue_text": "Sosuke, laten we samen spelen."
+    },
+    {
+      "subtitle_index": 72,
+      "start_time": 1003.12,
+      "end_time": 1005.33,
+      "duration": 2.2100000000000364,
+      "dialogue_text": "Ik heb het nu druk, misschien de volgende keer."
+    },
+    {
+      "subtitle_index": 73,
+      "start_time": 1005.331,
+      "end_time": 1006.899,
+      "duration": 1.5679999999999836,
+      "dialogue_text": "Druk met wat?"
+    },
+    {
+      "subtitle_index": 74,
+      "start_time": 1006.999,
+      "end_time": 1010.71,
+      "duration": 3.7110000000000127,
+      "dialogue_text": "Ik zei dat ik het druk had. - Je bent niet leuk."
+    },
+    {
+      "subtitle_index": 75,
+      "start_time": 1010.711,
+      "end_time": 1013.054,
+      "duration": 2.342999999999961,
+      "dialogue_text": "Ja."
+    },
+    {
+      "subtitle_index": 76,
+      "start_time": 1033.359,
+      "end_time": 1036.035,
+      "duration": 2.6760000000001583,
+      "dialogue_text": "Ponyo."
+    },
+    {
+      "subtitle_index": 77,
+      "start_time": 1042.076,
+      "end_time": 1043.644,
+      "duration": 1.5679999999999836,
+      "dialogue_text": "Sosuke."
+    },
+    {
+      "subtitle_index": 78,
+      "start_time": 1043.744,
+      "end_time": 1044.812,
+      "duration": 1.0679999999999836,
+      "dialogue_text": "Kumiko."
+    },
+    {
+      "subtitle_index": 79,
+      "start_time": 1044.912,
+      "end_time": 1046.48,
+      "duration": 1.5679999999999836,
+      "dialogue_text": "Wat is dat?"
+    },
+    {
+      "subtitle_index": 80,
+      "start_time": 1046.58,
+      "end_time": 1048.998,
+      "duration": 2.41800000000012,
+      "dialogue_text": "Je mag dit niet meenemen naar de kleuterschool."
+    },
+    {
+      "subtitle_index": 81,
+      "start_time": 1048.999,
+      "end_time": 1053.169,
+      "duration": 4.170000000000073,
+      "dialogue_text": "Deze bomen zijn niet van de kleuterschool. Ze zijn van het zonnebloem huis."
+    },
+    {
+      "subtitle_index": 82,
+      "start_time": 1053.17,
+      "end_time": 1055.755,
+      "duration": 2.5850000000000364,
+      "dialogue_text": "Laat eens zien."
+    },
+    {
+      "subtitle_index": 83,
+      "start_time": 1055.756,
+      "end_time": 1057.324,
+      "duration": 1.5679999999999836,
+      "dialogue_text": "Een goudvis."
+    },
+    {
+      "subtitle_index": 84,
+      "start_time": 1057.424,
+      "end_time": 1059.759,
+      "duration": 2.3350000000000364,
+      "dialogue_text": "Geen goudvis, maar Ponyo."
+    },
+    {
+      "subtitle_index": 85,
+      "start_time": 1059.76,
+      "end_time": 1062.345,
+      "duration": 2.5850000000000364,
+      "dialogue_text": "Ponyo? Ik wil het ook zien."
+    },
+    {
+      "subtitle_index": 86,
+      "start_time": 1062.346,
+      "end_time": 1064.457,
+      "duration": 2.1110000000001037,
+      "dialogue_text": "Als ik je haar laat zien, mag je het niet doorvertellen."
+    },
+    {
+      "subtitle_index": 87,
+      "start_time": 1064.557,
+      "end_time": 1067.066,
+      "duration": 2.5090000000000146,
+      "dialogue_text": "Oké, ik zal het niet doorvertellen."
+    },
+    {
+      "subtitle_index": 88,
+      "start_time": 1067.893,
+      "end_time": 1071.07,
+      "duration": 3.1769999999999072,
+      "dialogue_text": "Kijk, schattig nietwaar?"
+    },
+    {
+      "subtitle_index": 89,
+      "start_time": 1076.11,
+      "end_time": 1081.289,
+      "duration": 5.179000000000087,
+      "dialogue_text": "Ze ziet er zo vreemd uit en dik. Mijn goudvis is veel leuker."
+    },
+    {
+      "subtitle_index": 90,
+      "start_time": 1102.386,
+      "end_time": 1108.065,
+      "duration": 5.679000000000087,
+      "dialogue_text": "Het is de fout van Kumiko. Ze was gemeen tegen je."
+    },
+    {
+      "subtitle_index": 91,
+      "start_time": 1110.477,
+      "end_time": 1113.988,
+      "duration": 3.5109999999999673,
+      "dialogue_text": "Ik zal het water voor je vervangen."
+    },
+    {
+      "subtitle_index": 92,
+      "start_time": 1134.71,
+      "end_time": 1137.053,
+      "duration": 2.3430000000000746,
+      "dialogue_text": "Ponyo."
+    },
+    {
+      "subtitle_index": 93,
+      "start_time": 1142.801,
+      "end_time": 1145.061,
+      "duration": 2.259999999999991,
+      "dialogue_text": "Je maakte me bang."
+    },
+    {
+      "subtitle_index": 94,
+      "start_time": 1149.183,
+      "end_time": 1155.563,
+      "duration": 6.380000000000109,
+      "dialogue_text": "Is dat niet de stem van Sosuke?"
+    },
+    {
+      "subtitle_index": 95,
+      "start_time": 1155.564,
+      "end_time": 1160.026,
+      "duration": 4.461999999999989,
+      "dialogue_text": "Sosuke zou op de kleuterschool moeten zitten."
+    },
+    {
+      "subtitle_index": 96,
+      "start_time": 1160.027,
+      "end_time": 1162.362,
+      "duration": 2.3350000000000364,
+      "dialogue_text": "Mijn gehoor wordt slechter."
+    },
+    {
+      "subtitle_index": 97,
+      "start_time": 1162.363,
+      "end_time": 1165.832,
+      "duration": 3.469000000000051,
+      "dialogue_text": "Yoshie, ik ben hier."
+    },
+    {
+      "subtitle_index": 98,
+      "start_time": 1166.116,
+      "end_time": 1171.037,
+      "duration": 4.921000000000049,
+      "dialogue_text": "Ik wist wel dat ik je stem hoorde."
+    },
+    {
+      "subtitle_index": 99,
+      "start_time": 1171.038,
+      "end_time": 1174.415,
+      "duration": 3.3769999999999527,
+      "dialogue_text": "Wil je raden wat dit is? - Dat moet iets moois zijn."
+    },
+    {
+      "subtitle_index": 100,
+      "start_time": 1174.416,
+      "end_time": 1176.152,
+      "duration": 1.7360000000001037,
+      "dialogue_text": "Dat klopt."
+    },
+    {
+      "subtitle_index": 101,
+      "start_time": 1176.252,
+      "end_time": 1180.096,
+      "duration": 3.844000000000051,
+      "dialogue_text": "Raad eens welke kleur?"
+    },
+    {
+      "subtitle_index": 102,
+      "start_time": 1181.423,
+      "end_time": 1183.758,
+      "duration": 2.3350000000000364,
+      "dialogue_text": "Rood. - Rood."
+    },
+    {
+      "subtitle_index": 103,
+      "start_time": 1183.759,
+      "end_time": 1185.969,
+      "duration": 2.2100000000000364,
+      "dialogue_text": "Dat klopt."
+    },
+    {
+      "subtitle_index": 104,
+      "start_time": 1185.97,
+      "end_time": 1188.221,
+      "duration": 2.2509999999999764,
+      "dialogue_text": "Hoe weet je dat?"
+    },
+    {
+      "subtitle_index": 105,
+      "start_time": 1188.222,
+      "end_time": 1189.707,
+      "duration": 1.4850000000001273,
+      "dialogue_text": "Laat me eens kijken."
+    },
+    {
+      "subtitle_index": 106,
+      "start_time": 1193.602,
+      "end_time": 1195.129,
+      "duration": 1.5269999999998163,
+      "dialogue_text": "Ze is mooi."
+    },
+    {
+      "subtitle_index": 107,
+      "start_time": 1195.229,
+      "end_time": 1196.839,
+      "duration": 1.6099999999999,
+      "dialogue_text": "Schattig."
+    },
+    {
+      "subtitle_index": 108,
+      "start_time": 1196.939,
+      "end_time": 1198.174,
+      "duration": 1.2349999999999,
+      "dialogue_text": "Ze heet Ponyo."
+    },
+    {
+      "subtitle_index": 109,
+      "start_time": 1198.274,
+      "end_time": 1202.235,
+      "duration": 3.9610000000000127,
+      "dialogue_text": "Ze vindt ham lekker, en ze kan toveren."
+    },
+    {
+      "subtitle_index": 110,
+      "start_time": 1202.236,
+      "end_time": 1207.498,
+      "duration": 5.261999999999944,
+      "dialogue_text": "Ik heb me gesneden, maar zij heeft het genezen."
+    },
+    {
+      "subtitle_index": 111,
+      "start_time": 1208.409,
+      "end_time": 1212.203,
+      "duration": 3.793999999999869,
+      "dialogue_text": "Ik vraag me af of ze mijn benen kan genezen."
+    },
+    {
+      "subtitle_index": 112,
+      "start_time": 1212.204,
+      "end_time": 1216.958,
+      "duration": 4.754000000000133,
+      "dialogue_text": "Dan kunnen we net zo rennen als jij."
+    },
+    {
+      "subtitle_index": 113,
+      "start_time": 1216.959,
+      "end_time": 1220.461,
+      "duration": 3.5019999999999527,
+      "dialogue_text": "Ik moet het eerst aan Ponyo vragen."
+    },
+    {
+      "subtitle_index": 114,
+      "start_time": 1220.462,
+      "end_time": 1222.797,
+      "duration": 2.3350000000000364,
+      "dialogue_text": "Mag ik het ook zien?"
+    },
+    {
+      "subtitle_index": 115,
+      "start_time": 1222.798,
+      "end_time": 1225.391,
+      "duration": 2.5930000000000746,
+      "dialogue_text": "Natuurlijk, Toki."
+    },
+    {
+      "subtitle_index": 116,
+      "start_time": 1225.968,
+      "end_time": 1230.021,
+      "duration": 4.052999999999884,
+      "dialogue_text": "Mijn hemel, ze heeft een gezicht."
+    },
+    {
+      "subtitle_index": 117,
+      "start_time": 1230.598,
+      "end_time": 1234.726,
+      "duration": 4.128000000000156,
+      "dialogue_text": "Breng het snel terug naar de zee. Het zal ons een tsunami brengen."
+    },
+    {
+      "subtitle_index": 118,
+      "start_time": 1234.727,
+      "end_time": 1237.896,
+      "duration": 3.168999999999869,
+      "dialogue_text": "Welke tsunami? Jij en je bijgeloof, Toki."
+    },
+    {
+      "subtitle_index": 119,
+      "start_time": 1237.897,
+      "end_time": 1241.441,
+      "duration": 3.5440000000000964,
+      "dialogue_text": "Als een zeemeermin aanspoelt zal er een tsunami volgen."
+    },
+    {
+      "subtitle_index": 120,
+      "start_time": 1241.442,
+      "end_time": 1244.702,
+      "duration": 3.259999999999991,
+      "dialogue_text": "Zulke vissen brengen geen geluk."
+    },
+    {
+      "subtitle_index": 121,
+      "start_time": 1245.946,
+      "end_time": 1250.2,
+      "duration": 4.254000000000133,
+      "dialogue_text": "Het is een tsunami. De tsunami is hier."
+    },
+    {
+      "subtitle_index": 122,
+      "start_time": 1250.201,
+      "end_time": 1253.711,
+      "duration": 3.509999999999991,
+      "dialogue_text": "De tsunami is hier."
+    },
+    {
+      "subtitle_index": 123,
+      "start_time": 1257.666,
+      "end_time": 1259.151,
+      "duration": 1.4850000000001273,
+      "dialogue_text": "Wat is er, Toki?"
+    },
+    {
+      "subtitle_index": 124,
+      "start_time": 1259.251,
+      "end_time": 1262.97,
+      "duration": 3.719000000000051,
+      "dialogue_text": "Kijk eens naar mijn kleren."
+    },
+    {
+      "subtitle_index": 125,
+      "start_time": 1269.72,
+      "end_time": 1272.271,
+      "duration": 2.550999999999931,
+      "dialogue_text": "Sosuke."
+    },
+    {
+      "subtitle_index": 126,
+      "start_time": 1276.018,
+      "end_time": 1279.362,
+      "duration": 3.344000000000051,
+      "dialogue_text": "Sosuke."
+    },
+    {
+      "subtitle_index": 127,
+      "start_time": 1283.943,
+      "end_time": 1286.069,
+      "duration": 2.1259999999999764,
+      "dialogue_text": "Sosuke."
+    },
+    {
+      "subtitle_index": 128,
+      "start_time": 1286.07,
+      "end_time": 1290.039,
+      "duration": 3.969000000000051,
+      "dialogue_text": "Sosuke, bied je verontschuldigingen aan."
+    },
+    {
+      "subtitle_index": 129,
+      "start_time": 1298.082,
+      "end_time": 1303.094,
+      "duration": 5.011999999999944,
+      "dialogue_text": "Maak je geen zorgen, ik bescherm je wel."
+    },
+    {
+      "subtitle_index": 130,
+      "start_time": 1303.754,
+      "end_time": 1306.305,
+      "duration": 2.5510000000001583,
+      "dialogue_text": "Sosuke."
+    },
+    {
+      "subtitle_index": 131,
+      "start_time": 1308.634,
+      "end_time": 1311.435,
+      "duration": 2.800999999999931,
+      "dialogue_text": "Sosuke."
+    },
+    {
+      "subtitle_index": 132,
+      "start_time": 1314.348,
+      "end_time": 1316.816,
+      "duration": 2.4680000000000746,
+      "dialogue_text": "Ponyo."
+    },
+    {
+      "subtitle_index": 133,
+      "start_time": 1318.018,
+      "end_time": 1321.02,
+      "duration": 3.0019999999999527,
+      "dialogue_text": "Ponyo...Sosuke..."
+    },
+    {
+      "subtitle_index": 134,
+      "start_time": 1321.021,
+      "end_time": 1323.606,
+      "duration": 2.5850000000000364,
+      "dialogue_text": "Ponyo...vindt..."
+    },
+    {
+      "subtitle_index": 135,
+      "start_time": 1323.607,
+      "end_time": 1326.409,
+      "duration": 2.8020000000001346,
+      "dialogue_text": "...Sosuke leuk."
+    },
+    {
+      "subtitle_index": 136,
+      "start_time": 1330.781,
+      "end_time": 1332.6,
+      "duration": 1.81899999999996,
+      "dialogue_text": "Ik vind jou ook leuk."
+    },
+    {
+      "subtitle_index": 137,
+      "start_time": 1332.7,
+      "end_time": 1336.46,
+      "duration": 3.759999999999991,
+      "dialogue_text": "Ponyo vindt Sosuke leuk."
+    },
+    {
+      "subtitle_index": 138,
+      "start_time": 1375.91,
+      "end_time": 1378.628,
+      "duration": 2.717999999999847,
+      "dialogue_text": "Ponyo."
+    },
+    {
+      "subtitle_index": 139,
+      "start_time": 1378.746,
+      "end_time": 1382.715,
+      "duration": 3.9689999999998236,
+      "dialogue_text": "Ponyo."
+    },
+    {
+      "subtitle_index": 140,
+      "start_time": 1385.92,
+      "end_time": 1389.055,
+      "duration": 3.134999999999991,
+      "dialogue_text": "Ponyo."
+    },
+    {
+      "subtitle_index": 141,
+      "start_time": 1389.632,
+      "end_time": 1392.842,
+      "duration": 3.2100000000000364,
+      "dialogue_text": "Sosuke."
+    },
+    {
+      "subtitle_index": 142,
+      "start_time": 1392.843,
+      "end_time": 1396.103,
+      "duration": 3.259999999999991,
+      "dialogue_text": "Ponyo."
+    },
+    {
+      "subtitle_index": 143,
+      "start_time": 1456.407,
+      "end_time": 1459.701,
+      "duration": 3.2940000000000964,
+      "dialogue_text": "Luister, Sosuke. Misschien was dit het lot."
+    },
+    {
+      "subtitle_index": 144,
+      "start_time": 1459.702,
+      "end_time": 1462.871,
+      "duration": 3.1690000000000964,
+      "dialogue_text": "Het zal haar lot niet veranderen."
+    },
+    {
+      "subtitle_index": 145,
+      "start_time": 1462.872,
+      "end_time": 1464.956,
+      "duration": 2.0839999999998327,
+      "dialogue_text": "Ponyo is in de zee geboren."
+    },
+    {
+      "subtitle_index": 146,
+      "start_time": 1464.957,
+      "end_time": 1467.584,
+      "duration": 2.6269999999999527,
+      "dialogue_text": "Ze is terug naar huis gekeerd, dat is alles."
+    },
+    {
+      "subtitle_index": 147,
+      "start_time": 1467.585,
+      "end_time": 1472.338,
+      "duration": 4.752999999999929,
+      "dialogue_text": "Laten we hopen dat die vreemde vent weg is."
+    },
+    {
+      "subtitle_index": 148,
+      "start_time": 1472.339,
+      "end_time": 1474.507,
+      "duration": 2.16800000000012,
+      "dialogue_text": "Een likje?"
+    },
+    {
+      "subtitle_index": 149,
+      "start_time": 1474.508,
+      "end_time": 1477.185,
+      "duration": 2.6769999999999072,
+      "dialogue_text": "Schiet op, het smelt."
+    },
+    {
+      "subtitle_index": 150,
+      "start_time": 1479.346,
+      "end_time": 1481.939,
+      "duration": 2.5930000000000746,
+      "dialogue_text": "Niet slecht."
+    },
+    {
+      "subtitle_index": 151,
+      "start_time": 1485.895,
+      "end_time": 1490.273,
+      "duration": 4.377999999999929,
+      "dialogue_text": "Kijk eens wat vrolijker. Vandaag is de dag dat Koichi terugkeert."
+    },
+    {
+      "subtitle_index": 152,
+      "start_time": 1490.274,
+      "end_time": 1494.619,
+      "duration": 4.345000000000027,
+      "dialogue_text": "Hij zal teleurgesteld zijn als je verdrietig bent."
+    },
+    {
+      "subtitle_index": 153,
+      "start_time": 1519.553,
+      "end_time": 1523.189,
+      "duration": 3.6359999999999673,
+      "dialogue_text": "Ga vandaag niet meer naar de zee, oké?"
+    },
+    {
+      "subtitle_index": 154,
+      "start_time": 1549.124,
+      "end_time": 1551.626,
+      "duration": 2.5019999999999527,
+      "dialogue_text": "Sosuke?"
+    },
+    {
+      "subtitle_index": 155,
+      "start_time": 1551.627,
+      "end_time": 1553.628,
+      "duration": 2.0009999999999764,
+      "dialogue_text": "Tijd om binnen te komen."
+    },
+    {
+      "subtitle_index": 156,
+      "start_time": 1553.629,
+      "end_time": 1558.591,
+      "duration": 4.961999999999989,
+      "dialogue_text": "Denk je dat deze emmer Ponyo zal helpen om ons terug te vinden?"
+    },
+    {
+      "subtitle_index": 157,
+      "start_time": 1558.592,
+      "end_time": 1562.895,
+      "duration": 4.302999999999884,
+      "dialogue_text": "Er is maar een manier om daar achter te komen."
+    },
+    {
+      "subtitle_index": 158,
+      "start_time": 1575.734,
+      "end_time": 1580.663,
+      "duration": 4.929000000000087,
+      "dialogue_text": "Sosuke, kun jij opnemen. Het is vast Koichi."
+    },
+    {
+      "subtitle_index": 159,
+      "start_time": 1581.699,
+      "end_time": 1582.933,
+      "duration": 1.2339999999999236,
+      "dialogue_text": "Hallo?"
+    },
+    {
+      "subtitle_index": 160,
+      "start_time": 1583.033,
+      "end_time": 1585.535,
+      "duration": 2.50200000000018,
+      "dialogue_text": "Ik ben het."
+    },
+    {
+      "subtitle_index": 161,
+      "start_time": 1585.536,
+      "end_time": 1587.62,
+      "duration": 2.0839999999998327,
+      "dialogue_text": "Met mij gaat het prima."
+    },
+    {
+      "subtitle_index": 162,
+      "start_time": 1587.621,
+      "end_time": 1592.208,
+      "duration": 4.586999999999989,
+      "dialogue_text": "Vanavond kom ik niet terug. Ik sein wel als ik vlakbij ben."
+    },
+    {
+      "subtitle_index": 163,
+      "start_time": 1592.209,
+      "end_time": 1595.72,
+      "duration": 3.5109999999999673,
+      "dialogue_text": "Oké, hier heb je Lisa."
+    },
+    {
+      "subtitle_index": 164,
+      "start_time": 1596.005,
+      "end_time": 1599.674,
+      "duration": 3.668999999999869,
+      "dialogue_text": "Koichi? Ja... Wat?"
+    },
+    {
+      "subtitle_index": 165,
+      "start_time": 1599.675,
+      "end_time": 1602.051,
+      "duration": 2.3759999999999764,
+      "dialogue_text": "Kun je zo'n verzoek niet weigeren?"
+    },
+    {
+      "subtitle_index": 166,
+      "start_time": 1602.052,
+      "end_time": 1606.097,
+      "duration": 4.045000000000073,
+      "dialogue_text": "Je kunt je vrouw en zoon niet zomaar op de klip achterlaten."
+    },
+    {
+      "subtitle_index": 167,
+      "start_time": 1606.098,
+      "end_time": 1608.941,
+      "duration": 2.8430000000000746,
+      "dialogue_text": "Ik geef het op."
+    },
+    {
+      "subtitle_index": 168,
+      "start_time": 1611.228,
+      "end_time": 1613.005,
+      "duration": 1.7770000000000437,
+      "dialogue_text": "Waarom?"
+    },
+    {
+      "subtitle_index": 169,
+      "start_time": 1613.105,
+      "end_time": 1616.274,
+      "duration": 3.168999999999869,
+      "dialogue_text": "Sosuke, laten we uit eten gaan."
+    },
+    {
+      "subtitle_index": 170,
+      "start_time": 1616.275,
+      "end_time": 1619.243,
+      "duration": 2.967999999999847,
+      "dialogue_text": "Ik wil thuis eten."
+    },
+    {
+      "subtitle_index": 171,
+      "start_time": 1646.68,
+      "end_time": 1647.79,
+      "duration": 1.1099999999999,
+      "dialogue_text": "Het is Koichi."
+    },
+    {
+      "subtitle_index": 172,
+      "start_time": 1647.89,
+      "end_time": 1651.984,
+      "duration": 4.093999999999824,
+      "dialogue_text": "Snel, doe de lichten uit."
+    },
+    {
+      "subtitle_index": 173,
+      "start_time": 1674.625,
+      "end_time": 1678.711,
+      "duration": 4.086000000000013,
+      "dialogue_text": "Dat is Sosuke. Hij is een genie en pas vijf jaar oud."
+    },
+    {
+      "subtitle_index": 174,
+      "start_time": 1678.712,
+      "end_time": 1681.848,
+      "duration": 3.1359999999999673,
+      "dialogue_text": "Je vrouw zal wel kwaad zijn."
+    },
+    {
+      "subtitle_index": 175,
+      "start_time": 1685.177,
+      "end_time": 1689.122,
+      "duration": 3.9450000000001637,
+      "dialogue_text": "Hij zegt dat het hem spijt."
+    },
+    {
+      "subtitle_index": 176,
+      "start_time": 1689.123,
+      "end_time": 1690.374,
+      "duration": 1.2509999999999764,
+      "dialogue_text": "KLO..."
+    },
+    {
+      "subtitle_index": 177,
+      "start_time": 1690.474,
+      "end_time": 1691.083,
+      "duration": 0.609000000000151,
+      "dialogue_text": "KLOOTZ..."
+    },
+    {
+      "subtitle_index": 178,
+      "start_time": 1691.183,
+      "end_time": 1693.043,
+      "duration": 1.8599999999999,
+      "dialogue_text": "KLOOTZAK..."
+    },
+    {
+      "subtitle_index": 179,
+      "start_time": 1693.143,
+      "end_time": 1694.086,
+      "duration": 0.9429999999999836,
+      "dialogue_text": "KL..."
+    },
+    {
+      "subtitle_index": 180,
+      "start_time": 1694.186,
+      "end_time": 1694.795,
+      "duration": 0.609000000000151,
+      "dialogue_text": "KLOOT..."
+    },
+    {
+      "subtitle_index": 181,
+      "start_time": 1694.895,
+      "end_time": 1695.754,
+      "duration": 0.8589999999999236,
+      "dialogue_text": "KLOOTZAK"
+    },
+    {
+      "subtitle_index": 182,
+      "start_time": 1695.854,
+      "end_time": 1696.338,
+      "duration": 0.4839999999999236,
+      "dialogue_text": "KLOOTZAK."
+    },
+    {
+      "subtitle_index": 183,
+      "start_time": 1696.438,
+      "end_time": 1696.922,
+      "duration": 0.4839999999999236,
+      "dialogue_text": "KLOOTZAK."
+    },
+    {
+      "subtitle_index": 184,
+      "start_time": 1697.022,
+      "end_time": 1697.423,
+      "duration": 0.4010000000000673,
+      "dialogue_text": "KLOOTZAK."
+    },
+    {
+      "subtitle_index": 185,
+      "start_time": 1697.523,
+      "end_time": 1697.965,
+      "duration": 0.4420000000000073,
+      "dialogue_text": "KLOOTZAK."
+    },
+    {
+      "subtitle_index": 186,
+      "start_time": 1698.065,
+      "end_time": 1700.324,
+      "duration": 2.2590000000000146,
+      "dialogue_text": "KLOOTZAK."
+    },
+    {
+      "subtitle_index": 187,
+      "start_time": 1704.321,
+      "end_time": 1707.24,
+      "duration": 2.9190000000000964,
+      "dialogue_text": "Lisa, hij zei dat hij van je houdt."
+    },
+    {
+      "subtitle_index": 188,
+      "start_time": 1707.241,
+      "end_time": 1710.793,
+      "duration": 3.5519999999999072,
+      "dialogue_text": "Heel erg veel."
+    },
+    {
+      "subtitle_index": 189,
+      "start_time": 1712.83,
+      "end_time": 1713.355,
+      "duration": 0.525000000000091,
+      "dialogue_text": "KLO..."
+    },
+    {
+      "subtitle_index": 190,
+      "start_time": 1713.455,
+      "end_time": 1713.981,
+      "duration": 0.5260000000000673,
+      "dialogue_text": "KLOOT..."
+    },
+    {
+      "subtitle_index": 191,
+      "start_time": 1714.081,
+      "end_time": 1714.607,
+      "duration": 0.5260000000000673,
+      "dialogue_text": "KLOOTZAK."
+    },
+    {
+      "subtitle_index": 192,
+      "start_time": 1714.707,
+      "end_time": 1715.232,
+      "duration": 0.5249999999998636,
+      "dialogue_text": "KLOOTZAK."
+    },
+    {
+      "subtitle_index": 193,
+      "start_time": 1715.332,
+      "end_time": 1715.858,
+      "duration": 0.5259999999998399,
+      "dialogue_text": "KLOOTZAK."
+    },
+    {
+      "subtitle_index": 194,
+      "start_time": 1715.958,
+      "end_time": 1717.958,
+      "duration": 2.0,
+      "dialogue_text": "KLOOTZAK."
+    },
+    {
+      "subtitle_index": 195,
+      "start_time": 1722.256,
+      "end_time": 1726.309,
+      "duration": 4.052999999999884,
+      "dialogue_text": "Wauw, dat is gaaf."
+    },
+    {
+      "subtitle_index": 196,
+      "start_time": 1730.222,
+      "end_time": 1730.498,
+      "duration": 0.2760000000000673,
+      "dialogue_text": "VE..."
+    },
+    {
+      "subtitle_index": 197,
+      "start_time": 1730.598,
+      "end_time": 1730.873,
+      "duration": 0.27500000000009095,
+      "dialogue_text": "VEEL..."
+    },
+    {
+      "subtitle_index": 198,
+      "start_time": 1730.973,
+      "end_time": 1731.248,
+      "duration": 0.27500000000009095,
+      "dialogue_text": "VEEL GE..."
+    },
+    {
+      "subtitle_index": 199,
+      "start_time": 1731.348,
+      "end_time": 1731.624,
+      "duration": 0.2760000000000673,
+      "dialogue_text": "VEEL GEL..."
+    },
+    {
+      "subtitle_index": 200,
+      "start_time": 1731.724,
+      "end_time": 1731.999,
+      "duration": 0.27500000000009095,
+      "dialogue_text": "VEEL GELU..."
+    },
+    {
+      "subtitle_index": 201,
+      "start_time": 1732.099,
+      "end_time": 1732.333,
+      "duration": 0.23400000000015098,
+      "dialogue_text": "VEEL GELUK."
+    },
+    {
+      "subtitle_index": 202,
+      "start_time": 1732.433,
+      "end_time": 1732.708,
+      "duration": 0.27500000000009095,
+      "dialogue_text": "VEEL GELUK."
+    },
+    {
+      "subtitle_index": 203,
+      "start_time": 1732.808,
+      "end_time": 1734.808,
+      "duration": 2.0,
+      "dialogue_text": "VEEL GELUK."
+    },
+    {
+      "subtitle_index": 204,
+      "start_time": 1735.519,
+      "end_time": 1738.521,
+      "duration": 3.0019999999999527,
+      "dialogue_text": "BEDANKT."
+    },
+    {
+      "subtitle_index": 205,
+      "start_time": 1738.522,
+      "end_time": 1742.325,
+      "duration": 3.803000000000111,
+      "dialogue_text": "IK HOU VAN JE."
+    },
+    {
+      "subtitle_index": 206,
+      "start_time": 1759.126,
+      "end_time": 1765.181,
+      "duration": 6.055000000000064,
+      "dialogue_text": "Lisa, niet huilen. Ik zal niet huilen."
+    },
+    {
+      "subtitle_index": 207,
+      "start_time": 1765.299,
+      "end_time": 1770.478,
+      "duration": 5.179000000000087,
+      "dialogue_text": "Ik heb Ponyo beloofd dat ik voor haar zal zorgen."
+    },
+    {
+      "subtitle_index": 208,
+      "start_time": 1773.166,
+      "end_time": 1775.166,
+      "duration": 2.0,
+      "dialogue_text": "Ik hoop dat ze niet huilt."
+    },
+    {
+      "subtitle_index": 209,
+      "start_time": 1779.73,
+      "end_time": 1784.108,
+      "duration": 4.377999999999929,
+      "dialogue_text": "Oké, laten we vrolijk zijn."
+    },
+    {
+      "subtitle_index": 210,
+      "start_time": 1784.109,
+      "end_time": 1787.612,
+      "duration": 3.5030000000001564,
+      "dialogue_text": "# Ik ben vandaag zo vrolijk."
+    },
+    {
+      "subtitle_index": 211,
+      "start_time": 1787.613,
+      "end_time": 1789.056,
+      "duration": 1.4429999999999836,
+      "dialogue_text": "Au."
+    },
+    {
+      "subtitle_index": 212,
+      "start_time": 1789.156,
+      "end_time": 1790.683,
+      "duration": 1.5270000000000437,
+      "dialogue_text": "Maak je geen zorgen, Sosuke."
+    },
+    {
+      "subtitle_index": 213,
+      "start_time": 1790.783,
+      "end_time": 1795.211,
+      "duration": 4.428000000000111,
+      "dialogue_text": "Ik weet zeker dat het goed gaat met Ponyo."
+    },
+    {
+      "subtitle_index": 214,
+      "start_time": 1796.914,
+      "end_time": 1802.009,
+      "duration": 5.095000000000027,
+      "dialogue_text": "Laten we eten. We eten het portie van Koichi ook op."
+    },
+    {
+      "subtitle_index": 215,
+      "start_time": 1810.553,
+      "end_time": 1812.121,
+      "duration": 1.5679999999999836,
+      "dialogue_text": "Het is allemaal mijn fout."
+    },
+    {
+      "subtitle_index": 216,
+      "start_time": 1812.221,
+      "end_time": 1817.684,
+      "duration": 5.462999999999965,
+      "dialogue_text": "Ik had jullie niet mee moeten nemen."
+    },
+    {
+      "subtitle_index": 217,
+      "start_time": 1817.685,
+      "end_time": 1821.229,
+      "duration": 3.5440000000000964,
+      "dialogue_text": "Ik heb jullie al gewaarschuwd voor de mensheid."
+    },
+    {
+      "subtitle_index": 218,
+      "start_time": 1821.23,
+      "end_time": 1823.606,
+      "duration": 2.3759999999999764,
+      "dialogue_text": "Hun eigen adem is verontreinigd."
+    },
+    {
+      "subtitle_index": 219,
+      "start_time": 1823.607,
+      "end_time": 1826.192,
+      "duration": 2.5850000000000364,
+      "dialogue_text": "Kom eten."
+    },
+    {
+      "subtitle_index": 220,
+      "start_time": 1826.193,
+      "end_time": 1829.404,
+      "duration": 3.2110000000000127,
+      "dialogue_text": "Hoor je me, Polumisharudin?"
+    },
+    {
+      "subtitle_index": 221,
+      "start_time": 1829.405,
+      "end_time": 1832.206,
+      "duration": 2.800999999999931,
+      "dialogue_text": "Ik wil ham eten."
+    },
+    {
+      "subtitle_index": 222,
+      "start_time": 1833.492,
+      "end_time": 1837.495,
+      "duration": 4.002999999999929,
+      "dialogue_text": "Ham? Waar heb je dat geleerd?"
+    },
+    {
+      "subtitle_index": 223,
+      "start_time": 1837.496,
+      "end_time": 1839.581,
+      "duration": 2.084999999999809,
+      "dialogue_text": "Geef antwoord, Polumisharudin."
+    },
+    {
+      "subtitle_index": 224,
+      "start_time": 1839.582,
+      "end_time": 1843.209,
+      "duration": 3.6269999999999527,
+      "dialogue_text": "Ik ben niet Polumisharudin, ik ben Ponyo."
+    },
+    {
+      "subtitle_index": 225,
+      "start_time": 1843.21,
+      "end_time": 1845.07,
+      "duration": 1.8599999999999,
+      "dialogue_text": "Ponyo?"
+    },
+    {
+      "subtitle_index": 226,
+      "start_time": 1845.17,
+      "end_time": 1847.672,
+      "duration": 2.5019999999999527,
+      "dialogue_text": "Ponyo houdt van Sosuke."
+    },
+    {
+      "subtitle_index": 227,
+      "start_time": 1847.673,
+      "end_time": 1851.175,
+      "duration": 3.5019999999999527,
+      "dialogue_text": "Ponyo wil een mens worden."
+    },
+    {
+      "subtitle_index": 228,
+      "start_time": 1851.176,
+      "end_time": 1852.495,
+      "duration": 1.31899999999996,
+      "dialogue_text": "Een mens?"
+    },
+    {
+      "subtitle_index": 229,
+      "start_time": 1852.595,
+      "end_time": 1856.347,
+      "duration": 3.7519999999999527,
+      "dialogue_text": "Wat is er zo goed aan die verschrikkelijke creatie?"
+    },
+    {
+      "subtitle_index": 230,
+      "start_time": 1856.348,
+      "end_time": 1859.893,
+      "duration": 3.5450000000000728,
+      "dialogue_text": "De mens heeft levens uit de zee genomen."
+    },
+    {
+      "subtitle_index": 231,
+      "start_time": 1859.894,
+      "end_time": 1863.104,
+      "duration": 3.2100000000000364,
+      "dialogue_text": "Ik was ooit zelf een mens."
+    },
+    {
+      "subtitle_index": 232,
+      "start_time": 1863.105,
+      "end_time": 1865.424,
+      "duration": 2.31899999999996,
+      "dialogue_text": "Ik heb veel moeten opofferen om niet een van hen te zijn."
+    },
+    {
+      "subtitle_index": 233,
+      "start_time": 1865.524,
+      "end_time": 1868.401,
+      "duration": 2.87700000000018,
+      "dialogue_text": "Ponyo wil handen hebben."
+    },
+    {
+      "subtitle_index": 234,
+      "start_time": 1868.402,
+      "end_time": 1871.738,
+      "duration": 3.3360000000000127,
+      "dialogue_text": "Ik wil niet zulke benen hebben."
+    },
+    {
+      "subtitle_index": 235,
+      "start_time": 1871.739,
+      "end_time": 1874.824,
+      "duration": 3.0850000000000364,
+      "dialogue_text": "Ik wil benen hebben zoals Sosuke."
+    },
+    {
+      "subtitle_index": 236,
+      "start_time": 1874.825,
+      "end_time": 1877.71,
+      "duration": 2.884999999999991,
+      "dialogue_text": "Stop met die onzin."
+    },
+    {
+      "subtitle_index": 237,
+      "start_time": 1895.596,
+      "end_time": 1900.266,
+      "duration": 4.670000000000073,
+      "dialogue_text": "Kijk me aan. Handen en voeten."
+    },
+    {
+      "subtitle_index": 238,
+      "start_time": 1900.267,
+      "end_time": 1904.521,
+      "duration": 4.253999999999905,
+      "dialogue_text": "Nee, je hebt toch geen mensenbloed geproefd?"
+    },
+    {
+      "subtitle_index": 239,
+      "start_time": 1904.522,
+      "end_time": 1905.881,
+      "duration": 1.359000000000151,
+      "dialogue_text": "Ik wil Sosuke zien."
+    },
+    {
+      "subtitle_index": 240,
+      "start_time": 1905.981,
+      "end_time": 1910.068,
+      "duration": 4.086999999999989,
+      "dialogue_text": "Nee. Zijn bloed heeft je DNA gestoord."
+    },
+    {
+      "subtitle_index": 241,
+      "start_time": 1910.069,
+      "end_time": 1913.246,
+      "duration": 3.1770000000001346,
+      "dialogue_text": "Keer terug...keer terug..."
+    },
+    {
+      "subtitle_index": 242,
+      "start_time": 1918.369,
+      "end_time": 1922.088,
+      "duration": 3.719000000000051,
+      "dialogue_text": "Ga terug."
+    },
+    {
+      "subtitle_index": 243,
+      "start_time": 1925.292,
+      "end_time": 1928.97,
+      "duration": 3.678000000000111,
+      "dialogue_text": "Ik heb meer vermogen nodig."
+    },
+    {
+      "subtitle_index": 244,
+      "start_time": 1941.183,
+      "end_time": 1942.293,
+      "duration": 1.1099999999999,
+      "dialogue_text": "Laat me eruit."
+    },
+    {
+      "subtitle_index": 245,
+      "start_time": 1942.393,
+      "end_time": 1949.949,
+      "duration": 7.55600000000004,
+      "dialogue_text": "Stil, keer terug."
+    },
+    {
+      "subtitle_index": 246,
+      "start_time": 1957.95,
+      "end_time": 1962.962,
+      "duration": 5.011999999999944,
+      "dialogue_text": "Net als haar moeder...zo sterk."
+    },
+    {
+      "subtitle_index": 247,
+      "start_time": 1966.876,
+      "end_time": 1971.596,
+      "duration": 4.720000000000027,
+      "dialogue_text": "Ze moet voor altijd puur en onschuldig blijven."
+    },
+    {
+      "subtitle_index": 248,
+      "start_time": 1991.15,
+      "end_time": 1994.194,
+      "duration": 3.043999999999869,
+      "dialogue_text": "Ik kan haar niet lang tegenhouden."
+    },
+    {
+      "subtitle_index": 249,
+      "start_time": 1994.195,
+      "end_time": 1998.164,
+      "duration": 3.969000000000051,
+      "dialogue_text": "Ik heb de hulp van haar moeder nodig."
+    },
+    {
+      "subtitle_index": 250,
+      "start_time": 2006.123,
+      "end_time": 2009.25,
+      "duration": 3.1269999999999527,
+      "dialogue_text": "Nee. Mijn elixir is te sterk voor je."
+    },
+    {
+      "subtitle_index": 251,
+      "start_time": 2009.251,
+      "end_time": 2011.502,
+      "duration": 2.2509999999999764,
+      "dialogue_text": "Shoo. Ga weg."
+    },
+    {
+      "subtitle_index": 252,
+      "start_time": 2011.503,
+      "end_time": 2014.756,
+      "duration": 3.2530000000001564,
+      "dialogue_text": "Mijn krabben-schilden werden zwakker."
+    },
+    {
+      "subtitle_index": 253,
+      "start_time": 2014.757,
+      "end_time": 2016.992,
+      "duration": 2.2349999999999,
+      "dialogue_text": "Ik had bijna het natuurlijk evenwicht uit balans gebracht."
+    },
+    {
+      "subtitle_index": 254,
+      "start_time": 2017.092,
+      "end_time": 2018.327,
+      "duration": 1.2349999999999,
+      "dialogue_text": "Ik moet kalm blijven."
+    },
+    {
+      "subtitle_index": 255,
+      "start_time": 2018.427,
+      "end_time": 2022.263,
+      "duration": 3.8360000000000127,
+      "dialogue_text": "Als ik haar weer wil ontmoeten..."
+    },
+    {
+      "subtitle_index": 256,
+      "start_time": 2022.264,
+      "end_time": 2026.776,
+      "duration": 4.512000000000171,
+      "dialogue_text": "Deze partij zou klaar moeten zijn."
+    },
+    {
+      "subtitle_index": 257,
+      "start_time": 2034.818,
+      "end_time": 2037.912,
+      "duration": 3.094000000000051,
+      "dialogue_text": "Er zit hier geen lek."
+    },
+    {
+      "subtitle_index": 258,
+      "start_time": 2041.325,
+      "end_time": 2044.293,
+      "duration": 2.967999999999847,
+      "dialogue_text": "Deze deur zit los."
+    },
+    {
+      "subtitle_index": 259,
+      "start_time": 2048.332,
+      "end_time": 2051.259,
+      "duration": 2.9270000000001346,
+      "dialogue_text": "Die repareer ik later wel."
+    },
+    {
+      "subtitle_index": 260,
+      "start_time": 2056.882,
+      "end_time": 2060.852,
+      "duration": 3.9699999999998,
+      "dialogue_text": "Als er zelfs maar een wezen hier naar binnen is gegaan..."
+    },
+    {
+      "subtitle_index": 261,
+      "start_time": 2083.409,
+      "end_time": 2084.852,
+      "duration": 1.4429999999997563,
+      "dialogue_text": "Geweldig."
+    },
+    {
+      "subtitle_index": 262,
+      "start_time": 2084.952,
+      "end_time": 2089.873,
+      "duration": 4.920999999999822,
+      "dialogue_text": "Ik voel de kracht van de zee in mijn eigen DNA."
+    },
+    {
+      "subtitle_index": 263,
+      "start_time": 2089.874,
+      "end_time": 2094.544,
+      "duration": 4.670000000000073,
+      "dialogue_text": "Wanneer de bron vol is zal de era van de zee beginnen."
+    },
+    {
+      "subtitle_index": 264,
+      "start_time": 2094.545,
+      "end_time": 2097.714,
+      "duration": 3.168999999999869,
+      "dialogue_text": "Een explosie van leven om de era uit het Cambrium aan te passen."
+    },
+    {
+      "subtitle_index": 265,
+      "start_time": 2097.715,
+      "end_time": 2102.143,
+      "duration": 4.427999999999884,
+      "dialogue_text": "Deze opstandige era van de mens zal snel voorbij zijn."
+    },
+    {
+      "subtitle_index": 266,
+      "start_time": 2105.598,
+      "end_time": 2108.858,
+      "duration": 3.2600000000002183,
+      "dialogue_text": "Je kunt beter deze deur repareren."
+    },
+    {
+      "subtitle_index": 267,
+      "start_time": 2191.267,
+      "end_time": 2194.026,
+      "duration": 2.7590000000000146,
+      "dialogue_text": "Tanden."
+    },
+    {
+      "subtitle_index": 268,
+      "start_time": 2200.776,
+      "end_time": 2204.537,
+      "duration": 3.7609999999999673,
+      "dialogue_text": "Ik ga terug naar Sosuke."
+    },
+    {
+      "subtitle_index": 269,
+      "start_time": 2354.179,
+      "end_time": 2358.983,
+      "duration": 4.804000000000087,
+      "dialogue_text": "Een waterhoos? - Kapitein, kijk daar eens."
+    },
+    {
+      "subtitle_index": 270,
+      "start_time": 2361.061,
+      "end_time": 2365.573,
+      "duration": 4.511999999999716,
+      "dialogue_text": "Tsunami. - Stuur haar tegen de golven in."
+    },
+    {
+      "subtitle_index": 271,
+      "start_time": 2365.816,
+      "end_time": 2369.16,
+      "duration": 3.344000000000051,
+      "dialogue_text": "Wat is dat?"
+    },
+    {
+      "subtitle_index": 272,
+      "start_time": 2372.406,
+      "end_time": 2376.751,
+      "duration": 4.345000000000255,
+      "dialogue_text": "Kapitein. De zender en de radar werken niet meer."
+    },
+    {
+      "subtitle_index": 273,
+      "start_time": 2379.163,
+      "end_time": 2383.883,
+      "duration": 4.7199999999998,
+      "dialogue_text": "Een klein meisje? Ze moet net zo oud als Sosuke zijn."
+    },
+    {
+      "subtitle_index": 274,
+      "start_time": 2392.551,
+      "end_time": 2396.062,
+      "duration": 3.5109999999999673,
+      "dialogue_text": "Dag. - Tot morgen."
+    },
+    {
+      "subtitle_index": 275,
+      "start_time": 2396.388,
+      "end_time": 2400.433,
+      "duration": 4.045000000000073,
+      "dialogue_text": "Bedankt. - Pas goed op jezelf."
+    },
+    {
+      "subtitle_index": 276,
+      "start_time": 2400.434,
+      "end_time": 2403.645,
+      "duration": 3.2109999999997854,
+      "dialogue_text": "Wil je hier op Lisa wachten?"
+    },
+    {
+      "subtitle_index": 277,
+      "start_time": 2403.646,
+      "end_time": 2407.065,
+      "duration": 3.418999999999869,
+      "dialogue_text": "Het is oké, ik ga binnendoor. Tot ziens."
+    },
+    {
+      "subtitle_index": 278,
+      "start_time": 2407.066,
+      "end_time": 2409.067,
+      "duration": 2.0010000000002037,
+      "dialogue_text": "Dag."
+    },
+    {
+      "subtitle_index": 279,
+      "start_time": 2409.068,
+      "end_time": 2411.869,
+      "duration": 2.800999999999931,
+      "dialogue_text": "Wees voorzichtig."
+    },
+    {
+      "subtitle_index": 280,
+      "start_time": 2453.07,
+      "end_time": 2456.573,
+      "duration": 3.5029999999997017,
+      "dialogue_text": "Sorry, Sosuke. Er is geen stroom meer."
+    },
+    {
+      "subtitle_index": 281,
+      "start_time": 2456.574,
+      "end_time": 2459.909,
+      "duration": 3.3350000000000364,
+      "dialogue_text": "De deur wilde niet open, nietwaar? Hoe was het op school?"
+    },
+    {
+      "subtitle_index": 282,
+      "start_time": 2459.91,
+      "end_time": 2463.538,
+      "duration": 3.6280000000001564,
+      "dialogue_text": "Ga naar huis, Lisa. We redden ons wel."
+    },
+    {
+      "subtitle_index": 283,
+      "start_time": 2463.539,
+      "end_time": 2465.149,
+      "duration": 1.6099999999996726,
+      "dialogue_text": "Weet je het zeker?"
+    },
+    {
+      "subtitle_index": 284,
+      "start_time": 2465.249,
+      "end_time": 2468.001,
+      "duration": 2.7520000000004075,
+      "dialogue_text": "Maak je geen zorgen, met ons gaat het goed."
+    },
+    {
+      "subtitle_index": 285,
+      "start_time": 2468.002,
+      "end_time": 2474.348,
+      "duration": 6.346000000000004,
+      "dialogue_text": "We blijven vannacht toch hier. Je moet gaan nu het nog kan."
+    },
+    {
+      "subtitle_index": 286,
+      "start_time": 2474.508,
+      "end_time": 2478.019,
+      "duration": 3.5109999999999673,
+      "dialogue_text": "Wacht op me, Sosuke."
+    },
+    {
+      "subtitle_index": 287,
+      "start_time": 2488.522,
+      "end_time": 2490.648,
+      "duration": 2.1260000000002037,
+      "dialogue_text": "Yoshie."
+    },
+    {
+      "subtitle_index": 288,
+      "start_time": 2490.649,
+      "end_time": 2495.528,
+      "duration": 4.878999999999905,
+      "dialogue_text": "Waarom, Sosuke. Het is zo donker, ik zag je niet."
+    },
+    {
+      "subtitle_index": 289,
+      "start_time": 2495.529,
+      "end_time": 2499.29,
+      "duration": 3.7609999999999673,
+      "dialogue_text": "Dit is voor jou."
+    },
+    {
+      "subtitle_index": 290,
+      "start_time": 2500.284,
+      "end_time": 2503.328,
+      "duration": 3.043999999999869,
+      "dialogue_text": "Voor mij, wat is het?"
+    },
+    {
+      "subtitle_index": 291,
+      "start_time": 2503.329,
+      "end_time": 2505.022,
+      "duration": 1.6929999999997563,
+      "dialogue_text": "Een voor jou, Noriko."
+    },
+    {
+      "subtitle_index": 292,
+      "start_time": 2505.122,
+      "end_time": 2506.732,
+      "duration": 1.6100000000001273,
+      "dialogue_text": "Bedankt."
+    },
+    {
+      "subtitle_index": 293,
+      "start_time": 2506.832,
+      "end_time": 2509.292,
+      "duration": 2.4600000000000364,
+      "dialogue_text": "Ik zie niets."
+    },
+    {
+      "subtitle_index": 294,
+      "start_time": 2509.293,
+      "end_time": 2512.295,
+      "duration": 3.0019999999999527,
+      "dialogue_text": "Dit is zo stom."
+    },
+    {
+      "subtitle_index": 295,
+      "start_time": 2512.296,
+      "end_time": 2516.557,
+      "duration": 4.260999999999967,
+      "dialogue_text": "Ik wil er niet de nacht doorbrengen."
+    },
+    {
+      "subtitle_index": 296,
+      "start_time": 2518.594,
+      "end_time": 2523.723,
+      "duration": 5.128999999999905,
+      "dialogue_text": "Goed, er is weer stroom. - Het is een goudvis."
+    },
+    {
+      "subtitle_index": 297,
+      "start_time": 2523.724,
+      "end_time": 2528.436,
+      "duration": 4.711999999999989,
+      "dialogue_text": "Misschien heeft de magie van Sosuke de lichten weer laten branden?"
+    },
+    {
+      "subtitle_index": 298,
+      "start_time": 2528.437,
+      "end_time": 2531.272,
+      "duration": 2.8350000000000364,
+      "dialogue_text": "Een zeer krachtige... Micro-typhoon..."
+    },
+    {
+      "subtitle_index": 299,
+      "start_time": 2531.273,
+      "end_time": 2535.076,
+      "duration": 3.8029999999998836,
+      "dialogue_text": "De scheepvaart moet voorzichtig zijn..."
+    },
+    {
+      "subtitle_index": 300,
+      "start_time": 2535.194,
+      "end_time": 2537.237,
+      "duration": 2.04300000000012,
+      "dialogue_text": "Deze TV is waardeloos."
+    },
+    {
+      "subtitle_index": 301,
+      "start_time": 2537.238,
+      "end_time": 2542.2,
+      "duration": 4.961999999999989,
+      "dialogue_text": "Die imbecielen kunnen niet eens de weg uit een papieren zak voorspellen."
+    },
+    {
+      "subtitle_index": 302,
+      "start_time": 2542.201,
+      "end_time": 2544.702,
+      "duration": 2.5010000000002037,
+      "dialogue_text": "Je zou naar huis moeten gaan, Sosuke."
+    },
+    {
+      "subtitle_index": 303,
+      "start_time": 2544.703,
+      "end_time": 2551.133,
+      "duration": 6.429999999999836,
+      "dialogue_text": "Jouw goudvis zal ons geluk brengen. We zijn niet bang meer."
+    },
+    {
+      "subtitle_index": 304,
+      "start_time": 2558.259,
+      "end_time": 2561.477,
+      "duration": 3.217999999999847,
+      "dialogue_text": "Hier is die van jou, Toki."
+    },
+    {
+      "subtitle_index": 305,
+      "start_time": 2563.722,
+      "end_time": 2567.267,
+      "duration": 3.544999999999618,
+      "dialogue_text": "Deze is gerimpeld. Wat is het?"
+    },
+    {
+      "subtitle_index": 306,
+      "start_time": 2567.268,
+      "end_time": 2569.61,
+      "duration": 2.3420000000000982,
+      "dialogue_text": "Net zoals deze."
+    },
+    {
+      "subtitle_index": 307,
+      "start_time": 2570.896,
+      "end_time": 2572.981,
+      "duration": 2.0850000000000364,
+      "dialogue_text": "Ik weet het. Het is een sprinkhaan."
+    },
+    {
+      "subtitle_index": 308,
+      "start_time": 2572.982,
+      "end_time": 2575.4,
+      "duration": 2.41800000000012,
+      "dialogue_text": "Nee, de Koganei Maru."
+    },
+    {
+      "subtitle_index": 309,
+      "start_time": 2575.401,
+      "end_time": 2579.237,
+      "duration": 3.83600000000024,
+      "dialogue_text": "Dat is het schip van je vader."
+    },
+    {
+      "subtitle_index": 310,
+      "start_time": 2579.238,
+      "end_time": 2581.739,
+      "duration": 2.5010000000002037,
+      "dialogue_text": "Het lijkt nog steeds op een sprinkhaan."
+    },
+    {
+      "subtitle_index": 311,
+      "start_time": 2581.74,
+      "end_time": 2586.961,
+      "duration": 5.221000000000004,
+      "dialogue_text": "We vertrekken, Sosuke. Zeg iedereen gedag."
+    },
+    {
+      "subtitle_index": 312,
+      "start_time": 2587.872,
+      "end_time": 2590.248,
+      "duration": 2.3760000000002037,
+      "dialogue_text": "Dag iedereen."
+    },
+    {
+      "subtitle_index": 313,
+      "start_time": 2590.249,
+      "end_time": 2593.001,
+      "duration": 2.7520000000004075,
+      "dialogue_text": "Tot ziens."
+    },
+    {
+      "subtitle_index": 314,
+      "start_time": 2593.002,
+      "end_time": 2596.504,
+      "duration": 3.5019999999999527,
+      "dialogue_text": "Laat de wind je niet omver blazen."
+    },
+    {
+      "subtitle_index": 315,
+      "start_time": 2596.505,
+      "end_time": 2599.473,
+      "duration": 2.967999999999847,
+      "dialogue_text": "Klim naar de andere kant."
+    },
+    {
+      "subtitle_index": 316,
+      "start_time": 2602.803,
+      "end_time": 2605.98,
+      "duration": 3.1770000000001346,
+      "dialogue_text": "De telefoon werkt ook niet meer."
+    },
+    {
+      "subtitle_index": 317,
+      "start_time": 2628.37,
+      "end_time": 2631.464,
+      "duration": 3.094000000000051,
+      "dialogue_text": "De zee wordt omhoog gepuft."
+    },
+    {
+      "subtitle_index": 318,
+      "start_time": 2634.335,
+      "end_time": 2636.92,
+      "duration": 2.5850000000000364,
+      "dialogue_text": "Zullen de schepen zinken?"
+    },
+    {
+      "subtitle_index": 319,
+      "start_time": 2636.921,
+      "end_time": 2642.892,
+      "duration": 5.971000000000004,
+      "dialogue_text": "Op zee zijn ze veilig. Ik weet zeker dat Koichi daar ook is."
+    },
+    {
+      "subtitle_index": 320,
+      "start_time": 2653.27,
+      "end_time": 2658.115,
+      "duration": 4.8449999999998,
+      "dialogue_text": "Ik zie een vis, Lisa. - Gordel."
+    },
+    {
+      "subtitle_index": 321,
+      "start_time": 2667.743,
+      "end_time": 2669.994,
+      "duration": 2.2510000000002037,
+      "dialogue_text": "Je moet keren."
+    },
+    {
+      "subtitle_index": 322,
+      "start_time": 2669.995,
+      "end_time": 2672.872,
+      "duration": 2.8769999999999527,
+      "dialogue_text": "De mensen gaan naar de schuilplaatsen."
+    },
+    {
+      "subtitle_index": 323,
+      "start_time": 2672.873,
+      "end_time": 2677.585,
+      "duration": 4.711999999999989,
+      "dialogue_text": "Maar er zijn mensen in het bejaardenhuis."
+    },
+    {
+      "subtitle_index": 324,
+      "start_time": 2677.586,
+      "end_time": 2682.048,
+      "duration": 4.461999999999989,
+      "dialogue_text": "Die maken het wel goed. Ze zitten aan de goede kant."
+    },
+    {
+      "subtitle_index": 325,
+      "start_time": 2682.049,
+      "end_time": 2685.051,
+      "duration": 3.0019999999999527,
+      "dialogue_text": "Ik moet thuis zien te komen."
+    },
+    {
+      "subtitle_index": 326,
+      "start_time": 2685.052,
+      "end_time": 2688.771,
+      "duration": 3.719000000000051,
+      "dialogue_text": "Je kunt beter om de berg heen rijden."
+    },
+    {
+      "subtitle_index": 327,
+      "start_time": 2690.724,
+      "end_time": 2693.693,
+      "duration": 2.969000000000051,
+      "dialogue_text": "Hier gaan we, Sosuke."
+    },
+    {
+      "subtitle_index": 328,
+      "start_time": 2693.853,
+      "end_time": 2695.296,
+      "duration": 1.4429999999997563,
+      "dialogue_text": "Nee. Stop."
+    },
+    {
+      "subtitle_index": 329,
+      "start_time": 2695.396,
+      "end_time": 2698.656,
+      "duration": 3.2599999999997635,
+      "dialogue_text": "Pas op voor die golf."
+    },
+    {
+      "subtitle_index": 330,
+      "start_time": 2702.653,
+      "end_time": 2703.888,
+      "duration": 1.2350000000001273,
+      "dialogue_text": "Daar komt ie."
+    },
+    {
+      "subtitle_index": 331,
+      "start_time": 2703.988,
+      "end_time": 2707.623,
+      "duration": 3.6350000000002183,
+      "dialogue_text": "Rennen, Lisa."
+    },
+    {
+      "subtitle_index": 332,
+      "start_time": 2746.238,
+      "end_time": 2750.583,
+      "duration": 4.345000000000255,
+      "dialogue_text": "De vissen volgen ons - Gordel, Sosuke."
+    },
+    {
+      "subtitle_index": 333,
+      "start_time": 2763.047,
+      "end_time": 2765.973,
+      "duration": 2.925999999999931,
+      "dialogue_text": "Zet je schrap."
+    },
+    {
+      "subtitle_index": 334,
+      "start_time": 2816.892,
+      "end_time": 2819.944,
+      "duration": 3.0520000000001346,
+      "dialogue_text": "Die golf weet niet van ophouden."
+    },
+    {
+      "subtitle_index": 335,
+      "start_time": 2829.321,
+      "end_time": 2834.292,
+      "duration": 4.971000000000004,
+      "dialogue_text": "Er viel een klein meisje in. Ze zat op een vis."
+    },
+    {
+      "subtitle_index": 336,
+      "start_time": 2838.122,
+      "end_time": 2840.715,
+      "duration": 2.593000000000302,
+      "dialogue_text": "Waar?"
+    },
+    {
+      "subtitle_index": 337,
+      "start_time": 2848.382,
+      "end_time": 2849.95,
+      "duration": 1.5679999999997563,
+      "dialogue_text": "Het waterpeil stijgt."
+    },
+    {
+      "subtitle_index": 338,
+      "start_time": 2850.05,
+      "end_time": 2852.719,
+      "duration": 2.668999999999869,
+      "dialogue_text": "Waar heb je haar gezien?"
+    },
+    {
+      "subtitle_index": 339,
+      "start_time": 2852.72,
+      "end_time": 2855.43,
+      "duration": 2.7100000000000364,
+      "dialogue_text": "Ze rende bovenop een vis."
+    },
+    {
+      "subtitle_index": 340,
+      "start_time": 2855.431,
+      "end_time": 2857.773,
+      "duration": 2.3420000000000982,
+      "dialogue_text": "Een vis?"
+    },
+    {
+      "subtitle_index": 341,
+      "start_time": 2861.228,
+      "end_time": 2863.696,
+      "duration": 2.467999999999847,
+      "dialogue_text": "Kom op, Sosuke."
+    },
+    {
+      "subtitle_index": 342,
+      "start_time": 2878.537,
+      "end_time": 2883.09,
+      "duration": 4.553000000000338,
+      "dialogue_text": "Volhouden, Sosuke. We zijn bijna thuis."
+    },
+    {
+      "subtitle_index": 343,
+      "start_time": 2936.262,
+      "end_time": 2937.621,
+      "duration": 1.3589999999999236,
+      "dialogue_text": "Een klein meisje."
+    },
+    {
+      "subtitle_index": 344,
+      "start_time": 2937.721,
+      "end_time": 2941.307,
+      "duration": 3.5859999999997854,
+      "dialogue_text": "Hier, het is beter dat je met ons mee gaat."
+    },
+    {
+      "subtitle_index": 345,
+      "start_time": 2941.308,
+      "end_time": 2944.61,
+      "duration": 3.3020000000001346,
+      "dialogue_text": "Blijf daar, Sosuke."
+    },
+    {
+      "subtitle_index": 346,
+      "start_time": 2968.752,
+      "end_time": 2972.096,
+      "duration": 3.344000000000051,
+      "dialogue_text": "Sosuke, ken je haar?"
+    },
+    {
+      "subtitle_index": 347,
+      "start_time": 2992.234,
+      "end_time": 2994.402,
+      "duration": 2.16800000000012,
+      "dialogue_text": "Ponyo?"
+    },
+    {
+      "subtitle_index": 348,
+      "start_time": 2994.403,
+      "end_time": 2996.988,
+      "duration": 2.5850000000000364,
+      "dialogue_text": "Ja, ik ben het."
+    },
+    {
+      "subtitle_index": 349,
+      "start_time": 2996.989,
+      "end_time": 2999.957,
+      "duration": 2.967999999999847,
+      "dialogue_text": "Jij bent het echt."
+    },
+    {
+      "subtitle_index": 350,
+      "start_time": 3000.117,
+      "end_time": 3005.296,
+      "duration": 5.178999999999633,
+      "dialogue_text": "Ponyo is nu een klein meisje, Lisa."
+    },
+    {
+      "subtitle_index": 351,
+      "start_time": 3015.299,
+      "end_time": 3018.559,
+      "duration": 3.2600000000002183,
+      "dialogue_text": "Ik heb het gered."
+    },
+    {
+      "subtitle_index": 352,
+      "start_time": 3035.778,
+      "end_time": 3038.905,
+      "duration": 3.1270000000004075,
+      "dialogue_text": "Luister, kinderen."
+    },
+    {
+      "subtitle_index": 353,
+      "start_time": 3038.906,
+      "end_time": 3042.742,
+      "duration": 3.83600000000024,
+      "dialogue_text": "Hoe vreemd alles ook lijkt..."
+    },
+    {
+      "subtitle_index": 354,
+      "start_time": 3042.743,
+      "end_time": 3045.912,
+      "duration": 3.168999999999869,
+      "dialogue_text": "...we moeten rustig blijven."
+    },
+    {
+      "subtitle_index": 355,
+      "start_time": 3045.913,
+      "end_time": 3048.506,
+      "duration": 2.592999999999847,
+      "dialogue_text": "Nu is een goed moment."
+    },
+    {
+      "subtitle_index": 356,
+      "start_time": 3050.96,
+      "end_time": 3053.628,
+      "duration": 2.66800000000012,
+      "dialogue_text": "Doe je regenjas uit, Sosuke."
+    },
+    {
+      "subtitle_index": 357,
+      "start_time": 3053.629,
+      "end_time": 3057.515,
+      "duration": 3.8859999999999673,
+      "dialogue_text": "Hier Ponyo, jij houdt het licht vast."
+    },
+    {
+      "subtitle_index": 358,
+      "start_time": 3060.928,
+      "end_time": 3064.23,
+      "duration": 3.3020000000001346,
+      "dialogue_text": "Ik zal je een handdoek brengen."
+    },
+    {
+      "subtitle_index": 359,
+      "start_time": 3080.239,
+      "end_time": 3082.707,
+      "duration": 2.467999999999847,
+      "dialogue_text": "Kom op, Ponyo."
+    },
+    {
+      "subtitle_index": 360,
+      "start_time": 3083.784,
+      "end_time": 3087.128,
+      "duration": 3.344000000000051,
+      "dialogue_text": "Het ruikt precies naar jou."
+    },
+    {
+      "subtitle_index": 361,
+      "start_time": 3088.747,
+      "end_time": 3089.482,
+      "duration": 0.7350000000001273,
+      "dialogue_text": "Au."
+    },
+    {
+      "subtitle_index": 362,
+      "start_time": 3089.582,
+      "end_time": 3091.841,
+      "duration": 2.2590000000000146,
+      "dialogue_text": "Ponyo."
+    },
+    {
+      "subtitle_index": 363,
+      "start_time": 3095.504,
+      "end_time": 3100.349,
+      "duration": 4.845000000000255,
+      "dialogue_text": "Hebbes. En nu drogen we je af."
+    },
+    {
+      "subtitle_index": 364,
+      "start_time": 3103.137,
+      "end_time": 3106.647,
+      "duration": 3.5099999999997635,
+      "dialogue_text": "Zulk mooi rood haar."
+    },
+    {
+      "subtitle_index": 365,
+      "start_time": 3108.35,
+      "end_time": 3110.393,
+      "duration": 2.04300000000012,
+      "dialogue_text": "Maar je kleren zijn droog..."
+    },
+    {
+      "subtitle_index": 366,
+      "start_time": 3110.394,
+      "end_time": 3115.656,
+      "duration": 5.262000000000171,
+      "dialogue_text": "Ponyo was een vis. Water zal haar niet nat maken."
+    },
+    {
+      "subtitle_index": 367,
+      "start_time": 3118.11,
+      "end_time": 3120.195,
+      "duration": 2.0850000000000364,
+      "dialogue_text": "Dat vind ik leuk."
+    },
+    {
+      "subtitle_index": 368,
+      "start_time": 3120.196,
+      "end_time": 3123.573,
+      "duration": 3.3769999999999527,
+      "dialogue_text": "Oké. Wie wil er een warm drankje?"
+    },
+    {
+      "subtitle_index": 369,
+      "start_time": 3123.574,
+      "end_time": 3126.075,
+      "duration": 2.500999999999749,
+      "dialogue_text": "Help me met het licht, Ponyo."
+    },
+    {
+      "subtitle_index": 370,
+      "start_time": 3126.076,
+      "end_time": 3127.853,
+      "duration": 1.7770000000000437,
+      "dialogue_text": "We komen eraan."
+    },
+    {
+      "subtitle_index": 371,
+      "start_time": 3127.953,
+      "end_time": 3130.121,
+      "duration": 2.16800000000012,
+      "dialogue_text": "Denk je dat we water hebben?"
+    },
+    {
+      "subtitle_index": 372,
+      "start_time": 3130.122,
+      "end_time": 3131.148,
+      "duration": 1.0260000000002947,
+      "dialogue_text": "Natuurlijk."
+    },
+    {
+      "subtitle_index": 373,
+      "start_time": 3131.248,
+      "end_time": 3133.799,
+      "duration": 2.550999999999931,
+      "dialogue_text": "Natuurlijk."
+    },
+    {
+      "subtitle_index": 374,
+      "start_time": 3135.294,
+      "end_time": 3136.195,
+      "duration": 0.9010000000002947,
+      "dialogue_text": "Water."
+    },
+    {
+      "subtitle_index": 375,
+      "start_time": 3136.295,
+      "end_time": 3138.63,
+      "duration": 2.3350000000000364,
+      "dialogue_text": "Water."
+    },
+    {
+      "subtitle_index": 376,
+      "start_time": 3138.631,
+      "end_time": 3142.558,
+      "duration": 3.9270000000001346,
+      "dialogue_text": "We hebben een watertank buiten."
+    },
+    {
+      "subtitle_index": 377,
+      "start_time": 3143.01,
+      "end_time": 3145.386,
+      "duration": 2.375999999999749,
+      "dialogue_text": "Hoe zit het met het gas?"
+    },
+    {
+      "subtitle_index": 378,
+      "start_time": 3145.387,
+      "end_time": 3146.789,
+      "duration": 1.4020000000000437,
+      "dialogue_text": "Presto."
+    },
+    {
+      "subtitle_index": 379,
+      "start_time": 3146.889,
+      "end_time": 3147.748,
+      "duration": 0.8589999999999236,
+      "dialogue_text": "Oké."
+    },
+    {
+      "subtitle_index": 380,
+      "start_time": 3147.848,
+      "end_time": 3148.916,
+      "duration": 1.068000000000211,
+      "dialogue_text": "Oké."
+    },
+    {
+      "subtitle_index": 381,
+      "start_time": 3149.016,
+      "end_time": 3152.318,
+      "duration": 3.3020000000001346,
+      "dialogue_text": "Het is propaangas."
+    },
+    {
+      "subtitle_index": 382,
+      "start_time": 3153.646,
+      "end_time": 3156.231,
+      "duration": 2.5850000000000364,
+      "dialogue_text": "Oké, ga zitten."
+    },
+    {
+      "subtitle_index": 383,
+      "start_time": 3156.232,
+      "end_time": 3157.466,
+      "duration": 1.2339999999999236,
+      "dialogue_text": "Oké."
+    },
+    {
+      "subtitle_index": 384,
+      "start_time": 3157.566,
+      "end_time": 3160.785,
+      "duration": 3.219000000000051,
+      "dialogue_text": "Hier, Ponyo."
+    },
+    {
+      "subtitle_index": 385,
+      "start_time": 3165.282,
+      "end_time": 3168.125,
+      "duration": 2.842999999999847,
+      "dialogue_text": "Ga zo zitten."
+    },
+    {
+      "subtitle_index": 386,
+      "start_time": 3169.995,
+      "end_time": 3173.172,
+      "duration": 3.1770000000001346,
+      "dialogue_text": "Zet je spullen neer."
+    },
+    {
+      "subtitle_index": 387,
+      "start_time": 3174.083,
+      "end_time": 3176.084,
+      "duration": 2.000999999999749,
+      "dialogue_text": "Je hebt je handen nodig."
+    },
+    {
+      "subtitle_index": 388,
+      "start_time": 3176.085,
+      "end_time": 3178.803,
+      "duration": 2.717999999999847,
+      "dialogue_text": "Ik heb voeten."
+    },
+    {
+      "subtitle_index": 389,
+      "start_time": 3180.506,
+      "end_time": 3183.057,
+      "duration": 2.550999999999931,
+      "dialogue_text": "Wauw."
+    },
+    {
+      "subtitle_index": 390,
+      "start_time": 3184.885,
+      "end_time": 3187.136,
+      "duration": 2.250999999999749,
+      "dialogue_text": "Wat zijn jullie aan het doen?"
+    },
+    {
+      "subtitle_index": 391,
+      "start_time": 3187.137,
+      "end_time": 3191.232,
+      "duration": 4.0949999999998,
+      "dialogue_text": "Haar voeten zijn net handen."
+    },
+    {
+      "subtitle_index": 392,
+      "start_time": 3209.493,
+      "end_time": 3212.295,
+      "duration": 2.8020000000001346,
+      "dialogue_text": "Alsjeblieft."
+    },
+    {
+      "subtitle_index": 393,
+      "start_time": 3218.46,
+      "end_time": 3221.137,
+      "duration": 2.6770000000001346,
+      "dialogue_text": "Dit is geweldig."
+    },
+    {
+      "subtitle_index": 394,
+      "start_time": 3268.052,
+      "end_time": 3271.012,
+      "duration": 2.9600000000000364,
+      "dialogue_text": "Deze was raak."
+    },
+    {
+      "subtitle_index": 395,
+      "start_time": 3271.013,
+      "end_time": 3274.432,
+      "duration": 3.418999999999869,
+      "dialogue_text": "Wat zullen we nu doen?"
+    },
+    {
+      "subtitle_index": 396,
+      "start_time": 3274.433,
+      "end_time": 3276.085,
+      "duration": 1.6520000000000437,
+      "dialogue_text": "Ik wil ham."
+    },
+    {
+      "subtitle_index": 397,
+      "start_time": 3276.185,
+      "end_time": 3279.695,
+      "duration": 3.5100000000002183,
+      "dialogue_text": "Ze is gek op ham."
+    },
+    {
+      "subtitle_index": 398,
+      "start_time": 3279.855,
+      "end_time": 3282.19,
+      "duration": 2.3350000000000364,
+      "dialogue_text": "Laten we dan gaan eten."
+    },
+    {
+      "subtitle_index": 399,
+      "start_time": 3282.191,
+      "end_time": 3286.41,
+      "duration": 4.219000000000051,
+      "dialogue_text": "Maar we starten eerst de generator."
+    },
+    {
+      "subtitle_index": 400,
+      "start_time": 3286.445,
+      "end_time": 3290.698,
+      "duration": 4.252999999999702,
+      "dialogue_text": "Wij hebben elektriciteit nodig om met Koichi te spreken."
+    },
+    {
+      "subtitle_index": 401,
+      "start_time": 3290.699,
+      "end_time": 3293.409,
+      "duration": 2.7100000000000364,
+      "dialogue_text": "Koichi is mijn vader."
+    },
+    {
+      "subtitle_index": 402,
+      "start_time": 3293.41,
+      "end_time": 3295.146,
+      "duration": 1.736000000000331,
+      "dialogue_text": "Is hij een kwade tovenaar?"
+    },
+    {
+      "subtitle_index": 403,
+      "start_time": 3295.246,
+      "end_time": 3299.332,
+      "duration": 4.085999999999785,
+      "dialogue_text": "Nee, gek. Hij is kapitein op een schip."
+    },
+    {
+      "subtitle_index": 404,
+      "start_time": 3299.333,
+      "end_time": 3301.626,
+      "duration": 2.29300000000012,
+      "dialogue_text": "En jouw vader, Ponyo?"
+    },
+    {
+      "subtitle_index": 405,
+      "start_time": 3301.627,
+      "end_time": 3305.547,
+      "duration": 3.9200000000000728,
+      "dialogue_text": "Fujimoto. Hij houdt me gevangen."
+    },
+    {
+      "subtitle_index": 406,
+      "start_time": 3305.548,
+      "end_time": 3309.016,
+      "duration": 3.468000000000302,
+      "dialogue_text": "Ik ben weggelopen."
+    },
+    {
+      "subtitle_index": 407,
+      "start_time": 3309.26,
+      "end_time": 3311.261,
+      "duration": 2.000999999999749,
+      "dialogue_text": "En je moeder?"
+    },
+    {
+      "subtitle_index": 408,
+      "start_time": 3311.262,
+      "end_time": 3314.806,
+      "duration": 3.543999999999869,
+      "dialogue_text": "Ik hou van mijn moeder."
+    },
+    {
+      "subtitle_index": 409,
+      "start_time": 3314.807,
+      "end_time": 3317.517,
+      "duration": 2.7100000000000364,
+      "dialogue_text": "Ze ziet er heel eng uit."
+    },
+    {
+      "subtitle_index": 410,
+      "start_time": 3317.518,
+      "end_time": 3320.111,
+      "duration": 2.592999999999847,
+      "dialogue_text": "Dat moet Lisa zijn."
+    },
+    {
+      "subtitle_index": 411,
+      "start_time": 3323.899,
+      "end_time": 3327.076,
+      "duration": 3.1770000000001346,
+      "dialogue_text": "Kun je me helpen, Ponyo?"
+    },
+    {
+      "subtitle_index": 412,
+      "start_time": 3341.75,
+      "end_time": 3345.086,
+      "duration": 3.3359999999997854,
+      "dialogue_text": "Misschien ligt het aan de benzine?"
+    },
+    {
+      "subtitle_index": 413,
+      "start_time": 3345.087,
+      "end_time": 3346.322,
+      "duration": 1.2350000000001273,
+      "dialogue_text": "Zit het verstopt?"
+    },
+    {
+      "subtitle_index": 414,
+      "start_time": 3346.422,
+      "end_time": 3347.656,
+      "duration": 1.2339999999999236,
+      "dialogue_text": "Verstopt."
+    },
+    {
+      "subtitle_index": 415,
+      "start_time": 3347.756,
+      "end_time": 3351.309,
+      "duration": 3.5530000000003383,
+      "dialogue_text": "Het zit daar verstopt."
+    },
+    {
+      "subtitle_index": 416,
+      "start_time": 3365.024,
+      "end_time": 3366.55,
+      "duration": 1.5260000000002947,
+      "dialogue_text": "Succes."
+    },
+    {
+      "subtitle_index": 417,
+      "start_time": 3366.65,
+      "end_time": 3369.785,
+      "duration": 3.1349999999997635,
+      "dialogue_text": "Hij doet het weer."
+    },
+    {
+      "subtitle_index": 418,
+      "start_time": 3370.196,
+      "end_time": 3373.372,
+      "duration": 3.175999999999931,
+      "dialogue_text": "Wauw, Ponyo."
+    },
+    {
+      "subtitle_index": 419,
+      "start_time": 3390.049,
+      "end_time": 3391.826,
+      "duration": 1.7770000000000437,
+      "dialogue_text": "Antenne. Antenne."
+    },
+    {
+      "subtitle_index": 420,
+      "start_time": 3391.926,
+      "end_time": 3396.229,
+      "duration": 4.302999999999884,
+      "dialogue_text": "Zijn alle schepen gezonken, Lisa?"
+    },
+    {
+      "subtitle_index": 421,
+      "start_time": 3396.305,
+      "end_time": 3399.857,
+      "duration": 3.5520000000001346,
+      "dialogue_text": "Ik zie geen enkel licht."
+    },
+    {
+      "subtitle_index": 422,
+      "start_time": 3416.45,
+      "end_time": 3418.451,
+      "duration": 2.0010000000002037,
+      "dialogue_text": "Wat een herrie."
+    },
+    {
+      "subtitle_index": 423,
+      "start_time": 3418.452,
+      "end_time": 3420.578,
+      "duration": 2.125999999999749,
+      "dialogue_text": "Wat is er?"
+    },
+    {
+      "subtitle_index": 424,
+      "start_time": 3420.579,
+      "end_time": 3424.249,
+      "duration": 3.669999999999618,
+      "dialogue_text": "Zelfs de zender heeft kuren."
+    },
+    {
+      "subtitle_index": 425,
+      "start_time": 3424.25,
+      "end_time": 3428.711,
+      "duration": 4.460999999999785,
+      "dialogue_text": "Dit is JA4LL...JA4LL."
+    },
+    {
+      "subtitle_index": 426,
+      "start_time": 3428.712,
+      "end_time": 3430.573,
+      "duration": 1.8609999999998763,
+      "dialogue_text": "Ontvang je mij, Koichi."
+    },
+    {
+      "subtitle_index": 427,
+      "start_time": 3430.673,
+      "end_time": 3436.227,
+      "duration": 5.554000000000087,
+      "dialogue_text": "Dit zijn Lisa, Sosuke en Ponyo. We zijn in orde."
+    },
+    {
+      "subtitle_index": 428,
+      "start_time": 3436.303,
+      "end_time": 3439.055,
+      "duration": 2.7519999999999527,
+      "dialogue_text": "We gaan zo eten."
+    },
+    {
+      "subtitle_index": 429,
+      "start_time": 3439.056,
+      "end_time": 3441.732,
+      "duration": 2.675999999999931,
+      "dialogue_text": "Ham."
+    },
+    {
+      "subtitle_index": 430,
+      "start_time": 3449.233,
+      "end_time": 3454.412,
+      "duration": 5.178999999999633,
+      "dialogue_text": "Klaar? Voorzichtig, het is heet."
+    },
+    {
+      "subtitle_index": 431,
+      "start_time": 3468.544,
+      "end_time": 3470.404,
+      "duration": 1.8600000000001273,
+      "dialogue_text": "Het is nog niet klaar."
+    },
+    {
+      "subtitle_index": 432,
+      "start_time": 3470.504,
+      "end_time": 3473.472,
+      "duration": 2.968000000000302,
+      "dialogue_text": "Het duurt drie minuten."
+    },
+    {
+      "subtitle_index": 433,
+      "start_time": 3487.062,
+      "end_time": 3489.689,
+      "duration": 2.6269999999999527,
+      "dialogue_text": "Doe je ogen dicht."
+    },
+    {
+      "subtitle_index": 434,
+      "start_time": 3489.69,
+      "end_time": 3492.658,
+      "duration": 2.967999999999847,
+      "dialogue_text": "Nog niet."
+    },
+    {
+      "subtitle_index": 435,
+      "start_time": 3493.694,
+      "end_time": 3496.913,
+      "duration": 3.219000000000051,
+      "dialogue_text": "Niet gluren, Ponyo."
+    },
+    {
+      "subtitle_index": 436,
+      "start_time": 3499.283,
+      "end_time": 3502.118,
+      "duration": 2.8350000000000364,
+      "dialogue_text": "Oké, je mag je ogen open doen."
+    },
+    {
+      "subtitle_index": 437,
+      "start_time": 3502.119,
+      "end_time": 3505.63,
+      "duration": 3.5109999999999673,
+      "dialogue_text": "En...presto."
+    },
+    {
+      "subtitle_index": 438,
+      "start_time": 3510.669,
+      "end_time": 3511.737,
+      "duration": 1.068000000000211,
+      "dialogue_text": "Ham."
+    },
+    {
+      "subtitle_index": 439,
+      "start_time": 3511.837,
+      "end_time": 3514.764,
+      "duration": 2.9270000000001346,
+      "dialogue_text": "Dat is goed voor je, Ponyo."
+    },
+    {
+      "subtitle_index": 440,
+      "start_time": 3534.86,
+      "end_time": 3538.204,
+      "duration": 3.344000000000051,
+      "dialogue_text": "Ponyo ligt te slapen."
+    },
+    {
+      "subtitle_index": 441,
+      "start_time": 3544.161,
+      "end_time": 3546.579,
+      "duration": 2.41800000000012,
+      "dialogue_text": "Is haar huis ver weg?"
+    },
+    {
+      "subtitle_index": 442,
+      "start_time": 3546.58,
+      "end_time": 3549.882,
+      "duration": 3.3020000000001346,
+      "dialogue_text": "Ik denk van wel."
+    },
+    {
+      "subtitle_index": 443,
+      "start_time": 3564.265,
+      "end_time": 3568.101,
+      "duration": 3.83600000000024,
+      "dialogue_text": "Kijk, Sosuke. De zee is rustiger geworden."
+    },
+    {
+      "subtitle_index": 444,
+      "start_time": 3568.102,
+      "end_time": 3569.628,
+      "duration": 1.5260000000002947,
+      "dialogue_text": "Omdat Ponyo ligt te slapen?"
+    },
+    {
+      "subtitle_index": 445,
+      "start_time": 3569.728,
+      "end_time": 3572.864,
+      "duration": 3.1359999999999673,
+      "dialogue_text": "Kijk daar eens."
+    },
+    {
+      "subtitle_index": 446,
+      "start_time": 3579.321,
+      "end_time": 3582.365,
+      "duration": 3.043999999999869,
+      "dialogue_text": "Het beweegt. Daar is iemand."
+    },
+    {
+      "subtitle_index": 447,
+      "start_time": 3582.366,
+      "end_time": 3585.459,
+      "duration": 3.092999999999847,
+      "dialogue_text": "Mensen van het bejaardenhuis?"
+    },
+    {
+      "subtitle_index": 448,
+      "start_time": 3590.708,
+      "end_time": 3591.901,
+      "duration": 1.1929999999997563,
+      "dialogue_text": "Het is weg."
+    },
+    {
+      "subtitle_index": 449,
+      "start_time": 3592.001,
+      "end_time": 3594.969,
+      "duration": 2.967999999999847,
+      "dialogue_text": "Dat is de piekweg."
+    },
+    {
+      "subtitle_index": 450,
+      "start_time": 3597.423,
+      "end_time": 3600.725,
+      "duration": 3.3020000000001346,
+      "dialogue_text": "Sosuke, blijf hier met Ponyo."
+    },
+    {
+      "subtitle_index": 451,
+      "start_time": 3610.811,
+      "end_time": 3616.115,
+      "duration": 5.303999999999633,
+      "dialogue_text": "Misschien kom ik er doorheen via de bergweg."
+    },
+    {
+      "subtitle_index": 452,
+      "start_time": 3617.693,
+      "end_time": 3620.32,
+      "duration": 2.6269999999999527,
+      "dialogue_text": "Ik ga naar het bejaardenhuis."
+    },
+    {
+      "subtitle_index": 453,
+      "start_time": 3620.321,
+      "end_time": 3622.739,
+      "duration": 2.41800000000012,
+      "dialogue_text": "Ik ga mee."
+    },
+    {
+      "subtitle_index": 454,
+      "start_time": 3622.74,
+      "end_time": 3624.991,
+      "duration": 2.2510000000002037,
+      "dialogue_text": "Blijf hier bij Ponyo."
+    },
+    {
+      "subtitle_index": 455,
+      "start_time": 3624.992,
+      "end_time": 3629.078,
+      "duration": 4.085999999999785,
+      "dialogue_text": "Ik ga ook mee. Laten we Ponyo meenemen."
+    },
+    {
+      "subtitle_index": 456,
+      "start_time": 3629.079,
+      "end_time": 3631.797,
+      "duration": 2.717999999999847,
+      "dialogue_text": "Ik ga met je mee."
+    },
+    {
+      "subtitle_index": 457,
+      "start_time": 3632.75,
+      "end_time": 3636.711,
+      "duration": 3.9609999999997854,
+      "dialogue_text": "Sosuke, ons huis is als een vuurtoren in de storm."
+    },
+    {
+      "subtitle_index": 458,
+      "start_time": 3636.712,
+      "end_time": 3640.84,
+      "duration": 4.128000000000156,
+      "dialogue_text": "Iedereen is afhankelijk van ons."
+    },
+    {
+      "subtitle_index": 459,
+      "start_time": 3640.841,
+      "end_time": 3643.718,
+      "duration": 2.8769999999999527,
+      "dialogue_text": "Er moet iemand hier blijven."
+    },
+    {
+      "subtitle_index": 460,
+      "start_time": 3643.719,
+      "end_time": 3648.64,
+      "duration": 4.920999999999822,
+      "dialogue_text": "Er gebeuren veel dingen die ik niet begrijp."
+    },
+    {
+      "subtitle_index": 461,
+      "start_time": 3648.641,
+      "end_time": 3653.895,
+      "duration": 5.253999999999905,
+      "dialogue_text": "Maar op dit moment maak ik me zorgen om de mensen in het bejaardenhuis."
+    },
+    {
+      "subtitle_index": 462,
+      "start_time": 3653.896,
+      "end_time": 3658.066,
+      "duration": 4.169999999999618,
+      "dialogue_text": "Als ik weet dat je hier bent zal me helpen."
+    },
+    {
+      "subtitle_index": 463,
+      "start_time": 3658.067,
+      "end_time": 3662.328,
+      "duration": 4.260999999999967,
+      "dialogue_text": "Maak je geen zorgen. Ik beloof dat ik terug kom."
+    },
+    {
+      "subtitle_index": 464,
+      "start_time": 3662.53,
+      "end_time": 3664.831,
+      "duration": 2.300999999999931,
+      "dialogue_text": "Beloofd?"
+    },
+    {
+      "subtitle_index": 465,
+      "start_time": 3664.99,
+      "end_time": 3666.35,
+      "duration": 1.3600000000001273,
+      "dialogue_text": "Dat beloof ik."
+    },
+    {
+      "subtitle_index": 466,
+      "start_time": 3666.45,
+      "end_time": 3668.952,
+      "duration": 2.5020000000004075,
+      "dialogue_text": "Je hebt het beloofd."
+    },
+    {
+      "subtitle_index": 467,
+      "start_time": 3668.953,
+      "end_time": 3671.838,
+      "duration": 2.8850000000002183,
+      "dialogue_text": "Ik hou van je, Sosuke."
+    },
+    {
+      "subtitle_index": 468,
+      "start_time": 3725.259,
+      "end_time": 3728.845,
+      "duration": 3.5859999999997854,
+      "dialogue_text": "Ik zie de stadsverlichting."
+    },
+    {
+      "subtitle_index": 469,
+      "start_time": 3728.846,
+      "end_time": 3730.164,
+      "duration": 1.318000000000211,
+      "dialogue_text": "Eindelijk..."
+    },
+    {
+      "subtitle_index": 470,
+      "start_time": 3730.264,
+      "end_time": 3732.124,
+      "duration": 1.8599999999996726,
+      "dialogue_text": "Nu kunnen we navigeren."
+    },
+    {
+      "subtitle_index": 471,
+      "start_time": 3732.224,
+      "end_time": 3735.985,
+      "duration": 3.7609999999999673,
+      "dialogue_text": "Ik heb die stad nog nooit gezien."
+    },
+    {
+      "subtitle_index": 472,
+      "start_time": 3740.441,
+      "end_time": 3744.535,
+      "duration": 4.094000000000051,
+      "dialogue_text": "Heeft de storm ons richting Amerika geblazen?"
+    },
+    {
+      "subtitle_index": 473,
+      "start_time": 3761.003,
+      "end_time": 3764.672,
+      "duration": 3.668999999999869,
+      "dialogue_text": "Dat is geen berg. En dat is geen haven..."
+    },
+    {
+      "subtitle_index": 474,
+      "start_time": 3764.673,
+      "end_time": 3767.308,
+      "duration": 2.6350000000002183,
+      "dialogue_text": "Dat zijn schepen."
+    },
+    {
+      "subtitle_index": 475,
+      "start_time": 3776.101,
+      "end_time": 3779.729,
+      "duration": 3.6279999999997017,
+      "dialogue_text": "De zee is omhoog gestapeld tegen een berg."
+    },
+    {
+      "subtitle_index": 476,
+      "start_time": 3779.73,
+      "end_time": 3785.326,
+      "duration": 5.596000000000004,
+      "dialogue_text": "Het is een kerkhof voor schepen. Wat is er aan de hand?"
+    },
+    {
+      "subtitle_index": 477,
+      "start_time": 3789.114,
+      "end_time": 3790.474,
+      "duration": 1.3600000000001273,
+      "dialogue_text": "We hebben geen vermogen meer."
+    },
+    {
+      "subtitle_index": 478,
+      "start_time": 3790.574,
+      "end_time": 3793.743,
+      "duration": 3.168999999999869,
+      "dialogue_text": "Ruk aan. Laat het zeeanker vallen."
+    },
+    {
+      "subtitle_index": 479,
+      "start_time": 3793.744,
+      "end_time": 3796.212,
+      "duration": 2.467999999999847,
+      "dialogue_text": "Aye-aye."
+    },
+    {
+      "subtitle_index": 480,
+      "start_time": 3808.175,
+      "end_time": 3811.269,
+      "duration": 3.093999999999596,
+      "dialogue_text": "Er komt iets aan."
+    },
+    {
+      "subtitle_index": 481,
+      "start_time": 3837.955,
+      "end_time": 3841.048,
+      "duration": 3.092999999999847,
+      "dialogue_text": "Een Godin van de zee?"
+    },
+    {
+      "subtitle_index": 482,
+      "start_time": 3850.301,
+      "end_time": 3851.368,
+      "duration": 1.0670000000000073,
+      "dialogue_text": "De motor."
+    },
+    {
+      "subtitle_index": 483,
+      "start_time": 3851.468,
+      "end_time": 3852.62,
+      "duration": 1.1520000000000437,
+      "dialogue_text": "We zijn gered."
+    },
+    {
+      "subtitle_index": 484,
+      "start_time": 3852.72,
+      "end_time": 3855.889,
+      "duration": 3.169000000000324,
+      "dialogue_text": "De motor doet het weer. Zij was het."
+    },
+    {
+      "subtitle_index": 485,
+      "start_time": 3855.89,
+      "end_time": 3860.818,
+      "duration": 4.928000000000338,
+      "dialogue_text": "Bescherm ons tegen het kwaad"
+    },
+    {
+      "subtitle_index": 486,
+      "start_time": 3886.795,
+      "end_time": 3889.805,
+      "duration": 3.0099999999997635,
+      "dialogue_text": "Kom op."
+    },
+    {
+      "subtitle_index": 487,
+      "start_time": 3901.936,
+      "end_time": 3908.199,
+      "duration": 6.26299999999992,
+      "dialogue_text": "Een barrière spreuk. Waar heeft ze dat geleerd?"
+    },
+    {
+      "subtitle_index": 488,
+      "start_time": 3924.583,
+      "end_time": 3928.461,
+      "duration": 3.8779999999997017,
+      "dialogue_text": "Goede God...ze is een mens."
+    },
+    {
+      "subtitle_index": 489,
+      "start_time": 3928.462,
+      "end_time": 3932.682,
+      "duration": 4.2199999999998,
+      "dialogue_text": "Hey, pas op. Wat ben je aan het doen?"
+    },
+    {
+      "subtitle_index": 490,
+      "start_time": 3939.431,
+      "end_time": 3943.484,
+      "duration": 4.052999999999884,
+      "dialogue_text": "Stop. Dit is onveilig."
+    },
+    {
+      "subtitle_index": 491,
+      "start_time": 3945.229,
+      "end_time": 3947.905,
+      "duration": 2.6760000000003856,
+      "dialogue_text": "Direct stoppen."
+    },
+    {
+      "subtitle_index": 492,
+      "start_time": 3954.363,
+      "end_time": 3959.0,
+      "duration": 4.637000000000171,
+      "dialogue_text": "Ik probeer gewoon je zus te redden."
+    },
+    {
+      "subtitle_index": 493,
+      "start_time": 3963.038,
+      "end_time": 3967.383,
+      "duration": 4.3449999999998,
+      "dialogue_text": "Ze is hier. Ze heeft mijn oproep beantwoord."
+    },
+    {
+      "subtitle_index": 494,
+      "start_time": 4002.87,
+      "end_time": 4007.248,
+      "duration": 4.378000000000156,
+      "dialogue_text": "Fujimoto... - Je bent gekomen, mijn grote liefde."
+    },
+    {
+      "subtitle_index": 495,
+      "start_time": 4007.249,
+      "end_time": 4010.468,
+      "duration": 3.219000000000051,
+      "dialogue_text": "Wat een prachtige zee."
+    },
+    {
+      "subtitle_index": 496,
+      "start_time": 4012.963,
+      "end_time": 4018.092,
+      "duration": 5.128999999999905,
+      "dialogue_text": "Vol met magie, net als mijn vroegere Devoon zee."
+    },
+    {
+      "subtitle_index": 497,
+      "start_time": 4018.093,
+      "end_time": 4020.887,
+      "duration": 2.794000000000324,
+      "dialogue_text": "Het is Ponyo. Ze heeft menselijk bloed geproefd..."
+    },
+    {
+      "subtitle_index": 498,
+      "start_time": 4020.888,
+      "end_time": 4024.933,
+      "duration": 4.045000000000073,
+      "dialogue_text": "...en heeft mijn elixer gestolen."
+    },
+    {
+      "subtitle_index": 499,
+      "start_time": 4024.934,
+      "end_time": 4029.987,
+      "duration": 5.052999999999884,
+      "dialogue_text": "Ponyo...wat een wonderschone naam."
+    },
+    {
+      "subtitle_index": 500,
+      "start_time": 4034.318,
+      "end_time": 4036.819,
+      "duration": 2.500999999999749,
+      "dialogue_text": "Het is allemaal mijn schuld."
+    },
+    {
+      "subtitle_index": 501,
+      "start_time": 4036.82,
+      "end_time": 4041.324,
+      "duration": 4.503999999999905,
+      "dialogue_text": "Ik heb geen controle meer over haar. Het is een chaos."
+    },
+    {
+      "subtitle_index": 502,
+      "start_time": 4041.325,
+      "end_time": 4044.327,
+      "duration": 3.0020000000004075,
+      "dialogue_text": "Ze begrijpt niet wat ze gedaan heeft."
+    },
+    {
+      "subtitle_index": 503,
+      "start_time": 4044.328,
+      "end_time": 4050.542,
+      "duration": 6.213999999999942,
+      "dialogue_text": "Nu is ze een mens, en ze is daarboven met haar vriendje."
+    },
+    {
+      "subtitle_index": 504,
+      "start_time": 4050.543,
+      "end_time": 4055.388,
+      "duration": 4.8449999999998,
+      "dialogue_text": "Als we haar niet tegenhouden, kan dit het einde van de planeet betekenen."
+    },
+    {
+      "subtitle_index": 505,
+      "start_time": 4062.972,
+      "end_time": 4065.849,
+      "duration": 2.8769999999999527,
+      "dialogue_text": "Nee. De satellieten vallen."
+    },
+    {
+      "subtitle_index": 506,
+      "start_time": 4065.85,
+      "end_time": 4069.769,
+      "duration": 3.918999999999869,
+      "dialogue_text": "De zwaartekracht van de aarde..."
+    },
+    {
+      "subtitle_index": 507,
+      "start_time": 4069.77,
+      "end_time": 4072.738,
+      "duration": 2.967999999999847,
+      "dialogue_text": "Stil..."
+    },
+    {
+      "subtitle_index": 508,
+      "start_time": 4078.654,
+      "end_time": 4083.833,
+      "duration": 5.179000000000087,
+      "dialogue_text": "Sosuke...dat is zijn naam, nietwaar?"
+    },
+    {
+      "subtitle_index": 509,
+      "start_time": 4085.953,
+      "end_time": 4091.09,
+      "duration": 5.137000000000171,
+      "dialogue_text": "Jullie houden van je zus, nietwaar?"
+    },
+    {
+      "subtitle_index": 510,
+      "start_time": 4093.252,
+      "end_time": 4097.839,
+      "duration": 4.586999999999989,
+      "dialogue_text": "Luister. Schat, wat als Ponyo echt een mens zou worden?"
+    },
+    {
+      "subtitle_index": 511,
+      "start_time": 4097.84,
+      "end_time": 4099.617,
+      "duration": 1.7770000000000437,
+      "dialogue_text": "Gebruik de oude magie."
+    },
+    {
+      "subtitle_index": 512,
+      "start_time": 4099.717,
+      "end_time": 4104.762,
+      "duration": 5.045000000000073,
+      "dialogue_text": "Als de liefde van Sosuke echt is, zal ze voor altijd haar kracht verliezen."
+    },
+    {
+      "subtitle_index": 513,
+      "start_time": 4104.763,
+      "end_time": 4109.684,
+      "duration": 4.9210000000002765,
+      "dialogue_text": "Maar als dat niet het geval is, zal ze in zeeschuim veranderen."
+    },
+    {
+      "subtitle_index": 514,
+      "start_time": 4109.685,
+      "end_time": 4113.646,
+      "duration": 3.9609999999993306,
+      "dialogue_text": "Daar komen we allemaal vandaan, schat."
+    },
+    {
+      "subtitle_index": 515,
+      "start_time": 4113.647,
+      "end_time": 4117.783,
+      "duration": 4.136000000000422,
+      "dialogue_text": "Hij is nog maar vijf jaar oud."
+    },
+    {
+      "subtitle_index": 516,
+      "start_time": 4121.78,
+      "end_time": 4126.792,
+      "duration": 5.012000000000626,
+      "dialogue_text": "Slaap zacht, kleine kinderen."
+    },
+    {
+      "subtitle_index": 517,
+      "start_time": 4138.506,
+      "end_time": 4140.932,
+      "duration": 2.425999999999476,
+      "dialogue_text": "Sosuke."
+    },
+    {
+      "subtitle_index": 518,
+      "start_time": 4141.091,
+      "end_time": 4143.551,
+      "duration": 2.4600000000000364,
+      "dialogue_text": "Sosuke."
+    },
+    {
+      "subtitle_index": 519,
+      "start_time": 4143.552,
+      "end_time": 4146.479,
+      "duration": 2.9270000000005894,
+      "dialogue_text": "Au."
+    },
+    {
+      "subtitle_index": 520,
+      "start_time": 4147.806,
+      "end_time": 4149.807,
+      "duration": 2.0010000000002037,
+      "dialogue_text": "Goedemorgen, Ponyo."
+    },
+    {
+      "subtitle_index": 521,
+      "start_time": 4149.808,
+      "end_time": 4153.528,
+      "duration": 3.7200000000002547,
+      "dialogue_text": "Goedemorgen, Sosuke."
+    },
+    {
+      "subtitle_index": 522,
+      "start_time": 4158.484,
+      "end_time": 4162.328,
+      "duration": 3.844000000000051,
+      "dialogue_text": "We zijn bijna overspoeld met water."
+    },
+    {
+      "subtitle_index": 523,
+      "start_time": 4184.426,
+      "end_time": 4188.596,
+      "duration": 4.169999999999163,
+      "dialogue_text": "Waar is Lisa? - Ze zit zeker ergens vast."
+    },
+    {
+      "subtitle_index": 524,
+      "start_time": 4188.597,
+      "end_time": 4192.775,
+      "duration": 4.177999999999884,
+      "dialogue_text": "Ik wou dat we een boot hadden."
+    },
+    {
+      "subtitle_index": 525,
+      "start_time": 4194.645,
+      "end_time": 4197.488,
+      "duration": 2.842999999999847,
+      "dialogue_text": "Daar is een boot."
+    },
+    {
+      "subtitle_index": 526,
+      "start_time": 4198.399,
+      "end_time": 4199.633,
+      "duration": 1.2339999999994689,
+      "dialogue_text": "We passen er niet in."
+    },
+    {
+      "subtitle_index": 527,
+      "start_time": 4199.733,
+      "end_time": 4202.66,
+      "duration": 2.92699999999968,
+      "dialogue_text": "Straks wel."
+    },
+    {
+      "subtitle_index": 528,
+      "start_time": 4217.126,
+      "end_time": 4219.51,
+      "duration": 2.3840000000000146,
+      "dialogue_text": "Geweldig."
+    },
+    {
+      "subtitle_index": 529,
+      "start_time": 4220.171,
+      "end_time": 4223.298,
+      "duration": 3.126999999999498,
+      "dialogue_text": "De kaars is ook groter."
+    },
+    {
+      "subtitle_index": 530,
+      "start_time": 4223.299,
+      "end_time": 4224.658,
+      "duration": 1.3590000000003783,
+      "dialogue_text": "Nu passen we wel."
+    },
+    {
+      "subtitle_index": 531,
+      "start_time": 4224.758,
+      "end_time": 4226.077,
+      "duration": 1.3190000000004147,
+      "dialogue_text": "Dit is gaaf."
+    },
+    {
+      "subtitle_index": 532,
+      "start_time": 4226.177,
+      "end_time": 4227.495,
+      "duration": 1.318000000000211,
+      "dialogue_text": "Gaaf."
+    },
+    {
+      "subtitle_index": 533,
+      "start_time": 4227.595,
+      "end_time": 4230.062,
+      "duration": 2.4669999999996435,
+      "dialogue_text": "Ga naar die kant."
+    },
+    {
+      "subtitle_index": 534,
+      "start_time": 4232.641,
+      "end_time": 4234.001,
+      "duration": 1.360000000000582,
+      "dialogue_text": "Klaar?"
+    },
+    {
+      "subtitle_index": 535,
+      "start_time": 4234.101,
+      "end_time": 4236.652,
+      "duration": 2.5510000000003856,
+      "dialogue_text": "Klaar."
+    },
+    {
+      "subtitle_index": 536,
+      "start_time": 4248.449,
+      "end_time": 4251.417,
+      "duration": 2.9680000000007567,
+      "dialogue_text": "Ze is zeewaardig."
+    },
+    {
+      "subtitle_index": 537,
+      "start_time": 4252.411,
+      "end_time": 4254.954,
+      "duration": 2.5429999999996653,
+      "dialogue_text": "Geweldig. Ze lekt niet."
+    },
+    {
+      "subtitle_index": 538,
+      "start_time": 4254.955,
+      "end_time": 4258.082,
+      "duration": 3.1270000000004075,
+      "dialogue_text": "Nu vullen wij de boiler."
+    },
+    {
+      "subtitle_index": 539,
+      "start_time": 4258.083,
+      "end_time": 4261.044,
+      "duration": 2.96100000000024,
+      "dialogue_text": "Het water gaat hierin."
+    },
+    {
+      "subtitle_index": 540,
+      "start_time": 4261.045,
+      "end_time": 4264.972,
+      "duration": 3.92699999999968,
+      "dialogue_text": "Het gaat in de boiler."
+    },
+    {
+      "subtitle_index": 541,
+      "start_time": 4291.033,
+      "end_time": 4294.001,
+      "duration": 2.967999999999847,
+      "dialogue_text": "Als een raket."
+    },
+    {
+      "subtitle_index": 542,
+      "start_time": 4299.875,
+      "end_time": 4301.444,
+      "duration": 1.5690000000004147,
+      "dialogue_text": "Alles is keurig."
+    },
+    {
+      "subtitle_index": 543,
+      "start_time": 4301.544,
+      "end_time": 4303.837,
+      "duration": 2.293000000000575,
+      "dialogue_text": "Keurig..."
+    },
+    {
+      "subtitle_index": 544,
+      "start_time": 4303.838,
+      "end_time": 4304.864,
+      "duration": 1.02599999999984,
+      "dialogue_text": "Keurig?"
+    },
+    {
+      "subtitle_index": 545,
+      "start_time": 4304.964,
+      "end_time": 4305.865,
+      "duration": 0.9009999999998399,
+      "dialogue_text": "Keurig."
+    },
+    {
+      "subtitle_index": 546,
+      "start_time": 4305.965,
+      "end_time": 4309.934,
+      "duration": 3.969000000000051,
+      "dialogue_text": "Keurig. Keurig."
+    },
+    {
+      "subtitle_index": 547,
+      "start_time": 4331.74,
+      "end_time": 4332.892,
+      "duration": 1.1520000000000437,
+      "dialogue_text": "Is het heet?"
+    },
+    {
+      "subtitle_index": 548,
+      "start_time": 4332.992,
+      "end_time": 4335.585,
+      "duration": 2.592999999999847,
+      "dialogue_text": "Heet."
+    },
+    {
+      "subtitle_index": 549,
+      "start_time": 4338.998,
+      "end_time": 4342.049,
+      "duration": 3.0510000000003856,
+      "dialogue_text": "Het is heet."
+    },
+    {
+      "subtitle_index": 550,
+      "start_time": 4343.711,
+      "end_time": 4346.588,
+      "duration": 2.876999999999498,
+      "dialogue_text": "De kaars brandt. - Ze brandt."
+    },
+    {
+      "subtitle_index": 551,
+      "start_time": 4346.589,
+      "end_time": 4351.309,
+      "duration": 4.720000000000255,
+      "dialogue_text": "Heet, heet."
+    },
+    {
+      "subtitle_index": 552,
+      "start_time": 4357.6,
+      "end_time": 4360.818,
+      "duration": 3.217999999999847,
+      "dialogue_text": "Het is heet."
+    },
+    {
+      "subtitle_index": 553,
+      "start_time": 4370.404,
+      "end_time": 4372.997,
+      "duration": 2.592999999999847,
+      "dialogue_text": "Geweldig."
+    },
+    {
+      "subtitle_index": 554,
+      "start_time": 4373.532,
+      "end_time": 4376.659,
+      "duration": 3.126999999999498,
+      "dialogue_text": "Keurig, Sosuke."
+    },
+    {
+      "subtitle_index": 555,
+      "start_time": 4376.66,
+      "end_time": 4379.754,
+      "duration": 3.094000000000051,
+      "dialogue_text": "Dit is geweldig."
+    },
+    {
+      "subtitle_index": 556,
+      "start_time": 4385.794,
+      "end_time": 4389.172,
+      "duration": 3.3779999999997017,
+      "dialogue_text": "Wat een plezier."
+    },
+    {
+      "subtitle_index": 557,
+      "start_time": 4389.173,
+      "end_time": 4392.258,
+      "duration": 3.0850000000000364,
+      "dialogue_text": "Het brandt, Sosuke."
+    },
+    {
+      "subtitle_index": 558,
+      "start_time": 4392.259,
+      "end_time": 4395.094,
+      "duration": 2.8350000000000364,
+      "dialogue_text": "Het is echt heet."
+    },
+    {
+      "subtitle_index": 559,
+      "start_time": 4395.095,
+      "end_time": 4399.432,
+      "duration": 4.336999999999534,
+      "dialogue_text": "Blijf op de uitkijk. Ik zal de boot wel sturen."
+    },
+    {
+      "subtitle_index": 560,
+      "start_time": 4399.433,
+      "end_time": 4402.401,
+      "duration": 2.967999999999847,
+      "dialogue_text": "Oké, ik sta op de uitkijk."
+    },
+    {
+      "subtitle_index": 561,
+      "start_time": 4428.17,
+      "end_time": 4429.739,
+      "duration": 1.5689999999995052,
+      "dialogue_text": "Daar is een weg."
+    },
+    {
+      "subtitle_index": 562,
+      "start_time": 4429.839,
+      "end_time": 4433.141,
+      "duration": 3.30199999999968,
+      "dialogue_text": "Dat is de weg die Lisa nam."
+    },
+    {
+      "subtitle_index": 563,
+      "start_time": 4434.343,
+      "end_time": 4436.203,
+      "duration": 1.860000000000582,
+      "dialogue_text": "Ik zie haar niet."
+    },
+    {
+      "subtitle_index": 564,
+      "start_time": 4436.303,
+      "end_time": 4441.065,
+      "duration": 4.761999999999716,
+      "dialogue_text": "Wacht maar. Ze heeft het beloofd."
+    },
+    {
+      "subtitle_index": 565,
+      "start_time": 4444.562,
+      "end_time": 4447.939,
+      "duration": 3.3770000000004075,
+      "dialogue_text": "Oude vissen uit de Devoon tijd."
+    },
+    {
+      "subtitle_index": 566,
+      "start_time": 4447.94,
+      "end_time": 4451.325,
+      "duration": 3.3850000000002183,
+      "dialogue_text": "Daar is Bothriolepis."
+    },
+    {
+      "subtitle_index": 567,
+      "start_time": 4455.155,
+      "end_time": 4456.39,
+      "duration": 1.235000000000582,
+      "dialogue_text": "Dat is een..."
+    },
+    {
+      "subtitle_index": 568,
+      "start_time": 4456.49,
+      "end_time": 4457.558,
+      "duration": 1.068000000000211,
+      "dialogue_text": "Dipnorhynchus."
+    },
+    {
+      "subtitle_index": 569,
+      "start_time": 4457.658,
+      "end_time": 4459.226,
+      "duration": 1.5679999999993015,
+      "dialogue_text": "Dipnorhynchus."
+    },
+    {
+      "subtitle_index": 570,
+      "start_time": 4459.326,
+      "end_time": 4461.87,
+      "duration": 2.543999999999869,
+      "dialogue_text": "Die is echt enorm."
+    },
+    {
+      "subtitle_index": 571,
+      "start_time": 4461.871,
+      "end_time": 4463.647,
+      "duration": 1.77599999999984,
+      "dialogue_text": "Dat is een Devonynchus."
+    },
+    {
+      "subtitle_index": 572,
+      "start_time": 4463.747,
+      "end_time": 4467.216,
+      "duration": 3.469000000000051,
+      "dialogue_text": "Devonynchus."
+    },
+    {
+      "subtitle_index": 573,
+      "start_time": 4472.256,
+      "end_time": 4475.85,
+      "duration": 3.594000000000051,
+      "dialogue_text": "Ahoy."
+    },
+    {
+      "subtitle_index": 574,
+      "start_time": 4477.845,
+      "end_time": 4479.929,
+      "duration": 2.0839999999998327,
+      "dialogue_text": "Een boot."
+    },
+    {
+      "subtitle_index": 575,
+      "start_time": 4479.93,
+      "end_time": 4482.807,
+      "duration": 2.876999999999498,
+      "dialogue_text": "Ahoy."
+    },
+    {
+      "subtitle_index": 576,
+      "start_time": 4482.808,
+      "end_time": 4485.768,
+      "duration": 2.9600000000000364,
+      "dialogue_text": "Ze roepen ons."
+    },
+    {
+      "subtitle_index": 577,
+      "start_time": 4485.769,
+      "end_time": 4488.863,
+      "duration": 3.094000000000051,
+      "dialogue_text": "Ahoy."
+    },
+    {
+      "subtitle_index": 578,
+      "start_time": 4489.44,
+      "end_time": 4491.991,
+      "duration": 2.5510000000003856,
+      "dialogue_text": "Au."
+    },
+    {
+      "subtitle_index": 579,
+      "start_time": 4497.865,
+      "end_time": 4500.5,
+      "duration": 2.6350000000002183,
+      "dialogue_text": "Geweldig, nietwaar?"
+    },
+    {
+      "subtitle_index": 580,
+      "start_time": 4502.953,
+      "end_time": 4505.88,
+      "duration": 2.92699999999968,
+      "dialogue_text": "Nu, Ponyo."
+    },
+    {
+      "subtitle_index": 581,
+      "start_time": 4510.836,
+      "end_time": 4513.087,
+      "duration": 2.2510000000002037,
+      "dialogue_text": "Hallo."
+    },
+    {
+      "subtitle_index": 582,
+      "start_time": 4513.088,
+      "end_time": 4515.965,
+      "duration": 2.8770000000004075,
+      "dialogue_text": "Dat is een prachtige boot."
+    },
+    {
+      "subtitle_index": 583,
+      "start_time": 4515.966,
+      "end_time": 4519.26,
+      "duration": 3.293999999999869,
+      "dialogue_text": "Hey, jij bent de kleine zoon van Lisa."
+    },
+    {
+      "subtitle_index": 584,
+      "start_time": 4519.261,
+      "end_time": 4521.971,
+      "duration": 2.709999999999127,
+      "dialogue_text": "Hij is niet klein, hij is Sosuke."
+    },
+    {
+      "subtitle_index": 585,
+      "start_time": 4521.972,
+      "end_time": 4524.516,
+      "duration": 2.543999999999869,
+      "dialogue_text": "Dit is Ponyo."
+    },
+    {
+      "subtitle_index": 586,
+      "start_time": 4524.517,
+      "end_time": 4526.976,
+      "duration": 2.4589999999998327,
+      "dialogue_text": "Ik was vroeger een vis."
+    },
+    {
+      "subtitle_index": 587,
+      "start_time": 4526.977,
+      "end_time": 4529.229,
+      "duration": 2.2520000000004075,
+      "dialogue_text": "Een vis?"
+    },
+    {
+      "subtitle_index": 588,
+      "start_time": 4529.23,
+      "end_time": 4532.406,
+      "duration": 3.1760000000003856,
+      "dialogue_text": "Ponyo...dat is een mooie naam."
+    },
+    {
+      "subtitle_index": 589,
+      "start_time": 4533.442,
+      "end_time": 4535.527,
+      "duration": 2.0850000000000364,
+      "dialogue_text": "Heb je Lisa gezien?"
+    },
+    {
+      "subtitle_index": 590,
+      "start_time": 4535.528,
+      "end_time": 4537.862,
+      "duration": 2.3339999999998327,
+      "dialogue_text": "Lisa?"
+    },
+    {
+      "subtitle_index": 591,
+      "start_time": 4537.863,
+      "end_time": 4539.598,
+      "duration": 1.7349999999996726,
+      "dialogue_text": "Is ze niet bij jou?"
+    },
+    {
+      "subtitle_index": 592,
+      "start_time": 4539.698,
+      "end_time": 4541.016,
+      "duration": 1.3179999999993015,
+      "dialogue_text": "Ze is in het tehuis."
+    },
+    {
+      "subtitle_index": 593,
+      "start_time": 4541.116,
+      "end_time": 4542.56,
+      "duration": 1.4440000000004147,
+      "dialogue_text": "Het bejaardenhuis...?"
+    },
+    {
+      "subtitle_index": 594,
+      "start_time": 4542.66,
+      "end_time": 4545.419,
+      "duration": 2.7590000000000146,
+      "dialogue_text": "Dit is mijn schatje."
+    },
+    {
+      "subtitle_index": 595,
+      "start_time": 4574.108,
+      "end_time": 4577.952,
+      "duration": 3.844000000000051,
+      "dialogue_text": "Wat is er gebeurd?"
+    },
+    {
+      "subtitle_index": 596,
+      "start_time": 4582.616,
+      "end_time": 4585.543,
+      "duration": 2.92699999999968,
+      "dialogue_text": "Is dat voor ons?"
+    },
+    {
+      "subtitle_index": 597,
+      "start_time": 4598.174,
+      "end_time": 4601.225,
+      "duration": 3.0510000000003856,
+      "dialogue_text": "Geef me eens een kop, schat."
+    },
+    {
+      "subtitle_index": 598,
+      "start_time": 4604.805,
+      "end_time": 4606.373,
+      "duration": 1.5679999999993015,
+      "dialogue_text": "Bedankt."
+    },
+    {
+      "subtitle_index": 599,
+      "start_time": 4606.473,
+      "end_time": 4609.525,
+      "duration": 3.05199999999968,
+      "dialogue_text": "Laten we dit eens proberen."
+    },
+    {
+      "subtitle_index": 600,
+      "start_time": 4612.104,
+      "end_time": 4614.397,
+      "duration": 2.2929999999996653,
+      "dialogue_text": "Het is heerlijk."
+    },
+    {
+      "subtitle_index": 601,
+      "start_time": 4614.398,
+      "end_time": 4616.733,
+      "duration": 2.3350000000000364,
+      "dialogue_text": "Lisa heeft het gemaakt."
+    },
+    {
+      "subtitle_index": 602,
+      "start_time": 4616.734,
+      "end_time": 4618.776,
+      "duration": 2.0419999999994616,
+      "dialogue_text": "Het is voor de baby."
+    },
+    {
+      "subtitle_index": 603,
+      "start_time": 4618.777,
+      "end_time": 4624.032,
+      "duration": 5.255000000000109,
+      "dialogue_text": "Het spijt me. Hij eet nog geen soep."
+    },
+    {
+      "subtitle_index": 604,
+      "start_time": 4624.033,
+      "end_time": 4629.337,
+      "duration": 5.304000000000087,
+      "dialogue_text": "Maar dit helpt zodat ik hem borstvoeding kan geven."
+    },
+    {
+      "subtitle_index": 605,
+      "start_time": 4630.247,
+      "end_time": 4633.124,
+      "duration": 2.876999999999498,
+      "dialogue_text": "Lisa gaf me ook borstvoeding."
+    },
+    {
+      "subtitle_index": 606,
+      "start_time": 4633.125,
+      "end_time": 4636.503,
+      "duration": 3.3779999999997017,
+      "dialogue_text": "Ponyo, mag ik deze soep hebben?"
+    },
+    {
+      "subtitle_index": 607,
+      "start_time": 4636.504,
+      "end_time": 4638.838,
+      "duration": 2.3339999999998327,
+      "dialogue_text": "Natuurlijk."
+    },
+    {
+      "subtitle_index": 608,
+      "start_time": 4638.839,
+      "end_time": 4641.516,
+      "duration": 2.67699999999968,
+      "dialogue_text": "Bedankt."
+    },
+    {
+      "subtitle_index": 609,
+      "start_time": 4657.608,
+      "end_time": 4661.486,
+      "duration": 3.8779999999997017,
+      "dialogue_text": "Mensen uit de stad. Het is net een festival."
+    },
+    {
+      "subtitle_index": 610,
+      "start_time": 4661.487,
+      "end_time": 4666.449,
+      "duration": 4.961999999999534,
+      "dialogue_text": "Jij daar. Heb je hulp nodig?"
+    },
+    {
+      "subtitle_index": 611,
+      "start_time": 4666.45,
+      "end_time": 4671.746,
+      "duration": 5.2960000000002765,
+      "dialogue_text": "Bedankt, we redden het wel."
+    },
+    {
+      "subtitle_index": 612,
+      "start_time": 4671.747,
+      "end_time": 4674.499,
+      "duration": 2.751999999999498,
+      "dialogue_text": "Volg ons dan, alsjeblieft."
+    },
+    {
+      "subtitle_index": 613,
+      "start_time": 4674.5,
+      "end_time": 4677.71,
+      "duration": 3.2100000000000364,
+      "dialogue_text": "We gaan naar het hotel op de top."
+    },
+    {
+      "subtitle_index": 614,
+      "start_time": 4677.711,
+      "end_time": 4681.889,
+      "duration": 4.177999999999884,
+      "dialogue_text": "Oké. Dat zullen we doen."
+    },
+    {
+      "subtitle_index": 615,
+      "start_time": 4682.174,
+      "end_time": 4683.701,
+      "duration": 1.5270000000000437,
+      "dialogue_text": "De hele stad is hier."
+    },
+    {
+      "subtitle_index": 616,
+      "start_time": 4683.801,
+      "end_time": 4686.553,
+      "duration": 2.751999999999498,
+      "dialogue_text": "Ik hoop dat iedereen in orde is."
+    },
+    {
+      "subtitle_index": 617,
+      "start_time": 4686.554,
+      "end_time": 4691.315,
+      "duration": 4.7609999999995125,
+      "dialogue_text": "Kom mee, Ponyo. - Wacht eens even."
+    },
+    {
+      "subtitle_index": 618,
+      "start_time": 4695.729,
+      "end_time": 4697.73,
+      "duration": 2.0009999999992942,
+      "dialogue_text": "Melk."
+    },
+    {
+      "subtitle_index": 619,
+      "start_time": 4697.731,
+      "end_time": 4700.149,
+      "duration": 2.418000000000575,
+      "dialogue_text": "Mijn..."
+    },
+    {
+      "subtitle_index": 620,
+      "start_time": 4700.15,
+      "end_time": 4701.26,
+      "duration": 1.110000000000582,
+      "dialogue_text": "Melk."
+    },
+    {
+      "subtitle_index": 621,
+      "start_time": 4701.36,
+      "end_time": 4703.987,
+      "duration": 2.6270000000004075,
+      "dialogue_text": "Ze heeft alle ham opgegeten."
+    },
+    {
+      "subtitle_index": 622,
+      "start_time": 4703.988,
+      "end_time": 4707.115,
+      "duration": 3.126999999999498,
+      "dialogue_text": "Dit helpt me om goede melk te produceren."
+    },
+    {
+      "subtitle_index": 623,
+      "start_time": 4707.116,
+      "end_time": 4711.369,
+      "duration": 4.252999999999702,
+      "dialogue_text": "Kun je nog een kaars voor je boot gebruiken, Sosuke?"
+    },
+    {
+      "subtitle_index": 624,
+      "start_time": 4711.37,
+      "end_time": 4715.665,
+      "duration": 4.295000000000073,
+      "dialogue_text": "Bedankt. Ponyo zal hem groter maken."
+    },
+    {
+      "subtitle_index": 625,
+      "start_time": 4715.666,
+      "end_time": 4716.776,
+      "duration": 1.1099999999996726,
+      "dialogue_text": "Wees voorzichtig."
+    },
+    {
+      "subtitle_index": 626,
+      "start_time": 4716.876,
+      "end_time": 4719.802,
+      "duration": 2.925999999999476,
+      "dialogue_text": "Bedankt allebei."
+    },
+    {
+      "subtitle_index": 627,
+      "start_time": 4724.466,
+      "end_time": 4727.351,
+      "duration": 2.884999999999309,
+      "dialogue_text": "Wat is er?"
+    },
+    {
+      "subtitle_index": 628,
+      "start_time": 4730.598,
+      "end_time": 4733.399,
+      "duration": 2.8010000000003856,
+      "dialogue_text": "Niet huilen."
+    },
+    {
+      "subtitle_index": 629,
+      "start_time": 4751.202,
+      "end_time": 4754.128,
+      "duration": 2.925999999999476,
+      "dialogue_text": "Ponyo."
+    },
+    {
+      "subtitle_index": 630,
+      "start_time": 4765.591,
+      "end_time": 4768.392,
+      "duration": 2.800999999999476,
+      "dialogue_text": "Sosuke."
+    },
+    {
+      "subtitle_index": 631,
+      "start_time": 4769.053,
+      "end_time": 4772.18,
+      "duration": 3.1270000000004075,
+      "dialogue_text": "Waar is Lisa? Is ze niet bij jou?"
+    },
+    {
+      "subtitle_index": 632,
+      "start_time": 4772.181,
+      "end_time": 4775.683,
+      "duration": 3.5020000000004075,
+      "dialogue_text": "Ik ga haar halen."
+    },
+    {
+      "subtitle_index": 633,
+      "start_time": 4775.684,
+      "end_time": 4779.521,
+      "duration": 3.8369999999995343,
+      "dialogue_text": "Heeft ze die golf overleefd?"
+    },
+    {
+      "subtitle_index": 634,
+      "start_time": 4779.522,
+      "end_time": 4782.565,
+      "duration": 3.0429999999996653,
+      "dialogue_text": "Sosuke, neem me mee."
+    },
+    {
+      "subtitle_index": 635,
+      "start_time": 4782.566,
+      "end_time": 4785.527,
+      "duration": 2.96100000000024,
+      "dialogue_text": "Later, Kumiko. Ik hebt het druk."
+    },
+    {
+      "subtitle_index": 636,
+      "start_time": 4785.528,
+      "end_time": 4789.113,
+      "duration": 3.5850000000000364,
+      "dialogue_text": "Iedereen van het tehuis moet naar het park gebracht zijn."
+    },
+    {
+      "subtitle_index": 637,
+      "start_time": 4789.114,
+      "end_time": 4791.783,
+      "duration": 2.6690000000007785,
+      "dialogue_text": "Voorzichtig. - Je kunt het."
+    },
+    {
+      "subtitle_index": 638,
+      "start_time": 4791.784,
+      "end_time": 4795.703,
+      "duration": 3.9190000000007785,
+      "dialogue_text": "We sturen later wel een boot voor ze."
+    },
+    {
+      "subtitle_index": 639,
+      "start_time": 4795.704,
+      "end_time": 4799.215,
+      "duration": 3.511000000000422,
+      "dialogue_text": "Veel geluk, kapitein."
+    },
+    {
+      "subtitle_index": 640,
+      "start_time": 4846.964,
+      "end_time": 4851.142,
+      "duration": 4.177999999999884,
+      "dialogue_text": "Ponyo, we hebben een nieuwe kaars nodig."
+    },
+    {
+      "subtitle_index": 641,
+      "start_time": 4853.679,
+      "end_time": 4857.599,
+      "duration": 3.9200000000000728,
+      "dialogue_text": "Het is oké. We hebben nog steeds die ene die we net ontvangen hebben."
+    },
+    {
+      "subtitle_index": 642,
+      "start_time": 4857.6,
+      "end_time": 4861.903,
+      "duration": 4.302999999999884,
+      "dialogue_text": "Au. Het is nog steeds heet."
+    },
+    {
+      "subtitle_index": 643,
+      "start_time": 4865.733,
+      "end_time": 4869.194,
+      "duration": 3.46100000000024,
+      "dialogue_text": "Dag."
+    },
+    {
+      "subtitle_index": 644,
+      "start_time": 4869.195,
+      "end_time": 4872.739,
+      "duration": 3.543999999999869,
+      "dialogue_text": "Wil je deze kaars groter maken?"
+    },
+    {
+      "subtitle_index": 645,
+      "start_time": 4872.74,
+      "end_time": 4875.5,
+      "duration": 2.7600000000002183,
+      "dialogue_text": "Oké."
+    },
+    {
+      "subtitle_index": 646,
+      "start_time": 4879.747,
+      "end_time": 4883.925,
+      "duration": 4.177999999999884,
+      "dialogue_text": "Ponyo, wil je slapen?"
+    },
+    {
+      "subtitle_index": 647,
+      "start_time": 4889.798,
+      "end_time": 4892.308,
+      "duration": 2.5100000000002183,
+      "dialogue_text": "Ponyo."
+    },
+    {
+      "subtitle_index": 648,
+      "start_time": 4906.982,
+      "end_time": 4909.951,
+      "duration": 2.969000000000051,
+      "dialogue_text": "Ponyo. Ponyo."
+    },
+    {
+      "subtitle_index": 649,
+      "start_time": 4966.542,
+      "end_time": 4970.344,
+      "duration": 3.80199999999968,
+      "dialogue_text": "Het water wordt ondiep. Ondiep genoeg om te lopen."
+    },
+    {
+      "subtitle_index": 650,
+      "start_time": 4995.529,
+      "end_time": 4998.289,
+      "duration": 2.759999999999309,
+      "dialogue_text": "Ik kan de weg zien."
+    },
+    {
+      "subtitle_index": 651,
+      "start_time": 5009.668,
+      "end_time": 5012.22,
+      "duration": 2.5520000000005894,
+      "dialogue_text": "Het wordt kleiner."
+    },
+    {
+      "subtitle_index": 652,
+      "start_time": 5012.588,
+      "end_time": 5015.306,
+      "duration": 2.717999999999847,
+      "dialogue_text": "Ponyo."
+    },
+    {
+      "subtitle_index": 653,
+      "start_time": 5035.861,
+      "end_time": 5039.163,
+      "duration": 3.30199999999968,
+      "dialogue_text": "Ponyo, wakker worden."
+    },
+    {
+      "subtitle_index": 654,
+      "start_time": 5040.533,
+      "end_time": 5043.626,
+      "duration": 3.092999999999847,
+      "dialogue_text": "Sosuke."
+    },
+    {
+      "subtitle_index": 655,
+      "start_time": 5048.207,
+      "end_time": 5049.817,
+      "duration": 1.6099999999996726,
+      "dialogue_text": "Je liet me schrikken."
+    },
+    {
+      "subtitle_index": 656,
+      "start_time": 5049.917,
+      "end_time": 5054.262,
+      "duration": 4.344999999999345,
+      "dialogue_text": "Godzijdank, ik dacht dat je weer in een vis zou veranderen."
+    },
+    {
+      "subtitle_index": 657,
+      "start_time": 5065.224,
+      "end_time": 5066.5,
+      "duration": 1.27599999999984,
+      "dialogue_text": "Het is de auto van Lisa."
+    },
+    {
+      "subtitle_index": 658,
+      "start_time": 5066.6,
+      "end_time": 5070.111,
+      "duration": 3.5109999999995125,
+      "dialogue_text": "Ponyo, dat is haar auto."
+    },
+    {
+      "subtitle_index": 659,
+      "start_time": 5072.731,
+      "end_time": 5075.825,
+      "duration": 3.094000000000051,
+      "dialogue_text": "Lisa."
+    },
+    {
+      "subtitle_index": 660,
+      "start_time": 5077.903,
+      "end_time": 5080.121,
+      "duration": 2.217999999999847,
+      "dialogue_text": "Lisa."
+    },
+    {
+      "subtitle_index": 661,
+      "start_time": 5082.825,
+      "end_time": 5085.877,
+      "duration": 3.0520000000005894,
+      "dialogue_text": "Lisa."
+    },
+    {
+      "subtitle_index": 662,
+      "start_time": 5086.704,
+      "end_time": 5089.755,
+      "duration": 3.0510000000003856,
+      "dialogue_text": "Lisa."
+    },
+    {
+      "subtitle_index": 663,
+      "start_time": 5096.881,
+      "end_time": 5100.349,
+      "duration": 3.467999999999847,
+      "dialogue_text": "Lisa."
+    },
+    {
+      "subtitle_index": 664,
+      "start_time": 5101.719,
+      "end_time": 5104.604,
+      "duration": 2.8850000000002183,
+      "dialogue_text": "Lisa."
+    },
+    {
+      "subtitle_index": 665,
+      "start_time": 5131.832,
+      "end_time": 5134.292,
+      "duration": 2.4600000000000364,
+      "dialogue_text": "Hier is je boot."
+    },
+    {
+      "subtitle_index": 666,
+      "start_time": 5134.293,
+      "end_time": 5138.513,
+      "duration": 4.220000000000255,
+      "dialogue_text": "Sosuke, er komt water uit je ogen."
+    },
+    {
+      "subtitle_index": 667,
+      "start_time": 5143.928,
+      "end_time": 5147.188,
+      "duration": 3.2600000000002183,
+      "dialogue_text": "We gaan op zoek naar Lisa."
+    },
+    {
+      "subtitle_index": 668,
+      "start_time": 5193.227,
+      "end_time": 5196.229,
+      "duration": 3.0020000000004075,
+      "dialogue_text": "Je vergat de omslag. - Wie heeft dat nodig?"
+    },
+    {
+      "subtitle_index": 669,
+      "start_time": 5196.23,
+      "end_time": 5199.732,
+      "duration": 3.5020000000004075,
+      "dialogue_text": "Kijk, een walvis."
+    },
+    {
+      "subtitle_index": 670,
+      "start_time": 5199.733,
+      "end_time": 5205.363,
+      "duration": 5.630000000000109,
+      "dialogue_text": "Mijn knieën doen geen pijn meer. - Waarom zijn we zo bang?"
+    },
+    {
+      "subtitle_index": 671,
+      "start_time": 5205.364,
+      "end_time": 5210.042,
+      "duration": 4.678000000000793,
+      "dialogue_text": "Is dit de andere kant? - Nou en? Het is prachtig."
+    },
+    {
+      "subtitle_index": 672,
+      "start_time": 5211.12,
+      "end_time": 5214.497,
+      "duration": 3.3770000000004075,
+      "dialogue_text": "Mensen, kom alsjeblieft hier."
+    },
+    {
+      "subtitle_index": 673,
+      "start_time": 5214.498,
+      "end_time": 5215.816,
+      "duration": 1.318000000000211,
+      "dialogue_text": "We komen eraan."
+    },
+    {
+      "subtitle_index": 674,
+      "start_time": 5215.916,
+      "end_time": 5218.885,
+      "duration": 2.969000000000051,
+      "dialogue_text": "Zullen we?"
+    },
+    {
+      "subtitle_index": 675,
+      "start_time": 5219.795,
+      "end_time": 5222.088,
+      "duration": 2.2929999999996653,
+      "dialogue_text": "Het voelt geweldig om te rennen."
+    },
+    {
+      "subtitle_index": 676,
+      "start_time": 5222.089,
+      "end_time": 5225.266,
+      "duration": 3.17699999999968,
+      "dialogue_text": "Ik zie je daar wel."
+    },
+    {
+      "subtitle_index": 677,
+      "start_time": 5227.136,
+      "end_time": 5230.396,
+      "duration": 3.259999999999309,
+      "dialogue_text": "De winnaar."
+    },
+    {
+      "subtitle_index": 678,
+      "start_time": 5231.14,
+      "end_time": 5234.225,
+      "duration": 3.0850000000000364,
+      "dialogue_text": "Je bent zo snel, Kayo."
+    },
+    {
+      "subtitle_index": 679,
+      "start_time": 5234.226,
+      "end_time": 5236.769,
+      "duration": 2.543000000000575,
+      "dialogue_text": "Stil, alsjeblieft."
+    },
+    {
+      "subtitle_index": 680,
+      "start_time": 5236.77,
+      "end_time": 5239.272,
+      "duration": 2.501999999999498,
+      "dialogue_text": "Dit is het moment van de waarheid."
+    },
+    {
+      "subtitle_index": 681,
+      "start_time": 5239.273,
+      "end_time": 5241.9,
+      "duration": 2.626999999999498,
+      "dialogue_text": "Sosuke en Ponyo zijn er bijna."
+    },
+    {
+      "subtitle_index": 682,
+      "start_time": 5241.901,
+      "end_time": 5243.344,
+      "duration": 1.443000000000211,
+      "dialogue_text": "Het is zo romantisch."
+    },
+    {
+      "subtitle_index": 683,
+      "start_time": 5243.444,
+      "end_time": 5248.956,
+      "duration": 5.511999999999716,
+      "dialogue_text": "Zal de liefde overwinnen? - Ik ben zo opgewonden."
+    },
+    {
+      "subtitle_index": 684,
+      "start_time": 5249.074,
+      "end_time": 5250.351,
+      "duration": 1.2770000000000437,
+      "dialogue_text": "Stil."
+    },
+    {
+      "subtitle_index": 685,
+      "start_time": 5250.451,
+      "end_time": 5256.964,
+      "duration": 6.51299999999992,
+      "dialogue_text": "Zeer spoedig, zult u getuige zijn van een heilige proef van liefde."
+    },
+    {
+      "subtitle_index": 686,
+      "start_time": 5257.041,
+      "end_time": 5261.628,
+      "duration": 4.586999999999534,
+      "dialogue_text": "Mr Fujimoto, u voert toch niets in uw schild?"
+    },
+    {
+      "subtitle_index": 687,
+      "start_time": 5261.629,
+      "end_time": 5264.797,
+      "duration": 3.1679999999996653,
+      "dialogue_text": "Onzin, hij is haar vader."
+    },
+    {
+      "subtitle_index": 688,
+      "start_time": 5264.798,
+      "end_time": 5269.219,
+      "duration": 4.4210000000002765,
+      "dialogue_text": "Het komt goed... als ze niet meer wakker wordt."
+    },
+    {
+      "subtitle_index": 689,
+      "start_time": 5269.22,
+      "end_time": 5272.23,
+      "duration": 3.009999999999309,
+      "dialogue_text": "Excuseer me."
+    },
+    {
+      "subtitle_index": 690,
+      "start_time": 5279.271,
+      "end_time": 5281.689,
+      "duration": 2.418000000000575,
+      "dialogue_text": "Ik wou dat ik hem kon geloven..."
+    },
+    {
+      "subtitle_index": 691,
+      "start_time": 5281.69,
+      "end_time": 5284.275,
+      "duration": 2.5850000000000364,
+      "dialogue_text": "Waar is Lisa heen?"
+    },
+    {
+      "subtitle_index": 692,
+      "start_time": 5284.276,
+      "end_time": 5290.331,
+      "duration": 6.055000000000291,
+      "dialogue_text": "Ze praat al uren met de moeder van Ponyo."
+    },
+    {
+      "subtitle_index": 693,
+      "start_time": 5297.081,
+      "end_time": 5299.749,
+      "duration": 2.6679999999996653,
+      "dialogue_text": "Ik hoop dat ze in orde is."
+    },
+    {
+      "subtitle_index": 694,
+      "start_time": 5299.75,
+      "end_time": 5302.502,
+      "duration": 2.7520000000004075,
+      "dialogue_text": "Waar heb je het over?"
+    },
+    {
+      "subtitle_index": 695,
+      "start_time": 5302.503,
+      "end_time": 5305.296,
+      "duration": 2.793000000000575,
+      "dialogue_text": "Daar komen we gauw genoeg achter. Lisa."
+    },
+    {
+      "subtitle_index": 696,
+      "start_time": 5305.297,
+      "end_time": 5309.851,
+      "duration": 4.554000000000087,
+      "dialogue_text": "Lisa."
+    },
+    {
+      "subtitle_index": 697,
+      "start_time": 5314.098,
+      "end_time": 5322.405,
+      "duration": 8.306999999999789,
+      "dialogue_text": "We duimen allemaal voor Sosuke en Ponyo."
+    },
+    {
+      "subtitle_index": 698,
+      "start_time": 5334.41,
+      "end_time": 5335.644,
+      "duration": 1.2340000000003783,
+      "dialogue_text": "Lisa."
+    },
+    {
+      "subtitle_index": 699,
+      "start_time": 5335.744,
+      "end_time": 5339.372,
+      "duration": 3.628000000000611,
+      "dialogue_text": "Je moet bezorgd zijn. - Met Sosuke komt het wel goed."
+    },
+    {
+      "subtitle_index": 700,
+      "start_time": 5339.373,
+      "end_time": 5342.959,
+      "duration": 3.58600000000024,
+      "dialogue_text": "Hij is een sterke jongen."
+    },
+    {
+      "subtitle_index": 701,
+      "start_time": 5342.96,
+      "end_time": 5347.889,
+      "duration": 4.929000000000087,
+      "dialogue_text": "Bedankt, iedereen. Hij zal jullie steun nodig hebben."
+    },
+    {
+      "subtitle_index": 702,
+      "start_time": 5355.264,
+      "end_time": 5358.524,
+      "duration": 3.2600000000002183,
+      "dialogue_text": "Ponyo, het is een tunnel."
+    },
+    {
+      "subtitle_index": 703,
+      "start_time": 5365.441,
+      "end_time": 5369.577,
+      "duration": 4.136000000000422,
+      "dialogue_text": "STOP"
+    },
+    {
+      "subtitle_index": 704,
+      "start_time": 5372.865,
+      "end_time": 5376.159,
+      "duration": 3.293999999999869,
+      "dialogue_text": "Ik ben hier eerder geweest."
+    },
+    {
+      "subtitle_index": 705,
+      "start_time": 5376.16,
+      "end_time": 5377.561,
+      "duration": 1.40099999999984,
+      "dialogue_text": "Ponyo?"
+    },
+    {
+      "subtitle_index": 706,
+      "start_time": 5377.661,
+      "end_time": 5380.922,
+      "duration": 3.2609999999995125,
+      "dialogue_text": "Ik vind het hier maar niks."
+    },
+    {
+      "subtitle_index": 707,
+      "start_time": 5383.792,
+      "end_time": 5387.136,
+      "duration": 3.344000000000051,
+      "dialogue_text": "Laat mijn hand niet los."
+    },
+    {
+      "subtitle_index": 708,
+      "start_time": 5423.791,
+      "end_time": 5426.425,
+      "duration": 2.6340000000000146,
+      "dialogue_text": "Ponyo."
+    },
+    {
+      "subtitle_index": 709,
+      "start_time": 5444.311,
+      "end_time": 5446.571,
+      "duration": 2.2600000000002183,
+      "dialogue_text": "Ponyo."
+    },
+    {
+      "subtitle_index": 710,
+      "start_time": 5453.612,
+      "end_time": 5455.913,
+      "duration": 2.300999999999476,
+      "dialogue_text": "Ponyo."
+    },
+    {
+      "subtitle_index": 711,
+      "start_time": 5476.51,
+      "end_time": 5479.262,
+      "duration": 2.751999999999498,
+      "dialogue_text": "Alsjeblieft, niet sterven."
+    },
+    {
+      "subtitle_index": 712,
+      "start_time": 5479.263,
+      "end_time": 5481.764,
+      "duration": 2.5010000000002037,
+      "dialogue_text": "Ponyo."
+    },
+    {
+      "subtitle_index": 713,
+      "start_time": 5481.765,
+      "end_time": 5484.392,
+      "duration": 2.626999999999498,
+      "dialogue_text": "Wakker worden, Ponyo."
+    },
+    {
+      "subtitle_index": 714,
+      "start_time": 5484.393,
+      "end_time": 5488.062,
+      "duration": 3.668999999999869,
+      "dialogue_text": "Laat haar slapen."
+    },
+    {
+      "subtitle_index": 715,
+      "start_time": 5488.063,
+      "end_time": 5490.19,
+      "duration": 2.126999999999498,
+      "dialogue_text": "Ik heb op je gewacht, Sosuke."
+    },
+    {
+      "subtitle_index": 716,
+      "start_time": 5490.191,
+      "end_time": 5494.485,
+      "duration": 4.293999999999869,
+      "dialogue_text": "Lisa en de oude dames wachten ook."
+    },
+    {
+      "subtitle_index": 717,
+      "start_time": 5494.486,
+      "end_time": 5495.596,
+      "duration": 1.1099999999996726,
+      "dialogue_text": "Lisa?"
+    },
+    {
+      "subtitle_index": 718,
+      "start_time": 5495.696,
+      "end_time": 5500.458,
+      "duration": 4.761999999999716,
+      "dialogue_text": "Ga je met me mee? Jij en Ponyo."
+    },
+    {
+      "subtitle_index": 719,
+      "start_time": 5501.911,
+      "end_time": 5504.787,
+      "duration": 2.8760000000002037,
+      "dialogue_text": "Laten we haar niet wekken."
+    },
+    {
+      "subtitle_index": 720,
+      "start_time": 5504.788,
+      "end_time": 5507.29,
+      "duration": 2.5020000000004075,
+      "dialogue_text": "Sosuke."
+    },
+    {
+      "subtitle_index": 721,
+      "start_time": 5507.291,
+      "end_time": 5510.793,
+      "duration": 3.501999999999498,
+      "dialogue_text": "Luister niet naar hem."
+    },
+    {
+      "subtitle_index": 722,
+      "start_time": 5510.794,
+      "end_time": 5514.214,
+      "duration": 3.4200000000000728,
+      "dialogue_text": "Hij heeft iedereen in zijn macht, ze zijn allemaal met hem mee gegaan."
+    },
+    {
+      "subtitle_index": 723,
+      "start_time": 5514.215,
+      "end_time": 5515.032,
+      "duration": 0.8170000000000073,
+      "dialogue_text": "Toki."
+    },
+    {
+      "subtitle_index": 724,
+      "start_time": 5515.132,
+      "end_time": 5517.884,
+      "duration": 2.7520000000004075,
+      "dialogue_text": "Maar hij hield mij niet voor de gek."
+    },
+    {
+      "subtitle_index": 725,
+      "start_time": 5517.885,
+      "end_time": 5523.556,
+      "duration": 5.670999999999367,
+      "dialogue_text": "Er is geen tijd meer. Zie je niet wat er gebeurt?"
+    },
+    {
+      "subtitle_index": 726,
+      "start_time": 5523.557,
+      "end_time": 5527.477,
+      "duration": 3.9200000000000728,
+      "dialogue_text": "Als de maan nog dichterbij komt, dan is het afgelopen."
+    },
+    {
+      "subtitle_index": 727,
+      "start_time": 5527.478,
+      "end_time": 5530.98,
+      "duration": 3.501999999999498,
+      "dialogue_text": "Is dat alles wat je te bieden hebt?"
+    },
+    {
+      "subtitle_index": 728,
+      "start_time": 5530.981,
+      "end_time": 5533.566,
+      "duration": 2.5850000000000364,
+      "dialogue_text": "Sosuke, kom hier."
+    },
+    {
+      "subtitle_index": 729,
+      "start_time": 5533.567,
+      "end_time": 5537.153,
+      "duration": 3.58600000000024,
+      "dialogue_text": "Luister, Sosuke. Jij bent de laatste hoop op deze planeet."
+    },
+    {
+      "subtitle_index": 730,
+      "start_time": 5537.154,
+      "end_time": 5540.373,
+      "duration": 3.2189999999991414,
+      "dialogue_text": "Laat me geen geweld gebruiken."
+    },
+    {
+      "subtitle_index": 731,
+      "start_time": 5540.533,
+      "end_time": 5543.0,
+      "duration": 2.4669999999996435,
+      "dialogue_text": "Ponyo."
+    },
+    {
+      "subtitle_index": 732,
+      "start_time": 5543.285,
+      "end_time": 5547.213,
+      "duration": 3.9279999999998836,
+      "dialogue_text": "Behandel je zo je vader?"
+    },
+    {
+      "subtitle_index": 733,
+      "start_time": 5552.753,
+      "end_time": 5554.029,
+      "duration": 1.2760000000007494,
+      "dialogue_text": "Ponyo."
+    },
+    {
+      "subtitle_index": 734,
+      "start_time": 5554.129,
+      "end_time": 5556.881,
+      "duration": 2.7520000000004075,
+      "dialogue_text": "Rennen, Sosuke."
+    },
+    {
+      "subtitle_index": 735,
+      "start_time": 5556.882,
+      "end_time": 5560.434,
+      "duration": 3.5520000000005894,
+      "dialogue_text": "Je begrijpt het niet."
+    },
+    {
+      "subtitle_index": 736,
+      "start_time": 5564.181,
+      "end_time": 5567.15,
+      "duration": 2.969000000000051,
+      "dialogue_text": "Je haalt het wel."
+    },
+    {
+      "subtitle_index": 737,
+      "start_time": 5567.977,
+      "end_time": 5570.695,
+      "duration": 2.717999999999847,
+      "dialogue_text": "Spring."
+    },
+    {
+      "subtitle_index": 738,
+      "start_time": 5608.642,
+      "end_time": 5611.277,
+      "duration": 2.6350000000002183,
+      "dialogue_text": "En nu?"
+    },
+    {
+      "subtitle_index": 739,
+      "start_time": 5664.907,
+      "end_time": 5665.891,
+      "duration": 0.9839999999994689,
+      "dialogue_text": "Lisa."
+    },
+    {
+      "subtitle_index": 740,
+      "start_time": 5665.991,
+      "end_time": 5667.309,
+      "duration": 1.318000000000211,
+      "dialogue_text": "Sosuke."
+    },
+    {
+      "subtitle_index": 741,
+      "start_time": 5667.409,
+      "end_time": 5669.877,
+      "duration": 2.4680000000007567,
+      "dialogue_text": "Ponyo."
+    },
+    {
+      "subtitle_index": 742,
+      "start_time": 5673.624,
+      "end_time": 5678.427,
+      "duration": 4.802999999999884,
+      "dialogue_text": "Kijk daar. - Waar zijn we?"
+    },
+    {
+      "subtitle_index": 743,
+      "start_time": 5687.513,
+      "end_time": 5689.848,
+      "duration": 2.3350000000000364,
+      "dialogue_text": "Dus jij bent Sosuke."
+    },
+    {
+      "subtitle_index": 744,
+      "start_time": 5689.849,
+      "end_time": 5693.476,
+      "duration": 3.626999999999498,
+      "dialogue_text": "Hallo. Bent u de moeder van Ponyo?"
+    },
+    {
+      "subtitle_index": 745,
+      "start_time": 5693.477,
+      "end_time": 5694.795,
+      "duration": 1.318000000000211,
+      "dialogue_text": "Ja."
+    },
+    {
+      "subtitle_index": 746,
+      "start_time": 5694.895,
+      "end_time": 5700.066,
+      "duration": 5.170999999999367,
+      "dialogue_text": "Ik wil je bedanken voor het terugbrengen van mijn dochter."
+    },
+    {
+      "subtitle_index": 747,
+      "start_time": 5700.067,
+      "end_time": 5706.573,
+      "duration": 6.506000000000313,
+      "dialogue_text": "Ponyo wilde zoals jij zijn, maar ze liet een kwaadaardige kracht vrij."
+    },
+    {
+      "subtitle_index": 748,
+      "start_time": 5706.574,
+      "end_time": 5710.577,
+      "duration": 4.003000000000611,
+      "dialogue_text": "Om een mens te worden, moet ze geliefd worden..."
+    },
+    {
+      "subtitle_index": 749,
+      "start_time": 5710.578,
+      "end_time": 5713.997,
+      "duration": 3.418999999999869,
+      "dialogue_text": "...hoe ze werkelijk is."
+    },
+    {
+      "subtitle_index": 750,
+      "start_time": 5713.998,
+      "end_time": 5718.293,
+      "duration": 4.295000000000073,
+      "dialogue_text": "Weet je dat Ponyo een vis was?"
+    },
+    {
+      "subtitle_index": 751,
+      "start_time": 5718.294,
+      "end_time": 5719.32,
+      "duration": 1.02599999999984,
+      "dialogue_text": "Ja."
+    },
+    {
+      "subtitle_index": 752,
+      "start_time": 5719.42,
+      "end_time": 5723.506,
+      "duration": 4.08600000000024,
+      "dialogue_text": "Jouw bloed heeft haar bijna menselijk gemaakt."
+    },
+    {
+      "subtitle_index": 753,
+      "start_time": 5723.507,
+      "end_time": 5724.533,
+      "duration": 1.0260000000007494,
+      "dialogue_text": "Dat klopt."
+    },
+    {
+      "subtitle_index": 754,
+      "start_time": 5724.633,
+      "end_time": 5728.219,
+      "duration": 3.58600000000024,
+      "dialogue_text": "Ponyo likte mijn wond en heeft het genezen."
+    },
+    {
+      "subtitle_index": 755,
+      "start_time": 5728.22,
+      "end_time": 5731.723,
+      "duration": 3.5029999999997017,
+      "dialogue_text": "Daarom is ze dus veranderd."
+    },
+    {
+      "subtitle_index": 756,
+      "start_time": 5731.724,
+      "end_time": 5735.768,
+      "duration": 4.043999999999869,
+      "dialogue_text": "Kun je haar accepteren hoe ze is?"
+    },
+    {
+      "subtitle_index": 757,
+      "start_time": 5735.769,
+      "end_time": 5737.979,
+      "duration": 2.2100000000000364,
+      "dialogue_text": "Ik zal altijd van Ponyo houden..."
+    },
+    {
+      "subtitle_index": 758,
+      "start_time": 5737.98,
+      "end_time": 5740.648,
+      "duration": 2.668000000000575,
+      "dialogue_text": "...of ze nu een vis, een mens..."
+    },
+    {
+      "subtitle_index": 759,
+      "start_time": 5740.649,
+      "end_time": 5744.368,
+      "duration": 3.719000000000051,
+      "dialogue_text": "...of geen van beiden is."
+    },
+    {
+      "subtitle_index": 760,
+      "start_time": 5756.373,
+      "end_time": 5760.051,
+      "duration": 3.678000000000793,
+      "dialogue_text": "Kom, Ponyo."
+    },
+    {
+      "subtitle_index": 761,
+      "start_time": 5773.015,
+      "end_time": 5779.153,
+      "duration": 6.13799999999992,
+      "dialogue_text": "Sosuke heeft beloofd je te accepteren zoals je bent."
+    },
+    {
+      "subtitle_index": 762,
+      "start_time": 5780.689,
+      "end_time": 5784.901,
+      "duration": 4.211999999999534,
+      "dialogue_text": "Maar eerst moet je je krachten opgeven."
+    },
+    {
+      "subtitle_index": 763,
+      "start_time": 5784.902,
+      "end_time": 5787.87,
+      "duration": 2.967999999999847,
+      "dialogue_text": "Kun je dat?"
+    },
+    {
+      "subtitle_index": 764,
+      "start_time": 5796.747,
+      "end_time": 5800.583,
+      "duration": 3.8359999999993306,
+      "dialogue_text": "Kus de luchtbel als je weer aan land komt..."
+    },
+    {
+      "subtitle_index": 765,
+      "start_time": 5800.584,
+      "end_time": 5806.264,
+      "duration": 5.680000000000291,
+      "dialogue_text": "...en Ponyo zal een kleine meid zijn."
+    },
+    {
+      "subtitle_index": 766,
+      "start_time": 5807.758,
+      "end_time": 5810.76,
+      "duration": 3.0020000000004075,
+      "dialogue_text": "Geweldig, Ponyo."
+    },
+    {
+      "subtitle_index": 767,
+      "start_time": 5810.761,
+      "end_time": 5814.73,
+      "duration": 3.9689999999991414,
+      "dialogue_text": "Bedankt moeder van Ponyo."
+    },
+    {
+      "subtitle_index": 768,
+      "start_time": 5819.311,
+      "end_time": 5824.198,
+      "duration": 4.887000000000626,
+      "dialogue_text": "Nu is de planeet weer veilig."
+    },
+    {
+      "subtitle_index": 769,
+      "start_time": 5826.068,
+      "end_time": 5829.453,
+      "duration": 3.3850000000002183,
+      "dialogue_text": "Geweldig, Sosuke."
+    },
+    {
+      "subtitle_index": 770,
+      "start_time": 5834.368,
+      "end_time": 5837.378,
+      "duration": 3.009999999999309,
+      "dialogue_text": "Sosuke."
+    },
+    {
+      "subtitle_index": 771,
+      "start_time": 5860.019,
+      "end_time": 5862.228,
+      "duration": 2.2089999999998327,
+      "dialogue_text": "Ik ben je dankbaar, Lisa."
+    },
+    {
+      "subtitle_index": 772,
+      "start_time": 5862.229,
+      "end_time": 5866.199,
+      "duration": 3.969999999999345,
+      "dialogue_text": "Bedankt, Gran Mamare."
+    },
+    {
+      "subtitle_index": 773,
+      "start_time": 5876.327,
+      "end_time": 5880.88,
+      "duration": 4.552999999999884,
+      "dialogue_text": "Daar zijn jullie. Zijn jullie in orde?"
+    },
+    {
+      "subtitle_index": 774,
+      "start_time": 5884.543,
+      "end_time": 5886.628,
+      "duration": 2.0850000000000364,
+      "dialogue_text": "Wacht, ik haal de rolstoelen."
+    },
+    {
+      "subtitle_index": 775,
+      "start_time": 5886.629,
+      "end_time": 5888.963,
+      "duration": 2.3339999999998327,
+      "dialogue_text": "Nee, we lopen wel."
+    },
+    {
+      "subtitle_index": 776,
+      "start_time": 5888.964,
+      "end_time": 5892.683,
+      "duration": 3.719000000000051,
+      "dialogue_text": "Het is allemaal zo opwindend."
+    },
+    {
+      "subtitle_index": 777,
+      "start_time": 5894.637,
+      "end_time": 5897.688,
+      "duration": 3.0510000000003856,
+      "dialogue_text": "Ik geloof dat dit van jou is."
+    },
+    {
+      "subtitle_index": 778,
+      "start_time": 5898.933,
+      "end_time": 5900.334,
+      "duration": 1.40099999999984,
+      "dialogue_text": "Bedankt."
+    },
+    {
+      "subtitle_index": 779,
+      "start_time": 5900.434,
+      "end_time": 5905.738,
+      "duration": 5.304000000000087,
+      "dialogue_text": "Ik hoop dat je me vergeeft...mag ik?"
+    },
+    {
+      "subtitle_index": 780,
+      "start_time": 5910.152,
+      "end_time": 5913.538,
+      "duration": 3.3859999999995125,
+      "dialogue_text": "Zorg goed voor haar."
+    },
+    {
+      "subtitle_index": 781,
+      "start_time": 5914.532,
+      "end_time": 5917.708,
+      "duration": 3.175999999999476,
+      "dialogue_text": "Het is Koichi."
+    },
+    {
+      "subtitle_index": 782,
+      "start_time": 5920.621,
+      "end_time": 5924.006,
+      "duration": 3.3850000000002183,
+      "dialogue_text": "Koichi."
+    },
+    {
+      "subtitle_index": 783,
+      "start_time": 5926.168,
+      "end_time": 5930.847,
+      "duration": 4.679000000000087,
+      "dialogue_text": "Het is Lisa. En daar is Sosuke."
+    },
+    {
+      "subtitle_index": 784,
+      "start_time": 5931.882,
+      "end_time": 5936.31,
+      "duration": 4.428000000000793,
+      "dialogue_text": "Kijk, Ponyo. Het is Koichi."
+    },
+    {
+      "subtitle_index": 785,
+      "start_time": 5947.911,
+      "end_time": 5955.311,
+      "duration": 7.399999999999636,
+      "dialogue_text": "Vertaling: Thai-Tanic Bewerking: Kathmandu..."
+    },
+    {
+      "subtitle_index": 786,
+      "start_time": 5955.865,
+      "end_time": 5959.534,
+      "duration": 3.668999999999869,
+      "dialogue_text": "# Ponyo Ponyo Ponyo, kleine kleine vis."
+    },
+    {
+      "subtitle_index": 787,
+      "start_time": 5959.535,
+      "end_time": 5963.746,
+      "duration": 4.21100000000024,
+      "dialogue_text": "# Ze is een kleine vis uit de diepe zee."
+    },
+    {
+      "subtitle_index": 788,
+      "start_time": 5963.747,
+      "end_time": 5967.542,
+      "duration": 3.7950000000000728,
+      "dialogue_text": "# Ponyo Ponyo Ponyo, ze is een klein meisje."
+    },
+    {
+      "subtitle_index": 789,
+      "start_time": 5967.543,
+      "end_time": 5973.014,
+      "duration": 5.471000000000458,
+      "dialogue_text": "# Een klein meisje met een ronde buik."
+    },
+    {
+      "subtitle_index": 790,
+      "start_time": 5979.763,
+      "end_time": 5983.725,
+      "duration": 3.962000000000444,
+      "dialogue_text": "# Ontpitter-geklets, hop-hop en spring."
+    },
+    {
+      "subtitle_index": 791,
+      "start_time": 5983.726,
+      "end_time": 5988.821,
+      "duration": 5.095000000000255,
+      "dialogue_text": "# Kijk, ik heb benen en kan rennen."
+    },
+    {
+      "subtitle_index": 792,
+      "start_time": 5991.817,
+      "end_time": 5995.987,
+      "duration": 4.170000000000073,
+      "dialogue_text": "# Kijk, ik heb handen. Laten we ze vasthouden."
+    },
+    {
+      "subtitle_index": 793,
+      "start_time": 5995.988,
+      "end_time": 5999.991,
+      "duration": 4.002999999999702,
+      "dialogue_text": "# Als ik met hem speel,"
+    },
+    {
+      "subtitle_index": 794,
+      "start_time": 5999.992,
+      "end_time": 6003.786,
+      "duration": 3.793999999999869,
+      "dialogue_text": "# doet mijn hart deze dans."
+    },
+    {
+      "subtitle_index": 795,
+      "start_time": 6003.787,
+      "end_time": 6008.249,
+      "duration": 4.461999999999534,
+      "dialogue_text": "# Smak, smak. Kus, omhelzing."
+    },
+    {
+      "subtitle_index": 796,
+      "start_time": 6008.25,
+      "end_time": 6013.796,
+      "duration": 5.5460000000002765,
+      "dialogue_text": "# Hij is mijn favoriete kleine jongen."
+    },
+    {
+      "subtitle_index": 797,
+      "start_time": 6013.797,
+      "end_time": 6015.658,
+      "duration": 1.8610000000007858,
+      "dialogue_text": "# Rose-rose rood-rood."
+    },
+    {
+      "subtitle_index": 798,
+      "start_time": 6015.758,
+      "end_time": 6019.552,
+      "duration": 3.793999999999869,
+      "dialogue_text": "# Ponyo Ponyo Ponyo, kleine kleine vis."
+    },
+    {
+      "subtitle_index": 799,
+      "start_time": 6019.553,
+      "end_time": 6023.806,
+      "duration": 4.252999999999702,
+      "dialogue_text": "# Ze is een kleine vis uit de diepe zee."
+    },
+    {
+      "subtitle_index": 800,
+      "start_time": 6023.807,
+      "end_time": 6027.519,
+      "duration": 3.712000000000444,
+      "dialogue_text": "# Ponyo Ponyo Ponyo, ze is een klein meisje."
+    },
+    {
+      "subtitle_index": 801,
+      "start_time": 6027.52,
+      "end_time": 6032.19,
+      "duration": 4.669999999999163,
+      "dialogue_text": "# Een klein meisje met een ronde buik."
+    },
+    {
+      "subtitle_index": 802,
+      "start_time": 6039.24,
+      "end_time": 6042.492,
+      "duration": 3.2520000000004075,
+      "dialogue_text": "EINDE"
+    },
+    {
+      "subtitle_index": 803,
+      "start_time": 6042.493,
+      "end_time": 6053.838,
+      "duration": 11.344999999999345,
+      "dialogue_text": "Vertaling: Thai-Tanic Bewerking: Kathmandu"
+    }
+  ]
+}

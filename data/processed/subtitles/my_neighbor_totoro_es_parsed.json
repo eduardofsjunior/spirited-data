@@ -1,0 +1,4583 @@
+{
+  "metadata": {
+    "film_name": "My Neighbor Totoro",
+    "film_slug": "my_neighbor_totoro_es",
+    "language_code": "es",
+    "total_subtitles": 653,
+    "total_duration": 5135.9529999999995,
+    "parse_timestamp": "2025-10-30T17:09:43.044752"
+  },
+  "subtitles": [
+    {
+      "subtitle_index": 1,
+      "start_time": 29.8,
+      "end_time": 37.814,
+      "duration": 8.014,
+      "dialogue_text": "Mi vecino Totoro. ¡Vamos a pasear! ¡Vamos a pasear! ¡Que bien que me siento!"
+    },
+    {
+      "subtitle_index": 2,
+      "start_time": 37.849,
+      "end_time": 41.821,
+      "duration": 3.9720000000000013,
+      "dialogue_text": "¡Me encanta caminar!"
+    },
+    {
+      "subtitle_index": 3,
+      "start_time": 41.856,
+      "end_time": 45.793,
+      "duration": 3.9369999999999976,
+      "dialogue_text": "¡Vayamos ahora!"
+    },
+    {
+      "subtitle_index": 4,
+      "start_time": 45.828,
+      "end_time": 53.844,
+      "duration": 8.015999999999998,
+      "dialogue_text": "Por laderas, calles, túneles, o por la hierva..."
+    },
+    {
+      "subtitle_index": 5,
+      "start_time": 53.879,
+      "end_time": 61.77,
+      "duration": 7.891000000000005,
+      "dialogue_text": "Sobre puentes, o caminos de tierra..."
+    },
+    {
+      "subtitle_index": 6,
+      "start_time": 61.805,
+      "end_time": 69.662,
+      "duration": 7.857000000000006,
+      "dialogue_text": "En días nublados, en caminos en bajada..."
+    },
+    {
+      "subtitle_index": 7,
+      "start_time": 77.844,
+      "end_time": 85.858,
+      "duration": 8.01400000000001,
+      "dialogue_text": "¡Vamos a pasear! ¡Vamos a pasear! ¡Que bien que me siento!"
+    },
+    {
+      "subtitle_index": 8,
+      "start_time": 85.893,
+      "end_time": 89.866,
+      "duration": 3.972999999999999,
+      "dialogue_text": "¡Me encanta caminar!"
+    },
+    {
+      "subtitle_index": 9,
+      "start_time": 89.901,
+      "end_time": 93.838,
+      "duration": 3.9369999999999976,
+      "dialogue_text": "¡Vayamos ahora!"
+    },
+    {
+      "subtitle_index": 10,
+      "start_time": 93.873,
+      "end_time": 101.805,
+      "duration": 7.932000000000002,
+      "dialogue_text": "Incluso los zorros... y también los tejones... salgan ahora!"
+    },
+    {
+      "subtitle_index": 11,
+      "start_time": 101.84,
+      "end_time": 109.784,
+      "duration": 7.944000000000003,
+      "dialogue_text": "Hagamos una carrera hasta el bosque"
+    },
+    {
+      "subtitle_index": 12,
+      "start_time": 109.819,
+      "end_time": 129.562,
+      "duration": 19.74300000000001,
+      "dialogue_text": "¡Tengo tantos amigos! ¡Que feliz que soy!"
+    },
+    {
+      "subtitle_index": 13,
+      "start_time": 151.184,
+      "end_time": 152.979,
+      "duration": 1.795000000000016,
+      "dialogue_text": "¿Papá, quieres un caramelo?"
+    },
+    {
+      "subtitle_index": 14,
+      "start_time": 153.014,
+      "end_time": 154.499,
+      "duration": 1.4849999999999852,
+      "dialogue_text": "Oh, gracias."
+    },
+    {
+      "subtitle_index": 15,
+      "start_time": 154.534,
+      "end_time": 155.984,
+      "duration": 1.450000000000017,
+      "dialogue_text": "¿Estas cansada?"
+    },
+    {
+      "subtitle_index": 16,
+      "start_time": 156.019,
+      "end_time": 156.658,
+      "duration": 0.6389999999999816,
+      "dialogue_text": "No."
+    },
+    {
+      "subtitle_index": 17,
+      "start_time": 156.693,
+      "end_time": 158.489,
+      "duration": 1.7959999999999923,
+      "dialogue_text": "Ya falta poco."
+    },
+    {
+      "subtitle_index": 18,
+      "start_time": 169.592,
+      "end_time": 171.178,
+      "duration": 1.5859999999999843,
+      "dialogue_text": "¡Mei! ¡Escuendete!"
+    },
+    {
+      "subtitle_index": 19,
+      "start_time": 176.605,
+      "end_time": 178.316,
+      "duration": 1.7110000000000127,
+      "dialogue_text": "No era un policía."
+    },
+    {
+      "subtitle_index": 20,
+      "start_time": 178.351,
+      "end_time": 180.32,
+      "duration": 1.968999999999994,
+      "dialogue_text": "¡Hola!"
+    },
+    {
+      "subtitle_index": 21,
+      "start_time": 211.0,
+      "end_time": 213.379,
+      "duration": 2.3789999999999907,
+      "dialogue_text": "¿Quién se encarga de cuidar la casa? ¿No está aquí?"
+    },
+    {
+      "subtitle_index": 22,
+      "start_time": 215.884,
+      "end_time": 217.302,
+      "duration": 1.4180000000000064,
+      "dialogue_text": "¡Ah, gracias!"
+    },
+    {
+      "subtitle_index": 23,
+      "start_time": 219.306,
+      "end_time": 222.98,
+      "duration": 3.673999999999978,
+      "dialogue_text": "¡Soy el Sr. Kusakabe! ¡Nos acabamos de mudar!"
+    },
+    {
+      "subtitle_index": 24,
+      "start_time": 223.98,
+      "end_time": 225.818,
+      "duration": 1.8380000000000223,
+      "dialogue_text": "Un gusto de conocerlos."
+    },
+    {
+      "subtitle_index": 25,
+      "start_time": 226.485,
+      "end_time": 228.989,
+      "duration": 2.5039999999999907,
+      "dialogue_text": "Gracias por cuidar las cosas."
+    },
+    {
+      "subtitle_index": 26,
+      "start_time": 233.332,
+      "end_time": 234.876,
+      "duration": 1.5440000000000111,
+      "dialogue_text": "Gracias."
+    },
+    {
+      "subtitle_index": 27,
+      "start_time": 256.708,
+      "end_time": 258.126,
+      "duration": 1.4179999999999495,
+      "dialogue_text": "¡Ya llegamos!"
+    },
+    {
+      "subtitle_index": 28,
+      "start_time": 259.42,
+      "end_time": 260.839,
+      "duration": 1.4189999999999827,
+      "dialogue_text": "¡Espérame!"
+    },
+    {
+      "subtitle_index": 29,
+      "start_time": 263.636,
+      "end_time": 265.096,
+      "duration": 1.4599999999999795,
+      "dialogue_text": "Aquí hay un puente, Mei."
+    },
+    {
+      "subtitle_index": 30,
+      "start_time": 265.131,
+      "end_time": 266.599,
+      "duration": 1.4680000000000177,
+      "dialogue_text": "¿Un puente...?"
+    },
+    {
+      "subtitle_index": 31,
+      "start_time": 271.4,
+      "end_time": 273.32,
+      "duration": 1.920000000000016,
+      "dialogue_text": "¡Peces! ¡Mira volvieron a brillar!"
+    },
+    {
+      "subtitle_index": 32,
+      "start_time": 274.697,
+      "end_time": 276.2,
+      "duration": 1.502999999999986,
+      "dialogue_text": "¿Les gusta?"
+    },
+    {
+      "subtitle_index": 33,
+      "start_time": 278.997,
+      "end_time": 282.795,
+      "duration": 3.798000000000002,
+      "dialogue_text": "¡Papá, es grandioso un túnel de árboles!"
+    },
+    {
+      "subtitle_index": 34,
+      "start_time": 286.427,
+      "end_time": 288.013,
+      "duration": 1.585999999999956,
+      "dialogue_text": "¿Esa es la casa?"
+    },
+    {
+      "subtitle_index": 35,
+      "start_time": 291.686,
+      "end_time": 293.314,
+      "duration": 1.6280000000000427,
+      "dialogue_text": "¡Apurate!"
+    },
+    {
+      "subtitle_index": 36,
+      "start_time": 307.215,
+      "end_time": 308.341,
+      "duration": 1.1260000000000332,
+      "dialogue_text": "¡Esta desvencijada!"
+    },
+    {
+      "subtitle_index": 37,
+      "start_time": 308.376,
+      "end_time": 309.892,
+      "duration": 1.5160000000000196,
+      "dialogue_text": "¡Desvencijada!"
+    },
+    {
+      "subtitle_index": 38,
+      "start_time": 309.927,
+      "end_time": 311.639,
+      "duration": 1.711999999999989,
+      "dialogue_text": "Parece una casa embrujada."
+    },
+    {
+      "subtitle_index": 39,
+      "start_time": 311.674,
+      "end_time": 313.015,
+      "duration": 1.3410000000000082,
+      "dialogue_text": "¿Embrujada?"
+    },
+    {
+      "subtitle_index": 40,
+      "start_time": 320.153,
+      "end_time": 321.698,
+      "duration": 1.544999999999959,
+      "dialogue_text": "Esta podrido."
+    },
+    {
+      "subtitle_index": 41,
+      "start_time": 333.051,
+      "end_time": 335.056,
+      "duration": 2.0049999999999955,
+      "dialogue_text": "¡Se está desarmando toda!"
+    },
+    {
+      "subtitle_index": 42,
+      "start_time": 346.534,
+      "end_time": 348.204,
+      "duration": 1.670000000000016,
+      "dialogue_text": "¡Mei! ¡Mira!"
+    },
+    {
+      "subtitle_index": 43,
+      "start_time": 350.625,
+      "end_time": 352.003,
+      "duration": 1.377999999999986,
+      "dialogue_text": "¡Por aquí!"
+    },
+    {
+      "subtitle_index": 44,
+      "start_time": 361.019,
+      "end_time": 363.23,
+      "duration": 2.2110000000000127,
+      "dialogue_text": "¡Es enorme!"
+    },
+    {
+      "subtitle_index": 45,
+      "start_time": 368.448,
+      "end_time": 370.702,
+      "duration": 2.254000000000019,
+      "dialogue_text": "¿Qué es ese árbol, papá?"
+    },
+    {
+      "subtitle_index": 46,
+      "start_time": 371.621,
+      "end_time": 373.499,
+      "duration": 1.8780000000000427,
+      "dialogue_text": "Oh, es un alcanfor."
+    },
+    {
+      "subtitle_index": 47,
+      "start_time": 375.42,
+      "end_time": 376.526,
+      "duration": 1.1059999999999945,
+      "dialogue_text": "Un alcanfor..."
+    },
+    {
+      "subtitle_index": 48,
+      "start_time": 376.561,
+      "end_time": 377.633,
+      "duration": 1.0720000000000027,
+      "dialogue_text": "¡Un alcanfor!"
+    },
+    {
+      "subtitle_index": 49,
+      "start_time": 386.649,
+      "end_time": 388.026,
+      "duration": 1.3770000000000095,
+      "dialogue_text": "¡Hey!"
+    },
+    {
+      "subtitle_index": 50,
+      "start_time": 390.656,
+      "end_time": 391.95,
+      "duration": 1.2939999999999827,
+      "dialogue_text": "¡Una bellota!"
+    },
+    {
+      "subtitle_index": 51,
+      "start_time": 394.245,
+      "end_time": 395.748,
+      "duration": 1.502999999999986,
+      "dialogue_text": "¡Déjame ver!"
+    },
+    {
+      "subtitle_index": 52,
+      "start_time": 396.374,
+      "end_time": 398.043,
+      "duration": 1.6689999999999827,
+      "dialogue_text": "¡Ah! ¡Otra mas!"
+    },
+    {
+      "subtitle_index": 53,
+      "start_time": 403.72,
+      "end_time": 405.265,
+      "duration": 1.544999999999959,
+      "dialogue_text": "¡Encontré una!"
+    },
+    {
+      "subtitle_index": 54,
+      "start_time": 411.401,
+      "end_time": 414.656,
+      "duration": 3.2549999999999955,
+      "dialogue_text": "Hey, ¡hey! ¡Las puertas corredizas no se supone que deberían estar abiertas!"
+    },
+    {
+      "subtitle_index": 55,
+      "start_time": 414.691,
+      "end_time": 415.707,
+      "duration": 1.0160000000000196,
+      "dialogue_text": "¡Bellota!"
+    },
+    {
+      "subtitle_index": 56,
+      "start_time": 415.742,
+      "end_time": 418.205,
+      "duration": 2.4629999999999654,
+      "dialogue_text": "Las bellotas están cayendo dentro del cuarto."
+    },
+    {
+      "subtitle_index": 57,
+      "start_time": 418.24,
+      "end_time": 420.208,
+      "duration": 1.9680000000000177,
+      "dialogue_text": "¡Caen desde arriba!"
+    },
+    {
+      "subtitle_index": 58,
+      "start_time": 424.257,
+      "end_time": 427.68,
+      "duration": 3.423000000000002,
+      "dialogue_text": "¡Debe haber algunas ardillas!"
+    },
+    {
+      "subtitle_index": 59,
+      "start_time": 427.715,
+      "end_time": 429.015,
+      "duration": 1.3000000000000114,
+      "dialogue_text": "¡Ardillas!"
+    },
+    {
+      "subtitle_index": 60,
+      "start_time": 430.018,
+      "end_time": 432.355,
+      "duration": 2.337000000000046,
+      "dialogue_text": "¡O pueden ser ratones que les gustan las bellotas!"
+    },
+    {
+      "subtitle_index": 61,
+      "start_time": 432.39,
+      "end_time": 432.988,
+      "duration": 0.5980000000000132,
+      "dialogue_text": "¿Qué?"
+    },
+    {
+      "subtitle_index": 62,
+      "start_time": 433.023,
+      "end_time": 434.86,
+      "duration": 1.836999999999989,
+      "dialogue_text": "¡Quiero ardillas!"
+    },
+    {
+      "subtitle_index": 63,
+      "start_time": 435.235,
+      "end_time": 437.913,
+      "duration": 2.6779999999999973,
+      "dialogue_text": "¡¿Dónde debo poner esto?!"
+    },
+    {
+      "subtitle_index": 64,
+      "start_time": 437.948,
+      "end_time": 440.209,
+      "duration": 2.261000000000024,
+      "dialogue_text": "¡Oh! ponlo aquí, ahora abriré esto."
+    },
+    {
+      "subtitle_index": 65,
+      "start_time": 440.244,
+      "end_time": 442.165,
+      "duration": 1.9209999999999923,
+      "dialogue_text": "¡Satsuki! abre la puerta trasera de la cocina."
+    },
+    {
+      "subtitle_index": 66,
+      "start_time": 442.2,
+      "end_time": 443.006,
+      "duration": 0.8059999999999832,
+      "dialogue_text": "¡Seguro!"
+    },
+    {
+      "subtitle_index": 67,
+      "start_time": 443.041,
+      "end_time": 444.167,
+      "duration": 1.1259999999999764,
+      "dialogue_text": "Lo sabrás cuando lo veas."
+    },
+    {
+      "subtitle_index": 68,
+      "start_time": 444.202,
+      "end_time": 445.045,
+      "duration": 0.8430000000000177,
+      "dialogue_text": "Esta bien."
+    },
+    {
+      "subtitle_index": 69,
+      "start_time": 447.048,
+      "end_time": 449.051,
+      "duration": 2.002999999999986,
+      "dialogue_text": "Sígueme."
+    },
+    {
+      "subtitle_index": 70,
+      "start_time": 449.719,
+      "end_time": 451.389,
+      "duration": 1.670000000000016,
+      "dialogue_text": "¡Espera!"
+    },
+    {
+      "subtitle_index": 71,
+      "start_time": 452.642,
+      "end_time": 454.645,
+      "duration": 2.002999999999986,
+      "dialogue_text": "¡Vamos apurate!"
+    },
+    {
+      "subtitle_index": 72,
+      "start_time": 492.504,
+      "end_time": 493.882,
+      "duration": 1.377999999999986,
+      "dialogue_text": "Vamos..."
+    },
+    {
+      "subtitle_index": 73,
+      "start_time": 506.112,
+      "end_time": 506.996,
+      "duration": 0.8839999999999577,
+      "dialogue_text": "¿El baño?"
+    },
+    {
+      "subtitle_index": 74,
+      "start_time": 507.031,
+      "end_time": 507.907,
+      "duration": 0.8759999999999764,
+      "dialogue_text": "Hmm... a ver..."
+    },
+    {
+      "subtitle_index": 75,
+      "start_time": 513.292,
+      "end_time": 515.128,
+      "duration": 1.8360000000000127,
+      "dialogue_text": "No están aquí."
+    },
+    {
+      "subtitle_index": 76,
+      "start_time": 516.882,
+      "end_time": 518.098,
+      "duration": 1.2160000000000082,
+      "dialogue_text": "Ese es el baño."
+    },
+    {
+      "subtitle_index": 77,
+      "start_time": 518.133,
+      "end_time": 520.054,
+      "duration": 1.9209999999999354,
+      "dialogue_text": "Papá, hay algo aquí."
+    },
+    {
+      "subtitle_index": 78,
+      "start_time": 520.089,
+      "end_time": 520.937,
+      "duration": 0.8479999999999563,
+      "dialogue_text": "¿Ardillas?"
+    },
+    {
+      "subtitle_index": 79,
+      "start_time": 520.972,
+      "end_time": 523.852,
+      "duration": 2.8799999999999955,
+      "dialogue_text": "No se. No eran cucarachas ni tampoco ratones."
+    },
+    {
+      "subtitle_index": 80,
+      "start_time": 523.887,
+      "end_time": 525.98,
+      "duration": 2.0930000000000746,
+      "dialogue_text": "Estaba lleno de cosas negras."
+    },
+    {
+      "subtitle_index": 81,
+      "start_time": 539.172,
+      "end_time": 540.423,
+      "duration": 1.2509999999999764,
+      "dialogue_text": "¿Entonces?"
+    },
+    {
+      "subtitle_index": 82,
+      "start_time": 541.677,
+      "end_time": 543.728,
+      "duration": 2.050999999999931,
+      "dialogue_text": "Son \"Duendes del polvo\"."
+    },
+    {
+      "subtitle_index": 83,
+      "start_time": 543.763,
+      "end_time": 546.566,
+      "duration": 2.8029999999999973,
+      "dialogue_text": "¿Duendes del polvo? ¿Cómo en los libros de cuentos?"
+    },
+    {
+      "subtitle_index": 84,
+      "start_time": 546.601,
+      "end_time": 550.108,
+      "duration": 3.506999999999948,
+      "dialogue_text": "Exacto. No hay razón para que los fantasmas salgan con un buen clima como este."
+    },
+    {
+      "subtitle_index": 85,
+      "start_time": 555.408,
+      "end_time": 558.29,
+      "duration": 2.881999999999948,
+      "dialogue_text": "Cuando entras de repente, de un lugar iluminado a uno oscuro..."
+    },
+    {
+      "subtitle_index": 86,
+      "start_time": 558.325,
+      "end_time": 560.71,
+      "duration": 2.384999999999991,
+      "dialogue_text": "...y estás cegada entonces los duendes del polvo salen."
+    },
+    {
+      "subtitle_index": 87,
+      "start_time": 561.295,
+      "end_time": 565.969,
+      "duration": 4.674000000000092,
+      "dialogue_text": "Ya veo... ¡duendes del polvo! ¡SALGAN!"
+    },
+    {
+      "subtitle_index": 88,
+      "start_time": 566.004,
+      "end_time": 570.644,
+      "duration": 4.639999999999986,
+      "dialogue_text": "SALGAN... ¡O LE ARRANCAREMOS LOS OJOS!"
+    },
+    {
+      "subtitle_index": 89,
+      "start_time": 575.112,
+      "end_time": 576.286,
+      "duration": 1.1739999999999782,
+      "dialogue_text": "¡Vamos! ¡Funciona, funciona!"
+    },
+    {
+      "subtitle_index": 90,
+      "start_time": 576.321,
+      "end_time": 580.12,
+      "duration": 3.798999999999978,
+      "dialogue_text": "¿Dónde crees que están las escaleras al 2do piso?"
+    },
+    {
+      "subtitle_index": 91,
+      "start_time": 580.155,
+      "end_time": 581.33,
+      "duration": 1.1750000000000682,
+      "dialogue_text": "¿Huh?"
+    },
+    {
+      "subtitle_index": 92,
+      "start_time": 581.455,
+      "end_time": 584.336,
+      "duration": 2.880999999999972,
+      "dialogue_text": "¿Por qué no buscas las escaleras, y abres las ventanas del 2do piso?"
+    },
+    {
+      "subtitle_index": 93,
+      "start_time": 584.503,
+      "end_time": 585.596,
+      "duration": 1.092999999999961,
+      "dialogue_text": "¡Si!"
+    },
+    {
+      "subtitle_index": 94,
+      "start_time": 585.631,
+      "end_time": 587.05,
+      "duration": 1.4189999999999827,
+      "dialogue_text": "¡Hey! Yo también."
+    },
+    {
+      "subtitle_index": 95,
+      "start_time": 595.939,
+      "end_time": 597.526,
+      "duration": 1.586999999999989,
+      "dialogue_text": "¡El baño!"
+    },
+    {
+      "subtitle_index": 96,
+      "start_time": 599.488,
+      "end_time": 601.282,
+      "duration": 1.7939999999999827,
+      "dialogue_text": "¿Entonces?"
+    },
+    {
+      "subtitle_index": 97,
+      "start_time": 603.495,
+      "end_time": 606.083,
+      "duration": 2.5879999999999654,
+      "dialogue_text": "¿Eso?"
+    },
+    {
+      "subtitle_index": 98,
+      "start_time": 609.089,
+      "end_time": 611.718,
+      "duration": 2.6289999999999054,
+      "dialogue_text": "¡Mira!"
+    },
+    {
+      "subtitle_index": 99,
+      "start_time": 613.763,
+      "end_time": 616.602,
+      "duration": 2.838999999999942,
+      "dialogue_text": "¿Y?"
+    },
+    {
+      "subtitle_index": 100,
+      "start_time": 618.314,
+      "end_time": 621.778,
+      "duration": 3.4640000000000555,
+      "dialogue_text": "¿Aquí tampoco?"
+    },
+    {
+      "subtitle_index": 101,
+      "start_time": 631.294,
+      "end_time": 633.133,
+      "duration": 1.8390000000000555,
+      "dialogue_text": "Mei, la encontre."
+    },
+    {
+      "subtitle_index": 102,
+      "start_time": 640.103,
+      "end_time": 641.919,
+      "duration": 1.816000000000031,
+      "dialogue_text": "Esta oscuro, ¿no es verdad?..."
+    },
+    {
+      "subtitle_index": 103,
+      "start_time": 641.954,
+      "end_time": 643.735,
+      "duration": 1.7810000000000628,
+      "dialogue_text": "Son los duendes del polvo."
+    },
+    {
+      "subtitle_index": 104,
+      "start_time": 651.789,
+      "end_time": 653.334,
+      "duration": 1.544999999999959,
+      "dialogue_text": "¿Una bellota?"
+    },
+    {
+      "subtitle_index": 105,
+      "start_time": 659.471,
+      "end_time": 663.936,
+      "duration": 4.465000000000032,
+      "dialogue_text": "¡DUENDES DEL POLVO, SALGAN!"
+    },
+    {
+      "subtitle_index": 106,
+      "start_time": 702.63,
+      "end_time": 706.513,
+      "duration": 3.883000000000038,
+      "dialogue_text": "Duendes del polvo... ¿están aquí...?"
+    },
+    {
+      "subtitle_index": 107,
+      "start_time": 732.059,
+      "end_time": 735.565,
+      "duration": 3.5060000000000855,
+      "dialogue_text": "¡Papá, hay algo en la casa después de todo!"
+    },
+    {
+      "subtitle_index": 108,
+      "start_time": 736.065,
+      "end_time": 741.952,
+      "duration": 5.886999999999944,
+      "dialogue_text": "Eso es fantástico, desde que era un niño sueño con vivir en una casa embrujada."
+    },
+    {
+      "subtitle_index": 109,
+      "start_time": 745.082,
+      "end_time": 746.753,
+      "duration": 1.6710000000000491,
+      "dialogue_text": "¡Oh, no!"
+    },
+    {
+      "subtitle_index": 110,
+      "start_time": 791.748,
+      "end_time": 793.961,
+      "duration": 2.2129999999999654,
+      "dialogue_text": "¡Lo tengo! ¡Hermana!"
+    },
+    {
+      "subtitle_index": 111,
+      "start_time": 807.778,
+      "end_time": 809.072,
+      "duration": 1.2939999999999827,
+      "dialogue_text": "Mei..."
+    },
+    {
+      "subtitle_index": 112,
+      "start_time": 819.382,
+      "end_time": 821.177,
+      "duration": 1.7950000000000728,
+      "dialogue_text": "¿Una niña muy vivaz, ehh?"
+    },
+    {
+      "subtitle_index": 113,
+      "start_time": 821.595,
+      "end_time": 824.683,
+      "duration": 3.0879999999999654,
+      "dialogue_text": "La abuela que vive al lado, ha estado cuidando la casa."
+    },
+    {
+      "subtitle_index": 114,
+      "start_time": 824.718,
+      "end_time": 826.651,
+      "duration": 1.9329999999999927,
+      "dialogue_text": "Ha venido a ayudarnos."
+    },
+    {
+      "subtitle_index": 115,
+      "start_time": 826.686,
+      "end_time": 829.692,
+      "duration": 3.005999999999972,
+      "dialogue_text": "Buenas tardes. Yo soy satsuki, y esta es mi hermana menor, Mei."
+    },
+    {
+      "subtitle_index": 116,
+      "start_time": 830.193,
+      "end_time": 832.572,
+      "duration": 2.379000000000019,
+      "dialogue_text": "Buenas tardes."
+    },
+    {
+      "subtitle_index": 117,
+      "start_time": 833.114,
+      "end_time": 835.668,
+      "duration": 2.5539999999999736,
+      "dialogue_text": "Es una niña muy inteligente."
+    },
+    {
+      "subtitle_index": 118,
+      "start_time": 835.703,
+      "end_time": 839.292,
+      "duration": 3.5890000000000555,
+      "dialogue_text": "Si está demasiado apurado, solo es cuestión de unas reparaciones a la casa."
+    },
+    {
+      "subtitle_index": 119,
+      "start_time": 840.002,
+      "end_time": 842.18,
+      "duration": 2.1779999999999973,
+      "dialogue_text": "Esto es más que suficiente..."
+    },
+    {
+      "subtitle_index": 120,
+      "start_time": 842.215,
+      "end_time": 847.474,
+      "duration": 5.2590000000000146,
+      "dialogue_text": "En esta época del año, los campos de arroz están muy ocupados, pero me las arregle para limpiar de vez en cuando."
+    },
+    {
+      "subtitle_index": 121,
+      "start_time": 848.769,
+      "end_time": 851.377,
+      "duration": 2.6079999999999472,
+      "dialogue_text": "Mei, tus manos están sucias. ¿Qué paso?"
+    },
+    {
+      "subtitle_index": 122,
+      "start_time": 851.412,
+      "end_time": 853.986,
+      "duration": 2.5739999999999554,
+      "dialogue_text": "Los duendes del polvo se escaparon."
+    },
+    {
+      "subtitle_index": 123,
+      "start_time": 854.021,
+      "end_time": 855.573,
+      "duration": 1.552000000000021,
+      "dialogue_text": "¡Ah! ¡Tus pies!"
+    },
+    {
+      "subtitle_index": 124,
+      "start_time": 860.08,
+      "end_time": 862.501,
+      "duration": 2.4209999999999354,
+      "dialogue_text": "¡Ah! ¡Mis pies también están negros!"
+    },
+    {
+      "subtitle_index": 125,
+      "start_time": 862.536,
+      "end_time": 867.677,
+      "duration": 5.141000000000076,
+      "dialogue_text": "Bien... bien... bien... Veamos."
+    },
+    {
+      "subtitle_index": 126,
+      "start_time": 868.971,
+      "end_time": 873.271,
+      "duration": 4.2999999999999545,
+      "dialogue_text": "Hmm... Bien, los Susuwataris han salido."
+    },
+    {
+      "subtitle_index": 127,
+      "start_time": 873.521,
+      "end_time": 879.489,
+      "duration": 5.968000000000075,
+      "dialogue_text": "¿Susuwataris? ¿Los \"Susuwataris\" son así? ¿Murmurando, moviendo cosas?"
+    },
+    {
+      "subtitle_index": 128,
+      "start_time": 879.782,
+      "end_time": 888.255,
+      "duration": 8.472999999999956,
+      "dialogue_text": "¡Si! Merodeando en casas vacías y viejas, cubriéndolo todo con polvo y hollín."
+    },
+    {
+      "subtitle_index": 129,
+      "start_time": 889.382,
+      "end_time": 896.27,
+      "duration": 6.888000000000034,
+      "dialogue_text": "Podía verlos cuando era pequeña, así que los han estado viendo también."
+    },
+    {
+      "subtitle_index": 130,
+      "start_time": 896.813,
+      "end_time": 898.733,
+      "duration": 1.919999999999959,
+      "dialogue_text": "¿Son fantasmas?"
+    },
+    {
+      "subtitle_index": 131,
+      "start_time": 898.984,
+      "end_time": 902.739,
+      "duration": 3.7549999999999955,
+      "dialogue_text": "Bueno si es así, no son unos que den mucho miedo."
+    },
+    {
+      "subtitle_index": 132,
+      "start_time": 902.99,
+      "end_time": 908.876,
+      "duration": 5.885999999999967,
+      "dialogue_text": "Si sonríes, no harán ningún daño, se habrán ido antes de que se den cuenta."
+    },
+    {
+      "subtitle_index": 133,
+      "start_time": 910.002,
+      "end_time": 914.01,
+      "duration": 4.008000000000038,
+      "dialogue_text": "Justo ahora el ruido del movimiento los está molestando."
+    },
+    {
+      "subtitle_index": 134,
+      "start_time": 920.02,
+      "end_time": 921.732,
+      "duration": 1.711999999999989,
+      "dialogue_text": "Mei, ellos están escapando."
+    },
+    {
+      "subtitle_index": 135,
+      "start_time": 922.024,
+      "end_time": 922.991,
+      "duration": 0.9669999999999845,
+      "dialogue_text": "Que mal."
+    },
+    {
+      "subtitle_index": 136,
+      "start_time": 923.026,
+      "end_time": 926.031,
+      "duration": 3.0049999999999955,
+      "dialogue_text": "¿Qué pasa si salieran de esta forma?"
+    },
+    {
+      "subtitle_index": 137,
+      "start_time": 926.066,
+      "end_time": 927.583,
+      "duration": 1.516999999999939,
+      "dialogue_text": "¡No me voy a asustar!"
+    },
+    {
+      "subtitle_index": 138,
+      "start_time": 927.618,
+      "end_time": 931.375,
+      "duration": 3.756999999999948,
+      "dialogue_text": "Entonces, cuando se ponga oscuro, no te acompañare hasta el baño."
+    },
+    {
+      "subtitle_index": 139,
+      "start_time": 933.712,
+      "end_time": 938.512,
+      "duration": 4.7999999999999545,
+      "dialogue_text": "Bueno, limpiemos. ¿Podrías traer agua desde el rió?."
+    },
+    {
+      "subtitle_index": 140,
+      "start_time": 938.804,
+      "end_time": 939.854,
+      "duration": 1.0500000000000682,
+      "dialogue_text": "¿Del rio?"
+    },
+    {
+      "subtitle_index": 141,
+      "start_time": 939.889,
+      "end_time": 941.1,
+      "duration": 1.2110000000000127,
+      "dialogue_text": "¡Yo también voy!"
+    },
+    {
+      "subtitle_index": 142,
+      "start_time": 944.816,
+      "end_time": 946.109,
+      "duration": 1.2930000000000064,
+      "dialogue_text": "Mei, espera ahí."
+    },
+    {
+      "subtitle_index": 143,
+      "start_time": 955.877,
+      "end_time": 957.547,
+      "duration": 1.6700000000000728,
+      "dialogue_text": "¿Atrapaste un pez?"
+    },
+    {
+      "subtitle_index": 144,
+      "start_time": 969.401,
+      "end_time": 971.739,
+      "duration": 2.338000000000079,
+      "dialogue_text": "¡Abuela! ¡Esta saliendo!"
+    },
+    {
+      "subtitle_index": 145,
+      "start_time": 971.822,
+      "end_time": 976.748,
+      "duration": 4.926000000000045,
+      "dialogue_text": "¡Sigue bombeando hasta que salga fría!"
+    },
+    {
+      "subtitle_index": 146,
+      "start_time": 976.783,
+      "end_time": 978.041,
+      "duration": 1.2580000000000382,
+      "dialogue_text": "¡Esta bien!"
+    },
+    {
+      "subtitle_index": 147,
+      "start_time": 1020.075,
+      "end_time": 1023.622,
+      "duration": 3.546999999999912,
+      "dialogue_text": "Oh... No eras el que... Que deseas?"
+    },
+    {
+      "subtitle_index": 148,
+      "start_time": 1024.542,
+      "end_time": 1027.63,
+      "duration": 3.088000000000193,
+      "dialogue_text": "De mi ma... Para la abuela..."
+    },
+    {
+      "subtitle_index": 149,
+      "start_time": 1029.091,
+      "end_time": 1030.427,
+      "duration": 1.3360000000000127,
+      "dialogue_text": "¡¿Qué?!"
+    },
+    {
+      "subtitle_index": 150,
+      "start_time": 1036.73,
+      "end_time": 1038.316,
+      "duration": 1.5860000000000127,
+      "dialogue_text": "¡Espera! ¿Qué es esto?"
+    },
+    {
+      "subtitle_index": 151,
+      "start_time": 1039.109,
+      "end_time": 1040.612,
+      "duration": 1.5030000000001564,
+      "dialogue_text": "¿Es Kanta?"
+    },
+    {
+      "subtitle_index": 152,
+      "start_time": 1042.616,
+      "end_time": 1048.042,
+      "duration": 5.425999999999931,
+      "dialogue_text": "¡Hey! ¡Tú casa está embrujada!"
+    },
+    {
+      "subtitle_index": 153,
+      "start_time": 1048.335,
+      "end_time": 1050.046,
+      "duration": 1.7110000000000127,
+      "dialogue_text": "¡Kanta!"
+    },
+    {
+      "subtitle_index": 154,
+      "start_time": 1059.771,
+      "end_time": 1062.567,
+      "duration": 2.796000000000049,
+      "dialogue_text": "Si, esto me trae muchos recuerdos."
+    },
+    {
+      "subtitle_index": 155,
+      "start_time": 1062.86,
+      "end_time": 1067.577,
+      "duration": 4.717000000000098,
+      "dialogue_text": "¡Odio a los niños! ¡Pero me gusta mucho el resto de su familia, abuela!"
+    },
+    {
+      "subtitle_index": 156,
+      "start_time": 1068.329,
+      "end_time": 1070.457,
+      "duration": 2.1280000000001564,
+      "dialogue_text": "Sírvete."
+    },
+    {
+      "subtitle_index": 157,
+      "start_time": 1071.042,
+      "end_time": 1072.795,
+      "duration": 1.7530000000001564,
+      "dialogue_text": "¡Gracias por su ayuda!"
+    },
+    {
+      "subtitle_index": 158,
+      "start_time": 1075.591,
+      "end_time": 1077.345,
+      "duration": 1.7540000000001328,
+      "dialogue_text": "¡Muchas gracias!"
+    },
+    {
+      "subtitle_index": 159,
+      "start_time": 1078.764,
+      "end_time": 1080.6,
+      "duration": 1.8360000000000127,
+      "dialogue_text": "¡Adiós!"
+    },
+    {
+      "subtitle_index": 160,
+      "start_time": 1155.609,
+      "end_time": 1159.074,
+      "duration": 3.4650000000001455,
+      "dialogue_text": "Papá, la casa se va a venir abajo porque está muy dañada."
+    },
+    {
+      "subtitle_index": 161,
+      "start_time": 1161.078,
+      "end_time": 1163.791,
+      "duration": 2.7129999999999654,
+      "dialogue_text": "¡Ya que nos acabamos, de mudar eso PODRÍA ser un problema!"
+    },
+    {
+      "subtitle_index": 162,
+      "start_time": 1198.854,
+      "end_time": 1202.151,
+      "duration": 3.2970000000000255,
+      "dialogue_text": "Probemos reír todos. Ellos escaparan. Eso los asustara."
+    },
+    {
+      "subtitle_index": 163,
+      "start_time": 1204.364,
+      "end_time": 1206.284,
+      "duration": 1.9200000000000728,
+      "dialogue_text": "No estoy asustada."
+    },
+    {
+      "subtitle_index": 164,
+      "start_time": 1207.621,
+      "end_time": 1209.164,
+      "duration": 1.5429999999998927,
+      "dialogue_text": "¡NO ESTOY!"
+    },
+    {
+      "subtitle_index": 165,
+      "start_time": 1253.202,
+      "end_time": 1256.708,
+      "duration": 3.5060000000000855,
+      "dialogue_text": "¡Uno! ¡dos! ¡uno! ¡dos! ¡uno! ¡dos!"
+    },
+    {
+      "subtitle_index": 166,
+      "start_time": 1256.743,
+      "end_time": 1260.214,
+      "duration": 3.4710000000000036,
+      "dialogue_text": "¡Muy bien! ¡de esa forma! ¡Mas fuerte!"
+    },
+    {
+      "subtitle_index": 167,
+      "start_time": 1265.473,
+      "end_time": 1267.895,
+      "duration": 2.4220000000000255,
+      "dialogue_text": "¡Bien! ¡la ropa ya está lavada!"
+    },
+    {
+      "subtitle_index": 168,
+      "start_time": 1277.704,
+      "end_time": 1279.623,
+      "duration": 1.9190000000000964,
+      "dialogue_text": "¡Nos vamos!"
+    },
+    {
+      "subtitle_index": 169,
+      "start_time": 1296.612,
+      "end_time": 1298.825,
+      "duration": 2.2129999999999654,
+      "dialogue_text": "¡Abuela...!"
+    },
+    {
+      "subtitle_index": 170,
+      "start_time": 1299.618,
+      "end_time": 1301.796,
+      "duration": 2.178000000000111,
+      "dialogue_text": "Buenos tardes."
+    },
+    {
+      "subtitle_index": 171,
+      "start_time": 1301.831,
+      "end_time": 1303.834,
+      "duration": 2.0030000000001564,
+      "dialogue_text": "Parece que han estado trabajando duro."
+    },
+    {
+      "subtitle_index": 172,
+      "start_time": 1303.869,
+      "end_time": 1306.752,
+      "duration": 2.883000000000038,
+      "dialogue_text": "¿A donde van ustedes?"
+    },
+    {
+      "subtitle_index": 173,
+      "start_time": 1306.787,
+      "end_time": 1309.601,
+      "duration": 2.814000000000078,
+      "dialogue_text": "Vamos a visitar a mamá."
+    },
+    {
+      "subtitle_index": 174,
+      "start_time": 1309.636,
+      "end_time": 1314.854,
+      "duration": 5.218000000000075,
+      "dialogue_text": "Bueno, está bien. Denle mis saludos."
+    },
+    {
+      "subtitle_index": 175,
+      "start_time": 1314.889,
+      "end_time": 1316.399,
+      "duration": 1.509999999999991,
+      "dialogue_text": "¡Está bien!"
+    },
+    {
+      "subtitle_index": 176,
+      "start_time": 1332.426,
+      "end_time": 1334.431,
+      "duration": 2.005000000000109,
+      "dialogue_text": "¡Ah! ¡Por aquí, por aquí!"
+    },
+    {
+      "subtitle_index": 177,
+      "start_time": 1361.396,
+      "end_time": 1362.898,
+      "duration": 1.5019999999999527,
+      "dialogue_text": "Buenas tardes."
+    },
+    {
+      "subtitle_index": 178,
+      "start_time": 1362.933,
+      "end_time": 1364.401,
+      "duration": 1.4680000000000746,
+      "dialogue_text": "Por favor entre."
+    },
+    {
+      "subtitle_index": 179,
+      "start_time": 1365.403,
+      "end_time": 1366.62,
+      "duration": 1.2169999999998709,
+      "dialogue_text": "¡Mamá!"
+    },
+    {
+      "subtitle_index": 180,
+      "start_time": 1366.655,
+      "end_time": 1369.327,
+      "duration": 2.6720000000000255,
+      "dialogue_text": "Mei, que alegría que viniste a verme."
+    },
+    {
+      "subtitle_index": 181,
+      "start_time": 1369.362,
+      "end_time": 1371.347,
+      "duration": 1.9849999999999,
+      "dialogue_text": "Papá se perdió."
+    },
+    {
+      "subtitle_index": 182,
+      "start_time": 1371.382,
+      "end_time": 1373.333,
+      "duration": 1.9510000000000218,
+      "dialogue_text": "¿De verdad?"
+    },
+    {
+      "subtitle_index": 183,
+      "start_time": 1373.368,
+      "end_time": 1374.635,
+      "duration": 1.2670000000000528,
+      "dialogue_text": "¡Hola!"
+    },
+    {
+      "subtitle_index": 184,
+      "start_time": 1374.67,
+      "end_time": 1376.422,
+      "duration": 1.7519999999999527,
+      "dialogue_text": "Hoy es la fiesta de la plantación del arroz."
+    },
+    {
+      "subtitle_index": 185,
+      "start_time": 1377.925,
+      "end_time": 1380.283,
+      "duration": 2.3579999999999472,
+      "dialogue_text": "Papá está hablando con el doctor"
+    },
+    {
+      "subtitle_index": 186,
+      "start_time": 1380.318,
+      "end_time": 1382.641,
+      "duration": 2.3230000000000928,
+      "dialogue_text": "Que alegría que hayan venido todos."
+    },
+    {
+      "subtitle_index": 187,
+      "start_time": 1383.143,
+      "end_time": 1386.859,
+      "duration": 3.7159999999998945,
+      "dialogue_text": "¿Les gusta la nueva casa? ¿Ya se han asentado?"
+    },
+    {
+      "subtitle_index": 188,
+      "start_time": 1391.95,
+      "end_time": 1394.044,
+      "duration": 2.094000000000051,
+      "dialogue_text": "¡Oh! ¿Una casa embrujada?"
+    },
+    {
+      "subtitle_index": 189,
+      "start_time": 1394.079,
+      "end_time": 1396.382,
+      "duration": 2.303000000000111,
+      "dialogue_text": "¿Te gustan las casas embrujadas mamá?"
+    },
+    {
+      "subtitle_index": 190,
+      "start_time": 1396.417,
+      "end_time": 1399.965,
+      "duration": 3.548000000000002,
+      "dialogue_text": "Por supuesto. Me encantaría salir del hospital y conocer a un fantasma."
+    },
+    {
+      "subtitle_index": 191,
+      "start_time": 1400.0,
+      "end_time": 1401.134,
+      "duration": 1.1340000000000146,
+      "dialogue_text": "¿Eso es bueno? ¿No, Mei?"
+    },
+    {
+      "subtitle_index": 192,
+      "start_time": 1401.169,
+      "end_time": 1402.135,
+      "duration": 0.9659999999998945,
+      "dialogue_text": "Uh huh."
+    },
+    {
+      "subtitle_index": 193,
+      "start_time": 1402.553,
+      "end_time": 1406.142,
+      "duration": 3.588999999999942,
+      "dialogue_text": "Ella estaba preocupada de que no te guste."
+    },
+    {
+      "subtitle_index": 194,
+      "start_time": 1406.177,
+      "end_time": 1407.436,
+      "duration": 1.2590000000000146,
+      "dialogue_text": "¿Qué hay de ti y Mei?"
+    },
+    {
+      "subtitle_index": 195,
+      "start_time": 1407.471,
+      "end_time": 1408.194,
+      "duration": 0.7229999999999563,
+      "dialogue_text": "¡Nos encanta!"
+    },
+    {
+      "subtitle_index": 196,
+      "start_time": 1408.229,
+      "end_time": 1409.857,
+      "duration": 1.627999999999929,
+      "dialogue_text": "Yo no tengo miedo."
+    },
+    {
+      "subtitle_index": 197,
+      "start_time": 1412.57,
+      "end_time": 1415.158,
+      "duration": 2.5879999999999654,
+      "dialogue_text": "¿Tu has peinado a tu hermana Satsuki?"
+    },
+    {
+      "subtitle_index": 198,
+      "start_time": 1415.193,
+      "end_time": 1416.417,
+      "duration": 1.2239999999999327,
+      "dialogue_text": "Si."
+    },
+    {
+      "subtitle_index": 199,
+      "start_time": 1416.452,
+      "end_time": 1419.048,
+      "duration": 2.5960000000000036,
+      "dialogue_text": "Bien hecho. ¿Te gusta, no Mei?"
+    },
+    {
+      "subtitle_index": 200,
+      "start_time": 1419.083,
+      "end_time": 1422.547,
+      "duration": 3.463999999999942,
+      "dialogue_text": "Si pero Satsuki se enoja a cada rato."
+    },
+    {
+      "subtitle_index": 201,
+      "start_time": 1422.582,
+      "end_time": 1424.432,
+      "duration": 1.849999999999909,
+      "dialogue_text": "Eso es porque no se comporta."
+    },
+    {
+      "subtitle_index": 202,
+      "start_time": 1424.467,
+      "end_time": 1428.432,
+      "duration": 3.964999999999918,
+      "dialogue_text": "Satsuki, tu cabello está más corto."
+    },
+    {
+      "subtitle_index": 203,
+      "start_time": 1428.975,
+      "end_time": 1430.61,
+      "duration": 1.634999999999991,
+      "dialogue_text": "Me gusta así."
+    },
+    {
+      "subtitle_index": 204,
+      "start_time": 1430.645,
+      "end_time": 1432.232,
+      "duration": 1.586999999999989,
+      "dialogue_text": "¡Yo también! ¡Yo también!"
+    },
+    {
+      "subtitle_index": 205,
+      "start_time": 1432.267,
+      "end_time": 1433.823,
+      "duration": 1.55600000000004,
+      "dialogue_text": "¡En otro momento!"
+    },
+    {
+      "subtitle_index": 206,
+      "start_time": 1433.858,
+      "end_time": 1438.2,
+      "duration": 4.342000000000098,
+      "dialogue_text": "Igual que cuando yo era una niña."
+    },
+    {
+      "subtitle_index": 207,
+      "start_time": 1438.742,
+      "end_time": 1442.207,
+      "duration": 3.4650000000001455,
+      "dialogue_text": "¡¿Cuándo crezca mi cabello será igual que el tuyo?!"
+    },
+    {
+      "subtitle_index": 208,
+      "start_time": 1443.126,
+      "end_time": 1446.882,
+      "duration": 3.7560000000000855,
+      "dialogue_text": "Seguramente. Lo has heredado de mi."
+    },
+    {
+      "subtitle_index": 209,
+      "start_time": 1464.372,
+      "end_time": 1466.34,
+      "duration": 1.9679999999998472,
+      "dialogue_text": "¿Mamá se veía bien? ¿Verdad?"
+    },
+    {
+      "subtitle_index": 210,
+      "start_time": 1466.375,
+      "end_time": 1470.885,
+      "duration": 4.509999999999991,
+      "dialogue_text": "Si, el doctor dijo que podrá dejar el hospital pronto."
+    },
+    {
+      "subtitle_index": 211,
+      "start_time": 1471.093,
+      "end_time": 1472.887,
+      "duration": 1.793999999999869,
+      "dialogue_text": "¿Pronto? ¿Mañana?"
+    },
+    {
+      "subtitle_index": 212,
+      "start_time": 1473.095,
+      "end_time": 1474.974,
+      "duration": 1.8789999999999054,
+      "dialogue_text": "Mei ya empezó con su \"Mañana\"."
+    },
+    {
+      "subtitle_index": 213,
+      "start_time": 1475.183,
+      "end_time": 1477.527,
+      "duration": 2.344000000000051,
+      "dialogue_text": "Es poco probable que salga mañana."
+    },
+    {
+      "subtitle_index": 214,
+      "start_time": 1477.562,
+      "end_time": 1481.235,
+      "duration": 3.673000000000002,
+      "dialogue_text": "Mamá dijo que podría dormir con ella en mi \"fotón\"."
+    },
+    {
+      "subtitle_index": 215,
+      "start_time": 1481.27,
+      "end_time": 1484.909,
+      "duration": 3.6390000000001237,
+      "dialogue_text": "¿Huh? ¿Acaso no duermes sola desde que creciste?"
+    },
+    {
+      "subtitle_index": 216,
+      "start_time": 1485.159,
+      "end_time": 1487.454,
+      "duration": 2.2949999999998454,
+      "dialogue_text": "Esta bien si es con mamá."
+    },
+    {
+      "subtitle_index": 217,
+      "start_time": 1508.91,
+      "end_time": 1512.583,
+      "duration": 3.673000000000002,
+      "dialogue_text": "¡Papá! ¡Ya es de mañana!"
+    },
+    {
+      "subtitle_index": 218,
+      "start_time": 1516.09,
+      "end_time": 1518.553,
+      "duration": 2.463000000000193,
+      "dialogue_text": "¡Levántate!"
+    },
+    {
+      "subtitle_index": 219,
+      "start_time": 1524.105,
+      "end_time": 1525.669,
+      "duration": 1.5640000000000782,
+      "dialogue_text": "Lo siento, me quede dormido de nuevo."
+    },
+    {
+      "subtitle_index": 220,
+      "start_time": 1525.704,
+      "end_time": 1527.234,
+      "duration": 1.5299999999999727,
+      "dialogue_text": "A partir de hoy, haré el almuerzo."
+    },
+    {
+      "subtitle_index": 221,
+      "start_time": 1527.986,
+      "end_time": 1530.073,
+      "duration": 2.086999999999989,
+      "dialogue_text": "¡Oh hija! ¡Lo olvide completamente!"
+    },
+    {
+      "subtitle_index": 222,
+      "start_time": 1530.449,
+      "end_time": 1533.078,
+      "duration": 2.6289999999999054,
+      "dialogue_text": "¡Esta bien haré el almuerzo para todos!"
+    },
+    {
+      "subtitle_index": 223,
+      "start_time": 1533.113,
+      "end_time": 1533.956,
+      "duration": 0.8429999999998472,
+      "dialogue_text": "Está hirviendo."
+    },
+    {
+      "subtitle_index": 224,
+      "start_time": 1533.991,
+      "end_time": 1535.081,
+      "duration": 1.0899999999999181,
+      "dialogue_text": "¡Espera!"
+    },
+    {
+      "subtitle_index": 225,
+      "start_time": 1537.879,
+      "end_time": 1539.59,
+      "duration": 1.7110000000000127,
+      "dialogue_text": "¡Este es para Mei!"
+    },
+    {
+      "subtitle_index": 226,
+      "start_time": 1540.717,
+      "end_time": 1542.094,
+      "duration": 1.3769999999999527,
+      "dialogue_text": "¡Mío!"
+    },
+    {
+      "subtitle_index": 227,
+      "start_time": 1542.887,
+      "end_time": 1544.266,
+      "duration": 1.3790000000001328,
+      "dialogue_text": "Mei, ¡siéntate y come!"
+    },
+    {
+      "subtitle_index": 228,
+      "start_time": 1544.599,
+      "end_time": 1545.894,
+      "duration": 1.2950000000000728,
+      "dialogue_text": "Toma."
+    },
+    {
+      "subtitle_index": 229,
+      "start_time": 1546.979,
+      "end_time": 1548.774,
+      "duration": 1.7949999999998454,
+      "dialogue_text": "Envuelvelo tu misma."
+    },
+    {
+      "subtitle_index": 230,
+      "start_time": 1551.904,
+      "end_time": 1554.575,
+      "duration": 2.671000000000049,
+      "dialogue_text": "¡Satsuki-chan!"
+    },
+    {
+      "subtitle_index": 231,
+      "start_time": 1554.909,
+      "end_time": 1558.583,
+      "duration": 3.673999999999978,
+      "dialogue_text": "¡Oh no! ¡Ya voy!"
+    },
+    {
+      "subtitle_index": 232,
+      "start_time": 1560.461,
+      "end_time": 1562.422,
+      "duration": 1.9610000000000127,
+      "dialogue_text": "¿Ya has hecho una amiga?"
+    },
+    {
+      "subtitle_index": 233,
+      "start_time": 1562.457,
+      "end_time": 1564.384,
+      "duration": 1.9269999999999072,
+      "dialogue_text": "¿Te llamo \"Satsuki-chan?\""
+    },
+    {
+      "subtitle_index": 234,
+      "start_time": 1564.718,
+      "end_time": 1566.472,
+      "duration": 1.7539999999999054,
+      "dialogue_text": "¡Si! Ella es Mitchan."
+    },
+    {
+      "subtitle_index": 235,
+      "start_time": 1568.725,
+      "end_time": 1570.479,
+      "duration": 1.7540000000001328,
+      "dialogue_text": "Estuvo bueno."
+    },
+    {
+      "subtitle_index": 236,
+      "start_time": 1571.731,
+      "end_time": 1575.405,
+      "duration": 3.673999999999978,
+      "dialogue_text": "¡Hasta luego!"
+    },
+    {
+      "subtitle_index": 237,
+      "start_time": 1576.99,
+      "end_time": 1578.249,
+      "duration": 1.2590000000000146,
+      "dialogue_text": "¡Buenos días!"
+    },
+    {
+      "subtitle_index": 238,
+      "start_time": 1578.284,
+      "end_time": 1580.287,
+      "duration": 2.002999999999929,
+      "dialogue_text": "¡Buenos días! ¡Apurémonos!"
+    },
+    {
+      "subtitle_index": 239,
+      "start_time": 1592.726,
+      "end_time": 1596.087,
+      "duration": 3.3609999999998763,
+      "dialogue_text": "¡Papá! ¿Me parezco a mi hermana mayor?"
+    },
+    {
+      "subtitle_index": 240,
+      "start_time": 1596.122,
+      "end_time": 1599.448,
+      "duration": 3.326000000000022,
+      "dialogue_text": "Si. ¿Dónde has comido tu almuerzo?"
+    },
+    {
+      "subtitle_index": 241,
+      "start_time": 1599.483,
+      "end_time": 1601.201,
+      "duration": 1.7180000000000746,
+      "dialogue_text": "Por allá, hace un minuto."
+    },
+    {
+      "subtitle_index": 242,
+      "start_time": 1623.616,
+      "end_time": 1625.912,
+      "duration": 2.296000000000049,
+      "dialogue_text": "¡Papá! ¿Ya está el almuerzo?"
+    },
+    {
+      "subtitle_index": 243,
+      "start_time": 1625.947,
+      "end_time": 1628.123,
+      "duration": 2.1760000000001583,
+      "dialogue_text": "¿Qué? ¿Si ya está?"
+    },
+    {
+      "subtitle_index": 244,
+      "start_time": 1640.23,
+      "end_time": 1642.734,
+      "duration": 2.5039999999999054,
+      "dialogue_text": "¡Papá es un florista!"
+    },
+    {
+      "subtitle_index": 245,
+      "start_time": 1658.845,
+      "end_time": 1660.641,
+      "duration": 1.7960000000000491,
+      "dialogue_text": "¡Renacuajos!"
+    },
+    {
+      "subtitle_index": 246,
+      "start_time": 1678.84,
+      "end_time": 1681.386,
+      "duration": 2.546000000000049,
+      "dialogue_text": "¿Huh? ¡No tiene fondo!"
+    },
+    {
+      "subtitle_index": 247,
+      "start_time": 1694.743,
+      "end_time": 1696.205,
+      "duration": 1.461999999999989,
+      "dialogue_text": "¡Encontré una!"
+    },
+    {
+      "subtitle_index": 248,
+      "start_time": 2032.932,
+      "end_time": 2035.981,
+      "duration": 3.048999999999978,
+      "dialogue_text": "¡¿Quién eres tú?! ¿Un duende del polvo?"
+    },
+    {
+      "subtitle_index": 249,
+      "start_time": 2064.03,
+      "end_time": 2067.329,
+      "duration": 3.298999999999978,
+      "dialogue_text": "¡Totoro! Estas diciendo que eres \"Totoro\", ¿verdad?"
+    },
+    {
+      "subtitle_index": 250,
+      "start_time": 2072.254,
+      "end_time": 2074.131,
+      "duration": 1.8769999999999527,
+      "dialogue_text": "Después de todo, eres Totoro..."
+    },
+    {
+      "subtitle_index": 251,
+      "start_time": 2077.012,
+      "end_time": 2078.681,
+      "duration": 1.668999999999869,
+      "dialogue_text": "Totoro..."
+    },
+    {
+      "subtitle_index": 252,
+      "start_time": 2146.428,
+      "end_time": 2147.305,
+      "duration": 0.8769999999999527,
+      "dialogue_text": "¡Hasta luego!"
+    },
+    {
+      "subtitle_index": 253,
+      "start_time": 2147.34,
+      "end_time": 2148.349,
+      "duration": 1.0090000000000146,
+      "dialogue_text": "¡Adiós!"
+    },
+    {
+      "subtitle_index": 254,
+      "start_time": 2150.895,
+      "end_time": 2151.735,
+      "duration": 0.8400000000001455,
+      "dialogue_text": "Ya llegué."
+    },
+    {
+      "subtitle_index": 255,
+      "start_time": 2151.77,
+      "end_time": 2154.658,
+      "duration": 2.88799999999992,
+      "dialogue_text": "Bienvenida. Oh, ¿ya es la hora?"
+    },
+    {
+      "subtitle_index": 256,
+      "start_time": 2154.693,
+      "end_time": 2156.746,
+      "duration": 2.0529999999998836,
+      "dialogue_text": "¿Dónde está Mei? ¡Voy a la casa de Mitchan!"
+    },
+    {
+      "subtitle_index": 257,
+      "start_time": 2156.781,
+      "end_time": 2160.036,
+      "duration": 3.255000000000109,
+      "dialogue_text": "Todavía no he almorzado. ¿No está Mei jugando en el jardín?"
+    },
+    {
+      "subtitle_index": 258,
+      "start_time": 2160.071,
+      "end_time": 2161.456,
+      "duration": 1.3850000000002183,
+      "dialogue_text": "¡Meeeiii!"
+    },
+    {
+      "subtitle_index": 259,
+      "start_time": 2162.457,
+      "end_time": 2163.961,
+      "duration": 1.5039999999999054,
+      "dialogue_text": "¡Meeeiii!"
+    },
+    {
+      "subtitle_index": 260,
+      "start_time": 2165.379,
+      "end_time": 2166.59,
+      "duration": 1.21100000000024,
+      "dialogue_text": "¡Mei!"
+    },
+    {
+      "subtitle_index": 261,
+      "start_time": 2169.594,
+      "end_time": 2170.972,
+      "duration": 1.3780000000001564,
+      "dialogue_text": "¡Mei!"
+    },
+    {
+      "subtitle_index": 262,
+      "start_time": 2177.316,
+      "end_time": 2180.865,
+      "duration": 3.548999999999978,
+      "dialogue_text": "¡Papá!, ¡Encontré el sombrero de Mei!"
+    },
+    {
+      "subtitle_index": 263,
+      "start_time": 2196.351,
+      "end_time": 2197.979,
+      "duration": 1.6279999999997017,
+      "dialogue_text": "¡Mei! ¡Mei!"
+    },
+    {
+      "subtitle_index": 264,
+      "start_time": 2205.367,
+      "end_time": 2207.955,
+      "duration": 2.587999999999738,
+      "dialogue_text": "¡Mei! ¡Vamos, despierta!"
+    },
+    {
+      "subtitle_index": 265,
+      "start_time": 2209.374,
+      "end_time": 2211.712,
+      "duration": 2.338000000000193,
+      "dialogue_text": "No deberías dormir en un lugar como éste."
+    },
+    {
+      "subtitle_index": 266,
+      "start_time": 2213.465,
+      "end_time": 2214.76,
+      "duration": 1.2950000000000728,
+      "dialogue_text": "¿Dónde está Totoro?"
+    },
+    {
+      "subtitle_index": 267,
+      "start_time": 2214.795,
+      "end_time": 2216.018,
+      "duration": 1.2229999999999563,
+      "dialogue_text": "¿Totoro?"
+    },
+    {
+      "subtitle_index": 268,
+      "start_time": 2216.053,
+      "end_time": 2218.057,
+      "duration": 2.0039999999999054,
+      "dialogue_text": "¿Huh?... ¿Huh?..."
+    },
+    {
+      "subtitle_index": 269,
+      "start_time": 2220.978,
+      "end_time": 2222.878,
+      "duration": 1.900000000000091,
+      "dialogue_text": "¿Estuviste soñando?"
+    },
+    {
+      "subtitle_index": 270,
+      "start_time": 2222.913,
+      "end_time": 2224.743,
+      "duration": 1.8299999999999272,
+      "dialogue_text": "Encontré a totoro."
+    },
+    {
+      "subtitle_index": 271,
+      "start_time": 2224.778,
+      "end_time": 2227.99,
+      "duration": 3.211999999999989,
+      "dialogue_text": "¿\"Totoro\"? ¿Quieres decir como el duende del libro de cuentos?"
+    },
+    {
+      "subtitle_index": 272,
+      "start_time": 2228.025,
+      "end_time": 2231.205,
+      "duration": 3.1799999999998363,
+      "dialogue_text": "¡No! ¡Totoro! Es exactamente como el dijo."
+    },
+    {
+      "subtitle_index": 273,
+      "start_time": 2231.24,
+      "end_time": 2235.053,
+      "duration": 3.813000000000102,
+      "dialogue_text": "Peludo, con una boca así."
+    },
+    {
+      "subtitle_index": 274,
+      "start_time": 2235.088,
+      "end_time": 2242.183,
+      "duration": 7.0949999999998,
+      "dialogue_text": "¡Uno así..., y otro así..., y uno enorme que estaba durmiendo!"
+    },
+    {
+      "subtitle_index": 275,
+      "start_time": 2245.605,
+      "end_time": 2251.408,
+      "duration": 5.802999999999884,
+      "dialogue_text": "Las encontré, las encontré. Increíble. ¡Parece un escondite secreto!"
+    },
+    {
+      "subtitle_index": 276,
+      "start_time": 2251.443,
+      "end_time": 2254.414,
+      "duration": 2.9710000000000036,
+      "dialogue_text": "Papá, Mei dice que encontró a Totoro aquí."
+    },
+    {
+      "subtitle_index": 277,
+      "start_time": 2254.831,
+      "end_time": 2256.521,
+      "duration": 1.6900000000000546,
+      "dialogue_text": "¿Totoro?"
+    },
+    {
+      "subtitle_index": 278,
+      "start_time": 2256.556,
+      "end_time": 2258.212,
+      "duration": 1.655999999999949,
+      "dialogue_text": "Por aquí."
+    },
+    {
+      "subtitle_index": 279,
+      "start_time": 2266.059,
+      "end_time": 2268.063,
+      "duration": 2.0039999999999054,
+      "dialogue_text": "Hey, esperen..."
+    },
+    {
+      "subtitle_index": 280,
+      "start_time": 2269.774,
+      "end_time": 2271.193,
+      "duration": 1.4190000000003238,
+      "dialogue_text": "¿Huh?"
+    },
+    {
+      "subtitle_index": 281,
+      "start_time": 2273.363,
+      "end_time": 2274.539,
+      "duration": 1.1760000000003856,
+      "dialogue_text": "¿Aquí?"
+    },
+    {
+      "subtitle_index": 282,
+      "start_time": 2274.574,
+      "end_time": 2278.582,
+      "duration": 4.007999999999811,
+      "dialogue_text": "No... Fue hacia un árbol gigante."
+    },
+    {
+      "subtitle_index": 283,
+      "start_time": 2278.707,
+      "end_time": 2281.085,
+      "duration": 2.3780000000001564,
+      "dialogue_text": "Pero ahí solo había un camino."
+    },
+    {
+      "subtitle_index": 284,
+      "start_time": 2281.378,
+      "end_time": 2283.924,
+      "duration": 2.5459999999998217,
+      "dialogue_text": "¡Ah! ¡Mei! ¡Vuelve aquí!"
+    },
+    {
+      "subtitle_index": 285,
+      "start_time": 2284.467,
+      "end_time": 2286.387,
+      "duration": 1.9200000000000728,
+      "dialogue_text": "¡Hey, Mei!"
+    },
+    {
+      "subtitle_index": 286,
+      "start_time": 2298.909,
+      "end_time": 2302.625,
+      "duration": 3.7159999999998945,
+      "dialogue_text": "Es verdad. Realmente era Totoro. No estoy mintiendo."
+    },
+    {
+      "subtitle_index": 287,
+      "start_time": 2313.937,
+      "end_time": 2315.356,
+      "duration": 1.4190000000003238,
+      "dialogue_text": "Mei..."
+    },
+    {
+      "subtitle_index": 288,
+      "start_time": 2315.606,
+      "end_time": 2317.318,
+      "duration": 1.711999999999989,
+      "dialogue_text": "No es mentira."
+    },
+    {
+      "subtitle_index": 289,
+      "start_time": 2318.821,
+      "end_time": 2322.494,
+      "duration": 3.673000000000229,
+      "dialogue_text": "Mei, ni Satsuki o yo creemos que mientas."
+    },
+    {
+      "subtitle_index": 290,
+      "start_time": 2323.12,
+      "end_time": 2329.339,
+      "duration": 6.219000000000051,
+      "dialogue_text": "Ciertamente te encontraste con el espíritu del bosque. Tuviste mucha suerte."
+    },
+    {
+      "subtitle_index": 291,
+      "start_time": 2329.374,
+      "end_time": 2332.094,
+      "duration": 2.7200000000002547,
+      "dialogue_text": "Pero no es posible encontrarlo siempre."
+    },
+    {
+      "subtitle_index": 292,
+      "start_time": 2333.764,
+      "end_time": 2336.102,
+      "duration": 2.337999999999738,
+      "dialogue_text": "Siempre podemos ir a saludarlo ¿verdad?"
+    },
+    {
+      "subtitle_index": 293,
+      "start_time": 2336.137,
+      "end_time": 2337.193,
+      "duration": 1.05600000000004,
+      "dialogue_text": "¿Saludos?"
+    },
+    {
+      "subtitle_index": 294,
+      "start_time": 2337.228,
+      "end_time": 2338.94,
+      "duration": 1.711999999999989,
+      "dialogue_text": "Para el bosque..."
+    },
+    {
+      "subtitle_index": 295,
+      "start_time": 2355.386,
+      "end_time": 2358.391,
+      "duration": 3.005000000000109,
+      "dialogue_text": "Ahh... Mei te has puesto mas pesada."
+    },
+    {
+      "subtitle_index": 296,
+      "start_time": 2358.426,
+      "end_time": 2360.604,
+      "duration": 2.1779999999998836,
+      "dialogue_text": "Papá, el alcanfor."
+    },
+    {
+      "subtitle_index": 297,
+      "start_time": 2361.314,
+      "end_time": 2363.025,
+      "duration": 1.71100000000024,
+      "dialogue_text": "¿Es enorme verdad?"
+    },
+    {
+      "subtitle_index": 298,
+      "start_time": 2370.83,
+      "end_time": 2372.625,
+      "duration": 1.7950000000000728,
+      "dialogue_text": "¡Eso es!"
+    },
+    {
+      "subtitle_index": 299,
+      "start_time": 2373.085,
+      "end_time": 2373.752,
+      "duration": 0.6669999999999163,
+      "dialogue_text": "¿Ese árbol?"
+    },
+    {
+      "subtitle_index": 300,
+      "start_time": 2373.787,
+      "end_time": 2374.837,
+      "duration": 1.050000000000182,
+      "dialogue_text": "Si."
+    },
+    {
+      "subtitle_index": 301,
+      "start_time": 2375.088,
+      "end_time": 2377.926,
+      "duration": 2.837999999999738,
+      "dialogue_text": "¡Papá! ¡Apurate! ¡Apurate!"
+    },
+    {
+      "subtitle_index": 302,
+      "start_time": 2388.53,
+      "end_time": 2390.24,
+      "duration": 1.7099999999995816,
+      "dialogue_text": "El agujero ya no está."
+    },
+    {
+      "subtitle_index": 303,
+      "start_time": 2390.532,
+      "end_time": 2391.743,
+      "duration": 1.2109999999997854,
+      "dialogue_text": "¿En verdad es aquí?"
+    },
+    {
+      "subtitle_index": 304,
+      "start_time": 2391.827,
+      "end_time": 2392.953,
+      "duration": 1.125999999999749,
+      "dialogue_text": "Si..."
+    },
+    {
+      "subtitle_index": 305,
+      "start_time": 2393.622,
+      "end_time": 2395.589,
+      "duration": 1.9670000000000982,
+      "dialogue_text": "Ella dice que el agujero desapareció."
+    },
+    {
+      "subtitle_index": 306,
+      "start_time": 2395.624,
+      "end_time": 2398.296,
+      "duration": 2.6720000000000255,
+      "dialogue_text": "Bueno, eso es porque no se lo puede encontrar siempre."
+    },
+    {
+      "subtitle_index": 307,
+      "start_time": 2398.331,
+      "end_time": 2400.968,
+      "duration": 2.6369999999997162,
+      "dialogue_text": "¿Podremos verlo de nuevo? ¡Yo también quiero verlo!"
+    },
+    {
+      "subtitle_index": 308,
+      "start_time": 2401.845,
+      "end_time": 2404.516,
+      "duration": 2.6710000000002765,
+      "dialogue_text": "Y así será, si tienes suerte..."
+    },
+    {
+      "subtitle_index": 309,
+      "start_time": 2405.852,
+      "end_time": 2407.856,
+      "duration": 2.00400000000036,
+      "dialogue_text": "Es un hermoso árbol, ¿No es verdad?"
+    },
+    {
+      "subtitle_index": 310,
+      "start_time": 2409.442,
+      "end_time": 2413.991,
+      "duration": 4.548999999999978,
+      "dialogue_text": "Seguramente... todo este tiempo... desde hace mucho tiempo, ha estado aquí."
+    },
+    {
+      "subtitle_index": 311,
+      "start_time": 2414.868,
+      "end_time": 2418.791,
+      "duration": 3.923000000000229,
+      "dialogue_text": "Hace mucho tiempo, los árboles y las personas eran amigas."
+    },
+    {
+      "subtitle_index": 312,
+      "start_time": 2419.96,
+      "end_time": 2423.8,
+      "duration": 3.8400000000001455,
+      "dialogue_text": "Me gusta mucho la casa, a causa de este árbol."
+    },
+    {
+      "subtitle_index": 313,
+      "start_time": 2424.259,
+      "end_time": 2426.68,
+      "duration": 2.4209999999998217,
+      "dialogue_text": "Estoy seguro que a su madre le va a encantar, ¿no lo creen?"
+    },
+    {
+      "subtitle_index": 314,
+      "start_time": 2427.056,
+      "end_time": 2429.937,
+      "duration": 2.880999999999858,
+      "dialogue_text": "Bueno, digamos gracias y regresemos a casa, todavía no han almorzado."
+    },
+    {
+      "subtitle_index": 315,
+      "start_time": 2430.437,
+      "end_time": 2433.025,
+      "duration": 2.588000000000193,
+      "dialogue_text": "¡Es cierto! ¡Prometí ir a la casa de Mitchan!"
+    },
+    {
+      "subtitle_index": 316,
+      "start_time": 2433.06,
+      "end_time": 2434.754,
+      "duration": 1.69399999999996,
+      "dialogue_text": "Yo también voy."
+    },
+    {
+      "subtitle_index": 317,
+      "start_time": 2434.789,
+      "end_time": 2436.413,
+      "duration": 1.6239999999997963,
+      "dialogue_text": "¡Atención!"
+    },
+    {
+      "subtitle_index": 318,
+      "start_time": 2436.448,
+      "end_time": 2441.039,
+      "duration": 4.591000000000349,
+      "dialogue_text": "¡Mei ya a confiado en ti!, de ahora en adelante nosotros también estaremos honrados de ser tus amigos."
+    },
+    {
+      "subtitle_index": 319,
+      "start_time": 2441.074,
+      "end_time": 2443.043,
+      "duration": 1.969000000000051,
+      "dialogue_text": "Encantados de conocerte."
+    },
+    {
+      "subtitle_index": 320,
+      "start_time": 2444.046,
+      "end_time": 2445.131,
+      "duration": 1.0850000000000364,
+      "dialogue_text": "¡Una carrera hasta casa!"
+    },
+    {
+      "subtitle_index": 321,
+      "start_time": 2445.166,
+      "end_time": 2447.218,
+      "duration": 2.05199999999968,
+      "dialogue_text": "¡Ah! ¡No es justo!"
+    },
+    {
+      "subtitle_index": 322,
+      "start_time": 2447.968,
+      "end_time": 2449.639,
+      "duration": 1.6710000000002765,
+      "dialogue_text": "¡Esperen!"
+    },
+    {
+      "subtitle_index": 323,
+      "start_time": 2451.14,
+      "end_time": 2453.123,
+      "duration": 1.9830000000001746,
+      "dialogue_text": "¡Apurate!"
+    },
+    {
+      "subtitle_index": 324,
+      "start_time": 2453.158,
+      "end_time": 2455.107,
+      "duration": 1.9490000000000691,
+      "dialogue_text": "¡Espeeeeren!"
+    },
+    {
+      "subtitle_index": 325,
+      "start_time": 2456.651,
+      "end_time": 2459.448,
+      "duration": 2.7970000000000255,
+      "dialogue_text": "Hoy tuve muy buenas noticias."
+    },
+    {
+      "subtitle_index": 326,
+      "start_time": 2459.483,
+      "end_time": 2462.245,
+      "duration": 2.7619999999997162,
+      "dialogue_text": "Mei conoció al espíritu, Totoro."
+    },
+    {
+      "subtitle_index": 327,
+      "start_time": 2468.255,
+      "end_time": 2472.638,
+      "duration": 4.382999999999811,
+      "dialogue_text": "Espero yo también poder verlo."
+    },
+    {
+      "subtitle_index": 328,
+      "start_time": 2502.901,
+      "end_time": 2506.156,
+      "duration": 3.255000000000109,
+      "dialogue_text": "¡Kanta! ¡Apurate o llegaras tarde!"
+    },
+    {
+      "subtitle_index": 329,
+      "start_time": 2506.191,
+      "end_time": 2507.576,
+      "duration": 1.3850000000002183,
+      "dialogue_text": "Si."
+    },
+    {
+      "subtitle_index": 330,
+      "start_time": 2549.86,
+      "end_time": 2550.862,
+      "duration": 1.0019999999999527,
+      "dialogue_text": "¡Mei!"
+    },
+    {
+      "subtitle_index": 331,
+      "start_time": 2551.696,
+      "end_time": 2553.052,
+      "duration": 1.356000000000222,
+      "dialogue_text": "¡Maestra!"
+    },
+    {
+      "subtitle_index": 332,
+      "start_time": 2553.087,
+      "end_time": 2554.409,
+      "duration": 1.3220000000001164,
+      "dialogue_text": "¿Si, Satsuki?"
+    },
+    {
+      "subtitle_index": 333,
+      "start_time": 2554.869,
+      "end_time": 2556.872,
+      "duration": 2.0029999999997017,
+      "dialogue_text": "Um... Mi hermana menor..."
+    },
+    {
+      "subtitle_index": 334,
+      "start_time": 2563.802,
+      "end_time": 2565.52,
+      "duration": 1.7179999999998472,
+      "dialogue_text": "¡Abuela! Mei..."
+    },
+    {
+      "subtitle_index": 335,
+      "start_time": 2565.555,
+      "end_time": 2570.417,
+      "duration": 4.86200000000008,
+      "dialogue_text": "Lo siento, pero ella quería venir \"donde está su hermana mayor\"."
+    },
+    {
+      "subtitle_index": 336,
+      "start_time": 2570.452,
+      "end_time": 2575.28,
+      "duration": 4.8279999999999745,
+      "dialogue_text": "Pero... Mei, desde hoy papá tiene que ir a la universidad..."
+    },
+    {
+      "subtitle_index": 337,
+      "start_time": 2575.315,
+      "end_time": 2578.578,
+      "duration": 3.26299999999992,
+      "dialogue_text": "...¿No prometiste esperar como una buena niña?"
+    },
+    {
+      "subtitle_index": 338,
+      "start_time": 2581.166,
+      "end_time": 2585.173,
+      "duration": 4.006999999999607,
+      "dialogue_text": "Todavía me quedan 2 horas mas, y la abuela está ocupada."
+    },
+    {
+      "subtitle_index": 339,
+      "start_time": 2585.925,
+      "end_time": 2590.307,
+      "duration": 4.381999999999607,
+      "dialogue_text": "Ella se ha comportado bien todo el tiempo, ¿No es verdad?"
+    },
+    {
+      "subtitle_index": 340,
+      "start_time": 2598.154,
+      "end_time": 2600.659,
+      "duration": 2.505000000000109,
+      "dialogue_text": "Abuela, voy a hablar con la maestra."
+    },
+    {
+      "subtitle_index": 341,
+      "start_time": 2606.545,
+      "end_time": 2611.178,
+      "duration": 4.632999999999811,
+      "dialogue_text": "La hermana de Satsuki está triste porque su mamá está en el hospital."
+    },
+    {
+      "subtitle_index": 342,
+      "start_time": 2611.213,
+      "end_time": 2613.474,
+      "duration": 2.2609999999999673,
+      "dialogue_text": "Así que les pediré a todos que sean amables con ella."
+    },
+    {
+      "subtitle_index": 343,
+      "start_time": 2613.509,
+      "end_time": 2615.478,
+      "duration": 1.969000000000051,
+      "dialogue_text": "Si."
+    },
+    {
+      "subtitle_index": 344,
+      "start_time": 2620.822,
+      "end_time": 2622.324,
+      "duration": 1.5019999999999527,
+      "dialogue_text": "¿Qué es eso?"
+    },
+    {
+      "subtitle_index": 345,
+      "start_time": 2622.359,
+      "end_time": 2623.826,
+      "duration": 1.4670000000000982,
+      "dialogue_text": "¡Es Totoro!"
+    },
+    {
+      "subtitle_index": 346,
+      "start_time": 2624.076,
+      "end_time": 2627.331,
+      "duration": 3.255000000000109,
+      "dialogue_text": "¡Shh! ¡Te tienes que comportar!"
+    },
+    {
+      "subtitle_index": 347,
+      "start_time": 2627.366,
+      "end_time": 2628.333,
+      "duration": 0.9670000000000982,
+      "dialogue_text": "¡Si!"
+    },
+    {
+      "subtitle_index": 348,
+      "start_time": 2638.597,
+      "end_time": 2641.017,
+      "duration": 2.419999999999618,
+      "dialogue_text": "¡Si! ¡Adiós! ¡Nos vemos luego!"
+    },
+    {
+      "subtitle_index": 349,
+      "start_time": 2641.601,
+      "end_time": 2643.479,
+      "duration": 1.8779999999997017,
+      "dialogue_text": "No olvides venir al club."
+    },
+    {
+      "subtitle_index": 350,
+      "start_time": 2643.514,
+      "end_time": 2645.357,
+      "duration": 1.8429999999998472,
+      "dialogue_text": "Seguro, le diré a la maestra"
+    },
+    {
+      "subtitle_index": 351,
+      "start_time": 2645.392,
+      "end_time": 2646.483,
+      "duration": 1.0910000000003492,
+      "dialogue_text": "Nos vemos luego."
+    },
+    {
+      "subtitle_index": 352,
+      "start_time": 2646.518,
+      "end_time": 2647.944,
+      "duration": 1.4259999999999309,
+      "dialogue_text": "Adiós."
+    },
+    {
+      "subtitle_index": 353,
+      "start_time": 2648.486,
+      "end_time": 2650.405,
+      "duration": 1.9190000000003238,
+      "dialogue_text": "Mei, apurate, está por llover"
+    },
+    {
+      "subtitle_index": 354,
+      "start_time": 2650.44,
+      "end_time": 2651.741,
+      "duration": 1.3009999999999309,
+      "dialogue_text": "Bueno."
+    },
+    {
+      "subtitle_index": 355,
+      "start_time": 2659.502,
+      "end_time": 2661.212,
+      "duration": 1.7100000000000364,
+      "dialogue_text": "¡Esta lloviendo a cantaros!"
+    },
+    {
+      "subtitle_index": 356,
+      "start_time": 2677.777,
+      "end_time": 2680.072,
+      "duration": 2.2950000000000728,
+      "dialogue_text": "No estoy llorando. ¿Es eso bueno? ¿No?"
+    },
+    {
+      "subtitle_index": 357,
+      "start_time": 2680.107,
+      "end_time": 2681.575,
+      "duration": 1.4679999999998472,
+      "dialogue_text": "Si..."
+    },
+    {
+      "subtitle_index": 358,
+      "start_time": 2682.784,
+      "end_time": 2685.079,
+      "duration": 2.2950000000000728,
+      "dialogue_text": "Pero estamos en un problema..."
+    },
+    {
+      "subtitle_index": 359,
+      "start_time": 2687.416,
+      "end_time": 2691.213,
+      "duration": 3.7970000000000255,
+      "dialogue_text": "Jizo-sama, Por favor danos refugio por un rato."
+    },
+    {
+      "subtitle_index": 360,
+      "start_time": 2734.483,
+      "end_time": 2736.236,
+      "duration": 1.7529999999997017,
+      "dialogue_text": "Pero..."
+    },
+    {
+      "subtitle_index": 361,
+      "start_time": 2756.097,
+      "end_time": 2757.933,
+      "duration": 1.8359999999997854,
+      "dialogue_text": "¡Hermana! Fue muy amable ¿Verdad?"
+    },
+    {
+      "subtitle_index": 362,
+      "start_time": 2757.968,
+      "end_time": 2759.226,
+      "duration": 1.2580000000002656,
+      "dialogue_text": "Si..."
+    },
+    {
+      "subtitle_index": 363,
+      "start_time": 2759.351,
+      "end_time": 2761.479,
+      "duration": 2.1279999999997017,
+      "dialogue_text": "¡Hay un agujero en el paraguas!"
+    },
+    {
+      "subtitle_index": 364,
+      "start_time": 2762.605,
+      "end_time": 2763.983,
+      "duration": 1.3780000000001564,
+      "dialogue_text": "Si..."
+    },
+    {
+      "subtitle_index": 365,
+      "start_time": 2773.204,
+      "end_time": 2775.499,
+      "duration": 2.294999999999618,
+      "dialogue_text": "Creo que papá no tomo su paraguas."
+    },
+    {
+      "subtitle_index": 366,
+      "start_time": 2775.534,
+      "end_time": 2777.794,
+      "duration": 2.2599999999997635,
+      "dialogue_text": "¡Yo también quiero ir con papá!"
+    },
+    {
+      "subtitle_index": 367,
+      "start_time": 2780.715,
+      "end_time": 2782.683,
+      "duration": 1.9679999999998472,
+      "dialogue_text": "¡Lo perdí!"
+    },
+    {
+      "subtitle_index": 368,
+      "start_time": 2782.718,
+      "end_time": 2785.93,
+      "duration": 3.211999999999989,
+      "dialogue_text": "Solo un tonto olvida su paraguas cundo llueve."
+    },
+    {
+      "subtitle_index": 369,
+      "start_time": 2786.472,
+      "end_time": 2788.148,
+      "duration": 1.6759999999999309,
+      "dialogue_text": "¡Ayy!"
+    },
+    {
+      "subtitle_index": 370,
+      "start_time": 2788.183,
+      "end_time": 2790.478,
+      "duration": 2.2950000000000728,
+      "dialogue_text": "Probablemente estuviste jugando con el y lo rompiste."
+    },
+    {
+      "subtitle_index": 371,
+      "start_time": 2790.513,
+      "end_time": 2792.189,
+      "duration": 1.6759999999999309,
+      "dialogue_text": "¡No es verdad!"
+    },
+    {
+      "subtitle_index": 372,
+      "start_time": 2804.999,
+      "end_time": 2806.919,
+      "duration": 1.9200000000000728,
+      "dialogue_text": "¡Disculpe!"
+    },
+    {
+      "subtitle_index": 373,
+      "start_time": 2808.713,
+      "end_time": 2811.008,
+      "duration": 2.294999999999618,
+      "dialogue_text": "¡Oh! Satsuki, y Mei también."
+    },
+    {
+      "subtitle_index": 374,
+      "start_time": 2811.043,
+      "end_time": 2812.927,
+      "duration": 1.8840000000000146,
+      "dialogue_text": "¡Tia!"
+    },
+    {
+      "subtitle_index": 375,
+      "start_time": 2813.929,
+      "end_time": 2815.437,
+      "duration": 1.5079999999998108,
+      "dialogue_text": "Discúlpeme por lo de hoy."
+    },
+    {
+      "subtitle_index": 376,
+      "start_time": 2815.472,
+      "end_time": 2818.038,
+      "duration": 2.5659999999998035,
+      "dialogue_text": "Este lugar no tiene arreglo..."
+    },
+    {
+      "subtitle_index": 377,
+      "start_time": 2818.073,
+      "end_time": 2820.605,
+      "duration": 2.532000000000153,
+      "dialogue_text": "Kanta me prestó este paraguas."
+    },
+    {
+      "subtitle_index": 378,
+      "start_time": 2821.022,
+      "end_time": 2825.027,
+      "duration": 4.005000000000109,
+      "dialogue_text": "¡Oh! ¿El? ¡Oh querida! Esta cosa vieja..."
+    },
+    {
+      "subtitle_index": 379,
+      "start_time": 2825.11,
+      "end_time": 2829.825,
+      "duration": 4.714999999999691,
+      "dialogue_text": "Fue muy útil porque Mei también estaba conmigo, pero Kanta se empapó todo."
+    },
+    {
+      "subtitle_index": 380,
+      "start_time": 2829.86,
+      "end_time": 2831.376,
+      "duration": 1.5160000000000764,
+      "dialogue_text": "Muchas garcías."
+    },
+    {
+      "subtitle_index": 381,
+      "start_time": 2831.411,
+      "end_time": 2836.335,
+      "duration": 4.923999999999978,
+      "dialogue_text": "Bien... cuando no estás cubierta de barro, eres mas linda."
+    },
+    {
+      "subtitle_index": 382,
+      "start_time": 2836.752,
+      "end_time": 2838.213,
+      "duration": 1.46100000000024,
+      "dialogue_text": "¿Se van a encontrar con su padre?"
+    },
+    {
+      "subtitle_index": 383,
+      "start_time": 2838.248,
+      "end_time": 2838.762,
+      "duration": 0.5140000000001237,
+      "dialogue_text": "¡Si!"
+    },
+    {
+      "subtitle_index": 384,
+      "start_time": 2838.797,
+      "end_time": 2842.427,
+      "duration": 3.630000000000109,
+      "dialogue_text": "Bien, eso es bueno. Adiós, Mei."
+    },
+    {
+      "subtitle_index": 385,
+      "start_time": 2842.462,
+      "end_time": 2843.595,
+      "duration": 1.1329999999998108,
+      "dialogue_text": "Adiós."
+    },
+    {
+      "subtitle_index": 386,
+      "start_time": 2853.776,
+      "end_time": 2855.57,
+      "duration": 1.7940000000003238,
+      "dialogue_text": "¿Quién era?"
+    },
+    {
+      "subtitle_index": 387,
+      "start_time": 2855.605,
+      "end_time": 2857.365,
+      "duration": 1.7599999999997635,
+      "dialogue_text": "No se."
+    },
+    {
+      "subtitle_index": 388,
+      "start_time": 2861.203,
+      "end_time": 2862.914,
+      "duration": 1.71100000000024,
+      "dialogue_text": "Justo a tiempo."
+    },
+    {
+      "subtitle_index": 389,
+      "start_time": 2876.183,
+      "end_time": 2877.727,
+      "duration": 1.543999999999869,
+      "dialogue_text": "¿Van a subir?"
+    },
+    {
+      "subtitle_index": 390,
+      "start_time": 2878.812,
+      "end_time": 2880.731,
+      "duration": 1.9190000000003238,
+      "dialogue_text": "¡En marcha!"
+    },
+    {
+      "subtitle_index": 391,
+      "start_time": 2888.909,
+      "end_time": 2891.295,
+      "duration": 2.3859999999999673,
+      "dialogue_text": "Papá no estaba."
+    },
+    {
+      "subtitle_index": 392,
+      "start_time": 2891.33,
+      "end_time": 2895.084,
+      "duration": 3.7539999999999054,
+      "dialogue_text": "Estoy segura que viene en el próximo, ¿segura que no quieres esperar en la casa de la abuela?"
+    },
+    {
+      "subtitle_index": 393,
+      "start_time": 2931.469,
+      "end_time": 2933.055,
+      "duration": 1.5859999999997854,
+      "dialogue_text": "¿Qué sucede?"
+    },
+    {
+      "subtitle_index": 394,
+      "start_time": 2964.725,
+      "end_time": 2966.06,
+      "duration": 1.3350000000000364,
+      "dialogue_text": "¡Mei!"
+    },
+    {
+      "subtitle_index": 395,
+      "start_time": 2966.477,
+      "end_time": 2972.402,
+      "duration": 5.925000000000182,
+      "dialogue_text": "¿Tienes sueño? ¡Te lo dije! ¿Quieres ir ahora a la casa de la abuela?"
+    },
+    {
+      "subtitle_index": 396,
+      "start_time": 2974.572,
+      "end_time": 2977.075,
+      "duration": 2.5029999999997017,
+      "dialogue_text": "Buena, aguanta un poco más."
+    },
+    {
+      "subtitle_index": 397,
+      "start_time": 2982.792,
+      "end_time": 2985.212,
+      "duration": 2.4200000000000728,
+      "dialogue_text": "El autobús está muy atrasado."
+    },
+    {
+      "subtitle_index": 398,
+      "start_time": 2993.098,
+      "end_time": 2994.392,
+      "duration": 1.293999999999869,
+      "dialogue_text": "Aquí."
+    },
+    {
+      "subtitle_index": 399,
+      "start_time": 3077.801,
+      "end_time": 3079.012,
+      "duration": 1.21100000000024,
+      "dialogue_text": "¿Totoro?"
+    },
+    {
+      "subtitle_index": 400,
+      "start_time": 3088.984,
+      "end_time": 3090.903,
+      "duration": 1.918999999999869,
+      "dialogue_text": "¡Ah! Espera."
+    },
+    {
+      "subtitle_index": 401,
+      "start_time": 3096.37,
+      "end_time": 3097.954,
+      "duration": 1.5840000000002874,
+      "dialogue_text": "Toma, te presto esto."
+    },
+    {
+      "subtitle_index": 402,
+      "start_time": 3099.04,
+      "end_time": 3101.543,
+      "duration": 2.5030000000001564,
+      "dialogue_text": "¡Apresúrate! Mei está dormida."
+    },
+    {
+      "subtitle_index": 403,
+      "start_time": 3107.677,
+      "end_time": 3109.429,
+      "duration": 1.7519999999999527,
+      "dialogue_text": "Usalo de esta forma."
+    },
+    {
+      "subtitle_index": 404,
+      "start_time": 3186.288,
+      "end_time": 3187.665,
+      "duration": 1.3769999999999527,
+      "dialogue_text": "¡El autobús está aquí!"
+    },
+    {
+      "subtitle_index": 405,
+      "start_time": 3254.968,
+      "end_time": 3258.307,
+      "duration": 3.338999999999942,
+      "dialogue_text": "Totoro... Se llevo el paraguas de papá."
+    },
+    {
+      "subtitle_index": 406,
+      "start_time": 3271.742,
+      "end_time": 3273.161,
+      "duration": 1.418999999999869,
+      "dialogue_text": "¡Oh! lo siento."
+    },
+    {
+      "subtitle_index": 407,
+      "start_time": 3273.328,
+      "end_time": 3274.955,
+      "duration": 1.6269999999999527,
+      "dialogue_text": "¡En marcha!"
+    },
+    {
+      "subtitle_index": 408,
+      "start_time": 3275.164,
+      "end_time": 3278.543,
+      "duration": 3.3789999999999054,
+      "dialogue_text": "El tren se retrazo, así que perdí el autobús."
+    },
+    {
+      "subtitle_index": 409,
+      "start_time": 3279.044,
+      "end_time": 3280.546,
+      "duration": 1.5019999999999527,
+      "dialogue_text": "¿Se preocuparon mucho?"
+    },
+    {
+      "subtitle_index": 410,
+      "start_time": 3281.255,
+      "end_time": 3283.508,
+      "duration": 2.2529999999997017,
+      "dialogue_text": "Vino, ¡papá!, vino, ¡vino!"
+    },
+    {
+      "subtitle_index": 411,
+      "start_time": 3283.543,
+      "end_time": 3285.762,
+      "duration": 2.219000000000051,
+      "dialogue_text": "¡Un gato! ¡Un gato autobús!"
+    },
+    {
+      "subtitle_index": 412,
+      "start_time": 3287.139,
+      "end_time": 3289.016,
+      "duration": 1.8769999999999527,
+      "dialogue_text": "¡Era enorme!"
+    },
+    {
+      "subtitle_index": 413,
+      "start_time": 3289.051,
+      "end_time": 3290.911,
+      "duration": 1.8600000000001273,
+      "dialogue_text": "¡Con ojos así!"
+    },
+    {
+      "subtitle_index": 414,
+      "start_time": 3290.946,
+      "end_time": 3292.772,
+      "duration": 1.8260000000000218,
+      "dialogue_text": "¡Tenebroso!"
+    },
+    {
+      "subtitle_index": 415,
+      "start_time": 3293.857,
+      "end_time": 3298.446,
+      "duration": 4.588999999999942,
+      "dialogue_text": "¡Lo conocí! ¡Conocí a Totoro!"
+    },
+    {
+      "subtitle_index": 416,
+      "start_time": 3298.481,
+      "end_time": 3300.574,
+      "duration": 2.092999999999847,
+      "dialogue_text": "¡Fue grandioso!"
+    },
+    {
+      "subtitle_index": 417,
+      "start_time": 3320.895,
+      "end_time": 3324.9,
+      "duration": 4.005000000000109,
+      "dialogue_text": "Mamá, mi corazón todavía late fuerte."
+    },
+    {
+      "subtitle_index": 418,
+      "start_time": 3325.067,
+      "end_time": 3329.031,
+      "duration": 3.963999999999942,
+      "dialogue_text": "Fue grandioso, un día raro y divertido."
+    },
+    {
+      "subtitle_index": 419,
+      "start_time": 3329.157,
+      "end_time": 3332.544,
+      "duration": 3.3869999999997162,
+      "dialogue_text": "Además, el regalo que Totoro nos dio es genial."
+    },
+    {
+      "subtitle_index": 420,
+      "start_time": 3332.579,
+      "end_time": 3337.007,
+      "duration": 4.427999999999884,
+      "dialogue_text": "Fue envuelto en hojas de Bambú, y atado con cabezas de dragón."
+    },
+    {
+      "subtitle_index": 421,
+      "start_time": 3337.042,
+      "end_time": 3342.176,
+      "duration": 5.1340000000000146,
+      "dialogue_text": "Cuando llegamos a casa lo abrimos para mirar. ¡Había semillas dentro!"
+    },
+    {
+      "subtitle_index": 422,
+      "start_time": 3342.211,
+      "end_time": 3344.136,
+      "duration": 1.925000000000182,
+      "dialogue_text": "¡Wow!"
+    },
+    {
+      "subtitle_index": 423,
+      "start_time": 3346.723,
+      "end_time": 3349.373,
+      "duration": 2.650000000000091,
+      "dialogue_text": "Seria fantástico que hubiera árboles en nuestro jardín."
+    },
+    {
+      "subtitle_index": 424,
+      "start_time": 3349.408,
+      "end_time": 3352.023,
+      "duration": 2.6150000000002365,
+      "dialogue_text": "...Así que hoy plantamos las semillas en el jardín."
+    },
+    {
+      "subtitle_index": 425,
+      "start_time": 3352.058,
+      "end_time": 3354.398,
+      "duration": 2.3400000000001455,
+      "dialogue_text": "Pero no han brotado nada aún."
+    },
+    {
+      "subtitle_index": 426,
+      "start_time": 3354.433,
+      "end_time": 3356.703,
+      "duration": 2.269999999999982,
+      "dialogue_text": "Día tras día, Mei dice..."
+    },
+    {
+      "subtitle_index": 427,
+      "start_time": 3356.738,
+      "end_time": 3359.241,
+      "duration": 2.5030000000001564,
+      "dialogue_text": "\"Todavía no han salido\". \"Todavía no han salido\"."
+    },
+    {
+      "subtitle_index": 428,
+      "start_time": 3360.743,
+      "end_time": 3363.748,
+      "duration": 3.005000000000109,
+      "dialogue_text": "Parece como si se hubiera convertido en un cangrejo luchador."
+    },
+    {
+      "subtitle_index": 429,
+      "start_time": 3363.783,
+      "end_time": 3366.418,
+      "duration": 2.6350000000002183,
+      "dialogue_text": "\"El cangrejo Mei\""
+    },
+    {
+      "subtitle_index": 430,
+      "start_time": 3369.339,
+      "end_time": 3375.68,
+      "duration": 6.3409999999998945,
+      "dialogue_text": "Pronto serán las vacaciones de verano. Por favor recuperate pronto mamá. Satsuki."
+    },
+    {
+      "subtitle_index": 431,
+      "start_time": 3379.019,
+      "end_time": 3380.562,
+      "duration": 1.54300000000012,
+      "dialogue_text": "Hey, hey..."
+    },
+    {
+      "subtitle_index": 432,
+      "start_time": 3385.027,
+      "end_time": 3385.946,
+      "duration": 0.918999999999869,
+      "dialogue_text": "¡Apago la luz!"
+    },
+    {
+      "subtitle_index": 433,
+      "start_time": 3385.981,
+      "end_time": 3387.914,
+      "duration": 1.9329999999999927,
+      "dialogue_text": "Espera."
+    },
+    {
+      "subtitle_index": 434,
+      "start_time": 3387.949,
+      "end_time": 3391.001,
+      "duration": 3.0520000000001346,
+      "dialogue_text": "Papá, ¿saldrán pronto los retoños?"
+    },
+    {
+      "subtitle_index": 435,
+      "start_time": 3391.036,
+      "end_time": 3394.958,
+      "duration": 3.9220000000000255,
+      "dialogue_text": "Bueno, no estoy seguro, pero Totoro si lo hará."
+    },
+    {
+      "subtitle_index": 436,
+      "start_time": 3394.993,
+      "end_time": 3396.544,
+      "duration": 1.5509999999999309,
+      "dialogue_text": "Buenas noches."
+    },
+    {
+      "subtitle_index": 437,
+      "start_time": 3464.139,
+      "end_time": 3466.267,
+      "duration": 2.1279999999997017,
+      "dialogue_text": "Es donde plantamos las semillas."
+    },
+    {
+      "subtitle_index": 438,
+      "start_time": 3556.938,
+      "end_time": 3560.275,
+      "duration": 3.336999999999989,
+      "dialogue_text": "¡Si! ¡Lo logramos!"
+    },
+    {
+      "subtitle_index": 439,
+      "start_time": 3636.132,
+      "end_time": 3639.137,
+      "duration": 3.005000000000109,
+      "dialogue_text": "¡Mei! ¡Somos como el viento!"
+    },
+    {
+      "subtitle_index": 440,
+      "start_time": 3699.723,
+      "end_time": 3701.976,
+      "duration": 2.2530000000001564,
+      "dialogue_text": "¿¡No hay árboles!?"
+    },
+    {
+      "subtitle_index": 441,
+      "start_time": 3706.315,
+      "end_time": 3708.986,
+      "duration": 2.6709999999998217,
+      "dialogue_text": "¡Lo logramos!"
+    },
+    {
+      "subtitle_index": 442,
+      "start_time": 3711.322,
+      "end_time": 3712.511,
+      "duration": 1.1889999999998508,
+      "dialogue_text": "Fue solo un sueño."
+    },
+    {
+      "subtitle_index": 443,
+      "start_time": 3712.546,
+      "end_time": 3713.624,
+      "duration": 1.0779999999999745,
+      "dialogue_text": "¡Pero no lo fue!"
+    },
+    {
+      "subtitle_index": 444,
+      "start_time": 3713.659,
+      "end_time": 3715.682,
+      "duration": 2.0229999999996835,
+      "dialogue_text": "Fue solo un sueño."
+    },
+    {
+      "subtitle_index": 445,
+      "start_time": 3715.717,
+      "end_time": 3717.706,
+      "duration": 1.9890000000000327,
+      "dialogue_text": "¡Pero no lo fue!"
+    },
+    {
+      "subtitle_index": 446,
+      "start_time": 3717.831,
+      "end_time": 3719.334,
+      "duration": 1.5029999999997017,
+      "dialogue_text": "¡Lo logramos!"
+    },
+    {
+      "subtitle_index": 447,
+      "start_time": 3735.941,
+      "end_time": 3744.327,
+      "duration": 8.386000000000422,
+      "dialogue_text": "¿Sr. Kusakabe? ¡Telegrama! Sr. Kusakabe, es un telegrama."
+    },
+    {
+      "subtitle_index": 448,
+      "start_time": 3745.955,
+      "end_time": 3747.666,
+      "duration": 1.71100000000024,
+      "dialogue_text": "¿No hay nadie en casa?"
+    },
+    {
+      "subtitle_index": 449,
+      "start_time": 3754.341,
+      "end_time": 3757.136,
+      "duration": 2.7950000000000728,
+      "dialogue_text": "¡Abuela!"
+    },
+    {
+      "subtitle_index": 450,
+      "start_time": 3760.684,
+      "end_time": 3765.899,
+      "duration": 5.214999999999691,
+      "dialogue_text": "¡Aquí estoy! Ese choclo está bien maduro."
+    },
+    {
+      "subtitle_index": 451,
+      "start_time": 3775.371,
+      "end_time": 3776.999,
+      "duration": 1.6279999999997017,
+      "dialogue_text": "¡Abuela! ¿Este también?"
+    },
+    {
+      "subtitle_index": 452,
+      "start_time": 3777.034,
+      "end_time": 3778.375,
+      "duration": 1.3409999999998945,
+      "dialogue_text": "Ese es uno bueno."
+    },
+    {
+      "subtitle_index": 453,
+      "start_time": 3784.634,
+      "end_time": 3787.638,
+      "duration": 3.0039999999999054,
+      "dialogue_text": "La granja de la abuela parece una montaña de tesoros."
+    },
+    {
+      "subtitle_index": 454,
+      "start_time": 3788.514,
+      "end_time": 3791.227,
+      "duration": 2.712999999999738,
+      "dialogue_text": "Bueno, descansemos. Descansemos."
+    },
+    {
+      "subtitle_index": 455,
+      "start_time": 3796.901,
+      "end_time": 3799.53,
+      "duration": 2.62900000000036,
+      "dialogue_text": "Esta bien frió."
+    },
+    {
+      "subtitle_index": 456,
+      "start_time": 3800.114,
+      "end_time": 3801.992,
+      "duration": 1.8780000000001564,
+      "dialogue_text": "¡Muchas gracias!"
+    },
+    {
+      "subtitle_index": 457,
+      "start_time": 3811.255,
+      "end_time": 3812.597,
+      "duration": 1.3420000000000982,
+      "dialogue_text": "¡Delicioso!"
+    },
+    {
+      "subtitle_index": 458,
+      "start_time": 3812.632,
+      "end_time": 3818.849,
+      "duration": 6.217000000000098,
+      "dialogue_text": "Ya veo... Son así de buenos a causa de las \"Vaquitas de San Antonio\""
+    },
+    {
+      "subtitle_index": 459,
+      "start_time": 3818.884,
+      "end_time": 3820.817,
+      "duration": 1.9329999999999927,
+      "dialogue_text": "¿Seran buenas para la enfermedad de mamá?"
+    },
+    {
+      "subtitle_index": 460,
+      "start_time": 3820.852,
+      "end_time": 3826.234,
+      "duration": 5.382000000000062,
+      "dialogue_text": "Por supuesto. Si comes cosas del jardín de la abuela te curas enseguida."
+    },
+    {
+      "subtitle_index": 461,
+      "start_time": 3826.269,
+      "end_time": 3828.911,
+      "duration": 2.64200000000028,
+      "dialogue_text": "Mamá viene a casa este domingo."
+    },
+    {
+      "subtitle_index": 462,
+      "start_time": 3828.946,
+      "end_time": 3831.742,
+      "duration": 2.7960000000002765,
+      "dialogue_text": "¡Ella va a dormir conmigo en mi cama!"
+    },
+    {
+      "subtitle_index": 463,
+      "start_time": 3831.777,
+      "end_time": 3834.659,
+      "duration": 2.882000000000062,
+      "dialogue_text": "¿Oh? ¿Al fin le dan el alta?"
+    },
+    {
+      "subtitle_index": 464,
+      "start_time": 3834.694,
+      "end_time": 3837.507,
+      "duration": 2.813000000000102,
+      "dialogue_text": "No. Todavía no totalmente."
+    },
+    {
+      "subtitle_index": 465,
+      "start_time": 3837.542,
+      "end_time": 3841.381,
+      "duration": 3.838999999999942,
+      "dialogue_text": "El lunes vuelve al hospital. Es para que se acostumbre de a poco."
+    },
+    {
+      "subtitle_index": 466,
+      "start_time": 3841.416,
+      "end_time": 3845.679,
+      "duration": 4.26299999999992,
+      "dialogue_text": "Ya veo. Bueno, debemos llevarle algo para que coma."
+    },
+    {
+      "subtitle_index": 467,
+      "start_time": 3845.714,
+      "end_time": 3849.476,
+      "duration": 3.762000000000171,
+      "dialogue_text": "Voy a darle el choclo que recogí a mamá."
+    },
+    {
+      "subtitle_index": 468,
+      "start_time": 3849.511,
+      "end_time": 3851.688,
+      "duration": 2.1770000000001346,
+      "dialogue_text": "Estoy segura de que le va a gustar."
+    },
+    {
+      "subtitle_index": 469,
+      "start_time": 3851.723,
+      "end_time": 3853.106,
+      "duration": 1.3830000000002656,
+      "dialogue_text": "¡Si!"
+    },
+    {
+      "subtitle_index": 470,
+      "start_time": 3860.7,
+      "end_time": 3862.995,
+      "duration": 2.2950000000000728,
+      "dialogue_text": "¡Telegrama! No estaban en casa así que lo traje."
+    },
+    {
+      "subtitle_index": 471,
+      "start_time": 3863.03,
+      "end_time": 3864.622,
+      "duration": 1.5919999999996435,
+      "dialogue_text": "¿Mi casa?"
+    },
+    {
+      "subtitle_index": 472,
+      "start_time": 3868.085,
+      "end_time": 3870.965,
+      "duration": 2.880000000000109,
+      "dialogue_text": "Abuela... papá no llegara hasta la tarde."
+    },
+    {
+      "subtitle_index": 473,
+      "start_time": 3871.0,
+      "end_time": 3873.635,
+      "duration": 2.6350000000002183,
+      "dialogue_text": "Vamos ábrelo. Puede ser urgente."
+    },
+    {
+      "subtitle_index": 474,
+      "start_time": 3877.39,
+      "end_time": 3881.396,
+      "duration": 4.006000000000313,
+      "dialogue_text": "Contáctese conmigo... Shichikoku-yama..."
+    },
+    {
+      "subtitle_index": 475,
+      "start_time": 3881.646,
+      "end_time": 3884.692,
+      "duration": 3.0459999999998217,
+      "dialogue_text": "¡Hospital Shichikoku-yama! ¡Es del hospital de mamá!"
+    },
+    {
+      "subtitle_index": 476,
+      "start_time": 3884.727,
+      "end_time": 3887.112,
+      "duration": 2.3850000000002183,
+      "dialogue_text": "Algo le paso a mamá."
+    },
+    {
+      "subtitle_index": 477,
+      "start_time": 3888.906,
+      "end_time": 3892.015,
+      "duration": 3.1089999999999236,
+      "dialogue_text": "Abuela, ¿Qué debo hacer? ¡Dice contácteme!"
+    },
+    {
+      "subtitle_index": 478,
+      "start_time": 3892.05,
+      "end_time": 3895.124,
+      "duration": 3.0739999999996144,
+      "dialogue_text": "¡Calmate! ¿Sabes donde se encuentra tu padre?"
+    },
+    {
+      "subtitle_index": 479,
+      "start_time": 3895.333,
+      "end_time": 3899.234,
+      "duration": 3.90099999999984,
+      "dialogue_text": "Se el número de su oficina, pero no tenemos teléfono."
+    },
+    {
+      "subtitle_index": 480,
+      "start_time": 3899.269,
+      "end_time": 3903.135,
+      "duration": 3.86600000000044,
+      "dialogue_text": "¡Kanta! ¡Llevala a la casa y préstale el teléfono!"
+    },
+    {
+      "subtitle_index": 481,
+      "start_time": 3903.17,
+      "end_time": 3904.011,
+      "duration": 0.8409999999998945,
+      "dialogue_text": "¡Si!"
+    },
+    {
+      "subtitle_index": 482,
+      "start_time": 3908.017,
+      "end_time": 3910.854,
+      "duration": 2.836999999999989,
+      "dialogue_text": "¡Mei! deberías quedarte aquí..."
+    },
+    {
+      "subtitle_index": 483,
+      "start_time": 3920.117,
+      "end_time": 3922.537,
+      "duration": 2.419999999999618,
+      "dialogue_text": "¡Mei! ¡Quédate con la abuela!"
+    },
+    {
+      "subtitle_index": 484,
+      "start_time": 3959.631,
+      "end_time": 3961.634,
+      "duration": 2.0030000000001564,
+      "dialogue_text": "¿Hola? Larga distancia, por favor."
+    },
+    {
+      "subtitle_index": 485,
+      "start_time": 3963.22,
+      "end_time": 3967.601,
+      "duration": 4.381000000000313,
+      "dialogue_text": "¡Número 1382 del Bureau 31 en Tokio... si!"
+    },
+    {
+      "subtitle_index": 486,
+      "start_time": 3969.311,
+      "end_time": 3972.608,
+      "duration": 3.2970000000000255,
+      "dialogue_text": "¿No es una niña adorable Kanta?"
+    },
+    {
+      "subtitle_index": 487,
+      "start_time": 3974.82,
+      "end_time": 3978.456,
+      "duration": 3.6359999999999673,
+      "dialogue_text": "Hola... si..."
+    },
+    {
+      "subtitle_index": 488,
+      "start_time": 3978.491,
+      "end_time": 3980.876,
+      "duration": 2.3850000000002183,
+      "dialogue_text": "¿Hola... es el laboratorio de arqueología?"
+    },
+    {
+      "subtitle_index": 489,
+      "start_time": 3980.911,
+      "end_time": 3984.208,
+      "duration": 3.2970000000000255,
+      "dialogue_text": "¿Podría darme con mi padre digo, el Sr. Kusakabe?"
+    },
+    {
+      "subtitle_index": 490,
+      "start_time": 3984.243,
+      "end_time": 3986.502,
+      "duration": 2.2590000000000146,
+      "dialogue_text": "Si. Soy Satsuki Kusakabe... ¡Si!"
+    },
+    {
+      "subtitle_index": 491,
+      "start_time": 3990.216,
+      "end_time": 3992.511,
+      "duration": 2.2950000000000728,
+      "dialogue_text": "¡Ah! Papá... ¡soy yo, Satsuki!"
+    },
+    {
+      "subtitle_index": 492,
+      "start_time": 3992.546,
+      "end_time": 3994.723,
+      "duration": 2.1770000000001346,
+      "dialogue_text": "Oh, ¿Qué sucede?"
+    },
+    {
+      "subtitle_index": 493,
+      "start_time": 3997.226,
+      "end_time": 3998.192,
+      "duration": 0.9659999999998945,
+      "dialogue_text": "Del hospital..."
+    },
+    {
+      "subtitle_index": 494,
+      "start_time": 3998.227,
+      "end_time": 4001.197,
+      "duration": 2.9700000000002547,
+      "dialogue_text": "Esta bien, intentaré llamar al hospital"
+    },
+    {
+      "subtitle_index": 495,
+      "start_time": 4001.232,
+      "end_time": 4004.904,
+      "duration": 3.6720000000000255,
+      "dialogue_text": "¿Algo le paso a mamá? Papá, ¿qué debo hacer?"
+    },
+    {
+      "subtitle_index": 496,
+      "start_time": 4004.939,
+      "end_time": 4008.576,
+      "duration": 3.637000000000171,
+      "dialogue_text": "Calma, ahora mismo voy a llamar al hospital."
+    },
+    {
+      "subtitle_index": 497,
+      "start_time": 4008.611,
+      "end_time": 4010.788,
+      "duration": 2.1770000000001346,
+      "dialogue_text": "Solo espera ahí..."
+    },
+    {
+      "subtitle_index": 498,
+      "start_time": 4012.081,
+      "end_time": 4014.209,
+      "duration": 2.1279999999997017,
+      "dialogue_text": "Bueno, tengo que colgar"
+    },
+    {
+      "subtitle_index": 499,
+      "start_time": 4016.087,
+      "end_time": 4020.092,
+      "duration": 4.005000000000109,
+      "dialogue_text": "Abuela, por favor déjeme esperar aquí. Mi padre me volverá a llamar."
+    },
+    {
+      "subtitle_index": 500,
+      "start_time": 4020.217,
+      "end_time": 4022.678,
+      "duration": 2.4609999999997854,
+      "dialogue_text": "Sientete como en tu casa"
+    },
+    {
+      "subtitle_index": 501,
+      "start_time": 4029.897,
+      "end_time": 4031.608,
+      "duration": 1.71100000000024,
+      "dialogue_text": "¡Hermana!"
+    },
+    {
+      "subtitle_index": 502,
+      "start_time": 4040.621,
+      "end_time": 4044.084,
+      "duration": 3.462999999999738,
+      "dialogue_text": "¡No! Este es el choclo de mamá."
+    },
+    {
+      "subtitle_index": 503,
+      "start_time": 4045.378,
+      "end_time": 4048.507,
+      "duration": 3.1289999999999054,
+      "dialogue_text": "¡No! Es para mamá."
+    },
+    {
+      "subtitle_index": 504,
+      "start_time": 4064.697,
+      "end_time": 4070.705,
+      "duration": 6.007999999999811,
+      "dialogue_text": "¡Mei! Dicen que mamá no está bien, así que no regresara a casa por ahora."
+    },
+    {
+      "subtitle_index": 505,
+      "start_time": 4071.29,
+      "end_time": 4073.208,
+      "duration": 1.91800000000012,
+      "dialogue_text": "¡No!"
+    },
+    {
+      "subtitle_index": 506,
+      "start_time": 4073.835,
+      "end_time": 4075.051,
+      "duration": 1.2159999999998945,
+      "dialogue_text": "No hay nada que podamos hacer."
+    },
+    {
+      "subtitle_index": 507,
+      "start_time": 4075.086,
+      "end_time": 4077.715,
+      "duration": 2.62900000000036,
+      "dialogue_text": "Su enfermedad está empeorando, lo que es un problema."
+    },
+    {
+      "subtitle_index": 508,
+      "start_time": 4077.75,
+      "end_time": 4079.217,
+      "duration": 1.4670000000000982,
+      "dialogue_text": "¡No!"
+    },
+    {
+      "subtitle_index": 509,
+      "start_time": 4080.51,
+      "end_time": 4082.889,
+      "duration": 2.3789999999999054,
+      "dialogue_text": "Mei, solo lo pospuso por un tiempo."
+    },
+    {
+      "subtitle_index": 510,
+      "start_time": 4082.924,
+      "end_time": 4084.516,
+      "duration": 1.5920000000000982,
+      "dialogue_text": "¡No!"
+    },
+    {
+      "subtitle_index": 511,
+      "start_time": 4085.727,
+      "end_time": 4088.23,
+      "duration": 2.5030000000001564,
+      "dialogue_text": "Entonces, ¡es mejor si mamá muriera!"
+    },
+    {
+      "subtitle_index": 512,
+      "start_time": 4088.265,
+      "end_time": 4090.49,
+      "duration": 2.224999999999909,
+      "dialogue_text": "¡No!"
+    },
+    {
+      "subtitle_index": 513,
+      "start_time": 4090.525,
+      "end_time": 4091.616,
+      "duration": 1.0909999999998945,
+      "dialogue_text": "¡Estupida Mei!"
+    },
+    {
+      "subtitle_index": 514,
+      "start_time": 4091.651,
+      "end_time": 4093.362,
+      "duration": 1.71100000000024,
+      "dialogue_text": "¡No te quiero ver nunca más!"
+    },
+    {
+      "subtitle_index": 515,
+      "start_time": 4103.96,
+      "end_time": 4105.254,
+      "duration": 1.293999999999869,
+      "dialogue_text": "Vamos..."
+    },
+    {
+      "subtitle_index": 516,
+      "start_time": 4108.383,
+      "end_time": 4112.139,
+      "duration": 3.756000000000313,
+      "dialogue_text": "¡Estupida hermana!"
+    },
+    {
+      "subtitle_index": 517,
+      "start_time": 4138.802,
+      "end_time": 4142.39,
+      "duration": 3.5880000000006476,
+      "dialogue_text": "Si no separo rápido la ropa sucia..."
+    },
+    {
+      "subtitle_index": 518,
+      "start_time": 4143.099,
+      "end_time": 4149.692,
+      "duration": 6.592999999999847,
+      "dialogue_text": "No estés tan triste. Ánimo. La abuela está aquí para ayudar."
+    },
+    {
+      "subtitle_index": 519,
+      "start_time": 4154.49,
+      "end_time": 4161.292,
+      "duration": 6.802000000000589,
+      "dialogue_text": "Tu padre hablo al hospital y le dijeron que tu madre solo tuvo un resfriado."
+    },
+    {
+      "subtitle_index": 520,
+      "start_time": 4161.834,
+      "end_time": 4165.631,
+      "duration": 3.79700000000048,
+      "dialogue_text": "Volverá el sábado que viene."
+    },
+    {
+      "subtitle_index": 521,
+      "start_time": 4169.803,
+      "end_time": 4173.684,
+      "duration": 3.881000000000313,
+      "dialogue_text": "Justo como antes. Diciendo que mamá estaría en el hospital por poco tiempo."
+    },
+    {
+      "subtitle_index": 522,
+      "start_time": 4174.602,
+      "end_time": 4179.86,
+      "duration": 5.257999999999811,
+      "dialogue_text": "Diciendo que es solo un resfriado... ¡que haré si mamá muere!"
+    },
+    {
+      "subtitle_index": 523,
+      "start_time": 4180.444,
+      "end_time": 4182.363,
+      "duration": 1.918999999999869,
+      "dialogue_text": "Satsuki..."
+    },
+    {
+      "subtitle_index": 524,
+      "start_time": 4182.398,
+      "end_time": 4184.282,
+      "duration": 1.8840000000000146,
+      "dialogue_text": "Si... Mam..."
+    },
+    {
+      "subtitle_index": 525,
+      "start_time": 4188.079,
+      "end_time": 4191.048,
+      "duration": 2.969000000000051,
+      "dialogue_text": "Está bien, está bien..."
+    },
+    {
+      "subtitle_index": 526,
+      "start_time": 4191.083,
+      "end_time": 4199.471,
+      "duration": 8.38799999999992,
+      "dialogue_text": "¿Quién puede morir y dejar a dos niñas tan dulces? No llores, no llores."
+    },
+    {
+      "subtitle_index": 527,
+      "start_time": 4199.679,
+      "end_time": 4204.478,
+      "duration": 4.798999999999978,
+      "dialogue_text": "Me quedare hasta que tu padre regrese. ¡Que les parece!"
+    },
+    {
+      "subtitle_index": 528,
+      "start_time": 4246.078,
+      "end_time": 4249.166,
+      "duration": 3.087999999999738,
+      "dialogue_text": "¡Mei!"
+    },
+    {
+      "subtitle_index": 529,
+      "start_time": 4263.853,
+      "end_time": 4265.028,
+      "duration": 1.175000000000182,
+      "dialogue_text": "¿Ha regresado Mei?"
+    },
+    {
+      "subtitle_index": 530,
+      "start_time": 4265.063,
+      "end_time": 4267.358,
+      "duration": 2.2950000000000728,
+      "dialogue_text": "¿No estaba en la parada del autobús?"
+    },
+    {
+      "subtitle_index": 531,
+      "start_time": 4267.393,
+      "end_time": 4268.908,
+      "duration": 1.5150000000003274,
+      "dialogue_text": "No..."
+    },
+    {
+      "subtitle_index": 532,
+      "start_time": 4268.943,
+      "end_time": 4272.539,
+      "duration": 3.595999999999549,
+      "dialogue_text": "Que extraño... ¿A donde habrá ido?"
+    },
+    {
+      "subtitle_index": 533,
+      "start_time": 4272.574,
+      "end_time": 4276.336,
+      "duration": 3.7620000000006257,
+      "dialogue_text": "Hace un rato discutí con ella... ¡esta Mei!"
+    },
+    {
+      "subtitle_index": 534,
+      "start_time": 4276.371,
+      "end_time": 4279.09,
+      "duration": 2.719000000000051,
+      "dialogue_text": "¡Eso es! ¡Probablemente fue al hospital donde está mamá!"
+    },
+    {
+      "subtitle_index": 535,
+      "start_time": 4279.125,
+      "end_time": 4285.133,
+      "duration": 6.007999999999811,
+      "dialogue_text": "¿Al Hospital Shichikoku-yama? Le toma a un adulto 3 horas llegar caminando."
+    },
+    {
+      "subtitle_index": 536,
+      "start_time": 4285.168,
+      "end_time": 4286.802,
+      "duration": 1.6340000000000146,
+      "dialogue_text": "¡La voy a buscar!"
+    },
+    {
+      "subtitle_index": 537,
+      "start_time": 4287.678,
+      "end_time": 4294.772,
+      "duration": 7.094000000000051,
+      "dialogue_text": "¡Kanta! ¡Rápido! ¡Llama a tu padre! Mei está perdida."
+    },
+    {
+      "subtitle_index": 538,
+      "start_time": 4303.785,
+      "end_time": 4306.413,
+      "duration": 2.6279999999997017,
+      "dialogue_text": "Mei idiota, perdiéndote."
+    },
+    {
+      "subtitle_index": 539,
+      "start_time": 4323.271,
+      "end_time": 4325.607,
+      "duration": 2.33600000000024,
+      "dialogue_text": "Disculpe, señor... Hmm..."
+    },
+    {
+      "subtitle_index": 540,
+      "start_time": 4327.277,
+      "end_time": 4331.282,
+      "duration": 4.005000000000109,
+      "dialogue_text": "¿Vio pasar por este camino con una niña? Es mi hermana menor."
+    },
+    {
+      "subtitle_index": 541,
+      "start_time": 4331.867,
+      "end_time": 4336.874,
+      "duration": 5.006999999999607,
+      "dialogue_text": "A una pequeña... no. Me habría dado cuenta si hubiese pasado."
+    },
+    {
+      "subtitle_index": 542,
+      "start_time": 4338.166,
+      "end_time": 4340.253,
+      "duration": 2.0869999999995343,
+      "dialogue_text": "¿No fue por este camino?"
+    },
+    {
+      "subtitle_index": 543,
+      "start_time": 4359.363,
+      "end_time": 4361.575,
+      "duration": 2.2119999999995343,
+      "dialogue_text": "¿Estas segura que vino por aquí?"
+    },
+    {
+      "subtitle_index": 544,
+      "start_time": 4361.61,
+      "end_time": 4363.118,
+      "duration": 1.5080000000007203,
+      "dialogue_text": "No, no se."
+    },
+    {
+      "subtitle_index": 545,
+      "start_time": 4394.956,
+      "end_time": 4396.791,
+      "duration": 1.8350000000000364,
+      "dialogue_text": "¡Deténgase, por favor!"
+    },
+    {
+      "subtitle_index": 546,
+      "start_time": 4399.379,
+      "end_time": 4400.637,
+      "duration": 1.2579999999998108,
+      "dialogue_text": "¡Cuidado! ¡Idiota!"
+    },
+    {
+      "subtitle_index": 547,
+      "start_time": 4400.672,
+      "end_time": 4404.093,
+      "duration": 3.4210000000002765,
+      "dialogue_text": "Estoy buscando a mi hermana menor. ¿No se cruzaron con una niña?"
+    },
+    {
+      "subtitle_index": 548,
+      "start_time": 4404.678,
+      "end_time": 4405.936,
+      "duration": 1.2579999999998108,
+      "dialogue_text": "¿Hermana menor?"
+    },
+    {
+      "subtitle_index": 549,
+      "start_time": 4405.971,
+      "end_time": 4409.935,
+      "duration": 3.9640000000008513,
+      "dialogue_text": "Probablemente se dirigía al Hospital Shichikoku-yama. Tiene 4 años de edad."
+    },
+    {
+      "subtitle_index": 550,
+      "start_time": 4410.06,
+      "end_time": 4411.604,
+      "duration": 1.543999999999869,
+      "dialogue_text": "¿Ryoko, viste a alguna?"
+    },
+    {
+      "subtitle_index": 551,
+      "start_time": 4411.639,
+      "end_time": 4412.904,
+      "duration": 1.2650000000003274,
+      "dialogue_text": "No."
+    },
+    {
+      "subtitle_index": 552,
+      "start_time": 4412.939,
+      "end_time": 4417.404,
+      "duration": 4.4650000000001455,
+      "dialogue_text": "Nosotros venimos del Shichikoku-yama, pero no vimos a ninguna niña como así."
+    },
+    {
+      "subtitle_index": 553,
+      "start_time": 4418.154,
+      "end_time": 4420.074,
+      "duration": 1.9199999999991633,
+      "dialogue_text": "Ya veo. Gracias."
+    },
+    {
+      "subtitle_index": 554,
+      "start_time": 4420.95,
+      "end_time": 4422.786,
+      "duration": 1.83600000000024,
+      "dialogue_text": "¿De donde vienes?"
+    },
+    {
+      "subtitle_index": 555,
+      "start_time": 4422.821,
+      "end_time": 4424.326,
+      "duration": 1.5050000000001091,
+      "dialogue_text": "Matsugo."
+    },
+    {
+      "subtitle_index": 556,
+      "start_time": 4424.361,
+      "end_time": 4425.797,
+      "duration": 1.4359999999996944,
+      "dialogue_text": "¿Matsugo?"
+    },
+    {
+      "subtitle_index": 557,
+      "start_time": 4425.832,
+      "end_time": 4427.751,
+      "duration": 1.918999999999869,
+      "dialogue_text": "¡Tal vez cometió un error!"
+    },
+    {
+      "subtitle_index": 558,
+      "start_time": 4428.837,
+      "end_time": 4430.13,
+      "duration": 1.2929999999996653,
+      "dialogue_text": "Bueno, ¡adiós!"
+    },
+    {
+      "subtitle_index": 559,
+      "start_time": 4441.438,
+      "end_time": 4443.357,
+      "duration": 1.918999999999869,
+      "dialogue_text": "¡Satsuki!"
+    },
+    {
+      "subtitle_index": 560,
+      "start_time": 4444.65,
+      "end_time": 4448.573,
+      "duration": 3.923000000000684,
+      "dialogue_text": "¡Kanta! ¿La encontraste?"
+    },
+    {
+      "subtitle_index": 561,
+      "start_time": 4448.608,
+      "end_time": 4450.033,
+      "duration": 1.425000000000182,
+      "dialogue_text": "¡No! ¿No está aquí?"
+    },
+    {
+      "subtitle_index": 562,
+      "start_time": 4450.068,
+      "end_time": 4451.083,
+      "duration": 1.014999999999418,
+      "dialogue_text": "No."
+    },
+    {
+      "subtitle_index": 563,
+      "start_time": 4451.118,
+      "end_time": 4453.336,
+      "duration": 2.217999999999847,
+      "dialogue_text": "Mi papá y los demás están buscando en este momento."
+    },
+    {
+      "subtitle_index": 564,
+      "start_time": 4453.371,
+      "end_time": 4457.377,
+      "duration": 4.006000000000313,
+      "dialogue_text": "Es mejor que vallas a casa, yo voy hasta el Hospital Shichikoku-yama."
+    },
+    {
+      "subtitle_index": 565,
+      "start_time": 4457.461,
+      "end_time": 4461.841,
+      "duration": 4.380000000000109,
+      "dialogue_text": "Si Mei se dirigía al hospital, se debe haber perdido. Estoy segura de eso."
+    },
+    {
+      "subtitle_index": 566,
+      "start_time": 4461.876,
+      "end_time": 4464.846,
+      "duration": 2.969999999999345,
+      "dialogue_text": "Hace un rato encontraron una sandalia en el estanque."
+    },
+    {
+      "subtitle_index": 567,
+      "start_time": 4471.856,
+      "end_time": 4474.777,
+      "duration": 2.9210000000002765,
+      "dialogue_text": "No están seguros de que sea de Mei."
+    },
+    {
+      "subtitle_index": 568,
+      "start_time": 4491.884,
+      "end_time": 4493.469,
+      "duration": 1.5850000000000364,
+      "dialogue_text": "¿La encontraste?"
+    },
+    {
+      "subtitle_index": 569,
+      "start_time": 4524.847,
+      "end_time": 4528.06,
+      "duration": 3.2130000000006476,
+      "dialogue_text": "¡Misericordioso Buddha! Misericordioso Buddha!"
+    },
+    {
+      "subtitle_index": 570,
+      "start_time": 4529.562,
+      "end_time": 4532.107,
+      "duration": 2.5450000000000728,
+      "dialogue_text": "¡Intenta por ese lado, el barro es profundo!"
+    },
+    {
+      "subtitle_index": 571,
+      "start_time": 4532.142,
+      "end_time": 4534.57,
+      "duration": 2.4279999999998836,
+      "dialogue_text": "¡Hey! ¿Sobra alguna vara?"
+    },
+    {
+      "subtitle_index": 572,
+      "start_time": 4543.04,
+      "end_time": 4545.376,
+      "duration": 2.33600000000024,
+      "dialogue_text": "Abuela, Satsuki ha vuelto."
+    },
+    {
+      "subtitle_index": 573,
+      "start_time": 4549.924,
+      "end_time": 4551.552,
+      "duration": 1.6279999999997017,
+      "dialogue_text": "¡Abuela!"
+    },
+    {
+      "subtitle_index": 574,
+      "start_time": 4552.762,
+      "end_time": 4554.473,
+      "duration": 1.71100000000024,
+      "dialogue_text": "Es... ¿Es de ella?"
+    },
+    {
+      "subtitle_index": 575,
+      "start_time": 4563.861,
+      "end_time": 4565.571,
+      "duration": 1.7100000000000364,
+      "dialogue_text": "¡No son de Mei!"
+    },
+    {
+      "subtitle_index": 576,
+      "start_time": 4575.795,
+      "end_time": 4579.633,
+      "duration": 3.837999999999738,
+      "dialogue_text": "Bien. Estaba segura que eran de ella."
+    },
+    {
+      "subtitle_index": 577,
+      "start_time": 4579.668,
+      "end_time": 4583.472,
+      "duration": 3.8040000000000873,
+      "dialogue_text": "¿Abuela se apresuro a sacar conclusiones?"
+    },
+    {
+      "subtitle_index": 578,
+      "start_time": 4583.507,
+      "end_time": 4585.899,
+      "duration": 2.392000000000735,
+      "dialogue_text": "¡Oigan! ¡Es un error!"
+    },
+    {
+      "subtitle_index": 579,
+      "start_time": 4585.934,
+      "end_time": 4587.735,
+      "duration": 1.8009999999994761,
+      "dialogue_text": "¿A donde se supone que fue?"
+    },
+    {
+      "subtitle_index": 580,
+      "start_time": 4587.77,
+      "end_time": 4589.564,
+      "duration": 1.793999999999869,
+      "dialogue_text": "Vamos a empezar a buscar de nuevo."
+    },
+    {
+      "subtitle_index": 581,
+      "start_time": 4589.599,
+      "end_time": 4591.358,
+      "duration": 1.7590000000000146,
+      "dialogue_text": "¡Si no nos damos prisa oscurecerá!"
+    },
+    {
+      "subtitle_index": 582,
+      "start_time": 4591.393,
+      "end_time": 4592.7,
+      "duration": 1.306999999999789,
+      "dialogue_text": "Lo siento... todos..."
+    },
+    {
+      "subtitle_index": 583,
+      "start_time": 4592.735,
+      "end_time": 4595.531,
+      "duration": 2.7960000000002765,
+      "dialogue_text": "Gracias por la ayuda, pero tenemos que dividirnos en grupos de búsqueda."
+    },
+    {
+      "subtitle_index": 584,
+      "start_time": 4625.114,
+      "end_time": 4630.086,
+      "duration": 4.972000000000662,
+      "dialogue_text": "Por favor... déjame ver a Totoro. Mei está perdida."
+    },
+    {
+      "subtitle_index": 585,
+      "start_time": 4630.121,
+      "end_time": 4634.127,
+      "duration": 4.006000000000313,
+      "dialogue_text": "Incluso estando casi oscuro, ella debe estar vagando por alguna parte."
+    },
+    {
+      "subtitle_index": 586,
+      "start_time": 4665.046,
+      "end_time": 4666.673,
+      "duration": 1.626999999999498,
+      "dialogue_text": "¡Totoro!"
+    },
+    {
+      "subtitle_index": 587,
+      "start_time": 4668.05,
+      "end_time": 4672.598,
+      "duration": 4.5479999999997744,
+      "dialogue_text": "Totoro, Mei está perdida. Lo intenté pero no pude encontrarla"
+    },
+    {
+      "subtitle_index": 588,
+      "start_time": 4672.633,
+      "end_time": 4674.81,
+      "duration": 2.1770000000005894,
+      "dialogue_text": "¡Por favor! Busca a Mei."
+    },
+    {
+      "subtitle_index": 589,
+      "start_time": 4675.727,
+      "end_time": 4681.36,
+      "duration": 5.632999999999811,
+      "dialogue_text": "Se que debe estar llorando por ahí, ya no se que hacer."
+    },
+    {
+      "subtitle_index": 590,
+      "start_time": 4740.569,
+      "end_time": 4742.572,
+      "duration": 2.0029999999997017,
+      "dialogue_text": "¡¿Nadie puede verlo?!"
+    },
+    {
+      "subtitle_index": 591,
+      "start_time": 4794.895,
+      "end_time": 4797.232,
+      "duration": 2.3369999999995343,
+      "dialogue_text": "Mei."
+    },
+    {
+      "subtitle_index": 592,
+      "start_time": 4825.773,
+      "end_time": 4827.776,
+      "duration": 2.0029999999997017,
+      "dialogue_text": "Los árboles se apartan de nuestro camino."
+    },
+    {
+      "subtitle_index": 593,
+      "start_time": 4859.028,
+      "end_time": 4860.823,
+      "duration": 1.7950000000000728,
+      "dialogue_text": "¡Meeeiii!"
+    },
+    {
+      "subtitle_index": 594,
+      "start_time": 4864.411,
+      "end_time": 4872.756,
+      "duration": 8.345000000000255,
+      "dialogue_text": "¡Hermana... hermana...!"
+    },
+    {
+      "subtitle_index": 595,
+      "start_time": 4881.351,
+      "end_time": 4882.895,
+      "duration": 1.5440000000007785,
+      "dialogue_text": "¡Mei!"
+    },
+    {
+      "subtitle_index": 596,
+      "start_time": 4882.93,
+      "end_time": 4884.439,
+      "duration": 1.5090000000000146,
+      "dialogue_text": "¿Hermana?"
+    },
+    {
+      "subtitle_index": 597,
+      "start_time": 4887.444,
+      "end_time": 4888.737,
+      "duration": 1.2929999999996653,
+      "dialogue_text": "Tonta Mei"
+    },
+    {
+      "subtitle_index": 598,
+      "start_time": 4888.772,
+      "end_time": 4890.03,
+      "duration": 1.2579999999998108,
+      "dialogue_text": "Lo siento."
+    },
+    {
+      "subtitle_index": 599,
+      "start_time": 4892.617,
+      "end_time": 4895.83,
+      "duration": 3.212999999999738,
+      "dialogue_text": "¿A donde llevas el choclo para mamá?"
+    },
+    {
+      "subtitle_index": 600,
+      "start_time": 4903.424,
+      "end_time": 4905.635,
+      "duration": 2.21100000000024,
+      "dialogue_text": "Al Hospital Shichikoku-Yama."
+    },
+    {
+      "subtitle_index": 601,
+      "start_time": 4908.014,
+      "end_time": 4910.225,
+      "duration": 2.21100000000024,
+      "dialogue_text": "¿Podrías ir hasta el hospital?"
+    },
+    {
+      "subtitle_index": 602,
+      "start_time": 4912.437,
+      "end_time": 4913.898,
+      "duration": 1.46100000000024,
+      "dialogue_text": "¡Gracias!"
+    },
+    {
+      "subtitle_index": 603,
+      "start_time": 4922.868,
+      "end_time": 4927.583,
+      "duration": 4.714999999999236,
+      "dialogue_text": "Lo siento, el hospital mando un telegrama, incluso cuando fue solo un resfriado."
+    },
+    {
+      "subtitle_index": 604,
+      "start_time": 4928.085,
+      "end_time": 4931.735,
+      "duration": 3.649999999999636,
+      "dialogue_text": "Las niñas deben estar preocupadas. Pobrecitas."
+    },
+    {
+      "subtitle_index": 605,
+      "start_time": 4931.77,
+      "end_time": 4935.386,
+      "duration": 3.6159999999999854,
+      "dialogue_text": "No te preocupes se les pasara cuando se enteren."
+    },
+    {
+      "subtitle_index": 606,
+      "start_time": 4935.421,
+      "end_time": 4938.689,
+      "duration": 3.268000000000029,
+      "dialogue_text": "Hasta ahora tú y ellas han hecho lo mejor."
+    },
+    {
+      "subtitle_index": 607,
+      "start_time": 4938.724,
+      "end_time": 4941.186,
+      "duration": 2.4619999999995343,
+      "dialogue_text": "Los buenos momentos solo fueron retrasados un tiempo."
+    },
+    {
+      "subtitle_index": 608,
+      "start_time": 4942.187,
+      "end_time": 4945.754,
+      "duration": 3.5670000000000073,
+      "dialogue_text": "Esas niñas se tuvieron que enfrentar a mucho en todo este tiempo."
+    },
+    {
+      "subtitle_index": 609,
+      "start_time": 4945.789,
+      "end_time": 4949.322,
+      "duration": 3.5330000000003565,
+      "dialogue_text": "Especialmente Satsuki. Ella lo intenta tan duro. Después de esto..."
+    },
+    {
+      "subtitle_index": 610,
+      "start_time": 4949.99,
+      "end_time": 4951.791,
+      "duration": 1.8010000000003856,
+      "dialogue_text": "Si..."
+    },
+    {
+      "subtitle_index": 611,
+      "start_time": 4951.826,
+      "end_time": 4955.79,
+      "duration": 3.963999999999942,
+      "dialogue_text": "Esta vez cuando salga del hospital, voy a consentir a esas niñas."
+    },
+    {
+      "subtitle_index": 612,
+      "start_time": 4955.998,
+      "end_time": 4957.751,
+      "duration": 1.7530000000006112,
+      "dialogue_text": "¡Hey, hey!"
+    },
+    {
+      "subtitle_index": 613,
+      "start_time": 4964.344,
+      "end_time": 4966.576,
+      "duration": 2.231999999999971,
+      "dialogue_text": "Mamá está riendo."
+    },
+    {
+      "subtitle_index": 614,
+      "start_time": 4966.611,
+      "end_time": 4968.808,
+      "duration": 2.1970000000001164,
+      "dialogue_text": "Parece que está bien."
+    },
+    {
+      "subtitle_index": 615,
+      "start_time": 4976.528,
+      "end_time": 4978.906,
+      "duration": 2.3779999999997017,
+      "dialogue_text": "Bueno, me tengo que recuperar rápido."
+    },
+    {
+      "subtitle_index": 616,
+      "start_time": 4978.941,
+      "end_time": 4980.533,
+      "duration": 1.592000000000553,
+      "dialogue_text": "Si."
+    },
+    {
+      "subtitle_index": 617,
+      "start_time": 4981.033,
+      "end_time": 4982.619,
+      "duration": 1.5859999999993306,
+      "dialogue_text": "¿Huh?"
+    },
+    {
+      "subtitle_index": 618,
+      "start_time": 4988.545,
+      "end_time": 4990.422,
+      "duration": 1.876999999999498,
+      "dialogue_text": "¿Pero que...?"
+    },
+    {
+      "subtitle_index": 619,
+      "start_time": 4990.457,
+      "end_time": 4991.889,
+      "duration": 1.431999999999789,
+      "dialogue_text": "¡Ah!"
+    },
+    {
+      "subtitle_index": 620,
+      "start_time": 4991.924,
+      "end_time": 4993.6,
+      "duration": 1.6760000000003856,
+      "dialogue_text": "¿Qué es esto?"
+    },
+    {
+      "subtitle_index": 621,
+      "start_time": 4993.635,
+      "end_time": 4997.64,
+      "duration": 4.005000000000109,
+      "dialogue_text": "Justo ahora me parece ver a Satsuki y a Mei sonriendo en es pino de ahí."
+    },
+    {
+      "subtitle_index": 622,
+      "start_time": 5000.019,
+      "end_time": 5003.024,
+      "duration": 3.005000000000109,
+      "dialogue_text": "Parece que es verdad, después de todo. ¡Mira!"
+    },
+    {
+      "subtitle_index": 623,
+      "start_time": 5003.357,
+      "end_time": 5006.069,
+      "duration": 2.712000000000444,
+      "dialogue_text": "\"Para mamá\""
+    },
+    {
+      "subtitle_index": 624,
+      "start_time": 5008.323,
+      "end_time": 5011.076,
+      "duration": 2.7529999999997017,
+      "dialogue_text": "Totoro, Totoro"
+    },
+    {
+      "subtitle_index": 625,
+      "start_time": 5011.994,
+      "end_time": 5014.581,
+      "duration": 2.587000000000444,
+      "dialogue_text": "Totoro, Totoro"
+    },
+    {
+      "subtitle_index": 626,
+      "start_time": 5023.594,
+      "end_time": 5029.978,
+      "duration": 6.3840000000000146,
+      "dialogue_text": "Alguien a hurtadillas"
+    },
+    {
+      "subtitle_index": 627,
+      "start_time": 5030.604,
+      "end_time": 5036.529,
+      "duration": 5.925000000000182,
+      "dialogue_text": "Planta nueces en el camino."
+    },
+    {
+      "subtitle_index": 628,
+      "start_time": 5038.532,
+      "end_time": 5045.083,
+      "duration": 6.550999999999476,
+      "dialogue_text": "Donde un pequeño brote crece."
+    },
+    {
+      "subtitle_index": 629,
+      "start_time": 5045.625,
+      "end_time": 5048.212,
+      "duration": 2.587000000000444,
+      "dialogue_text": "Encontraras una clave secreta."
+    },
+    {
+      "subtitle_index": 630,
+      "start_time": 5048.546,
+      "end_time": 5052.343,
+      "duration": 3.7969999999995707,
+      "dialogue_text": "El pasaporte al bosque."
+    },
+    {
+      "subtitle_index": 631,
+      "start_time": 5053.01,
+      "end_time": 5059.52,
+      "duration": 6.510000000000218,
+      "dialogue_text": "Una maravillosa aventura comienza."
+    },
+    {
+      "subtitle_index": 632,
+      "start_time": 5059.555,
+      "end_time": 5063.191,
+      "duration": 3.6359999999995125,
+      "dialogue_text": "Mi vecino Totoro."
+    },
+    {
+      "subtitle_index": 633,
+      "start_time": 5064.193,
+      "end_time": 5067.03,
+      "duration": 2.8369999999995343,
+      "dialogue_text": "Totoro, Totoro"
+    },
+    {
+      "subtitle_index": 634,
+      "start_time": 5068.324,
+      "end_time": 5071.432,
+      "duration": 3.1080000000001746,
+      "dialogue_text": "Ha vivido en el bosque"
+    },
+    {
+      "subtitle_index": 635,
+      "start_time": 5071.467,
+      "end_time": 5074.84,
+      "duration": 3.373000000000502,
+      "dialogue_text": "Desde tiempos antiguos."
+    },
+    {
+      "subtitle_index": 636,
+      "start_time": 5074.875,
+      "end_time": 5078.213,
+      "duration": 3.337999999999738,
+      "dialogue_text": "Mi vecino Totoro, Totoro"
+    },
+    {
+      "subtitle_index": 637,
+      "start_time": 5079.089,
+      "end_time": 5081.885,
+      "duration": 2.7960000000002765,
+      "dialogue_text": "Totoro, Totoro"
+    },
+    {
+      "subtitle_index": 638,
+      "start_time": 5082.803,
+      "end_time": 5086.787,
+      "duration": 3.9840000000003783,
+      "dialogue_text": "Solo te puede visitar"
+    },
+    {
+      "subtitle_index": 639,
+      "start_time": 5086.822,
+      "end_time": 5090.737,
+      "duration": 3.9149999999999636,
+      "dialogue_text": "Cuando eres un niño."
+    },
+    {
+      "subtitle_index": 640,
+      "start_time": 5090.772,
+      "end_time": 5093.985,
+      "duration": 3.212999999999738,
+      "dialogue_text": "Un encuentro maravilloso."
+    },
+    {
+      "subtitle_index": 641,
+      "start_time": 5096.322,
+      "end_time": 5103.29,
+      "duration": 6.967999999999847,
+      "dialogue_text": "La Iluvia cae en la parada del autobús."
+    },
+    {
+      "subtitle_index": 642,
+      "start_time": 5103.325,
+      "end_time": 5108.881,
+      "duration": 5.556000000000495,
+      "dialogue_text": "Si hay una criatura mojada"
+    },
+    {
+      "subtitle_index": 643,
+      "start_time": 5111.176,
+      "end_time": 5120.523,
+      "duration": 9.346999999999753,
+      "dialogue_text": "Abre tu paraguas para ella"
+    },
+    {
+      "subtitle_index": 644,
+      "start_time": 5121.065,
+      "end_time": 5124.779,
+      "duration": 3.7140000000008513,
+      "dialogue_text": "El pasaporte para el bosque"
+    },
+    {
+      "subtitle_index": 645,
+      "start_time": 5125.613,
+      "end_time": 5130.745,
+      "duration": 5.131999999999607,
+      "dialogue_text": "La puerta mágica abre"
+    },
+    {
+      "subtitle_index": 646,
+      "start_time": 5130.78,
+      "end_time": 5135.878,
+      "duration": 5.097999999999956,
+      "dialogue_text": "Mi vecino Totoro, Totoro"
+    },
+    {
+      "subtitle_index": 647,
+      "start_time": 5136.796,
+      "end_time": 5139.508,
+      "duration": 2.7119999999995343,
+      "dialogue_text": "Totoro, Totoro"
+    },
+    {
+      "subtitle_index": 648,
+      "start_time": 5141.01,
+      "end_time": 5147.102,
+      "duration": 6.0919999999996435,
+      "dialogue_text": "Toca la ocarina en noches de luna llena"
+    },
+    {
+      "subtitle_index": 649,
+      "start_time": 5147.137,
+      "end_time": 5150.816,
+      "duration": 3.6790000000000873,
+      "dialogue_text": "Mi vecino Totoro, Totoro"
+    },
+    {
+      "subtitle_index": 650,
+      "start_time": 5151.733,
+      "end_time": 5154.404,
+      "duration": 2.6710000000002765,
+      "dialogue_text": "Totoro, Totoro"
+    },
+    {
+      "subtitle_index": 651,
+      "start_time": 5155.406,
+      "end_time": 5159.411,
+      "duration": 4.005000000000109,
+      "dialogue_text": "Si alguna vez lo conoces"
+    },
+    {
+      "subtitle_index": 652,
+      "start_time": 5159.446,
+      "end_time": 5163.417,
+      "duration": 3.9710000000004584,
+      "dialogue_text": "Maravillosas fortunas"
+    },
+    {
+      "subtitle_index": 653,
+      "start_time": 5163.452,
+      "end_time": 5165.753,
+      "duration": 2.300999999999476,
+      "dialogue_text": "Vendrán a ti."
+    }
+  ]
+}

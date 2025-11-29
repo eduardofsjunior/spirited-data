@@ -1,0 +1,202 @@
+{
+  "timestamp": "2025-11-18 12:07:41",
+  "targets_processed": 27,
+  "improved_count": 8,
+  "success_rate": 29.62962962962963,
+  "results": [
+    {
+      "success": true,
+      "old_drift": 185.00524444444443,
+      "new_drift": 0.049177777777771964,
+      "improvement": 184.95606666666666,
+      "file_id": 523229,
+      "runtime": 4497.787,
+      "film_slug": "the_cat_returns",
+      "language": "es"
+    },
+    {
+      "success": true,
+      "old_drift": 77.23085808580859,
+      "new_drift": 0.15792079207920312,
+      "improvement": 77.07293729372938,
+      "file_id": 4219972,
+      "runtime": 6050.43,
+      "film_slug": "ponyo",
+      "language": "ar"
+    },
+    {
+      "success": true,
+      "old_drift": 75.0736858974359,
+      "new_drift": 4.454455128205122,
+      "improvement": 70.61923076923077,
+      "file_id": 652530,
+      "runtime": 5962.042,
+      "film_slug": "my_neighbors_the_yamadas",
+      "language": "ar"
+    },
+    {
+      "success": true,
+      "old_drift": 52.855434173669465,
+      "new_drift": 0.08641456582633154,
+      "improvement": 52.769019607843134,
+      "file_id": 9755815,
+      "runtime": 7146.17,
+      "film_slug": "pom_poko",
+      "language": "ar"
+    },
+    {
+      "success": true,
+      "old_drift": 47.3320105820106,
+      "new_drift": 0.29914021164020876,
+      "improvement": 47.03287037037039,
+      "file_id": 1039306,
+      "runtime": 7582.615,
+      "film_slug": "the_wind_rises",
+      "language": "fr"
+    },
+    {
+      "success": true,
+      "old_drift": 45.11593093093093,
+      "new_drift": 3.6689939939939875,
+      "improvement": 41.44693693693694,
+      "file_id": 1305858,
+      "runtime": 6415.645,
+      "film_slug": "whisper_of_the_heart",
+      "language": "fr"
+    },
+    {
+      "success": true,
+      "old_drift": 32.23880081300814,
+      "new_drift": 0.7480081300812943,
+      "improvement": 31.490792682926845,
+      "file_id": 6977564,
+      "runtime": 4956.802,
+      "film_slug": "earwig_and_the_witch",
+      "language": "nl"
+    },
+    {
+      "success": true,
+      "old_drift": 32.11721544715448,
+      "new_drift": 0.6075203252032587,
+      "improvement": 31.50969512195122,
+      "file_id": 6768434,
+      "runtime": 4949.89,
+      "film_slug": "earwig_and_the_witch",
+      "language": "fr"
+    },
+    {
+      "success": false,
+      "reason": "No improvement after 10 tests",
+      "film_slug": "the_red_turtle",
+      "language": "nl"
+    },
+    {
+      "success": false,
+      "reason": "No improvement after 10 tests",
+      "film_slug": "the_red_turtle",
+      "language": "fr"
+    },
+    {
+      "success": false,
+      "reason": "No improvement after 10 tests",
+      "film_slug": "the_red_turtle",
+      "language": "ar"
+    },
+    {
+      "success": false,
+      "reason": "No improvement after 10 tests",
+      "film_slug": "earwig_and_the_witch",
+      "language": "ar"
+    },
+    {
+      "success": false,
+      "reason": "No results",
+      "film_slug": "my_neighbors_the_yamadas",
+      "language": "fr"
+    },
+    {
+      "success": false,
+      "reason": "No improvement after 10 tests",
+      "film_slug": "the_cat_returns",
+      "language": "nl"
+    },
+    {
+      "success": false,
+      "reason": "No improvement after 10 tests",
+      "film_slug": "the_wind_rises",
+      "language": "nl"
+    },
+    {
+      "success": false,
+      "reason": "No improvement after 10 tests",
+      "film_slug": "earwig_and_the_witch",
+      "language": "es"
+    },
+    {
+      "success": false,
+      "reason": "No improvement after 10 tests",
+      "film_slug": "tales_from_earthsea",
+      "language": "es"
+    },
+    {
+      "success": false,
+      "reason": "No improvement after 10 tests",
+      "film_slug": "whisper_of_the_heart",
+      "language": "nl"
+    },
+    {
+      "success": false,
+      "reason": "No improvement after 10 tests",
+      "film_slug": "whisper_of_the_heart",
+      "language": "es"
+    },
+    {
+      "success": false,
+      "reason": "No improvement after 10 tests",
+      "film_slug": "the_red_turtle",
+      "language": "es"
+    },
+    {
+      "success": false,
+      "reason": "No improvement after 10 tests",
+      "film_slug": "castle_in_the_sky",
+      "language": "nl"
+    },
+    {
+      "success": false,
+      "reason": "No results",
+      "film_slug": "castle_in_the_sky",
+      "language": "ar"
+    },
+    {
+      "success": false,
+      "reason": "No improvement after 10 tests",
+      "film_slug": "the_tale_of_the_princess_kaguya",
+      "language": "ar"
+    },
+    {
+      "success": false,
+      "reason": "No improvement after 4 tests",
+      "film_slug": "ponyo",
+      "language": "nl"
+    },
+    {
+      "success": false,
+      "reason": "No improvement after 3 tests",
+      "film_slug": "pom_poko",
+      "language": "nl"
+    },
+    {
+      "success": false,
+      "reason": "No improvement after 9 tests",
+      "film_slug": "porco_rosso",
+      "language": "ar"
+    },
+    {
+      "success": false,
+      "reason": "No improvement after 10 tests",
+      "film_slug": "ponyo",
+      "language": "fr"
+    }
+  ]
+}

@@ -1,0 +1,4548 @@
+{
+  "metadata": {
+    "film_name": "Grave Of The Fireflies V2",
+    "film_slug": "grave_of_the_fireflies_fr_v2",
+    "language_code": "fr",
+    "total_subtitles": 648,
+    "total_duration": 5301.736,
+    "parse_timestamp": "2025-11-18T12:08:11.678688"
+  },
+  "subtitles": [
+    {
+      "subtitle_index": 1,
+      "start_time": 10.764,
+      "end_time": 12.834,
+      "duration": 2.0700000000000003,
+      "dialogue_text": "Production SHINCHOSHA"
+    },
+    {
+      "subtitle_index": 2,
+      "start_time": 19.444,
+      "end_time": 23.027,
+      "duration": 3.583000000000002,
+      "dialogue_text": "La nuit du 21 septembre 1945,"
+    },
+    {
+      "subtitle_index": 3,
+      "start_time": 23.616,
+      "end_time": 25.027,
+      "duration": 1.4110000000000014,
+      "dialogue_text": "je suis mort."
+    },
+    {
+      "subtitle_index": 4,
+      "start_time": 56.445,
+      "end_time": 58.237,
+      "duration": 1.7920000000000016,
+      "dialogue_text": "Quelle vermine !"
+    },
+    {
+      "subtitle_index": 5,
+      "start_time": 58.489,
+      "end_time": 59.521,
+      "duration": 1.0320000000000036,
+      "dialogue_text": "Faites gaffe !"
+    },
+    {
+      "subtitle_index": 6,
+      "start_time": 61.076,
+      "end_time": 63.567,
+      "duration": 2.4909999999999997,
+      "dialogue_text": "- Quelle saleté ! - Il est mort ?"
+    },
+    {
+      "subtitle_index": 7,
+      "start_time": 63.787,
+      "end_time": 65.78,
+      "duration": 1.993000000000002,
+      "dialogue_text": "Les Américains vont arriver,"
+    },
+    {
+      "subtitle_index": 8,
+      "start_time": 65.998,
+      "end_time": 68.703,
+      "duration": 2.7049999999999983,
+      "dialogue_text": "on peut pas laisser ça dans la gare."
+    },
+    {
+      "subtitle_index": 9,
+      "start_time": 77.97,
+      "end_time": 80.129,
+      "duration": 2.159000000000006,
+      "dialogue_text": "Maman..!"
+    },
+    {
+      "subtitle_index": 10,
+      "start_time": 81.516,
+      "end_time": 84.517,
+      "duration": 3.0009999999999906,
+      "dialogue_text": "Quel jour est-on ?"
+    },
+    {
+      "subtitle_index": 11,
+      "start_time": 95.574,
+      "end_time": 97.697,
+      "duration": 2.1230000000000047,
+      "dialogue_text": "Setsuko..."
+    },
+    {
+      "subtitle_index": 12,
+      "start_time": 107.796,
+      "end_time": 109.207,
+      "duration": 1.4109999999999872,
+      "dialogue_text": "Encore un !"
+    },
+    {
+      "subtitle_index": 13,
+      "start_time": 123.481,
+      "end_time": 124.892,
+      "duration": 1.4110000000000014,
+      "dialogue_text": "C'est quoi ?"
+    },
+    {
+      "subtitle_index": 14,
+      "start_time": 125.108,
+      "end_time": 128.026,
+      "duration": 2.9180000000000064,
+      "dialogue_text": "Laisse tomber ! Jette ça !"
+    },
+    {
+      "subtitle_index": 15,
+      "start_time": 140.209,
+      "end_time": 142.7,
+      "duration": 2.4909999999999854,
+      "dialogue_text": "Lui aussi, c'est bientôt son tour..."
+    },
+    {
+      "subtitle_index": 16,
+      "start_time": 142.92,
+      "end_time": 145.708,
+      "duration": 2.788000000000011,
+      "dialogue_text": "il a les yeux grand ouverts."
+    },
+    {
+      "subtitle_index": 17,
+      "start_time": 200.904,
+      "end_time": 202.28,
+      "duration": 1.3760000000000048,
+      "dialogue_text": "Bonbons aux fruits"
+    },
+    {
+      "subtitle_index": 18,
+      "start_time": 216.005,
+      "end_time": 221.462,
+      "duration": 5.456999999999994,
+      "dialogue_text": "LE TOMBEAU DES LUCIOLES"
+    },
+    {
+      "subtitle_index": 19,
+      "start_time": 224.557,
+      "end_time": 226.135,
+      "duration": 1.578000000000003,
+      "dialogue_text": "Production : SATO Ryoichi"
+    },
+    {
+      "subtitle_index": 20,
+      "start_time": 226.35,
+      "end_time": 228.059,
+      "duration": 1.7090000000000032,
+      "dialogue_text": "OEuvre originale : NOSAKA Akiyuki"
+    },
+    {
+      "subtitle_index": 21,
+      "start_time": 229.27,
+      "end_time": 231.976,
+      "duration": 2.705999999999989,
+      "dialogue_text": "Dessinateur : KONDO Yoshifumi Décorateur : YAMAMOTO Nizo"
+    },
+    {
+      "subtitle_index": 22,
+      "start_time": 232.191,
+      "end_time": 233.899,
+      "duration": 1.7079999999999984,
+      "dialogue_text": "Musique : MAMIYA Michio"
+    },
+    {
+      "subtitle_index": 23,
+      "start_time": 234.777,
+      "end_time": 237.944,
+      "duration": 3.1670000000000016,
+      "dialogue_text": "Mise en espace : MAMOSE Yoshiyuki Coloration : YASUDA Michio"
+    },
+    {
+      "subtitle_index": 24,
+      "start_time": 238.156,
+      "end_time": 241.027,
+      "duration": 2.870999999999981,
+      "dialogue_text": "Caméra : KOYAMA Nobuo Son : URAKAMI Yasuo"
+    },
+    {
+      "subtitle_index": 25,
+      "start_time": 242.786,
+      "end_time": 245.075,
+      "duration": 2.2889999999999873,
+      "dialogue_text": "Producteur : HARA Toru"
+    },
+    {
+      "subtitle_index": 26,
+      "start_time": 245.289,
+      "end_time": 248.623,
+      "duration": 3.334000000000003,
+      "dialogue_text": "Scénario et réalisation : TAKAHATA lsao"
+    },
+    {
+      "subtitle_index": 27,
+      "start_time": 292.302,
+      "end_time": 295.802,
+      "duration": 3.5,
+      "dialogue_text": "Alerte ! Aux abris !"
+    },
+    {
+      "subtitle_index": 28,
+      "start_time": 298.643,
+      "end_time": 300.267,
+      "duration": 1.6240000000000236,
+      "dialogue_text": "Une grosse escadrille !"
+    },
+    {
+      "subtitle_index": 29,
+      "start_time": 300.478,
+      "end_time": 303.812,
+      "duration": 3.334000000000003,
+      "dialogue_text": "Le meilleur abri, c'est la caserne des pompiers !"
+    },
+    {
+      "subtitle_index": 30,
+      "start_time": 307.945,
+      "end_time": 308.561,
+      "duration": 0.6159999999999854,
+      "dialogue_text": "Trop chaud !"
+    },
+    {
+      "subtitle_index": 31,
+      "start_time": 309.739,
+      "end_time": 312.74,
+      "duration": 3.001000000000033,
+      "dialogue_text": "Sois gentille. Et bien sage !"
+    },
+    {
+      "subtitle_index": 32,
+      "start_time": 316.789,
+      "end_time": 319.992,
+      "duration": 3.2030000000000314,
+      "dialogue_text": "Je pars pour l'abri."
+    },
+    {
+      "subtitle_index": 33,
+      "start_time": 320.209,
+      "end_time": 323.329,
+      "duration": 3.1200000000000045,
+      "dialogue_text": "Rejoignez-moi vite !"
+    },
+    {
+      "subtitle_index": 34,
+      "start_time": 323.88,
+      "end_time": 326.585,
+      "duration": 2.704999999999984,
+      "dialogue_text": "Setsuko, obéis bien à ton frère !"
+    },
+    {
+      "subtitle_index": 35,
+      "start_time": 327.468,
+      "end_time": 328.879,
+      "duration": 1.4110000000000014,
+      "dialogue_text": "Dépêche-toi, Maman !"
+    },
+    {
+      "subtitle_index": 36,
+      "start_time": 330.012,
+      "end_time": 331.257,
+      "duration": 1.2450000000000045,
+      "dialogue_text": "D'accord !"
+    },
+    {
+      "subtitle_index": 37,
+      "start_time": 332.181,
+      "end_time": 334.388,
+      "duration": 2.2069999999999936,
+      "dialogue_text": "Tu as bien ton médicament ?"
+    },
+    {
+      "subtitle_index": 38,
+      "start_time": 334.601,
+      "end_time": 337.223,
+      "duration": 2.622000000000014,
+      "dialogue_text": "Mais oui, mon chéri."
+    },
+    {
+      "subtitle_index": 39,
+      "start_time": 341.359,
+      "end_time": 343.233,
+      "duration": 1.8740000000000236,
+      "dialogue_text": "J'aime pas l'abri."
+    },
+    {
+      "subtitle_index": 40,
+      "start_time": 343.444,
+      "end_time": 346.648,
+      "duration": 3.2040000000000077,
+      "dialogue_text": "Si tu n'y vas pas, les bombes te tueront."
+    },
+    {
+      "subtitle_index": 41,
+      "start_time": 354.04,
+      "end_time": 355.499,
+      "duration": 1.4590000000000032,
+      "dialogue_text": "Ma poupée !"
+    },
+    {
+      "subtitle_index": 42,
+      "start_time": 367.973,
+      "end_time": 369.551,
+      "duration": 1.5779999999999745,
+      "dialogue_text": "Aux abris !"
+    },
+    {
+      "subtitle_index": 43,
+      "start_time": 370.1,
+      "end_time": 370.634,
+      "duration": 0.5339999999999918,
+      "dialogue_text": "Vite !"
+    },
+    {
+      "subtitle_index": 44,
+      "start_time": 384.659,
+      "end_time": 385.774,
+      "duration": 1.115000000000009,
+      "dialogue_text": "Couche-toi !"
+    },
+    {
+      "subtitle_index": 45,
+      "start_time": 448.65,
+      "end_time": 449.729,
+      "duration": 1.0790000000000077,
+      "dialogue_text": "J'ai peur !"
+    },
+    {
+      "subtitle_index": 46,
+      "start_time": 582.597,
+      "end_time": 585.717,
+      "duration": 3.1200000000000045,
+      "dialogue_text": "Longue vie à l'Empereur !"
+    },
+    {
+      "subtitle_index": 47,
+      "start_time": 606.207,
+      "end_time": 608.959,
+      "duration": 2.7519999999999527,
+      "dialogue_text": "T'inquiète pas ! Ici, on sera bien."
+    },
+    {
+      "subtitle_index": 48,
+      "start_time": 610.17,
+      "end_time": 612.958,
+      "duration": 2.788000000000011,
+      "dialogue_text": "Où est partie maman ?"
+    },
+    {
+      "subtitle_index": 49,
+      "start_time": 613.174,
+      "end_time": 615.416,
+      "duration": 2.2420000000000755,
+      "dialogue_text": "A l'abri antiaérien."
+    },
+    {
+      "subtitle_index": 50,
+      "start_time": 616.427,
+      "end_time": 619.049,
+      "duration": 2.6219999999999573,
+      "dialogue_text": "Il peut résister même à 250 kilos."
+    },
+    {
+      "subtitle_index": 51,
+      "start_time": 619.264,
+      "end_time": 622.182,
+      "duration": 2.9180000000000064,
+      "dialogue_text": "Elle est à l'abri, t' inquiète pas."
+    },
+    {
+      "subtitle_index": 52,
+      "start_time": 633.364,
+      "end_time": 636.733,
+      "duration": 3.3689999999999145,
+      "dialogue_text": "Elle va sûrement aller à la gare de Nihonmatsu."
+    },
+    {
+      "subtitle_index": 53,
+      "start_time": 637.16,
+      "end_time": 639.069,
+      "duration": 1.9089999999999918,
+      "dialogue_text": "On doit s'y retrouver."
+    },
+    {
+      "subtitle_index": 54,
+      "start_time": 639.996,
+      "end_time": 641.871,
+      "duration": 1.875,
+      "dialogue_text": "On ira dès qu'on sera reposés."
+    },
+    {
+      "subtitle_index": 55,
+      "start_time": 648.339,
+      "end_time": 650.048,
+      "duration": 1.7089999999999463,
+      "dialogue_text": "Tu n'es pas blessée ?"
+    },
+    {
+      "subtitle_index": 56,
+      "start_time": 650.258,
+      "end_time": 651.587,
+      "duration": 1.3289999999999509,
+      "dialogue_text": "J'ai perdu ma sandale."
+    },
+    {
+      "subtitle_index": 57,
+      "start_time": 654.972,
+      "end_time": 657.594,
+      "duration": 2.622000000000071,
+      "dialogue_text": "Je t'en achèterai des plus belles."
+    },
+    {
+      "subtitle_index": 58,
+      "start_time": 659.227,
+      "end_time": 661.386,
+      "duration": 2.158999999999992,
+      "dialogue_text": "Moi aussi, j'ai de l'argent."
+    },
+    {
+      "subtitle_index": 59,
+      "start_time": 667.695,
+      "end_time": 669.653,
+      "duration": 1.95799999999997,
+      "dialogue_text": "Ouvre voir."
+    },
+    {
+      "subtitle_index": 60,
+      "start_time": 680.961,
+      "end_time": 682.159,
+      "duration": 1.197999999999979,
+      "dialogue_text": "T'es rudement riche !"
+    },
+    {
+      "subtitle_index": 61,
+      "start_time": 691.515,
+      "end_time": 694.053,
+      "duration": 2.538000000000011,
+      "dialogue_text": "C'est donc ça, les cendres noires ?"
+    },
+    {
+      "subtitle_index": 62,
+      "start_time": 732.103,
+      "end_time": 735.188,
+      "duration": 3.0850000000000364,
+      "dialogue_text": "On peut dire que c'est bien nettoyé !"
+    },
+    {
+      "subtitle_index": 63,
+      "start_time": 736.483,
+      "end_time": 739.271,
+      "duration": 2.788000000000011,
+      "dialogue_text": "Regarde ! C'était la salle communale..."
+    },
+    {
+      "subtitle_index": 64,
+      "start_time": 739.987,
+      "end_time": 742.443,
+      "duration": 2.4560000000000173,
+      "dialogue_text": "on y était allés ensemble."
+    },
+    {
+      "subtitle_index": 65,
+      "start_time": 745.243,
+      "end_time": 747.367,
+      "duration": 2.12399999999991,
+      "dialogue_text": "Notre maison, elle a brûlé ?"
+    },
+    {
+      "subtitle_index": 66,
+      "start_time": 747.579,
+      "end_time": 748.955,
+      "duration": 1.37600000000009,
+      "dialogue_text": "Ca en a l'air..."
+    },
+    {
+      "subtitle_index": 67,
+      "start_time": 749.165,
+      "end_time": 751.407,
+      "duration": 2.2420000000000755,
+      "dialogue_text": "Comment on va faire ?"
+    },
+    {
+      "subtitle_index": 68,
+      "start_time": 752.377,
+      "end_time": 754.453,
+      "duration": 2.076000000000022,
+      "dialogue_text": "Papa nous vengera."
+    },
+    {
+      "subtitle_index": 69,
+      "start_time": 769.522,
+      "end_time": 772.191,
+      "duration": 2.6689999999999827,
+      "dialogue_text": "Maman ! Maman !"
+    },
+    {
+      "subtitle_index": 70,
+      "start_time": 781.786,
+      "end_time": 784.787,
+      "duration": 3.00100000000009,
+      "dialogue_text": "Il semblerait qu'on n'est pas tout seuls !"
+    },
+    {
+      "subtitle_index": 71,
+      "start_time": 786.333,
+      "end_time": 787.911,
+      "duration": 1.5779999999999745,
+      "dialogue_text": "Tous à la belle étoile !"
+    },
+    {
+      "subtitle_index": 72,
+      "start_time": 790.755,
+      "end_time": 792.664,
+      "duration": 1.9089999999999918,
+      "dialogue_text": "Comme c'est triste !"
+    },
+    {
+      "subtitle_index": 73,
+      "start_time": 792.882,
+      "end_time": 795.967,
+      "duration": 3.0850000000000364,
+      "dialogue_text": "Sains et saufs, c'est déjà bien."
+    },
+    {
+      "subtitle_index": 74,
+      "start_time": 797.888,
+      "end_time": 799.548,
+      "duration": 1.6599999999999682,
+      "dialogue_text": "Il y a eu 2 impacts."
+    },
+    {
+      "subtitle_index": 75,
+      "start_time": 799.765,
+      "end_time": 801.509,
+      "duration": 1.7440000000000282,
+      "dialogue_text": "L'huile me tombait dessus"
+    },
+    {
+      "subtitle_index": 76,
+      "start_time": 801.726,
+      "end_time": 803.765,
+      "duration": 2.0389999999999873,
+      "dialogue_text": "et le feu a tout brûlé."
+    },
+    {
+      "subtitle_index": 77,
+      "start_time": 805.313,
+      "end_time": 806.476,
+      "duration": 1.163000000000011,
+      "dialogue_text": "C'est pas elle !"
+    },
+    {
+      "subtitle_index": 78,
+      "start_time": 806.69,
+      "end_time": 807.769,
+      "duration": 1.0789999999999509,
+      "dialogue_text": "Elle n'est pas là !"
+    },
+    {
+      "subtitle_index": 79,
+      "start_time": 811.445,
+      "end_time": 813.771,
+      "duration": 2.325999999999908,
+      "dialogue_text": "Grand frère, pipi !"
+    },
+    {
+      "subtitle_index": 80,
+      "start_time": 814.031,
+      "end_time": 815.312,
+      "duration": 1.2810000000000628,
+      "dialogue_text": "D'accord."
+    },
+    {
+      "subtitle_index": 81,
+      "start_time": 825.211,
+      "end_time": 827.749,
+      "duration": 2.538000000000011,
+      "dialogue_text": "Rassemblement !"
+    },
+    {
+      "subtitle_index": 82,
+      "start_time": 828.089,
+      "end_time": 830.581,
+      "duration": 2.491999999999962,
+      "dialogue_text": "Tous les habitants du quartier"
+    },
+    {
+      "subtitle_index": 83,
+      "start_time": 830.801,
+      "end_time": 834.17,
+      "duration": 3.3689999999999145,
+      "dialogue_text": "doivent se rassembler à l'Ecole primaire."
+    },
+    {
+      "subtitle_index": 84,
+      "start_time": 834.388,
+      "end_time": 836.132,
+      "duration": 1.7439999999999145,
+      "dialogue_text": "Ils pourront y être soignés."
+    },
+    {
+      "subtitle_index": 85,
+      "start_time": 836.349,
+      "end_time": 837.096,
+      "duration": 0.7469999999999573,
+      "dialogue_text": "Qu'y a-t-il ?"
+    },
+    {
+      "subtitle_index": 86,
+      "start_time": 837.308,
+      "end_time": 838.719,
+      "duration": 1.4110000000000582,
+      "dialogue_text": "J'ai mal aux yeux."
+    },
+    {
+      "subtitle_index": 87,
+      "start_time": 838.935,
+      "end_time": 840.394,
+      "duration": 1.45900000000006,
+      "dialogue_text": "Ne les frotte pas !"
+    },
+    {
+      "subtitle_index": 88,
+      "start_time": 842.273,
+      "end_time": 843.897,
+      "duration": 1.6240000000000236,
+      "dialogue_text": "A l'école, on te les lavera."
+    },
+    {
+      "subtitle_index": 89,
+      "start_time": 844.108,
+      "end_time": 846.516,
+      "duration": 2.4080000000000155,
+      "dialogue_text": "Où est maman ?"
+    },
+    {
+      "subtitle_index": 90,
+      "start_time": 846.736,
+      "end_time": 848.646,
+      "duration": 1.9099999999999682,
+      "dialogue_text": "- A l'école. - L'école ?"
+    },
+    {
+      "subtitle_index": 91,
+      "start_time": 848.864,
+      "end_time": 850.903,
+      "duration": 2.0389999999999873,
+      "dialogue_text": "Allons-y vite !"
+    },
+    {
+      "subtitle_index": 92,
+      "start_time": 868.303,
+      "end_time": 869.418,
+      "duration": 1.115000000000009,
+      "dialogue_text": "Seita !"
+    },
+    {
+      "subtitle_index": 93,
+      "start_time": 872.182,
+      "end_time": 874.389,
+      "duration": 2.2069999999999936,
+      "dialogue_text": "As-tu vu ta mère ?"
+    },
+    {
+      "subtitle_index": 94,
+      "start_time": 874.602,
+      "end_time": 877.175,
+      "duration": 2.572999999999979,
+      "dialogue_text": "Elle est blessée, va vite la voir."
+    },
+    {
+      "subtitle_index": 95,
+      "start_time": 878.356,
+      "end_time": 879.554,
+      "duration": 1.197999999999979,
+      "dialogue_text": "Je m'occupe d'elle."
+    },
+    {
+      "subtitle_index": 96,
+      "start_time": 880.15,
+      "end_time": 882.855,
+      "duration": 2.705000000000041,
+      "dialogue_text": "Tu as été courageuse, Setsuko ?"
+    },
+    {
+      "subtitle_index": 97,
+      "start_time": 884.697,
+      "end_time": 887.069,
+      "duration": 2.3719999999999573,
+      "dialogue_text": "Seita va revenir tout de suite."
+    },
+    {
+      "subtitle_index": 98,
+      "start_time": 895.584,
+      "end_time": 898.04,
+      "duration": 2.4560000000000173,
+      "dialogue_text": "Seita, je te cherchais."
+    },
+    {
+      "subtitle_index": 99,
+      "start_time": 898.254,
+      "end_time": 900.128,
+      "duration": 1.8740000000000236,
+      "dialogue_text": "- Ca va ? - Où est maman ?"
+    },
+    {
+      "subtitle_index": 100,
+      "start_time": 900.34,
+      "end_time": 901.087,
+      "duration": 0.7469999999999573,
+      "dialogue_text": "Par ici."
+    },
+    {
+      "subtitle_index": 101,
+      "start_time": 909.976,
+      "end_time": 911.85,
+      "duration": 1.8740000000000236,
+      "dialogue_text": "C'est à ta maman."
+    },
+    {
+      "subtitle_index": 102,
+      "start_time": 928.706,
+      "end_time": 930.248,
+      "duration": 1.54200000000003,
+      "dialogue_text": "On la fait dormir."
+    },
+    {
+      "subtitle_index": 103,
+      "start_time": 934.296,
+      "end_time": 937.5,
+      "duration": 3.203999999999951,
+      "dialogue_text": "Il faudrait l'hospitaliser..."
+    },
+    {
+      "subtitle_index": 104,
+      "start_time": 937.716,
+      "end_time": 939.092,
+      "duration": 1.3759999999999764,
+      "dialogue_text": "j'ai fait la demande."
+    },
+    {
+      "subtitle_index": 105,
+      "start_time": 940.303,
+      "end_time": 944.55,
+      "duration": 4.246999999999957,
+      "dialogue_text": "Il parait que l'Hôpital Kaisei n'a pas brûlé..."
+    },
+    {
+      "subtitle_index": 106,
+      "start_time": 945.183,
+      "end_time": 947.805,
+      "duration": 2.6219999999999573,
+      "dialogue_text": "Maman est cardiaque..."
+    },
+    {
+      "subtitle_index": 107,
+      "start_time": 948.521,
+      "end_time": 950.348,
+      "duration": 1.8269999999999982,
+      "dialogue_text": "il faut la soigner."
+    },
+    {
+      "subtitle_index": 108,
+      "start_time": 951.149,
+      "end_time": 953.106,
+      "duration": 1.9569999999999936,
+      "dialogue_text": "Je vais voir ce qu'on peut faire."
+    },
+    {
+      "subtitle_index": 109,
+      "start_time": 955.571,
+      "end_time": 957.777,
+      "duration": 2.2060000000000173,
+      "dialogue_text": "Je repasserai tout à l' heure."
+    },
+    {
+      "subtitle_index": 110,
+      "start_time": 963.329,
+      "end_time": 964.61,
+      "duration": 1.2810000000000628,
+      "dialogue_text": "Maman..."
+    },
+    {
+      "subtitle_index": 111,
+      "start_time": 986.148,
+      "end_time": 987.262,
+      "duration": 1.113999999999919,
+      "dialogue_text": "Tu l'as vue ?"
+    },
+    {
+      "subtitle_index": 112,
+      "start_time": 988.4,
+      "end_time": 990.524,
+      "duration": 2.1240000000000236,
+      "dialogue_text": "Quel malheur !"
+    },
+    {
+      "subtitle_index": 113,
+      "start_time": 990.736,
+      "end_time": 992.895,
+      "duration": 2.158999999999992,
+      "dialogue_text": "J'ai soif !"
+    },
+    {
+      "subtitle_index": 114,
+      "start_time": 997.619,
+      "end_time": 1000.027,
+      "duration": 2.4080000000000155,
+      "dialogue_text": "Dis-moi si je peux faire quelque chose..."
+    },
+    {
+      "subtitle_index": 115,
+      "start_time": 1002.792,
+      "end_time": 1005.164,
+      "duration": 2.3719999999999573,
+      "dialogue_text": "Tu as eu votre ration de biscuits ?"
+    },
+    {
+      "subtitle_index": 116,
+      "start_time": 1005.67,
+      "end_time": 1007.58,
+      "duration": 1.9100000000000819,
+      "dialogue_text": "Je vais te la chercher."
+    },
+    {
+      "subtitle_index": 117,
+      "start_time": 1018.393,
+      "end_time": 1020.552,
+      "duration": 2.158999999999992,
+      "dialogue_text": "Mets cette bague dans ta tirelire."
+    },
+    {
+      "subtitle_index": 118,
+      "start_time": 1021.105,
+      "end_time": 1022.73,
+      "duration": 1.625,
+      "dialogue_text": "Ne la perds pas !"
+    },
+    {
+      "subtitle_index": 119,
+      "start_time": 1023.483,
+      "end_time": 1027.528,
+      "duration": 4.045000000000073,
+      "dialogue_text": "Maman est un peu souffrante mais bientôt ça ira mieux."
+    },
+    {
+      "subtitle_index": 120,
+      "start_time": 1028.655,
+      "end_time": 1029.651,
+      "duration": 0.9960000000000946,
+      "dialogue_text": "Où est-elle ?"
+    },
+    {
+      "subtitle_index": 121,
+      "start_time": 1030.616,
+      "end_time": 1031.991,
+      "duration": 1.375,
+      "dialogue_text": "A l'hôpital, à Nishinomiya."
+    },
+    {
+      "subtitle_index": 122,
+      "start_time": 1036.247,
+      "end_time": 1038.62,
+      "duration": 2.37299999999982,
+      "dialogue_text": "Ce soir, on va dormir à l'école..."
+    },
+    {
+      "subtitle_index": 123,
+      "start_time": 1039.543,
+      "end_time": 1041.868,
+      "duration": 2.3250000000000455,
+      "dialogue_text": "et demain, on ira à Nishinomiya,"
+    },
+    {
+      "subtitle_index": 124,
+      "start_time": 1042.671,
+      "end_time": 1045.377,
+      "duration": 2.7059999999999036,
+      "dialogue_text": "chez notre tante, près de l'étang."
+    },
+    {
+      "subtitle_index": 125,
+      "start_time": 1047.302,
+      "end_time": 1048.084,
+      "duration": 0.7820000000001528,
+      "dialogue_text": "D'accord ?"
+    },
+    {
+      "subtitle_index": 126,
+      "start_time": 1058.982,
+      "end_time": 1062.683,
+      "duration": 3.701000000000022,
+      "dialogue_text": "Nous sommes tous réunis dans l'école, vous venez ?"
+    },
+    {
+      "subtitle_index": 127,
+      "start_time": 1066.157,
+      "end_time": 1069.242,
+      "duration": 3.0850000000000364,
+      "dialogue_text": "Merci, mais nous irons plus tard."
+    },
+    {
+      "subtitle_index": 128,
+      "start_time": 1069.661,
+      "end_time": 1072.235,
+      "duration": 2.5739999999998417,
+      "dialogue_text": "A tout à l' heure alors, Setsuko."
+    },
+    {
+      "subtitle_index": 129,
+      "start_time": 1074.625,
+      "end_time": 1075.159,
+      "duration": 0.5340000000001055,
+      "dialogue_text": "Tu en veux ?"
+    },
+    {
+      "subtitle_index": 130,
+      "start_time": 1076.419,
+      "end_time": 1079.171,
+      "duration": 2.7519999999999527,
+      "dialogue_text": "Je veux voir maman."
+    },
+    {
+      "subtitle_index": 131,
+      "start_time": 1080.549,
+      "end_time": 1083.087,
+      "duration": 2.538000000000011,
+      "dialogue_text": "Demain. Ce soir, c'est trop tard."
+    },
+    {
+      "subtitle_index": 132,
+      "start_time": 1136.155,
+      "end_time": 1138.362,
+      "duration": 2.2070000000001073,
+      "dialogue_text": "Regarde ! T'as vu le balèze ?!"
+    },
+    {
+      "subtitle_index": 133,
+      "start_time": 1163.186,
+      "end_time": 1166.141,
+      "duration": 2.9550000000001546,
+      "dialogue_text": "Laissons les bandes. Pas beau à voir..."
+    },
+    {
+      "subtitle_index": 134,
+      "start_time": 1166.356,
+      "end_time": 1167.899,
+      "duration": 1.5429999999998927,
+      "dialogue_text": "Par ce temps, un cadavre..."
+    },
+    {
+      "subtitle_index": 135,
+      "start_time": 1168.567,
+      "end_time": 1169.896,
+      "duration": 1.3289999999999509,
+      "dialogue_text": "faut vite s'en débarrasser."
+    },
+    {
+      "subtitle_index": 136,
+      "start_time": 1187.131,
+      "end_time": 1189.373,
+      "duration": 2.241999999999962,
+      "dialogue_text": "Où est ta petite sur ?"
+    },
+    {
+      "subtitle_index": 137,
+      "start_time": 1189.592,
+      "end_time": 1192.629,
+      "duration": 3.036999999999807,
+      "dialogue_text": "A Nishinomiya, chez une lointaine parente."
+    },
+    {
+      "subtitle_index": 138,
+      "start_time": 1192.971,
+      "end_time": 1195.64,
+      "duration": 2.6690000000000964,
+      "dialogue_text": "C'était prévu au cas où la maison brûlerait."
+    },
+    {
+      "subtitle_index": 139,
+      "start_time": 1195.849,
+      "end_time": 1198.138,
+      "duration": 2.2889999999999873,
+      "dialogue_text": "Ah bon ? Tant mieux !"
+    },
+    {
+      "subtitle_index": 140,
+      "start_time": 1198.352,
+      "end_time": 1202.481,
+      "duration": 4.128999999999905,
+      "dialogue_text": "Bon, j'ai à faire. Bon courage !"
+    },
+    {
+      "subtitle_index": 141,
+      "start_time": 1290.25,
+      "end_time": 1292.042,
+      "duration": 1.7919999999999163,
+      "dialogue_text": "Maman !"
+    },
+    {
+      "subtitle_index": 142,
+      "start_time": 1292.461,
+      "end_time": 1294.537,
+      "duration": 2.076000000000022,
+      "dialogue_text": "Où est maman ?"
+    },
+    {
+      "subtitle_index": 143,
+      "start_time": 1294.755,
+      "end_time": 1298.041,
+      "duration": 3.285999999999831,
+      "dialogue_text": "Elle est encore souffrante ?"
+    },
+    {
+      "subtitle_index": 144,
+      "start_time": 1298.635,
+      "end_time": 1299.631,
+      "duration": 0.9960000000000946,
+      "dialogue_text": "Blessée par les bombes..."
+    },
+    {
+      "subtitle_index": 145,
+      "start_time": 1299.844,
+      "end_time": 1301.754,
+      "duration": 1.9099999999998545,
+      "dialogue_text": "Tu es rentré ?"
+    },
+    {
+      "subtitle_index": 146,
+      "start_time": 1303.891,
+      "end_time": 1306.465,
+      "duration": 2.5739999999998417,
+      "dialogue_text": "Comment va-t-elle ? Elle est à l' hôpital ?"
+    },
+    {
+      "subtitle_index": 147,
+      "start_time": 1309.689,
+      "end_time": 1311.516,
+      "duration": 1.8269999999999982,
+      "dialogue_text": "Ceux de la Marine ont de la chance !"
+    },
+    {
+      "subtitle_index": 148,
+      "start_time": 1311.733,
+      "end_time": 1314.9,
+      "duration": 3.1670000000001437,
+      "dialogue_text": "Ils ont même des camions pour leurs sinistrés !"
+    },
+    {
+      "subtitle_index": 149,
+      "start_time": 1316.072,
+      "end_time": 1319.441,
+      "duration": 3.369000000000142,
+      "dialogue_text": "J'ai mis vos moustiquaires et la literie là-haut."
+    },
+    {
+      "subtitle_index": 150,
+      "start_time": 1319.659,
+      "end_time": 1321.118,
+      "duration": 1.4589999999998327,
+      "dialogue_text": "Merci."
+    },
+    {
+      "subtitle_index": 151,
+      "start_time": 1329.379,
+      "end_time": 1333.163,
+      "duration": 3.7840000000001055,
+      "dialogue_text": "Maman ne mettra plus sa bague ?"
+    },
+    {
+      "subtitle_index": 152,
+      "start_time": 1333.842,
+      "end_time": 1336.879,
+      "duration": 3.036999999999807,
+      "dialogue_text": "Elle me l'a donnée ?"
+    },
+    {
+      "subtitle_index": 153,
+      "start_time": 1342.018,
+      "end_time": 1344.307,
+      "duration": 2.2889999999999873,
+      "dialogue_text": "Prends-en grand soin !"
+    },
+    {
+      "subtitle_index": 154,
+      "start_time": 1351.279,
+      "end_time": 1352.655,
+      "duration": 1.3759999999999764,
+      "dialogue_text": "En fait, Maman..."
+    },
+    {
+      "subtitle_index": 155,
+      "start_time": 1354.825,
+      "end_time": 1358.491,
+      "duration": 3.66599999999994,
+      "dialogue_text": "eh bien, on ira bientôt la voir ensemble, d'accord ?"
+    },
+    {
+      "subtitle_index": 156,
+      "start_time": 1360.415,
+      "end_time": 1362.242,
+      "duration": 1.8269999999999982,
+      "dialogue_text": "Il est tard. Dodo !"
+    },
+    {
+      "subtitle_index": 157,
+      "start_time": 1476.216,
+      "end_time": 1477.247,
+      "duration": 1.0310000000001764,
+      "dialogue_text": "Des harengs..."
+    },
+    {
+      "subtitle_index": 158,
+      "start_time": 1477.467,
+      "end_time": 1480.919,
+      "duration": 3.451999999999998,
+      "dialogue_text": "et de la bonite ! Des patates séchées et des oeufs !"
+    },
+    {
+      "subtitle_index": 159,
+      "start_time": 1481.138,
+      "end_time": 1483.464,
+      "duration": 2.326000000000022,
+      "dialogue_text": "Et aussi des prunes salées !"
+    },
+    {
+      "subtitle_index": 160,
+      "start_time": 1483.724,
+      "end_time": 1486.928,
+      "duration": 3.2040000000001783,
+      "dialogue_text": "Il y a même du beurre !"
+    },
+    {
+      "subtitle_index": 161,
+      "start_time": 1489.731,
+      "end_time": 1492.104,
+      "duration": 2.3730000000000473,
+      "dialogue_text": "On dit que les temps sont durs."
+    },
+    {
+      "subtitle_index": 162,
+      "start_time": 1492.943,
+      "end_time": 1495.613,
+      "duration": 2.6700000000000728,
+      "dialogue_text": "Mais pas pour les militaires..!"
+    },
+    {
+      "subtitle_index": 163,
+      "start_time": 1496.072,
+      "end_time": 1498.859,
+      "duration": 2.7870000000000346,
+      "dialogue_text": "Au fait Seita... tu es passé à l'hôpital ?"
+    },
+    {
+      "subtitle_index": 164,
+      "start_time": 1499.91,
+      "end_time": 1502.068,
+      "duration": 2.1579999999999018,
+      "dialogue_text": "Va falloir que j'y aille aussi..."
+    },
+    {
+      "subtitle_index": 165,
+      "start_time": 1502.287,
+      "end_time": 1506.5,
+      "duration": 4.212999999999965,
+      "dialogue_text": "j'y mènerai Setsuko et discuterai de votre avenir."
+    },
+    {
+      "subtitle_index": 166,
+      "start_time": 1508.837,
+      "end_time": 1509.619,
+      "duration": 0.7819999999999254,
+      "dialogue_text": "Elle allait mal ?"
+    },
+    {
+      "subtitle_index": 167,
+      "start_time": 1510.714,
+      "end_time": 1513.549,
+      "duration": 2.8350000000000364,
+      "dialogue_text": "Maman est morte à l'école. Avant-hier."
+    },
+    {
+      "subtitle_index": 168,
+      "start_time": 1513.759,
+      "end_time": 1515.752,
+      "duration": 1.9929999999999382,
+      "dialogue_text": "Quoi ? Elle est morte ?"
+    },
+    {
+      "subtitle_index": 169,
+      "start_time": 1518.473,
+      "end_time": 1521.26,
+      "duration": 2.7870000000000346,
+      "dialogue_text": "Pourquoi ne me l'as-tu pas dit aussitôt ?"
+    },
+    {
+      "subtitle_index": 170,
+      "start_time": 1522.227,
+      "end_time": 1524.386,
+      "duration": 2.158999999999878,
+      "dialogue_text": "Quel cur de pierre !"
+    },
+    {
+      "subtitle_index": 171,
+      "start_time": 1524.605,
+      "end_time": 1527.013,
+      "duration": 2.4079999999999018,
+      "dialogue_text": "Setsuko ne devait pas le savoir."
+    },
+    {
+      "subtitle_index": 172,
+      "start_time": 1528.484,
+      "end_time": 1530.643,
+      "duration": 2.1590000000001055,
+      "dialogue_text": "Elle est morte..."
+    },
+    {
+      "subtitle_index": 173,
+      "start_time": 1531.53,
+      "end_time": 1533.19,
+      "duration": 1.6600000000000819,
+      "dialogue_text": "C'est terrible !"
+    },
+    {
+      "subtitle_index": 174,
+      "start_time": 1534.033,
+      "end_time": 1536.82,
+      "duration": 2.7870000000000346,
+      "dialogue_text": "Il faut vite écrire à ton père..."
+    },
+    {
+      "subtitle_index": 175,
+      "start_time": 1542.793,
+      "end_time": 1544.536,
+      "duration": 1.7430000000001655,
+      "dialogue_text": "Seita !"
+    },
+    {
+      "subtitle_index": 176,
+      "start_time": 1544.795,
+      "end_time": 1547.999,
+      "duration": 3.203999999999951,
+      "dialogue_text": "La cousine m'a acheté des sandales !"
+    },
+    {
+      "subtitle_index": 177,
+      "start_time": 1550.051,
+      "end_time": 1551.38,
+      "duration": 1.3290000000001783,
+      "dialogue_text": "Tu en as de la chance !"
+    },
+    {
+      "subtitle_index": 178,
+      "start_time": 1551.595,
+      "end_time": 1553.338,
+      "duration": 1.7429999999999382,
+      "dialogue_text": "Bonsoir !"
+    },
+    {
+      "subtitle_index": 179,
+      "start_time": 1572.118,
+      "end_time": 1574.028,
+      "duration": 1.9100000000000819,
+      "dialogue_text": "Bon courage."
+    },
+    {
+      "subtitle_index": 180,
+      "start_time": 1574.246,
+      "end_time": 1575.621,
+      "duration": 1.375,
+      "dialogue_text": "Merci beaucoup."
+    },
+    {
+      "subtitle_index": 181,
+      "start_time": 1579.21,
+      "end_time": 1581.666,
+      "duration": 2.4559999999999036,
+      "dialogue_text": "C'est quoi, ce bruit ?"
+    },
+    {
+      "subtitle_index": 182,
+      "start_time": 1581.88,
+      "end_time": 1585.38,
+      "duration": 3.5,
+      "dialogue_text": "Un crapaud-buffle. C'est pas méchant !"
+    },
+    {
+      "subtitle_index": 183,
+      "start_time": 1585.592,
+      "end_time": 1586.506,
+      "duration": 0.9139999999999873,
+      "dialogue_text": "Des lucioles !"
+    },
+    {
+      "subtitle_index": 184,
+      "start_time": 1594.978,
+      "end_time": 1596.01,
+      "duration": 1.0319999999999254,
+      "dialogue_text": "Attrape-la !"
+    },
+    {
+      "subtitle_index": 185,
+      "start_time": 1602.278,
+      "end_time": 1604.022,
+      "duration": 1.7439999999999145,
+      "dialogue_text": "Tu l'as écrasée."
+    },
+    {
+      "subtitle_index": 186,
+      "start_time": 1604.447,
+      "end_time": 1606.737,
+      "duration": 2.290000000000191,
+      "dialogue_text": "Quelle drôle d'odeur !"
+    },
+    {
+      "subtitle_index": 187,
+      "start_time": 1607.159,
+      "end_time": 1608.986,
+      "duration": 1.8269999999999982,
+      "dialogue_text": "Tu as serré trop fort."
+    },
+    {
+      "subtitle_index": 188,
+      "start_time": 1637.319,
+      "end_time": 1640.071,
+      "duration": 2.7519999999999527,
+      "dialogue_text": "Qu'est-ce qu' il y en a !"
+    },
+    {
+      "subtitle_index": 189,
+      "start_time": 1653.254,
+      "end_time": 1655.959,
+      "duration": 2.7050000000001546,
+      "dialogue_text": "Setsuko, ferme les yeux et dis : ah..."
+    },
+    {
+      "subtitle_index": 190,
+      "start_time": 1656.174,
+      "end_time": 1657.55,
+      "duration": 1.3759999999999764,
+      "dialogue_text": "Pourquoi ?"
+    },
+    {
+      "subtitle_index": 191,
+      "start_time": 1657.759,
+      "end_time": 1659.337,
+      "duration": 1.5779999999999745,
+      "dialogue_text": "T' inquiète pas ! Ah..."
+    },
+    {
+      "subtitle_index": 192,
+      "start_time": 1671.483,
+      "end_time": 1673.358,
+      "duration": 1.875,
+      "dialogue_text": "Un bonbon !"
+    },
+    {
+      "subtitle_index": 193,
+      "start_time": 1688.378,
+      "end_time": 1691.048,
+      "duration": 2.6700000000000728,
+      "dialogue_text": "J'ai failli l'avaler !"
+    },
+    {
+      "subtitle_index": 194,
+      "start_time": 1707.901,
+      "end_time": 1710.107,
+      "duration": 2.2059999999999036,
+      "dialogue_text": "- Bonsoir... - Où étiez-vous passés ?"
+    },
+    {
+      "subtitle_index": 195,
+      "start_time": 1713.699,
+      "end_time": 1716.535,
+      "duration": 2.8360000000000127,
+      "dialogue_text": "Vous avez bien remercié la dame ?"
+    },
+    {
+      "subtitle_index": 196,
+      "start_time": 1719.831,
+      "end_time": 1721.658,
+      "duration": 1.8269999999999982,
+      "dialogue_text": "Ca a l'air bon !"
+    },
+    {
+      "subtitle_index": 197,
+      "start_time": 1751.535,
+      "end_time": 1755.2,
+      "duration": 3.6649999999999636,
+      "dialogue_text": "Seita, tu ne vas plus en classe ? C'est normal, ça ?"
+    },
+    {
+      "subtitle_index": 198,
+      "start_time": 1756.707,
+      "end_time": 1760.291,
+      "duration": 3.5839999999998327,
+      "dialogue_text": "L'aciérie où j'étais mobilisé a été bombardée,"
+    },
+    {
+      "subtitle_index": 199,
+      "start_time": 1760.503,
+      "end_time": 1763.421,
+      "duration": 2.91800000000012,
+      "dialogue_text": "I'école a brûlé... nulle part où aller."
+    },
+    {
+      "subtitle_index": 200,
+      "start_time": 1765.634,
+      "end_time": 1767.177,
+      "duration": 1.5429999999998927,
+      "dialogue_text": "Tu as bien écrit à ton père ?"
+    },
+    {
+      "subtitle_index": 201,
+      "start_time": 1768.179,
+      "end_time": 1770.088,
+      "duration": 1.9089999999998781,
+      "dialogue_text": "Oui. A la Base navale de Kure."
+    },
+    {
+      "subtitle_index": 202,
+      "start_time": 1770.306,
+      "end_time": 1770.923,
+      "duration": 0.6169999999999618,
+      "dialogue_text": "Quand ça ?"
+    },
+    {
+      "subtitle_index": 203,
+      "start_time": 1771.975,
+      "end_time": 1774.645,
+      "duration": 2.6700000000000728,
+      "dialogue_text": "Ca fait déjà plus de 10 jours."
+    },
+    {
+      "subtitle_index": 204,
+      "start_time": 1776.355,
+      "end_time": 1778.312,
+      "duration": 1.95699999999988,
+      "dialogue_text": "C'est bizarre..."
+    },
+    {
+      "subtitle_index": 205,
+      "start_time": 1779.025,
+      "end_time": 1781.73,
+      "duration": 2.7049999999999272,
+      "dialogue_text": "Moi non plus, je n'ai rien reçu."
+    },
+    {
+      "subtitle_index": 206,
+      "start_time": 1783.238,
+      "end_time": 1786.442,
+      "duration": 3.203999999999951,
+      "dialogue_text": "Tu me rendras bien mes ciseaux, Setsuko !"
+    },
+    {
+      "subtitle_index": 207,
+      "start_time": 1794.793,
+      "end_time": 1796.869,
+      "duration": 2.076000000000022,
+      "dialogue_text": "Où en est l'effort de guerre ?"
+    },
+    {
+      "subtitle_index": 208,
+      "start_time": 1797.087,
+      "end_time": 1799.376,
+      "duration": 2.2889999999999873,
+      "dialogue_text": "Ca va de plus en plus mal."
+    },
+    {
+      "subtitle_index": 209,
+      "start_time": 1800.55,
+      "end_time": 1803.884,
+      "duration": 3.33400000000006,
+      "dialogue_text": "La production ne suffit pas avec tous ces bombardements."
+    },
+    {
+      "subtitle_index": 210,
+      "start_time": 1804.513,
+      "end_time": 1807.384,
+      "duration": 2.8710000000000946,
+      "dialogue_text": "On prévoit la guerre en métropole."
+    },
+    {
+      "subtitle_index": 211,
+      "start_time": 1809.018,
+      "end_time": 1813.681,
+      "duration": 4.663000000000011,
+      "dialogue_text": "C'est vrai. Le rationnement va de mal en pire..."
+    },
+    {
+      "subtitle_index": 212,
+      "start_time": 1815.108,
+      "end_time": 1818.275,
+      "duration": 3.1670000000001437,
+      "dialogue_text": "Nos soldats au front ne sont pas seuls à souffrir."
+    },
+    {
+      "subtitle_index": 213,
+      "start_time": 1820.823,
+      "end_time": 1823.86,
+      "duration": 3.036999999999807,
+      "dialogue_text": "Toi aussi, tu travailles dur pour la patrie."
+    },
+    {
+      "subtitle_index": 214,
+      "start_time": 1824.369,
+      "end_time": 1827.573,
+      "duration": 3.2040000000001783,
+      "dialogue_text": "Mange bien pour tenir bon."
+    },
+    {
+      "subtitle_index": 215,
+      "start_time": 1835.59,
+      "end_time": 1836.622,
+      "duration": 1.0320000000001528,
+      "dialogue_text": "Encore !"
+    },
+    {
+      "subtitle_index": 216,
+      "start_time": 1837.217,
+      "end_time": 1841.085,
+      "duration": 3.867999999999938,
+      "dialogue_text": "Ca doit être dur avec ces deux sinistrés chez vous..."
+    },
+    {
+      "subtitle_index": 217,
+      "start_time": 1841.43,
+      "end_time": 1845.643,
+      "duration": 4.212999999999965,
+      "dialogue_text": "ils sont si jeunes, les pauvres !"
+    },
+    {
+      "subtitle_index": 218,
+      "start_time": 1846.52,
+      "end_time": 1848.228,
+      "duration": 1.7080000000000837,
+      "dialogue_text": "Encore tes boutons de chaleur ?"
+    },
+    {
+      "subtitle_index": 219,
+      "start_time": 1848.439,
+      "end_time": 1851.642,
+      "duration": 3.2029999999999745,
+      "dialogue_text": "J'ai trop chaud ! J'aime pas les abris !"
+    },
+    {
+      "subtitle_index": 220,
+      "start_time": 1851.859,
+      "end_time": 1855.478,
+      "duration": 3.619000000000142,
+      "dialogue_text": "Patience ! Je suis là, n'aie pas peur !"
+    },
+    {
+      "subtitle_index": 221,
+      "start_time": 1866.334,
+      "end_time": 1867.912,
+      "duration": 1.5779999999999745,
+      "dialogue_text": "Si on allait à la mer ?"
+    },
+    {
+      "subtitle_index": 222,
+      "start_time": 1868.295,
+      "end_time": 1870.537,
+      "duration": 2.241999999999962,
+      "dialogue_text": "Oui, oui, à la mer !"
+    },
+    {
+      "subtitle_index": 223,
+      "start_time": 1885.565,
+      "end_time": 1888.685,
+      "duration": 3.119999999999891,
+      "dialogue_text": "Il ne reste plus rien !"
+    },
+    {
+      "subtitle_index": 224,
+      "start_time": 1946.969,
+      "end_time": 1949.176,
+      "duration": 2.20699999999988,
+      "dialogue_text": "Que font-ils ?"
+    },
+    {
+      "subtitle_index": 225,
+      "start_time": 1949.389,
+      "end_time": 1950.42,
+      "duration": 1.0310000000001764,
+      "dialogue_text": "La récolte du sel."
+    },
+    {
+      "subtitle_index": 226,
+      "start_time": 1951.141,
+      "end_time": 1954.308,
+      "duration": 3.1669999999999163,
+      "dialogue_text": "Les rations de sel ne suffisent plus."
+    },
+    {
+      "subtitle_index": 227,
+      "start_time": 1955.229,
+      "end_time": 1957.602,
+      "duration": 2.3730000000000473,
+      "dialogue_text": "Vite ! Déshabille-toi !"
+    },
+    {
+      "subtitle_index": 228,
+      "start_time": 1986.557,
+      "end_time": 1988.265,
+      "duration": 1.7080000000000837,
+      "dialogue_text": "C'est peut-être trop froid ?"
+    },
+    {
+      "subtitle_index": 229,
+      "start_time": 1988.476,
+      "end_time": 1990.054,
+      "duration": 1.5779999999999745,
+      "dialogue_text": "C'est glacé !"
+    },
+    {
+      "subtitle_index": 230,
+      "start_time": 1992.188,
+      "end_time": 1994.68,
+      "duration": 2.491999999999962,
+      "dialogue_text": "C'est bon pour tes boutons."
+    },
+    {
+      "subtitle_index": 231,
+      "start_time": 2003.118,
+      "end_time": 2005.574,
+      "duration": 2.456000000000131,
+      "dialogue_text": "Quelle grande baignoire !"
+    },
+    {
+      "subtitle_index": 232,
+      "start_time": 2012.504,
+      "end_time": 2014.331,
+      "duration": 1.8269999999999982,
+      "dialogue_text": "Attends !"
+    },
+    {
+      "subtitle_index": 233,
+      "start_time": 2019.72,
+      "end_time": 2022.591,
+      "duration": 2.870999999999867,
+      "dialogue_text": "Je suis un ours, je vais te manger !"
+    },
+    {
+      "subtitle_index": 234,
+      "start_time": 2046.251,
+      "end_time": 2049.371,
+      "duration": 3.1200000000001182,
+      "dialogue_text": "Clic clac, clic clac, clic clac cloc !"
+    },
+    {
+      "subtitle_index": 235,
+      "start_time": 2053.927,
+      "end_time": 2057.213,
+      "duration": 3.286000000000058,
+      "dialogue_text": "Qu'est-ce qu' il fait ? Il dort ?"
+    },
+    {
+      "subtitle_index": 236,
+      "start_time": 2065.815,
+      "end_time": 2067.725,
+      "duration": 1.9099999999998545,
+      "dialogue_text": "Ne regarde pas !"
+    },
+    {
+      "subtitle_index": 237,
+      "start_time": 2070.696,
+      "end_time": 2073.863,
+      "duration": 3.1669999999999163,
+      "dialogue_text": "Cet été, je t'apprendrai à nager."
+    },
+    {
+      "subtitle_index": 238,
+      "start_time": 2076.077,
+      "end_time": 2078.829,
+      "duration": 2.7519999999999527,
+      "dialogue_text": "Si on nage, on aura faim."
+    },
+    {
+      "subtitle_index": 239,
+      "start_time": 2083.336,
+      "end_time": 2086.29,
+      "duration": 2.9540000000001783,
+      "dialogue_text": "Si on nage, on aura faim."
+    },
+    {
+      "subtitle_index": 240,
+      "start_time": 2093.973,
+      "end_time": 2095.633,
+      "duration": 1.6599999999998545,
+      "dialogue_text": "Seita.!"
+    },
+    {
+      "subtitle_index": 241,
+      "start_time": 2095.85,
+      "end_time": 2097.558,
+      "duration": 1.7080000000000837,
+      "dialogue_text": "Setsuko !"
+    },
+    {
+      "subtitle_index": 242,
+      "start_time": 2098.019,
+      "end_time": 2099.265,
+      "duration": 1.2460000000000946,
+      "dialogue_text": "Revenez!"
+    },
+    {
+      "subtitle_index": 243,
+      "start_time": 2105.069,
+      "end_time": 2107.525,
+      "duration": 2.456000000000131,
+      "dialogue_text": "Vous devez avoir faim... et soif !"
+    },
+    {
+      "subtitle_index": 244,
+      "start_time": 2108.782,
+      "end_time": 2111.154,
+      "duration": 2.3719999999998436,
+      "dialogue_text": "Venez vite !"
+    },
+    {
+      "subtitle_index": 245,
+      "start_time": 2141.278,
+      "end_time": 2144.232,
+      "duration": 2.9540000000001783,
+      "dialogue_text": "Tu m'attendais, maman ?"
+    },
+    {
+      "subtitle_index": 246,
+      "start_time": 2144.991,
+      "end_time": 2146.485,
+      "duration": 1.4940000000001419,
+      "dialogue_text": "Merci d'être venue !"
+    },
+    {
+      "subtitle_index": 247,
+      "start_time": 2147.118,
+      "end_time": 2149.277,
+      "duration": 2.1590000000001055,
+      "dialogue_text": "Dis-moi... tu vas bien ?"
+    },
+    {
+      "subtitle_index": 248,
+      "start_time": 2149.496,
+      "end_time": 2150.871,
+      "duration": 1.375,
+      "dialogue_text": "Très bien..."
+    },
+    {
+      "subtitle_index": 249,
+      "start_time": 2152.875,
+      "end_time": 2154.618,
+      "duration": 1.7429999999999382,
+      "dialogue_text": "J'ai faim."
+    },
+    {
+      "subtitle_index": 250,
+      "start_time": 2156.796,
+      "end_time": 2159.122,
+      "duration": 2.326000000000022,
+      "dialogue_text": "Viens ! Faut courir à l'abri."
+    },
+    {
+      "subtitle_index": 251,
+      "start_time": 2160.091,
+      "end_time": 2163.295,
+      "duration": 3.2040000000001783,
+      "dialogue_text": "J'suis fatiguée. Porte-moi."
+    },
+    {
+      "subtitle_index": 252,
+      "start_time": 2165.514,
+      "end_time": 2167.306,
+      "duration": 1.7919999999999163,
+      "dialogue_text": "Aux abris !"
+    },
+    {
+      "subtitle_index": 253,
+      "start_time": 2178.196,
+      "end_time": 2181.814,
+      "duration": 3.617999999999938,
+      "dialogue_text": "Les kimono de ta mère... ils ne serviront plus."
+    },
+    {
+      "subtitle_index": 254,
+      "start_time": 2182.367,
+      "end_time": 2184.49,
+      "duration": 2.1229999999995925,
+      "dialogue_text": "Echange-les pour du riz..."
+    },
+    {
+      "subtitle_index": 255,
+      "start_time": 2184.703,
+      "end_time": 2189.911,
+      "duration": 5.208000000000084,
+      "dialogue_text": "Moi-même, ça fait longtemps que j'ai fait pareil pour les miens."
+    },
+    {
+      "subtitle_index": 256,
+      "start_time": 2190.627,
+      "end_time": 2192.75,
+      "duration": 2.1230000000000473,
+      "dialogue_text": "Tu en tireras bien 2 boisseaux."
+    },
+    {
+      "subtitle_index": 257,
+      "start_time": 2193.547,
+      "end_time": 2194.46,
+      "duration": 0.9130000000000109,
+      "dialogue_text": "2 boisseaux !"
+    },
+    {
+      "subtitle_index": 258,
+      "start_time": 2195.299,
+      "end_time": 2197.506,
+      "duration": 2.20699999999988,
+      "dialogue_text": "Tu dois prendre des forces !"
+    },
+    {
+      "subtitle_index": 259,
+      "start_time": 2197.718,
+      "end_time": 2199.96,
+      "duration": 2.242000000000189,
+      "dialogue_text": "Tu seras bientôt soldat, non ?"
+    },
+    {
+      "subtitle_index": 260,
+      "start_time": 2200.638,
+      "end_time": 2202.465,
+      "duration": 1.8270000000002256,
+      "dialogue_text": "Ca fera tant que ça !"
+    },
+    {
+      "subtitle_index": 261,
+      "start_time": 2202.682,
+      "end_time": 2204.26,
+      "duration": 1.5780000000004293,
+      "dialogue_text": "Ta maman préférerait sûrement cette solution."
+    },
+    {
+      "subtitle_index": 262,
+      "start_time": 2204.351,
+      "end_time": 2206.558,
+      "duration": 2.20699999999988,
+      "dialogue_text": "Ta maman préférerait Sûrement cette solution"
+    },
+    {
+      "subtitle_index": 263,
+      "start_time": 2206.77,
+      "end_time": 2208.847,
+      "duration": 2.0770000000002256,
+      "dialogue_text": "Je m'en occupe tout de suite."
+    },
+    {
+      "subtitle_index": 264,
+      "start_time": 2209.899,
+      "end_time": 2210.599,
+      "duration": 0.7000000000002728,
+      "dialogue_text": "J'veux pas !"
+    },
+    {
+      "subtitle_index": 265,
+      "start_time": 2211.568,
+      "end_time": 2213.228,
+      "duration": 1.6599999999998545,
+      "dialogue_text": "Tu ne dormais pas ?"
+    },
+    {
+      "subtitle_index": 266,
+      "start_time": 2213.862,
+      "end_time": 2215.985,
+      "duration": 2.1230000000000473,
+      "dialogue_text": "Ils sont à maman ! Faut pas !"
+    },
+    {
+      "subtitle_index": 267,
+      "start_time": 2219.744,
+      "end_time": 2223.41,
+      "duration": 3.6659999999997126,
+      "dialogue_text": "- Ils sont à maman ! - Lâche-les !"
+    },
+    {
+      "subtitle_index": 268,
+      "start_time": 2271.387,
+      "end_time": 2273.261,
+      "duration": 1.8739999999997963,
+      "dialogue_text": "Quel beau riz blanc !"
+    },
+    {
+      "subtitle_index": 269,
+      "start_time": 2274.641,
+      "end_time": 2277.975,
+      "duration": 3.3339999999998327,
+      "dialogue_text": "On va se régaler ce soir !"
+    },
+    {
+      "subtitle_index": 270,
+      "start_time": 2281.148,
+      "end_time": 2283.936,
+      "duration": 2.788000000000011,
+      "dialogue_text": "Tiens, c'est pour toi."
+    },
+    {
+      "subtitle_index": 271,
+      "start_time": 2291.369,
+      "end_time": 2293.694,
+      "duration": 2.324999999999818,
+      "dialogue_text": "Tu te rends compte, du riz blanc !"
+    },
+    {
+      "subtitle_index": 272,
+      "start_time": 2307.679,
+      "end_time": 2309.802,
+      "duration": 2.1230000000000473,
+      "dialogue_text": "Dommage qu' ils rentrent trop tard"
+    },
+    {
+      "subtitle_index": 273,
+      "start_time": 2310.015,
+      "end_time": 2313.716,
+      "duration": 3.701000000000022,
+      "dialogue_text": "pour manger chaud ce bon riz blanc !"
+    },
+    {
+      "subtitle_index": 274,
+      "start_time": 2315.146,
+      "end_time": 2318.017,
+      "duration": 2.87099999999964,
+      "dialogue_text": "C'est rudement bon, le riz blanc !"
+    },
+    {
+      "subtitle_index": 275,
+      "start_time": 2321.487,
+      "end_time": 2322.233,
+      "duration": 0.7460000000000946,
+      "dialogue_text": "Encore un bol !"
+    },
+    {
+      "subtitle_index": 276,
+      "start_time": 2323.072,
+      "end_time": 2324.78,
+      "duration": 1.7080000000000837,
+      "dialogue_text": "D'accord."
+    },
+    {
+      "subtitle_index": 277,
+      "start_time": 2328.203,
+      "end_time": 2330.873,
+      "duration": 2.6700000000000728,
+      "dialogue_text": "Tu aimes ça, le riz blanc !"
+    },
+    {
+      "subtitle_index": 278,
+      "start_time": 2331.081,
+      "end_time": 2332.706,
+      "duration": 1.625,
+      "dialogue_text": "C'est trop bon !"
+    },
+    {
+      "subtitle_index": 279,
+      "start_time": 2338.381,
+      "end_time": 2339.792,
+      "duration": 1.4110000000000582,
+      "dialogue_text": "Qu'y a-t-il ?"
+    },
+    {
+      "subtitle_index": 280,
+      "start_time": 2340.008,
+      "end_time": 2342.547,
+      "duration": 2.5390000000002146,
+      "dialogue_text": "J'aime pas la bouillie."
+    },
+    {
+      "subtitle_index": 281,
+      "start_time": 2343.345,
+      "end_time": 2345.504,
+      "duration": 2.1590000000001055,
+      "dialogue_text": "On n'a plus de prunes séchées ?"
+    },
+    {
+      "subtitle_index": 282,
+      "start_time": 2346.516,
+      "end_time": 2348.758,
+      "duration": 2.2419999999997344,
+      "dialogue_text": "Tout mangé depuis longtemps."
+    },
+    {
+      "subtitle_index": 283,
+      "start_time": 2349.895,
+      "end_time": 2351.27,
+      "duration": 1.375,
+      "dialogue_text": "Votre casse-croûte."
+    },
+    {
+      "subtitle_index": 284,
+      "start_time": 2351.48,
+      "end_time": 2352.595,
+      "duration": 1.1149999999997817,
+      "dialogue_text": "Je vous remercie."
+    },
+    {
+      "subtitle_index": 285,
+      "start_time": 2352.815,
+      "end_time": 2354.309,
+      "duration": 1.4940000000001419,
+      "dialogue_text": "Bon courage."
+    },
+    {
+      "subtitle_index": 286,
+      "start_time": 2357.07,
+      "end_time": 2358.897,
+      "duration": 1.8269999999997708,
+      "dialogue_text": "- J'y vais. - Bonne journée."
+    },
+    {
+      "subtitle_index": 287,
+      "start_time": 2359.114,
+      "end_time": 2362.566,
+      "duration": 3.451999999999771,
+      "dialogue_text": "Avale cette bouillie, à midi tu auras du riz."
+    },
+    {
+      "subtitle_index": 288,
+      "start_time": 2362.785,
+      "end_time": 2364.03,
+      "duration": 1.2450000000003456,
+      "dialogue_text": "Pas question !"
+    },
+    {
+      "subtitle_index": 289,
+      "start_time": 2364.245,
+      "end_time": 2366.534,
+      "duration": 2.2890000000002146,
+      "dialogue_text": "Vous deux, vous aurez de la bouillie."
+    },
+    {
+      "subtitle_index": 290,
+      "start_time": 2367.54,
+      "end_time": 2369.663,
+      "duration": 2.1230000000000473,
+      "dialogue_text": "Les autres travaillent pour la patrie."
+    },
+    {
+      "subtitle_index": 291,
+      "start_time": 2369.876,
+      "end_time": 2371.584,
+      "duration": 1.707999999999629,
+      "dialogue_text": "Vous traînez toute la journée."
+    },
+    {
+      "subtitle_index": 292,
+      "start_time": 2371.795,
+      "end_time": 2374.121,
+      "duration": 2.326000000000022,
+      "dialogue_text": "Faut pas confondre !"
+    },
+    {
+      "subtitle_index": 293,
+      "start_time": 2376.133,
+      "end_time": 2377.544,
+      "duration": 1.4110000000000582,
+      "dialogue_text": "Tu es assez grand"
+    },
+    {
+      "subtitle_index": 294,
+      "start_time": 2377.76,
+      "end_time": 2381.711,
+      "duration": 3.950999999999567,
+      "dialogue_text": "pour savoir que tout le monde doit coopérer."
+    },
+    {
+      "subtitle_index": 295,
+      "start_time": 2382.099,
+      "end_time": 2383.89,
+      "duration": 1.7909999999997126,
+      "dialogue_text": "Tu voudrais manger du riz"
+    },
+    {
+      "subtitle_index": 296,
+      "start_time": 2384.101,
+      "end_time": 2388.016,
+      "duration": 3.9149999999999636,
+      "dialogue_text": "alors que tu ne fais rien pour le mériter. Pas question !"
+    },
+    {
+      "subtitle_index": 297,
+      "start_time": 2397.992,
+      "end_time": 2400.993,
+      "duration": 3.000999999999749,
+      "dialogue_text": "Je vous donne du riz par bonté"
+    },
+    {
+      "subtitle_index": 298,
+      "start_time": 2401.204,
+      "end_time": 2402.747,
+      "duration": 1.5429999999996653,
+      "dialogue_text": "et ça devient votre dû !"
+    },
+    {
+      "subtitle_index": 299,
+      "start_time": 2402.956,
+      "end_time": 2405.115,
+      "duration": 2.1589999999996508,
+      "dialogue_text": "Mais c'est à nous, ce riz..."
+    },
+    {
+      "subtitle_index": 300,
+      "start_time": 2405.668,
+      "end_time": 2408.835,
+      "duration": 3.1669999999999163,
+      "dialogue_text": "Quoi ! Je serais une voleuse, moi ?"
+    },
+    {
+      "subtitle_index": 301,
+      "start_time": 2409.047,
+      "end_time": 2411.17,
+      "duration": 2.1230000000000473,
+      "dialogue_text": "Quel culot !"
+    },
+    {
+      "subtitle_index": 302,
+      "start_time": 2411.383,
+      "end_time": 2414.799,
+      "duration": 3.4160000000001673,
+      "dialogue_text": "Alors que je recueille chez moi deux pauvres orphelins !"
+    },
+    {
+      "subtitle_index": 303,
+      "start_time": 2415.846,
+      "end_time": 2416.877,
+      "duration": 1.030999999999949,
+      "dialogue_text": "Très bien !"
+    },
+    {
+      "subtitle_index": 304,
+      "start_time": 2417.098,
+      "end_time": 2419.767,
+      "duration": 2.668999999999869,
+      "dialogue_text": "Nous allons faire cuisine à part."
+    },
+    {
+      "subtitle_index": 305,
+      "start_time": 2420.101,
+      "end_time": 2422.059,
+      "duration": 1.9580000000000837,
+      "dialogue_text": "Il n'y aura plus d'embrouille."
+    },
+    {
+      "subtitle_index": 306,
+      "start_time": 2422.27,
+      "end_time": 2423.468,
+      "duration": 1.1979999999998654,
+      "dialogue_text": "Au fait, Seita..."
+    },
+    {
+      "subtitle_index": 307,
+      "start_time": 2423.689,
+      "end_time": 2426.394,
+      "duration": 2.7049999999999272,
+      "dialogue_text": "vous avez bien de la famille à Tokyo ?"
+    },
+    {
+      "subtitle_index": 308,
+      "start_time": 2426.942,
+      "end_time": 2429.612,
+      "duration": 2.6700000000000728,
+      "dialogue_text": "Du côté de ta mère..."
+    },
+    {
+      "subtitle_index": 309,
+      "start_time": 2429.821,
+      "end_time": 2430.983,
+      "duration": 1.162000000000262,
+      "dialogue_text": "Si tu leur écrivais..?"
+    },
+    {
+      "subtitle_index": 310,
+      "start_time": 2431.99,
+      "end_time": 2435.406,
+      "duration": 3.4160000000001673,
+      "dialogue_text": "Ici, on peut être bombardés à tout moment..."
+    },
+    {
+      "subtitle_index": 311,
+      "start_time": 2435.619,
+      "end_time": 2437.742,
+      "duration": 2.1230000000000473,
+      "dialogue_text": "Je ne connais pas leur adresse."
+    },
+    {
+      "subtitle_index": 312,
+      "start_time": 2446.757,
+      "end_time": 2448.086,
+      "duration": 1.3289999999997235,
+      "dialogue_text": "Rentrons vite."
+    },
+    {
+      "subtitle_index": 313,
+      "start_time": 2448.3,
+      "end_time": 2451.468,
+      "duration": 3.1679999999996653,
+      "dialogue_text": "Papa nous attend à la maison."
+    },
+    {
+      "subtitle_index": 314,
+      "start_time": 2451.846,
+      "end_time": 2453.389,
+      "duration": 1.54300000000012,
+      "dialogue_text": "La grenouille croasse."
+    },
+    {
+      "subtitle_index": 315,
+      "start_time": 2453.598,
+      "end_time": 2457.05,
+      "duration": 3.4520000000002256,
+      "dialogue_text": "Rentrons vite à la maison !"
+    },
+    {
+      "subtitle_index": 316,
+      "start_time": 2459.605,
+      "end_time": 2462.143,
+      "duration": 2.538000000000011,
+      "dialogue_text": "Pardonne-moi. On m'a fait attendre !"
+    },
+    {
+      "subtitle_index": 317,
+      "start_time": 2466.864,
+      "end_time": 2468.192,
+      "duration": 1.3279999999999745,
+      "dialogue_text": "Qu'y a-t-il ?"
+    },
+    {
+      "subtitle_index": 318,
+      "start_time": 2468.407,
+      "end_time": 2471.574,
+      "duration": 3.1669999999999163,
+      "dialogue_text": "J'ai faim. Et soif aussi."
+    },
+    {
+      "subtitle_index": 319,
+      "start_time": 2471.786,
+      "end_time": 2473.031,
+      "duration": 1.2449999999998909,
+      "dialogue_text": "Voyons..."
+    },
+    {
+      "subtitle_index": 320,
+      "start_time": 2477.876,
+      "end_time": 2479.501,
+      "duration": 1.625,
+      "dialogue_text": "Suce un bonbon."
+    },
+    {
+      "subtitle_index": 321,
+      "start_time": 2480.838,
+      "end_time": 2483.923,
+      "duration": 3.0849999999995816,
+      "dialogue_text": "Il y a 7000 yen sur le compte de maman."
+    },
+    {
+      "subtitle_index": 322,
+      "start_time": 2484.759,
+      "end_time": 2489.92,
+      "duration": 5.161000000000058,
+      "dialogue_text": "Tu te rends compte ! Avec 7000 yen, on peut faire tout ce qu'on veut!"
+    },
+    {
+      "subtitle_index": 323,
+      "start_time": 2492.518,
+      "end_time": 2494.974,
+      "duration": 2.456000000000131,
+      "dialogue_text": "J'ai écrit à Papa de répondre vite."
+    },
+    {
+      "subtitle_index": 324,
+      "start_time": 2495.188,
+      "end_time": 2497.561,
+      "duration": 2.3730000000000473,
+      "dialogue_text": "Parce que tu l'attends."
+    },
+    {
+      "subtitle_index": 325,
+      "start_time": 2507.828,
+      "end_time": 2509.737,
+      "duration": 1.9090000000001055,
+      "dialogue_text": "Vous avez de la chance !"
+    },
+    {
+      "subtitle_index": 326,
+      "start_time": 2510.414,
+      "end_time": 2514.033,
+      "duration": 3.618999999999687,
+      "dialogue_text": "Ces temps-ci, un réchaud, c'est introuvable !"
+    },
+    {
+      "subtitle_index": 327,
+      "start_time": 2515.253,
+      "end_time": 2518.42,
+      "duration": 3.1669999999999163,
+      "dialogue_text": "On ne trouve plus rien à vendre..."
+    },
+    {
+      "subtitle_index": 328,
+      "start_time": 2518.632,
+      "end_time": 2521.302,
+      "duration": 2.6700000000000728,
+      "dialogue_text": "surtout en quincaillerie."
+    },
+    {
+      "subtitle_index": 329,
+      "start_time": 2523.596,
+      "end_time": 2525.055,
+      "duration": 1.4589999999998327,
+      "dialogue_text": "Ce peigne aussi..."
+    },
+    {
+      "subtitle_index": 330,
+      "start_time": 2525.265,
+      "end_time": 2527.222,
+      "duration": 1.9570000000003347,
+      "dialogue_text": "et... un parapluie."
+    },
+    {
+      "subtitle_index": 331,
+      "start_time": 2528.101,
+      "end_time": 2531.019,
+      "duration": 2.9179999999996653,
+      "dialogue_text": "Je n'en ai pas... Si ! Attendez !"
+    },
+    {
+      "subtitle_index": 332,
+      "start_time": 2531.772,
+      "end_time": 2533.682,
+      "duration": 1.9099999999998545,
+      "dialogue_text": "Il pleut, il pleut !"
+    },
+    {
+      "subtitle_index": 333,
+      "start_time": 2533.9,
+      "end_time": 2536.272,
+      "duration": 2.3719999999998436,
+      "dialogue_text": "Mais ça ne fait rien."
+    },
+    {
+      "subtitle_index": 334,
+      "start_time": 2536.486,
+      "end_time": 2540.864,
+      "duration": 4.378000000000156,
+      "dialogue_text": "Grand frère est là aveason paraplui.e."
+    },
+    {
+      "subtitle_index": 335,
+      "start_time": 2541.241,
+      "end_time": 2545.454,
+      "duration": 4.213000000000193,
+      "dialogue_text": "Flic floc, splash, splash, fli.a, flaa, floa..."
+    },
+    {
+      "subtitle_index": 336,
+      "start_time": 2557.761,
+      "end_time": 2559.172,
+      "duration": 1.4110000000000582,
+      "dialogue_text": "Je suis fortiche, non ?"
+    },
+    {
+      "subtitle_index": 337,
+      "start_time": 2559.387,
+      "end_time": 2561.096,
+      "duration": 1.7089999999998327,
+      "dialogue_text": "Eteins bien le feu après."
+    },
+    {
+      "subtitle_index": 338,
+      "start_time": 2565.812,
+      "end_time": 2567.639,
+      "duration": 1.8270000000002256,
+      "dialogue_text": "Que font les petits ?"
+    },
+    {
+      "subtitle_index": 339,
+      "start_time": 2567.856,
+      "end_time": 2570.312,
+      "duration": 2.455999999999676,
+      "dialogue_text": "Ils veulent se faire leur cuisine."
+    },
+    {
+      "subtitle_index": 340,
+      "start_time": 2570.525,
+      "end_time": 2574.524,
+      "duration": 3.9989999999997963,
+      "dialogue_text": "C'est rudement courageux ! Bravo !"
+    },
+    {
+      "subtitle_index": 341,
+      "start_time": 2574.739,
+      "end_time": 2577.312,
+      "duration": 2.5729999999998654,
+      "dialogue_text": "Tu as encore été dure avec eux, maman ?"
+    },
+    {
+      "subtitle_index": 342,
+      "start_time": 2577.784,
+      "end_time": 2580.619,
+      "duration": 2.8350000000000364,
+      "dialogue_text": "Ce sont des insolents !"
+    },
+    {
+      "subtitle_index": 343,
+      "start_time": 2580.829,
+      "end_time": 2584.744,
+      "duration": 3.9149999999999636,
+      "dialogue_text": "Ils s'achètent réchaud et le reste... de vrais ingrats !"
+    },
+    {
+      "subtitle_index": 344,
+      "start_time": 2586.252,
+      "end_time": 2586.952,
+      "duration": 0.7000000000002728,
+      "dialogue_text": "C'était bon !"
+    },
+    {
+      "subtitle_index": 345,
+      "start_time": 2592.593,
+      "end_time": 2594.467,
+      "duration": 1.874000000000251,
+      "dialogue_text": "On se vautre pas à table !"
+    },
+    {
+      "subtitle_index": 346,
+      "start_time": 2596.138,
+      "end_time": 2597.716,
+      "duration": 1.5779999999999745,
+      "dialogue_text": "Plus besoin de crâner."
+    },
+    {
+      "subtitle_index": 347,
+      "start_time": 2609.195,
+      "end_time": 2610.654,
+      "duration": 1.4589999999998327,
+      "dialogue_text": "Voici votre ration."
+    },
+    {
+      "subtitle_index": 348,
+      "start_time": 2610.864,
+      "end_time": 2611.61,
+      "duration": 0.7460000000000946,
+      "dialogue_text": "C'est tout ?"
+    },
+    {
+      "subtitle_index": 349,
+      "start_time": 2611.823,
+      "end_time": 2615.774,
+      "duration": 3.951000000000022,
+      "dialogue_text": "La prochaine distribution, c'est en juillet."
+    },
+    {
+      "subtitle_index": 350,
+      "start_time": 2711.981,
+      "end_time": 2713.89,
+      "duration": 1.9089999999996508,
+      "dialogue_text": "A moi !"
+    },
+    {
+      "subtitle_index": 351,
+      "start_time": 2738.929,
+      "end_time": 2740.257,
+      "duration": 1.3279999999999745,
+      "dialogue_text": "C'est bon ?"
+    },
+    {
+      "subtitle_index": 352,
+      "start_time": 2746.98,
+      "end_time": 2748.095,
+      "duration": 1.1149999999997817,
+      "dialogue_text": "C'est délicieux !"
+    },
+    {
+      "subtitle_index": 353,
+      "start_time": 2749.9,
+      "end_time": 2753.483,
+      "duration": 3.5830000000000837,
+      "dialogue_text": "Raisin, fraises, melon et menthe... tout y est."
+    },
+    {
+      "subtitle_index": 354,
+      "start_time": 2753.696,
+      "end_time": 2754.811,
+      "duration": 1.1150000000002365,
+      "dialogue_text": "Bois tout."
+    },
+    {
+      "subtitle_index": 355,
+      "start_time": 2765.585,
+      "end_time": 2767.542,
+      "duration": 1.95699999999988,
+      "dialogue_text": "J'ai tout bu."
+    },
+    {
+      "subtitle_index": 356,
+      "start_time": 2771.133,
+      "end_time": 2772.212,
+      "duration": 1.0790000000001783,
+      "dialogue_text": "Et voilà..."
+    },
+    {
+      "subtitle_index": 357,
+      "start_time": 2772.426,
+      "end_time": 2775.63,
+      "duration": 3.2040000000001783,
+      "dialogue_text": "on s'endort sans faire la vaisselle !"
+    },
+    {
+      "subtitle_index": 358,
+      "start_time": 2775.847,
+      "end_time": 2776.843,
+      "duration": 0.9959999999996398,
+      "dialogue_text": "Quels bons à rien !"
+    },
+    {
+      "subtitle_index": 359,
+      "start_time": 2777.932,
+      "end_time": 2781.183,
+      "duration": 3.2510000000002037,
+      "dialogue_text": "Ce sont vraiment des crève-cur !"
+    },
+    {
+      "subtitle_index": 360,
+      "start_time": 2782.813,
+      "end_time": 2783.844,
+      "duration": 1.030999999999949,
+      "dialogue_text": "Encore !"
+    },
+    {
+      "subtitle_index": 361,
+      "start_time": 2784.315,
+      "end_time": 2785.346,
+      "duration": 1.030999999999949,
+      "dialogue_text": "Maman !"
+    },
+    {
+      "subtitle_index": 362,
+      "start_time": 2785.566,
+      "end_time": 2789.351,
+      "duration": 3.7850000000003092,
+      "dialogue_text": "Seita, tu sais bien qu' ici, on travaille pour la patrie !"
+    },
+    {
+      "subtitle_index": 363,
+      "start_time": 2790.113,
+      "end_time": 2793.28,
+      "duration": 3.167000000000371,
+      "dialogue_text": "Tu pourrais l'empêcher de pleurer !"
+    },
+    {
+      "subtitle_index": 364,
+      "start_time": 2793.575,
+      "end_time": 2796.779,
+      "duration": 3.2040000000001783,
+      "dialogue_text": "Avec les alertes, on ne dort déjà pas assez !"
+    },
+    {
+      "subtitle_index": 365,
+      "start_time": 2797.038,
+      "end_time": 2799.197,
+      "duration": 2.1590000000001055,
+      "dialogue_text": "On n'a pas besoin de ça !"
+    },
+    {
+      "subtitle_index": 366,
+      "start_time": 2825.112,
+      "end_time": 2826.772,
+      "duration": 1.6599999999998545,
+      "dialogue_text": "Avis à la population."
+    },
+    {
+      "subtitle_index": 367,
+      "start_time": 2829.325,
+      "end_time": 2834.202,
+      "duration": 4.8770000000004075,
+      "dialogue_text": "On nous annoncé une série de raids en nombre indéterminé."
+    },
+    {
+      "subtitle_index": 368,
+      "start_time": 2834.832,
+      "end_time": 2836.789,
+      "duration": 1.9570000000003347,
+      "dialogue_text": "Seita, encore dans le refuge ?"
+    },
+    {
+      "subtitle_index": 369,
+      "start_time": 2837.001,
+      "end_time": 2841.829,
+      "duration": 4.8279999999999745,
+      "dialogue_text": "A ton âge, tu pourrais pourtant aller aider les pompiers..."
+    },
+    {
+      "subtitle_index": 370,
+      "start_time": 2853.145,
+      "end_time": 2855.601,
+      "duration": 2.456000000000131,
+      "dialogue_text": "Je veux rentrer à la maison."
+    },
+    {
+      "subtitle_index": 371,
+      "start_time": 2855.814,
+      "end_time": 2858.732,
+      "duration": 2.91800000000012,
+      "dialogue_text": "Je veux plus rester chez la tante."
+    },
+    {
+      "subtitle_index": 372,
+      "start_time": 2860.528,
+      "end_time": 2863.198,
+      "duration": 2.6700000000000728,
+      "dialogue_text": "Mais notre maison a brûlé !"
+    },
+    {
+      "subtitle_index": 373,
+      "start_time": 2869.08,
+      "end_time": 2872.366,
+      "duration": 3.286000000000058,
+      "dialogue_text": "Mi, ré, do, ré, mi, la, sol..."
+    },
+    {
+      "subtitle_index": 374,
+      "start_time": 2872.584,
+      "end_time": 2875.502,
+      "duration": 2.91800000000012,
+      "dialogue_text": "mi, mi, mi, ré, do, ré..."
+    },
+    {
+      "subtitle_index": 375,
+      "start_time": 2876.547,
+      "end_time": 2879.999,
+      "duration": 3.451999999999771,
+      "dialogue_text": "Là-haut, plus haut que le toit,"
+    },
+    {
+      "subtitle_index": 376,
+      "start_time": 2880.218,
+      "end_time": 2883.919,
+      "duration": 3.701000000000022,
+      "dialogue_text": "les carpes volent dans le vent."
+    },
+    {
+      "subtitle_index": 377,
+      "start_time": 2884.139,
+      "end_time": 2887.84,
+      "duration": 3.701000000000022,
+      "dialogue_text": "La plus grosse des carpes,"
+    },
+    {
+      "subtitle_index": 378,
+      "start_time": 2888.06,
+      "end_time": 2890.433,
+      "duration": 2.3730000000000473,
+      "dialogue_text": "c'est le papa..."
+    },
+    {
+      "subtitle_index": 379,
+      "start_time": 2890.646,
+      "end_time": 2892.022,
+      "duration": 1.375999999999749,
+      "dialogue_text": "Arrêtez !"
+    },
+    {
+      "subtitle_index": 380,
+      "start_time": 2892.315,
+      "end_time": 2893.809,
+      "duration": 1.4940000000001419,
+      "dialogue_text": "On est en guerre !"
+    },
+    {
+      "subtitle_index": 381,
+      "start_time": 2894.025,
+      "end_time": 2896.149,
+      "duration": 2.1239999999997963,
+      "dialogue_text": "Je vais me faire sermonner !"
+    },
+    {
+      "subtitle_index": 382,
+      "start_time": 2896.361,
+      "end_time": 2897.026,
+      "duration": 0.6649999999999636,
+      "dialogue_text": "Ecervelé !"
+    },
+    {
+      "subtitle_index": 383,
+      "start_time": 2899.74,
+      "end_time": 2902.991,
+      "duration": 3.2510000000002037,
+      "dialogue_text": "Tu es vraiment un maudit vaurien !"
+    },
+    {
+      "subtitle_index": 384,
+      "start_time": 2903.203,
+      "end_time": 2905.611,
+      "duration": 2.4079999999999018,
+      "dialogue_text": "Incapable de te rendre utile !"
+    },
+    {
+      "subtitle_index": 385,
+      "start_time": 2905.831,
+      "end_time": 2907.029,
+      "duration": 1.1979999999998654,
+      "dialogue_text": "Si tu y es si bien,"
+    },
+    {
+      "subtitle_index": 386,
+      "start_time": 2907.249,
+      "end_time": 2910.001,
+      "duration": 2.7520000000004075,
+      "dialogue_text": "tu n'as qu'à habiter dans le refuge."
+    },
+    {
+      "subtitle_index": 387,
+      "start_time": 2913.631,
+      "end_time": 2914.663,
+      "duration": 1.0320000000001528,
+      "dialogue_text": "Qu'en dis-tu ?"
+    },
+    {
+      "subtitle_index": 388,
+      "start_time": 2916.301,
+      "end_time": 2918.259,
+      "duration": 1.9580000000000837,
+      "dialogue_text": "Si on habitait ici ?"
+    },
+    {
+      "subtitle_index": 389,
+      "start_time": 2920.055,
+      "end_time": 2922.013,
+      "duration": 1.9580000000000837,
+      "dialogue_text": "Personne n'y vient,"
+    },
+    {
+      "subtitle_index": 390,
+      "start_time": 2922.225,
+      "end_time": 2923.387,
+      "duration": 1.162000000000262,
+      "dialogue_text": "c'est solide,"
+    },
+    {
+      "subtitle_index": 391,
+      "start_time": 2923.601,
+      "end_time": 2924.977,
+      "duration": 1.375999999999749,
+      "dialogue_text": "on sera rien que nous deux."
+    },
+    {
+      "subtitle_index": 392,
+      "start_time": 2925.687,
+      "end_time": 2927.431,
+      "duration": 1.7440000000001419,
+      "dialogue_text": "On peut vraiment..?"
+    },
+    {
+      "subtitle_index": 393,
+      "start_time": 2952.301,
+      "end_time": 2953.546,
+      "duration": 1.2449999999998909,
+      "dialogue_text": "Merci pour tout."
+    },
+    {
+      "subtitle_index": 394,
+      "start_time": 2954.303,
+      "end_time": 2955.846,
+      "duration": 1.54300000000012,
+      "dialogue_text": "Nous allons loger ailleurs."
+    },
+    {
+      "subtitle_index": 395,
+      "start_time": 2956.055,
+      "end_time": 2958.262,
+      "duration": 2.2070000000003347,
+      "dialogue_text": "Ailleurs... où ça ?"
+    },
+    {
+      "subtitle_index": 396,
+      "start_time": 2958.475,
+      "end_time": 2961.049,
+      "duration": 2.574000000000069,
+      "dialogue_text": "Je n'ai pas encore décidé."
+    },
+    {
+      "subtitle_index": 397,
+      "start_time": 2963.105,
+      "end_time": 2965.394,
+      "duration": 2.28899999999976,
+      "dialogue_text": "Eh bien, bonne chance..."
+    },
+    {
+      "subtitle_index": 398,
+      "start_time": 2965.608,
+      "end_time": 2966.522,
+      "duration": 0.9139999999997599,
+      "dialogue_text": "Au revoir, Setsuko."
+    },
+    {
+      "subtitle_index": 399,
+      "start_time": 2987.217,
+      "end_time": 2988.592,
+      "duration": 1.375,
+      "dialogue_text": "Ici, la cuisine."
+    },
+    {
+      "subtitle_index": 400,
+      "start_time": 2991.638,
+      "end_time": 2993.797,
+      "duration": 2.1590000000001055,
+      "dialogue_text": "Et ici, l'entrée."
+    },
+    {
+      "subtitle_index": 401,
+      "start_time": 2996.144,
+      "end_time": 2997.555,
+      "duration": 1.4110000000000582,
+      "dialogue_text": "Où sera le petit coin ?"
+    },
+    {
+      "subtitle_index": 402,
+      "start_time": 2999.981,
+      "end_time": 3003.102,
+      "duration": 3.12099999999964,
+      "dialogue_text": "N' importe où. Je serai toujours avec toi."
+    },
+    {
+      "subtitle_index": 403,
+      "start_time": 3013.455,
+      "end_time": 3015.164,
+      "duration": 1.7090000000002874,
+      "dialogue_text": "Merci pour la charrette."
+    },
+    {
+      "subtitle_index": 404,
+      "start_time": 3015.374,
+      "end_time": 3018.744,
+      "duration": 3.3700000000003456,
+      "dialogue_text": "Pose-la par là."
+    },
+    {
+      "subtitle_index": 405,
+      "start_time": 3018.962,
+      "end_time": 3021.797,
+      "duration": 2.8350000000000364,
+      "dialogue_text": "Vous pourriez nous vendre de quoi manger"
+    },
+    {
+      "subtitle_index": 406,
+      "start_time": 3022.007,
+      "end_time": 3023.834,
+      "duration": 1.8269999999997708,
+      "dialogue_text": "et un peu plus de paille ?"
+    },
+    {
+      "subtitle_index": 407,
+      "start_time": 3025.01,
+      "end_time": 3027.846,
+      "duration": 2.8359999999997854,
+      "dialogue_text": "Je vais voir ce que je peux faire."
+    },
+    {
+      "subtitle_index": 408,
+      "start_time": 3082.786,
+      "end_time": 3084.328,
+      "duration": 1.5419999999999163,
+      "dialogue_text": "- J'ai faim. - Moi aussi."
+    },
+    {
+      "subtitle_index": 409,
+      "start_time": 3112.612,
+      "end_time": 3114.652,
+      "duration": 2.0399999999999636,
+      "dialogue_text": "On pourrait en manger..."
+    },
+    {
+      "subtitle_index": 410,
+      "start_time": 3115.24,
+      "end_time": 3116.818,
+      "duration": 1.5780000000004293,
+      "dialogue_text": "Des grenouilles ?"
+    },
+    {
+      "subtitle_index": 411,
+      "start_time": 3117.034,
+      "end_time": 3118.658,
+      "duration": 1.6239999999997963,
+      "dialogue_text": "Paraît que c'est bon."
+    },
+    {
+      "subtitle_index": 412,
+      "start_time": 3122.123,
+      "end_time": 3124.412,
+      "duration": 2.28899999999976,
+      "dialogue_text": "Va te mettre sous la moustiquaire."
+    },
+    {
+      "subtitle_index": 413,
+      "start_time": 3134.554,
+      "end_time": 3135.585,
+      "duration": 1.030999999999949,
+      "dialogue_text": "Qu'y a-t-il ?"
+    },
+    {
+      "subtitle_index": 414,
+      "start_time": 3135.805,
+      "end_time": 3137.929,
+      "duration": 2.124000000000251,
+      "dialogue_text": "J'ai oublié ma brosse à dents."
+    },
+    {
+      "subtitle_index": 415,
+      "start_time": 3138.141,
+      "end_time": 3141.262,
+      "duration": 3.1210000000000946,
+      "dialogue_text": "Ce n'est pas grave, pour un jour."
+    },
+    {
+      "subtitle_index": 416,
+      "start_time": 3143.815,
+      "end_time": 3145.772,
+      "duration": 1.95699999999988,
+      "dialogue_text": "Il y a plein de moustiques,"
+    },
+    {
+      "subtitle_index": 417,
+      "start_time": 3145.984,
+      "end_time": 3147.692,
+      "duration": 1.7080000000000837,
+      "dialogue_text": "va vite sous la moustiquaire."
+    },
+    {
+      "subtitle_index": 418,
+      "start_time": 3147.903,
+      "end_time": 3150.145,
+      "duration": 2.242000000000189,
+      "dialogue_text": "Il fait noir, j'ai peur."
+    },
+    {
+      "subtitle_index": 419,
+      "start_time": 3155.495,
+      "end_time": 3158.33,
+      "duration": 2.8350000000000364,
+      "dialogue_text": "Je vais faire pipi. Tu viens ?"
+    },
+    {
+      "subtitle_index": 420,
+      "start_time": 3163.504,
+      "end_time": 3165.331,
+      "duration": 1.8270000000002256,
+      "dialogue_text": "Un kamikaze..."
+    },
+    {
+      "subtitle_index": 421,
+      "start_time": 3166.049,
+      "end_time": 3168.006,
+      "duration": 1.95699999999988,
+      "dialogue_text": "On dirait une luciole !"
+    },
+    {
+      "subtitle_index": 422,
+      "start_time": 3168.218,
+      "end_time": 3169.381,
+      "duration": 1.163000000000011,
+      "dialogue_text": "C'est vrai."
+    },
+    {
+      "subtitle_index": 423,
+      "start_time": 3170.971,
+      "end_time": 3172.631,
+      "duration": 1.6599999999998545,
+      "dialogue_text": "On attrape des lucioles ?"
+    },
+    {
+      "subtitle_index": 424,
+      "start_time": 3174.475,
+      "end_time": 3176.1,
+      "duration": 1.625,
+      "dialogue_text": "Rentre là-dessous."
+    },
+    {
+      "subtitle_index": 425,
+      "start_time": 3189.91,
+      "end_time": 3191.986,
+      "duration": 2.076000000000022,
+      "dialogue_text": "J'ai vu ton visage !"
+    },
+    {
+      "subtitle_index": 426,
+      "start_time": 3192.204,
+      "end_time": 3192.904,
+      "duration": 0.6999999999998181,
+      "dialogue_text": "Et moi, le tien."
+    },
+    {
+      "subtitle_index": 427,
+      "start_time": 3197.085,
+      "end_time": 3198.828,
+      "duration": 1.7429999999999382,
+      "dialogue_text": "Une épingle à cheveux !"
+    },
+    {
+      "subtitle_index": 428,
+      "start_time": 3203.592,
+      "end_time": 3207.128,
+      "duration": 3.536000000000058,
+      "dialogue_text": "On va en attraper autant qu'on pourra."
+    },
+    {
+      "subtitle_index": 429,
+      "start_time": 3260.825,
+      "end_time": 3264.74,
+      "duration": 3.9149999999999636,
+      "dialogue_text": "Tu sais, avant ta naissance, j'ai vu une revue navale."
+    },
+    {
+      "subtitle_index": 430,
+      "start_time": 3264.955,
+      "end_time": 3266.663,
+      "duration": 1.7080000000000837,
+      "dialogue_text": "Une revue navale ?"
+    },
+    {
+      "subtitle_index": 431,
+      "start_time": 3266.874,
+      "end_time": 3270.16,
+      "duration": 3.286000000000058,
+      "dialogue_text": "Oui. Papa était sur son croiseur, le Maya,"
+    },
+    {
+      "subtitle_index": 432,
+      "start_time": 3270.378,
+      "end_time": 3271.659,
+      "duration": 1.280999999999949,
+      "dialogue_text": "avec toute la Flotte."
+    },
+    {
+      "subtitle_index": 433,
+      "start_time": 3309.507,
+      "end_time": 3313.375,
+      "duration": 3.867999999999938,
+      "dialogue_text": "Pour la défense ou pour l'attaque,"
+    },
+    {
+      "subtitle_index": 434,
+      "start_time": 3313.595,
+      "end_time": 3317.261,
+      "duration": 3.6660000000001673,
+      "dialogue_text": "nos châteaux forts flottants sont invincibles."
+    },
+    {
+      "subtitle_index": 435,
+      "start_time": 3317.766,
+      "end_time": 3319.973,
+      "duration": 2.20699999999988,
+      "dialogue_text": "Un avion ennemi !"
+    },
+    {
+      "subtitle_index": 436,
+      "start_time": 3330.197,
+      "end_time": 3333.483,
+      "duration": 3.286000000000058,
+      "dialogue_text": "Je me demande où papa fait la guerre..."
+    },
+    {
+      "subtitle_index": 437,
+      "start_time": 3362.61,
+      "end_time": 3365.564,
+      "duration": 2.9539999999997235,
+      "dialogue_text": "Tu m'étouffes, Seita..."
+    },
+    {
+      "subtitle_index": 438,
+      "start_time": 3403.866,
+      "end_time": 3404.447,
+      "duration": 0.581000000000131,
+      "dialogue_text": "Que fais-tu ?"
+    },
+    {
+      "subtitle_index": 439,
+      "start_time": 3404.659,
+      "end_time": 3406.948,
+      "duration": 2.28899999999976,
+      "dialogue_text": "Je construis une tombe."
+    },
+    {
+      "subtitle_index": 440,
+      "start_time": 3407.162,
+      "end_time": 3409.653,
+      "duration": 2.4909999999999854,
+      "dialogue_text": "Maman aussi est dans une tombe."
+    },
+    {
+      "subtitle_index": 441,
+      "start_time": 3415.087,
+      "end_time": 3418.042,
+      "duration": 2.9549999999999272,
+      "dialogue_text": "La tante me l'a dit..."
+    },
+    {
+      "subtitle_index": 442,
+      "start_time": 3418.508,
+      "end_time": 3422.672,
+      "duration": 4.164000000000215,
+      "dialogue_text": "elle a dit que maman était morte et dans une tombe."
+    },
+    {
+      "subtitle_index": 443,
+      "start_time": 3453.507,
+      "end_time": 3455.714,
+      "duration": 2.20699999999988,
+      "dialogue_text": "Un jour, on ira sur sa tombe."
+    },
+    {
+      "subtitle_index": 444,
+      "start_time": 3455.926,
+      "end_time": 3460.636,
+      "duration": 4.710000000000036,
+      "dialogue_text": "Tu te souviens du cimetière où on est allés une fois ?"
+    },
+    {
+      "subtitle_index": 445,
+      "start_time": 3461.475,
+      "end_time": 3464.18,
+      "duration": 2.7049999999999272,
+      "dialogue_text": "C'est là qu'elle est, sa tombe,"
+    },
+    {
+      "subtitle_index": 446,
+      "start_time": 3464.603,
+      "end_time": 3465.552,
+      "duration": 0.9490000000000691,
+      "dialogue_text": "sous un grand"
+    },
+    {
+      "subtitle_index": 447,
+      "start_time": 3465.771,
+      "end_time": 3466.803,
+      "duration": 1.031999999999698,
+      "dialogue_text": "camphrier."
+    },
+    {
+      "subtitle_index": 448,
+      "start_time": 3467.023,
+      "end_time": 3470.641,
+      "duration": 3.617999999999938,
+      "dialogue_text": "Pourquoi les lucioles meurent tout de suite ?"
+    },
+    {
+      "subtitle_index": 449,
+      "start_time": 3509.113,
+      "end_time": 3510.857,
+      "duration": 1.7440000000001419,
+      "dialogue_text": "On dirait que c'est habité !"
+    },
+    {
+      "subtitle_index": 450,
+      "start_time": 3511.074,
+      "end_time": 3513.446,
+      "duration": 2.3719999999998436,
+      "dialogue_text": "Des sinistrés sans doute."
+    },
+    {
+      "subtitle_index": 451,
+      "start_time": 3514.202,
+      "end_time": 3515.365,
+      "duration": 1.1629999999995562,
+      "dialogue_text": "Ou un vieux bougon."
+    },
+    {
+      "subtitle_index": 452,
+      "start_time": 3517.581,
+      "end_time": 3519.241,
+      "duration": 1.6599999999998545,
+      "dialogue_text": "Tiens, une balançoire !"
+    },
+    {
+      "subtitle_index": 453,
+      "start_time": 3519.458,
+      "end_time": 3521.368,
+      "duration": 1.9099999999998545,
+      "dialogue_text": "- Y a un gosse. - C'est quoi, ça ?"
+    },
+    {
+      "subtitle_index": 454,
+      "start_time": 3522.712,
+      "end_time": 3524.871,
+      "duration": 2.1590000000001055,
+      "dialogue_text": "Repose en paix..."
+    },
+    {
+      "subtitle_index": 455,
+      "start_time": 3526.758,
+      "end_time": 3529.131,
+      "duration": 2.3730000000000473,
+      "dialogue_text": "Je préfère les vraies offrandes !"
+    },
+    {
+      "subtitle_index": 456,
+      "start_time": 3530.388,
+      "end_time": 3531.799,
+      "duration": 1.4110000000000582,
+      "dialogue_text": "C'est écrit: Setsuko."
+    },
+    {
+      "subtitle_index": 457,
+      "start_time": 3532.015,
+      "end_time": 3534.684,
+      "duration": 2.669000000000324,
+      "dialogue_text": "Regardez ! Des grenouilles séchées !"
+    },
+    {
+      "subtitle_index": 458,
+      "start_time": 3534.893,
+      "end_time": 3535.806,
+      "duration": 0.9130000000000109,
+      "dialogue_text": "C'est dégoûtant !"
+    },
+    {
+      "subtitle_index": 459,
+      "start_time": 3536.854,
+      "end_time": 3538.811,
+      "duration": 1.9570000000003347,
+      "dialogue_text": "Tu crois que les évacués,"
+    },
+    {
+      "subtitle_index": 460,
+      "start_time": 3539.023,
+      "end_time": 3541.81,
+      "duration": 2.786999999999807,
+      "dialogue_text": "ils ne bouffent que ça ?"
+    },
+    {
+      "subtitle_index": 461,
+      "start_time": 3543.236,
+      "end_time": 3544.814,
+      "duration": 1.5779999999999745,
+      "dialogue_text": "De l'orge pilée !"
+    },
+    {
+      "subtitle_index": 462,
+      "start_time": 3545.572,
+      "end_time": 3547.232,
+      "duration": 1.6599999999998545,
+      "dialogue_text": "C'est pire que ma bouillie !"
+    },
+    {
+      "subtitle_index": 463,
+      "start_time": 3547.449,
+      "end_time": 3550.119,
+      "duration": 2.6700000000000728,
+      "dialogue_text": "Attention, un fantôme !"
+    },
+    {
+      "subtitle_index": 464,
+      "start_time": 3554.04,
+      "end_time": 3554.574,
+      "duration": 0.5340000000001055,
+      "dialogue_text": "Attendez !"
+    },
+    {
+      "subtitle_index": 465,
+      "start_time": 3561.507,
+      "end_time": 3563.999,
+      "duration": 2.4919999999997344,
+      "dialogue_text": "Les kimono de maman,"
+    },
+    {
+      "subtitle_index": 466,
+      "start_time": 3564.219,
+      "end_time": 3567.339,
+      "duration": 3.119999999999891,
+      "dialogue_text": "on les a tous échangés. On n'a plus rien."
+    },
+    {
+      "subtitle_index": 467,
+      "start_time": 3567.556,
+      "end_time": 3569.015,
+      "duration": 1.4589999999998327,
+      "dialogue_text": "Vous nous connaissez..."
+    },
+    {
+      "subtitle_index": 468,
+      "start_time": 3571.727,
+      "end_time": 3574.016,
+      "duration": 2.2890000000002146,
+      "dialogue_text": "Là n'est pas la question."
+    },
+    {
+      "subtitle_index": 469,
+      "start_time": 3575.19,
+      "end_time": 3579.52,
+      "duration": 4.329999999999927,
+      "dialogue_text": "J'ai beau être paysan, je produis à peine pour les miens."
+    },
+    {
+      "subtitle_index": 470,
+      "start_time": 3586.745,
+      "end_time": 3588.073,
+      "duration": 1.3279999999999745,
+      "dialogue_text": "Votre autre famille..?"
+    },
+    {
+      "subtitle_index": 471,
+      "start_time": 3588.997,
+      "end_time": 3590.575,
+      "duration": 1.5779999999999745,
+      "dialogue_text": "Injoignable."
+    },
+    {
+      "subtitle_index": 472,
+      "start_time": 3591.333,
+      "end_time": 3595.166,
+      "duration": 3.8330000000000837,
+      "dialogue_text": "Dans ce cas, tu devrais retourner chez ta tante."
+    },
+    {
+      "subtitle_index": 473,
+      "start_time": 3595.839,
+      "end_time": 3598.295,
+      "duration": 2.456000000000131,
+      "dialogue_text": "Tout est rationné maintenant."
+    },
+    {
+      "subtitle_index": 474,
+      "start_time": 3598.508,
+      "end_time": 3601.178,
+      "duration": 2.6700000000000728,
+      "dialogue_text": "On ne peut pas vivre hors communauté."
+    },
+    {
+      "subtitle_index": 475,
+      "start_time": 3602.304,
+      "end_time": 3604.843,
+      "duration": 2.53899999999976,
+      "dialogue_text": "Excuse-toi bien et va chez elle."
+    },
+    {
+      "subtitle_index": 476,
+      "start_time": 3611.106,
+      "end_time": 3612.138,
+      "duration": 1.031999999999698,
+      "dialogue_text": "Merci pour tout."
+    },
+    {
+      "subtitle_index": 477,
+      "start_time": 3612.358,
+      "end_time": 3614.315,
+      "duration": 1.95699999999988,
+      "dialogue_text": "Je vais voir ailleurs."
+    },
+    {
+      "subtitle_index": 478,
+      "start_time": 3615.778,
+      "end_time": 3617.652,
+      "duration": 1.874000000000251,
+      "dialogue_text": "Tu es fils de marin."
+    },
+    {
+      "subtitle_index": 479,
+      "start_time": 3617.864,
+      "end_time": 3619.608,
+      "duration": 1.7440000000001419,
+      "dialogue_text": "Sois digne de ton père."
+    },
+    {
+      "subtitle_index": 480,
+      "start_time": 3651.778,
+      "end_time": 3653.154,
+      "duration": 1.3760000000002037,
+      "dialogue_text": "On peut ?"
+    },
+    {
+      "subtitle_index": 481,
+      "start_time": 3692.951,
+      "end_time": 3693.485,
+      "duration": 0.5340000000001055,
+      "dialogue_text": "Zut !"
+    },
+    {
+      "subtitle_index": 482,
+      "start_time": 3755.273,
+      "end_time": 3756.139,
+      "duration": 0.8659999999999854,
+      "dialogue_text": "Je sais que t'aimes pas,"
+    },
+    {
+      "subtitle_index": 483,
+      "start_time": 3756.733,
+      "end_time": 3757.979,
+      "duration": 1.2459999999996398,
+      "dialogue_text": "et que c'est pas bon,"
+    },
+    {
+      "subtitle_index": 484,
+      "start_time": 3758.193,
+      "end_time": 3761.029,
+      "duration": 2.8359999999997854,
+      "dialogue_text": "mais tu dois manger pour grandir."
+    },
+    {
+      "subtitle_index": 485,
+      "start_time": 3761.989,
+      "end_time": 3763.152,
+      "duration": 1.163000000000011,
+      "dialogue_text": "Seita..."
+    },
+    {
+      "subtitle_index": 486,
+      "start_time": 3765.368,
+      "end_time": 3770.031,
+      "duration": 4.663000000000011,
+      "dialogue_text": "tu sais, j'ai un peu mal au ventre..."
+    },
+    {
+      "subtitle_index": 487,
+      "start_time": 3770.249,
+      "end_time": 3771.909,
+      "duration": 1.6600000000003092,
+      "dialogue_text": "Tu as pris froid ?"
+    },
+    {
+      "subtitle_index": 488,
+      "start_time": 3772.585,
+      "end_time": 3775.622,
+      "duration": 3.036999999999807,
+      "dialogue_text": "J'ai le caca qui coule."
+    },
+    {
+      "subtitle_index": 489,
+      "start_time": 3780.763,
+      "end_time": 3782.174,
+      "duration": 1.4110000000000582,
+      "dialogue_text": "Petit salaud !"
+    },
+    {
+      "subtitle_index": 490,
+      "start_time": 3783.516,
+      "end_time": 3784.927,
+      "duration": 1.4110000000000582,
+      "dialogue_text": "Pardonnez-moi !"
+    },
+    {
+      "subtitle_index": 491,
+      "start_time": 3785.811,
+      "end_time": 3787.353,
+      "duration": 1.5419999999999163,
+      "dialogue_text": "Excusez ! Pardon !"
+    },
+    {
+      "subtitle_index": 492,
+      "start_time": 3789.523,
+      "end_time": 3791.813,
+      "duration": 2.2899999999999636,
+      "dialogue_text": "Ma petite sur est malade."
+    },
+    {
+      "subtitle_index": 493,
+      "start_time": 3792.068,
+      "end_time": 3792.982,
+      "duration": 0.9139999999997599,
+      "dialogue_text": "C'est pour elle..."
+    },
+    {
+      "subtitle_index": 494,
+      "start_time": 3793.194,
+      "end_time": 3794.143,
+      "duration": 0.9490000000000691,
+      "dialogue_text": "Crapule !"
+    },
+    {
+      "subtitle_index": 495,
+      "start_time": 3794.362,
+      "end_time": 3797.15,
+      "duration": 2.788000000000011,
+      "dialogue_text": "Voler en temps de guerre, c'est un crime."
+    },
+    {
+      "subtitle_index": 496,
+      "start_time": 3799.201,
+      "end_time": 3800.91,
+      "duration": 1.7089999999998327,
+      "dialogue_text": "Vaurien !"
+    },
+    {
+      "subtitle_index": 497,
+      "start_time": 3801.12,
+      "end_time": 3802.152,
+      "duration": 1.0320000000001528,
+      "dialogue_text": "Prends ça !"
+    },
+    {
+      "subtitle_index": 498,
+      "start_time": 3813.468,
+      "end_time": 3814.084,
+      "duration": 0.6159999999999854,
+      "dialogue_text": "Et ça !"
+    },
+    {
+      "subtitle_index": 499,
+      "start_time": 3814.302,
+      "end_time": 3816.378,
+      "duration": 2.076000000000022,
+      "dialogue_text": "Tu voles aussi les patates !"
+    },
+    {
+      "subtitle_index": 500,
+      "start_time": 3817.472,
+      "end_time": 3820.39,
+      "duration": 2.9179999999996653,
+      "dialogue_text": "C'était toi qui dévastais nos champs ?"
+    },
+    {
+      "subtitle_index": 501,
+      "start_time": 3820.601,
+      "end_time": 3821.55,
+      "duration": 0.9490000000000691,
+      "dialogue_text": "Seita !"
+    },
+    {
+      "subtitle_index": 502,
+      "start_time": 3822.895,
+      "end_time": 3825.434,
+      "duration": 2.5390000000002146,
+      "dialogue_text": "Pardon ! Excusez-moi !"
+    },
+    {
+      "subtitle_index": 503,
+      "start_time": 3825.649,
+      "end_time": 3826.847,
+      "duration": 1.1980000000003201,
+      "dialogue_text": "Je ne le ferai plus !"
+    },
+    {
+      "subtitle_index": 504,
+      "start_time": 3827.067,
+      "end_time": 3829.985,
+      "duration": 2.91800000000012,
+      "dialogue_text": "Pas d'excuses, la police !"
+    },
+    {
+      "subtitle_index": 505,
+      "start_time": 3831.238,
+      "end_time": 3833.231,
+      "duration": 1.993000000000393,
+      "dialogue_text": "Marche donc, sale malfrat !"
+    },
+    {
+      "subtitle_index": 506,
+      "start_time": 3833.449,
+      "end_time": 3835.656,
+      "duration": 2.20699999999988,
+      "dialogue_text": "Ma petite soeur est malade."
+    },
+    {
+      "subtitle_index": 507,
+      "start_time": 3835.869,
+      "end_time": 3838.158,
+      "duration": 2.28899999999976,
+      "dialogue_text": "Elle est perdue sans moi !"
+    },
+    {
+      "subtitle_index": 508,
+      "start_time": 3853.598,
+      "end_time": 3855.555,
+      "duration": 1.95699999999988,
+      "dialogue_text": "L'affaire est entendue."
+    },
+    {
+      "subtitle_index": 509,
+      "start_time": 3855.767,
+      "end_time": 3858.971,
+      "duration": 3.2040000000001783,
+      "dialogue_text": "Le coupable s'est expliqué,"
+    },
+    {
+      "subtitle_index": 510,
+      "start_time": 3859.187,
+      "end_time": 3860.896,
+      "duration": 1.7090000000002874,
+      "dialogue_text": "je m'en charge."
+    },
+    {
+      "subtitle_index": 511,
+      "start_time": 3861.649,
+      "end_time": 3863.642,
+      "duration": 1.9929999999999382,
+      "dialogue_text": "Mais quand même..."
+    },
+    {
+      "subtitle_index": 512,
+      "start_time": 3864.11,
+      "end_time": 3866.945,
+      "duration": 2.8350000000000364,
+      "dialogue_text": "Vous l'avez assez frappé, non ?"
+    },
+    {
+      "subtitle_index": 513,
+      "start_time": 3868.156,
+      "end_time": 3869.734,
+      "duration": 1.5779999999999745,
+      "dialogue_text": "Violence envers mineur,"
+    },
+    {
+      "subtitle_index": 514,
+      "start_time": 3871.452,
+      "end_time": 3871.986,
+      "duration": 0.5339999999996508,
+      "dialogue_text": "c'est grave."
+    },
+    {
+      "subtitle_index": 515,
+      "start_time": 3872.787,
+      "end_time": 3874.246,
+      "duration": 1.4590000000002874,
+      "dialogue_text": "Je m'en vais."
+    },
+    {
+      "subtitle_index": 516,
+      "start_time": 3878.794,
+      "end_time": 3881.997,
+      "duration": 3.2029999999999745,
+      "dialogue_text": "Ce soir, ils ont bombardé Fukui."
+    },
+    {
+      "subtitle_index": 517,
+      "start_time": 3884.717,
+      "end_time": 3887.718,
+      "duration": 3.000999999999749,
+      "dialogue_text": "Tu veux un verre d'eau ?"
+    },
+    {
+      "subtitle_index": 518,
+      "start_time": 3933.148,
+      "end_time": 3936.648,
+      "duration": 3.5,
+      "dialogue_text": "Où t'as mal ? Faut appeler le docteur,"
+    },
+    {
+      "subtitle_index": 519,
+      "start_time": 3936.861,
+      "end_time": 3939.399,
+      "duration": 2.538000000000011,
+      "dialogue_text": "qu' il te fasse une piqûre."
+    },
+    {
+      "subtitle_index": 520,
+      "start_time": 3954.339,
+      "end_time": 3957.875,
+      "duration": 3.536000000000058,
+      "dialogue_text": "Seita, je voudrais aller au petit coin."
+    },
+    {
+      "subtitle_index": 521,
+      "start_time": 3961.181,
+      "end_time": 3963.387,
+      "duration": 2.206000000000131,
+      "dialogue_text": "Ca peut attendre ?"
+    },
+    {
+      "subtitle_index": 522,
+      "start_time": 3964.142,
+      "end_time": 3965.341,
+      "duration": 1.1990000000000691,
+      "dialogue_text": "Monte !"
+    },
+    {
+      "subtitle_index": 523,
+      "start_time": 3973.653,
+      "end_time": 3977.105,
+      "duration": 3.4520000000002256,
+      "dialogue_text": "Il était une fois un grand frère..."
+    },
+    {
+      "subtitle_index": 524,
+      "start_time": 3977.324,
+      "end_time": 3979.531,
+      "duration": 2.20699999999988,
+      "dialogue_text": "et sa petite soeur..."
+    },
+    {
+      "subtitle_index": 525,
+      "start_time": 4028.968,
+      "end_time": 4030.248,
+      "duration": 1.2800000000002,
+      "dialogue_text": "Setsuko, à table."
+    },
+    {
+      "subtitle_index": 526,
+      "start_time": 4034.641,
+      "end_time": 4036.016,
+      "duration": 1.375,
+      "dialogue_text": "Goûte-moi ce potiron !"
+    },
+    {
+      "subtitle_index": 527,
+      "start_time": 4036.643,
+      "end_time": 4039.348,
+      "duration": 2.7049999999999272,
+      "dialogue_text": "Aussi bon que de la crème de marrons."
+    },
+    {
+      "subtitle_index": 528,
+      "start_time": 4039.605,
+      "end_time": 4042.143,
+      "duration": 2.538000000000011,
+      "dialogue_text": "J'aime pas la crème de marrons."
+    },
+    {
+      "subtitle_index": 529,
+      "start_time": 4042.358,
+      "end_time": 4043.603,
+      "duration": 1.2449999999998909,
+      "dialogue_text": "Que dis-tu ?"
+    },
+    {
+      "subtitle_index": 530,
+      "start_time": 4043.818,
+      "end_time": 4047.069,
+      "duration": 3.250999999999749,
+      "dialogue_text": "Si tu ne manges pas, papa me grondera."
+    },
+    {
+      "subtitle_index": 531,
+      "start_time": 4047.28,
+      "end_time": 4048.395,
+      "duration": 1.1149999999997817,
+      "dialogue_text": "Ouvre la bouche."
+    },
+    {
+      "subtitle_index": 532,
+      "start_time": 4049.324,
+      "end_time": 4051.116,
+      "duration": 1.7919999999999163,
+      "dialogue_text": "Tu dois bien manger !"
+    },
+    {
+      "subtitle_index": 533,
+      "start_time": 4053.413,
+      "end_time": 4055.655,
+      "duration": 2.242000000000189,
+      "dialogue_text": "Mange bien pour guérir vite."
+    },
+    {
+      "subtitle_index": 534,
+      "start_time": 4055.874,
+      "end_time": 4057.582,
+      "duration": 1.7080000000000837,
+      "dialogue_text": "Et on ira à la mer !"
+    },
+    {
+      "subtitle_index": 535,
+      "start_time": 4153.779,
+      "end_time": 4156.353,
+      "duration": 2.5739999999996144,
+      "dialogue_text": "Cette fois, ce sera bon, Setsuko !"
+    },
+    {
+      "subtitle_index": 536,
+      "start_time": 4177.765,
+      "end_time": 4179.639,
+      "duration": 1.8739999999997963,
+      "dialogue_text": "Des souvenirs de ta mère, ça ?"
+    },
+    {
+      "subtitle_index": 537,
+      "start_time": 4179.851,
+      "end_time": 4183.303,
+      "duration": 3.4520000000002256,
+      "dialogue_text": "Rien de plus que des oripeaux !"
+    },
+    {
+      "subtitle_index": 538,
+      "start_time": 4183.522,
+      "end_time": 4185.182,
+      "duration": 1.6599999999998545,
+      "dialogue_text": "Tu te moques de moi !"
+    },
+    {
+      "subtitle_index": 539,
+      "start_time": 4234.08,
+      "end_time": 4237.414,
+      "duration": 3.3339999999998327,
+      "dialogue_text": "Seita, de l'eau..."
+    },
+    {
+      "subtitle_index": 540,
+      "start_time": 4247.971,
+      "end_time": 4249.134,
+      "duration": 1.1630000000004657,
+      "dialogue_text": "Inspire..."
+    },
+    {
+      "subtitle_index": 541,
+      "start_time": 4250.266,
+      "end_time": 4251.677,
+      "duration": 1.4110000000000582,
+      "dialogue_text": "expire."
+    },
+    {
+      "subtitle_index": 542,
+      "start_time": 4254.229,
+      "end_time": 4255.889,
+      "duration": 1.6599999999998545,
+      "dialogue_text": "Ca fait des jours..."
+    },
+    {
+      "subtitle_index": 543,
+      "start_time": 4256.106,
+      "end_time": 4258.229,
+      "duration": 2.123000000000502,
+      "dialogue_text": "qu'elle a de la diarrhée."
+    },
+    {
+      "subtitle_index": 544,
+      "start_time": 4258.442,
+      "end_time": 4260.15,
+      "duration": 1.707999999999629,
+      "dialogue_text": "Et elle a ces boutons"
+    },
+    {
+      "subtitle_index": 545,
+      "start_time": 4260.903,
+      "end_time": 4264.07,
+      "duration": 3.1669999999994616,
+      "dialogue_text": "qui picotent à l'eau de mer."
+    },
+    {
+      "subtitle_index": 546,
+      "start_time": 4266.91,
+      "end_time": 4269.152,
+      "duration": 2.242000000000189,
+      "dialogue_text": "Anémie due à la malnutrition."
+    },
+    {
+      "subtitle_index": 547,
+      "start_time": 4270.247,
+      "end_time": 4271.492,
+      "duration": 1.2449999999998909,
+      "dialogue_text": "La diarrhée aussi."
+    },
+    {
+      "subtitle_index": 548,
+      "start_time": 4271.707,
+      "end_time": 4272.288,
+      "duration": 0.5809999999992215,
+      "dialogue_text": "Au suivant."
+    },
+    {
+      "subtitle_index": 549,
+      "start_time": 4272.875,
+      "end_time": 4274.999,
+      "duration": 2.1239999999997963,
+      "dialogue_text": "Quel médicament ou piqûre..?"
+    },
+    {
+      "subtitle_index": 550,
+      "start_time": 4275.211,
+      "end_time": 4277.169,
+      "duration": 1.957999999999629,
+      "dialogue_text": "J'aime pas les piqûres !"
+    },
+    {
+      "subtitle_index": 551,
+      "start_time": 4277.38,
+      "end_time": 4279.504,
+      "duration": 2.1239999999997963,
+      "dialogue_text": "Donnez-nous un traitement."
+    },
+    {
+      "subtitle_index": 552,
+      "start_time": 4279.716,
+      "end_time": 4280.915,
+      "duration": 1.1989999999996144,
+      "dialogue_text": "Je vous en prie."
+    },
+    {
+      "subtitle_index": 553,
+      "start_time": 4281.135,
+      "end_time": 4282.843,
+      "duration": 1.707999999999629,
+      "dialogue_text": "Le seul médicament..."
+    },
+    {
+      "subtitle_index": 554,
+      "start_time": 4283.054,
+      "end_time": 4285.343,
+      "duration": 2.28899999999976,
+      "dialogue_text": "c'est de bons aliments,"
+    },
+    {
+      "subtitle_index": 555,
+      "start_time": 4285.557,
+      "end_time": 4286.256,
+      "duration": 0.6990000000005239,
+      "dialogue_text": "c'est tout."
+    },
+    {
+      "subtitle_index": 556,
+      "start_time": 4286.474,
+      "end_time": 4288.348,
+      "duration": 1.8739999999997963,
+      "dialogue_text": "De bons aliments..."
+    },
+    {
+      "subtitle_index": 557,
+      "start_time": 4289.144,
+      "end_time": 4290.223,
+      "duration": 1.0789999999997235,
+      "dialogue_text": "Alors..?"
+    },
+    {
+      "subtitle_index": 558,
+      "start_time": 4290.437,
+      "end_time": 4292.81,
+      "duration": 2.373000000000502,
+      "dialogue_text": "Les bons aliments, où sont-ils ?"
+    },
+    {
+      "subtitle_index": 559,
+      "start_time": 4341.58,
+      "end_time": 4343.371,
+      "duration": 1.7910000000001673,
+      "dialogue_text": "On a faim, hein ?"
+    },
+    {
+      "subtitle_index": 560,
+      "start_time": 4344.583,
+      "end_time": 4345.959,
+      "duration": 1.3760000000002037,
+      "dialogue_text": "Que veux-tu manger ?"
+    },
+    {
+      "subtitle_index": 561,
+      "start_time": 4346.168,
+      "end_time": 4347.96,
+      "duration": 1.792000000000371,
+      "dialogue_text": "Des beignets..."
+    },
+    {
+      "subtitle_index": 562,
+      "start_time": 4348.171,
+      "end_time": 4349.796,
+      "duration": 1.625,
+      "dialogue_text": "du poisson cru,"
+    },
+    {
+      "subtitle_index": 563,
+      "start_time": 4350.006,
+      "end_time": 4351.584,
+      "duration": 1.5779999999995198,
+      "dialogue_text": "et de la gelée."
+    },
+    {
+      "subtitle_index": 564,
+      "start_time": 4351.8,
+      "end_time": 4352.963,
+      "duration": 1.1629999999995562,
+      "dialogue_text": "C'est tout ?"
+    },
+    {
+      "subtitle_index": 565,
+      "start_time": 4353.177,
+      "end_time": 4355.466,
+      "duration": 2.2890000000006694,
+      "dialogue_text": "Une glace."
+    },
+    {
+      "subtitle_index": 566,
+      "start_time": 4355.68,
+      "end_time": 4356.296,
+      "duration": 0.6159999999999854,
+      "dialogue_text": "Et puis..."
+    },
+    {
+      "subtitle_index": 567,
+      "start_time": 4357.682,
+      "end_time": 4359.556,
+      "duration": 1.8739999999997963,
+      "dialogue_text": "des bonbons aux fruits."
+    },
+    {
+      "subtitle_index": 568,
+      "start_time": 4360.393,
+      "end_time": 4361.888,
+      "duration": 1.4949999999998909,
+      "dialogue_text": "Des bonbons ?"
+    },
+    {
+      "subtitle_index": 569,
+      "start_time": 4362.104,
+      "end_time": 4363.384,
+      "duration": 1.2799999999997453,
+      "dialogue_text": "Très bien !"
+    },
+    {
+      "subtitle_index": 570,
+      "start_time": 4366.817,
+      "end_time": 4368.81,
+      "duration": 1.993000000000393,
+      "dialogue_text": "Je vais vider le compte,"
+    },
+    {
+      "subtitle_index": 571,
+      "start_time": 4369.028,
+      "end_time": 4370.191,
+      "duration": 1.1629999999995562,
+      "dialogue_text": "et acheter tout ça."
+    },
+    {
+      "subtitle_index": 572,
+      "start_time": 4370.405,
+      "end_time": 4372.694,
+      "duration": 2.2890000000006694,
+      "dialogue_text": "J'ai besoin de rien,"
+    },
+    {
+      "subtitle_index": 573,
+      "start_time": 4372.908,
+      "end_time": 4375.316,
+      "duration": 2.407999999999447,
+      "dialogue_text": "reste avec moi, Seita."
+    },
+    {
+      "subtitle_index": 574,
+      "start_time": 4375.87,
+      "end_time": 4379.619,
+      "duration": 3.7489999999997963,
+      "dialogue_text": "Ne pars pas, ne pars pas !"
+    },
+    {
+      "subtitle_index": 575,
+      "start_time": 4382.461,
+      "end_time": 4384.75,
+      "duration": 2.28899999999976,
+      "dialogue_text": "Ne t' inquiète pas, Setsuko."
+    },
+    {
+      "subtitle_index": 576,
+      "start_time": 4385.381,
+      "end_time": 4389.426,
+      "duration": 4.045000000000073,
+      "dialogue_text": "Je vais prendre tout notre argent et acheter de bons aliments."
+    },
+    {
+      "subtitle_index": 577,
+      "start_time": 4389.969,
+      "end_time": 4391.713,
+      "duration": 1.7439999999996871,
+      "dialogue_text": "Je ne partirai plus."
+    },
+    {
+      "subtitle_index": 578,
+      "start_time": 4391.93,
+      "end_time": 4394.884,
+      "duration": 2.9539999999997235,
+      "dialogue_text": "Je resterai toujours près de toi."
+    },
+    {
+      "subtitle_index": 579,
+      "start_time": 4397.103,
+      "end_time": 4397.849,
+      "duration": 0.7460000000000946,
+      "dialogue_text": "C'est promis."
+    },
+    {
+      "subtitle_index": 580,
+      "start_time": 4420.129,
+      "end_time": 4421.161,
+      "duration": 1.0320000000001528,
+      "dialogue_text": "Tenez, 3000 yen."
+    },
+    {
+      "subtitle_index": 581,
+      "start_time": 4421.756,
+      "end_time": 4423.583,
+      "duration": 1.826999999999316,
+      "dialogue_text": "Un typhon approche ?"
+    },
+    {
+      "subtitle_index": 582,
+      "start_time": 4423.8,
+      "end_time": 4425.674,
+      "duration": 1.8739999999997963,
+      "dialogue_text": "Ca ne sert plus à rien"
+    },
+    {
+      "subtitle_index": 583,
+      "start_time": 4425.886,
+      "end_time": 4428.887,
+      "duration": 3.0009999999992942,
+      "dialogue_text": "puisque la reddition a eu lieu. Trop tard !"
+    },
+    {
+      "subtitle_index": 584,
+      "start_time": 4429.098,
+      "end_time": 4431.969,
+      "duration": 2.8710000000000946,
+      "dialogue_text": "La reddition..? On a perdu la guerre ?"
+    },
+    {
+      "subtitle_index": 585,
+      "start_time": 4432.811,
+      "end_time": 4434.85,
+      "duration": 2.0390000000006694,
+      "dialogue_text": "D'où tu sors, toi..?"
+    },
+    {
+      "subtitle_index": 586,
+      "start_time": 4438.317,
+      "end_time": 4439.776,
+      "duration": 1.4589999999998327,
+      "dialogue_text": "On est vraiment vaincus ?"
+    },
+    {
+      "subtitle_index": 587,
+      "start_time": 4439.986,
+      "end_time": 4441.694,
+      "duration": 1.7080000000005384,
+      "dialogue_text": "Le Grand Empire japonais..?"
+    },
+    {
+      "subtitle_index": 588,
+      "start_time": 4441.904,
+      "end_time": 4444.822,
+      "duration": 2.9179999999996653,
+      "dialogue_text": "Reddition sans conditions."
+    },
+    {
+      "subtitle_index": 589,
+      "start_time": 4446.201,
+      "end_time": 4447.577,
+      "duration": 1.3760000000002037,
+      "dialogue_text": "Et la Flotte ?"
+    },
+    {
+      "subtitle_index": 590,
+      "start_time": 4447.786,
+      "end_time": 4452.2,
+      "duration": 4.41399999999976,
+      "dialogue_text": "Foutue ! Ca fait belle lurette que tous les navires ont coulé !"
+    },
+    {
+      "subtitle_index": 591,
+      "start_time": 4452.417,
+      "end_time": 4453.081,
+      "duration": 0.6639999999997599,
+      "dialogue_text": "Quoi ?"
+    },
+    {
+      "subtitle_index": 592,
+      "start_time": 4454.002,
+      "end_time": 4458.131,
+      "duration": 4.128999999999905,
+      "dialogue_text": "Le croiseur de mon père a coulé ? C'est pour ça qu' il écrivait pas !"
+    },
+    {
+      "subtitle_index": 593,
+      "start_time": 4458.34,
+      "end_time": 4459.538,
+      "duration": 1.1979999999994106,
+      "dialogue_text": "J'en sais rien, moi !"
+    },
+    {
+      "subtitle_index": 594,
+      "start_time": 4461.093,
+      "end_time": 4463.3,
+      "duration": 2.2070000000003347,
+      "dialogue_text": "Il est fou, ce gamin !"
+    },
+    {
+      "subtitle_index": 595,
+      "start_time": 4467.225,
+      "end_time": 4469.053,
+      "duration": 1.8279999999995198,
+      "dialogue_text": "Papa est un idiot !"
+    },
+    {
+      "subtitle_index": 596,
+      "start_time": 4485.33,
+      "end_time": 4486.658,
+      "duration": 1.3280000000004293,
+      "dialogue_text": "J'ai faim !"
+    },
+    {
+      "subtitle_index": 597,
+      "start_time": 4492.338,
+      "end_time": 4492.919,
+      "duration": 0.581000000000131,
+      "dialogue_text": "Papa..."
+    },
+    {
+      "subtitle_index": 598,
+      "start_time": 4501.724,
+      "end_time": 4503.598,
+      "duration": 1.8739999999997963,
+      "dialogue_text": "Toi aussi, tu es mort."
+    },
+    {
+      "subtitle_index": 599,
+      "start_time": 4505.186,
+      "end_time": 4506.894,
+      "duration": 1.7080000000005384,
+      "dialogue_text": "Toi aussi, tu es mort."
+    },
+    {
+      "subtitle_index": 600,
+      "start_time": 4554.201,
+      "end_time": 4555.53,
+      "duration": 1.3289999999997235,
+      "dialogue_text": "Me voilà enfin."
+    },
+    {
+      "subtitle_index": 601,
+      "start_time": 4555.745,
+      "end_time": 4558.236,
+      "duration": 2.4909999999999854,
+      "dialogue_text": "Tu vas avoir un bon gruau de riz blanc."
+    },
+    {
+      "subtitle_index": 602,
+      "start_time": 4558.456,
+      "end_time": 4560.496,
+      "duration": 2.0399999999999636,
+      "dialogue_text": "Luciole en haut..."
+    },
+    {
+      "subtitle_index": 603,
+      "start_time": 4562.503,
+      "end_time": 4564.792,
+      "duration": 2.2890000000006694,
+      "dialogue_text": "Luciole en bas..."
+    },
+    {
+      "subtitle_index": 604,
+      "start_time": 4567.133,
+      "end_time": 4569.505,
+      "duration": 2.3720000000002983,
+      "dialogue_text": "Oh, elle s'est arrêtée..."
+    },
+    {
+      "subtitle_index": 605,
+      "start_time": 4570.22,
+      "end_time": 4572.509,
+      "duration": 2.28899999999976,
+      "dialogue_text": "J'ai trouvé du poulet et des oeufs."
+    },
+    {
+      "subtitle_index": 606,
+      "start_time": 4575.017,
+      "end_time": 4576.809,
+      "duration": 1.792000000000371,
+      "dialogue_text": "Et puis, tu sais..."
+    },
+    {
+      "subtitle_index": 607,
+      "start_time": 4585.404,
+      "end_time": 4587.777,
+      "duration": 2.3729999999995925,
+      "dialogue_text": "Qu'est-ce que t'as dans la bouche ?"
+    },
+    {
+      "subtitle_index": 608,
+      "start_time": 4591.703,
+      "end_time": 4594.408,
+      "duration": 2.7049999999999272,
+      "dialogue_text": "Pas ça ! C'est pas un bonbon !"
+    },
+    {
+      "subtitle_index": 609,
+      "start_time": 4597.209,
+      "end_time": 4599.249,
+      "duration": 2.0399999999999636,
+      "dialogue_text": "J'ai là des choses bien meilleures,"
+    },
+    {
+      "subtitle_index": 610,
+      "start_time": 4599.462,
+      "end_time": 4601.502,
+      "duration": 2.0399999999999636,
+      "dialogue_text": "des choses que tu aimes."
+    },
+    {
+      "subtitle_index": 611,
+      "start_time": 4606.053,
+      "end_time": 4607.927,
+      "duration": 1.8739999999997963,
+      "dialogue_text": "Sers-toi."
+    },
+    {
+      "subtitle_index": 612,
+      "start_time": 4611.726,
+      "end_time": 4613.304,
+      "duration": 1.5780000000004293,
+      "dialogue_text": "C'est quoi... Setsuko ?"
+    },
+    {
+      "subtitle_index": 613,
+      "start_time": 4613.895,
+      "end_time": 4616.019,
+      "duration": 2.1239999999997963,
+      "dialogue_text": "Du riz..."
+    },
+    {
+      "subtitle_index": 614,
+      "start_time": 4617.441,
+      "end_time": 4620.727,
+      "duration": 3.286000000000058,
+      "dialogue_text": "et j'ai aussi fait cuire des pois."
+    },
+    {
+      "subtitle_index": 615,
+      "start_time": 4622.238,
+      "end_time": 4624.812,
+      "duration": 2.5739999999996144,
+      "dialogue_text": "Allez, prends-en."
+    },
+    {
+      "subtitle_index": 616,
+      "start_time": 4629.664,
+      "end_time": 4630.446,
+      "duration": 0.7820000000001528,
+      "dialogue_text": "Tu ne manges pas ?"
+    },
+    {
+      "subtitle_index": 617,
+      "start_time": 4643.138,
+      "end_time": 4644.252,
+      "duration": 1.1140000000004875,
+      "dialogue_text": "Une pastèque..."
+    },
+    {
+      "subtitle_index": 618,
+      "start_time": 4644.473,
+      "end_time": 4647.094,
+      "duration": 2.6210000000000946,
+      "dialogue_text": "celle-ci, je l'ai achetée."
+    },
+    {
+      "subtitle_index": 619,
+      "start_time": 4658.948,
+      "end_time": 4661.106,
+      "duration": 2.157999999999447,
+      "dialogue_text": "Tiens... de la pastèque !"
+    },
+    {
+      "subtitle_index": 620,
+      "start_time": 4668.918,
+      "end_time": 4670.329,
+      "duration": 1.4110000000000582,
+      "dialogue_text": "C'est bon..."
+    },
+    {
+      "subtitle_index": 621,
+      "start_time": 4675.258,
+      "end_time": 4676.088,
+      "duration": 0.8299999999999272,
+      "dialogue_text": "Attends..."
+    },
+    {
+      "subtitle_index": 622,
+      "start_time": 4676.301,
+      "end_time": 4679.172,
+      "duration": 2.870999999999185,
+      "dialogue_text": "je te prépare du gruau de riz."
+    },
+    {
+      "subtitle_index": 623,
+      "start_time": 4686.354,
+      "end_time": 4688.928,
+      "duration": 2.5739999999996144,
+      "dialogue_text": "La pastèque, je la laisse là."
+    },
+    {
+      "subtitle_index": 624,
+      "start_time": 4695.281,
+      "end_time": 4697.689,
+      "duration": 2.4080000000003565,
+      "dialogue_text": "Merci pour tout."
+    },
+    {
+      "subtitle_index": 625,
+      "start_time": 4721.77,
+      "end_time": 4725.472,
+      "duration": 3.701999999999316,
+      "dialogue_text": "Setsuko ne se réveilla pas."
+    },
+    {
+      "subtitle_index": 626,
+      "start_time": 4777.71,
+      "end_time": 4780.795,
+      "duration": 3.0850000000000364,
+      "dialogue_text": "Du charbon de bois spécial pour l' incinération."
+    },
+    {
+      "subtitle_index": 627,
+      "start_time": 4781.214,
+      "end_time": 4784.085,
+      "duration": 2.8710000000000946,
+      "dialogue_text": "Comme c'est une enfant, demande au temple."
+    },
+    {
+      "subtitle_index": 628,
+      "start_time": 4785.136,
+      "end_time": 4789.597,
+      "duration": 4.460999999999331,
+      "dialogue_text": "Tu la mets nue et tu démarres le feu aux haricots de soja."
+    },
+    {
+      "subtitle_index": 629,
+      "start_time": 4790.433,
+      "end_time": 4792.972,
+      "duration": 2.53899999999976,
+      "dialogue_text": "Quel beau temps quand même..!"
+    },
+    {
+      "subtitle_index": 630,
+      "start_time": 4798.151,
+      "end_time": 4800.82,
+      "duration": 2.668999999999869,
+      "dialogue_text": "La maison n'a pas changé !"
+    },
+    {
+      "subtitle_index": 631,
+      "start_time": 4801.029,
+      "end_time": 4803.318,
+      "duration": 2.28899999999976,
+      "dialogue_text": "C'est bon d'être de retour !"
+    },
+    {
+      "subtitle_index": 632,
+      "start_time": 4806.327,
+      "end_time": 4809.862,
+      "duration": 3.5349999999998545,
+      "dialogue_text": "Bonjour, cher vieux tourne-disques !"
+    },
+    {
+      "subtitle_index": 633,
+      "start_time": 4813.418,
+      "end_time": 4816.788,
+      "duration": 3.369999999999891,
+      "dialogue_text": "Ce paysage m'a tellement manqué !"
+    },
+    {
+      "subtitle_index": 634,
+      "start_time": 4820.76,
+      "end_time": 4826.004,
+      "duration": 5.243999999999687,
+      "dialogue_text": "Plaisirs du monde et palais"
+    },
+    {
+      "subtitle_index": 635,
+      "start_time": 4827.226,
+      "end_time": 4832.019,
+      "duration": 4.793000000000575,
+      "dialogue_text": "Ne le vaudront jamais"
+    },
+    {
+      "subtitle_index": 636,
+      "start_time": 4837.238,
+      "end_time": 4842.743,
+      "duration": 5.505000000000109,
+      "dialogue_text": "Aussi humble soit-il"
+    },
+    {
+      "subtitle_index": 637,
+      "start_time": 4847.666,
+      "end_time": 4851.166,
+      "duration": 3.5,
+      "dialogue_text": "Rien ne vaut son chez soi!"
+    },
+    {
+      "subtitle_index": 638,
+      "start_time": 4856.218,
+      "end_time": 4860.631,
+      "duration": 4.413000000000466,
+      "dialogue_text": "Bénédiction du ciel"
+    },
+    {
+      "subtitle_index": 639,
+      "start_time": 4862.267,
+      "end_time": 4864.176,
+      "duration": 1.9090000000005602,
+      "dialogue_text": "Reviens vite !"
+    },
+    {
+      "subtitle_index": 640,
+      "start_time": 4864.394,
+      "end_time": 4868.724,
+      "duration": 4.329999999999927,
+      "dialogue_text": "On aura beau"
+    },
+    {
+      "subtitle_index": 641,
+      "start_time": 4872.82,
+      "end_time": 4877.483,
+      "duration": 4.663000000000466,
+      "dialogue_text": "Courir le monde"
+    },
+    {
+      "subtitle_index": 642,
+      "start_time": 4881.372,
+      "end_time": 4886.877,
+      "duration": 5.505000000000109,
+      "dialogue_text": "Rien ne vaut"
+    },
+    {
+      "subtitle_index": 643,
+      "start_time": 4887.963,
+      "end_time": 4890.003,
+      "duration": 2.0399999999999636,
+      "dialogue_text": "Son chez soi..."
+    },
+    {
+      "subtitle_index": 644,
+      "start_time": 4928.844,
+      "end_time": 4932.889,
+      "duration": 4.045000000000073,
+      "dialogue_text": "Rien ne le vaut!"
+    },
+    {
+      "subtitle_index": 645,
+      "start_time": 5082.021,
+      "end_time": 5083.053,
+      "duration": 1.0320000000001528,
+      "dialogue_text": "Le lendemain matin,"
+    },
+    {
+      "subtitle_index": 646,
+      "start_time": 5083.69,
+      "end_time": 5088.981,
+      "duration": 5.291000000000167,
+      "dialogue_text": "j'ai mis les petits os de Setsuko dans la boîte de bonbons."
+    },
+    {
+      "subtitle_index": 647,
+      "start_time": 5089.196,
+      "end_time": 5091.948,
+      "duration": 2.7520000000004075,
+      "dialogue_text": "J'ai quitté le refuge à jamais."
+    },
+    {
+      "subtitle_index": 648,
+      "start_time": 5307.5,
+      "end_time": 5312.5,
+      "duration": 5.0,
+      "dialogue_text": "Sous-titres : Filou ;-)"
+    }
+  ]
+}

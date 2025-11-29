@@ -1,0 +1,4324 @@
+{
+  "metadata": {
+    "film_name": "My Neighbor Totoro",
+    "film_slug": "my_neighbor_totoro_nl",
+    "language_code": "nl",
+    "total_subtitles": 616,
+    "total_duration": 5031.277,
+    "parse_timestamp": "2025-10-30T17:09:42.484053"
+  },
+  "subtitles": [
+    {
+      "subtitle_index": 1,
+      "start_time": 152.323,
+      "end_time": 154.492,
+      "duration": 2.1689999999999827,
+      "dialogue_text": "Pa, wil je snoep?"
+    },
+    {
+      "subtitle_index": 2,
+      "start_time": 154.576,
+      "end_time": 157.036,
+      "duration": 2.460000000000008,
+      "dialogue_text": "Bedankt. Ben je niet moe?"
+    },
+    {
+      "subtitle_index": 3,
+      "start_time": 157.12,
+      "end_time": 159.038,
+      "duration": 1.9180000000000064,
+      "dialogue_text": "Nee. - We zijn er bijna."
+    },
+    {
+      "subtitle_index": 4,
+      "start_time": 170.758,
+      "end_time": 171.885,
+      "duration": 1.1269999999999811,
+      "dialogue_text": "Mei, verstop je."
+    },
+    {
+      "subtitle_index": 5,
+      "start_time": 177.807,
+      "end_time": 179.225,
+      "duration": 1.4180000000000064,
+      "dialogue_text": "Het was geen politieagent."
+    },
+    {
+      "subtitle_index": 6,
+      "start_time": 179.475,
+      "end_time": 181.019,
+      "duration": 1.5440000000000111,
+      "dialogue_text": "Hallo."
+    },
+    {
+      "subtitle_index": 7,
+      "start_time": 212.133,
+      "end_time": 214.761,
+      "duration": 2.627999999999986,
+      "dialogue_text": "Hallo. Zijn je ouders er?"
+    },
+    {
+      "subtitle_index": 8,
+      "start_time": 217.013,
+      "end_time": 218.097,
+      "duration": 1.0840000000000032,
+      "dialogue_text": "Bedankt."
+    },
+    {
+      "subtitle_index": 9,
+      "start_time": 220.433,
+      "end_time": 224.103,
+      "duration": 3.670000000000016,
+      "dialogue_text": "Ik ben Kusakabe. We zijn net aangekomen."
+    },
+    {
+      "subtitle_index": 10,
+      "start_time": 225.188,
+      "end_time": 227.023,
+      "duration": 1.835000000000008,
+      "dialogue_text": "Leuk je te ontmoeten."
+    },
+    {
+      "subtitle_index": 11,
+      "start_time": 227.69,
+      "end_time": 229.943,
+      "duration": 2.2530000000000143,
+      "dialogue_text": "Welkom."
+    },
+    {
+      "subtitle_index": 12,
+      "start_time": 234.447,
+      "end_time": 235.531,
+      "duration": 1.0840000000000032,
+      "dialogue_text": "Bedankt."
+    },
+    {
+      "subtitle_index": 13,
+      "start_time": 257.845,
+      "end_time": 258.972,
+      "duration": 1.1269999999999527,
+      "dialogue_text": "We zijn er."
+    },
+    {
+      "subtitle_index": 14,
+      "start_time": 260.556,
+      "end_time": 261.808,
+      "duration": 1.2520000000000095,
+      "dialogue_text": "Wacht."
+    },
+    {
+      "subtitle_index": 15,
+      "start_time": 264.727,
+      "end_time": 267.272,
+      "duration": 2.545000000000016,
+      "dialogue_text": "Mei, daar is een brug. - Een brug?"
+    },
+    {
+      "subtitle_index": 16,
+      "start_time": 272.61,
+      "end_time": 274.654,
+      "duration": 2.0439999999999827,
+      "dialogue_text": "Zie je dat? Er zijn ook vissen."
+    },
+    {
+      "subtitle_index": 17,
+      "start_time": 275.822,
+      "end_time": 277.24,
+      "duration": 1.4180000000000064,
+      "dialogue_text": "Vinden jullie het hier leuk?"
+    },
+    {
+      "subtitle_index": 18,
+      "start_time": 280.118,
+      "end_time": 282.245,
+      "duration": 2.1270000000000095,
+      "dialogue_text": "Pa, het is fantastisch."
+    },
+    {
+      "subtitle_index": 19,
+      "start_time": 282.62,
+      "end_time": 284.038,
+      "duration": 1.4180000000000064,
+      "dialogue_text": "Kijk, een tunnel van bomen."
+    },
+    {
+      "subtitle_index": 20,
+      "start_time": 287.417,
+      "end_time": 288.71,
+      "duration": 1.2930000000000064,
+      "dialogue_text": "Is dat ons huis?"
+    },
+    {
+      "subtitle_index": 21,
+      "start_time": 292.797,
+      "end_time": 294.465,
+      "duration": 1.6679999999999495,
+      "dialogue_text": "Kom op."
+    },
+    {
+      "subtitle_index": 22,
+      "start_time": 308.313,
+      "end_time": 309.355,
+      "duration": 1.04200000000003,
+      "dialogue_text": "Het is een bouwval."
+    },
+    {
+      "subtitle_index": 23,
+      "start_time": 309.439,
+      "end_time": 310.898,
+      "duration": 1.4590000000000032,
+      "dialogue_text": "Bouwval."
+    },
+    {
+      "subtitle_index": 24,
+      "start_time": 310.982,
+      "end_time": 313.318,
+      "duration": 2.335999999999956,
+      "dialogue_text": "Het lijkt op een spookhuis. - Spoken?"
+    },
+    {
+      "subtitle_index": 25,
+      "start_time": 321.242,
+      "end_time": 322.327,
+      "duration": 1.0849999999999795,
+      "dialogue_text": "En het is helemaal verrot."
+    },
+    {
+      "subtitle_index": 26,
+      "start_time": 334.213,
+      "end_time": 335.423,
+      "duration": 1.2099999999999795,
+      "dialogue_text": "Het gaat instorten."
+    },
+    {
+      "subtitle_index": 27,
+      "start_time": 335.506,
+      "end_time": 337.675,
+      "duration": 2.1690000000000396,
+      "dialogue_text": "Instorten."
+    },
+    {
+      "subtitle_index": 28,
+      "start_time": 347.643,
+      "end_time": 349.103,
+      "duration": 1.4600000000000364,
+      "dialogue_text": "Kijk, Mei."
+    },
+    {
+      "subtitle_index": 29,
+      "start_time": 351.731,
+      "end_time": 352.69,
+      "duration": 0.9590000000000032,
+      "dialogue_text": "Zie je?"
+    },
+    {
+      "subtitle_index": 30,
+      "start_time": 362.158,
+      "end_time": 363.785,
+      "duration": 1.6270000000000095,
+      "dialogue_text": "Hij is enorm."
+    },
+    {
+      "subtitle_index": 31,
+      "start_time": 369.499,
+      "end_time": 372.001,
+      "duration": 2.5019999999999527,
+      "dialogue_text": "Pa, er is een enorme boom."
+    },
+    {
+      "subtitle_index": 32,
+      "start_time": 372.794,
+      "end_time": 374.504,
+      "duration": 1.7100000000000364,
+      "dialogue_text": "Dat is een kamferboom."
+    },
+    {
+      "subtitle_index": 33,
+      "start_time": 376.506,
+      "end_time": 378.883,
+      "duration": 2.3770000000000095,
+      "dialogue_text": "Kamferboom. - Kamferboom."
+    },
+    {
+      "subtitle_index": 34,
+      "start_time": 387.975,
+      "end_time": 389.143,
+      "duration": 1.1679999999999495,
+      "dialogue_text": "Oeps."
+    },
+    {
+      "subtitle_index": 35,
+      "start_time": 391.646,
+      "end_time": 392.688,
+      "duration": 1.0419999999999732,
+      "dialogue_text": "Een eikeltje."
+    },
+    {
+      "subtitle_index": 36,
+      "start_time": 395.233,
+      "end_time": 396.567,
+      "duration": 1.3340000000000032,
+      "dialogue_text": "Laat zien."
+    },
+    {
+      "subtitle_index": 37,
+      "start_time": 397.443,
+      "end_time": 398.778,
+      "duration": 1.3350000000000364,
+      "dialogue_text": "Nog een."
+    },
+    {
+      "subtitle_index": 38,
+      "start_time": 404.826,
+      "end_time": 406.369,
+      "duration": 1.5430000000000064,
+      "dialogue_text": "Die is van mij."
+    },
+    {
+      "subtitle_index": 39,
+      "start_time": 412.458,
+      "end_time": 414.794,
+      "duration": 2.335999999999956,
+      "dialogue_text": "Aan de kant. Ik krijg de schermen niet open."
+    },
+    {
+      "subtitle_index": 40,
+      "start_time": 415.711,
+      "end_time": 416.796,
+      "duration": 1.0849999999999795,
+      "dialogue_text": "Eikeltjes."
+    },
+    {
+      "subtitle_index": 41,
+      "start_time": 416.879,
+      "end_time": 419.173,
+      "duration": 2.2939999999999827,
+      "dialogue_text": "Er liggen eikeltjes in het huis."
+    },
+    {
+      "subtitle_index": 42,
+      "start_time": 419.257,
+      "end_time": 420.55,
+      "duration": 1.2930000000000064,
+      "dialogue_text": "Ze komen daaruit gevallen."
+    },
+    {
+      "subtitle_index": 43,
+      "start_time": 425.388,
+      "end_time": 428.057,
+      "duration": 2.6690000000000396,
+      "dialogue_text": "Misschien zijn er eekhoorns."
+    },
+    {
+      "subtitle_index": 44,
+      "start_time": 428.683,
+      "end_time": 430.059,
+      "duration": 1.3760000000000332,
+      "dialogue_text": "Eekhoorns, echt?"
+    },
+    {
+      "subtitle_index": 45,
+      "start_time": 430.977,
+      "end_time": 432.937,
+      "duration": 1.9600000000000364,
+      "dialogue_text": "Of ratten, die houden ook van eikeltjes."
+    },
+    {
+      "subtitle_index": 46,
+      "start_time": 433.479,
+      "end_time": 435.565,
+      "duration": 2.0860000000000127,
+      "dialogue_text": "Ik heb liever eekhoorns."
+    },
+    {
+      "subtitle_index": 47,
+      "start_time": 436.357,
+      "end_time": 438.067,
+      "duration": 1.7099999999999795,
+      "dialogue_text": "Waar zal ik dit zetten?"
+    },
+    {
+      "subtitle_index": 48,
+      "start_time": 439.026,
+      "end_time": 443.114,
+      "duration": 4.087999999999965,
+      "dialogue_text": "Hier, ik doe de deur wel open. Satsuki, doe de keukendeur open."
+    },
+    {
+      "subtitle_index": 49,
+      "start_time": 443.197,
+      "end_time": 444.115,
+      "duration": 0.9180000000000064,
+      "dialogue_text": "Oké."
+    },
+    {
+      "subtitle_index": 50,
+      "start_time": 444.24,
+      "end_time": 446.033,
+      "duration": 1.7930000000000064,
+      "dialogue_text": "Het is om de hoek."
+    },
+    {
+      "subtitle_index": 51,
+      "start_time": 448.119,
+      "end_time": 449.328,
+      "duration": 1.2089999999999463,
+      "dialogue_text": "Mei, kom op."
+    },
+    {
+      "subtitle_index": 52,
+      "start_time": 450.746,
+      "end_time": 452.081,
+      "duration": 1.3350000000000364,
+      "dialogue_text": "Wacht op mij."
+    },
+    {
+      "subtitle_index": 53,
+      "start_time": 453.833,
+      "end_time": 455.376,
+      "duration": 1.5429999999999495,
+      "dialogue_text": "Schiet op."
+    },
+    {
+      "subtitle_index": 54,
+      "start_time": 493.581,
+      "end_time": 494.54,
+      "duration": 0.9590000000000032,
+      "dialogue_text": "Klaar?"
+    },
+    {
+      "subtitle_index": 55,
+      "start_time": 507.136,
+      "end_time": 508.054,
+      "duration": 0.9179999999999495,
+      "dialogue_text": "Badkuipen."
+    },
+    {
+      "subtitle_index": 56,
+      "start_time": 514.393,
+      "end_time": 515.394,
+      "duration": 1.0009999999999764,
+      "dialogue_text": "Hier is niets."
+    },
+    {
+      "subtitle_index": 57,
+      "start_time": 517.98,
+      "end_time": 519.065,
+      "duration": 1.0850000000000364,
+      "dialogue_text": "Dat is de badkamer."
+    },
+    {
+      "subtitle_index": 58,
+      "start_time": 519.148,
+      "end_time": 520.942,
+      "duration": 1.7939999999999827,
+      "dialogue_text": "Pa. Er zit hier iets."
+    },
+    {
+      "subtitle_index": 59,
+      "start_time": 521.025,
+      "end_time": 521.943,
+      "duration": 0.9180000000000064,
+      "dialogue_text": "Een eekhoorn?"
+    },
+    {
+      "subtitle_index": 60,
+      "start_time": 522.026,
+      "end_time": 526.948,
+      "duration": 4.9220000000000255,
+      "dialogue_text": "Ik weet niet. Wat zwarte dingen, maar geen kakkerlakken of muizen."
+    },
+    {
+      "subtitle_index": 61,
+      "start_time": 527.031,
+      "end_time": 528.241,
+      "duration": 1.2100000000000364,
+      "dialogue_text": "Echt?"
+    },
+    {
+      "subtitle_index": 62,
+      "start_time": 540.127,
+      "end_time": 541.128,
+      "duration": 1.00100000000009,
+      "dialogue_text": "Zie je ze?"
+    },
+    {
+      "subtitle_index": 63,
+      "start_time": 542.713,
+      "end_time": 544.257,
+      "duration": 1.5439999999999827,
+      "dialogue_text": "Ik denk dat het stofkonijntjes waren."
+    },
+    {
+      "subtitle_index": 64,
+      "start_time": 544.799,
+      "end_time": 547.26,
+      "duration": 2.4610000000000127,
+      "dialogue_text": "Stofkonijntjes? Zoals in mijn plaatjesboek?"
+    },
+    {
+      "subtitle_index": 65,
+      "start_time": 547.593,
+      "end_time": 551.055,
+      "duration": 3.461999999999989,
+      "dialogue_text": "Precies. Spoken komen niet tevoorschijn op een dag als vandaag."
+    },
+    {
+      "subtitle_index": 66,
+      "start_time": 556.519,
+      "end_time": 558.604,
+      "duration": 2.0850000000000364,
+      "dialogue_text": "Als je van buiten een donkere kamer inkomt..."
+    },
+    {
+      "subtitle_index": 67,
+      "start_time": 559.355,
+      "end_time": 561.732,
+      "duration": 2.3769999999999527,
+      "dialogue_text": "...moeten je ogen wennen en zie je stofkonijntjes."
+    },
+    {
+      "subtitle_index": 68,
+      "start_time": 562.316,
+      "end_time": 563.442,
+      "duration": 1.1259999999999764,
+      "dialogue_text": "Ik snap het."
+    },
+    {
+      "subtitle_index": 69,
+      "start_time": 564.026,
+      "end_time": 567.238,
+      "duration": 3.2120000000001028,
+      "dialogue_text": "Kom hier, stofkonijntjes."
+    },
+    {
+      "subtitle_index": 70,
+      "start_time": 567.321,
+      "end_time": 570.408,
+      "duration": 3.086999999999989,
+      "dialogue_text": "Kom tevoorschijn, waar jullie ook zijn."
+    },
+    {
+      "subtitle_index": 71,
+      "start_time": 576.163,
+      "end_time": 580.293,
+      "duration": 4.1299999999999955,
+      "dialogue_text": "Laten we aan de slag gaan. Eens zien of je boven kunt komen."
+    },
+    {
+      "subtitle_index": 72,
+      "start_time": 582.461,
+      "end_time": 584.839,
+      "duration": 2.3780000000000427,
+      "dialogue_text": "Doe boven alle ramen maar open."
+    },
+    {
+      "subtitle_index": 73,
+      "start_time": 585.548,
+      "end_time": 586.382,
+      "duration": 0.8339999999999463,
+      "dialogue_text": "Oké."
+    },
+    {
+      "subtitle_index": 74,
+      "start_time": 586.674,
+      "end_time": 588.092,
+      "duration": 1.4180000000000064,
+      "dialogue_text": "Ik kom ook."
+    },
+    {
+      "subtitle_index": 75,
+      "start_time": 596.976,
+      "end_time": 598.019,
+      "duration": 1.0430000000000064,
+      "dialogue_text": "Toilet."
+    },
+    {
+      "subtitle_index": 76,
+      "start_time": 600.605,
+      "end_time": 601.564,
+      "duration": 0.9589999999999463,
+      "dialogue_text": "Niet hier."
+    },
+    {
+      "subtitle_index": 77,
+      "start_time": 604.609,
+      "end_time": 606.694,
+      "duration": 2.0849999999999227,
+      "dialogue_text": "Niet hier. - Niet hier."
+    },
+    {
+      "subtitle_index": 78,
+      "start_time": 610.072,
+      "end_time": 612.283,
+      "duration": 2.2110000000000127,
+      "dialogue_text": "Niet hier. - Niet hier."
+    },
+    {
+      "subtitle_index": 79,
+      "start_time": 615.995,
+      "end_time": 617.163,
+      "duration": 1.1680000000000064,
+      "dialogue_text": "Niet hier."
+    },
+    {
+      "subtitle_index": 80,
+      "start_time": 619.29,
+      "end_time": 620.333,
+      "duration": 1.0430000000000064,
+      "dialogue_text": "Hier is niets."
+    },
+    {
+      "subtitle_index": 81,
+      "start_time": 621.083,
+      "end_time": 622.251,
+      "duration": 1.1680000000000064,
+      "dialogue_text": "Niets."
+    },
+    {
+      "subtitle_index": 82,
+      "start_time": 632.303,
+      "end_time": 634.263,
+      "duration": 1.9600000000000364,
+      "dialogue_text": "Mei, het is hier."
+    },
+    {
+      "subtitle_index": 83,
+      "start_time": 641.145,
+      "end_time": 642.355,
+      "duration": 1.2100000000000364,
+      "dialogue_text": "Het is pikzwart."
+    },
+    {
+      "subtitle_index": 84,
+      "start_time": 642.897,
+      "end_time": 644.273,
+      "duration": 1.3759999999999764,
+      "dialogue_text": "Stofkonijntjes..."
+    },
+    {
+      "subtitle_index": 85,
+      "start_time": 652.865,
+      "end_time": 653.908,
+      "duration": 1.0430000000000064,
+      "dialogue_text": "Nog een eikeltje."
+    },
+    {
+      "subtitle_index": 86,
+      "start_time": 660.498,
+      "end_time": 663.959,
+      "duration": 3.460999999999899,
+      "dialogue_text": "Kom tevoorschijn, stofkonijntjes."
+    },
+    {
+      "subtitle_index": 87,
+      "start_time": 703.666,
+      "end_time": 707.002,
+      "duration": 3.335999999999899,
+      "dialogue_text": "Ben je daar, Mr Stofkonijn?"
+    },
+    {
+      "subtitle_index": 88,
+      "start_time": 729.024,
+      "end_time": 730.776,
+      "duration": 1.7519999999999527,
+      "dialogue_text": "Eén, twee..."
+    },
+    {
+      "subtitle_index": 89,
+      "start_time": 731.193,
+      "end_time": 732.236,
+      "duration": 1.0430000000000064,
+      "dialogue_text": "Eén, twee..."
+    },
+    {
+      "subtitle_index": 90,
+      "start_time": 732.987,
+      "end_time": 736.699,
+      "duration": 3.711999999999989,
+      "dialogue_text": "Pa, er is hier echt iets."
+    },
+    {
+      "subtitle_index": 91,
+      "start_time": 737.032,
+      "end_time": 738.242,
+      "duration": 1.2099999999999227,
+      "dialogue_text": "Dat is spannend."
+    },
+    {
+      "subtitle_index": 92,
+      "start_time": 738.826,
+      "end_time": 742.913,
+      "duration": 4.086999999999989,
+      "dialogue_text": "Ik wilde altijd al in een spookhuis wonen."
+    },
+    {
+      "subtitle_index": 93,
+      "start_time": 742.997,
+      "end_time": 744.498,
+      "duration": 1.50100000000009,
+      "dialogue_text": "O, nee."
+    },
+    {
+      "subtitle_index": 94,
+      "start_time": 746.041,
+      "end_time": 747.168,
+      "duration": 1.1269999999999527,
+      "dialogue_text": "Ik kom."
+    },
+    {
+      "subtitle_index": 95,
+      "start_time": 792.755,
+      "end_time": 794.882,
+      "duration": 2.1269999999999527,
+      "dialogue_text": "Ik heb hem, Satsuki."
+    },
+    {
+      "subtitle_index": 96,
+      "start_time": 808.687,
+      "end_time": 809.563,
+      "duration": 0.8759999999999764,
+      "dialogue_text": "Mei."
+    },
+    {
+      "subtitle_index": 97,
+      "start_time": 820.366,
+      "end_time": 822.201,
+      "duration": 1.8350000000000364,
+      "dialogue_text": "Je zit vol energie."
+    },
+    {
+      "subtitle_index": 98,
+      "start_time": 822.493,
+      "end_time": 826.872,
+      "duration": 4.378999999999905,
+      "dialogue_text": "Dit is Nanny. Zij komt op het huis passen."
+    },
+    {
+      "subtitle_index": 99,
+      "start_time": 827.665,
+      "end_time": 830.793,
+      "duration": 3.1280000000000427,
+      "dialogue_text": "Ik ben Satsuki en dit is mijn zusje, Mei."
+    },
+    {
+      "subtitle_index": 100,
+      "start_time": 831.043,
+      "end_time": 833.587,
+      "duration": 2.5439999999999827,
+      "dialogue_text": "Leuk jullie te ontmoeten."
+    },
+    {
+      "subtitle_index": 101,
+      "start_time": 833.963,
+      "end_time": 836.507,
+      "duration": 2.5439999999999827,
+      "dialogue_text": "Ik had opgeruimd..."
+    },
+    {
+      "subtitle_index": 102,
+      "start_time": 836.59,
+      "end_time": 840.261,
+      "duration": 3.6709999999999354,
+      "dialogue_text": "...als ik wist dat u er zo snel zou zijn."
+    },
+    {
+      "subtitle_index": 103,
+      "start_time": 841.095,
+      "end_time": 842.721,
+      "duration": 1.6259999999999764,
+      "dialogue_text": "Nee, u hebt genoeg gedaan."
+    },
+    {
+      "subtitle_index": 104,
+      "start_time": 843.055,
+      "end_time": 845.224,
+      "duration": 2.1690000000000964,
+      "dialogue_text": "Ik heb het zo druk gehad in de rijstvelden..."
+    },
+    {
+      "subtitle_index": 105,
+      "start_time": 845.516,
+      "end_time": 848.227,
+      "duration": 2.7110000000000127,
+      "dialogue_text": "...ik heb alleen wat afgestoft..."
+    },
+    {
+      "subtitle_index": 106,
+      "start_time": 849.687,
+      "end_time": 852.481,
+      "duration": 2.7939999999999827,
+      "dialogue_text": "Wat heb je met je handen gedaan?"
+    },
+    {
+      "subtitle_index": 107,
+      "start_time": 852.565,
+      "end_time": 854.775,
+      "duration": 2.2099999999999227,
+      "dialogue_text": "Het stofkonijn is ontsnapt."
+    },
+    {
+      "subtitle_index": 108,
+      "start_time": 854.859,
+      "end_time": 856.61,
+      "duration": 1.7509999999999764,
+      "dialogue_text": "Je voeten ook."
+    },
+    {
+      "subtitle_index": 109,
+      "start_time": 861.031,
+      "end_time": 862.825,
+      "duration": 1.7940000000000964,
+      "dialogue_text": "Die van mij zijn ook zwart."
+    },
+    {
+      "subtitle_index": 110,
+      "start_time": 865.369,
+      "end_time": 868.873,
+      "duration": 3.504000000000019,
+      "dialogue_text": "Nou, nou, nou."
+    },
+    {
+      "subtitle_index": 111,
+      "start_time": 871.917,
+      "end_time": 874.086,
+      "duration": 2.1689999999999827,
+      "dialogue_text": "Dat zijn vast roetverspreiders."
+    },
+    {
+      "subtitle_index": 112,
+      "start_time": 874.378,
+      "end_time": 876.881,
+      "duration": 2.502999999999929,
+      "dialogue_text": "Die kleine, zwarte..."
+    },
+    {
+      "subtitle_index": 113,
+      "start_time": 876.964,
+      "end_time": 880.467,
+      "duration": 3.502999999999929,
+      "dialogue_text": "...wollige dingen die vliegen?"
+    },
+    {
+      "subtitle_index": 114,
+      "start_time": 880.551,
+      "end_time": 885.389,
+      "duration": 4.837999999999965,
+      "dialogue_text": "Dat klopt. Ze broeden in lege, oude huizen..."
+    },
+    {
+      "subtitle_index": 115,
+      "start_time": 885.472,
+      "end_time": 888.976,
+      "duration": 3.504000000000019,
+      "dialogue_text": "...en bedekken ze vol roet en stof."
+    },
+    {
+      "subtitle_index": 116,
+      "start_time": 890.311,
+      "end_time": 893.23,
+      "duration": 2.9189999999999827,
+      "dialogue_text": "Ik kon ze zien toen ik klein was."
+    },
+    {
+      "subtitle_index": 117,
+      "start_time": 893.814,
+      "end_time": 897.61,
+      "duration": 3.796000000000049,
+      "dialogue_text": "Jullie zien ze ook, hè?"
+    },
+    {
+      "subtitle_index": 118,
+      "start_time": 897.693,
+      "end_time": 899.069,
+      "duration": 1.3759999999999764,
+      "dialogue_text": "Zijn ze net als trollen?"
+    },
+    {
+      "subtitle_index": 119,
+      "start_time": 899.82,
+      "end_time": 903.532,
+      "duration": 3.711999999999989,
+      "dialogue_text": "Nee, niet zo eng."
+    },
+    {
+      "subtitle_index": 120,
+      "start_time": 903.908,
+      "end_time": 909.163,
+      "duration": 5.2549999999999955,
+      "dialogue_text": "Als je blijft lachen zullen ze snel uit het huis vertrekken."
+    },
+    {
+      "subtitle_index": 121,
+      "start_time": 910.831,
+      "end_time": 914.835,
+      "duration": 4.004000000000019,
+      "dialogue_text": "Ze denken nu vast na waar ze hierna naartoe gaan."
+    },
+    {
+      "subtitle_index": 122,
+      "start_time": 920.883,
+      "end_time": 922.76,
+      "duration": 1.8769999999999527,
+      "dialogue_text": "Mei, ze gaan weg."
+    },
+    {
+      "subtitle_index": 123,
+      "start_time": 922.843,
+      "end_time": 923.844,
+      "duration": 1.00100000000009,
+      "dialogue_text": "Dat is niet leuk."
+    },
+    {
+      "subtitle_index": 124,
+      "start_time": 923.928,
+      "end_time": 926.347,
+      "duration": 2.4189999999999827,
+      "dialogue_text": "Wat gebeurt er als er een hele grote tevoorschijn komt?"
+    },
+    {
+      "subtitle_index": 125,
+      "start_time": 926.931,
+      "end_time": 928.057,
+      "duration": 1.1259999999999764,
+      "dialogue_text": "Ik zou niet bang zijn."
+    },
+    {
+      "subtitle_index": 126,
+      "start_time": 928.515,
+      "end_time": 932.061,
+      "duration": 3.546000000000049,
+      "dialogue_text": "Dan loop ik 's nachts niet met je mee naar de wc."
+    },
+    {
+      "subtitle_index": 127,
+      "start_time": 934.521,
+      "end_time": 939.568,
+      "duration": 5.0470000000000255,
+      "dialogue_text": "Schoonmaaktijd. Kun je wat water uit de beek halen?"
+    },
+    {
+      "subtitle_index": 128,
+      "start_time": 939.652,
+      "end_time": 941.987,
+      "duration": 2.3349999999999227,
+      "dialogue_text": "Uit de beek? - Ik kom ook."
+    },
+    {
+      "subtitle_index": 129,
+      "start_time": 945.658,
+      "end_time": 947.117,
+      "duration": 1.4589999999999463,
+      "dialogue_text": "Mei, wacht daar."
+    },
+    {
+      "subtitle_index": 130,
+      "start_time": 956.71,
+      "end_time": 958.462,
+      "duration": 1.7519999999999527,
+      "dialogue_text": "Heb je een vis gevangen?"
+    },
+    {
+      "subtitle_index": 131,
+      "start_time": 970.349,
+      "end_time": 972.184,
+      "duration": 1.8349999999999227,
+      "dialogue_text": "Nanny, het komt eruit."
+    },
+    {
+      "subtitle_index": 132,
+      "start_time": 972.768,
+      "end_time": 977.189,
+      "duration": 4.420999999999935,
+      "dialogue_text": "Goed, blijf pompen tot het water koud is."
+    },
+    {
+      "subtitle_index": 133,
+      "start_time": 977.69,
+      "end_time": 978.774,
+      "duration": 1.0839999999999463,
+      "dialogue_text": "Oké."
+    },
+    {
+      "subtitle_index": 134,
+      "start_time": 1021.025,
+      "end_time": 1023.819,
+      "duration": 2.7939999999999827,
+      "dialogue_text": "Kan ik je helpen?"
+    },
+    {
+      "subtitle_index": 135,
+      "start_time": 1026.321,
+      "end_time": 1027.823,
+      "duration": 1.50200000000018,
+      "dialogue_text": "Hè... mijn moeder... voor oma."
+    },
+    {
+      "subtitle_index": 136,
+      "start_time": 1030.075,
+      "end_time": 1031.076,
+      "duration": 1.0009999999999764,
+      "dialogue_text": "Ja?"
+    },
+    {
+      "subtitle_index": 137,
+      "start_time": 1037.374,
+      "end_time": 1038.834,
+      "duration": 1.4600000000000364,
+      "dialogue_text": "Wacht, wat is er?"
+    },
+    {
+      "subtitle_index": 138,
+      "start_time": 1040.002,
+      "end_time": 1041.545,
+      "duration": 1.54300000000012,
+      "dialogue_text": "Ben jij dat, Kanta?"
+    },
+    {
+      "subtitle_index": 139,
+      "start_time": 1043.464,
+      "end_time": 1048.635,
+      "duration": 5.171000000000049,
+      "dialogue_text": "Je woont in een spookhuis."
+    },
+    {
+      "subtitle_index": 140,
+      "start_time": 1049.178,
+      "end_time": 1050.137,
+      "duration": 0.9589999999998327,
+      "dialogue_text": "Kanta, hou op."
+    },
+    {
+      "subtitle_index": 141,
+      "start_time": 1060.647,
+      "end_time": 1062.983,
+      "duration": 2.3360000000000127,
+      "dialogue_text": "Ik deed hetzelfde op zijn leeftijd."
+    },
+    {
+      "subtitle_index": 142,
+      "start_time": 1063.734,
+      "end_time": 1068.655,
+      "duration": 4.921000000000049,
+      "dialogue_text": "Ik haat jongens. Maar ik hou van Nanny's rijstkoekjes."
+    },
+    {
+      "subtitle_index": 143,
+      "start_time": 1069.198,
+      "end_time": 1071.033,
+      "duration": 1.834999999999809,
+      "dialogue_text": "Eet zoveel je wilt."
+    },
+    {
+      "subtitle_index": 144,
+      "start_time": 1071.909,
+      "end_time": 1073.16,
+      "duration": 1.2509999999999764,
+      "dialogue_text": "Bedankt."
+    },
+    {
+      "subtitle_index": 145,
+      "start_time": 1076.455,
+      "end_time": 1078.082,
+      "duration": 1.62700000000018,
+      "dialogue_text": "Enorm bedankt voor uw hulp."
+    },
+    {
+      "subtitle_index": 146,
+      "start_time": 1079.625,
+      "end_time": 1081.418,
+      "duration": 1.7929999999998927,
+      "dialogue_text": "Dag."
+    },
+    {
+      "subtitle_index": 147,
+      "start_time": 1156.41,
+      "end_time": 1159.329,
+      "duration": 2.918999999999869,
+      "dialogue_text": "Pa, het huis zal instorten."
+    },
+    {
+      "subtitle_index": 148,
+      "start_time": 1161.915,
+      "end_time": 1164.543,
+      "duration": 2.627999999999929,
+      "dialogue_text": "Ik hoop van niet, we wonen er nog maar net."
+    },
+    {
+      "subtitle_index": 149,
+      "start_time": 1199.703,
+      "end_time": 1202.748,
+      "duration": 3.0450000000000728,
+      "dialogue_text": "Kom op, laten we lachen om de boeman weg te houden."
+    },
+    {
+      "subtitle_index": 150,
+      "start_time": 1205.125,
+      "end_time": 1206.835,
+      "duration": 1.7100000000000364,
+      "dialogue_text": "Ik ben niet bang."
+    },
+    {
+      "subtitle_index": 151,
+      "start_time": 1208.253,
+      "end_time": 1209.88,
+      "duration": 1.62700000000018,
+      "dialogue_text": "Ik meen het. Ik ben niet bang."
+    },
+    {
+      "subtitle_index": 152,
+      "start_time": 1254.007,
+      "end_time": 1256.51,
+      "duration": 2.502999999999929,
+      "dialogue_text": "Eén, twee..."
+    },
+    {
+      "subtitle_index": 153,
+      "start_time": 1257.261,
+      "end_time": 1260.597,
+      "duration": 3.3360000000000127,
+      "dialogue_text": "Kom op, ga zo door."
+    },
+    {
+      "subtitle_index": 154,
+      "start_time": 1266.061,
+      "end_time": 1268.772,
+      "duration": 2.7110000000000127,
+      "dialogue_text": "Oké, wassen, klaar."
+    },
+    {
+      "subtitle_index": 155,
+      "start_time": 1278.407,
+      "end_time": 1280.242,
+      "duration": 1.8350000000000364,
+      "dialogue_text": "Daar gaan we."
+    },
+    {
+      "subtitle_index": 156,
+      "start_time": 1297.426,
+      "end_time": 1299.803,
+      "duration": 2.37700000000018,
+      "dialogue_text": "Nanny."
+    },
+    {
+      "subtitle_index": 157,
+      "start_time": 1300.512,
+      "end_time": 1302.472,
+      "duration": 1.9600000000000364,
+      "dialogue_text": "Hallo."
+    },
+    {
+      "subtitle_index": 158,
+      "start_time": 1302.556,
+      "end_time": 1303.974,
+      "duration": 1.4179999999998927,
+      "dialogue_text": "Hard aan het werk?"
+    },
+    {
+      "subtitle_index": 159,
+      "start_time": 1304.558,
+      "end_time": 1307.269,
+      "duration": 2.7110000000000127,
+      "dialogue_text": "Waar gaan jullie heen?"
+    },
+    {
+      "subtitle_index": 160,
+      "start_time": 1307.352,
+      "end_time": 1309.938,
+      "duration": 2.5860000000000127,
+      "dialogue_text": "Op bezoek bij mama in het ziekenhuis."
+    },
+    {
+      "subtitle_index": 161,
+      "start_time": 1310.439,
+      "end_time": 1314.818,
+      "duration": 4.378999999999905,
+      "dialogue_text": "Dat is leuk. Doe haar de groetjes."
+    },
+    {
+      "subtitle_index": 162,
+      "start_time": 1315.61,
+      "end_time": 1316.903,
+      "duration": 1.29300000000012,
+      "dialogue_text": "Oké."
+    },
+    {
+      "subtitle_index": 163,
+      "start_time": 1333.378,
+      "end_time": 1334.963,
+      "duration": 1.5850000000000364,
+      "dialogue_text": "Deze kant op."
+    },
+    {
+      "subtitle_index": 164,
+      "start_time": 1362.157,
+      "end_time": 1364.284,
+      "duration": 2.12700000000018,
+      "dialogue_text": "Hallo. - Hallo."
+    },
+    {
+      "subtitle_index": 165,
+      "start_time": 1366.369,
+      "end_time": 1367.37,
+      "duration": 1.0009999999999764,
+      "dialogue_text": "Mama."
+    },
+    {
+      "subtitle_index": 166,
+      "start_time": 1367.454,
+      "end_time": 1369.873,
+      "duration": 2.4190000000000964,
+      "dialogue_text": "Wat fijn dat je er bent, lieverd."
+    },
+    {
+      "subtitle_index": 167,
+      "start_time": 1370.04,
+      "end_time": 1372.375,
+      "duration": 2.3350000000000364,
+      "dialogue_text": "Papa nam de verkeerde weg."
+    },
+    {
+      "subtitle_index": 168,
+      "start_time": 1372.459,
+      "end_time": 1375.212,
+      "duration": 2.752999999999929,
+      "dialogue_text": "Echt? Hallo, Satsuki."
+    },
+    {
+      "subtitle_index": 169,
+      "start_time": 1375.295,
+      "end_time": 1377.047,
+      "duration": 1.7519999999999527,
+      "dialogue_text": "We zijn vandaag vrij van school."
+    },
+    {
+      "subtitle_index": 170,
+      "start_time": 1377.214,
+      "end_time": 1378.59,
+      "duration": 1.3759999999999764,
+      "dialogue_text": "Wat leuk."
+    },
+    {
+      "subtitle_index": 171,
+      "start_time": 1378.673,
+      "end_time": 1381.218,
+      "duration": 2.5450000000000728,
+      "dialogue_text": "Papa praat met de dokter."
+    },
+    {
+      "subtitle_index": 172,
+      "start_time": 1381.426,
+      "end_time": 1383.178,
+      "duration": 1.75200000000018,
+      "dialogue_text": "Wat fijn om jullie te zien."
+    },
+    {
+      "subtitle_index": 173,
+      "start_time": 1383.845,
+      "end_time": 1386.348,
+      "duration": 2.502999999999929,
+      "dialogue_text": "Zijn jullie al gewend in het nieuwe huis?"
+    },
+    {
+      "subtitle_index": 174,
+      "start_time": 1392.646,
+      "end_time": 1394.064,
+      "duration": 1.41800000000012,
+      "dialogue_text": "Een spookhuis?"
+    },
+    {
+      "subtitle_index": 175,
+      "start_time": 1394.773,
+      "end_time": 1396.817,
+      "duration": 2.0440000000000964,
+      "dialogue_text": "Ma, hou je van spoken?"
+    },
+    {
+      "subtitle_index": 176,
+      "start_time": 1397.15,
+      "end_time": 1400.57,
+      "duration": 3.4199999999998454,
+      "dialogue_text": "Natuurlijk. Ik kan niet wachten om ze te zien."
+    },
+    {
+      "subtitle_index": 177,
+      "start_time": 1400.654,
+      "end_time": 1402.03,
+      "duration": 1.3759999999999764,
+      "dialogue_text": "Ik zei het toch, Mei."
+    },
+    {
+      "subtitle_index": 178,
+      "start_time": 1403.156,
+      "end_time": 1406.701,
+      "duration": 3.5450000000000728,
+      "dialogue_text": "Mei was bang dat je spoken niet leuk zou vinden."
+    },
+    {
+      "subtitle_index": 179,
+      "start_time": 1406.868,
+      "end_time": 1407.994,
+      "duration": 1.1259999999999764,
+      "dialogue_text": "En jullie twee?"
+    },
+    {
+      "subtitle_index": 180,
+      "start_time": 1408.078,
+      "end_time": 1410.831,
+      "duration": 2.752999999999929,
+      "dialogue_text": "Ik vind ze geweldig. - Ik ben niet bang voor ze."
+    },
+    {
+      "subtitle_index": 181,
+      "start_time": 1413.333,
+      "end_time": 1415.961,
+      "duration": 2.627999999999929,
+      "dialogue_text": "Doe jij Mei's haar, Satsuki?"
+    },
+    {
+      "subtitle_index": 182,
+      "start_time": 1417.17,
+      "end_time": 1419.506,
+      "duration": 2.3360000000000127,
+      "dialogue_text": "Het is erg mooi. Mei heeft geluk."
+    },
+    {
+      "subtitle_index": 183,
+      "start_time": 1421.091,
+      "end_time": 1423.26,
+      "duration": 2.1690000000000964,
+      "dialogue_text": "Maar ze wordt altijd boos op me."
+    },
+    {
+      "subtitle_index": 184,
+      "start_time": 1423.343,
+      "end_time": 1425.095,
+      "duration": 1.7519999999999527,
+      "dialogue_text": "Omdat je nooit stil blijft zitten."
+    },
+    {
+      "subtitle_index": 185,
+      "start_time": 1425.178,
+      "end_time": 1427.013,
+      "duration": 1.834999999999809,
+      "dialogue_text": "Kom hier, Satsuki."
+    },
+    {
+      "subtitle_index": 186,
+      "start_time": 1427.806,
+      "end_time": 1429.474,
+      "duration": 1.6679999999998927,
+      "dialogue_text": "Is jouw haar niet te kort?"
+    },
+    {
+      "subtitle_index": 187,
+      "start_time": 1429.641,
+      "end_time": 1431.268,
+      "duration": 1.6269999999999527,
+      "dialogue_text": "Nee, ik vind het mooi zo."
+    },
+    {
+      "subtitle_index": 188,
+      "start_time": 1431.351,
+      "end_time": 1433.77,
+      "duration": 2.418999999999869,
+      "dialogue_text": "Doe mijn haar, mama. - Op je beurt wachten."
+    },
+    {
+      "subtitle_index": 189,
+      "start_time": 1434.604,
+      "end_time": 1439.317,
+      "duration": 4.712999999999965,
+      "dialogue_text": "Golvend haar, net als ik toen ik zo oud als jij was."
+    },
+    {
+      "subtitle_index": 190,
+      "start_time": 1439.401,
+      "end_time": 1443.28,
+      "duration": 3.8789999999999054,
+      "dialogue_text": "Wordt het net zoals dat van jou wanneer ik ouder word?"
+    },
+    {
+      "subtitle_index": 191,
+      "start_time": 1443.864,
+      "end_time": 1447.325,
+      "duration": 3.4610000000000127,
+      "dialogue_text": "Waarschijnlijk. Je lijkt op je moeder."
+    },
+    {
+      "subtitle_index": 192,
+      "start_time": 1465.26,
+      "end_time": 1467.22,
+      "duration": 1.9600000000000364,
+      "dialogue_text": "Ma zag er goed uit."
+    },
+    {
+      "subtitle_index": 193,
+      "start_time": 1467.304,
+      "end_time": 1471.016,
+      "duration": 3.711999999999989,
+      "dialogue_text": "Je hebt gelijk. De dokter zei dat ze snel naar huis mag."
+    },
+    {
+      "subtitle_index": 194,
+      "start_time": 1471.808,
+      "end_time": 1473.268,
+      "duration": 1.4600000000000364,
+      "dialogue_text": "Snel? Zoals morgen?"
+    },
+    {
+      "subtitle_index": 195,
+      "start_time": 1473.727,
+      "end_time": 1475.854,
+      "duration": 2.1269999999999527,
+      "dialogue_text": "Dat zeg je altijd."
+    },
+    {
+      "subtitle_index": 196,
+      "start_time": 1475.937,
+      "end_time": 1477.48,
+      "duration": 1.54300000000012,
+      "dialogue_text": "Morgen is nog iets te vroeg."
+    },
+    {
+      "subtitle_index": 197,
+      "start_time": 1478.44,
+      "end_time": 1481.234,
+      "duration": 2.793999999999869,
+      "dialogue_text": "Ma zei dat ze bij mij in bed komt slapen."
+    },
+    {
+      "subtitle_index": 198,
+      "start_time": 1481.61,
+      "end_time": 1485.78,
+      "duration": 4.170000000000073,
+      "dialogue_text": "Zei je niet dat je groot genoeg was om alleen te slapen?"
+    },
+    {
+      "subtitle_index": 199,
+      "start_time": 1485.864,
+      "end_time": 1487.741,
+      "duration": 1.8769999999999527,
+      "dialogue_text": "Ma is speciaal."
+    },
+    {
+      "subtitle_index": 200,
+      "start_time": 1509.596,
+      "end_time": 1512.891,
+      "duration": 3.2950000000000728,
+      "dialogue_text": "Pa, tijd om op te staan."
+    },
+    {
+      "subtitle_index": 201,
+      "start_time": 1516.853,
+      "end_time": 1519.105,
+      "duration": 2.2519999999999527,
+      "dialogue_text": "Wakker worden."
+    },
+    {
+      "subtitle_index": 202,
+      "start_time": 1524.653,
+      "end_time": 1526.238,
+      "duration": 1.5850000000000364,
+      "dialogue_text": "Sorry, ik heb me weer verslapen."
+    },
+    {
+      "subtitle_index": 203,
+      "start_time": 1526.321,
+      "end_time": 1528.156,
+      "duration": 1.8350000000000364,
+      "dialogue_text": "Ik moet vandaag lunch mee naar school nemen."
+    },
+    {
+      "subtitle_index": 204,
+      "start_time": 1528.657,
+      "end_time": 1530.533,
+      "duration": 1.8759999999999764,
+      "dialogue_text": "Helemaal vergeten."
+    },
+    {
+      "subtitle_index": 205,
+      "start_time": 1531.159,
+      "end_time": 1533.745,
+      "duration": 2.5859999999997854,
+      "dialogue_text": "Niet erg, ik heb voor ons allemaal iets gemaakt."
+    },
+    {
+      "subtitle_index": 206,
+      "start_time": 1533.828,
+      "end_time": 1535.455,
+      "duration": 1.6269999999999527,
+      "dialogue_text": "Het brandt aan. - Laat mij maar."
+    },
+    {
+      "subtitle_index": 207,
+      "start_time": 1538.583,
+      "end_time": 1540.252,
+      "duration": 1.668999999999869,
+      "dialogue_text": "Hier, dit is voor jou, Mei."
+    },
+    {
+      "subtitle_index": 208,
+      "start_time": 1541.378,
+      "end_time": 1542.629,
+      "duration": 1.2509999999999764,
+      "dialogue_text": "Voor mij."
+    },
+    {
+      "subtitle_index": 209,
+      "start_time": 1543.463,
+      "end_time": 1544.965,
+      "duration": 1.5019999999999527,
+      "dialogue_text": "Mei, zitten en eten."
+    },
+    {
+      "subtitle_index": 210,
+      "start_time": 1545.298,
+      "end_time": 1546.174,
+      "duration": 0.8759999999999764,
+      "dialogue_text": "Oké."
+    },
+    {
+      "subtitle_index": 211,
+      "start_time": 1547.717,
+      "end_time": 1549.469,
+      "duration": 1.7519999999999527,
+      "dialogue_text": "Hier, pak die van jou maar in."
+    },
+    {
+      "subtitle_index": 212,
+      "start_time": 1552.597,
+      "end_time": 1555.183,
+      "duration": 2.5860000000000127,
+      "dialogue_text": "Satsuki."
+    },
+    {
+      "subtitle_index": 213,
+      "start_time": 1555.6,
+      "end_time": 1559.479,
+      "duration": 3.879000000000133,
+      "dialogue_text": "Ik kom."
+    },
+    {
+      "subtitle_index": 214,
+      "start_time": 1561.189,
+      "end_time": 1562.899,
+      "duration": 1.709999999999809,
+      "dialogue_text": "Heb je al een vriendinnetje gemaakt?"
+    },
+    {
+      "subtitle_index": 215,
+      "start_time": 1562.983,
+      "end_time": 1564.901,
+      "duration": 1.91800000000012,
+      "dialogue_text": "Ze roept je."
+    },
+    {
+      "subtitle_index": 216,
+      "start_time": 1565.485,
+      "end_time": 1566.945,
+      "duration": 1.4600000000000364,
+      "dialogue_text": "Ja, dat is Michiko."
+    },
+    {
+      "subtitle_index": 217,
+      "start_time": 1569.364,
+      "end_time": 1570.782,
+      "duration": 1.4179999999998927,
+      "dialogue_text": "Ik moet gaan."
+    },
+    {
+      "subtitle_index": 218,
+      "start_time": 1572.492,
+      "end_time": 1573.785,
+      "duration": 1.29300000000012,
+      "dialogue_text": "Doei."
+    },
+    {
+      "subtitle_index": 219,
+      "start_time": 1574.411,
+      "end_time": 1576.162,
+      "duration": 1.7509999999999764,
+      "dialogue_text": "Fijne dag."
+    },
+    {
+      "subtitle_index": 220,
+      "start_time": 1577.664,
+      "end_time": 1578.957,
+      "duration": 1.29300000000012,
+      "dialogue_text": "Goedemorgen."
+    },
+    {
+      "subtitle_index": 221,
+      "start_time": 1579.04,
+      "end_time": 1581.084,
+      "duration": 2.0440000000000964,
+      "dialogue_text": "Hoi, kom op."
+    },
+    {
+      "subtitle_index": 222,
+      "start_time": 1582.294,
+      "end_time": 1584.254,
+      "duration": 1.959999999999809,
+      "dialogue_text": "Hoi. - Goedemorgen."
+    },
+    {
+      "subtitle_index": 223,
+      "start_time": 1593.43,
+      "end_time": 1594.848,
+      "duration": 1.4179999999998927,
+      "dialogue_text": "Papa."
+    },
+    {
+      "subtitle_index": 224,
+      "start_time": 1596.099,
+      "end_time": 1598.059,
+      "duration": 1.9600000000000364,
+      "dialogue_text": "Zie ik er volwassen uit?"
+    },
+    {
+      "subtitle_index": 225,
+      "start_time": 1598.727,
+      "end_time": 1600.103,
+      "duration": 1.3759999999999764,
+      "dialogue_text": "Ja, lieverd. Waar ga je heen?"
+    },
+    {
+      "subtitle_index": 226,
+      "start_time": 1600.186,
+      "end_time": 1601.896,
+      "duration": 1.7100000000000364,
+      "dialogue_text": "Ik ga naar buiten."
+    },
+    {
+      "subtitle_index": 227,
+      "start_time": 1624.461,
+      "end_time": 1626.504,
+      "duration": 2.0429999999998927,
+      "dialogue_text": "Papa, is het al lunchtijd?"
+    },
+    {
+      "subtitle_index": 228,
+      "start_time": 1626.588,
+      "end_time": 1628.465,
+      "duration": 1.8769999999999527,
+      "dialogue_text": "Nu al?"
+    },
+    {
+      "subtitle_index": 229,
+      "start_time": 1640.935,
+      "end_time": 1643.271,
+      "duration": 2.3360000000000127,
+      "dialogue_text": "Jij bent de bloemenwinkel, papa."
+    },
+    {
+      "subtitle_index": 230,
+      "start_time": 1659.621,
+      "end_time": 1660.997,
+      "duration": 1.3759999999999764,
+      "dialogue_text": "Kikkervisjes."
+    },
+    {
+      "subtitle_index": 231,
+      "start_time": 1679.516,
+      "end_time": 1682.143,
+      "duration": 2.6269999999999527,
+      "dialogue_text": "Hij heeft geen bodem."
+    },
+    {
+      "subtitle_index": 232,
+      "start_time": 1695.573,
+      "end_time": 1696.825,
+      "duration": 1.2519999999999527,
+      "dialogue_text": "Hebbes."
+    },
+    {
+      "subtitle_index": 233,
+      "start_time": 2033.536,
+      "end_time": 2036.414,
+      "duration": 2.877999999999929,
+      "dialogue_text": "Wie ben jij? Een groot stofkonijn?"
+    },
+    {
+      "subtitle_index": 234,
+      "start_time": 2064.692,
+      "end_time": 2067.612,
+      "duration": 2.9200000000000728,
+      "dialogue_text": "To-to-ro? Jij bent Totoro."
+    },
+    {
+      "subtitle_index": 235,
+      "start_time": 2072.909,
+      "end_time": 2074.869,
+      "duration": 1.9600000000000364,
+      "dialogue_text": "Jij bent vast Totoro."
+    },
+    {
+      "subtitle_index": 236,
+      "start_time": 2077.705,
+      "end_time": 2078.79,
+      "duration": 1.0850000000000364,
+      "dialogue_text": "Totoro."
+    },
+    {
+      "subtitle_index": 237,
+      "start_time": 2147.191,
+      "end_time": 2148.985,
+      "duration": 1.7940000000003238,
+      "dialogue_text": "Tot ziens. - Oké, tot ziens."
+    },
+    {
+      "subtitle_index": 238,
+      "start_time": 2151.445,
+      "end_time": 2152.28,
+      "duration": 0.8350000000000364,
+      "dialogue_text": "Ik ben thuis."
+    },
+    {
+      "subtitle_index": 239,
+      "start_time": 2152.363,
+      "end_time": 2155.158,
+      "duration": 2.7950000000000728,
+      "dialogue_text": "Hoi, is het al zo laat?"
+    },
+    {
+      "subtitle_index": 240,
+      "start_time": 2155.241,
+      "end_time": 2157.201,
+      "duration": 1.9600000000000364,
+      "dialogue_text": "Waar is Mei? Ik ga naar Michiko."
+    },
+    {
+      "subtitle_index": 241,
+      "start_time": 2157.285,
+      "end_time": 2160.58,
+      "duration": 3.2950000000000728,
+      "dialogue_text": "We hebben nog niet gegeten. Is Mei in de tuin?"
+    },
+    {
+      "subtitle_index": 242,
+      "start_time": 2160.663,
+      "end_time": 2161.831,
+      "duration": 1.16800000000012,
+      "dialogue_text": "Mei."
+    },
+    {
+      "subtitle_index": 243,
+      "start_time": 2163.04,
+      "end_time": 2164.417,
+      "duration": 1.3769999999999527,
+      "dialogue_text": "Mei."
+    },
+    {
+      "subtitle_index": 244,
+      "start_time": 2165.96,
+      "end_time": 2166.961,
+      "duration": 1.000999999999749,
+      "dialogue_text": "Mei."
+    },
+    {
+      "subtitle_index": 245,
+      "start_time": 2170.256,
+      "end_time": 2171.299,
+      "duration": 1.04300000000012,
+      "dialogue_text": "Mei."
+    },
+    {
+      "subtitle_index": 246,
+      "start_time": 2177.847,
+      "end_time": 2181.434,
+      "duration": 3.586999999999989,
+      "dialogue_text": "Pa, ik heb haar hoed gevonden."
+    },
+    {
+      "subtitle_index": 247,
+      "start_time": 2196.908,
+      "end_time": 2198.409,
+      "duration": 1.5010000000002037,
+      "dialogue_text": "Mei?"
+    },
+    {
+      "subtitle_index": 248,
+      "start_time": 2206.0,
+      "end_time": 2208.377,
+      "duration": 2.3769999999999527,
+      "dialogue_text": "Wakker worden, Mei."
+    },
+    {
+      "subtitle_index": 249,
+      "start_time": 2209.921,
+      "end_time": 2212.048,
+      "duration": 2.1269999999999527,
+      "dialogue_text": "Je moet hier niet slapen."
+    },
+    {
+      "subtitle_index": 250,
+      "start_time": 2214.05,
+      "end_time": 2216.385,
+      "duration": 2.3350000000000364,
+      "dialogue_text": "Waar is Totoro? - Totoro?"
+    },
+    {
+      "subtitle_index": 251,
+      "start_time": 2216.719,
+      "end_time": 2218.888,
+      "duration": 2.168999999999869,
+      "dialogue_text": "Waar?"
+    },
+    {
+      "subtitle_index": 252,
+      "start_time": 2221.557,
+      "end_time": 2222.892,
+      "duration": 1.3350000000000364,
+      "dialogue_text": "Was je aan het dromen?"
+    },
+    {
+      "subtitle_index": 253,
+      "start_time": 2223.476,
+      "end_time": 2224.81,
+      "duration": 1.3339999999998327,
+      "dialogue_text": "Totoro was hier."
+    },
+    {
+      "subtitle_index": 254,
+      "start_time": 2225.353,
+      "end_time": 2228.022,
+      "duration": 2.668999999999869,
+      "dialogue_text": "Bedoel je de trol uit je plaatjesboek?"
+    },
+    {
+      "subtitle_index": 255,
+      "start_time": 2229.565,
+      "end_time": 2233.027,
+      "duration": 3.461999999999989,
+      "dialogue_text": "Ja. Hij was heel harig..."
+    },
+    {
+      "subtitle_index": 256,
+      "start_time": 2233.277,
+      "end_time": 2235.571,
+      "duration": 2.293999999999869,
+      "dialogue_text": "...met zo'n grote mond."
+    },
+    {
+      "subtitle_index": 257,
+      "start_time": 2235.655,
+      "end_time": 2242.245,
+      "duration": 6.589999999999691,
+      "dialogue_text": "Er was een piepkleine en een kleine en een hele grote."
+    },
+    {
+      "subtitle_index": 258,
+      "start_time": 2246.374,
+      "end_time": 2249.502,
+      "duration": 3.1280000000001564,
+      "dialogue_text": "Daar ben je."
+    },
+    {
+      "subtitle_index": 259,
+      "start_time": 2250.586,
+      "end_time": 2251.837,
+      "duration": 1.2510000000002037,
+      "dialogue_text": "Wat een goede verstopplek."
+    },
+    {
+      "subtitle_index": 260,
+      "start_time": 2251.921,
+      "end_time": 2255.091,
+      "duration": 3.1700000000000728,
+      "dialogue_text": "Pa, Mei zei dat ze Totoro hier heeft gezien."
+    },
+    {
+      "subtitle_index": 261,
+      "start_time": 2255.466,
+      "end_time": 2256.676,
+      "duration": 1.2100000000000364,
+      "dialogue_text": "Een Totoro?"
+    },
+    {
+      "subtitle_index": 262,
+      "start_time": 2257.176,
+      "end_time": 2258.261,
+      "duration": 1.0850000000000364,
+      "dialogue_text": "Deze kant op."
+    },
+    {
+      "subtitle_index": 263,
+      "start_time": 2266.686,
+      "end_time": 2268.312,
+      "duration": 1.625999999999749,
+      "dialogue_text": "Hé, wacht op mij."
+    },
+    {
+      "subtitle_index": 264,
+      "start_time": 2270.439,
+      "end_time": 2271.44,
+      "duration": 1.0010000000002037,
+      "dialogue_text": "Het is hier."
+    },
+    {
+      "subtitle_index": 265,
+      "start_time": 2273.943,
+      "end_time": 2276.195,
+      "duration": 2.2519999999999527,
+      "dialogue_text": "Ja? - Nee."
+    },
+    {
+      "subtitle_index": 266,
+      "start_time": 2276.862,
+      "end_time": 2279.156,
+      "duration": 2.293999999999869,
+      "dialogue_text": "Hij ging naar een grote boom."
+    },
+    {
+      "subtitle_index": 267,
+      "start_time": 2279.24,
+      "end_time": 2281.242,
+      "duration": 2.0020000000004075,
+      "dialogue_text": "Maar er was geen ander pad."
+    },
+    {
+      "subtitle_index": 268,
+      "start_time": 2281.909,
+      "end_time": 2284.453,
+      "duration": 2.543999999999869,
+      "dialogue_text": "Kom terug, Mei."
+    },
+    {
+      "subtitle_index": 269,
+      "start_time": 2284.996,
+      "end_time": 2286.914,
+      "duration": 1.91800000000012,
+      "dialogue_text": "Mei. Kom terug."
+    },
+    {
+      "subtitle_index": 270,
+      "start_time": 2299.468,
+      "end_time": 2303.097,
+      "duration": 3.62900000000036,
+      "dialogue_text": "Maar het is waar. Totoro was hier."
+    },
+    {
+      "subtitle_index": 271,
+      "start_time": 2303.848,
+      "end_time": 2304.932,
+      "duration": 1.0839999999998327,
+      "dialogue_text": "Ik lieg niet."
+    },
+    {
+      "subtitle_index": 272,
+      "start_time": 2314.4,
+      "end_time": 2315.234,
+      "duration": 0.8339999999998327,
+      "dialogue_text": "Ik weet het, Mei."
+    },
+    {
+      "subtitle_index": 273,
+      "start_time": 2316.152,
+      "end_time": 2317.528,
+      "duration": 1.375999999999749,
+      "dialogue_text": "Ik heb niet gelogen."
+    },
+    {
+      "subtitle_index": 274,
+      "start_time": 2319.322,
+      "end_time": 2322.95,
+      "duration": 3.6279999999997017,
+      "dialogue_text": "Dat denken we ook niet."
+    },
+    {
+      "subtitle_index": 275,
+      "start_time": 2323.617,
+      "end_time": 2326.245,
+      "duration": 2.6279999999997017,
+      "dialogue_text": "Je hebt vast de koning van het bos ontmoet."
+    },
+    {
+      "subtitle_index": 276,
+      "start_time": 2327.163,
+      "end_time": 2328.914,
+      "duration": 1.7510000000002037,
+      "dialogue_text": "Je hebt geluk gehad."
+    },
+    {
+      "subtitle_index": 277,
+      "start_time": 2329.874,
+      "end_time": 2332.293,
+      "duration": 2.419000000000324,
+      "dialogue_text": "Die komt niet vaak naar buiten."
+    },
+    {
+      "subtitle_index": 278,
+      "start_time": 2334.253,
+      "end_time": 2336.547,
+      "duration": 2.293999999999869,
+      "dialogue_text": "We moeten eer betuigen bij het altaar."
+    },
+    {
+      "subtitle_index": 279,
+      "start_time": 2336.63,
+      "end_time": 2339.467,
+      "duration": 2.836999999999989,
+      "dialogue_text": "Eer betuigen? - Aan dit bos."
+    },
+    {
+      "subtitle_index": 280,
+      "start_time": 2357.36,
+      "end_time": 2358.944,
+      "duration": 1.5839999999998327,
+      "dialogue_text": "Mei, je wordt zwaar."
+    },
+    {
+      "subtitle_index": 281,
+      "start_time": 2359.028,
+      "end_time": 2360.529,
+      "duration": 1.5010000000002037,
+      "dialogue_text": "Pa, kijk. De kamferboom."
+    },
+    {
+      "subtitle_index": 282,
+      "start_time": 2361.864,
+      "end_time": 2362.907,
+      "duration": 1.04300000000012,
+      "dialogue_text": "Wat een grote boom."
+    },
+    {
+      "subtitle_index": 283,
+      "start_time": 2371.374,
+      "end_time": 2372.541,
+      "duration": 1.167000000000371,
+      "dialogue_text": "Het is hier."
+    },
+    {
+      "subtitle_index": 284,
+      "start_time": 2373.667,
+      "end_time": 2374.96,
+      "duration": 1.29300000000012,
+      "dialogue_text": "Is dat de boom?"
+    },
+    {
+      "subtitle_index": 285,
+      "start_time": 2375.711,
+      "end_time": 2377.963,
+      "duration": 2.2520000000004075,
+      "dialogue_text": "Pa, schiet op."
+    },
+    {
+      "subtitle_index": 286,
+      "start_time": 2388.933,
+      "end_time": 2390.976,
+      "duration": 2.04300000000012,
+      "dialogue_text": "Het gat is weg."
+    },
+    {
+      "subtitle_index": 287,
+      "start_time": 2391.06,
+      "end_time": 2392.353,
+      "duration": 1.29300000000012,
+      "dialogue_text": "Weet je zeker dat het hier was?"
+    },
+    {
+      "subtitle_index": 288,
+      "start_time": 2394.146,
+      "end_time": 2396.065,
+      "duration": 1.918999999999869,
+      "dialogue_text": "Het gat is verdwenen."
+    },
+    {
+      "subtitle_index": 289,
+      "start_time": 2396.148,
+      "end_time": 2398.484,
+      "duration": 2.3359999999997854,
+      "dialogue_text": "Ik zei toch dat hij niet vaak naar ons toe komt."
+    },
+    {
+      "subtitle_index": 290,
+      "start_time": 2398.859,
+      "end_time": 2401.278,
+      "duration": 2.418999999999869,
+      "dialogue_text": "Maar komt hij weer terug? Ik wil hem ook ontmoeten."
+    },
+    {
+      "subtitle_index": 291,
+      "start_time": 2402.363,
+      "end_time": 2404.782,
+      "duration": 2.419000000000324,
+      "dialogue_text": "Als je geluk hebt wel."
+    },
+    {
+      "subtitle_index": 292,
+      "start_time": 2406.45,
+      "end_time": 2407.952,
+      "duration": 1.5020000000004075,
+      "dialogue_text": "Wat een mooie boom."
+    },
+    {
+      "subtitle_index": 293,
+      "start_time": 2409.912,
+      "end_time": 2413.999,
+      "duration": 4.086999999999989,
+      "dialogue_text": "Deze boom staat hier vast al jaren."
+    },
+    {
+      "subtitle_index": 294,
+      "start_time": 2415.543,
+      "end_time": 2419.088,
+      "duration": 3.5450000000000728,
+      "dialogue_text": "Bomen en mensen waren vroeger goede vrienden."
+    },
+    {
+      "subtitle_index": 295,
+      "start_time": 2420.464,
+      "end_time": 2424.135,
+      "duration": 3.6710000000002765,
+      "dialogue_text": "Ik zag die boom en besloot het huis te kopen."
+    },
+    {
+      "subtitle_index": 296,
+      "start_time": 2424.885,
+      "end_time": 2427.179,
+      "duration": 2.293999999999869,
+      "dialogue_text": "Hopelijk vindt mama hem ook mooi."
+    },
+    {
+      "subtitle_index": 297,
+      "start_time": 2427.596,
+      "end_time": 2430.516,
+      "duration": 2.9200000000000728,
+      "dialogue_text": "Laten we onze eer betuigen en dan thuis gaan lunchen."
+    },
+    {
+      "subtitle_index": 298,
+      "start_time": 2430.891,
+      "end_time": 2433.436,
+      "duration": 2.5450000000000728,
+      "dialogue_text": "O, ja, ik heb beloofd om naar Michiko te gaan."
+    },
+    {
+      "subtitle_index": 299,
+      "start_time": 2433.519,
+      "end_time": 2434.77,
+      "duration": 1.2510000000002037,
+      "dialogue_text": "Ik wil ook."
+    },
+    {
+      "subtitle_index": 300,
+      "start_time": 2435.187,
+      "end_time": 2436.188,
+      "duration": 1.0010000000002037,
+      "dialogue_text": "Opgelet."
+    },
+    {
+      "subtitle_index": 301,
+      "start_time": 2436.856,
+      "end_time": 2441.402,
+      "duration": 4.545999999999822,
+      "dialogue_text": "Bedankt dat u voor Mei hebt gezorgd."
+    },
+    {
+      "subtitle_index": 302,
+      "start_time": 2441.485,
+      "end_time": 2443.446,
+      "duration": 1.9609999999997854,
+      "dialogue_text": "Heel erg bedankt."
+    },
+    {
+      "subtitle_index": 303,
+      "start_time": 2444.613,
+      "end_time": 2447.199,
+      "duration": 2.58600000000024,
+      "dialogue_text": "Wie als laatste thuis is, is een rot ei. - Dat is niet eerlijk, pa."
+    },
+    {
+      "subtitle_index": 304,
+      "start_time": 2448.534,
+      "end_time": 2449.785,
+      "duration": 1.250999999999749,
+      "dialogue_text": "Wacht."
+    },
+    {
+      "subtitle_index": 305,
+      "start_time": 2451.662,
+      "end_time": 2453.08,
+      "duration": 1.41800000000012,
+      "dialogue_text": "Schiet op."
+    },
+    {
+      "subtitle_index": 306,
+      "start_time": 2453.622,
+      "end_time": 2455.416,
+      "duration": 1.7940000000003238,
+      "dialogue_text": "Wacht op mij."
+    },
+    {
+      "subtitle_index": 307,
+      "start_time": 2457.918,
+      "end_time": 2460.379,
+      "duration": 2.4609999999997854,
+      "dialogue_text": "Lieve moeder, er is vandaag iets bijzonders gebeurd."
+    },
+    {
+      "subtitle_index": 308,
+      "start_time": 2461.172,
+      "end_time": 2464.216,
+      "duration": 3.043999999999869,
+      "dialogue_text": "Mei ontmoette een reuze-Totoro."
+    },
+    {
+      "subtitle_index": 309,
+      "start_time": 2469.68,
+      "end_time": 2473.684,
+      "duration": 4.00400000000036,
+      "dialogue_text": "Ik hoop dat ik hem binnenkort zelf ook zal zien."
+    },
+    {
+      "subtitle_index": 310,
+      "start_time": 2504.298,
+      "end_time": 2507.343,
+      "duration": 3.0450000000000728,
+      "dialogue_text": "Kanta, schiet op. Je komt te laat."
+    },
+    {
+      "subtitle_index": 311,
+      "start_time": 2507.426,
+      "end_time": 2508.344,
+      "duration": 0.91800000000012,
+      "dialogue_text": "Ik kom..."
+    },
+    {
+      "subtitle_index": 312,
+      "start_time": 2512.598,
+      "end_time": 2515.976,
+      "duration": 3.3780000000001564,
+      "dialogue_text": "WACHT, RIVIER, DENNENBOOM"
+    },
+    {
+      "subtitle_index": 313,
+      "start_time": 2531.909,
+      "end_time": 2532.743,
+      "duration": 0.8339999999998327,
+      "dialogue_text": "Nou, nou."
+    },
+    {
+      "subtitle_index": 314,
+      "start_time": 2551.22,
+      "end_time": 2552.137,
+      "duration": 0.9170000000003711,
+      "dialogue_text": "Mei?"
+    },
+    {
+      "subtitle_index": 315,
+      "start_time": 2553.097,
+      "end_time": 2555.474,
+      "duration": 2.3769999999999527,
+      "dialogue_text": "Neem me niet kwalijk. - Ja, Satsuki?"
+    },
+    {
+      "subtitle_index": 316,
+      "start_time": 2556.225,
+      "end_time": 2557.81,
+      "duration": 1.5850000000000364,
+      "dialogue_text": "Het is mijn zus..."
+    },
+    {
+      "subtitle_index": 317,
+      "start_time": 2558.519,
+      "end_time": 2561.605,
+      "duration": 3.08600000000024,
+      "dialogue_text": "Zus? - Waar?"
+    },
+    {
+      "subtitle_index": 318,
+      "start_time": 2565.15,
+      "end_time": 2566.86,
+      "duration": 1.7100000000000364,
+      "dialogue_text": "Wat is er gebeurd, Nanny?"
+    },
+    {
+      "subtitle_index": 319,
+      "start_time": 2566.944,
+      "end_time": 2571.365,
+      "duration": 4.420999999999822,
+      "dialogue_text": "Het spijt me. Ze stond erop bij jou te zijn."
+    },
+    {
+      "subtitle_index": 320,
+      "start_time": 2572.032,
+      "end_time": 2576.412,
+      "duration": 4.379999999999654,
+      "dialogue_text": "Het is pa's dag op de universiteit."
+    },
+    {
+      "subtitle_index": 321,
+      "start_time": 2576.495,
+      "end_time": 2579.456,
+      "duration": 2.96100000000024,
+      "dialogue_text": "Je hebt beloofd braaf te zijn bij Nanny."
+    },
+    {
+      "subtitle_index": 322,
+      "start_time": 2582.585,
+      "end_time": 2586.714,
+      "duration": 4.128999999999905,
+      "dialogue_text": "Ik heb nog twee lessen en Nanny heeft het hier te druk voor."
+    },
+    {
+      "subtitle_index": 323,
+      "start_time": 2587.298,
+      "end_time": 2591.635,
+      "duration": 4.337000000000444,
+      "dialogue_text": "Ze was braaf tot nu, nietwaar?"
+    },
+    {
+      "subtitle_index": 324,
+      "start_time": 2599.643,
+      "end_time": 2601.645,
+      "duration": 2.0019999999999527,
+      "dialogue_text": "Ik ga wel even met mijn leraar praten."
+    },
+    {
+      "subtitle_index": 325,
+      "start_time": 2607.943,
+      "end_time": 2612.489,
+      "duration": 4.545999999999822,
+      "dialogue_text": "Omdat Satsuki's moeder in het ziekenhuis ligt..."
+    },
+    {
+      "subtitle_index": 326,
+      "start_time": 2612.573,
+      "end_time": 2614.783,
+      "duration": 2.2100000000000364,
+      "dialogue_text": "...moeten jullie allemaal aardig voor haar zijn."
+    },
+    {
+      "subtitle_index": 327,
+      "start_time": 2614.867,
+      "end_time": 2616.16,
+      "duration": 1.2929999999996653,
+      "dialogue_text": "Ja, juffrouw."
+    },
+    {
+      "subtitle_index": 328,
+      "start_time": 2622.249,
+      "end_time": 2623.709,
+      "duration": 1.4600000000000364,
+      "dialogue_text": "Wat is dat?"
+    },
+    {
+      "subtitle_index": 329,
+      "start_time": 2623.792,
+      "end_time": 2624.918,
+      "duration": 1.1260000000002037,
+      "dialogue_text": "Het is Totoro."
+    },
+    {
+      "subtitle_index": 330,
+      "start_time": 2626.712,
+      "end_time": 2628.714,
+      "duration": 2.0019999999999527,
+      "dialogue_text": "Mei, je moet stil zijn."
+    },
+    {
+      "subtitle_index": 331,
+      "start_time": 2636.764,
+      "end_time": 2639.642,
+      "duration": 2.8779999999997017,
+      "dialogue_text": "Tot ziens."
+    },
+    {
+      "subtitle_index": 332,
+      "start_time": 2640.142,
+      "end_time": 2642.353,
+      "duration": 2.21100000000024,
+      "dialogue_text": "Dag, Mei."
+    },
+    {
+      "subtitle_index": 333,
+      "start_time": 2643.062,
+      "end_time": 2645.272,
+      "duration": 2.2100000000000364,
+      "dialogue_text": "Ik kan vandaag niet na de les blijven."
+    },
+    {
+      "subtitle_index": 334,
+      "start_time": 2645.356,
+      "end_time": 2647.941,
+      "duration": 2.5849999999995816,
+      "dialogue_text": "Wij laten het de juf wel weten. - Tot ziens."
+    },
+    {
+      "subtitle_index": 335,
+      "start_time": 2650.027,
+      "end_time": 2652.655,
+      "duration": 2.6280000000001564,
+      "dialogue_text": "Schiet op, het gaat regenen. - Oké."
+    },
+    {
+      "subtitle_index": 336,
+      "start_time": 2660.663,
+      "end_time": 2662.164,
+      "duration": 1.5010000000002037,
+      "dialogue_text": "Hier komt het."
+    },
+    {
+      "subtitle_index": 337,
+      "start_time": 2674.426,
+      "end_time": 2675.26,
+      "duration": 0.8340000000002874,
+      "dialogue_text": "Hier."
+    },
+    {
+      "subtitle_index": 338,
+      "start_time": 2679.264,
+      "end_time": 2682.351,
+      "duration": 3.086999999999989,
+      "dialogue_text": "Ik zal niet huilen. Ben ik niet knap?"
+    },
+    {
+      "subtitle_index": 339,
+      "start_time": 2684.228,
+      "end_time": 2686.438,
+      "duration": 2.2100000000000364,
+      "dialogue_text": "Het wordt erger."
+    },
+    {
+      "subtitle_index": 340,
+      "start_time": 2688.941,
+      "end_time": 2692.111,
+      "duration": 3.1700000000000728,
+      "dialogue_text": "Lieve beschermgeest, laat ons blijven tot de regen stopt."
+    },
+    {
+      "subtitle_index": 341,
+      "start_time": 2735.988,
+      "end_time": 2736.905,
+      "duration": 0.9170000000003711,
+      "dialogue_text": "Maar..."
+    },
+    {
+      "subtitle_index": 342,
+      "start_time": 2757.593,
+      "end_time": 2759.428,
+      "duration": 1.8350000000000364,
+      "dialogue_text": "Wat een geluk."
+    },
+    {
+      "subtitle_index": 343,
+      "start_time": 2760.721,
+      "end_time": 2762.806,
+      "duration": 2.0850000000000364,
+      "dialogue_text": "Er zitten gaten in."
+    },
+    {
+      "subtitle_index": 344,
+      "start_time": 2774.651,
+      "end_time": 2776.862,
+      "duration": 2.21100000000024,
+      "dialogue_text": "Pa is zijn paraplu vergeten."
+    },
+    {
+      "subtitle_index": 345,
+      "start_time": 2777.237,
+      "end_time": 2778.572,
+      "duration": 1.3350000000000364,
+      "dialogue_text": "Ik ga ook."
+    },
+    {
+      "subtitle_index": 346,
+      "start_time": 2782.159,
+      "end_time": 2783.994,
+      "duration": 1.8350000000000364,
+      "dialogue_text": "Ik zei dat ik hem ben vergeten."
+    },
+    {
+      "subtitle_index": 347,
+      "start_time": 2784.077,
+      "end_time": 2787.247,
+      "duration": 3.169999999999618,
+      "dialogue_text": "Welke idioot vergeet zijn paraplu op een regenachtige dag?"
+    },
+    {
+      "subtitle_index": 348,
+      "start_time": 2787.998,
+      "end_time": 2789.208,
+      "duration": 1.2100000000000364,
+      "dialogue_text": "Au."
+    },
+    {
+      "subtitle_index": 349,
+      "start_time": 2789.708,
+      "end_time": 2791.793,
+      "duration": 2.0850000000000364,
+      "dialogue_text": "Hij is vast kapot gegaan tijdens het spelen."
+    },
+    {
+      "subtitle_index": 350,
+      "start_time": 2791.877,
+      "end_time": 2792.961,
+      "duration": 1.0839999999998327,
+      "dialogue_text": "Niet waar."
+    },
+    {
+      "subtitle_index": 351,
+      "start_time": 2806.6,
+      "end_time": 2807.935,
+      "duration": 1.3350000000000364,
+      "dialogue_text": "Neem me niet kwalijk."
+    },
+    {
+      "subtitle_index": 352,
+      "start_time": 2810.145,
+      "end_time": 2813.857,
+      "duration": 3.711999999999989,
+      "dialogue_text": "Hallo, Satsuki. Hoi, Mei. Oma."
+    },
+    {
+      "subtitle_index": 353,
+      "start_time": 2815.4,
+      "end_time": 2816.902,
+      "duration": 1.5019999999999527,
+      "dialogue_text": "Het spijt me van Mei vandaag."
+    },
+    {
+      "subtitle_index": 354,
+      "start_time": 2816.985,
+      "end_time": 2818.654,
+      "duration": 1.668999999999869,
+      "dialogue_text": "Maakt niet uit. Sorry dat we niet meer konden doen."
+    },
+    {
+      "subtitle_index": 355,
+      "start_time": 2819.279,
+      "end_time": 2822.407,
+      "duration": 3.1280000000001564,
+      "dialogue_text": "Kanta heeft ons zijn paraplu geleend."
+    },
+    {
+      "subtitle_index": 356,
+      "start_time": 2822.491,
+      "end_time": 2825.994,
+      "duration": 3.5030000000001564,
+      "dialogue_text": "Is dat zo? Een kapotte."
+    },
+    {
+      "subtitle_index": 357,
+      "start_time": 2826.578,
+      "end_time": 2828.83,
+      "duration": 2.2519999999999527,
+      "dialogue_text": "Mei was bij me, dus ik was blij."
+    },
+    {
+      "subtitle_index": 358,
+      "start_time": 2828.914,
+      "end_time": 2832.376,
+      "duration": 3.461999999999989,
+      "dialogue_text": "Maar het spijt me dat Kanta nat is geworden."
+    },
+    {
+      "subtitle_index": 359,
+      "start_time": 2832.96,
+      "end_time": 2837.381,
+      "duration": 4.420999999999822,
+      "dialogue_text": "Geen probleem. Zo is hij vast een beetje schoon geworden."
+    },
+    {
+      "subtitle_index": 360,
+      "start_time": 2838.173,
+      "end_time": 2840.217,
+      "duration": 2.044000000000324,
+      "dialogue_text": "Ga je naar je vader? - Ja."
+    },
+    {
+      "subtitle_index": 361,
+      "start_time": 2840.3,
+      "end_time": 2841.677,
+      "duration": 1.3769999999999527,
+      "dialogue_text": "Wat een brave meiden zijn jullie."
+    },
+    {
+      "subtitle_index": 362,
+      "start_time": 2842.302,
+      "end_time": 2844.846,
+      "duration": 2.543999999999869,
+      "dialogue_text": "Dag, Mei. - Dag."
+    },
+    {
+      "subtitle_index": 363,
+      "start_time": 2855.315,
+      "end_time": 2857.943,
+      "duration": 2.6280000000001564,
+      "dialogue_text": "Wie was dat? - Weet ik niet."
+    },
+    {
+      "subtitle_index": 364,
+      "start_time": 2863.115,
+      "end_time": 2864.241,
+      "duration": 1.1260000000002037,
+      "dialogue_text": "Net op tijd."
+    },
+    {
+      "subtitle_index": 365,
+      "start_time": 2868.996,
+      "end_time": 2873.542,
+      "duration": 4.545999999999822,
+      "dialogue_text": "BESTEMMING MAEZAWA INARIMAE STATION"
+    },
+    {
+      "subtitle_index": 366,
+      "start_time": 2877.629,
+      "end_time": 2878.672,
+      "duration": 1.04300000000012,
+      "dialogue_text": "Stappen jullie in?"
+    },
+    {
+      "subtitle_index": 367,
+      "start_time": 2880.299,
+      "end_time": 2881.883,
+      "duration": 1.5839999999998327,
+      "dialogue_text": "Oké, doorrijden."
+    },
+    {
+      "subtitle_index": 368,
+      "start_time": 2882.759,
+      "end_time": 2885.345,
+      "duration": 2.5859999999997854,
+      "dialogue_text": "TOKIO BUSBEDRIJF"
+    },
+    {
+      "subtitle_index": 369,
+      "start_time": 2890.559,
+      "end_time": 2892.603,
+      "duration": 2.043999999999869,
+      "dialogue_text": "Pa zat er niet in."
+    },
+    {
+      "subtitle_index": 370,
+      "start_time": 2892.686,
+      "end_time": 2896.732,
+      "duration": 4.045999999999822,
+      "dialogue_text": "Hij zit vast in de volgende. Waarom wacht je niet bij Nanny?"
+    },
+    {
+      "subtitle_index": 371,
+      "start_time": 2933.018,
+      "end_time": 2934.102,
+      "duration": 1.0839999999998327,
+      "dialogue_text": "Gaat het?"
+    },
+    {
+      "subtitle_index": 372,
+      "start_time": 2966.218,
+      "end_time": 2969.012,
+      "duration": 2.794000000000324,
+      "dialogue_text": "Ben je moe?"
+    },
+    {
+      "subtitle_index": 373,
+      "start_time": 2970.055,
+      "end_time": 2973.85,
+      "duration": 3.7950000000000728,
+      "dialogue_text": "Ik zei het toch. Wil je naar Nanny?"
+    },
+    {
+      "subtitle_index": 374,
+      "start_time": 2976.144,
+      "end_time": 2977.729,
+      "duration": 1.5850000000000364,
+      "dialogue_text": "Het duurt niet lang meer. Hou vol."
+    },
+    {
+      "subtitle_index": 375,
+      "start_time": 2984.319,
+      "end_time": 2986.405,
+      "duration": 2.08600000000024,
+      "dialogue_text": "Het is laat..."
+    },
+    {
+      "subtitle_index": 376,
+      "start_time": 2994.579,
+      "end_time": 2995.414,
+      "duration": 0.8350000000000364,
+      "dialogue_text": "Kom op."
+    },
+    {
+      "subtitle_index": 377,
+      "start_time": 3079.122,
+      "end_time": 3080.123,
+      "duration": 1.0010000000002037,
+      "dialogue_text": "Ben jij Totoro?"
+    },
+    {
+      "subtitle_index": 378,
+      "start_time": 3091.092,
+      "end_time": 3092.01,
+      "duration": 0.91800000000012,
+      "dialogue_text": "Wacht even."
+    },
+    {
+      "subtitle_index": 379,
+      "start_time": 3097.849,
+      "end_time": 3099.017,
+      "duration": 1.1679999999996653,
+      "dialogue_text": "Je kunt dit gebruiken."
+    },
+    {
+      "subtitle_index": 380,
+      "start_time": 3100.602,
+      "end_time": 3102.521,
+      "duration": 1.9190000000003238,
+      "dialogue_text": "Pak aan, Mei glijdt weg."
+    },
+    {
+      "subtitle_index": 381,
+      "start_time": 3109.11,
+      "end_time": 3110.529,
+      "duration": 1.418999999999869,
+      "dialogue_text": "Hou hem zo vast."
+    },
+    {
+      "subtitle_index": 382,
+      "start_time": 3187.772,
+      "end_time": 3188.732,
+      "duration": 0.9600000000000364,
+      "dialogue_text": "Hier is de bus."
+    },
+    {
+      "subtitle_index": 383,
+      "start_time": 3203.121,
+      "end_time": 3205.123,
+      "duration": 2.0019999999999527,
+      "dialogue_text": "TSUKAMORI"
+    },
+    {
+      "subtitle_index": 384,
+      "start_time": 3224.1,
+      "end_time": 3227.02,
+      "duration": 2.9200000000000728,
+      "dialogue_text": "ZIEKENHUIS"
+    },
+    {
+      "subtitle_index": 385,
+      "start_time": 3256.508,
+      "end_time": 3259.636,
+      "duration": 3.1280000000001564,
+      "dialogue_text": "Hij heeft papa's paraplu meegenomen."
+    },
+    {
+      "subtitle_index": 386,
+      "start_time": 3273.191,
+      "end_time": 3274.734,
+      "duration": 1.54300000000012,
+      "dialogue_text": "Het spijt me."
+    },
+    {
+      "subtitle_index": 387,
+      "start_time": 3274.818,
+      "end_time": 3275.694,
+      "duration": 0.875999999999749,
+      "dialogue_text": "Rij maar door."
+    },
+    {
+      "subtitle_index": 388,
+      "start_time": 3276.653,
+      "end_time": 3279.572,
+      "duration": 2.919000000000324,
+      "dialogue_text": "De trein was laat en ik miste de bus."
+    },
+    {
+      "subtitle_index": 389,
+      "start_time": 3280.615,
+      "end_time": 3281.95,
+      "duration": 1.3350000000000364,
+      "dialogue_text": "Was je ongerust?"
+    },
+    {
+      "subtitle_index": 390,
+      "start_time": 3282.742,
+      "end_time": 3284.953,
+      "duration": 2.2109999999997854,
+      "dialogue_text": "We hebben hem ontmoet, pa. Hij was hier."
+    },
+    {
+      "subtitle_index": 391,
+      "start_time": 3285.036,
+      "end_time": 3286.579,
+      "duration": 1.54300000000012,
+      "dialogue_text": "En de kattenbus."
+    },
+    {
+      "subtitle_index": 392,
+      "start_time": 3287.205,
+      "end_time": 3288.081,
+      "duration": 0.8760000000002037,
+      "dialogue_text": "Wat?"
+    },
+    {
+      "subtitle_index": 393,
+      "start_time": 3288.707,
+      "end_time": 3290.291,
+      "duration": 1.5840000000002874,
+      "dialogue_text": "Hij was enorm."
+    },
+    {
+      "subtitle_index": 394,
+      "start_time": 3290.375,
+      "end_time": 3294.087,
+      "duration": 3.711999999999989,
+      "dialogue_text": "Met zulke grote ogen."
+    },
+    {
+      "subtitle_index": 395,
+      "start_time": 3295.338,
+      "end_time": 3299.259,
+      "duration": 3.9209999999998217,
+      "dialogue_text": "We hebben Totoro ontmoet."
+    },
+    {
+      "subtitle_index": 396,
+      "start_time": 3300.01,
+      "end_time": 3301.886,
+      "duration": 1.875999999999749,
+      "dialogue_text": "Wat fijn."
+    },
+    {
+      "subtitle_index": 397,
+      "start_time": 3313.231,
+      "end_time": 3314.065,
+      "duration": 0.8339999999998327,
+      "dialogue_text": "Kom op, papa."
+    },
+    {
+      "subtitle_index": 398,
+      "start_time": 3322.657,
+      "end_time": 3326.077,
+      "duration": 3.4200000000000728,
+      "dialogue_text": "Lieve moeder, ik kan niet uitleggen hoe blij ik was vandaag."
+    },
+    {
+      "subtitle_index": 399,
+      "start_time": 3326.494,
+      "end_time": 3330.206,
+      "duration": 3.711999999999989,
+      "dialogue_text": "Het was de engste, grappigste dag die ik ooit heb gehad."
+    },
+    {
+      "subtitle_index": 400,
+      "start_time": 3330.623,
+      "end_time": 3333.71,
+      "duration": 3.086999999999989,
+      "dialogue_text": "Totoro gaf ons een mooi cadeau,"
+    },
+    {
+      "subtitle_index": 401,
+      "start_time": 3334.044,
+      "end_time": 3338.048,
+      "duration": 4.003999999999905,
+      "dialogue_text": "verpakt in bamboebladeren."
+    },
+    {
+      "subtitle_index": 402,
+      "start_time": 3338.506,
+      "end_time": 3343.344,
+      "duration": 4.838000000000193,
+      "dialogue_text": "Toen we het openmaakte, zat het vol magische noten en zaden."
+    },
+    {
+      "subtitle_index": 403,
+      "start_time": 3348.224,
+      "end_time": 3353.104,
+      "duration": 4.879999999999654,
+      "dialogue_text": "'We besloten ze in de tuin te planten om een mooi bos te maken.'"
+    },
+    {
+      "subtitle_index": 404,
+      "start_time": 3353.605,
+      "end_time": 3356.149,
+      "duration": 2.543999999999869,
+      "dialogue_text": "Maar ze zijn nog niet ontsproten."
+    },
+    {
+      "subtitle_index": 405,
+      "start_time": 3356.357,
+      "end_time": 3360.695,
+      "duration": 4.338000000000193,
+      "dialogue_text": "Mei zit de hele dag te wachten."
+    },
+    {
+      "subtitle_index": 406,
+      "start_time": 3362.197,
+      "end_time": 3365.658,
+      "duration": 3.4609999999997854,
+      "dialogue_text": "Ze lijkt net een kleine krab."
+    },
+    {
+      "subtitle_index": 407,
+      "start_time": 3365.825,
+      "end_time": 3366.951,
+      "duration": 1.1260000000002037,
+      "dialogue_text": "KRAB MEI"
+    },
+    {
+      "subtitle_index": 408,
+      "start_time": 3370.872,
+      "end_time": 3372.791,
+      "duration": 1.9190000000003238,
+      "dialogue_text": "Het is bijna zomervakantie."
+    },
+    {
+      "subtitle_index": 409,
+      "start_time": 3372.874,
+      "end_time": 3376.961,
+      "duration": 4.086999999999989,
+      "dialogue_text": "Allerliefste moeder, word snel beter. Liefs, Satsuki."
+    },
+    {
+      "subtitle_index": 410,
+      "start_time": 3380.507,
+      "end_time": 3382.509,
+      "duration": 2.0019999999999527,
+      "dialogue_text": "Kom op. Bedtijd."
+    },
+    {
+      "subtitle_index": 411,
+      "start_time": 3386.596,
+      "end_time": 3388.431,
+      "duration": 1.8350000000000364,
+      "dialogue_text": "Lichten uit. - Wacht, pap."
+    },
+    {
+      "subtitle_index": 412,
+      "start_time": 3389.39,
+      "end_time": 3392.018,
+      "duration": 2.6280000000001564,
+      "dialogue_text": "Papa, denk je dat ze morgen tevoorschijn zullen komen?"
+    },
+    {
+      "subtitle_index": 413,
+      "start_time": 3392.602,
+      "end_time": 3396.231,
+      "duration": 3.62900000000036,
+      "dialogue_text": "Dat weet Totoro vast."
+    },
+    {
+      "subtitle_index": 414,
+      "start_time": 3396.439,
+      "end_time": 3397.524,
+      "duration": 1.0850000000000364,
+      "dialogue_text": "Slaap lekker."
+    },
+    {
+      "subtitle_index": 415,
+      "start_time": 3446.531,
+      "end_time": 3447.407,
+      "duration": 0.8760000000002037,
+      "dialogue_text": "Wakker worden, Mei."
+    },
+    {
+      "subtitle_index": 416,
+      "start_time": 3465.842,
+      "end_time": 3467.635,
+      "duration": 1.79300000000012,
+      "dialogue_text": "Daar hebben we de zaadjes geplant."
+    },
+    {
+      "subtitle_index": 417,
+      "start_time": 3558.601,
+      "end_time": 3561.771,
+      "duration": 3.1700000000000728,
+      "dialogue_text": "Wauw, het is gelukt."
+    },
+    {
+      "subtitle_index": 418,
+      "start_time": 3637.847,
+      "end_time": 3640.683,
+      "duration": 2.8359999999997854,
+      "dialogue_text": "We zijn de wind."
+    },
+    {
+      "subtitle_index": 419,
+      "start_time": 3701.494,
+      "end_time": 3702.87,
+      "duration": 1.375999999999749,
+      "dialogue_text": "Er zijn geen bomen."
+    },
+    {
+      "subtitle_index": 420,
+      "start_time": 3708.0,
+      "end_time": 3709.502,
+      "duration": 1.5019999999999527,
+      "dialogue_text": "Ja."
+    },
+    {
+      "subtitle_index": 421,
+      "start_time": 3713.005,
+      "end_time": 3717.719,
+      "duration": 4.713999999999942,
+      "dialogue_text": "Het was een droom. - Maar het was geen droom."
+    },
+    {
+      "subtitle_index": 422,
+      "start_time": 3717.802,
+      "end_time": 3720.805,
+      "duration": 3.0029999999997017,
+      "dialogue_text": "Het is ons gelukt."
+    },
+    {
+      "subtitle_index": 423,
+      "start_time": 3737.613,
+      "end_time": 3740.324,
+      "duration": 2.71100000000024,
+      "dialogue_text": "Mr Kusakabe."
+    },
+    {
+      "subtitle_index": 424,
+      "start_time": 3741.701,
+      "end_time": 3742.869,
+      "duration": 1.16800000000012,
+      "dialogue_text": "Telegram."
+    },
+    {
+      "subtitle_index": 425,
+      "start_time": 3744.12,
+      "end_time": 3745.788,
+      "duration": 1.66800000000012,
+      "dialogue_text": "Mr Kusakabe."
+    },
+    {
+      "subtitle_index": 426,
+      "start_time": 3747.373,
+      "end_time": 3749.0,
+      "duration": 1.6269999999999527,
+      "dialogue_text": "Is er iemand thuis?"
+    },
+    {
+      "subtitle_index": 427,
+      "start_time": 3756.007,
+      "end_time": 3758.05,
+      "duration": 2.04300000000012,
+      "dialogue_text": "Nanny?"
+    },
+    {
+      "subtitle_index": 428,
+      "start_time": 3762.388,
+      "end_time": 3763.723,
+      "duration": 1.3350000000000364,
+      "dialogue_text": "Ik ben hier."
+    },
+    {
+      "subtitle_index": 429,
+      "start_time": 3765.808,
+      "end_time": 3767.727,
+      "duration": 1.918999999999869,
+      "dialogue_text": "Deze is rijp."
+    },
+    {
+      "subtitle_index": 430,
+      "start_time": 3777.111,
+      "end_time": 3778.571,
+      "duration": 1.4600000000000364,
+      "dialogue_text": "En deze?"
+    },
+    {
+      "subtitle_index": 431,
+      "start_time": 3778.654,
+      "end_time": 3779.739,
+      "duration": 1.0850000000000364,
+      "dialogue_text": "Die is ook goed."
+    },
+    {
+      "subtitle_index": 432,
+      "start_time": 3786.37,
+      "end_time": 3789.457,
+      "duration": 3.086999999999989,
+      "dialogue_text": "Uw tuin is net een schatkist."
+    },
+    {
+      "subtitle_index": 433,
+      "start_time": 3790.249,
+      "end_time": 3792.418,
+      "duration": 2.169000000000324,
+      "dialogue_text": "Laten we even pauze nemen."
+    },
+    {
+      "subtitle_index": 434,
+      "start_time": 3798.674,
+      "end_time": 3801.219,
+      "duration": 2.5450000000000728,
+      "dialogue_text": "Deze zullen nu wel koud zijn."
+    },
+    {
+      "subtitle_index": 435,
+      "start_time": 3801.844,
+      "end_time": 3803.179,
+      "duration": 1.3350000000000364,
+      "dialogue_text": "Ziet er lekker uit."
+    },
+    {
+      "subtitle_index": 436,
+      "start_time": 3812.939,
+      "end_time": 3814.023,
+      "duration": 1.0840000000002874,
+      "dialogue_text": "Wat lekker."
+    },
+    {
+      "subtitle_index": 437,
+      "start_time": 3814.315,
+      "end_time": 3819.987,
+      "duration": 5.6720000000000255,
+      "dialogue_text": "De zon heeft ze gezegend, dus ze zullen heerlijk smaken."
+    },
+    {
+      "subtitle_index": 438,
+      "start_time": 3820.571,
+      "end_time": 3821.739,
+      "duration": 1.16800000000012,
+      "dialogue_text": "Zullen ze mijn moeder helpen?"
+    },
+    {
+      "subtitle_index": 439,
+      "start_time": 3822.532,
+      "end_time": 3827.328,
+      "duration": 4.795999999999822,
+      "dialogue_text": "Natuurlijk. Als ze mijn groenten eet, is ze zo weer beter."
+    },
+    {
+      "subtitle_index": 440,
+      "start_time": 3827.87,
+      "end_time": 3830.581,
+      "duration": 2.71100000000024,
+      "dialogue_text": "Ze komt aanstaande zaterdag terug."
+    },
+    {
+      "subtitle_index": 441,
+      "start_time": 3830.665,
+      "end_time": 3832.542,
+      "duration": 1.8769999999999527,
+      "dialogue_text": "Ze komt in mijn bed slapen."
+    },
+    {
+      "subtitle_index": 442,
+      "start_time": 3833.501,
+      "end_time": 3836.003,
+      "duration": 2.5019999999999527,
+      "dialogue_text": "Eindelijk. Wat fijn."
+    },
+    {
+      "subtitle_index": 443,
+      "start_time": 3837.421,
+      "end_time": 3839.257,
+      "duration": 1.83600000000024,
+      "dialogue_text": "Maar het is maar voor een paar dagen."
+    },
+    {
+      "subtitle_index": 444,
+      "start_time": 3839.34,
+      "end_time": 3842.51,
+      "duration": 3.1700000000000728,
+      "dialogue_text": "Om aan het nieuwe huis te wennen."
+    },
+    {
+      "subtitle_index": 445,
+      "start_time": 3843.177,
+      "end_time": 3847.223,
+      "duration": 4.045999999999822,
+      "dialogue_text": "Ik snap het. Dan moeten we haar veel groenten geven."
+    },
+    {
+      "subtitle_index": 446,
+      "start_time": 3847.306,
+      "end_time": 3850.685,
+      "duration": 3.3789999999999054,
+      "dialogue_text": "Ik zal haar mais geven die ik heb geplukt."
+    },
+    {
+      "subtitle_index": 447,
+      "start_time": 3851.227,
+      "end_time": 3852.812,
+      "duration": 1.5850000000000364,
+      "dialogue_text": "Dat zal ze vast fijn vinden."
+    },
+    {
+      "subtitle_index": 448,
+      "start_time": 3853.437,
+      "end_time": 3854.355,
+      "duration": 0.91800000000012,
+      "dialogue_text": "Ik weet het."
+    },
+    {
+      "subtitle_index": 449,
+      "start_time": 3862.488,
+      "end_time": 3864.49,
+      "duration": 2.0019999999999527,
+      "dialogue_text": "Er was een telegram voor jullie."
+    },
+    {
+      "subtitle_index": 450,
+      "start_time": 3864.574,
+      "end_time": 3865.449,
+      "duration": 0.875,
+      "dialogue_text": "Voor ons?"
+    },
+    {
+      "subtitle_index": 451,
+      "start_time": 3869.871,
+      "end_time": 3872.039,
+      "duration": 2.16800000000012,
+      "dialogue_text": "Papa is pas laat thuis, wat zal ik doen?"
+    },
+    {
+      "subtitle_index": 452,
+      "start_time": 3872.665,
+      "end_time": 3875.001,
+      "duration": 2.33600000000024,
+      "dialogue_text": "Maak maar open, misschien is het belangrijk."
+    },
+    {
+      "subtitle_index": 453,
+      "start_time": 3879.171,
+      "end_time": 3882.758,
+      "duration": 3.586999999999989,
+      "dialogue_text": "Bel het ziekenhuis..."
+    },
+    {
+      "subtitle_index": 454,
+      "start_time": 3883.301,
+      "end_time": 3886.429,
+      "duration": 3.1280000000001564,
+      "dialogue_text": "Het is van mama's ziekenhuis."
+    },
+    {
+      "subtitle_index": 455,
+      "start_time": 3886.512,
+      "end_time": 3888.264,
+      "duration": 1.7519999999999527,
+      "dialogue_text": "Er is iets met haar gebeurd."
+    },
+    {
+      "subtitle_index": 456,
+      "start_time": 3890.683,
+      "end_time": 3892.685,
+      "duration": 2.0019999999999527,
+      "dialogue_text": "Nanny. Wat moet ik doen?"
+    },
+    {
+      "subtitle_index": 457,
+      "start_time": 3892.768,
+      "end_time": 3896.939,
+      "duration": 4.170999999999822,
+      "dialogue_text": "Rustig maar. Weet je waar je vader is?"
+    },
+    {
+      "subtitle_index": 458,
+      "start_time": 3897.023,
+      "end_time": 3900.276,
+      "duration": 3.2529999999997017,
+      "dialogue_text": "Ik ken het nummer van zijn kantoor, maar we hebben geen telefoon."
+    },
+    {
+      "subtitle_index": 459,
+      "start_time": 3900.359,
+      "end_time": 3904.614,
+      "duration": 4.255000000000109,
+      "dialogue_text": "Kanta, laat haar de telefoon gebruiken in het huis."
+    },
+    {
+      "subtitle_index": 460,
+      "start_time": 3909.785,
+      "end_time": 3912.246,
+      "duration": 2.46100000000024,
+      "dialogue_text": "Mei, jij blijft bij mij."
+    },
+    {
+      "subtitle_index": 461,
+      "start_time": 3921.881,
+      "end_time": 3923.591,
+      "duration": 1.7100000000000364,
+      "dialogue_text": "Blijf bij Nanny, Mei."
+    },
+    {
+      "subtitle_index": 462,
+      "start_time": 3961.253,
+      "end_time": 3963.506,
+      "duration": 2.2529999999997017,
+      "dialogue_text": "Hallo, ik wil graag interlokaal bellen."
+    },
+    {
+      "subtitle_index": 463,
+      "start_time": 3964.924,
+      "end_time": 3969.345,
+      "duration": 4.420999999999822,
+      "dialogue_text": "Het is Tokio 311382."
+    },
+    {
+      "subtitle_index": 464,
+      "start_time": 3971.097,
+      "end_time": 3973.849,
+      "duration": 2.7519999999999527,
+      "dialogue_text": "Een lief meisje, Kanta."
+    },
+    {
+      "subtitle_index": 465,
+      "start_time": 3976.602,
+      "end_time": 3978.646,
+      "duration": 2.044000000000324,
+      "dialogue_text": "Hallo? Ja?"
+    },
+    {
+      "subtitle_index": 466,
+      "start_time": 3980.189,
+      "end_time": 3984.86,
+      "duration": 4.6710000000002765,
+      "dialogue_text": "Hallo, mag ik mijn vader spreken... Mr Kusakabe?"
+    },
+    {
+      "subtitle_index": 467,
+      "start_time": 3985.987,
+      "end_time": 3987.655,
+      "duration": 1.66800000000012,
+      "dialogue_text": "Het is zijn dochter, Satsuki."
+    },
+    {
+      "subtitle_index": 468,
+      "start_time": 3991.951,
+      "end_time": 3993.661,
+      "duration": 1.7100000000000364,
+      "dialogue_text": "Papa? Met mij, Satsuki."
+    },
+    {
+      "subtitle_index": 469,
+      "start_time": 3994.161,
+      "end_time": 3995.413,
+      "duration": 1.2519999999999527,
+      "dialogue_text": "Hallo, wat is er?"
+    },
+    {
+      "subtitle_index": 470,
+      "start_time": 3998.833,
+      "end_time": 3999.667,
+      "duration": 0.8339999999998327,
+      "dialogue_text": "Van het ziekenhuis?"
+    },
+    {
+      "subtitle_index": 471,
+      "start_time": 3999.959,
+      "end_time": 4002.795,
+      "duration": 2.83600000000024,
+      "dialogue_text": "Oké, ik bel ze gelijk."
+    },
+    {
+      "subtitle_index": 472,
+      "start_time": 4002.878,
+      "end_time": 4005.715,
+      "duration": 2.836999999999989,
+      "dialogue_text": "Is er iets met mama?"
+    },
+    {
+      "subtitle_index": 473,
+      "start_time": 4005.798,
+      "end_time": 4008.342,
+      "duration": 2.544000000000324,
+      "dialogue_text": "Geen zorgen. Ik bel ze op..."
+    },
+    {
+      "subtitle_index": 474,
+      "start_time": 4008.426,
+      "end_time": 4012.054,
+      "duration": 3.6280000000001564,
+      "dialogue_text": "...en dan bel ik je gelijk terug."
+    },
+    {
+      "subtitle_index": 475,
+      "start_time": 4013.806,
+      "end_time": 4015.266,
+      "duration": 1.4600000000000364,
+      "dialogue_text": "Ik hang nu op, blijf daar."
+    },
+    {
+      "subtitle_index": 476,
+      "start_time": 4017.852,
+      "end_time": 4021.272,
+      "duration": 3.4200000000000728,
+      "dialogue_text": "Mag ik hier blijven tot hij terugbelt?"
+    },
+    {
+      "subtitle_index": 477,
+      "start_time": 4021.939,
+      "end_time": 4024.025,
+      "duration": 2.08600000000024,
+      "dialogue_text": "Blijf zo lang als je wilt."
+    },
+    {
+      "subtitle_index": 478,
+      "start_time": 4031.657,
+      "end_time": 4033.325,
+      "duration": 1.6679999999996653,
+      "dialogue_text": "Satsuki."
+    },
+    {
+      "subtitle_index": 479,
+      "start_time": 4042.418,
+      "end_time": 4045.171,
+      "duration": 2.7529999999997017,
+      "dialogue_text": "Nee, dit is mais voor mijn mama."
+    },
+    {
+      "subtitle_index": 480,
+      "start_time": 4047.173,
+      "end_time": 4050.176,
+      "duration": 3.0030000000001564,
+      "dialogue_text": "Nee, het is van mijn moeder."
+    },
+    {
+      "subtitle_index": 481,
+      "start_time": 4066.525,
+      "end_time": 4069.278,
+      "duration": 2.7529999999997017,
+      "dialogue_text": "Luister, Mei. Mama voelt zich niet lekker..."
+    },
+    {
+      "subtitle_index": 482,
+      "start_time": 4069.987,
+      "end_time": 4072.364,
+      "duration": 2.3769999999999527,
+      "dialogue_text": "...dus ze kan niet naar huis komen."
+    },
+    {
+      "subtitle_index": 483,
+      "start_time": 4073.032,
+      "end_time": 4073.991,
+      "duration": 0.9589999999998327,
+      "dialogue_text": "Nee."
+    },
+    {
+      "subtitle_index": 484,
+      "start_time": 4075.493,
+      "end_time": 4078.871,
+      "duration": 3.3780000000001564,
+      "dialogue_text": "Er is niets wat we kunnen doen. Je wilt toch niet dat het erger wordt?"
+    },
+    {
+      "subtitle_index": 485,
+      "start_time": 4079.455,
+      "end_time": 4080.539,
+      "duration": 1.0840000000002874,
+      "dialogue_text": "Nee."
+    },
+    {
+      "subtitle_index": 486,
+      "start_time": 4082.208,
+      "end_time": 4084.126,
+      "duration": 1.91800000000012,
+      "dialogue_text": "Het is maar voor een paar dagen."
+    },
+    {
+      "subtitle_index": 487,
+      "start_time": 4084.543,
+      "end_time": 4086.128,
+      "duration": 1.5850000000000364,
+      "dialogue_text": "Nee."
+    },
+    {
+      "subtitle_index": 488,
+      "start_time": 4087.546,
+      "end_time": 4089.381,
+      "duration": 1.8350000000000364,
+      "dialogue_text": "Dus het kan je niets schelen als ze sterft?"
+    },
+    {
+      "subtitle_index": 489,
+      "start_time": 4089.924,
+      "end_time": 4091.383,
+      "duration": 1.4589999999998327,
+      "dialogue_text": "Nee."
+    },
+    {
+      "subtitle_index": 490,
+      "start_time": 4092.218,
+      "end_time": 4094.47,
+      "duration": 2.2519999999999527,
+      "dialogue_text": "Doe niet zo gek. Ik ga."
+    },
+    {
+      "subtitle_index": 491,
+      "start_time": 4105.606,
+      "end_time": 4106.44,
+      "duration": 0.8339999999998327,
+      "dialogue_text": "Kom op, Mei."
+    },
+    {
+      "subtitle_index": 492,
+      "start_time": 4110.277,
+      "end_time": 4113.572,
+      "duration": 3.2950000000000728,
+      "dialogue_text": "Ik haat je, Satsuki."
+    },
+    {
+      "subtitle_index": 493,
+      "start_time": 4140.641,
+      "end_time": 4144.019,
+      "duration": 3.378000000000611,
+      "dialogue_text": "We moeten de was naar binnen brengen."
+    },
+    {
+      "subtitle_index": 494,
+      "start_time": 4144.895,
+      "end_time": 4147.606,
+      "duration": 2.7109999999993306,
+      "dialogue_text": "Maak je niet te veel zorgen, Satsuki."
+    },
+    {
+      "subtitle_index": 495,
+      "start_time": 4147.69,
+      "end_time": 4151.443,
+      "duration": 3.753000000000611,
+      "dialogue_text": "Nanny is er om te helpen, dus kop op."
+    },
+    {
+      "subtitle_index": 496,
+      "start_time": 4155.573,
+      "end_time": 4159.535,
+      "duration": 3.9619999999995343,
+      "dialogue_text": "Je vader zei dat hij naar het ziekenhuis gaat."
+    },
+    {
+      "subtitle_index": 497,
+      "start_time": 4160.369,
+      "end_time": 4163.038,
+      "duration": 2.668999999999869,
+      "dialogue_text": "En het is gewoon een verkoudheid..."
+    },
+    {
+      "subtitle_index": 498,
+      "start_time": 4163.539,
+      "end_time": 4167.042,
+      "duration": 3.503000000000611,
+      "dialogue_text": "...volgende week komt ze weer terug."
+    },
+    {
+      "subtitle_index": 499,
+      "start_time": 4171.672,
+      "end_time": 4175.176,
+      "duration": 3.504000000000815,
+      "dialogue_text": "Ze zeiden dat het maar een verkoudheid was..."
+    },
+    {
+      "subtitle_index": 500,
+      "start_time": 4176.343,
+      "end_time": 4177.761,
+      "duration": 1.4180000000005748,
+      "dialogue_text": "...toen ze naar het ziekenhuis ging."
+    },
+    {
+      "subtitle_index": 501,
+      "start_time": 4179.638,
+      "end_time": 4181.265,
+      "duration": 1.6270000000004075,
+      "dialogue_text": "Maar wat als ze sterft?"
+    },
+    {
+      "subtitle_index": 502,
+      "start_time": 4181.682,
+      "end_time": 4183.267,
+      "duration": 1.5850000000000364,
+      "dialogue_text": "Niet zo gek doen, Satsuki."
+    },
+    {
+      "subtitle_index": 503,
+      "start_time": 4184.101,
+      "end_time": 4185.895,
+      "duration": 1.7940000000007785,
+      "dialogue_text": "Misschien dat mama..."
+    },
+    {
+      "subtitle_index": 504,
+      "start_time": 4189.899,
+      "end_time": 4192.776,
+      "duration": 2.876999999999498,
+      "dialogue_text": "Hou op."
+    },
+    {
+      "subtitle_index": 505,
+      "start_time": 4192.86,
+      "end_time": 4196.614,
+      "duration": 3.7539999999999054,
+      "dialogue_text": "Niemand zou twee mooie, kleine meisjes zoals jullie achterlaten."
+    },
+    {
+      "subtitle_index": 506,
+      "start_time": 4197.781,
+      "end_time": 4201.243,
+      "duration": 3.462000000000444,
+      "dialogue_text": "Kom maar. Niet huilen."
+    },
+    {
+      "subtitle_index": 507,
+      "start_time": 4201.577,
+      "end_time": 4206.123,
+      "duration": 4.545999999999367,
+      "dialogue_text": "Ik blijf hier tot papa terugkomt, oké?"
+    },
+    {
+      "subtitle_index": 508,
+      "start_time": 4248.165,
+      "end_time": 4251.168,
+      "duration": 3.0029999999997017,
+      "dialogue_text": "Mei."
+    },
+    {
+      "subtitle_index": 509,
+      "start_time": 4255.631,
+      "end_time": 4257.174,
+      "duration": 1.5429999999996653,
+      "dialogue_text": "Mei."
+    },
+    {
+      "subtitle_index": 510,
+      "start_time": 4260.636,
+      "end_time": 4262.304,
+      "duration": 1.6679999999996653,
+      "dialogue_text": "Mei."
+    },
+    {
+      "subtitle_index": 511,
+      "start_time": 4265.557,
+      "end_time": 4266.767,
+      "duration": 1.2100000000000364,
+      "dialogue_text": "Is ze teruggekomen?"
+    },
+    {
+      "subtitle_index": 512,
+      "start_time": 4266.85,
+      "end_time": 4269.103,
+      "duration": 2.2529999999997017,
+      "dialogue_text": "Was ze niet bij de bushalte?"
+    },
+    {
+      "subtitle_index": 513,
+      "start_time": 4270.688,
+      "end_time": 4273.607,
+      "duration": 2.918999999999869,
+      "dialogue_text": "Dat is gek. Waar is ze naartoe?"
+    },
+    {
+      "subtitle_index": 514,
+      "start_time": 4274.316,
+      "end_time": 4277.987,
+      "duration": 3.6710000000002765,
+      "dialogue_text": "Ik was gemeen tegen haar omdat ze gek deed..."
+    },
+    {
+      "subtitle_index": 515,
+      "start_time": 4278.112,
+      "end_time": 4280.614,
+      "duration": 2.501999999999498,
+      "dialogue_text": "Misschien is ze naar het ziekenhuis."
+    },
+    {
+      "subtitle_index": 516,
+      "start_time": 4280.864,
+      "end_time": 4283.701,
+      "duration": 2.837000000000444,
+      "dialogue_text": "Het ziekenhuis?"
+    },
+    {
+      "subtitle_index": 517,
+      "start_time": 4284.368,
+      "end_time": 4286.662,
+      "duration": 2.293999999999869,
+      "dialogue_text": "Daar doet een volwassene drie uur over."
+    },
+    {
+      "subtitle_index": 518,
+      "start_time": 4286.745,
+      "end_time": 4287.621,
+      "duration": 0.8760000000002037,
+      "dialogue_text": "Ik ga kijken."
+    },
+    {
+      "subtitle_index": 519,
+      "start_time": 4289.498,
+      "end_time": 4292.209,
+      "duration": 2.71100000000024,
+      "dialogue_text": "Kanta, schiet op."
+    },
+    {
+      "subtitle_index": 520,
+      "start_time": 4292.293,
+      "end_time": 4296.297,
+      "duration": 4.003999999999905,
+      "dialogue_text": "Zeg tegen je vader dat Mei vermist is."
+    },
+    {
+      "subtitle_index": 521,
+      "start_time": 4305.556,
+      "end_time": 4308.142,
+      "duration": 2.58600000000024,
+      "dialogue_text": "Stomme Mei. Ze raakt altijd kwijt."
+    },
+    {
+      "subtitle_index": 522,
+      "start_time": 4316.025,
+      "end_time": 4318.235,
+      "duration": 2.2100000000000364,
+      "dialogue_text": "Mei."
+    },
+    {
+      "subtitle_index": 523,
+      "start_time": 4325.242,
+      "end_time": 4327.077,
+      "duration": 1.8350000000000364,
+      "dialogue_text": "Neem me niet kwalijk."
+    },
+    {
+      "subtitle_index": 524,
+      "start_time": 4329.246,
+      "end_time": 4333.625,
+      "duration": 4.378999999999905,
+      "dialogue_text": "Heeft u een klein meisje gezien? Ze is mijn zusje."
+    },
+    {
+      "subtitle_index": 525,
+      "start_time": 4333.792,
+      "end_time": 4336.086,
+      "duration": 2.293999999999869,
+      "dialogue_text": "Nee, ik denk het niet."
+    },
+    {
+      "subtitle_index": 526,
+      "start_time": 4336.67,
+      "end_time": 4338.881,
+      "duration": 2.21100000000024,
+      "dialogue_text": "Ik weet zeker dat ik dat zou hebben gemerkt."
+    },
+    {
+      "subtitle_index": 527,
+      "start_time": 4340.215,
+      "end_time": 4341.759,
+      "duration": 1.543999999999869,
+      "dialogue_text": "Misschien was ze niet hier."
+    },
+    {
+      "subtitle_index": 528,
+      "start_time": 4361.278,
+      "end_time": 4364.698,
+      "duration": 3.4200000000000728,
+      "dialogue_text": "Weet je zeker dat ze deze kant op ging? - Ik weet het niet."
+    },
+    {
+      "subtitle_index": 529,
+      "start_time": 4373.54,
+      "end_time": 4375.918,
+      "duration": 2.3779999999997017,
+      "dialogue_text": "Mei."
+    },
+    {
+      "subtitle_index": 530,
+      "start_time": 4396.98,
+      "end_time": 4398.69,
+      "duration": 1.7100000000000364,
+      "dialogue_text": "Alsjeblieft, stop."
+    },
+    {
+      "subtitle_index": 531,
+      "start_time": 4401.318,
+      "end_time": 4402.653,
+      "duration": 1.3350000000000364,
+      "dialogue_text": "Idioot. Wat doe je?"
+    },
+    {
+      "subtitle_index": 532,
+      "start_time": 4402.736,
+      "end_time": 4405.406,
+      "duration": 2.6700000000000728,
+      "dialogue_text": "Ik zoek mijn zusje, hebben jullie een klein meisje gezien?"
+    },
+    {
+      "subtitle_index": 533,
+      "start_time": 4406.657,
+      "end_time": 4407.866,
+      "duration": 1.2089999999998327,
+      "dialogue_text": "Je zusje?"
+    },
+    {
+      "subtitle_index": 534,
+      "start_time": 4407.95,
+      "end_time": 4411.286,
+      "duration": 3.33600000000024,
+      "dialogue_text": "Ze is vier. Ik denk dat ze naar het ziekenhuis gaat."
+    },
+    {
+      "subtitle_index": 535,
+      "start_time": 4412.079,
+      "end_time": 4413.664,
+      "duration": 1.5850000000000364,
+      "dialogue_text": "Heb jij iemand gezien?"
+    },
+    {
+      "subtitle_index": 536,
+      "start_time": 4414.957,
+      "end_time": 4418.794,
+      "duration": 3.8369999999995343,
+      "dialogue_text": "Nee. We komen daarvandaan, maar we hebben niemand gezien."
+    },
+    {
+      "subtitle_index": 537,
+      "start_time": 4420.087,
+      "end_time": 4421.672,
+      "duration": 1.5849999999991269,
+      "dialogue_text": "Toch bedankt."
+    },
+    {
+      "subtitle_index": 538,
+      "start_time": 4422.965,
+      "end_time": 4424.591,
+      "duration": 1.6260000000002037,
+      "dialogue_text": "Waar kom je vandaan?"
+    },
+    {
+      "subtitle_index": 539,
+      "start_time": 4424.675,
+      "end_time": 4425.801,
+      "duration": 1.1260000000002037,
+      "dialogue_text": "Uit Matsugo."
+    },
+    {
+      "subtitle_index": 540,
+      "start_time": 4425.884,
+      "end_time": 4427.344,
+      "duration": 1.4600000000000364,
+      "dialogue_text": "Matsugo?"
+    },
+    {
+      "subtitle_index": 541,
+      "start_time": 4427.803,
+      "end_time": 4429.179,
+      "duration": 1.3760000000002037,
+      "dialogue_text": "Echt?"
+    },
+    {
+      "subtitle_index": 542,
+      "start_time": 4430.722,
+      "end_time": 4431.765,
+      "duration": 1.0430000000005748,
+      "dialogue_text": "Succes."
+    },
+    {
+      "subtitle_index": 543,
+      "start_time": 4443.485,
+      "end_time": 4444.862,
+      "duration": 1.3770000000004075,
+      "dialogue_text": "Satsuki."
+    },
+    {
+      "subtitle_index": 544,
+      "start_time": 4446.655,
+      "end_time": 4448.657,
+      "duration": 2.0020000000004075,
+      "dialogue_text": "Kanta."
+    },
+    {
+      "subtitle_index": 545,
+      "start_time": 4449.908,
+      "end_time": 4452.035,
+      "duration": 2.126999999999498,
+      "dialogue_text": "Heb je haar gevonden? - Nee. En jij?"
+    },
+    {
+      "subtitle_index": 546,
+      "start_time": 4453.12,
+      "end_time": 4457.541,
+      "duration": 4.4210000000002765,
+      "dialogue_text": "Pa en de anderen zoeken haar. Ik ga naar het ziekenhuis..."
+    },
+    {
+      "subtitle_index": 547,
+      "start_time": 4457.624,
+      "end_time": 4459.084,
+      "duration": 1.4600000000000364,
+      "dialogue_text": "...ga jij maar naar huis."
+    },
+    {
+      "subtitle_index": 548,
+      "start_time": 4459.418,
+      "end_time": 4463.172,
+      "duration": 3.7539999999999054,
+      "dialogue_text": "Ze is vast verdwaald onderweg naar het ziekenhuis."
+    },
+    {
+      "subtitle_index": 549,
+      "start_time": 4463.839,
+      "end_time": 4466.425,
+      "duration": 2.58600000000024,
+      "dialogue_text": "Ze hebben een sandaal gevonden bij de beek."
+    },
+    {
+      "subtitle_index": 550,
+      "start_time": 4473.849,
+      "end_time": 4476.56,
+      "duration": 2.71100000000024,
+      "dialogue_text": "We weten niet of die van haar is of niet."
+    },
+    {
+      "subtitle_index": 551,
+      "start_time": 4493.827,
+      "end_time": 4495.078,
+      "duration": 1.2510000000002037,
+      "dialogue_text": "Heb je haar gevonden?"
+    },
+    {
+      "subtitle_index": 552,
+      "start_time": 4526.86,
+      "end_time": 4530.989,
+      "duration": 4.128999999999905,
+      "dialogue_text": "Lieve heer, bescherm haar alstublieft en..."
+    },
+    {
+      "subtitle_index": 553,
+      "start_time": 4531.573,
+      "end_time": 4534.034,
+      "duration": 2.4609999999993306,
+      "dialogue_text": "Het is hier te diep, we kunnen beter verder weg zoeken."
+    },
+    {
+      "subtitle_index": 554,
+      "start_time": 4534.117,
+      "end_time": 4535.994,
+      "duration": 1.876999999999498,
+      "dialogue_text": "Hé, zijn er nog stokken over?"
+    },
+    {
+      "subtitle_index": 555,
+      "start_time": 4545.045,
+      "end_time": 4547.214,
+      "duration": 2.168999999999869,
+      "dialogue_text": "Oma, Satsuki is hier."
+    },
+    {
+      "subtitle_index": 556,
+      "start_time": 4551.885,
+      "end_time": 4553.095,
+      "duration": 1.2100000000000364,
+      "dialogue_text": "Nanny."
+    },
+    {
+      "subtitle_index": 557,
+      "start_time": 4554.763,
+      "end_time": 4556.348,
+      "duration": 1.5850000000000364,
+      "dialogue_text": "Kijk, is die van haar?"
+    },
+    {
+      "subtitle_index": 558,
+      "start_time": 4565.774,
+      "end_time": 4566.608,
+      "duration": 0.8339999999998327,
+      "dialogue_text": "Nee."
+    },
+    {
+      "subtitle_index": 559,
+      "start_time": 4577.744,
+      "end_time": 4583.208,
+      "duration": 5.463999999999942,
+      "dialogue_text": "Godzijdank, ik dacht dat hij van haar was."
+    },
+    {
+      "subtitle_index": 560,
+      "start_time": 4583.292,
+      "end_time": 4585.043,
+      "duration": 1.7509999999992942,
+      "dialogue_text": "Nanny was te voorbarig."
+    },
+    {
+      "subtitle_index": 561,
+      "start_time": 4585.127,
+      "end_time": 4587.379,
+      "duration": 2.251999999999498,
+      "dialogue_text": "Hij is niet van haar."
+    },
+    {
+      "subtitle_index": 562,
+      "start_time": 4588.005,
+      "end_time": 4589.881,
+      "duration": 1.8760000000002037,
+      "dialogue_text": "Waar is ze dan heen?"
+    },
+    {
+      "subtitle_index": 563,
+      "start_time": 4589.965,
+      "end_time": 4591.425,
+      "duration": 1.4600000000000364,
+      "dialogue_text": "Laten we opnieuw beginnen."
+    },
+    {
+      "subtitle_index": 564,
+      "start_time": 4591.508,
+      "end_time": 4593.135,
+      "duration": 1.6270000000004075,
+      "dialogue_text": "Schiet op, voor het donker wordt."
+    },
+    {
+      "subtitle_index": 565,
+      "start_time": 4593.218,
+      "end_time": 4596.888,
+      "duration": 3.6700000000000728,
+      "dialogue_text": "Ik waardeer jullie hulp enorm."
+    },
+    {
+      "subtitle_index": 566,
+      "start_time": 4597.014,
+      "end_time": 4598.348,
+      "duration": 1.3339999999998327,
+      "dialogue_text": "Het had ieder van ons kunnen zijn."
+    },
+    {
+      "subtitle_index": 567,
+      "start_time": 4598.432,
+      "end_time": 4600.892,
+      "duration": 2.4600000000000364,
+      "dialogue_text": "Iemand moet de politie bellen."
+    },
+    {
+      "subtitle_index": 568,
+      "start_time": 4627.127,
+      "end_time": 4630.213,
+      "duration": 3.0859999999993306,
+      "dialogue_text": "Help me alsjeblieft, Totoro."
+    },
+    {
+      "subtitle_index": 569,
+      "start_time": 4630.297,
+      "end_time": 4633.634,
+      "duration": 3.337000000000444,
+      "dialogue_text": "Mei is weg. Het is bijna donker."
+    },
+    {
+      "subtitle_index": 570,
+      "start_time": 4633.717,
+      "end_time": 4635.844,
+      "duration": 2.1270000000004075,
+      "dialogue_text": "Ze is vast bang."
+    },
+    {
+      "subtitle_index": 571,
+      "start_time": 4666.958,
+      "end_time": 4668.001,
+      "duration": 1.0430000000005748,
+      "dialogue_text": "Totoro."
+    },
+    {
+      "subtitle_index": 572,
+      "start_time": 4670.045,
+      "end_time": 4673.84,
+      "duration": 3.7950000000000728,
+      "dialogue_text": "Mei is weg en we kunnen haar niet vinden."
+    },
+    {
+      "subtitle_index": 573,
+      "start_time": 4674.508,
+      "end_time": 4676.843,
+      "duration": 2.3350000000000364,
+      "dialogue_text": "Ze is vast bang."
+    },
+    {
+      "subtitle_index": 574,
+      "start_time": 4677.719,
+      "end_time": 4679.846,
+      "duration": 2.126999999999498,
+      "dialogue_text": "Help me alsjeblieft haar te vinden."
+    },
+    {
+      "subtitle_index": 575,
+      "start_time": 4681.306,
+      "end_time": 4683.475,
+      "duration": 2.1690000000007785,
+      "dialogue_text": "Ik weet niet wat ik moet doen."
+    },
+    {
+      "subtitle_index": 576,
+      "start_time": 4742.451,
+      "end_time": 4743.952,
+      "duration": 1.5010000000002037,
+      "dialogue_text": "Ze kunnen de bus niet zien."
+    },
+    {
+      "subtitle_index": 577,
+      "start_time": 4791.625,
+      "end_time": 4793.043,
+      "duration": 1.4179999999996653,
+      "dialogue_text": "BOS"
+    },
+    {
+      "subtitle_index": 578,
+      "start_time": 4793.126,
+      "end_time": 4794.127,
+      "duration": 1.0010000000002037,
+      "dialogue_text": "MOERAS"
+    },
+    {
+      "subtitle_index": 579,
+      "start_time": 4794.211,
+      "end_time": 4795.295,
+      "duration": 1.0839999999998327,
+      "dialogue_text": "BEGRAAFPLAATS KAPEL"
+    },
+    {
+      "subtitle_index": 580,
+      "start_time": 4795.378,
+      "end_time": 4796.63,
+      "duration": 1.2520000000004075,
+      "dialogue_text": "HEILIGDOM MEER"
+    },
+    {
+      "subtitle_index": 581,
+      "start_time": 4796.713,
+      "end_time": 4798.84,
+      "duration": 2.1270000000004075,
+      "dialogue_text": "MEI"
+    },
+    {
+      "subtitle_index": 582,
+      "start_time": 4815.565,
+      "end_time": 4819.903,
+      "duration": 4.338000000000648,
+      "dialogue_text": "Mei."
+    },
+    {
+      "subtitle_index": 583,
+      "start_time": 4827.702,
+      "end_time": 4828.995,
+      "duration": 1.2929999999996653,
+      "dialogue_text": "De bomen gaan aan de kant."
+    },
+    {
+      "subtitle_index": 584,
+      "start_time": 4847.347,
+      "end_time": 4851.268,
+      "duration": 3.9210000000002765,
+      "dialogue_text": "MEI"
+    },
+    {
+      "subtitle_index": 585,
+      "start_time": 4860.902,
+      "end_time": 4862.362,
+      "duration": 1.4600000000000364,
+      "dialogue_text": "Mei."
+    },
+    {
+      "subtitle_index": 586,
+      "start_time": 4866.491,
+      "end_time": 4868.535,
+      "duration": 2.043999999999869,
+      "dialogue_text": "Satsuki."
+    },
+    {
+      "subtitle_index": 587,
+      "start_time": 4870.495,
+      "end_time": 4873.582,
+      "duration": 3.087000000000444,
+      "dialogue_text": "Satsuki. - Mei"
+    },
+    {
+      "subtitle_index": 588,
+      "start_time": 4883.383,
+      "end_time": 4884.342,
+      "duration": 0.9589999999998327,
+      "dialogue_text": "Mei."
+    },
+    {
+      "subtitle_index": 589,
+      "start_time": 4884.426,
+      "end_time": 4886.219,
+      "duration": 1.7929999999996653,
+      "dialogue_text": "Satsuki."
+    },
+    {
+      "subtitle_index": 590,
+      "start_time": 4889.389,
+      "end_time": 4890.265,
+      "duration": 0.8760000000002037,
+      "dialogue_text": "Gekke meid."
+    },
+    {
+      "subtitle_index": 591,
+      "start_time": 4890.348,
+      "end_time": 4892.058,
+      "duration": 1.7100000000000364,
+      "dialogue_text": "Het spijt me."
+    },
+    {
+      "subtitle_index": 592,
+      "start_time": 4894.686,
+      "end_time": 4897.689,
+      "duration": 3.003000000000611,
+      "dialogue_text": "Wilde je de mais aan mama geven?"
+    },
+    {
+      "subtitle_index": 593,
+      "start_time": 4905.697,
+      "end_time": 4908.158,
+      "duration": 2.46100000000024,
+      "dialogue_text": "SHICHIKOKUYAMA ZIEKENHUIS"
+    },
+    {
+      "subtitle_index": 594,
+      "start_time": 4910.118,
+      "end_time": 4911.161,
+      "duration": 1.0429999999996653,
+      "dialogue_text": "Wil je ons daarheen brengen?"
+    },
+    {
+      "subtitle_index": 595,
+      "start_time": 4914.289,
+      "end_time": 4915.707,
+      "duration": 1.4180000000005748,
+      "dialogue_text": "Heel erg bedankt."
+    },
+    {
+      "subtitle_index": 596,
+      "start_time": 4925.008,
+      "end_time": 4929.471,
+      "duration": 4.462999999999738,
+      "dialogue_text": "Het spijt me. Ze hadden geen telegram moeten sturen voor een verkoudheid."
+    },
+    {
+      "subtitle_index": 597,
+      "start_time": 4930.138,
+      "end_time": 4934.225,
+      "duration": 4.087000000000444,
+      "dialogue_text": "De meiden zijn vast ongerust. Het spijt me dat ze van streek zijn."
+    },
+    {
+      "subtitle_index": 598,
+      "start_time": 4934.768,
+      "end_time": 4937.437,
+      "duration": 2.668999999999869,
+      "dialogue_text": "Het komt wel goed. Zo lang het maar goed gaat met jou."
+    },
+    {
+      "subtitle_index": 599,
+      "start_time": 4937.52,
+      "end_time": 4942.359,
+      "duration": 4.838999999999942,
+      "dialogue_text": "We hebben ermee om leren gaan. Dit stelt jouw plezier gewoon uit."
+    },
+    {
+      "subtitle_index": 600,
+      "start_time": 4944.235,
+      "end_time": 4947.447,
+      "duration": 3.212000000000444,
+      "dialogue_text": "Ze gaan er zo goed mee om."
+    },
+    {
+      "subtitle_index": 601,
+      "start_time": 4947.781,
+      "end_time": 4950.617,
+      "duration": 2.83600000000024,
+      "dialogue_text": "Ik vind het vooral erg voor Satsuki, ze is zo gevoelig."
+    },
+    {
+      "subtitle_index": 602,
+      "start_time": 4951.91,
+      "end_time": 4952.869,
+      "duration": 0.9589999999998327,
+      "dialogue_text": "Je hebt gelijk."
+    },
+    {
+      "subtitle_index": 603,
+      "start_time": 4953.87,
+      "end_time": 4957.791,
+      "duration": 3.9210000000002765,
+      "dialogue_text": "Ik ga ze een tijdje verwennen wanneer ik thuis ben."
+    },
+    {
+      "subtitle_index": 604,
+      "start_time": 4957.874,
+      "end_time": 4958.708,
+      "duration": 0.8339999999998327,
+      "dialogue_text": "O, nee."
+    },
+    {
+      "subtitle_index": 605,
+      "start_time": 4966.341,
+      "end_time": 4968.259,
+      "duration": 1.9179999999996653,
+      "dialogue_text": "Ze lacht."
+    },
+    {
+      "subtitle_index": 606,
+      "start_time": 4968.343,
+      "end_time": 4969.803,
+      "duration": 1.4600000000000364,
+      "dialogue_text": "Het lijkt goed te gaan."
+    },
+    {
+      "subtitle_index": 607,
+      "start_time": 4978.436,
+      "end_time": 4980.855,
+      "duration": 2.418999999999869,
+      "dialogue_text": "Ik kan niet wachten tot ik weer de oude ben."
+    },
+    {
+      "subtitle_index": 608,
+      "start_time": 4980.939,
+      "end_time": 4981.856,
+      "duration": 0.9169999999994616,
+      "dialogue_text": "Ik ook niet."
+    },
+    {
+      "subtitle_index": 609,
+      "start_time": 4983.024,
+      "end_time": 4983.9,
+      "duration": 0.8759999999992942,
+      "dialogue_text": "Kijk."
+    },
+    {
+      "subtitle_index": 610,
+      "start_time": 4990.532,
+      "end_time": 4991.574,
+      "duration": 1.0419999999994616,
+      "dialogue_text": "Waar komt dat vandaan?"
+    },
+    {
+      "subtitle_index": 611,
+      "start_time": 4993.827,
+      "end_time": 4994.661,
+      "duration": 0.8339999999998327,
+      "dialogue_text": "Wat?"
+    },
+    {
+      "subtitle_index": 612,
+      "start_time": 4995.578,
+      "end_time": 4998.957,
+      "duration": 3.3789999999999054,
+      "dialogue_text": "Ik zweer dat ik Satsuki en Mei in die boom zag lachen."
+    },
+    {
+      "subtitle_index": 613,
+      "start_time": 5002.127,
+      "end_time": 5004.17,
+      "duration": 2.0429999999996653,
+      "dialogue_text": "Misschien was dat ook zo. Kijk."
+    },
+    {
+      "subtitle_index": 614,
+      "start_time": 5004.254,
+      "end_time": 5008.174,
+      "duration": 3.9200000000000728,
+      "dialogue_text": "VOOR MAMA"
+    },
+    {
+      "subtitle_index": 615,
+      "start_time": 5174.424,
+      "end_time": 5179.012,
+      "duration": 4.587999999999738,
+      "dialogue_text": "EINDE"
+    },
+    {
+      "subtitle_index": 616,
+      "start_time": 5181.598,
+      "end_time": 5183.6,
+      "duration": 2.0020000000004075,
+      "dialogue_text": "Ondertiteld door: Maartje van der Zeijden"
+    }
+  ]
+}

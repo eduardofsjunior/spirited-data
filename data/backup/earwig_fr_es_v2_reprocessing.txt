@@ -1,0 +1,197 @@
+2025-11-27 14:52:40,966 - __main__ - INFO - Using smoothing window: 10 minutes
+2025-11-27 14:52:40,966 - __main__ - INFO - Subtitle version: v1
+2025-11-27 14:52:40,966 - __main__ - INFO - Replace existing: True
+2025-11-27 14:52:40,966 - __main__ - INFO - Starting batch emotion analysis from data/processed/subtitles
+2025-11-27 14:52:40,969 - __main__ - INFO - Using v2 improved subtitle for kikis_delivery_service_en
+2025-11-27 14:52:40,969 - __main__ - INFO - Using v2 improved subtitle for whisper_of_the_heart_en
+2025-11-27 14:52:40,969 - __main__ - INFO - Using v2 improved subtitle for earwig_and_the_witch_en
+2025-11-27 14:52:40,969 - __main__ - INFO - Using v2 improved subtitle for princess_mononoke_en
+2025-11-27 14:52:40,969 - __main__ - INFO - Using v2 improved subtitle for spirited_away_en
+2025-11-27 14:52:40,969 - __main__ - INFO - Using v2 improved subtitle for the_wind_rises_en
+2025-11-27 14:52:40,969 - __main__ - INFO - Using v2 improved subtitle for the_red_turtle_en
+2025-11-27 14:52:40,969 - __main__ - INFO - Using v2 improved subtitle for earwig_and_the_witch_ar
+2025-11-27 14:52:40,969 - __main__ - INFO - Using v2 improved subtitle for grave_of_the_fireflies_en
+2025-11-27 14:52:40,969 - __main__ - INFO - Using v2 improved subtitle for earwig_and_the_witch_fr
+2025-11-27 14:52:40,969 - __main__ - INFO - Using v2 improved subtitle for howls_moving_castle_en
+2025-11-27 14:52:40,969 - __main__ - INFO - Using v2 improved subtitle for pom_poko_en
+2025-11-27 14:52:40,969 - __main__ - INFO - Using v2 improved subtitle for only_yesterday_en
+2025-11-27 14:52:40,969 - __main__ - INFO - Using v2 improved subtitle for castle_in_the_sky_en
+2025-11-27 14:52:40,969 - __main__ - INFO - Using v2 improved subtitle for my_neighbor_totoro_en
+2025-11-27 14:52:40,969 - __main__ - INFO - Using v2 improved subtitle for earwig_and_the_witch_nl
+2025-11-27 14:52:40,969 - __main__ - INFO - Using v2 improved subtitle for earwig_and_the_witch_es
+2025-11-27 14:52:40,969 - __main__ - INFO - Using v2 improved subtitle for ponyo_en
+2025-11-27 14:52:40,969 - __main__ - INFO - Subtitle priority map built: 134 total (116 v1, 18 v2)
+2025-11-27 14:52:40,969 - __main__ - INFO - Detected language: en from my_neighbor_totoro_en_v2_parsed.json
+2025-11-27 14:52:40,969 - __main__ - INFO - Detected language: fr from the_red_turtle_fr_parsed.json
+2025-11-27 14:52:40,969 - __main__ - INFO - Detected language: ar from the_red_turtle_ar_parsed.json
+2025-11-27 14:52:40,969 - __main__ - INFO - Detected language: nl from only_yesterday_nl_parsed.json
+2025-11-27 14:52:40,969 - __main__ - INFO - Detected language: en from from_up_on_poppy_hill_en_parsed.json
+2025-11-27 14:52:40,969 - __main__ - INFO - Detected language: es from spirited_away_es_parsed.json
+2025-11-27 14:52:40,969 - __main__ - INFO - Detected language: ar from only_yesterday_ar_parsed.json
+2025-11-27 14:52:40,969 - __main__ - INFO - Detected language: fr from only_yesterday_fr_parsed.json
+2025-11-27 14:52:40,969 - __main__ - INFO - Detected language: en from the_tale_of_the_princess_kaguya_en_parsed.json
+2025-11-27 14:52:40,969 - __main__ - INFO - Detected language: en from grave_of_the_fireflies_en_v2_parsed.json
+2025-11-27 14:52:40,969 - __main__ - INFO - Detected language: nl from the_red_turtle_nl_parsed.json
+2025-11-27 14:52:40,969 - __main__ - INFO - Detected language: es from howls_moving_castle_es_parsed.json
+2025-11-27 14:52:40,969 - __main__ - INFO - Detected language: en from earwig_and_the_witch_en_v2_parsed.json
+2025-11-27 14:52:40,969 - __main__ - INFO - Detected language: en from porco_rosso_en_parsed.json
+2025-11-27 14:52:40,969 - __main__ - INFO - Detected language: en from castle_in_the_sky_en_v2_parsed.json
+2025-11-27 14:52:40,969 - __main__ - INFO - Detected language: es from the_wind_rises_es_parsed.json
+2025-11-27 14:52:40,969 - __main__ - INFO - Detected language: en from whisper_of_the_heart_en_v2_parsed.json
+2025-11-27 14:52:40,969 - __main__ - INFO - Detected language: es from kikis_delivery_service_es_parsed.json
+2025-11-27 14:52:40,969 - __main__ - INFO - Detected language: es from the_cat_returns_es_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: fr from the_wind_rises_fr_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: ar from the_wind_rises_ar_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: en from tales_from_earthsea_en_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: nl from spirited_away_nl_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: ar from the_cat_returns_ar_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: fr from the_cat_returns_fr_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: fr from kikis_delivery_service_fr_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: ar from kikis_delivery_service_ar_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: es from only_yesterday_es_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: ar from howls_moving_castle_ar_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: fr from howls_moving_castle_fr_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: en from pom_poko_en_v2_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: nl from kikis_delivery_service_nl_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: en from ponyo_en_v2_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: en from arrietty_en_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: ar from spirited_away_ar_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: nl from the_cat_returns_nl_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: fr from spirited_away_fr_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: en from when_marnie_was_there_en_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: nl from the_wind_rises_nl_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: es from the_red_turtle_es_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: en from princess_mononoke_en_v2_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: nl from howls_moving_castle_nl_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: en from my_neighbors_the_yamadas_en_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: fr from castle_in_the_sky_fr_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: es from tales_from_earthsea_es_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: ar from castle_in_the_sky_ar_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: fr from whisper_of_the_heart_fr_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: en from film1_en_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: ar from whisper_of_the_heart_ar_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: ar from grave_of_the_fireflies_ar_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: fr from the_tale_of_the_princess_kaguya_fr_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: es from pom_poko_es_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: ar from the_tale_of_the_princess_kaguya_ar_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: fr from grave_of_the_fireflies_fr_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: nl from my_neighbor_totoro_nl_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: ar from porco_rosso_ar_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: fr from earwig_and_the_witch_fr_v2_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: fr from porco_rosso_fr_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: ar from earwig_and_the_witch_ar_v2_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: nl from from_up_on_poppy_hill_nl_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: en from only_yesterday_en_v2_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: nl from whisper_of_the_heart_nl_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: nl from castle_in_the_sky_nl_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: es from when_marnie_was_there_es_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: es from arrietty_es_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: es from ponyo_es_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: fr from from_up_on_poppy_hill_fr_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: ar from from_up_on_poppy_hill_ar_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: es from my_neighbors_the_yamadas_es_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: nl from porco_rosso_nl_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: nl from earwig_and_the_witch_nl_v2_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: nl from grave_of_the_fireflies_nl_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: es from princess_mononoke_es_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: fr from my_neighbor_totoro_fr_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: en from the_red_turtle_en_v2_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: nl from the_tale_of_the_princess_kaguya_nl_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: ar from my_neighbor_totoro_ar_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: es from from_up_on_poppy_hill_es_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: ar from princess_mononoke_ar_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: es from my_neighbor_totoro_es_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: fr from princess_mononoke_fr_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: nl from pom_poko_nl_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: ar from my_neighbors_the_yamadas_ar_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: fr from my_neighbors_the_yamadas_fr_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: nl from tales_from_earthsea_nl_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: fr from ponyo_fr_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: ar from when_marnie_was_there_ar_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: fr from arrietty_fr_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: ar from ponyo_ar_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: fr from when_marnie_was_there_fr_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: en from spirited_away_en_v2_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: ar from arrietty_ar_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: es from porco_rosso_es_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: nl from my_neighbors_the_yamadas_nl_parsed.json
+2025-11-27 14:52:40,970 - __main__ - INFO - Detected language: es from earwig_and_the_witch_es_v2_parsed.json
+2025-11-27 14:52:40,971 - __main__ - INFO - Detected language: en from howls_moving_castle_en_v2_parsed.json
+2025-11-27 14:52:40,971 - __main__ - INFO - Detected language: es from grave_of_the_fireflies_es_parsed.json
+2025-11-27 14:52:40,971 - __main__ - INFO - Detected language: nl from princess_mononoke_nl_parsed.json
+2025-11-27 14:52:40,971 - __main__ - INFO - Detected language: fr from pom_poko_fr_parsed.json
+2025-11-27 14:52:40,971 - __main__ - INFO - Detected language: es from the_tale_of_the_princess_kaguya_es_parsed.json
+2025-11-27 14:52:40,971 - __main__ - INFO - Detected language: ar from pom_poko_ar_parsed.json
+2025-11-27 14:52:40,971 - __main__ - INFO - Detected language: nl from when_marnie_was_there_nl_parsed.json
+2025-11-27 14:52:40,971 - __main__ - INFO - Detected language: nl from ponyo_nl_parsed.json
+2025-11-27 14:52:40,971 - __main__ - INFO - Detected language: en from the_cat_returns_en_parsed.json
+2025-11-27 14:52:40,971 - __main__ - INFO - Detected language: nl from arrietty_nl_parsed.json
+2025-11-27 14:52:40,971 - __main__ - INFO - Detected language: en from kikis_delivery_service_en_v2_parsed.json
+2025-11-27 14:52:40,971 - __main__ - INFO - Detected language: es from whisper_of_the_heart_es_parsed.json
+2025-11-27 14:52:40,971 - __main__ - INFO - Detected language: ar from tales_from_earthsea_ar_parsed.json
+2025-11-27 14:52:40,971 - __main__ - INFO - Detected language: en from the_wind_rises_en_v2_parsed.json
+2025-11-27 14:52:40,971 - __main__ - INFO - Detected language: es from castle_in_the_sky_es_parsed.json
+2025-11-27 14:52:40,971 - __main__ - INFO - Detected language: fr from tales_from_earthsea_fr_parsed.json
+2025-11-27 14:52:40,971 - __main__ - INFO - Processing 2 files after filtering
+2025-11-27 14:52:40,971 - __main__ - INFO - Loading emotion model: AnasAlokla/multilingual_go_emotions
+Device set to use mps:0
+2025-11-27 14:52:42,553 - __main__ - INFO - Successfully loaded emotion model
+2025-11-27 14:52:42,577 - __main__ - INFO - Creating/updating raw.film_emotions table...
+2025-11-27 14:52:42,590 - __main__ - INFO - Table exists, checking for new metadata columns...
+2025-11-27 14:52:42,591 - __main__ - INFO - Added subtitle_version column
+2025-11-27 14:52:42,591 - __main__ - INFO - Added subtitle_timing_validated column
+2025-11-27 14:52:42,591 - __main__ - INFO - Added timing_drift_percent column
+2025-11-27 14:52:42,591 - __main__ - INFO - Schema migration complete
+2025-11-27 14:52:42,591 - __main__ - INFO - Detected language: fr from earwig_and_the_witch_fr_v2_parsed.json
+2025-11-27 14:52:42,593 - __main__ - INFO - Processing earwig_and_the_witch_fr_v2 (fr) with v2 subtitle...
+2025-11-27 14:52:42,593 - __main__ - INFO - Processing film subtitles: earwig_and_the_witch_fr_v2_parsed.json
+2025-11-27 14:52:42,594 - __main__ - INFO - Processing 813 subtitles for earwig_and_the_witch_fr_v2 (fr)
+2025-11-27 14:52:44,795 - __main__ - INFO - Processed 100/813 subtitles
+2025-11-27 14:52:46,254 - __main__ - INFO - Processed 200/813 subtitles
+2025-11-27 14:52:47,784 - __main__ - INFO - Processed 300/813 subtitles
+2025-11-27 14:52:49,330 - __main__ - INFO - Processed 400/813 subtitles
+2025-11-27 14:52:50,725 - __main__ - INFO - Processed 500/813 subtitles
+2025-11-27 14:52:52,141 - __main__ - INFO - Processed 600/813 subtitles
+2025-11-27 14:52:53,667 - __main__ - INFO - Processed 700/813 subtitles
+2025-11-27 14:52:55,140 - __main__ - INFO - Processed 800/813 subtitles
+2025-11-27 14:52:55,376 - __main__ - INFO - Validation PASS: earwig_and_the_witch_fr_v2_fr
+2025-11-27 14:52:55,377 - __main__ - INFO - Processed 813 subtitles into 82 minute buckets
+2025-11-27 14:52:55,389 - __main__ - INFO - Aggregated 82 minute buckets with 813 dialogue entries
+2025-11-27 14:52:55,393 - __main__ - WARNING - Could not resolve film_id for earwig_and_the_witch_fr_v2 (title: Earwig And The Witch V2)
+2025-11-27 14:52:55,396 - __main__ - INFO - Replacement mode: deleting existing records for earwig_and_the_witch_fr_v2 (fr)
+2025-11-27 14:52:55,403 - __main__ - INFO - Deleted (104,) existing records
+2025-11-27 14:52:55,422 - __main__ - INFO - Loaded 82 emotion records for earwig_and_the_witch_fr_v2 (fr) [version: v2]
+2025-11-27 14:52:55,425 - __main__ - INFO - Validation passed: 813 dialogue entries, emotion scores in [0, 1]
+2025-11-27 14:52:55,426 - __main__ - INFO - ✓ Successfully processed earwig_and_the_witch_fr_v2 (fr): 82 records loaded
+2025-11-27 14:52:55,426 - __main__ - INFO - Detected language: es from earwig_and_the_witch_es_v2_parsed.json
+2025-11-27 14:52:55,428 - __main__ - INFO - Processing earwig_and_the_witch_es_v2 (es) with v2 subtitle...
+2025-11-27 14:52:55,428 - __main__ - INFO - Processing film subtitles: earwig_and_the_witch_es_v2_parsed.json
+2025-11-27 14:52:55,430 - __main__ - INFO - Processing 1452 subtitles for earwig_and_the_witch_es_v2 (es)
+2025-11-27 14:52:56,881 - __main__ - INFO - Processed 100/1452 subtitles
+2025-11-27 14:52:58,396 - __main__ - INFO - Processed 200/1452 subtitles
+2025-11-27 14:53:00,047 - __main__ - INFO - Processed 300/1452 subtitles
+2025-11-27 14:53:01,575 - __main__ - INFO - Processed 400/1452 subtitles
+2025-11-27 14:53:03,103 - __main__ - INFO - Processed 500/1452 subtitles
+2025-11-27 14:53:04,659 - __main__ - INFO - Processed 600/1452 subtitles
+2025-11-27 14:53:06,307 - __main__ - INFO - Processed 700/1452 subtitles
+2025-11-27 14:53:07,830 - __main__ - INFO - Processed 800/1452 subtitles
+2025-11-27 14:53:09,420 - __main__ - INFO - Processed 900/1452 subtitles
+2025-11-27 14:53:10,988 - __main__ - INFO - Processed 1000/1452 subtitles
+2025-11-27 14:53:12,642 - __main__ - INFO - Processed 1100/1452 subtitles
+2025-11-27 14:53:14,267 - __main__ - INFO - Processed 1200/1452 subtitles
+2025-11-27 14:53:15,916 - __main__ - INFO - Processed 1300/1452 subtitles
+2025-11-27 14:53:17,664 - __main__ - INFO - Processed 1400/1452 subtitles
+2025-11-27 14:53:18,478 - __main__ - INFO - Validation PASS: earwig_and_the_witch_es_v2_es
+2025-11-27 14:53:18,478 - __main__ - INFO - Processed 1452 subtitles into 97 minute buckets
+2025-11-27 14:53:18,487 - __main__ - INFO - Aggregated 97 minute buckets with 1452 dialogue entries
+2025-11-27 14:53:18,489 - __main__ - WARNING - Could not resolve film_id for earwig_and_the_witch_es_v2 (title: Earwig And The Witch V2)
+2025-11-27 14:53:18,490 - __main__ - INFO - Replacement mode: deleting existing records for earwig_and_the_witch_es_v2 (es)
+2025-11-27 14:53:18,492 - __main__ - INFO - Deleted (97,) existing records
+2025-11-27 14:53:18,504 - __main__ - INFO - Loaded 97 emotion records for earwig_and_the_witch_es_v2 (es) [version: v2]
+2025-11-27 14:53:18,508 - __main__ - INFO - Validation passed: 1452 dialogue entries, emotion scores in [0, 1]
+2025-11-27 14:53:18,508 - __main__ - INFO - ✓ Successfully processed earwig_and_the_witch_es_v2 (es): 97 records loaded
+2025-11-27 14:53:18,549 - __main__ - INFO - Processed 2/2 films successfully
+2025-11-27 14:53:18,555 - __main__ - INFO - ============================================================
+2025-11-27 14:53:18,555 - __main__ - INFO - Summary: 2/2 films processed successfully
+2025-11-27 14:53:18,555 - __main__ - INFO - Total records loaded: 179
+2025-11-27 14:53:18,555 - __main__ - INFO - ✓ All films processed successfully

@@ -1,0 +1,167 @@
+{
+  "total": 27,
+  "targets": [
+    {
+      "film_slug": "castle_in_the_sky",
+      "language": "ar",
+      "current_drift": 11.601263440860215,
+      "documented_runtime": 7440
+    },
+    {
+      "film_slug": "castle_in_the_sky",
+      "language": "nl",
+      "current_drift": 13.439865591397854,
+      "documented_runtime": 7440
+    },
+    {
+      "film_slug": "earwig_and_the_witch",
+      "language": "ar",
+      "current_drift": 23.402317073170735,
+      "documented_runtime": 4920
+    },
+    {
+      "film_slug": "earwig_and_the_witch",
+      "language": "es",
+      "current_drift": 17.499390243902425,
+      "documented_runtime": 4920
+    },
+    {
+      "film_slug": "earwig_and_the_witch",
+      "language": "fr",
+      "current_drift": 32.11721544715448,
+      "documented_runtime": 4920
+    },
+    {
+      "film_slug": "earwig_and_the_witch",
+      "language": "nl",
+      "current_drift": 32.23880081300814,
+      "documented_runtime": 4920
+    },
+    {
+      "film_slug": "my_neighbors_the_yamadas",
+      "language": "ar",
+      "current_drift": 75.0736858974359,
+      "documented_runtime": 6240
+    },
+    {
+      "film_slug": "my_neighbors_the_yamadas",
+      "language": "fr",
+      "current_drift": 23.02115384615385,
+      "documented_runtime": 6240
+    },
+    {
+      "film_slug": "pom_poko",
+      "language": "ar",
+      "current_drift": 52.855434173669465,
+      "documented_runtime": 7140
+    },
+    {
+      "film_slug": "pom_poko",
+      "language": "nl",
+      "current_drift": 6.836876750700284,
+      "documented_runtime": 7140
+    },
+    {
+      "film_slug": "ponyo",
+      "language": "ar",
+      "current_drift": 77.23085808580859,
+      "documented_runtime": 6060
+    },
+    {
+      "film_slug": "ponyo",
+      "language": "fr",
+      "current_drift": 5.116831683168316,
+      "documented_runtime": 6060
+    },
+    {
+      "film_slug": "ponyo",
+      "language": "nl",
+      "current_drift": 6.845099009900991,
+      "documented_runtime": 6060
+    },
+    {
+      "film_slug": "porco_rosso",
+      "language": "ar",
+      "current_drift": 5.366985815602843,
+      "documented_runtime": 5640
+    },
+    {
+      "film_slug": "tales_from_earthsea",
+      "language": "es",
+      "current_drift": 16.24850724637681,
+      "documented_runtime": 6900
+    },
+    {
+      "film_slug": "the_cat_returns",
+      "language": "es",
+      "current_drift": 185.00524444444443,
+      "documented_runtime": 4500
+    },
+    {
+      "film_slug": "the_cat_returns",
+      "language": "nl",
+      "current_drift": 20.576311111111114,
+      "documented_runtime": 4500
+    },
+    {
+      "film_slug": "the_red_turtle",
+      "language": "ar",
+      "current_drift": 28.803062499999992,
+      "documented_runtime": 4800
+    },
+    {
+      "film_slug": "the_red_turtle",
+      "language": "es",
+      "current_drift": 14.198541666666681,
+      "documented_runtime": 4800
+    },
+    {
+      "film_slug": "the_red_turtle",
+      "language": "fr",
+      "current_drift": 29.042187499999994,
+      "documented_runtime": 4800
+    },
+    {
+      "film_slug": "the_red_turtle",
+      "language": "nl",
+      "current_drift": 29.741958333333322,
+      "documented_runtime": 4800
+    },
+    {
+      "film_slug": "the_tale_of_the_princess_kaguya",
+      "language": "ar",
+      "current_drift": 10.162834549878347,
+      "documented_runtime": 8220
+    },
+    {
+      "film_slug": "the_wind_rises",
+      "language": "fr",
+      "current_drift": 47.3320105820106,
+      "documented_runtime": 7560
+    },
+    {
+      "film_slug": "the_wind_rises",
+      "language": "nl",
+      "current_drift": 18.898809523809522,
+      "documented_runtime": 7560
+    },
+    {
+      "film_slug": "whisper_of_the_heart",
+      "language": "es",
+      "current_drift": 15.364879879879872,
+      "documented_runtime": 6660
+    },
+    {
+      "film_slug": "whisper_of_the_heart",
+      "language": "fr",
+      "current_drift": 45.11593093093093,
+      "documented_runtime": 6660
+    },
+    {
+      "film_slug": "whisper_of_the_heart",
+      "language": "nl",
+      "current_drift": 16.07867867867868,
+      "documented_runtime": 6660
+    }
+  ]
+}

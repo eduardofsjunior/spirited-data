@@ -1,0 +1,1202 @@
+{
+  "metadata": {
+    "film_name": "Earwig And The Witch",
+    "film_slug": "earwig_and_the_witch_fr",
+    "language_code": "fr",
+    "total_subtitles": 170,
+    "total_duration": 5289.521,
+    "parse_timestamp": "2025-10-30T17:09:43.281333"
+  },
+  "subtitles": [
+    {
+      "subtitle_index": 1,
+      "start_time": 1444.317,
+      "end_time": 1446.192,
+      "duration": 1.875,
+      "dialogue_text": "- Scellinc... - Monsieur ?"
+    },
+    {
+      "subtitle_index": 2,
+      "start_time": 1446.9,
+      "end_time": 1448.233,
+      "duration": 1.3329999999998563,
+      "dialogue_text": "Comment va la fille ?"
+    },
+    {
+      "subtitle_index": 3,
+      "start_time": 1449.067,
+      "end_time": 1451.15,
+      "duration": 2.0830000000000837,
+      "dialogue_text": "Tout va bien, monsieur."
+    },
+    {
+      "subtitle_index": 4,
+      "start_time": 1452.4,
+      "end_time": 1454.692,
+      "duration": 2.2919999999999163,
+      "dialogue_text": "Elle dort profondément, son appétit est bon."
+    },
+    {
+      "subtitle_index": 5,
+      "start_time": 1454.775,
+      "end_time": 1456.317,
+      "duration": 1.5419999999999163,
+      "dialogue_text": "Tout est comme il se doit."
+    },
+    {
+      "subtitle_index": 6,
+      "start_time": 1458.525,
+      "end_time": 1459.858,
+      "duration": 1.3329999999998563,
+      "dialogue_text": "Et les dents ?"
+    },
+    {
+      "subtitle_index": 7,
+      "start_time": 1460.608,
+      "end_time": 1462.275,
+      "duration": 1.6670000000001437,
+      "dialogue_text": "Tout va bien, monsieur."
+    },
+    {
+      "subtitle_index": 8,
+      "start_time": 1463.817,
+      "end_time": 1466.233,
+      "duration": 2.41599999999994,
+      "dialogue_text": "La remise du mois a été envoyée."
+    },
+    {
+      "subtitle_index": 9,
+      "start_time": 1467.025,
+      "end_time": 1470.442,
+      "duration": 3.4169999999999163,
+      "dialogue_text": "- Avez-vous besoin d'autre chose ? - Non, monsieur."
+    },
+    {
+      "subtitle_index": 10,
+      "start_time": 1471.9,
+      "end_time": 1474.025,
+      "duration": 2.125,
+      "dialogue_text": "Il n'y aura plus de paiements."
+    },
+    {
+      "subtitle_index": 11,
+      "start_time": 1475.858,
+      "end_time": 1476.858,
+      "duration": 1.0,
+      "dialogue_text": "Monsieur?"
+    },
+    {
+      "subtitle_index": 12,
+      "start_time": 1477.858,
+      "end_time": 1481.025,
+      "duration": 3.1670000000001437,
+      "dialogue_text": "Vous devez commencer à préparer la fille à partir."
+    },
+    {
+      "subtitle_index": 13,
+      "start_time": 1481.567,
+      "end_time": 1482.567,
+      "duration": 1.0,
+      "dialogue_text": "Partir ?"
+    },
+    {
+      "subtitle_index": 14,
+      "start_time": 1486.692,
+      "end_time": 1490.942,
+      "duration": 4.25,
+      "dialogue_text": "Vous nous l'amènerez le 6 du mois prochain,"
+    },
+    {
+      "subtitle_index": 15,
+      "start_time": 1491.025,
+      "end_time": 1492.817,
+      "duration": 1.7919999999999163,
+      "dialogue_text": "dans 13 jours."
+    },
+    {
+      "subtitle_index": 16,
+      "start_time": 1494.983,
+      "end_time": 1497.692,
+      "duration": 2.70900000000006,
+      "dialogue_text": "En attendant, vous devez lui apprendre"
+    },
+    {
+      "subtitle_index": 17,
+      "start_time": 1497.775,
+      "end_time": 1499.608,
+      "duration": 1.8329999999998563,
+      "dialogue_text": "comment se comporter à l'extérieur."
+    },
+    {
+      "subtitle_index": 18,
+      "start_time": 1500.108,
+      "end_time": 1502.025,
+      "duration": 1.9170000000001437,
+      "dialogue_text": "Comprenez-vous, Scellinc ?"
+    },
+    {
+      "subtitle_index": 19,
+      "start_time": 1503.025,
+      "end_time": 1504.192,
+      "duration": 1.1669999999999163,
+      "dialogue_text": "Oui Monsieur."
+    },
+    {
+      "subtitle_index": 20,
+      "start_time": 1752.733,
+      "end_time": 1754.9,
+      "duration": 2.1670000000001437,
+      "dialogue_text": "Il faut s'habituer à être dehors."
+    },
+    {
+      "subtitle_index": 21,
+      "start_time": 1984.817,
+      "end_time": 1986.192,
+      "duration": 1.375,
+      "dialogue_text": "Mia !"
+    },
+    {
+      "subtitle_index": 22,
+      "start_time": 1994.65,
+      "end_time": 1995.65,
+      "duration": 1.0,
+      "dialogue_text": "Mia !"
+    },
+    {
+      "subtitle_index": 23,
+      "start_time": 2040.567,
+      "end_time": 2041.567,
+      "duration": 1.0,
+      "dialogue_text": "Mia !"
+    },
+    {
+      "subtitle_index": 24,
+      "start_time": 2264.15,
+      "end_time": 2266.983,
+      "duration": 2.8330000000000837,
+      "dialogue_text": "Arrête ça!"
+    },
+    {
+      "subtitle_index": 25,
+      "start_time": 2275.108,
+      "end_time": 2277.817,
+      "duration": 2.7089999999998327,
+      "dialogue_text": "Arrête."
+    },
+    {
+      "subtitle_index": 26,
+      "start_time": 2560.692,
+      "end_time": 2563.233,
+      "duration": 2.5410000000001673,
+      "dialogue_text": "- Qu'est-ce que je peux vous apporter ? - Une triplette."
+    },
+    {
+      "subtitle_index": 27,
+      "start_time": 2610.317,
+      "end_time": 2612.025,
+      "duration": 1.7080000000000837,
+      "dialogue_text": "Puis-je?"
+    },
+    {
+      "subtitle_index": 28,
+      "start_time": 2630.108,
+      "end_time": 2631.65,
+      "duration": 1.5419999999999163,
+      "dialogue_text": "Je suis un voyageur, monsieur,"
+    },
+    {
+      "subtitle_index": 29,
+      "start_time": 2633.567,
+      "end_time": 2635.275,
+      "duration": 1.7080000000000837,
+      "dialogue_text": "un étranger dans cette ville."
+    },
+    {
+      "subtitle_index": 30,
+      "start_time": 2637.983,
+      "end_time": 2639.317,
+      "duration": 1.3339999999998327,
+      "dialogue_text": "J'habite loin..."
+    },
+    {
+      "subtitle_index": 31,
+      "start_time": 2641.608,
+      "end_time": 2644.108,
+      "duration": 2.5,
+      "dialogue_text": "à l'ombre d'une grande cathédrale."
+    },
+    {
+      "subtitle_index": 32,
+      "start_time": 2653.275,
+      "end_time": 2654.483,
+      "duration": 1.2080000000000837,
+      "dialogue_text": "Peu importe."
+    },
+    {
+      "subtitle_index": 33,
+      "start_time": 2658.358,
+      "end_time": 2659.858,
+      "duration": 1.5,
+      "dialogue_text": "Je pense que je vais vous rejoindre."
+    },
+    {
+      "subtitle_index": 34,
+      "start_time": 2682.275,
+      "end_time": 2683.275,
+      "duration": 1.0,
+      "dialogue_text": "Merci."
+    },
+    {
+      "subtitle_index": 35,
+      "start_time": 2702.858,
+      "end_time": 2704.442,
+      "duration": 1.5839999999998327,
+      "dialogue_text": "Et maintenant, monsieur..."
+    },
+    {
+      "subtitle_index": 36,
+      "start_time": 2706.067,
+      "end_time": 2707.275,
+      "duration": 1.2080000000000837,
+      "dialogue_text": "Quel est votre nom?"
+    },
+    {
+      "subtitle_index": 37,
+      "start_time": 2711.692,
+      "end_time": 2713.567,
+      "duration": 1.875,
+      "dialogue_text": "Albert Scellinc."
+    },
+    {
+      "subtitle_index": 38,
+      "start_time": 2718.192,
+      "end_time": 2720.192,
+      "duration": 2.0,
+      "dialogue_text": "Albert..."
+    },
+    {
+      "subtitle_index": 39,
+      "start_time": 2721.983,
+      "end_time": 2723.192,
+      "duration": 1.2089999999998327,
+      "dialogue_text": "Nous nous sommes déjà rencontrés,"
+    },
+    {
+      "subtitle_index": 40,
+      "start_time": 2724.692,
+      "end_time": 2726.025,
+      "duration": 1.3330000000000837,
+      "dialogue_text": "J'en suis certain."
+    },
+    {
+      "subtitle_index": 41,
+      "start_time": 2728.4,
+      "end_time": 2729.942,
+      "duration": 1.5419999999999163,
+      "dialogue_text": "Bien que pour le moment,"
+    },
+    {
+      "subtitle_index": 42,
+      "start_time": 2731.025,
+      "end_time": 2733.192,
+      "duration": 2.1669999999999163,
+      "dialogue_text": "Je ne me souviens plus très bien où."
+    },
+    {
+      "subtitle_index": 43,
+      "start_time": 2735.067,
+      "end_time": 2737.442,
+      "duration": 2.375,
+      "dialogue_text": "Sur le terrain du conflit, peut-être..."
+    },
+    {
+      "subtitle_index": 44,
+      "start_time": 2741.317,
+      "end_time": 2745.108,
+      "duration": 3.7910000000001673,
+      "dialogue_text": "couvert de boue, de sang et de merde."
+    },
+    {
+      "subtitle_index": 45,
+      "start_time": 2754.65,
+      "end_time": 2756.442,
+      "duration": 1.7919999999999163,
+      "dialogue_text": "Ou était-ce bien avant"
+    },
+    {
+      "subtitle_index": 46,
+      "start_time": 2758.775,
+      "end_time": 2759.983,
+      "duration": 1.2080000000000837,
+      "dialogue_text": "à l'orphelinat ?"
+    },
+    {
+      "subtitle_index": 47,
+      "start_time": 2769.9,
+      "end_time": 2771.15,
+      "duration": 1.25,
+      "dialogue_text": "Non..."
+    },
+    {
+      "subtitle_index": 48,
+      "start_time": 2772.65,
+      "end_time": 2776.192,
+      "duration": 3.5419999999999163,
+      "dialogue_text": "Non, en fait, je crois que c'était après la guerre,"
+    },
+    {
+      "subtitle_index": 49,
+      "start_time": 2777.942,
+      "end_time": 2779.692,
+      "duration": 1.75,
+      "dialogue_text": "quand vous aviez une femme."
+    },
+    {
+      "subtitle_index": 50,
+      "start_time": 2781.858,
+      "end_time": 2782.942,
+      "duration": 1.0839999999998327,
+      "dialogue_text": "Une épouse ?"
+    },
+    {
+      "subtitle_index": 51,
+      "start_time": 2785.317,
+      "end_time": 2787.983,
+      "duration": 2.6660000000001673,
+      "dialogue_text": "Vous n'avez pas pris femme après la guerre ?"
+    },
+    {
+      "subtitle_index": 52,
+      "start_time": 2792.858,
+      "end_time": 2795.067,
+      "duration": 2.2089999999998327,
+      "dialogue_text": "Je n'ai pas... Je n'ai pas de femme !"
+    },
+    {
+      "subtitle_index": 53,
+      "start_time": 2797.15,
+      "end_time": 2798.775,
+      "duration": 1.625,
+      "dialogue_text": "Marie est morte..."
+    },
+    {
+      "subtitle_index": 54,
+      "start_time": 2801.025,
+      "end_time": 2802.233,
+      "duration": 1.2080000000000837,
+      "dialogue_text": "il est vrai..."
+    },
+    {
+      "subtitle_index": 55,
+      "start_time": 2806.525,
+      "end_time": 2808.192,
+      "duration": 1.6669999999999163,
+      "dialogue_text": "Mais il y a l'autre."
+    },
+    {
+      "subtitle_index": 56,
+      "start_time": 2815.733,
+      "end_time": 2817.15,
+      "duration": 1.4169999999999163,
+      "dialogue_text": "Elle se réveille."
+    },
+    {
+      "subtitle_index": 57,
+      "start_time": 2820.4,
+      "end_time": 2821.733,
+      "duration": 1.3330000000000837,
+      "dialogue_text": "Je n'ai pas d'épouse!"
+    },
+    {
+      "subtitle_index": 58,
+      "start_time": 2830.733,
+      "end_time": 2832.192,
+      "duration": 1.4589999999998327,
+      "dialogue_text": "Un enfant, donc."
+    },
+    {
+      "subtitle_index": 59,
+      "start_time": 2836.65,
+      "end_time": 2838.15,
+      "duration": 1.5,
+      "dialogue_text": "Un enfant abandonné."
+    },
+    {
+      "subtitle_index": 60,
+      "start_time": 2848.942,
+      "end_time": 2850.483,
+      "duration": 1.5410000000001673,
+      "dialogue_text": "C'est pour la maison."
+    },
+    {
+      "subtitle_index": 61,
+      "start_time": 2852.65,
+      "end_time": 2853.817,
+      "duration": 1.1669999999999163,
+      "dialogue_text": "Merci Céleste."
+    },
+    {
+      "subtitle_index": 62,
+      "start_time": 2864.608,
+      "end_time": 2867.65,
+      "duration": 3.0419999999999163,
+      "dialogue_text": "Ne vous êtes-vous jamais demandé ce que ce serait"
+    },
+    {
+      "subtitle_index": 63,
+      "start_time": 2867.733,
+      "end_time": 2869.15,
+      "duration": 1.4169999999999163,
+      "dialogue_text": "d'être quelqu'un d'autre ?"
+    },
+    {
+      "subtitle_index": 64,
+      "start_time": 2870.483,
+      "end_time": 2871.483,
+      "duration": 1.0,
+      "dialogue_text": "Hmm?"
+    },
+    {
+      "subtitle_index": 65,
+      "start_time": 2872.692,
+      "end_time": 2873.692,
+      "duration": 1.0,
+      "dialogue_text": "Elle"
+    },
+    {
+      "subtitle_index": 66,
+      "start_time": 2875.233,
+      "end_time": 2876.4,
+      "duration": 1.1669999999999163,
+      "dialogue_text": "par exemple?"
+    },
+    {
+      "subtitle_index": 67,
+      "start_time": 2878.483,
+      "end_time": 2881.608,
+      "duration": 3.125,
+      "dialogue_text": "S'il vous plaît, arrêtez !"
+    },
+    {
+      "subtitle_index": 68,
+      "start_time": 2886.858,
+      "end_time": 2888.15,
+      "duration": 1.2919999999999163,
+      "dialogue_text": "Non?"
+    },
+    {
+      "subtitle_index": 69,
+      "start_time": 2893.025,
+      "end_time": 2895.608,
+      "duration": 2.5830000000000837,
+      "dialogue_text": "Alors peut-être la belle Céleste ?"
+    },
+    {
+      "subtitle_index": 70,
+      "start_time": 2901.942,
+      "end_time": 2903.442,
+      "duration": 1.5,
+      "dialogue_text": "Alors, c'est elle."
+    },
+    {
+      "subtitle_index": 71,
+      "start_time": 2909.608,
+      "end_time": 2911.108,
+      "duration": 1.5,
+      "dialogue_text": "J'ai pensé ainsi."
+    },
+    {
+      "subtitle_index": 72,
+      "start_time": 2988.15,
+      "end_time": 2989.4,
+      "duration": 1.25,
+      "dialogue_text": "Marie..."
+    },
+    {
+      "subtitle_index": 73,
+      "start_time": 3236.942,
+      "end_time": 3238.233,
+      "duration": 1.2910000000001673,
+      "dialogue_text": "Comment va la fille ?"
+    },
+    {
+      "subtitle_index": 74,
+      "start_time": 3238.942,
+      "end_time": 3240.9,
+      "duration": 1.9580000000000837,
+      "dialogue_text": "Tout va bien, monsieur."
+    },
+    {
+      "subtitle_index": 75,
+      "start_time": 3242.567,
+      "end_time": 3245.483,
+      "duration": 2.9160000000001673,
+      "dialogue_text": "Elle dort profondément, son appétit est bon."
+    },
+    {
+      "subtitle_index": 76,
+      "start_time": 3266.983,
+      "end_time": 3268.65,
+      "duration": 1.6669999999999163,
+      "dialogue_text": "Tout est comme il se doit."
+    },
+    {
+      "subtitle_index": 77,
+      "start_time": 3303.817,
+      "end_time": 3306.233,
+      "duration": 2.4160000000001673,
+      "dialogue_text": "Je sais je sais."
+    },
+    {
+      "subtitle_index": 78,
+      "start_time": 3312.483,
+      "end_time": 3313.65,
+      "duration": 1.1669999999999163,
+      "dialogue_text": "Je suis là."
+    },
+    {
+      "subtitle_index": 79,
+      "start_time": 3317.317,
+      "end_time": 3318.567,
+      "duration": 1.25,
+      "dialogue_text": "Qui êtes-vous?"
+    },
+    {
+      "subtitle_index": 80,
+      "start_time": 3322.067,
+      "end_time": 3323.567,
+      "duration": 1.5,
+      "dialogue_text": "N'essayez pas de parler."
+    },
+    {
+      "subtitle_index": 81,
+      "start_time": 3328.692,
+      "end_time": 3330.025,
+      "duration": 1.3330000000000837,
+      "dialogue_text": "Rendormez vous."
+    },
+    {
+      "subtitle_index": 82,
+      "start_time": 3334.858,
+      "end_time": 3336.483,
+      "duration": 1.625,
+      "dialogue_text": "Je m'appelle Laurent."
+    },
+    {
+      "subtitle_index": 83,
+      "start_time": 3336.567,
+      "end_time": 3339.025,
+      "duration": 2.4580000000000837,
+      "dialogue_text": "Je vais m'occuper de tout."
+    },
+    {
+      "subtitle_index": 84,
+      "start_time": 3350.567,
+      "end_time": 3352.525,
+      "duration": 1.9580000000000837,
+      "dialogue_text": "Je veux qu'elle soit transférée dans une chambre privée."
+    },
+    {
+      "subtitle_index": 85,
+      "start_time": 3355.233,
+      "end_time": 3356.817,
+      "duration": 1.5839999999998327,
+      "dialogue_text": "Je couvrirai les frais."
+    },
+    {
+      "subtitle_index": 86,
+      "start_time": 3358.15,
+      "end_time": 3359.233,
+      "duration": 1.0830000000000837,
+      "dialogue_text": "Ce qui compte avant tout"
+    },
+    {
+      "subtitle_index": 87,
+      "start_time": 3359.317,
+      "end_time": 3361.608,
+      "duration": 2.2910000000001673,
+      "dialogue_text": "c'est qu'elle reçoive les meilleurs soins."
+    },
+    {
+      "subtitle_index": 88,
+      "start_time": 3386.65,
+      "end_time": 3387.983,
+      "duration": 1.3330000000000837,
+      "dialogue_text": "Si je pouvais..."
+    },
+    {
+      "subtitle_index": 89,
+      "start_time": 3424.608,
+      "end_time": 3426.067,
+      "duration": 1.4589999999998327,
+      "dialogue_text": "Allez, Céleste."
+    },
+    {
+      "subtitle_index": 90,
+      "start_time": 3427.525,
+      "end_time": 3428.942,
+      "duration": 1.4169999999999163,
+      "dialogue_text": "Vous devez vous rétablir."
+    },
+    {
+      "subtitle_index": 91,
+      "start_time": 3452.483,
+      "end_time": 3454.483,
+      "duration": 2.0,
+      "dialogue_text": "Bien. Bien, bien, bien, bien."
+    },
+    {
+      "subtitle_index": 92,
+      "start_time": 3835.192,
+      "end_time": 3837.192,
+      "duration": 2.0,
+      "dialogue_text": "Vous les trouverez satisfaisantes."
+    },
+    {
+      "subtitle_index": 93,
+      "start_time": 4048.067,
+      "end_time": 4049.525,
+      "duration": 1.4580000000000837,
+      "dialogue_text": "Nous avons besoin de votre aide"
+    },
+    {
+      "subtitle_index": 94,
+      "start_time": 4051.775,
+      "end_time": 4053.067,
+      "duration": 1.2919999999999163,
+      "dialogue_text": "avec les dents."
+    },
+    {
+      "subtitle_index": 95,
+      "start_time": 4055.358,
+      "end_time": 4058.192,
+      "duration": 2.8339999999998327,
+      "dialogue_text": "Vous devez demander de l'aide aux maîtres."
+    },
+    {
+      "subtitle_index": 96,
+      "start_time": 4059.275,
+      "end_time": 4060.483,
+      "duration": 1.2080000000000837,
+      "dialogue_text": "Les maîtres ?"
+    },
+    {
+      "subtitle_index": 97,
+      "start_time": 4063.65,
+      "end_time": 4066.192,
+      "duration": 2.5419999999999163,
+      "dialogue_text": "Oui, nos maîtres."
+    },
+    {
+      "subtitle_index": 98,
+      "start_time": 4091.942,
+      "end_time": 4093.692,
+      "duration": 1.75,
+      "dialogue_text": "Je dois partir bientôt."
+    },
+    {
+      "subtitle_index": 99,
+      "start_time": 4098.108,
+      "end_time": 4099.317,
+      "duration": 1.2089999999998327,
+      "dialogue_text": "Le 6."
+    },
+    {
+      "subtitle_index": 100,
+      "start_time": 4104.357,
+      "end_time": 4107.4,
+      "duration": 3.0429999999996653,
+      "dialogue_text": "La maison est vide depuis la mort de ma mère."
+    },
+    {
+      "subtitle_index": 101,
+      "start_time": 4115.982,
+      "end_time": 4117.567,
+      "duration": 1.5850000000000364,
+      "dialogue_text": "C'est trop grand pour une personne."
+    },
+    {
+      "subtitle_index": 102,
+      "start_time": 4124.4,
+      "end_time": 4127.025,
+      "duration": 2.625,
+      "dialogue_text": "Les jardins seront ravissants en hiver."
+    },
+    {
+      "subtitle_index": 103,
+      "start_time": 4138.732,
+      "end_time": 4140.817,
+      "duration": 2.0850000000000364,
+      "dialogue_text": "Je serais honoré si vous acceptiez"
+    },
+    {
+      "subtitle_index": 104,
+      "start_time": 4140.9,
+      "end_time": 4142.482,
+      "duration": 1.5820000000003347,
+      "dialogue_text": "de venir avec moi..."
+    },
+    {
+      "subtitle_index": 105,
+      "start_time": 4145.442,
+      "end_time": 4146.65,
+      "duration": 1.207999999999629,
+      "dialogue_text": "comme mon invitée."
+    },
+    {
+      "subtitle_index": 106,
+      "start_time": 4150.982,
+      "end_time": 4152.357,
+      "duration": 1.375,
+      "dialogue_text": "Aussi longtemps que vous en avez besoin."
+    },
+    {
+      "subtitle_index": 107,
+      "start_time": 4156.857,
+      "end_time": 4158.817,
+      "duration": 1.9600000000000364,
+      "dialogue_text": "Y a-t-il vraiment quelque chose qui vous retient ici ?"
+    },
+    {
+      "subtitle_index": 108,
+      "start_time": 4362.025,
+      "end_time": 4363.358,
+      "duration": 1.3330000000005384,
+      "dialogue_text": "Monsieur Scellinc ?"
+    },
+    {
+      "subtitle_index": 109,
+      "start_time": 4364.317,
+      "end_time": 4366.317,
+      "duration": 2.0,
+      "dialogue_text": "Avez-vous informé nos maîtres ?"
+    },
+    {
+      "subtitle_index": 110,
+      "start_time": 4371.025,
+      "end_time": 4374.858,
+      "duration": 3.8330000000005384,
+      "dialogue_text": "Avez-vous informé nos maîtres que j'ai besoin d'aide ?"
+    },
+    {
+      "subtitle_index": 111,
+      "start_time": 4374.942,
+      "end_time": 4376.317,
+      "duration": 1.375,
+      "dialogue_text": "Je ne comprends pas."
+    },
+    {
+      "subtitle_index": 112,
+      "start_time": 4376.4,
+      "end_time": 4380.608,
+      "duration": 4.208000000000538,
+      "dialogue_text": "Avez-vous informé nos maîtres que j'ai besoin d'aide ?"
+    },
+    {
+      "subtitle_index": 113,
+      "start_time": 4403.4,
+      "end_time": 4404.858,
+      "duration": 1.4580000000005384,
+      "dialogue_text": "Que se passe-t-il?"
+    },
+    {
+      "subtitle_index": 114,
+      "start_time": 4405.692,
+      "end_time": 4407.817,
+      "duration": 2.125,
+      "dialogue_text": "Salope sale et sournoise !"
+    },
+    {
+      "subtitle_index": 115,
+      "start_time": 4408.817,
+      "end_time": 4411.15,
+      "duration": 2.332999999999629,
+      "dialogue_text": "- Mon Dieu... - Qu'est-ce que vous faites ?"
+    },
+    {
+      "subtitle_index": 116,
+      "start_time": 4583.608,
+      "end_time": 4584.692,
+      "duration": 1.0839999999998327,
+      "dialogue_text": "Je vais..."
+    },
+    {
+      "subtitle_index": 117,
+      "start_time": 4589.233,
+      "end_time": 4590.942,
+      "duration": 1.7089999999998327,
+      "dialogue_text": "J'irais avec vous."
+    },
+    {
+      "subtitle_index": 118,
+      "start_time": 4665.483,
+      "end_time": 4666.983,
+      "duration": 1.5,
+      "dialogue_text": "Vous ne me reconnaissez pas ?"
+    },
+    {
+      "subtitle_index": 119,
+      "start_time": 4669.9,
+      "end_time": 4671.4,
+      "duration": 1.5,
+      "dialogue_text": "Je sais qui vous êtes."
+    },
+    {
+      "subtitle_index": 120,
+      "start_time": 4715.483,
+      "end_time": 4716.9,
+      "duration": 1.4169999999994616,
+      "dialogue_text": "Allez chercher la fille."
+    },
+    {
+      "subtitle_index": 121,
+      "start_time": 4760.65,
+      "end_time": 4761.942,
+      "duration": 1.292000000000371,
+      "dialogue_text": "Viens."
+    },
+    {
+      "subtitle_index": 122,
+      "start_time": 4763.108,
+      "end_time": 4764.108,
+      "duration": 1.0,
+      "dialogue_text": "Mia..."
+    },
+    {
+      "subtitle_index": 123,
+      "start_time": 4770.9,
+      "end_time": 4773.025,
+      "duration": 2.125,
+      "dialogue_text": "Rangez cette chose."
+    },
+    {
+      "subtitle_index": 124,
+      "start_time": 4805.733,
+      "end_time": 4807.192,
+      "duration": 1.4589999999998327,
+      "dialogue_text": "Sur la table."
+    },
+    {
+      "subtitle_index": 125,
+      "start_time": 4812.15,
+      "end_time": 4813.775,
+      "duration": 1.625,
+      "dialogue_text": "Allongez-vous sur la table."
+    },
+    {
+      "subtitle_index": 126,
+      "start_time": 4859.733,
+      "end_time": 4861.358,
+      "duration": 1.625,
+      "dialogue_text": "Cela prendra un certain temps."
+    },
+    {
+      "subtitle_index": 127,
+      "start_time": 4866.733,
+      "end_time": 4868.358,
+      "duration": 1.625,
+      "dialogue_text": "S'il vous plaît, laissez-nous tranquilles."
+    },
+    {
+      "subtitle_index": 128,
+      "start_time": 4900.65,
+      "end_time": 4901.733,
+      "duration": 1.0830000000005384,
+      "dialogue_text": "Ouvre."
+    },
+    {
+      "subtitle_index": 129,
+      "start_time": 4905.275,
+      "end_time": 4906.317,
+      "duration": 1.042000000000371,
+      "dialogue_text": "Plus large."
+    },
+    {
+      "subtitle_index": 130,
+      "start_time": 5009.525,
+      "end_time": 5010.983,
+      "duration": 1.4580000000005384,
+      "dialogue_text": "C'est un système différent maintenant."
+    },
+    {
+      "subtitle_index": 131,
+      "start_time": 5011.983,
+      "end_time": 5014.15,
+      "duration": 2.1669999999994616,
+      "dialogue_text": "Les implants en verre sont permanents."
+    },
+    {
+      "subtitle_index": 132,
+      "start_time": 5016.108,
+      "end_time": 5018.192,
+      "duration": 2.0839999999998327,
+      "dialogue_text": "Vous devez veiller scrupuleusement à l'hygiène de la fille"
+    },
+    {
+      "subtitle_index": 133,
+      "start_time": 5018.275,
+      "end_time": 5019.608,
+      "duration": 1.3330000000005384,
+      "dialogue_text": "dans les jours à venir."
+    },
+    {
+      "subtitle_index": 134,
+      "start_time": 5022.858,
+      "end_time": 5025.4,
+      "duration": 2.5419999999994616,
+      "dialogue_text": "L'eau salée gardera sa bouche exempte d'infection."
+    },
+    {
+      "subtitle_index": 135,
+      "start_time": 5032.442,
+      "end_time": 5033.733,
+      "duration": 1.2910000000001673,
+      "dialogue_text": "Si vous pouvez gérer cela,"
+    },
+    {
+      "subtitle_index": 136,
+      "start_time": 5033.817,
+      "end_time": 5035.15,
+      "duration": 1.332999999999629,
+      "dialogue_text": "il n'y aura pas besoin que je revienne"
+    },
+    {
+      "subtitle_index": 137,
+      "start_time": 5035.233,
+      "end_time": 5036.483,
+      "duration": 1.25,
+      "dialogue_text": "avant votre départ."
+    },
+    {
+      "subtitle_index": 138,
+      "start_time": 5184.4,
+      "end_time": 5185.65,
+      "duration": 1.25,
+      "dialogue_text": "Argh !"
+    },
+    {
+      "subtitle_index": 139,
+      "start_time": 5189.483,
+      "end_time": 5190.817,
+      "duration": 1.3339999999998327,
+      "dialogue_text": "Argh !"
+    },
+    {
+      "subtitle_index": 140,
+      "start_time": 5357.983,
+      "end_time": 5359.025,
+      "duration": 1.0419999999994616,
+      "dialogue_text": "Pas longtemps maintenant."
+    },
+    {
+      "subtitle_index": 141,
+      "start_time": 5363.317,
+      "end_time": 5364.692,
+      "duration": 1.375,
+      "dialogue_text": "Ça fait mal."
+    },
+    {
+      "subtitle_index": 142,
+      "start_time": 5367.692,
+      "end_time": 5369.4,
+      "duration": 1.707999999999629,
+      "dialogue_text": "Laurence, s'il vous plaît."
+    },
+    {
+      "subtitle_index": 143,
+      "start_time": 5411.942,
+      "end_time": 5413.025,
+      "duration": 1.082999999999629,
+      "dialogue_text": "Je suis sûr que dans notre vie ensemble,"
+    },
+    {
+      "subtitle_index": 144,
+      "start_time": 5413.108,
+      "end_time": 5415.358,
+      "duration": 2.25,
+      "dialogue_text": "vous n'en sentirez plus tant le besoin."
+    },
+    {
+      "subtitle_index": 145,
+      "start_time": 5549.983,
+      "end_time": 5551.358,
+      "duration": 1.375,
+      "dialogue_text": "Puis-je vous aider, madame ?"
+    },
+    {
+      "subtitle_index": 146,
+      "start_time": 5800.608,
+      "end_time": 5801.817,
+      "duration": 1.2089999999998327,
+      "dialogue_text": "C'est pour la maison."
+    },
+    {
+      "subtitle_index": 147,
+      "start_time": 6024.025,
+      "end_time": 6025.025,
+      "duration": 1.0,
+      "dialogue_text": "Mmm."
+    },
+    {
+      "subtitle_index": 148,
+      "start_time": 6296.442,
+      "end_time": 6298.15,
+      "duration": 1.707999999999629,
+      "dialogue_text": "J'ai amené l'enfant,"
+    },
+    {
+      "subtitle_index": 149,
+      "start_time": 6299.233,
+      "end_time": 6300.4,
+      "duration": 1.1669999999994616,
+      "dialogue_text": "comme on me l'a demandé."
+    },
+    {
+      "subtitle_index": 150,
+      "start_time": 6302.442,
+      "end_time": 6304.442,
+      "duration": 2.0,
+      "dialogue_text": "Je suis Albert Scellinc."
+    },
+    {
+      "subtitle_index": 151,
+      "start_time": 6318.525,
+      "end_time": 6320.15,
+      "duration": 1.625,
+      "dialogue_text": "Veuillez patienter dans le hall."
+    },
+    {
+      "subtitle_index": 152,
+      "start_time": 6361.775,
+      "end_time": 6364.067,
+      "duration": 2.292000000000371,
+      "dialogue_text": "Elle a été bien soignée."
+    },
+    {
+      "subtitle_index": 153,
+      "start_time": 6366.525,
+      "end_time": 6368.192,
+      "duration": 1.667000000000371,
+      "dialogue_text": "Donc je peux voir."
+    },
+    {
+      "subtitle_index": 154,
+      "start_time": 6376.983,
+      "end_time": 6379.733,
+      "duration": 2.75,
+      "dialogue_text": "Tout est comme il se doit."
+    },
+    {
+      "subtitle_index": 155,
+      "start_time": 6382.067,
+      "end_time": 6383.775,
+      "duration": 1.707999999999629,
+      "dialogue_text": "Vous ne devez pas avoir peur."
+    },
+    {
+      "subtitle_index": 156,
+      "start_time": 6394.942,
+      "end_time": 6396.15,
+      "duration": 1.207999999999629,
+      "dialogue_text": "Parfait!"
+    },
+    {
+      "subtitle_index": 157,
+      "start_time": 6398.067,
+      "end_time": 6402.192,
+      "duration": 4.125,
+      "dialogue_text": "Vous avez sans doute des papiers à me faire signer."
+    },
+    {
+      "subtitle_index": 158,
+      "start_time": 6403.483,
+      "end_time": 6406.65,
+      "duration": 3.1669999999994616,
+      "dialogue_text": "Ils vous attendent à la réception."
+    },
+    {
+      "subtitle_index": 159,
+      "start_time": 6415.567,
+      "end_time": 6417.775,
+      "duration": 2.207999999999629,
+      "dialogue_text": "Lui laisserez-vous quelque chose ?"
+    },
+    {
+      "subtitle_index": 160,
+      "start_time": 6421.9,
+      "end_time": 6423.567,
+      "duration": 1.667000000000371,
+      "dialogue_text": "A votre fille."
+    },
+    {
+      "subtitle_index": 161,
+      "start_time": 6423.65,
+      "end_time": 6425.858,
+      "duration": 2.2080000000005384,
+      "dialogue_text": "Lui laisserez-vous quelque chose ?"
+    },
+    {
+      "subtitle_index": 162,
+      "start_time": 6425.942,
+      "end_time": 6427.4,
+      "duration": 1.457999999999629,
+      "dialogue_text": "Elle n'est pas ma fille."
+    },
+    {
+      "subtitle_index": 163,
+      "start_time": 6428.9,
+      "end_time": 6430.442,
+      "duration": 1.542000000000371,
+      "dialogue_text": "Mais vous signez pour elle."
+    },
+    {
+      "subtitle_index": 164,
+      "start_time": 6431.275,
+      "end_time": 6432.942,
+      "duration": 1.667000000000371,
+      "dialogue_text": "Je ne suis que son gardien."
+    },
+    {
+      "subtitle_index": 165,
+      "start_time": 6437.608,
+      "end_time": 6438.942,
+      "duration": 1.3339999999998327,
+      "dialogue_text": "Regardez."
+    },
+    {
+      "subtitle_index": 166,
+      "start_time": 6453.567,
+      "end_time": 6454.692,
+      "duration": 1.125,
+      "dialogue_text": "C'est un mensonge."
+    },
+    {
+      "subtitle_index": 167,
+      "start_time": 6597.983,
+      "end_time": 6598.983,
+      "duration": 1.0,
+      "dialogue_text": "Marie."
+    },
+    {
+      "subtitle_index": 168,
+      "start_time": 6718.838,
+      "end_time": 6719.838,
+      "duration": 1.0,
+      "dialogue_text": "FIN"
+    },
+    {
+      "subtitle_index": 169,
+      "start_time": 6721.713,
+      "end_time": 6725.13,
+      "duration": 3.417000000000371,
+      "dialogue_text": "Un sous titre de Voracinéphile"
+    },
+    {
+      "subtitle_index": 170,
+      "start_time": 6728.963,
+      "end_time": 6733.838,
+      "duration": 4.875,
+      "dialogue_text": "achevé le 29/12/2022"
+    }
+  ]
+}

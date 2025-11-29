@@ -1,0 +1,5836 @@
+{
+  "metadata": {
+    "film_name": "Talesom Earthsea V2",
+    "film_slug": "tales_from_earthsea_es_v2",
+    "language_code": "es",
+    "total_subtitles": 832,
+    "total_duration": 8021.147,
+    "parse_timestamp": "2025-11-18T12:08:11.731932"
+  },
+  "subtitles": [
+    {
+      "subtitle_index": 1,
+      "start_time": 39.831,
+      "end_time": 43.831,
+      "duration": 4.0,
+      "dialogue_text": "\"Cartas desde Iwo Jima\""
+    },
+    {
+      "subtitle_index": 2,
+      "start_time": 64.2,
+      "end_time": 70.2,
+      "duration": 6.0,
+      "dialogue_text": "\"En memoria de los soldados muertos en combate\""
+    },
+    {
+      "subtitle_index": 3,
+      "start_time": 129.336,
+      "end_time": 132.836,
+      "duration": 3.5,
+      "dialogue_text": "¿Cómo lograrían aquellos soldados cavar estos túneles?"
+    },
+    {
+      "subtitle_index": 4,
+      "start_time": 133.585,
+      "end_time": 135.185,
+      "duration": 1.5999999999999943,
+      "dialogue_text": "¡Que entren los otros!"
+    },
+    {
+      "subtitle_index": 5,
+      "start_time": 135.22,
+      "end_time": 136.785,
+      "duration": 1.5649999999999977,
+      "dialogue_text": "¡Eh! ¡He encontrado algo!..."
+    },
+    {
+      "subtitle_index": 6,
+      "start_time": 151.885,
+      "end_time": 152.985,
+      "duration": 1.1000000000000227,
+      "dialogue_text": "Hanako..."
+    },
+    {
+      "subtitle_index": 7,
+      "start_time": 153.785,
+      "end_time": 159.785,
+      "duration": 6.0,
+      "dialogue_text": "Los soldados cavamos y... cavamos todo el día..."
+    },
+    {
+      "subtitle_index": 8,
+      "start_time": 161.085,
+      "end_time": 166.085,
+      "duration": 5.0,
+      "dialogue_text": "¡Este es el hoyo en el que pelearemos y en el que moriremos!"
+    },
+    {
+      "subtitle_index": 9,
+      "start_time": 167.985,
+      "end_time": 169.385,
+      "duration": 1.3999999999999773,
+      "dialogue_text": "Hanako..."
+    },
+    {
+      "subtitle_index": 10,
+      "start_time": 169.985,
+      "end_time": 173.285,
+      "duration": 3.299999999999983,
+      "dialogue_text": "¿Estaré cavando mi propia tumba?"
+    },
+    {
+      "subtitle_index": 11,
+      "start_time": 206.962,
+      "end_time": 210.862,
+      "duration": 3.9000000000000057,
+      "dialogue_text": "Hoy me dirijo al puesto donde esperan mis hombres."
+    },
+    {
+      "subtitle_index": 12,
+      "start_time": 211.462,
+      "end_time": 216.262,
+      "duration": 4.800000000000011,
+      "dialogue_text": "estoy decidido a servir a mi país... y dar la vida por él."
+    },
+    {
+      "subtitle_index": 13,
+      "start_time": 216.762,
+      "end_time": 219.362,
+      "duration": 2.5999999999999943,
+      "dialogue_text": "Creo que lo deje todo organizado."
+    },
+    {
+      "subtitle_index": 14,
+      "start_time": 219.462,
+      "end_time": 224.062,
+      "duration": 4.600000000000023,
+      "dialogue_text": "Pero siento no haber podido arreglar el piso de la cocina."
+    },
+    {
+      "subtitle_index": 15,
+      "start_time": 224.762,
+      "end_time": 226.662,
+      "duration": 1.9000000000000057,
+      "dialogue_text": "Quería hacerlo."
+    },
+    {
+      "subtitle_index": 16,
+      "start_time": 226.762,
+      "end_time": 231.562,
+      "duration": 4.800000000000011,
+      "dialogue_text": "Pero tuve que irme antes. Y me tiene preocupado."
+    },
+    {
+      "subtitle_index": 17,
+      "start_time": 231.862,
+      "end_time": 234.862,
+      "duration": 3.0,
+      "dialogue_text": "Asegúrate de que Taro se encargue de ello."
+    },
+    {
+      "subtitle_index": 18,
+      "start_time": 241.032,
+      "end_time": 245.432,
+      "duration": 4.399999999999977,
+      "dialogue_text": "¡Maldita isla...! Que se la queden los americanos."
+    },
+    {
+      "subtitle_index": 19,
+      "start_time": 247.432,
+      "end_time": 248.732,
+      "duration": 1.3000000000000114,
+      "dialogue_text": "Nada crece por aquí."
+    },
+    {
+      "subtitle_index": 20,
+      "start_time": 249.932,
+      "end_time": 254.732,
+      "duration": 4.800000000000011,
+      "dialogue_text": "Apesta, hace calor, está llena de bichos y no hay agua."
+    },
+    {
+      "subtitle_index": 21,
+      "start_time": 257.132,
+      "end_time": 261.132,
+      "duration": 4.0,
+      "dialogue_text": "Esta isla es parte de nuestra sagrada patria."
+    },
+    {
+      "subtitle_index": 22,
+      "start_time": 261.232,
+      "end_time": 263.232,
+      "duration": 2.0,
+      "dialogue_text": "Esta isla no tiene nada de sagrado."
+    },
+    {
+      "subtitle_index": 23,
+      "start_time": 266.233,
+      "end_time": 268.728,
+      "duration": 2.4950000000000045,
+      "dialogue_text": "¡Saigo!"
+    },
+    {
+      "subtitle_index": 24,
+      "start_time": 268.432,
+      "end_time": 272.132,
+      "duration": 3.6999999999999886,
+      "dialogue_text": "Deberíamos regalarle la isla a los americanos..."
+    },
+    {
+      "subtitle_index": 25,
+      "start_time": 272.732,
+      "end_time": 274.332,
+      "duration": 1.599999999999966,
+      "dialogue_text": "E irnos a casa."
+    },
+    {
+      "subtitle_index": 26,
+      "start_time": 277.432,
+      "end_time": 278.432,
+      "duration": 1.0,
+      "dialogue_text": "¡Saigo!"
+    },
+    {
+      "subtitle_index": 27,
+      "start_time": 280.432,
+      "end_time": 281.732,
+      "duration": 1.3000000000000114,
+      "dialogue_text": "¿Qué dices, soldado?"
+    },
+    {
+      "subtitle_index": 28,
+      "start_time": 283.432,
+      "end_time": 286.832,
+      "duration": 3.3999999999999773,
+      "dialogue_text": "Que si vencemos a los americanos podríamos irnos."
+    },
+    {
+      "subtitle_index": 29,
+      "start_time": 288.332,
+      "end_time": 290.632,
+      "duration": 2.3000000000000114,
+      "dialogue_text": "¡Tú! ¿Has dicho eso?"
+    },
+    {
+      "subtitle_index": 30,
+      "start_time": 291.632,
+      "end_time": 293.832,
+      "duration": 2.1999999999999886,
+      "dialogue_text": "Sí, Señor."
+    },
+    {
+      "subtitle_index": 31,
+      "start_time": 376.57,
+      "end_time": 377.559,
+      "duration": 0.9890000000000327,
+      "dialogue_text": "Soy Kuribayashi."
+    },
+    {
+      "subtitle_index": 32,
+      "start_time": 378.035,
+      "end_time": 380.535,
+      "duration": 2.5,
+      "dialogue_text": "Bienvenido, General Almirante Ohsugi."
+    },
+    {
+      "subtitle_index": 33,
+      "start_time": 381.235,
+      "end_time": 385.935,
+      "duration": 4.699999999999989,
+      "dialogue_text": "-¿Cuánto hace que me esperan? -Tres horas, Señor."
+    },
+    {
+      "subtitle_index": 34,
+      "start_time": 386.235,
+      "end_time": 387.135,
+      "duration": 0.8999999999999773,
+      "dialogue_text": "Lo lamento."
+    },
+    {
+      "subtitle_index": 35,
+      "start_time": 387.735,
+      "end_time": 392.135,
+      "duration": 4.399999999999977,
+      "dialogue_text": "No podía informar de la hora tras lo ocurrido al almirante Yakamoto."
+    },
+    {
+      "subtitle_index": 36,
+      "start_time": 393.235,
+      "end_time": 395.635,
+      "duration": 2.3999999999999773,
+      "dialogue_text": "-Lo entiendo -Mi ayudante, el Teniente Fujita."
+    },
+    {
+      "subtitle_index": 37,
+      "start_time": 396.335,
+      "end_time": 398.835,
+      "duration": 2.5,
+      "dialogue_text": "Almirante, no tiene buen aspecto."
+    },
+    {
+      "subtitle_index": 38,
+      "start_time": 399.035,
+      "end_time": 402.335,
+      "duration": 3.2999999999999545,
+      "dialogue_text": "No es nada. El agua de aquí no me sienta bien."
+    },
+    {
+      "subtitle_index": 39,
+      "start_time": 402.535,
+      "end_time": 404.035,
+      "duration": 1.5,
+      "dialogue_text": "Lamento oír eso."
+    },
+    {
+      "subtitle_index": 40,
+      "start_time": 404.735,
+      "end_time": 409.035,
+      "duration": 4.300000000000011,
+      "dialogue_text": "-A su alojamiento se va por aquí. -Antes quiero visitar la isla."
+    },
+    {
+      "subtitle_index": 41,
+      "start_time": 409.335,
+      "end_time": 416.035,
+      "duration": 6.7000000000000455,
+      "dialogue_text": "-¿Quiere un vehículo Señor? -No, caminaremos. Caminar es saludable."
+    },
+    {
+      "subtitle_index": 42,
+      "start_time": 416.235,
+      "end_time": 418.635,
+      "duration": 2.3999999999999773,
+      "dialogue_text": "Tal vez sea eso lo que necesita."
+    },
+    {
+      "subtitle_index": 43,
+      "start_time": 434.398,
+      "end_time": 436.098,
+      "duration": 1.6999999999999886,
+      "dialogue_text": "Conque ese es el Monte Suribachi."
+    },
+    {
+      "subtitle_index": 44,
+      "start_time": 445.234,
+      "end_time": 448.234,
+      "duration": 3.0,
+      "dialogue_text": "Traidores. Campesinos inútiles."
+    },
+    {
+      "subtitle_index": 45,
+      "start_time": 448.834,
+      "end_time": 450.134,
+      "duration": 1.3000000000000114,
+      "dialogue_text": "Basta."
+    },
+    {
+      "subtitle_index": 46,
+      "start_time": 453.634,
+      "end_time": 457.534,
+      "duration": 3.8999999999999773,
+      "dialogue_text": "Levántense. ¿Qué está haciendo?"
+    },
+    {
+      "subtitle_index": 47,
+      "start_time": 459.934,
+      "end_time": 461.534,
+      "duration": 1.599999999999966,
+      "dialogue_text": "Estos soldados."
+    },
+    {
+      "subtitle_index": 48,
+      "start_time": 464.134,
+      "end_time": 466.634,
+      "duration": 2.5,
+      "dialogue_text": "-Hacían comentarios poco patriotas. -Entiendo."
+    },
+    {
+      "subtitle_index": 49,
+      "start_time": 467.034,
+      "end_time": 472.334,
+      "duration": 5.300000000000011,
+      "dialogue_text": "Y le sobran tantos soldados, Capitán. ¿Qué los quiere incapacitar?"
+    },
+    {
+      "subtitle_index": 50,
+      "start_time": 474.834,
+      "end_time": 475.934,
+      "duration": 1.1000000000000227,
+      "dialogue_text": "No, Señor."
+    },
+    {
+      "subtitle_index": 51,
+      "start_time": 476.934,
+      "end_time": 481.134,
+      "duration": 4.199999999999989,
+      "dialogue_text": "-Pues deje de golpearlos. -En vez de eso, déjelos sin rancho."
+    },
+    {
+      "subtitle_index": 52,
+      "start_time": 481.734,
+      "end_time": 485.434,
+      "duration": 3.7000000000000455,
+      "dialogue_text": "Un buen Capitán usa el cerebro, además del látigo."
+    },
+    {
+      "subtitle_index": 53,
+      "start_time": 490.62,
+      "end_time": 495.52,
+      "duration": 4.899999999999977,
+      "dialogue_text": "-¿Qué es todo esto? -¿Todo esto? Trincheras, Señor."
+    },
+    {
+      "subtitle_index": 54,
+      "start_time": 496.32,
+      "end_time": 498.22,
+      "duration": 1.900000000000034,
+      "dialogue_text": "¿Por qué las cavan aquí?"
+    },
+    {
+      "subtitle_index": 55,
+      "start_time": 498.62,
+      "end_time": 501.82,
+      "duration": 3.1999999999999886,
+      "dialogue_text": "Se espera que el enemigo desembarque aquí."
+    },
+    {
+      "subtitle_index": 56,
+      "start_time": 503.22,
+      "end_time": 507.12,
+      "duration": 3.8999999999999773,
+      "dialogue_text": "-Que paren ahora mismo. -Pero, General…"
+    },
+    {
+      "subtitle_index": 57,
+      "start_time": 507.82,
+      "end_time": 509.02,
+      "duration": 1.1999999999999886,
+      "dialogue_text": "Capitán."
+    },
+    {
+      "subtitle_index": 58,
+      "start_time": 509.92,
+      "end_time": 514.82,
+      "duration": 4.900000000000034,
+      "dialogue_text": "Que esos hombres descansen. Están pálidos, parecen marcianos."
+    },
+    {
+      "subtitle_index": 59,
+      "start_time": 527.68,
+      "end_time": 530.58,
+      "duration": 2.900000000000091,
+      "dialogue_text": "¡Dejen de cavar! ¡Dejen de cavar!"
+    },
+    {
+      "subtitle_index": 60,
+      "start_time": 548.101,
+      "end_time": 551.801,
+      "duration": 3.7000000000000455,
+      "dialogue_text": "Mejor, mi estomago me ha estado molestando."
+    },
+    {
+      "subtitle_index": 61,
+      "start_time": 552.901,
+      "end_time": 555.101,
+      "duration": 2.2000000000000455,
+      "dialogue_text": "Por el General Kuribayashi."
+    },
+    {
+      "subtitle_index": 62,
+      "start_time": 556.783,
+      "end_time": 558.383,
+      "duration": 1.6000000000000227,
+      "dialogue_text": "Un excelente General."
+    },
+    {
+      "subtitle_index": 63,
+      "start_time": 562.366,
+      "end_time": 566.766,
+      "duration": 4.399999999999977,
+      "dialogue_text": "-¡Sabe mejor que el Sake! -Creo que vivió en América."
+    },
+    {
+      "subtitle_index": 64,
+      "start_time": 567.766,
+      "end_time": 572.066,
+      "duration": 4.300000000000068,
+      "dialogue_text": "Quizás por eso no quiere trincheras. Le gustaran los americanos."
+    },
+    {
+      "subtitle_index": 65,
+      "start_time": 572.366,
+      "end_time": 575.866,
+      "duration": 3.5,
+      "dialogue_text": "¡No, estúpido! Ha estudiado a los americanos."
+    },
+    {
+      "subtitle_index": 66,
+      "start_time": 577.966,
+      "end_time": 580.766,
+      "duration": 2.7999999999999545,
+      "dialogue_text": "Así que ahora sabe como vencerlos."
+    },
+    {
+      "subtitle_index": 67,
+      "start_time": 582.566,
+      "end_time": 584.266,
+      "duration": 1.6999999999999318,
+      "dialogue_text": "He oído a alguien del 204."
+    },
+    {
+      "subtitle_index": 68,
+      "start_time": 585.066,
+      "end_time": 589.566,
+      "duration": 4.5,
+      "dialogue_text": "Que ofrecieron el mando de la isla a otro general."
+    },
+    {
+      "subtitle_index": 69,
+      "start_time": 590.366,
+      "end_time": 593.366,
+      "duration": 3.0,
+      "dialogue_text": "Pero no lo aceptó."
+    },
+    {
+      "subtitle_index": 70,
+      "start_time": 594.966,
+      "end_time": 598.966,
+      "duration": 4.0,
+      "dialogue_text": "Por eso el Primer Ministro Tojo, se lo dio a Kuribayashi."
+    },
+    {
+      "subtitle_index": 71,
+      "start_time": 600.366,
+      "end_time": 604.366,
+      "duration": 4.0,
+      "dialogue_text": "Nozaki, tú oyes muchas cosas."
+    },
+    {
+      "subtitle_index": 72,
+      "start_time": 605.666,
+      "end_time": 607.766,
+      "duration": 2.099999999999909,
+      "dialogue_text": "Pero tienes cera en los oídos."
+    },
+    {
+      "subtitle_index": 73,
+      "start_time": 609.766,
+      "end_time": 615.566,
+      "duration": 5.800000000000068,
+      "dialogue_text": "Además no te puedes fiar del 204. Son de la armada."
+    },
+    {
+      "subtitle_index": 74,
+      "start_time": 617.746,
+      "end_time": 622.936,
+      "duration": 5.190000000000055,
+      "dialogue_text": "Para mí, ese Kuribayashi es un buen General."
+    },
+    {
+      "subtitle_index": 75,
+      "start_time": 619.466,
+      "end_time": 620.666,
+      "duration": 1.2000000000000455,
+      "dialogue_text": "Tal vez."
+    },
+    {
+      "subtitle_index": 76,
+      "start_time": 621.466,
+      "end_time": 627.166,
+      "duration": 5.7000000000000455,
+      "dialogue_text": "Hemos dejado de cavar esas malditas trincheras, ¿verdad?"
+    },
+    {
+      "subtitle_index": 77,
+      "start_time": 643.287,
+      "end_time": 646.187,
+      "duration": 2.8999999999999773,
+      "dialogue_text": "Hace más calor del que yo esperaba."
+    },
+    {
+      "subtitle_index": 78,
+      "start_time": 650.987,
+      "end_time": 652.987,
+      "duration": 2.0,
+      "dialogue_text": "Y la isla es más grande de lo que creía."
+    },
+    {
+      "subtitle_index": 79,
+      "start_time": 653.187,
+      "end_time": 655.987,
+      "duration": 2.7999999999999545,
+      "dialogue_text": "Caramba, estoy exhausto."
+    },
+    {
+      "subtitle_index": 80,
+      "start_time": 663.887,
+      "end_time": 667.887,
+      "duration": 4.0,
+      "dialogue_text": "Ito, a sus órdenes. Gracias por venir tan pronto."
+    },
+    {
+      "subtitle_index": 81,
+      "start_time": 668.387,
+      "end_time": 673.687,
+      "duration": 5.300000000000068,
+      "dialogue_text": "-¿De cuántos aviones disponemos? -De 41 cazas y 13 bombarderos, señor."
+    },
+    {
+      "subtitle_index": 82,
+      "start_time": 674.087,
+      "end_time": 674.987,
+      "duration": 0.8999999999999773,
+      "dialogue_text": "¿Nada más?"
+    },
+    {
+      "subtitle_index": 83,
+      "start_time": 675.087,
+      "end_time": 679.087,
+      "duration": 4.0,
+      "dialogue_text": "Perdimos 66 aviones hace unos días. En la defensa de Saipán."
+    },
+    {
+      "subtitle_index": 84,
+      "start_time": 680.487,
+      "end_time": 684.787,
+      "duration": 4.300000000000068,
+      "dialogue_text": "Tendremos que confiar en el apoyo de la flota."
+    },
+    {
+      "subtitle_index": 85,
+      "start_time": 687.287,
+      "end_time": 690.787,
+      "duration": 3.5,
+      "dialogue_text": "¿Éste es el Plan de defensa?"
+    },
+    {
+      "subtitle_index": 86,
+      "start_time": 691.499,
+      "end_time": 693.365,
+      "duration": 1.8659999999999854,
+      "dialogue_text": "Sí, Señor..."
+    },
+    {
+      "subtitle_index": 87,
+      "start_time": 694.487,
+      "end_time": 698.387,
+      "duration": 3.8999999999999773,
+      "dialogue_text": "¿Y los soldados de tierra? ¿Dónde estarán?"
+    },
+    {
+      "subtitle_index": 88,
+      "start_time": 700.287,
+      "end_time": 705.287,
+      "duration": 5.0,
+      "dialogue_text": "-No sé exactamente señor. -Están bajo el mando del Coronel Adachi."
+    },
+    {
+      "subtitle_index": 89,
+      "start_time": 705.387,
+      "end_time": 707.687,
+      "duration": 2.300000000000068,
+      "dialogue_text": "¿No ha coordinado su plan con el ejército de tierra?"
+    },
+    {
+      "subtitle_index": 90,
+      "start_time": 707.887,
+      "end_time": 711.087,
+      "duration": 3.2000000000000455,
+      "dialogue_text": "Según las normas. Hasta que el enemigo aterrice."
+    },
+    {
+      "subtitle_index": 91,
+      "start_time": 711.187,
+      "end_time": 714.587,
+      "duration": 3.3999999999999773,
+      "dialogue_text": "Esto es la guerra. Lo sabe, ¿verdad?"
+    },
+    {
+      "subtitle_index": 92,
+      "start_time": 719.887,
+      "end_time": 723.587,
+      "duration": 3.7000000000000455,
+      "dialogue_text": "Esto no funcionará. Centran todo su esfuerzo en las playas."
+    },
+    {
+      "subtitle_index": 93,
+      "start_time": 724.087,
+      "end_time": 729.087,
+      "duration": 5.0,
+      "dialogue_text": "-Mueva la artillería. -Pero, acabamos de bajarla a la playa."
+    },
+    {
+      "subtitle_index": 94,
+      "start_time": 729.187,
+      "end_time": 735.487,
+      "duration": 6.2999999999999545,
+      "dialogue_text": "-Trasládenla de nuevo. -Coordínenlo con el ejército de tierra."
+    },
+    {
+      "subtitle_index": 95,
+      "start_time": 735.787,
+      "end_time": 738.787,
+      "duration": 3.0,
+      "dialogue_text": "Es prioritario fortificar el Suribachi."
+    },
+    {
+      "subtitle_index": 96,
+      "start_time": 739.387,
+      "end_time": 740.687,
+      "duration": 1.3000000000000682,
+      "dialogue_text": "Voy a caminar más."
+    },
+    {
+      "subtitle_index": 97,
+      "start_time": 741.087,
+      "end_time": 743.287,
+      "duration": 2.2000000000000455,
+      "dialogue_text": "-Está muy oscuro, señor. -Lo sé."
+    },
+    {
+      "subtitle_index": 98,
+      "start_time": 754.797,
+      "end_time": 756.297,
+      "duration": 1.5,
+      "dialogue_text": "Éste nos dará problemas."
+    },
+    {
+      "subtitle_index": 99,
+      "start_time": 758.297,
+      "end_time": 761.997,
+      "duration": 3.699999999999932,
+      "dialogue_text": "Los comandantes de tierra. Suelen darlos, señor."
+    },
+    {
+      "subtitle_index": 100,
+      "start_time": 804.416,
+      "end_time": 805.616,
+      "duration": 1.1999999999999318,
+      "dialogue_text": "¿Otra carta?"
+    },
+    {
+      "subtitle_index": 101,
+      "start_time": 806.016,
+      "end_time": 809.216,
+      "duration": 3.2000000000000455,
+      "dialogue_text": "¿Sabes que el correo sólo sale cuando hay barco?"
+    },
+    {
+      "subtitle_index": 102,
+      "start_time": 809.416,
+      "end_time": 810.716,
+      "duration": 1.2999999999999545,
+      "dialogue_text": "Tengo mucha familia."
+    },
+    {
+      "subtitle_index": 103,
+      "start_time": 811.616,
+      "end_time": 814.916,
+      "duration": 3.300000000000068,
+      "dialogue_text": "¿Y por qué todas van dirigidas a tu esposa?"
+    },
+    {
+      "subtitle_index": 104,
+      "start_time": 815.716,
+      "end_time": 822.516,
+      "duration": 6.7999999999999545,
+      "dialogue_text": "Trae, te hare un favor, sino tus cartas nunca saldrán de aquí."
+    },
+    {
+      "subtitle_index": 105,
+      "start_time": 823.616,
+      "end_time": 825.316,
+      "duration": 1.7000000000000455,
+      "dialogue_text": "¡Eh! ¿Qué haces?"
+    },
+    {
+      "subtitle_index": 106,
+      "start_time": 825.916,
+      "end_time": 830.016,
+      "duration": 4.099999999999909,
+      "dialogue_text": "Trabajaba en la Censura antes de ser trasladado."
+    },
+    {
+      "subtitle_index": 107,
+      "start_time": 830.116,
+      "end_time": 831.816,
+      "duration": 1.7000000000000455,
+      "dialogue_text": "Dirás \"degradado\"."
+    },
+    {
+      "subtitle_index": 108,
+      "start_time": 833.016,
+      "end_time": 836.416,
+      "duration": 3.400000000000091,
+      "dialogue_text": "\"Hanako, los soldados cavamos todo el día\""
+    },
+    {
+      "subtitle_index": 109,
+      "start_time": 836.616,
+      "end_time": 839.216,
+      "duration": 2.6000000000000227,
+      "dialogue_text": "No, no, no. Esto no pasará."
+    },
+    {
+      "subtitle_index": 110,
+      "start_time": 841.516,
+      "end_time": 842.916,
+      "duration": 1.400000000000091,
+      "dialogue_text": "Devuélveme eso."
+    },
+    {
+      "subtitle_index": 111,
+      "start_time": 851.816,
+      "end_time": 856.716,
+      "duration": 4.899999999999977,
+      "dialogue_text": "Ten, me lo agradecerás, Saigo."
+    },
+    {
+      "subtitle_index": 112,
+      "start_time": 860.116,
+      "end_time": 861.316,
+      "duration": 1.2000000000000455,
+      "dialogue_text": "¡El siguiente!"
+    },
+    {
+      "subtitle_index": 113,
+      "start_time": 867.578,
+      "end_time": 868.778,
+      "duration": 1.2000000000000455,
+      "dialogue_text": "Bien."
+    },
+    {
+      "subtitle_index": 114,
+      "start_time": 895.584,
+      "end_time": 897.584,
+      "duration": 2.0,
+      "dialogue_text": "¿Está ciego?"
+    },
+    {
+      "subtitle_index": 115,
+      "start_time": 898.784,
+      "end_time": 900.484,
+      "duration": 1.7000000000000455,
+      "dialogue_text": "¿Es que no ves el blanco?"
+    },
+    {
+      "subtitle_index": 116,
+      "start_time": 901.784,
+      "end_time": 905.084,
+      "duration": 3.2999999999999545,
+      "dialogue_text": "Mi hijo, con 6 años, dispararía mejor que tú."
+    },
+    {
+      "subtitle_index": 117,
+      "start_time": 906.384,
+      "end_time": 907.284,
+      "duration": 0.8999999999999773,
+      "dialogue_text": "Vuelve a tirar."
+    },
+    {
+      "subtitle_index": 118,
+      "start_time": 913.384,
+      "end_time": 916.884,
+      "duration": 3.5,
+      "dialogue_text": "¡Eres una vergüenza! ¿Tú te haces llamar soldado?"
+    },
+    {
+      "subtitle_index": 119,
+      "start_time": 918.884,
+      "end_time": 922.384,
+      "duration": 3.5,
+      "dialogue_text": "Esta noche limpiarás las botas de toda la compañía."
+    },
+    {
+      "subtitle_index": 120,
+      "start_time": 922.684,
+      "end_time": 924.584,
+      "duration": 1.8999999999999773,
+      "dialogue_text": "¡Ponte atrás!"
+    },
+    {
+      "subtitle_index": 121,
+      "start_time": 926.184,
+      "end_time": 930.884,
+      "duration": 4.7000000000000455,
+      "dialogue_text": "Deberían aprender a limpiar su arma, no a limpiar botas."
+    },
+    {
+      "subtitle_index": 122,
+      "start_time": 963.799,
+      "end_time": 964.899,
+      "duration": 1.1000000000000227,
+      "dialogue_text": "Fujita."
+    },
+    {
+      "subtitle_index": 123,
+      "start_time": 965.613,
+      "end_time": 967.313,
+      "duration": 1.6999999999999318,
+      "dialogue_text": "¿Qué hacen aquí esos tanques?"
+    },
+    {
+      "subtitle_index": 124,
+      "start_time": 967.713,
+      "end_time": 971.413,
+      "duration": 3.7000000000000455,
+      "dialogue_text": "Están fuera de servicio, Señor. Estamos esperamos piezas..."
+    },
+    {
+      "subtitle_index": 125,
+      "start_time": 971.813,
+      "end_time": 974.213,
+      "duration": 2.3999999999999773,
+      "dialogue_text": "-¿Desde hace cuanto? -Hace cerca de un mes."
+    },
+    {
+      "subtitle_index": 126,
+      "start_time": 994.287,
+      "end_time": 997.987,
+      "duration": 3.699999999999932,
+      "dialogue_text": "Taro. América está llena de automóviles."
+    },
+    {
+      "subtitle_index": 127,
+      "start_time": 998.887,
+      "end_time": 1003.287,
+      "duration": 4.400000000000091,
+      "dialogue_text": "Debo tener mucho cuidado al cruzar las calles…"
+    },
+    {
+      "subtitle_index": 128,
+      "start_time": 1003.887,
+      "end_time": 1007.087,
+      "duration": 3.2000000000000455,
+      "dialogue_text": "Porque hay coches por todas partes…"
+    },
+    {
+      "subtitle_index": 129,
+      "start_time": 1007.387,
+      "end_time": 1011.287,
+      "duration": 3.900000000000091,
+      "dialogue_text": "Taro, ¿Te estás portando bien y obedeciendo a tu madre?"
+    },
+    {
+      "subtitle_index": 130,
+      "start_time": 1012.187,
+      "end_time": 1013.787,
+      "duration": 1.6000000000000227,
+      "dialogue_text": "Te echo de menos."
+    },
+    {
+      "subtitle_index": 131,
+      "start_time": 1021.919,
+      "end_time": 1022.917,
+      "duration": 0.9980000000000473,
+      "dialogue_text": "Fujita."
+    },
+    {
+      "subtitle_index": 132,
+      "start_time": 1023.89,
+      "end_time": 1026.89,
+      "duration": 3.0000000000001137,
+      "dialogue_text": "Hay que desalojar a los civiles lo antes posible."
+    },
+    {
+      "subtitle_index": 133,
+      "start_time": 1028.39,
+      "end_time": 1030.09,
+      "duration": 1.699999999999818,
+      "dialogue_text": "A sus órdenes, señor."
+    },
+    {
+      "subtitle_index": 134,
+      "start_time": 1091.522,
+      "end_time": 1099.122,
+      "duration": 7.600000000000136,
+      "dialogue_text": "-Hanako, tenemos aquí a un famoso, -El Barón Nishi, medalla de oro en salto."
+    },
+    {
+      "subtitle_index": 135,
+      "start_time": 1100.722,
+      "end_time": 1103.322,
+      "duration": 2.599999999999909,
+      "dialogue_text": "Dirigirá al regimiento 26 de artillería."
+    },
+    {
+      "subtitle_index": 136,
+      "start_time": 1104.422,
+      "end_time": 1107.022,
+      "duration": 2.599999999999909,
+      "dialogue_text": "Acaba de llegar de Tokio."
+    },
+    {
+      "subtitle_index": 137,
+      "start_time": 1122.158,
+      "end_time": 1126.658,
+      "duration": 4.5,
+      "dialogue_text": "Es muy apuesto. Y se rumorea que es un mujeriego."
+    },
+    {
+      "subtitle_index": 138,
+      "start_time": 1128.758,
+      "end_time": 1132.158,
+      "duration": 3.3999999999998636,
+      "dialogue_text": "Pero en esta isla no hay mujeres que pueda cortejar."
+    },
+    {
+      "subtitle_index": 139,
+      "start_time": 1158.127,
+      "end_time": 1161.427,
+      "duration": 3.2999999999999545,
+      "dialogue_text": "Teniente Coronel Nishi... Ha traído su caballo."
+    },
+    {
+      "subtitle_index": 140,
+      "start_time": 1161.727,
+      "end_time": 1163.127,
+      "duration": 1.3999999999998636,
+      "dialogue_text": "Desde chichi Jima…"
+    },
+    {
+      "subtitle_index": 141,
+      "start_time": 1168.753,
+      "end_time": 1171.753,
+      "duration": 3.0,
+      "dialogue_text": "-Yo también estuve en la caballería. -Ya lo sé."
+    },
+    {
+      "subtitle_index": 142,
+      "start_time": 1171.891,
+      "end_time": 1179.791,
+      "duration": 7.899999999999864,
+      "dialogue_text": "-Estaba deseando servir a sus órdenes. -Usted entiende a los caballos como yo."
+    },
+    {
+      "subtitle_index": 143,
+      "start_time": 1180.191,
+      "end_time": 1184.391,
+      "duration": 4.2000000000000455,
+      "dialogue_text": "Cuando recorríamos a caballos el campo de batalla..."
+    },
+    {
+      "subtitle_index": 144,
+      "start_time": 1184.491,
+      "end_time": 1190.091,
+      "duration": 5.599999999999909,
+      "dialogue_text": "-Aquellos sí que eran bonitos días. -No como con estas maquinas…"
+    },
+    {
+      "subtitle_index": 145,
+      "start_time": 1191.291,
+      "end_time": 1195.691,
+      "duration": 4.400000000000091,
+      "dialogue_text": "-Podría pedir otro caballo. -Para montar juntos."
+    },
+    {
+      "subtitle_index": 146,
+      "start_time": 1199.291,
+      "end_time": 1204.491,
+      "duration": 5.2000000000000455,
+      "dialogue_text": "Pero hábleme de ese famoso caballo, con el que gano las olimpiadas."
+    },
+    {
+      "subtitle_index": 147,
+      "start_time": 1204.791,
+      "end_time": 1206.291,
+      "duration": 1.5,
+      "dialogue_text": "Mi semental, Urano."
+    },
+    {
+      "subtitle_index": 148,
+      "start_time": 1217.751,
+      "end_time": 1221.751,
+      "duration": 4.0,
+      "dialogue_text": "Oh, sí. Tenía un dorso precioso el caballo."
+    },
+    {
+      "subtitle_index": 149,
+      "start_time": 1224.408,
+      "end_time": 1226.908,
+      "duration": 2.5,
+      "dialogue_text": "Lo compre en Italia..."
+    },
+    {
+      "subtitle_index": 150,
+      "start_time": 1227.204,
+      "end_time": 1234.604,
+      "duration": 7.400000000000091,
+      "dialogue_text": "Se alegraron de librarse de él. Era un animal muy salvaje."
+    },
+    {
+      "subtitle_index": 151,
+      "start_time": 1234.704,
+      "end_time": 1238.904,
+      "duration": 4.2000000000000455,
+      "dialogue_text": "Nadie podía domarlo. Pero yo les dije..."
+    },
+    {
+      "subtitle_index": 152,
+      "start_time": 1239.704,
+      "end_time": 1243.304,
+      "duration": 3.6000000000001364,
+      "dialogue_text": "Que un caballo tan testarudo, Era perfecto para mí."
+    },
+    {
+      "subtitle_index": 153,
+      "start_time": 1247.604,
+      "end_time": 1250.004,
+      "duration": 2.3999999999998636,
+      "dialogue_text": "Cene conmigo hoy. Me apetece una copa."
+    },
+    {
+      "subtitle_index": 154,
+      "start_time": 1251.404,
+      "end_time": 1253.504,
+      "duration": 2.099999999999909,
+      "dialogue_text": "Sera un honor para mí."
+    },
+    {
+      "subtitle_index": 155,
+      "start_time": 1262.498,
+      "end_time": 1267.598,
+      "duration": 5.099999999999909,
+      "dialogue_text": "¿Cómo consiguió el Johnny Walker? Ya me he bebido algo."
+    },
+    {
+      "subtitle_index": 156,
+      "start_time": 1273.583,
+      "end_time": 1276.083,
+      "duration": 2.5,
+      "dialogue_text": "Lo siento. Esto es todo lo que tenemos."
+    },
+    {
+      "subtitle_index": 157,
+      "start_time": 1276.583,
+      "end_time": 1278.624,
+      "duration": 2.04099999999994,
+      "dialogue_text": "Da igual, mientras tengamos esto."
+    },
+    {
+      "subtitle_index": 158,
+      "start_time": 1282.938,
+      "end_time": 1284.644,
+      "duration": 1.7059999999999036,
+      "dialogue_text": "¿Y este plato vacio?"
+    },
+    {
+      "subtitle_index": 159,
+      "start_time": 1285.768,
+      "end_time": 1290.327,
+      "duration": 4.558999999999969,
+      "dialogue_text": "Dije al cocinero que los oficiales comerían lo mismo que los soldados."
+    },
+    {
+      "subtitle_index": 160,
+      "start_time": 1290.637,
+      "end_time": 1293.537,
+      "duration": 2.900000000000091,
+      "dialogue_text": "Los siento señor hay que servir tres platos."
+    },
+    {
+      "subtitle_index": 161,
+      "start_time": 1294.537,
+      "end_time": 1298.454,
+      "duration": 3.9169999999999163,
+      "dialogue_text": "Sin embargo, tenemos derecho a comer más de tres platos."
+    },
+    {
+      "subtitle_index": 162,
+      "start_time": 1298.554,
+      "end_time": 1300.758,
+      "duration": 2.203999999999951,
+      "dialogue_text": "Tienes mucha razón."
+    },
+    {
+      "subtitle_index": 163,
+      "start_time": 1311.049,
+      "end_time": 1317.748,
+      "duration": 6.699000000000069,
+      "dialogue_text": "La verdad, es una lástima haber perdido casi toda la flota."
+    },
+    {
+      "subtitle_index": 164,
+      "start_time": 1318.787,
+      "end_time": 1320.845,
+      "duration": 2.0579999999999927,
+      "dialogue_text": "Aun disponemos de algunos acorazados."
+    },
+    {
+      "subtitle_index": 165,
+      "start_time": 1320.945,
+      "end_time": 1326.312,
+      "duration": 5.366999999999962,
+      "dialogue_text": "Pero tenemos pocas fuerza de ataque tanto aérea como naval."
+    },
+    {
+      "subtitle_index": 166,
+      "start_time": 1326.974,
+      "end_time": 1328.841,
+      "duration": 1.8669999999999618,
+      "dialogue_text": "Nishi, ¿Qué quiere decir?"
+    },
+    {
+      "subtitle_index": 167,
+      "start_time": 1332.032,
+      "end_time": 1336.569,
+      "duration": 4.537000000000035,
+      "dialogue_text": "¿No sabe lo de la batalla en las Marianas?"
+    },
+    {
+      "subtitle_index": 168,
+      "start_time": 1337.831,
+      "end_time": 1343.088,
+      "duration": 5.257000000000062,
+      "dialogue_text": "El Portaaviones del Almirante Ozawa Y los aviones fueron destruidos."
+    },
+    {
+      "subtitle_index": 169,
+      "start_time": 1345.17,
+      "end_time": 1346.676,
+      "duration": 1.5059999999998581,
+      "dialogue_text": "El Cuartel General Imperial…"
+    },
+    {
+      "subtitle_index": 170,
+      "start_time": 1347.423,
+      "end_time": 1350.369,
+      "duration": 2.9459999999999127,
+      "dialogue_text": "…no solo engaña al pueblo, sino también a nosotros."
+    },
+    {
+      "subtitle_index": 171,
+      "start_time": 1350.737,
+      "end_time": 1353.229,
+      "duration": 2.491999999999962,
+      "dialogue_text": "En mi sincera opinión, General."
+    },
+    {
+      "subtitle_index": 172,
+      "start_time": 1355.124,
+      "end_time": 1357.162,
+      "duration": 2.038000000000011,
+      "dialogue_text": "Lo mejor seria."
+    },
+    {
+      "subtitle_index": 173,
+      "start_time": 1357.922,
+      "end_time": 1363.222,
+      "duration": 5.2999999999999545,
+      "dialogue_text": "Hundir esta isla, Enviándola al fondo del mar."
+    },
+    {
+      "subtitle_index": 174,
+      "start_time": 1364.73,
+      "end_time": 1367.14,
+      "duration": 2.410000000000082,
+      "dialogue_text": "¿Y aun así ha vencido?"
+    },
+    {
+      "subtitle_index": 175,
+      "start_time": 1369.912,
+      "end_time": 1376.887,
+      "duration": 6.974999999999909,
+      "dialogue_text": "Bueno, supuse que tus hombres necesitan todos los tanques que pudiera traer."
+    },
+    {
+      "subtitle_index": 176,
+      "start_time": 1425.489,
+      "end_time": 1426.934,
+      "duration": 1.4449999999999363,
+      "dialogue_text": "Aquí debe de ser."
+    },
+    {
+      "subtitle_index": 177,
+      "start_time": 1427.234,
+      "end_time": 1429.171,
+      "duration": 1.9370000000001255,
+      "dialogue_text": "El enemigo desembarcara aquí."
+    },
+    {
+      "subtitle_index": 178,
+      "start_time": 1432.007,
+      "end_time": 1434.492,
+      "duration": 2.4849999999999,
+      "dialogue_text": "¡Corra! ¡Corra!"
+    },
+    {
+      "subtitle_index": 179,
+      "start_time": 1436.854,
+      "end_time": 1438.199,
+      "duration": 1.3450000000000273,
+      "dialogue_text": "Como si fuera un americano."
+    },
+    {
+      "subtitle_index": 180,
+      "start_time": 1438.727,
+      "end_time": 1440.421,
+      "duration": 1.69399999999996,
+      "dialogue_text": "¡Vamos! ¿En qué dirección iría?"
+    },
+    {
+      "subtitle_index": 181,
+      "start_time": 1452.515,
+      "end_time": 1455.714,
+      "duration": 3.1989999999998417,
+      "dialogue_text": "Siga corriendo. Hacia uno y otro lado."
+    },
+    {
+      "subtitle_index": 182,
+      "start_time": 1459.598,
+      "end_time": 1463.123,
+      "duration": 3.525000000000091,
+      "dialogue_text": "Siga corriendo... no se detenga."
+    },
+    {
+      "subtitle_index": 183,
+      "start_time": 1469.515,
+      "end_time": 1473.714,
+      "duration": 4.198999999999842,
+      "dialogue_text": "Eh, tu general se ha vuelto loco."
+    },
+    {
+      "subtitle_index": 184,
+      "start_time": 1477.858,
+      "end_time": 1479.582,
+      "duration": 1.72400000000016,
+      "dialogue_text": "Mira que pistola lleva."
+    },
+    {
+      "subtitle_index": 185,
+      "start_time": 1484.224,
+      "end_time": 1486.997,
+      "duration": 2.7730000000001382,
+      "dialogue_text": "Se la quitaría a algún americano muerto."
+    },
+    {
+      "subtitle_index": 186,
+      "start_time": 1488.397,
+      "end_time": 1489.797,
+      "duration": 1.400000000000091,
+      "dialogue_text": "Tal vez."
+    },
+    {
+      "subtitle_index": 187,
+      "start_time": 1497.886,
+      "end_time": 1499.14,
+      "duration": 1.2540000000001328,
+      "dialogue_text": "Se termino el descanso."
+    },
+    {
+      "subtitle_index": 188,
+      "start_time": 1500.01,
+      "end_time": 1501.81,
+      "duration": 1.7999999999999545,
+      "dialogue_text": "A volver trabajar."
+    },
+    {
+      "subtitle_index": 189,
+      "start_time": 1505.619,
+      "end_time": 1507.247,
+      "duration": 1.6280000000001564,
+      "dialogue_text": "¿Estás bien, Kashiwara?"
+    },
+    {
+      "subtitle_index": 190,
+      "start_time": 1508.042,
+      "end_time": 1509.619,
+      "duration": 1.5769999999999982,
+      "dialogue_text": "Estas muy pálido."
+    },
+    {
+      "subtitle_index": 191,
+      "start_time": 1511.508,
+      "end_time": 1513.393,
+      "duration": 1.884999999999991,
+      "dialogue_text": "Estoy bien, es esta maldita agua."
+    },
+    {
+      "subtitle_index": 192,
+      "start_time": 1514.379,
+      "end_time": 1519.379,
+      "duration": 5.0,
+      "dialogue_text": "Pero... tengo... que ir al baño."
+    },
+    {
+      "subtitle_index": 193,
+      "start_time": 1537.374,
+      "end_time": 1539.948,
+      "duration": 2.574000000000069,
+      "dialogue_text": "Habrá un cambio de estrategia."
+    },
+    {
+      "subtitle_index": 194,
+      "start_time": 1540.216,
+      "end_time": 1545.641,
+      "duration": 5.425000000000182,
+      "dialogue_text": "Haremos cuevas y túneles en el Motoyama. El Higashiyama y el Suribachiyama."
+    },
+    {
+      "subtitle_index": 195,
+      "start_time": 1545.741,
+      "end_time": 1549.912,
+      "duration": 4.171000000000049,
+      "dialogue_text": "Haremos fortificaciones subterráneas, y lucharemos hasta el fin."
+    },
+    {
+      "subtitle_index": 196,
+      "start_time": 1550.012,
+      "end_time": 1553.709,
+      "duration": 3.6970000000001164,
+      "dialogue_text": "-¿Y las defensas de la playa? -No son necesarias."
+    },
+    {
+      "subtitle_index": 197,
+      "start_time": 1555.009,
+      "end_time": 1558.67,
+      "duration": 3.661000000000058,
+      "dialogue_text": "Pero, Señor Son nuestras primeras líneas de defensa."
+    },
+    {
+      "subtitle_index": 198,
+      "start_time": 1558.77,
+      "end_time": 1562.104,
+      "duration": 3.33400000000006,
+      "dialogue_text": "Sin esas trincheras, ¿Cómo quiere que ganemos?"
+    },
+    {
+      "subtitle_index": 199,
+      "start_time": 1562.533,
+      "end_time": 1567.243,
+      "duration": 4.710000000000036,
+      "dialogue_text": "Hayashi. ¿Sabe cuántos coches se fabrican en América en un año?"
+    },
+    {
+      "subtitle_index": 200,
+      "start_time": 1567.412,
+      "end_time": 1568.676,
+      "duration": 1.2639999999998963,
+      "dialogue_text": "Cinco millones"
+    },
+    {
+      "subtitle_index": 201,
+      "start_time": 1569.792,
+      "end_time": 1575.07,
+      "duration": 5.27800000000002,
+      "dialogue_text": "No subestimaremos la tecnología americana."
+    },
+    {
+      "subtitle_index": 202,
+      "start_time": 1569.476,
+      "end_time": 1579.271,
+      "duration": 9.794999999999845,
+      "dialogue_text": "Tarde o temprano, cruzaran las playas. Si los soldados mueren aquí, no ganaremos."
+    },
+    {
+      "subtitle_index": 203,
+      "start_time": 1579.471,
+      "end_time": 1581.108,
+      "duration": 1.6369999999999436,
+      "dialogue_text": "Es inevitable que mueran hombres."
+    },
+    {
+      "subtitle_index": 204,
+      "start_time": 1582.046,
+      "end_time": 1584.992,
+      "duration": 2.9459999999999127,
+      "dialogue_text": "Pero una isla no se defiende sin defender la playa."
+    },
+    {
+      "subtitle_index": 205,
+      "start_time": 1585.359,
+      "end_time": 1588.991,
+      "duration": 3.632000000000062,
+      "dialogue_text": "Empezar a cavar túneles ahora, sería perder el tiempo."
+    },
+    {
+      "subtitle_index": 206,
+      "start_time": 1589.191,
+      "end_time": 1592.964,
+      "duration": 3.772999999999911,
+      "dialogue_text": "Debemos atraer al enemigo. Y lanzar un ataque por mar y aire."
+    },
+    {
+      "subtitle_index": 207,
+      "start_time": 1593.064,
+      "end_time": 1599.504,
+      "duration": 6.439999999999827,
+      "dialogue_text": "Estoy de acuerdo, es lo más lógico. Ohsugi, ¿La Armada lo sabe?"
+    },
+    {
+      "subtitle_index": 208,
+      "start_time": 1603.904,
+      "end_time": 1607.228,
+      "duration": 3.324000000000069,
+      "dialogue_text": "La flota fue destruida en las Marianas."
+    },
+    {
+      "subtitle_index": 209,
+      "start_time": 1607.456,
+      "end_time": 1610.345,
+      "duration": 2.8890000000001237,
+      "dialogue_text": "Estamos aislados en esta isla."
+    },
+    {
+      "subtitle_index": 210,
+      "start_time": 1615.264,
+      "end_time": 1619.194,
+      "duration": 3.9300000000000637,
+      "dialogue_text": "Es más, esta mañana recibí ordenes del Cuartel General imperial."
+    },
+    {
+      "subtitle_index": 211,
+      "start_time": 1619.294,
+      "end_time": 1621.471,
+      "duration": 2.1769999999999072,
+      "dialogue_text": "Los aviones restantes eran enviados a Tokio para detenerlo."
+    },
+    {
+      "subtitle_index": 212,
+      "start_time": 1621.671,
+      "end_time": 1626.448,
+      "duration": 4.777000000000044,
+      "dialogue_text": "-¡Qué barbaridad! -¿Y cómo lucharemos?"
+    },
+    {
+      "subtitle_index": 213,
+      "start_time": 1630.475,
+      "end_time": 1634.281,
+      "duration": 3.80600000000004,
+      "dialogue_text": "No hay tiempo para discusiones. Es hora de volver."
+    },
+    {
+      "subtitle_index": 214,
+      "start_time": 1667.311,
+      "end_time": 1673.284,
+      "duration": 5.973000000000184,
+      "dialogue_text": "-¡Querida mama!... Hoy me han enviado a otra compañía"
+    },
+    {
+      "subtitle_index": 215,
+      "start_time": 1675.053,
+      "end_time": 1679.066,
+      "duration": 4.01299999999992,
+      "dialogue_text": "Ahora no puedo hablar de este traslado."
+    },
+    {
+      "subtitle_index": 216,
+      "start_time": 1680.151,
+      "end_time": 1681.751,
+      "duration": 1.599999999999909,
+      "dialogue_text": "Cuídate mucho."
+    },
+    {
+      "subtitle_index": 217,
+      "start_time": 1696.218,
+      "end_time": 1697.979,
+      "duration": 1.7609999999999673,
+      "dialogue_text": "Mira esta foto."
+    },
+    {
+      "subtitle_index": 218,
+      "start_time": 1700.028,
+      "end_time": 1702.155,
+      "duration": 2.1269999999999527,
+      "dialogue_text": "Es un castillo precioso."
+    },
+    {
+      "subtitle_index": 219,
+      "start_time": 1703.726,
+      "end_time": 1706.418,
+      "duration": 2.69199999999978,
+      "dialogue_text": "¿Sabes para quien lo construyeron?"
+    },
+    {
+      "subtitle_index": 220,
+      "start_time": 1707.218,
+      "end_time": 1709.049,
+      "duration": 1.8309999999999036,
+      "dialogue_text": "Para uno que había muerto."
+    },
+    {
+      "subtitle_index": 221,
+      "start_time": 1711.139,
+      "end_time": 1716.707,
+      "duration": 5.568000000000211,
+      "dialogue_text": "Debían de tener mucho dinero. Para hacer eso para un muerto."
+    },
+    {
+      "subtitle_index": 222,
+      "start_time": 1717.809,
+      "end_time": 1723.753,
+      "duration": 5.94399999999996,
+      "dialogue_text": "¿Por qué lees ese libro? Nunca iremos a luchar allí."
+    },
+    {
+      "subtitle_index": 223,
+      "start_time": 1724.559,
+      "end_time": 1727.942,
+      "duration": 3.383000000000038,
+      "dialogue_text": "Nosotros tendremos suerte, si nos cavan una fosa."
+    },
+    {
+      "subtitle_index": 224,
+      "start_time": 1728.219,
+      "end_time": 1730.576,
+      "duration": 2.356999999999971,
+      "dialogue_text": "No hables de eso, da mala suerte."
+    },
+    {
+      "subtitle_index": 225,
+      "start_time": 1735.983,
+      "end_time": 1737.604,
+      "duration": 1.6210000000000946,
+      "dialogue_text": "¿Este es el 312?"
+    },
+    {
+      "subtitle_index": 226,
+      "start_time": 1737.639,
+      "end_time": 1743.187,
+      "duration": 5.548000000000002,
+      "dialogue_text": "-Así es. -Soy Nozaki, Y ese es Saigo."
+    },
+    {
+      "subtitle_index": 227,
+      "start_time": 1743.672,
+      "end_time": 1744.905,
+      "duration": 1.2329999999999472,
+      "dialogue_text": "Yo soy Shimizu"
+    },
+    {
+      "subtitle_index": 228,
+      "start_time": 1745.209,
+      "end_time": 1748.243,
+      "duration": 3.033999999999878,
+      "dialogue_text": "Shimizu. Puedes extender el saco aquí."
+    },
+    {
+      "subtitle_index": 229,
+      "start_time": 1752.816,
+      "end_time": 1755.676,
+      "duration": 2.8599999999999,
+      "dialogue_text": "Hay más hueco atrás también."
+    },
+    {
+      "subtitle_index": 230,
+      "start_time": 1756.385,
+      "end_time": 1757.393,
+      "duration": 1.0080000000000382,
+      "dialogue_text": "No le hagas caso."
+    },
+    {
+      "subtitle_index": 231,
+      "start_time": 1758.893,
+      "end_time": 1762.449,
+      "duration": 3.55600000000004,
+      "dialogue_text": "Su amigo Kashiwara acaba de morir."
+    },
+    {
+      "subtitle_index": 232,
+      "start_time": 1763.223,
+      "end_time": 1765.071,
+      "duration": 1.8479999999999563,
+      "dialogue_text": "Y solía dormir ahí."
+    },
+    {
+      "subtitle_index": 233,
+      "start_time": 1772.661,
+      "end_time": 1777.113,
+      "duration": 4.451999999999998,
+      "dialogue_text": "-Pero todos moriremos. -Ese es el plan, ¿no?"
+    },
+    {
+      "subtitle_index": 234,
+      "start_time": 1779.637,
+      "end_time": 1782.131,
+      "duration": 2.494000000000142,
+      "dialogue_text": "Morir por la patria es un honor."
+    },
+    {
+      "subtitle_index": 235,
+      "start_time": 1783.839,
+      "end_time": 1786.064,
+      "duration": 2.2250000000001364,
+      "dialogue_text": "Kashiwara murió de honorable disentería."
+    },
+    {
+      "subtitle_index": 236,
+      "start_time": 1787.555,
+      "end_time": 1793.628,
+      "duration": 6.072999999999865,
+      "dialogue_text": "-Shimizu, ¿De dónde eres? -De Kanagawa-ken."
+    },
+    {
+      "subtitle_index": 237,
+      "start_time": 1795.322,
+      "end_time": 1797.431,
+      "duration": 2.109000000000151,
+      "dialogue_text": "Ozawa también es de allí, ¿no?"
+    },
+    {
+      "subtitle_index": 238,
+      "start_time": 1798.682,
+      "end_time": 1800.074,
+      "duration": 1.3920000000000528,
+      "dialogue_text": "Así es."
+    },
+    {
+      "subtitle_index": 239,
+      "start_time": 1803.971,
+      "end_time": 1805.952,
+      "duration": 1.9809999999999945,
+      "dialogue_text": "¿Dónde te entrenaron?"
+    },
+    {
+      "subtitle_index": 240,
+      "start_time": 1806.431,
+      "end_time": 1809.654,
+      "duration": 3.2229999999999563,
+      "dialogue_text": "-Tal vez estuvimos en el mismo centro. -No."
+    },
+    {
+      "subtitle_index": 241,
+      "start_time": 1810.382,
+      "end_time": 1813.717,
+      "duration": 3.3350000000000364,
+      "dialogue_text": "Me entrenaron en Tokio."
+    },
+    {
+      "subtitle_index": 242,
+      "start_time": 1814.694,
+      "end_time": 1817.662,
+      "duration": 2.9680000000000746,
+      "dialogue_text": "A mí también ¿Dónde?"
+    },
+    {
+      "subtitle_index": 243,
+      "start_time": 1824.529,
+      "end_time": 1827.581,
+      "duration": 3.0519999999999072,
+      "dialogue_text": "En el Koho Kimmu Yoin Yoseijo."
+    },
+    {
+      "subtitle_index": 244,
+      "start_time": 1838.415,
+      "end_time": 1843.326,
+      "duration": 4.911000000000058,
+      "dialogue_text": "Oye, ¿Qué hará aquí un Kempeitai?"
+    },
+    {
+      "subtitle_index": 245,
+      "start_time": 1843.526,
+      "end_time": 1845.29,
+      "duration": 1.7639999999998963,
+      "dialogue_text": "No lo sé."
+    },
+    {
+      "subtitle_index": 246,
+      "start_time": 1849.378,
+      "end_time": 1852.328,
+      "duration": 2.9500000000000455,
+      "dialogue_text": "No lleva brazalete blanco No es un Kempeitai."
+    },
+    {
+      "subtitle_index": 247,
+      "start_time": 1854.278,
+      "end_time": 1856.403,
+      "duration": 2.125,
+      "dialogue_text": "Fue a la academia de Kempeitai."
+    },
+    {
+      "subtitle_index": 248,
+      "start_time": 1857.608,
+      "end_time": 1859.974,
+      "duration": 2.3659999999999854,
+      "dialogue_text": "Puede que lo hayan expulsado."
+    },
+    {
+      "subtitle_index": 249,
+      "start_time": 1863.289,
+      "end_time": 1865.727,
+      "duration": 2.438000000000102,
+      "dialogue_text": "Actúa como un Kempeitai."
+    },
+    {
+      "subtitle_index": 250,
+      "start_time": 1869.955,
+      "end_time": 1877.906,
+      "duration": 7.951000000000022,
+      "dialogue_text": "-Mira su funda, no es oficial. -Lo han mandado para espiarnos."
+    },
+    {
+      "subtitle_index": 251,
+      "start_time": 1879.545,
+      "end_time": 1882.695,
+      "duration": 3.1499999999998636,
+      "dialogue_text": "¿Porque iba a espiarnos?"
+    },
+    {
+      "subtitle_index": 252,
+      "start_time": 1884.125,
+      "end_time": 1888.364,
+      "duration": 4.239000000000033,
+      "dialogue_text": "Puede que por esas cartas que has escrito."
+    },
+    {
+      "subtitle_index": 253,
+      "start_time": 1889.956,
+      "end_time": 1892.361,
+      "duration": 2.4050000000002,
+      "dialogue_text": "Deberías tener cuidado."
+    },
+    {
+      "subtitle_index": 254,
+      "start_time": 1918.181,
+      "end_time": 1920.751,
+      "duration": 2.5699999999999363,
+      "dialogue_text": "¿Otra vez sopa de algas?"
+    },
+    {
+      "subtitle_index": 255,
+      "start_time": 1922.419,
+      "end_time": 1926.357,
+      "duration": 3.9379999999998745,
+      "dialogue_text": "Kuribayashi guarda las provisiones para la batalla."
+    },
+    {
+      "subtitle_index": 256,
+      "start_time": 1926.855,
+      "end_time": 1930.823,
+      "duration": 3.9680000000000746,
+      "dialogue_text": "Moriremos de hambre antes de que lleguen los americanos."
+    },
+    {
+      "subtitle_index": 257,
+      "start_time": 1932.41,
+      "end_time": 1935.623,
+      "duration": 3.2129999999999654,
+      "dialogue_text": "Solo con mis contribuciones a la guerra."
+    },
+    {
+      "subtitle_index": 258,
+      "start_time": 1935.723,
+      "end_time": 1939.687,
+      "duration": 3.963999999999942,
+      "dialogue_text": "Deberíamos comer pasteles de Kasutera o sándwiches."
+    },
+    {
+      "subtitle_index": 259,
+      "start_time": 1942.689,
+      "end_time": 1947.848,
+      "duration": 5.158999999999878,
+      "dialogue_text": "Mi mujer y yo teníamos una panadería en Ohmiya."
+    },
+    {
+      "subtitle_index": 260,
+      "start_time": 1948.417,
+      "end_time": 1950.761,
+      "duration": 2.344000000000051,
+      "dialogue_text": "Cuando aun había azúcar."
+    },
+    {
+      "subtitle_index": 261,
+      "start_time": 1951.667,
+      "end_time": 1957.217,
+      "duration": 5.550000000000182,
+      "dialogue_text": "Vendíamos pan y pasteles de Kasutera."
+    },
+    {
+      "subtitle_index": 262,
+      "start_time": 1963.964,
+      "end_time": 1971.313,
+      "duration": 7.34900000000016,
+      "dialogue_text": "Pero sus hermanos Kempetai Venían y se llevaban lo que querían."
+    },
+    {
+      "subtitle_index": 263,
+      "start_time": 1974.922,
+      "end_time": 1980.347,
+      "duration": 5.4249999999999545,
+      "dialogue_text": "Para la guerra... Para la patria...."
+    },
+    {
+      "subtitle_index": 264,
+      "start_time": 1982.609,
+      "end_time": 1985.207,
+      "duration": 2.5980000000001837,
+      "dialogue_text": "¿Por qué pan?"
+    },
+    {
+      "subtitle_index": 265,
+      "start_time": 1987.491,
+      "end_time": 1993.282,
+      "duration": 5.79099999999994,
+      "dialogue_text": "Esos tipos también venían por nuestra tienda de ropa."
+    },
+    {
+      "subtitle_index": 266,
+      "start_time": 1995.37,
+      "end_time": 1997.617,
+      "duration": 2.247000000000071,
+      "dialogue_text": "Cuando comenzamos a hacer sándwiches."
+    },
+    {
+      "subtitle_index": 267,
+      "start_time": 1998.861,
+      "end_time": 2001.447,
+      "duration": 2.5859999999997854,
+      "dialogue_text": "También se los llevaban."
+    },
+    {
+      "subtitle_index": 268,
+      "start_time": 2003.163,
+      "end_time": 2007.119,
+      "duration": 3.9559999999999036,
+      "dialogue_text": "Y cuando nos quedamos sin carne, se llevaban el pan."
+    },
+    {
+      "subtitle_index": 269,
+      "start_time": 2011.867,
+      "end_time": 2018.389,
+      "duration": 6.5219999999999345,
+      "dialogue_text": "Al final se llevaron las bandejas metálicas para fundirlas."
+    },
+    {
+      "subtitle_index": 270,
+      "start_time": 2018.986,
+      "end_time": 2022.893,
+      "duration": 3.9069999999999254,
+      "dialogue_text": "Y tuvimos que cerrar el negocio."
+    },
+    {
+      "subtitle_index": 271,
+      "start_time": 2026.026,
+      "end_time": 2028.224,
+      "duration": 2.1979999999998654,
+      "dialogue_text": "Ojala hubiera sido pescador."
+    },
+    {
+      "subtitle_index": 272,
+      "start_time": 2031.115,
+      "end_time": 2033.922,
+      "duration": 2.8070000000000164,
+      "dialogue_text": "Debió ser difícil para tu mujer."
+    },
+    {
+      "subtitle_index": 273,
+      "start_time": 2036.326,
+      "end_time": 2040.062,
+      "duration": 3.7359999999998763,
+      "dialogue_text": "Quedarse sin negocio y sin marido."
+    },
+    {
+      "subtitle_index": 274,
+      "start_time": 2072.515,
+      "end_time": 2076.253,
+      "duration": 3.7380000000002838,
+      "dialogue_text": "Diles que se vayan. No tenemos nada que vender."
+    },
+    {
+      "subtitle_index": 275,
+      "start_time": 2082.368,
+      "end_time": 2086.041,
+      "duration": 3.673000000000229,
+      "dialogue_text": "¡Felicidades!, Tu marido se va a la guerra..."
+    },
+    {
+      "subtitle_index": 276,
+      "start_time": 2100.983,
+      "end_time": 2107.424,
+      "duration": 6.4409999999998035,
+      "dialogue_text": "Muchas gracias, será un honor servir a la patria."
+    },
+    {
+      "subtitle_index": 277,
+      "start_time": 2111.411,
+      "end_time": 2114.861,
+      "duration": 3.449999999999818,
+      "dialogue_text": "Rezamos por tu eterno éxito con las armas."
+    },
+    {
+      "subtitle_index": 278,
+      "start_time": 2115.312,
+      "end_time": 2120.553,
+      "duration": 5.2409999999999854,
+      "dialogue_text": "¡Se lo ruego! Solo nos tenemos el uno al otro."
+    },
+    {
+      "subtitle_index": 279,
+      "start_time": 2123.631,
+      "end_time": 2126.705,
+      "duration": 3.074000000000069,
+      "dialogue_text": "No es momento de eso."
+    },
+    {
+      "subtitle_index": 280,
+      "start_time": 2128.222,
+      "end_time": 2132.808,
+      "duration": 4.585999999999785,
+      "dialogue_text": "Todas hemos enviado a nuestros esposos e hijos a la guerra."
+    },
+    {
+      "subtitle_index": 281,
+      "start_time": 2133.569,
+      "end_time": 2138.044,
+      "duration": 4.474999999999909,
+      "dialogue_text": "Todos tenemos que poner de nuestra parte."
+    },
+    {
+      "subtitle_index": 282,
+      "start_time": 2141.656,
+      "end_time": 2145.518,
+      "duration": 3.86200000000008,
+      "dialogue_text": "Al menos tu hijo mantendrá vivo tu apellido…"
+    },
+    {
+      "subtitle_index": 283,
+      "start_time": 2154.82,
+      "end_time": 2155.983,
+      "duration": 1.163000000000011,
+      "dialogue_text": "Hanako..."
+    },
+    {
+      "subtitle_index": 284,
+      "start_time": 2157.898,
+      "end_time": 2160.277,
+      "duration": 2.3789999999999054,
+      "dialogue_text": "No puedo comer viéndote así."
+    },
+    {
+      "subtitle_index": 285,
+      "start_time": 2163.234,
+      "end_time": 2168.066,
+      "duration": 4.83199999999988,
+      "dialogue_text": "¿Qué voy a hacer cuando tú mueras?"
+    },
+    {
+      "subtitle_index": 286,
+      "start_time": 2173.937,
+      "end_time": 2176.466,
+      "duration": 2.5289999999999964,
+      "dialogue_text": "Aun no estoy muerto."
+    },
+    {
+      "subtitle_index": 287,
+      "start_time": 2178.962,
+      "end_time": 2182.894,
+      "duration": 3.931999999999789,
+      "dialogue_text": "Los hombres nunca vuelven. No ha vuelto ni un alma."
+    },
+    {
+      "subtitle_index": 288,
+      "start_time": 2185.063,
+      "end_time": 2187.946,
+      "duration": 2.882999999999811,
+      "dialogue_text": "No te dejaran volver a casa."
+    },
+    {
+      "subtitle_index": 289,
+      "start_time": 2189.444,
+      "end_time": 2195.581,
+      "duration": 6.137000000000171,
+      "dialogue_text": "-No te preocupes… -Y ahora, con el bebe..."
+    },
+    {
+      "subtitle_index": 290,
+      "start_time": 2218.676,
+      "end_time": 2223.142,
+      "duration": 4.4659999999998945,
+      "dialogue_text": "¿Me oyes?... Soy tu papa."
+    },
+    {
+      "subtitle_index": 291,
+      "start_time": 2226.103,
+      "end_time": 2227.509,
+      "duration": 1.405999999999949,
+      "dialogue_text": "Escucha."
+    },
+    {
+      "subtitle_index": 292,
+      "start_time": 2230.072,
+      "end_time": 2234.499,
+      "duration": 4.42699999999968,
+      "dialogue_text": "No digas a nadie lo que voy a decirte."
+    },
+    {
+      "subtitle_index": 293,
+      "start_time": 2236.178,
+      "end_time": 2237.927,
+      "duration": 1.749000000000251,
+      "dialogue_text": "Es un secreto."
+    },
+    {
+      "subtitle_index": 294,
+      "start_time": 2252.493,
+      "end_time": 2259.865,
+      "duration": 7.371999999999844,
+      "dialogue_text": "Tu papa, volverá a casa por ti."
+    },
+    {
+      "subtitle_index": 295,
+      "start_time": 2315.895,
+      "end_time": 2321.881,
+      "duration": 5.985999999999876,
+      "dialogue_text": "Dense prisa... ¡El enemigo se acerca!"
+    },
+    {
+      "subtitle_index": 296,
+      "start_time": 2331.044,
+      "end_time": 2333.792,
+      "duration": 2.7480000000000473,
+      "dialogue_text": "-Trae eso aquí. -¡Esto es ridículo!..."
+    },
+    {
+      "subtitle_index": 297,
+      "start_time": 2334.678,
+      "end_time": 2337.449,
+      "duration": 2.7710000000001855,
+      "dialogue_text": "¿Por qué perdemos el tiempo cavando?"
+    },
+    {
+      "subtitle_index": 298,
+      "start_time": 2337.804,
+      "end_time": 2339.616,
+      "duration": 1.8119999999998981,
+      "dialogue_text": "De todos modos, morirán todos."
+    },
+    {
+      "subtitle_index": 299,
+      "start_time": 2340.246,
+      "end_time": 2344.009,
+      "duration": 3.76299999999992,
+      "dialogue_text": "Al menos accedió a lo de los nidos de ametralladora en la playa."
+    },
+    {
+      "subtitle_index": 300,
+      "start_time": 2356.78,
+      "end_time": 2358.47,
+      "duration": 1.6899999999995998,
+      "dialogue_text": "¿Quería verme, señor?"
+    },
+    {
+      "subtitle_index": 301,
+      "start_time": 2359.847,
+      "end_time": 2361.728,
+      "duration": 1.8809999999998581,
+      "dialogue_text": "¿Quiere una copa?"
+    },
+    {
+      "subtitle_index": 302,
+      "start_time": 2366.444,
+      "end_time": 2369.354,
+      "duration": 2.9099999999998545,
+      "dialogue_text": "Últimamente estas muy pálido."
+    },
+    {
+      "subtitle_index": 303,
+      "start_time": 2372.623,
+      "end_time": 2376.351,
+      "duration": 3.7280000000000655,
+      "dialogue_text": "Es el agua. Nunca me ha sentado bien."
+    },
+    {
+      "subtitle_index": 304,
+      "start_time": 2376.635,
+      "end_time": 2377.883,
+      "duration": 1.2479999999995925,
+      "dialogue_text": "Eso es malo."
+    },
+    {
+      "subtitle_index": 305,
+      "start_time": 2379.504,
+      "end_time": 2382.687,
+      "duration": 3.1829999999999927,
+      "dialogue_text": "¿Por qué no vuelve a Tokio para recuperarse?"
+    },
+    {
+      "subtitle_index": 306,
+      "start_time": 2383.942,
+      "end_time": 2388.813,
+      "duration": 4.871000000000095,
+      "dialogue_text": "He encargado al Almirante Ichimaru que lo sustituya."
+    },
+    {
+      "subtitle_index": 307,
+      "start_time": 2390.146,
+      "end_time": 2392.239,
+      "duration": 2.092999999999847,
+      "dialogue_text": "Perdemos el tiempo con esos túneles."
+    },
+    {
+      "subtitle_index": 308,
+      "start_time": 2393.107,
+      "end_time": 2397.424,
+      "duration": 4.317000000000007,
+      "dialogue_text": "General, la isla no aguantará 5 días sin el apoyo de la flota."
+    },
+    {
+      "subtitle_index": 309,
+      "start_time": 2398.781,
+      "end_time": 2401.969,
+      "duration": 3.188000000000102,
+      "dialogue_text": "Debemos luchar hasta la muerte."
+    },
+    {
+      "subtitle_index": 310,
+      "start_time": 2402.472,
+      "end_time": 2407.107,
+      "duration": 4.6349999999997635,
+      "dialogue_text": "Tal vez cavar túneles sea inútil."
+    },
+    {
+      "subtitle_index": 311,
+      "start_time": 2407.307,
+      "end_time": 2411.687,
+      "duration": 4.380000000000109,
+      "dialogue_text": "Tal vez resistir en Iwo Jima sea inútil."
+    },
+    {
+      "subtitle_index": 312,
+      "start_time": 2412.029,
+      "end_time": 2414.134,
+      "duration": 2.105000000000018,
+      "dialogue_text": "Tal vez toda esta guerra sea inútil."
+    },
+    {
+      "subtitle_index": 313,
+      "start_time": 2414.334,
+      "end_time": 2415.992,
+      "duration": 1.6580000000003565,
+      "dialogue_text": "Pero ¿vamos a rendirnos?"
+    },
+    {
+      "subtitle_index": 314,
+      "start_time": 2416.392,
+      "end_time": 2421.023,
+      "duration": 4.631000000000313,
+      "dialogue_text": "¡Defenderemos esto hasta el fin! ¡Hasta la muerte!"
+    },
+    {
+      "subtitle_index": 315,
+      "start_time": 2421.704,
+      "end_time": 2425.994,
+      "duration": 4.289999999999964,
+      "dialogue_text": "Si nuestros hijos viven seguros un día más…"
+    },
+    {
+      "subtitle_index": 316,
+      "start_time": 2426.394,
+      "end_time": 2430.191,
+      "duration": 3.7970000000000255,
+      "dialogue_text": "…valdrá la pena defender ésta isla un día más."
+    },
+    {
+      "subtitle_index": 317,
+      "start_time": 2430.398,
+      "end_time": 2436.725,
+      "duration": 6.326999999999771,
+      "dialogue_text": "Ohsugi, si le queda una pizca orgullo de oficial…"
+    },
+    {
+      "subtitle_index": 318,
+      "start_time": 2437.025,
+      "end_time": 2443.147,
+      "duration": 6.121999999999844,
+      "dialogue_text": "…le ruego, que vaya al Cuartel General y pida apoyo."
+    },
+    {
+      "subtitle_index": 319,
+      "start_time": 2466.945,
+      "end_time": 2471.104,
+      "duration": 4.158999999999651,
+      "dialogue_text": "¿Entonces el rumor es cierto? No me lo creía."
+    },
+    {
+      "subtitle_index": 320,
+      "start_time": 2471.9,
+      "end_time": 2476.017,
+      "duration": 4.116999999999734,
+      "dialogue_text": "Me alegro de dejar esta isla."
+    },
+    {
+      "subtitle_index": 321,
+      "start_time": 2477.679,
+      "end_time": 2483.933,
+      "duration": 6.253999999999905,
+      "dialogue_text": "Hemos tenido diferencias. Pero lamento que se vaya."
+    },
+    {
+      "subtitle_index": 322,
+      "start_time": 2485.072,
+      "end_time": 2488.849,
+      "duration": 3.7770000000000437,
+      "dialogue_text": "General Hayashi, Ahora todo depende de usted."
+    },
+    {
+      "subtitle_index": 323,
+      "start_time": 2489.846,
+      "end_time": 2494.881,
+      "duration": 5.0349999999998545,
+      "dialogue_text": "Kuribayashi, debería estar en un despacho, no dirigiendo una guerra."
+    },
+    {
+      "subtitle_index": 324,
+      "start_time": 2509.262,
+      "end_time": 2514.907,
+      "duration": 5.644999999999982,
+      "dialogue_text": "Le entiendo, muchos estamos de acuerdo con usted, señor."
+    },
+    {
+      "subtitle_index": 325,
+      "start_time": 2515.901,
+      "end_time": 2521.793,
+      "duration": 5.89200000000028,
+      "dialogue_text": "Escuchen, es probable que los americanos desembarquen aquí."
+    },
+    {
+      "subtitle_index": 326,
+      "start_time": 2522.745,
+      "end_time": 2529.788,
+      "duration": 7.04300000000012,
+      "dialogue_text": "Las posiciones de fuego cruzado estarán aquí, aquí y aquí."
+    },
+    {
+      "subtitle_index": 327,
+      "start_time": 2530.964,
+      "end_time": 2538.704,
+      "duration": 7.7400000000002365,
+      "dialogue_text": "Es un hecho que nos superaran en número en todos los sectores."
+    },
+    {
+      "subtitle_index": 328,
+      "start_time": 2540.669,
+      "end_time": 2542.995,
+      "duration": 2.326000000000022,
+      "dialogue_text": "Pero tenemos una gran ventaja."
+    },
+    {
+      "subtitle_index": 329,
+      "start_time": 2543.492,
+      "end_time": 2546.272,
+      "duration": 2.7799999999997453,
+      "dialogue_text": "¿Alguien sabe cuál es?"
+    },
+    {
+      "subtitle_index": 330,
+      "start_time": 2551.658,
+      "end_time": 2554.607,
+      "duration": 2.949000000000069,
+      "dialogue_text": "Que los americano son inferiores a los japonés."
+    },
+    {
+      "subtitle_index": 331,
+      "start_time": 2554.707,
+      "end_time": 2558.285,
+      "duration": 3.5779999999999745,
+      "dialogue_text": "Muy bien, Shimizu. ¿Y por qué?"
+    },
+    {
+      "subtitle_index": 332,
+      "start_time": 2559.181,
+      "end_time": 2563.398,
+      "duration": 4.217000000000098,
+      "dialogue_text": "No son disciplinados, y dejan que sus emociones se interpongan."
+    },
+    {
+      "subtitle_index": 333,
+      "start_time": 2563.698,
+      "end_time": 2565.598,
+      "duration": 1.900000000000091,
+      "dialogue_text": "Correcto."
+    },
+    {
+      "subtitle_index": 334,
+      "start_time": 2568.656,
+      "end_time": 2571.518,
+      "duration": 2.86200000000008,
+      "dialogue_text": "Este es el uniforme de los médicos americanos."
+    },
+    {
+      "subtitle_index": 335,
+      "start_time": 2573.245,
+      "end_time": 2575.185,
+      "duration": 1.9400000000000546,
+      "dialogue_text": "Nuestro objetivo."
+    },
+    {
+      "subtitle_index": 336,
+      "start_time": 2575.285,
+      "end_time": 2580.169,
+      "duration": 4.8840000000000146,
+      "dialogue_text": "Los americanos arriesgaran la vida de mucho soldados por salvarlos."
+    },
+    {
+      "subtitle_index": 337,
+      "start_time": 2580.269,
+      "end_time": 2581.069,
+      "duration": 0.8000000000001819,
+      "dialogue_text": "Entendido."
+    },
+    {
+      "subtitle_index": 338,
+      "start_time": 2592.795,
+      "end_time": 2595.931,
+      "duration": 3.1359999999999673,
+      "dialogue_text": "General, ¿puedo hablar con usted?"
+    },
+    {
+      "subtitle_index": 339,
+      "start_time": 2598.247,
+      "end_time": 2601.937,
+      "duration": 3.6900000000000546,
+      "dialogue_text": "Por favor. Vigile al General Hayashi."
+    },
+    {
+      "subtitle_index": 340,
+      "start_time": 2602.801,
+      "end_time": 2608.4,
+      "duration": 5.59900000000016,
+      "dialogue_text": "Gracias por su preocupación, Nishi, pero no podemos perder el tiempo."
+    },
+    {
+      "subtitle_index": 341,
+      "start_time": 2608.863,
+      "end_time": 2612.409,
+      "duration": 3.5460000000002765,
+      "dialogue_text": "Debemos pensar que podemos hacer ahora mismo."
+    },
+    {
+      "subtitle_index": 342,
+      "start_time": 2615.26,
+      "end_time": 2618.154,
+      "duration": 2.893999999999778,
+      "dialogue_text": "Almirante Ichimaru."
+    },
+    {
+      "subtitle_index": 343,
+      "start_time": 2619.918,
+      "end_time": 2624.396,
+      "duration": 4.4780000000000655,
+      "dialogue_text": "-A sus órdenes, señor. -Discúlpenme."
+    },
+    {
+      "subtitle_index": 344,
+      "start_time": 2624.703,
+      "end_time": 2628.679,
+      "duration": 3.9760000000001128,
+      "dialogue_text": "Gracias por venir, y en tan poco tiempo."
+    },
+    {
+      "subtitle_index": 345,
+      "start_time": 2630.211,
+      "end_time": 2631.725,
+      "duration": 1.5140000000001237,
+      "dialogue_text": "¡Alerta...ataque aéreo!"
+    },
+    {
+      "subtitle_index": 346,
+      "start_time": 2755.531,
+      "end_time": 2757.935,
+      "duration": 2.4039999999999964,
+      "dialogue_text": "Júpiter."
+    },
+    {
+      "subtitle_index": 347,
+      "start_time": 2781.547,
+      "end_time": 2783.35,
+      "duration": 1.8029999999998836,
+      "dialogue_text": "Yamasaki, ¿qué haces ahí sentado? Ayúdanos."
+    },
+    {
+      "subtitle_index": 348,
+      "start_time": 2847.937,
+      "end_time": 2851.183,
+      "duration": 3.2460000000000946,
+      "dialogue_text": "Creo que hace un informe sobre nosotros."
+    },
+    {
+      "subtitle_index": 349,
+      "start_time": 2851.846,
+      "end_time": 2853.771,
+      "duration": 1.925000000000182,
+      "dialogue_text": "Sólo escribe una carta."
+    },
+    {
+      "subtitle_index": 350,
+      "start_time": 2854.071,
+      "end_time": 2859.771,
+      "duration": 5.700000000000273,
+      "dialogue_text": "Ya lleva aquí dos meses, Nozaki. Ya habría informado."
+    },
+    {
+      "subtitle_index": 351,
+      "start_time": 2859.971,
+      "end_time": 2862.47,
+      "duration": 2.4989999999997963,
+      "dialogue_text": "¿Cómo estás tan seguro?"
+    },
+    {
+      "subtitle_index": 352,
+      "start_time": 2869.76,
+      "end_time": 2876.036,
+      "duration": 6.27599999999984,
+      "dialogue_text": "¿Es que no pararan nunca? Día y noche, día y noche..."
+    },
+    {
+      "subtitle_index": 353,
+      "start_time": 2878.808,
+      "end_time": 2881.278,
+      "duration": 2.4699999999998,
+      "dialogue_text": "¡Me están volviendo loco!"
+    },
+    {
+      "subtitle_index": 354,
+      "start_time": 2881.589,
+      "end_time": 2886.142,
+      "duration": 4.552999999999884,
+      "dialogue_text": "Si los malditos americanos piensan invadir esto…"
+    },
+    {
+      "subtitle_index": 355,
+      "start_time": 2887.808,
+      "end_time": 2891.68,
+      "duration": 3.8719999999998436,
+      "dialogue_text": "¿Por qué no aterrizan de una vez?"
+    },
+    {
+      "subtitle_index": 356,
+      "start_time": 2904.339,
+      "end_time": 2905.676,
+      "duration": 1.336999999999989,
+      "dialogue_text": "Tako-chan."
+    },
+    {
+      "subtitle_index": 357,
+      "start_time": 2905.976,
+      "end_time": 2909.938,
+      "duration": 3.961999999999989,
+      "dialogue_text": "Los 4 pollos que nacieron hace dos meses han crecido mucho."
+    },
+    {
+      "subtitle_index": 358,
+      "start_time": 2910.438,
+      "end_time": 2914.618,
+      "duration": 4.179999999999836,
+      "dialogue_text": "Su madre los lleva a comer todos los días."
+    },
+    {
+      "subtitle_index": 359,
+      "start_time": 2914.974,
+      "end_time": 2919.98,
+      "duration": 5.005999999999858,
+      "dialogue_text": "Pero se están comiendo las verduras que cultivo yo."
+    },
+    {
+      "subtitle_index": 360,
+      "start_time": 2924.268,
+      "end_time": 2928.321,
+      "duration": 4.052999999999884,
+      "dialogue_text": "General, la flota americana ha abandonado Saipán."
+    },
+    {
+      "subtitle_index": 361,
+      "start_time": 2935.919,
+      "end_time": 2937.964,
+      "duration": 2.0450000000000728,
+      "dialogue_text": "Luego estarán en camino."
+    },
+    {
+      "subtitle_index": 362,
+      "start_time": 2939.177,
+      "end_time": 2941.359,
+      "duration": 2.181999999999789,
+      "dialogue_text": "Prepare las tropas..."
+    },
+    {
+      "subtitle_index": 363,
+      "start_time": 2931.996,
+      "end_time": 2937.886,
+      "duration": 5.889999999999873,
+      "dialogue_text": "Sí, señor."
+    },
+    {
+      "subtitle_index": 364,
+      "start_time": 2976.914,
+      "end_time": 2982.566,
+      "duration": 5.651999999999589,
+      "dialogue_text": "Ha llegado el momento de demostrar nuestro valor."
+    },
+    {
+      "subtitle_index": 365,
+      "start_time": 2983.162,
+      "end_time": 2985.451,
+      "duration": 2.2890000000002146,
+      "dialogue_text": "Como miembro del Honorable Ejército Imperial."
+    },
+    {
+      "subtitle_index": 366,
+      "start_time": 2986.277,
+      "end_time": 2988.932,
+      "duration": 2.6549999999997453,
+      "dialogue_text": "Confío en que combatiremos con honor."
+    },
+    {
+      "subtitle_index": 367,
+      "start_time": 2992.004,
+      "end_time": 2996.606,
+      "duration": 4.6020000000003165,
+      "dialogue_text": "Esta isla tiene suma importancia para el Japón."
+    },
+    {
+      "subtitle_index": 368,
+      "start_time": 2997.766,
+      "end_time": 2999.977,
+      "duration": 2.2109999999997854,
+      "dialogue_text": "Si la isla cae…"
+    },
+    {
+      "subtitle_index": 369,
+      "start_time": 3000.505,
+      "end_time": 3007.97,
+      "duration": 7.464999999999691,
+      "dialogue_text": "…el enemigo la usará como base para atacar nuestra patria."
+    },
+    {
+      "subtitle_index": 370,
+      "start_time": 3009.143,
+      "end_time": 3010.539,
+      "duration": 1.3960000000001855,
+      "dialogue_text": "¿Por la patria!"
+    },
+    {
+      "subtitle_index": 371,
+      "start_time": 3012.202,
+      "end_time": 3013.69,
+      "duration": 1.487999999999829,
+      "dialogue_text": "¡Nuestra Patria!"
+    },
+    {
+      "subtitle_index": 372,
+      "start_time": 3014.454,
+      "end_time": 3016.976,
+      "duration": 2.5219999999999345,
+      "dialogue_text": "Hasta el último hombre."
+    },
+    {
+      "subtitle_index": 373,
+      "start_time": 3017.589,
+      "end_time": 3020.887,
+      "duration": 3.298000000000229,
+      "dialogue_text": "Nuestro deber es detener al enemigo aquí."
+    },
+    {
+      "subtitle_index": 374,
+      "start_time": 3022.123,
+      "end_time": 3023.313,
+      "duration": 1.1900000000000546,
+      "dialogue_text": "Nadie tiene derecho."
+    },
+    {
+      "subtitle_index": 375,
+      "start_time": 3024.205,
+      "end_time": 3027.855,
+      "duration": 3.650000000000091,
+      "dialogue_text": "A morir hasta haber matado a 10 soldados enemigos."
+    },
+    {
+      "subtitle_index": 376,
+      "start_time": 3028.976,
+      "end_time": 3035.293,
+      "duration": 6.317000000000007,
+      "dialogue_text": "No esperen volver a casa con vida."
+    },
+    {
+      "subtitle_index": 377,
+      "start_time": 3037.802,
+      "end_time": 3041.915,
+      "duration": 4.112999999999829,
+      "dialogue_text": "Yo estaré siempre al frente de ustedes."
+    },
+    {
+      "subtitle_index": 378,
+      "start_time": 3050.545,
+      "end_time": 3052.311,
+      "duration": 1.7660000000000764,
+      "dialogue_text": "Larga vida al Emperador."
+    },
+    {
+      "subtitle_index": 379,
+      "start_time": 3096.244,
+      "end_time": 3099.675,
+      "duration": 3.43100000000004,
+      "dialogue_text": "Cuídate mucho, Te deseo que estés bien..."
+    },
+    {
+      "subtitle_index": 380,
+      "start_time": 3101.141,
+      "end_time": 3106.772,
+      "duration": 5.630999999999858,
+      "dialogue_text": "Yo lucharé con valor hasta el fin, con el espíritu de Yamato."
+    },
+    {
+      "subtitle_index": 381,
+      "start_time": 3107.447,
+      "end_time": 3114.365,
+      "duration": 6.917999999999665,
+      "dialogue_text": "Mi corazón siempre estará contigo. Takeichi."
+    },
+    {
+      "subtitle_index": 382,
+      "start_time": 3130.527,
+      "end_time": 3136.207,
+      "duration": 5.679999999999836,
+      "dialogue_text": "En cada hogar hay que hacer... Cierto número de bolsas para pólvora."
+    },
+    {
+      "subtitle_index": 383,
+      "start_time": 3136.668,
+      "end_time": 3141.368,
+      "duration": 4.699999999999818,
+      "dialogue_text": "No puedo evitar ponerme nerviosa al pensar que son para la guerra."
+    },
+    {
+      "subtitle_index": 384,
+      "start_time": 3141.972,
+      "end_time": 3145.615,
+      "duration": 3.6429999999995744,
+      "dialogue_text": "Taro y Yoko, se ríen de mí por eso."
+    },
+    {
+      "subtitle_index": 385,
+      "start_time": 3146.005,
+      "end_time": 3149.814,
+      "duration": 3.8089999999997417,
+      "dialogue_text": "A Takako también le va bien en la evacuación de Nagano."
+    },
+    {
+      "subtitle_index": 386,
+      "start_time": 3150.014,
+      "end_time": 3152.415,
+      "duration": 2.40099999999984,
+      "dialogue_text": "Rezo por tu seguridad."
+    },
+    {
+      "subtitle_index": 387,
+      "start_time": 3153.205,
+      "end_time": 3156.289,
+      "duration": 3.0840000000002874,
+      "dialogue_text": "Sinceramente, Yoshi."
+    },
+    {
+      "subtitle_index": 388,
+      "start_time": 3169.592,
+      "end_time": 3172.222,
+      "duration": 2.630000000000109,
+      "dialogue_text": "Ahora nadie podrá matarme."
+    },
+    {
+      "subtitle_index": 389,
+      "start_time": 3175.155,
+      "end_time": 3180.173,
+      "duration": 5.017999999999574,
+      "dialogue_text": "Bonito fajín. Mi esposa también me mando uno."
+    },
+    {
+      "subtitle_index": 390,
+      "start_time": 3184.168,
+      "end_time": 3188.384,
+      "duration": 4.2159999999998945,
+      "dialogue_text": "No parece que el Sr. Kempeirai tenga un fajín de mil puntadas."
+    },
+    {
+      "subtitle_index": 391,
+      "start_time": 3188.828,
+      "end_time": 3191.118,
+      "duration": 2.2899999999999636,
+      "dialogue_text": "Tal vez pensará que no va bien, con su uniformes."
+    },
+    {
+      "subtitle_index": 392,
+      "start_time": 3191.418,
+      "end_time": 3194.359,
+      "duration": 2.9409999999998035,
+      "dialogue_text": "Además, probablemente no será supersticioso."
+    },
+    {
+      "subtitle_index": 393,
+      "start_time": 3198.883,
+      "end_time": 3201.749,
+      "duration": 2.8659999999999854,
+      "dialogue_text": "Pues parece que su madre le hizo uno."
+    },
+    {
+      "subtitle_index": 394,
+      "start_time": 3224.329,
+      "end_time": 3227.47,
+      "duration": 3.1409999999996217,
+      "dialogue_text": "-Tal vez quieran hundir la isla. -Me duele la cabeza."
+    },
+    {
+      "subtitle_index": 395,
+      "start_time": 3227.57,
+      "end_time": 3230.58,
+      "duration": 3.0099999999997635,
+      "dialogue_text": "¿Cuántos barcos crees que hay afuera?"
+    },
+    {
+      "subtitle_index": 396,
+      "start_time": 3230.78,
+      "end_time": 3234.743,
+      "duration": 3.962999999999738,
+      "dialogue_text": "Por los menos treinta, puede que hasta cincuenta."
+    },
+    {
+      "subtitle_index": 397,
+      "start_time": 3234.943,
+      "end_time": 3238.068,
+      "duration": 3.125,
+      "dialogue_text": "Deben de estar muy cerca... ...necesito orinar."
+    },
+    {
+      "subtitle_index": 398,
+      "start_time": 3238.268,
+      "end_time": 3240.351,
+      "duration": 2.0830000000000837,
+      "dialogue_text": "No vayas al desagüe, hay demasiada porquería."
+    },
+    {
+      "subtitle_index": 399,
+      "start_time": 3240.651,
+      "end_time": 3244.663,
+      "duration": 4.012000000000171,
+      "dialogue_text": "-¿Y adónde voy? -Hay una base nica al final de la cueva."
+    },
+    {
+      "subtitle_index": 400,
+      "start_time": 3264.425,
+      "end_time": 3266.25,
+      "duration": 1.824999999999818,
+      "dialogue_text": "Esta base nica está llena."
+    },
+    {
+      "subtitle_index": 401,
+      "start_time": 3266.65,
+      "end_time": 3268.761,
+      "duration": 2.1109999999998763,
+      "dialogue_text": "Hay que vaciarla."
+    },
+    {
+      "subtitle_index": 402,
+      "start_time": 3292.142,
+      "end_time": 3294.96,
+      "duration": 2.818000000000211,
+      "dialogue_text": "Si le pasa algo a esa base nica."
+    },
+    {
+      "subtitle_index": 403,
+      "start_time": 3295.994,
+      "end_time": 3301.579,
+      "duration": 5.585000000000036,
+      "dialogue_text": "Tendrás que sacar nuestra mierda con las manos."
+    },
+    {
+      "subtitle_index": 404,
+      "start_time": 3367.475,
+      "end_time": 3369.795,
+      "duration": 2.3200000000001637,
+      "dialogue_text": "¿Qué es esto una broma?"
+    },
+    {
+      "subtitle_index": 405,
+      "start_time": 3370.295,
+      "end_time": 3372.509,
+      "duration": 2.213999999999942,
+      "dialogue_text": "¿Por qué siempre termino jodido?"
+    },
+    {
+      "subtitle_index": 406,
+      "start_time": 3412.319,
+      "end_time": 3416.911,
+      "duration": 4.592000000000098,
+      "dialogue_text": "Gracias, Dios. Retiro lo que dije antes."
+    },
+    {
+      "subtitle_index": 407,
+      "start_time": 3431.545,
+      "end_time": 3433.377,
+      "duration": 1.83199999999988,
+      "dialogue_text": "¿Abrimos fuego?"
+    },
+    {
+      "subtitle_index": 408,
+      "start_time": 3433.81,
+      "end_time": 3434.61,
+      "duration": 0.8000000000001819,
+      "dialogue_text": "Todavía no."
+    },
+    {
+      "subtitle_index": 409,
+      "start_time": 3440.118,
+      "end_time": 3442.964,
+      "duration": 2.8460000000000036,
+      "dialogue_text": "Los hombres quieren abrir fuego."
+    },
+    {
+      "subtitle_index": 410,
+      "start_time": 3449.622,
+      "end_time": 3451.799,
+      "duration": 2.1770000000001346,
+      "dialogue_text": "¡No disparen! ¡No disparen!"
+    },
+    {
+      "subtitle_index": 411,
+      "start_time": 3465.977,
+      "end_time": 3468.453,
+      "duration": 2.4760000000001128,
+      "dialogue_text": "Si no resistimos, tomarán la playa en un momento."
+    },
+    {
+      "subtitle_index": 412,
+      "start_time": 3468.853,
+      "end_time": 3471.244,
+      "duration": 2.3910000000000764,
+      "dialogue_text": "Esperen a que llenen la playa."
+    },
+    {
+      "subtitle_index": 413,
+      "start_time": 3493.768,
+      "end_time": 3496.891,
+      "duration": 3.1230000000000473,
+      "dialogue_text": "Ahora es el momento. ¡Abran fuego!"
+    },
+    {
+      "subtitle_index": 414,
+      "start_time": 3486.247,
+      "end_time": 3489.765,
+      "duration": 3.518000000000029,
+      "dialogue_text": "¡Abran fuego!"
+    },
+    {
+      "subtitle_index": 415,
+      "start_time": 3568.845,
+      "end_time": 3572.903,
+      "duration": 4.057999999999993,
+      "dialogue_text": "Una unidad fue destruida y los nidos de ametralladoras también."
+    },
+    {
+      "subtitle_index": 416,
+      "start_time": 3573.321,
+      "end_time": 3575.162,
+      "duration": 1.8409999999998945,
+      "dialogue_text": "Pero las demás fuerzas están intactas."
+    },
+    {
+      "subtitle_index": 417,
+      "start_time": 3575.362,
+      "end_time": 3580.464,
+      "duration": 5.101999999999862,
+      "dialogue_text": "-Y hubo más de mil bajas enemigas. -Sabíamos que destruirían los nidos."
+    },
+    {
+      "subtitle_index": 418,
+      "start_time": 3580.859,
+      "end_time": 3582.908,
+      "duration": 2.048999999999978,
+      "dialogue_text": "Pero en general las noticias son buenas."
+    },
+    {
+      "subtitle_index": 419,
+      "start_time": 3583.488,
+      "end_time": 3587.695,
+      "duration": 4.207000000000335,
+      "dialogue_text": "-¿Y las tropas de Suribashi? -Están intactas."
+    },
+    {
+      "subtitle_index": 420,
+      "start_time": 3591.446,
+      "end_time": 3596.122,
+      "duration": 4.675999999999931,
+      "dialogue_text": "-¿Cuál es la situación enemiga? -Cerca de 20.000 hombres y 80 tanques."
+    },
+    {
+      "subtitle_index": 421,
+      "start_time": 3596.404,
+      "end_time": 3600.501,
+      "duration": 4.097000000000207,
+      "dialogue_text": "Deben ser más que eso aun, hay hombres en los barcos."
+    },
+    {
+      "subtitle_index": 422,
+      "start_time": 3600.801,
+      "end_time": 3606.567,
+      "duration": 5.766000000000076,
+      "dialogue_text": "El frente enemigo se extiende entre el Suribachi, y la zona del desembarco."
+    },
+    {
+      "subtitle_index": 423,
+      "start_time": 3607.215,
+      "end_time": 3609.359,
+      "duration": 2.143999999999778,
+      "dialogue_text": "-Y el campo aéreo de Chidon."
+    },
+    {
+      "subtitle_index": 424,
+      "start_time": 3610.06,
+      "end_time": 3614.604,
+      "duration": 4.543999999999869,
+      "dialogue_text": "Como me imaginaba. El Suribachi y el aeródromo de Motoyama."
+    },
+    {
+      "subtitle_index": 425,
+      "start_time": 3615.174,
+      "end_time": 3618.152,
+      "duration": 2.9780000000000655,
+      "dialogue_text": "Realizan un ataque por dos frentes."
+    },
+    {
+      "subtitle_index": 426,
+      "start_time": 3632.897,
+      "end_time": 3636.499,
+      "duration": 3.6019999999998618,
+      "dialogue_text": "¡No doy abasto! Necesito más munición."
+    },
+    {
+      "subtitle_index": 427,
+      "start_time": 3662.637,
+      "end_time": 3665.163,
+      "duration": 2.52599999999984,
+      "dialogue_text": "-La ametralladora ha explotado. -¡Usa tu rifle!"
+    },
+    {
+      "subtitle_index": 428,
+      "start_time": 3667.501,
+      "end_time": 3669.233,
+      "duration": 1.731999999999971,
+      "dialogue_text": "¡Cuidado! ¡Imbécil!"
+    },
+    {
+      "subtitle_index": 429,
+      "start_time": 3670.533,
+      "end_time": 3674.98,
+      "duration": 4.447000000000116,
+      "dialogue_text": "No eres de fiar, informa al Coronel de que necesitamos otra ametralladora."
+    },
+    {
+      "subtitle_index": 430,
+      "start_time": 3674.981,
+      "end_time": 3676.121,
+      "duration": 1.1399999999998727,
+      "dialogue_text": "¡Date prisa!"
+    },
+    {
+      "subtitle_index": 431,
+      "start_time": 3702.944,
+      "end_time": 3705.158,
+      "duration": 2.213999999999942,
+      "dialogue_text": "El Coronel Adachi pide refuerzos."
+    },
+    {
+      "subtitle_index": 432,
+      "start_time": 3705.941,
+      "end_time": 3709.938,
+      "duration": 3.9970000000002983,
+      "dialogue_text": "No podemos enviarle refuerzos. Dígale que aguante."
+    },
+    {
+      "subtitle_index": 433,
+      "start_time": 3731.098,
+      "end_time": 3733.486,
+      "duration": 2.38799999999992,
+      "dialogue_text": "-¿Qué pasa? -No nos quedan balas."
+    },
+    {
+      "subtitle_index": 434,
+      "start_time": 3752.312,
+      "end_time": 3756.742,
+      "duration": 4.430000000000291,
+      "dialogue_text": "General, estamos perdiendo el Suribachi."
+    },
+    {
+      "subtitle_index": 435,
+      "start_time": 3756.942,
+      "end_time": 3759.341,
+      "duration": 2.3989999999998872,
+      "dialogue_text": "Todo está perdido, solicito permiso para ordenar una operación suicida."
+    },
+    {
+      "subtitle_index": 436,
+      "start_time": 3760.041,
+      "end_time": 3763.618,
+      "duration": 3.576999999999771,
+      "dialogue_text": "No, debe intentar resistir."
+    },
+    {
+      "subtitle_index": 437,
+      "start_time": 3763.718,
+      "end_time": 3767.733,
+      "duration": 4.015000000000327,
+      "dialogue_text": "Intente sobrevivir, y reúnan sus fuerzas en las cuerda del norte."
+    },
+    {
+      "subtitle_index": 438,
+      "start_time": 3768.282,
+      "end_time": 3773.175,
+      "duration": 4.893000000000029,
+      "dialogue_text": "Pero Señor, he fracasado en defender el Suribachi."
+    },
+    {
+      "subtitle_index": 439,
+      "start_time": 3773.375,
+      "end_time": 3776.855,
+      "duration": 3.480000000000018,
+      "dialogue_text": "Permítame, morir con honor, junto a mis hombres."
+    },
+    {
+      "subtitle_index": 440,
+      "start_time": 3776.955,
+      "end_time": 3780.863,
+      "duration": 3.9079999999999018,
+      "dialogue_text": "No Coronel. ¡Es una orden!"
+    },
+    {
+      "subtitle_index": 441,
+      "start_time": 3785.076,
+      "end_time": 3786.422,
+      "duration": 1.3460000000000036,
+      "dialogue_text": "Adachi."
+    },
+    {
+      "subtitle_index": 442,
+      "start_time": 3802.706,
+      "end_time": 3806.469,
+      "duration": 3.76299999999992,
+      "dialogue_text": "Señor… el Capitán Tanida solicita ametralladoras."
+    },
+    {
+      "subtitle_index": 443,
+      "start_time": 3808.833,
+      "end_time": 3809.987,
+      "duration": 1.1539999999999964,
+      "dialogue_text": "Se acabó."
+    },
+    {
+      "subtitle_index": 444,
+      "start_time": 3818.211,
+      "end_time": 3822.657,
+      "duration": 4.446000000000367,
+      "dialogue_text": "El suicidio, es lo único que nos queda."
+    },
+    {
+      "subtitle_index": 445,
+      "start_time": 3825.955,
+      "end_time": 3829.04,
+      "duration": 3.0850000000000364,
+      "dialogue_text": "Pero... Ten, lleva esto a tu capitán."
+    },
+    {
+      "subtitle_index": 446,
+      "start_time": 3873.987,
+      "end_time": 3877.651,
+      "duration": 3.66399999999976,
+      "dialogue_text": "Oí al General Kuribayashi ordenar al Coronel que huyera."
+    },
+    {
+      "subtitle_index": 447,
+      "start_time": 3877.751,
+      "end_time": 3879.448,
+      "duration": 1.6969999999996617,
+      "dialogue_text": "Silencio."
+    },
+    {
+      "subtitle_index": 448,
+      "start_time": 3882.341,
+      "end_time": 3887.908,
+      "duration": 5.567000000000007,
+      "dialogue_text": "-Huir es de cobardes. -Siéntate."
+    },
+    {
+      "subtitle_index": 449,
+      "start_time": 3900.165,
+      "end_time": 3901.197,
+      "duration": 1.0320000000001528,
+      "dialogue_text": "Hombres."
+    },
+    {
+      "subtitle_index": 450,
+      "start_time": 3904.189,
+      "end_time": 3905.661,
+      "duration": 1.4720000000002074,
+      "dialogue_text": "Somos…"
+    },
+    {
+      "subtitle_index": 451,
+      "start_time": 3908.02,
+      "end_time": 3911.433,
+      "duration": 3.413000000000011,
+      "dialogue_text": "…honorables soldados del Emperador."
+    },
+    {
+      "subtitle_index": 452,
+      "start_time": 3914.207,
+      "end_time": 3915.777,
+      "duration": 1.5700000000001637,
+      "dialogue_text": "No lo olviden jamás."
+    },
+    {
+      "subtitle_index": 453,
+      "start_time": 3919.931,
+      "end_time": 3926.178,
+      "duration": 6.246999999999844,
+      "dialogue_text": "El único camino que nos queda... Es morir con honor."
+    },
+    {
+      "subtitle_index": 454,
+      "start_time": 3929.192,
+      "end_time": 3930.674,
+      "duration": 1.481999999999971,
+      "dialogue_text": "Ese es nuestro destino..."
+    },
+    {
+      "subtitle_index": 455,
+      "start_time": 3932.493,
+      "end_time": 3935.704,
+      "duration": 3.21100000000024,
+      "dialogue_text": "Tener un sitio, en el templo de Yasukuni."
+    },
+    {
+      "subtitle_index": 456,
+      "start_time": 3940.034,
+      "end_time": 3941.825,
+      "duration": 1.7909999999997126,
+      "dialogue_text": "Los veré allí."
+    },
+    {
+      "subtitle_index": 457,
+      "start_time": 3961.322,
+      "end_time": 3963.953,
+      "duration": 2.630999999999858,
+      "dialogue_text": "Soldados, adiós."
+    },
+    {
+      "subtitle_index": 458,
+      "start_time": 4078.673,
+      "end_time": 4079.973,
+      "duration": 1.300000000000182,
+      "dialogue_text": "Alto."
+    },
+    {
+      "subtitle_index": 459,
+      "start_time": 4087.454,
+      "end_time": 4091.678,
+      "duration": 4.223999999999705,
+      "dialogue_text": "Debes morir como un soldado honorable."
+    },
+    {
+      "subtitle_index": 460,
+      "start_time": 4091.878,
+      "end_time": 4093.487,
+      "duration": 1.6089999999999236,
+      "dialogue_text": "Escuche, Shimizu."
+    },
+    {
+      "subtitle_index": 461,
+      "start_time": 4096.153,
+      "end_time": 4098.726,
+      "duration": 2.5729999999994106,
+      "dialogue_text": "Podemos unirnos a las tropas del norte."
+    },
+    {
+      "subtitle_index": 462,
+      "start_time": 4099.792,
+      "end_time": 4102.435,
+      "duration": 2.643000000000029,
+      "dialogue_text": "Nuestras ordenes son resistir aquí hasta el fin."
+    },
+    {
+      "subtitle_index": 463,
+      "start_time": 4102.535,
+      "end_time": 4104.356,
+      "duration": 1.8209999999999127,
+      "dialogue_text": "Yo oí al General Kuribayashi."
+    },
+    {
+      "subtitle_index": 464,
+      "start_time": 4105.543,
+      "end_time": 4107.189,
+      "duration": 1.6460000000006403,
+      "dialogue_text": "Eso es lo que dijo."
+    },
+    {
+      "subtitle_index": 465,
+      "start_time": 4109.091,
+      "end_time": 4110.336,
+      "duration": 1.2449999999998909,
+      "dialogue_text": "Por radio."
+    },
+    {
+      "subtitle_index": 466,
+      "start_time": 4112.014,
+      "end_time": 4113.316,
+      "duration": 1.3019999999996799,
+      "dialogue_text": "Es la verdad."
+    },
+    {
+      "subtitle_index": 467,
+      "start_time": 4117.344,
+      "end_time": 4123.691,
+      "duration": 6.346999999999753,
+      "dialogue_text": "Podemos morir aquí... o continuar luchando."
+    },
+    {
+      "subtitle_index": 468,
+      "start_time": 4127.206,
+      "end_time": 4129.859,
+      "duration": 2.6530000000002474,
+      "dialogue_text": "¿Cómo serviríamos mejor al Emperador?"
+    },
+    {
+      "subtitle_index": 469,
+      "start_time": 4133.047,
+      "end_time": 4134.251,
+      "duration": 1.204000000000633,
+      "dialogue_text": "¿De qué forma?"
+    },
+    {
+      "subtitle_index": 470,
+      "start_time": 4156.589,
+      "end_time": 4160.268,
+      "duration": 3.6790000000000873,
+      "dialogue_text": "-Adonde nos lleva esto. -Nos acerca al Motoyama."
+    },
+    {
+      "subtitle_index": 471,
+      "start_time": 4166.656,
+      "end_time": 4168.635,
+      "duration": 1.9790000000002692,
+      "dialogue_text": "Tienen órdenes de retroceder."
+    },
+    {
+      "subtitle_index": 472,
+      "start_time": 4169.791,
+      "end_time": 4177.968,
+      "duration": 8.17699999999968,
+      "dialogue_text": "¿Y sus compañeros? Han muerto todos, los nuestros también."
+    },
+    {
+      "subtitle_index": 473,
+      "start_time": 4185.114,
+      "end_time": 4187.248,
+      "duration": 2.1340000000000146,
+      "dialogue_text": "Debe de haber alguna salida por aquí."
+    },
+    {
+      "subtitle_index": 474,
+      "start_time": 4187.356,
+      "end_time": 4188.108,
+      "duration": 0.7520000000004075,
+      "dialogue_text": "¡Silencio!"
+    },
+    {
+      "subtitle_index": 475,
+      "start_time": 4236.522,
+      "end_time": 4238.915,
+      "duration": 2.393000000000029,
+      "dialogue_text": "¿Creías que podías quemarnos vivos o hacernos volar en pedazos?"
+    },
+    {
+      "subtitle_index": 476,
+      "start_time": 4239.021,
+      "end_time": 4241.167,
+      "duration": 2.1460000000006403,
+      "dialogue_text": "¡No! ¡Por favor!"
+    },
+    {
+      "subtitle_index": 477,
+      "start_time": 4256.895,
+      "end_time": 4258.443,
+      "duration": 1.5479999999997744,
+      "dialogue_text": "¿Ha sabido algo del Suribachi?"
+    },
+    {
+      "subtitle_index": 478,
+      "start_time": 4258.543,
+      "end_time": 4261.218,
+      "duration": 2.675000000000182,
+      "dialogue_text": "No, señor... ¡Envíen un mensajero!"
+    },
+    {
+      "subtitle_index": 479,
+      "start_time": 4269.026,
+      "end_time": 4273.191,
+      "duration": 4.164999999999964,
+      "dialogue_text": "El Teniente Oiso nos ha ordenado reunirnos en la cueva oriental."
+    },
+    {
+      "subtitle_index": 480,
+      "start_time": 4281.033,
+      "end_time": 4284.039,
+      "duration": 3.0059999999994034,
+      "dialogue_text": "Corremos hasta el Motoyama."
+    },
+    {
+      "subtitle_index": 481,
+      "start_time": 4284.802,
+      "end_time": 4287.592,
+      "duration": 2.7899999999999636,
+      "dialogue_text": "Son dos Kilómetros de campo abierto."
+    },
+    {
+      "subtitle_index": 482,
+      "start_time": 4288.041,
+      "end_time": 4290.732,
+      "duration": 2.6909999999998035,
+      "dialogue_text": "Nadie ayudara a ningún compañero."
+    },
+    {
+      "subtitle_index": 483,
+      "start_time": 4297.416,
+      "end_time": 4303.584,
+      "duration": 6.167999999999665,
+      "dialogue_text": "Nos vemos del otro lado, si no es en este mundo, será en el otro mundo."
+    },
+    {
+      "subtitle_index": 484,
+      "start_time": 4318.752,
+      "end_time": 4321.385,
+      "duration": 2.632999999999811,
+      "dialogue_text": "No sigas a los demás, es ahí donde dispararán."
+    },
+    {
+      "subtitle_index": 485,
+      "start_time": 4321.485,
+      "end_time": 4325.178,
+      "duration": 3.693000000000211,
+      "dialogue_text": "¡Quédate atrás! ¡Eso hacen los cobardes!"
+    },
+    {
+      "subtitle_index": 486,
+      "start_time": 4326.753,
+      "end_time": 4331.61,
+      "duration": 4.856999999999971,
+      "dialogue_text": "Un soldado muerto no sirve para nada."
+    },
+    {
+      "subtitle_index": 487,
+      "start_time": 4360.366,
+      "end_time": 4362.452,
+      "duration": 2.08600000000024,
+      "dialogue_text": "Espera a que se apague la bengala."
+    },
+    {
+      "subtitle_index": 488,
+      "start_time": 4388.237,
+      "end_time": 4391.443,
+      "duration": 3.206000000000131,
+      "dialogue_text": "Avanza arrastrándote."
+    },
+    {
+      "subtitle_index": 489,
+      "start_time": 4408.902,
+      "end_time": 4412.788,
+      "duration": 3.8859999999995125,
+      "dialogue_text": "-¿Qué paso con el mensajero? -No regreso señor."
+    },
+    {
+      "subtitle_index": 490,
+      "start_time": 4416.098,
+      "end_time": 4417.65,
+      "duration": 1.5519999999996799,
+      "dialogue_text": "Iré yo mismo a ver a Adachi."
+    },
+    {
+      "subtitle_index": 491,
+      "start_time": 4417.973,
+      "end_time": 4421.123,
+      "duration": 3.149999999999636,
+      "dialogue_text": "El transmisor de Motoyama aún funciona, General."
+    },
+    {
+      "subtitle_index": 492,
+      "start_time": 4422.252,
+      "end_time": 4424.088,
+      "duration": 1.8359999999993306,
+      "dialogue_text": "¿Por qué no lo intenta desde allí?"
+    },
+    {
+      "subtitle_index": 493,
+      "start_time": 4445.197,
+      "end_time": 4447.712,
+      "duration": 2.5150000000003274,
+      "dialogue_text": "Señor, estos hombres viene del monte Suribachi."
+    },
+    {
+      "subtitle_index": 494,
+      "start_time": 4454.137,
+      "end_time": 4458.66,
+      "duration": 4.523000000000138,
+      "dialogue_text": "-¿Cómo se llaman? -Saigo, del regimiento 312."
+    },
+    {
+      "subtitle_index": 495,
+      "start_time": 4459.16,
+      "end_time": 4461.435,
+      "duration": 2.2750000000005457,
+      "dialogue_text": "Shimizu, a sus órdenes."
+    },
+    {
+      "subtitle_index": 496,
+      "start_time": 4462.962,
+      "end_time": 4464.998,
+      "duration": 2.0359999999991487,
+      "dialogue_text": "¿Escaparon del Suribachi?"
+    },
+    {
+      "subtitle_index": 497,
+      "start_time": 4471.366,
+      "end_time": 4473.18,
+      "duration": 1.8140000000003056,
+      "dialogue_text": "¿Cómo se atrevieron?"
+    },
+    {
+      "subtitle_index": 498,
+      "start_time": 4475.288,
+      "end_time": 4478.343,
+      "duration": 3.055000000000291,
+      "dialogue_text": "Tienen que quedarse en sus puestos, hasta la muerte..."
+    },
+    {
+      "subtitle_index": 499,
+      "start_time": 4480.567,
+      "end_time": 4485.248,
+      "duration": 4.680999999999585,
+      "dialogue_text": "Debían haber muerto… junto a sus compañeros."
+    },
+    {
+      "subtitle_index": 500,
+      "start_time": 4486.592,
+      "end_time": 4491.614,
+      "duration": 5.0219999999999345,
+      "dialogue_text": "Son una vergüenza."
+    },
+    {
+      "subtitle_index": 501,
+      "start_time": 4494.526,
+      "end_time": 4496.205,
+      "duration": 1.6790000000000873,
+      "dialogue_text": "Pónganse de rodillas."
+    },
+    {
+      "subtitle_index": 502,
+      "start_time": 4498.358,
+      "end_time": 4502.039,
+      "duration": 3.6809999999995853,
+      "dialogue_text": "-Pero, Señor... -¡He dicho de rodillas!"
+    },
+    {
+      "subtitle_index": 503,
+      "start_time": 4521.745,
+      "end_time": 4524.296,
+      "duration": 2.5510000000003856,
+      "dialogue_text": "No mate a mis soldados sin necesidad."
+    },
+    {
+      "subtitle_index": 504,
+      "start_time": 4525.733,
+      "end_time": 4529.651,
+      "duration": 3.9179999999996653,
+      "dialogue_text": "Suelte esa espada ahora. ¡Suéltela!"
+    },
+    {
+      "subtitle_index": 505,
+      "start_time": 4535.543,
+      "end_time": 4537.722,
+      "duration": 2.1790000000000873,
+      "dialogue_text": "¿Qué está pasando aquí?"
+    },
+    {
+      "subtitle_index": 506,
+      "start_time": 4539.482,
+      "end_time": 4544.187,
+      "duration": 4.704999999999927,
+      "dialogue_text": "Estos hombres han huido del monte Suribachi."
+    },
+    {
+      "subtitle_index": 507,
+      "start_time": 4546.175,
+      "end_time": 4552.499,
+      "duration": 6.323999999999614,
+      "dialogue_text": "Ten. Yo ordené que los supervivientes se retiraran a las cuevas del norte."
+    },
+    {
+      "subtitle_index": 508,
+      "start_time": 4553.32,
+      "end_time": 4558.812,
+      "duration": 5.492000000000189,
+      "dialogue_text": "Lo siento, General es sólo que..."
+    },
+    {
+      "subtitle_index": 509,
+      "start_time": 4559.791,
+      "end_time": 4564.942,
+      "duration": 5.15099999999984,
+      "dialogue_text": "El Suribachi… ha caído."
+    },
+    {
+      "subtitle_index": 510,
+      "start_time": 4586.268,
+      "end_time": 4590.538,
+      "duration": 4.269999999999527,
+      "dialogue_text": "Habiendo tomado el Suribachi. El enemigo hará subir a sus tropas."
+    },
+    {
+      "subtitle_index": 511,
+      "start_time": 4590.638,
+      "end_time": 4593.894,
+      "duration": 3.256000000000313,
+      "dialogue_text": "Debemos trasladar el centro de Mando al norte, Señor"
+    },
+    {
+      "subtitle_index": 512,
+      "start_time": 4597.063,
+      "end_time": 4599.403,
+      "duration": 2.3400000000001455,
+      "dialogue_text": "Ito..."
+    },
+    {
+      "subtitle_index": 513,
+      "start_time": 4602.473,
+      "end_time": 4608.774,
+      "duration": 6.301000000000386,
+      "dialogue_text": "Luche por sus hermanos caídos... hasta el final"
+    },
+    {
+      "subtitle_index": 514,
+      "start_time": 4630.768,
+      "end_time": 4632.41,
+      "duration": 1.6419999999998254,
+      "dialogue_text": "Arriba."
+    },
+    {
+      "subtitle_index": 515,
+      "start_time": 4636.458,
+      "end_time": 4640.435,
+      "duration": 3.9770000000007713,
+      "dialogue_text": "El General Hayashi ordeno un ataque... Debemos unirnos a él."
+    },
+    {
+      "subtitle_index": 516,
+      "start_time": 4643.808,
+      "end_time": 4646.404,
+      "duration": 2.5960000000004584,
+      "dialogue_text": "Kuribayashi nos ordeno no salir de las cuevas."
+    },
+    {
+      "subtitle_index": 517,
+      "start_time": 4648.524,
+      "end_time": 4653.11,
+      "duration": 4.585999999999331,
+      "dialogue_text": "El Teniente Ito dice que Kuribayashi es débil y un simpatizante americano."
+    },
+    {
+      "subtitle_index": 518,
+      "start_time": 4662.942,
+      "end_time": 4665.606,
+      "duration": 2.66399999999976,
+      "dialogue_text": "Volveremos a tomar el monte Suribachi."
+    },
+    {
+      "subtitle_index": 519,
+      "start_time": 4687.857,
+      "end_time": 4689.764,
+      "duration": 1.9070000000001528,
+      "dialogue_text": "¿Dónde está el General Hayashi?"
+    },
+    {
+      "subtitle_index": 520,
+      "start_time": 4692.471,
+      "end_time": 4693.542,
+      "duration": 1.0710000000008222,
+      "dialogue_text": "No lo sabemos, Señor."
+    },
+    {
+      "subtitle_index": 521,
+      "start_time": 4694.462,
+      "end_time": 4695.846,
+      "duration": 1.383999999999105,
+      "dialogue_text": "¿Quién está al mando?"
+    },
+    {
+      "subtitle_index": 522,
+      "start_time": 4696.146,
+      "end_time": 4697.808,
+      "duration": 1.662000000000262,
+      "dialogue_text": "No estoy seguro."
+    },
+    {
+      "subtitle_index": 523,
+      "start_time": 4701.173,
+      "end_time": 4703.868,
+      "duration": 2.6950000000006185,
+      "dialogue_text": "Quédense aquí hasta que decida el plan."
+    },
+    {
+      "subtitle_index": 524,
+      "start_time": 4729.309,
+      "end_time": 4730.684,
+      "duration": 1.375,
+      "dialogue_text": "Estamos perdidos."
+    },
+    {
+      "subtitle_index": 525,
+      "start_time": 4736.817,
+      "end_time": 4741.033,
+      "duration": 4.216000000000349,
+      "dialogue_text": "¡Retirada!"
+    },
+    {
+      "subtitle_index": 526,
+      "start_time": 4773.526,
+      "end_time": 4778.8,
+      "duration": 5.274000000000342,
+      "dialogue_text": "¿Por qué no se unió al ataque su regimiento?"
+    },
+    {
+      "subtitle_index": 527,
+      "start_time": 4782.377,
+      "end_time": 4789.309,
+      "duration": 6.931999999999789,
+      "dialogue_text": "-¡No se queden ahí como ratas! -¡Salgan de sus cuevas a luchar!"
+    },
+    {
+      "subtitle_index": 528,
+      "start_time": 4790.488,
+      "end_time": 4791.812,
+      "duration": 1.3239999999996144,
+      "dialogue_text": "¿Y su oficial al mando?"
+    },
+    {
+      "subtitle_index": 529,
+      "start_time": 4792.112,
+      "end_time": 4794.832,
+      "duration": 2.7200000000002547,
+      "dialogue_text": "No recibimos orden de ataque."
+    },
+    {
+      "subtitle_index": 530,
+      "start_time": 4797.853,
+      "end_time": 4801.108,
+      "duration": 3.255000000000109,
+      "dialogue_text": "¿No recibieron la orden del General Hayashi?"
+    },
+    {
+      "subtitle_index": 531,
+      "start_time": 4801.915,
+      "end_time": 4808.029,
+      "duration": 6.1140000000004875,
+      "dialogue_text": "Kuribayashi revoco la orden de Hayashi no debemos atacar."
+    },
+    {
+      "subtitle_index": 532,
+      "start_time": 4811.195,
+      "end_time": 4816.363,
+      "duration": 5.168000000000575,
+      "dialogue_text": "Tomaremos el Suribachi... con Kuribayashi o sin él."
+    },
+    {
+      "subtitle_index": 533,
+      "start_time": 4816.563,
+      "end_time": 4819.817,
+      "duration": 3.2539999999999054,
+      "dialogue_text": "Ya hay tropas atacando, ordene salir a sus hombres."
+    },
+    {
+      "subtitle_index": 534,
+      "start_time": 4820.017,
+      "end_time": 4821.995,
+      "duration": 1.9780000000000655,
+      "dialogue_text": "¡Teniente, recuerde su rango!"
+    },
+    {
+      "subtitle_index": 535,
+      "start_time": 4822.851,
+      "end_time": 4824.673,
+      "duration": 1.8220000000001164,
+      "dialogue_text": "Su falta de respeto por sus superiores…"
+    },
+    {
+      "subtitle_index": 536,
+      "start_time": 4824.851,
+      "end_time": 4828.673,
+      "duration": 3.8220000000001164,
+      "dialogue_text": "…pone a sus hombres en un peligro innecesario."
+    },
+    {
+      "subtitle_index": 537,
+      "start_time": 4830.612,
+      "end_time": 4837.758,
+      "duration": 7.145999999999731,
+      "dialogue_text": "Le sugiero que vuelva a su cueva. o ceda el mando de sus hombres."
+    },
+    {
+      "subtitle_index": 538,
+      "start_time": 4847.124,
+      "end_time": 4850.295,
+      "duration": 3.1710000000002765,
+      "dialogue_text": "Ya basta... Lo haremos nosotros solos."
+    },
+    {
+      "subtitle_index": 539,
+      "start_time": 4861.524,
+      "end_time": 4863.151,
+      "duration": 1.626999999999498,
+      "dialogue_text": "Eso va contra las normas."
+    },
+    {
+      "subtitle_index": 540,
+      "start_time": 4863.351,
+      "end_time": 4867.62,
+      "duration": 4.269000000000233,
+      "dialogue_text": "Es el oficial que quería matarnos. No le importa."
+    },
+    {
+      "subtitle_index": 541,
+      "start_time": 4898.937,
+      "end_time": 4904.432,
+      "duration": 5.494999999999891,
+      "dialogue_text": "Ya no volveré. Ya estoy harto de luchar en cuevas."
+    },
+    {
+      "subtitle_index": 542,
+      "start_time": 4906.723,
+      "end_time": 4910.423,
+      "duration": 3.699999999999818,
+      "dialogue_text": "Quedamos a las órdenes del Teniente Coronel Nishi."
+    },
+    {
+      "subtitle_index": 543,
+      "start_time": 4921.67,
+      "end_time": 4925.185,
+      "duration": 3.5150000000003274,
+      "dialogue_text": "Me lanzare bajo un tanque enemigo."
+    },
+    {
+      "subtitle_index": 544,
+      "start_time": 4927.302,
+      "end_time": 4930.337,
+      "duration": 3.035000000000764,
+      "dialogue_text": "Y destruiré una de sus maquinas."
+    },
+    {
+      "subtitle_index": 545,
+      "start_time": 4958.531,
+      "end_time": 4960.028,
+      "duration": 1.4970000000002983,
+      "dialogue_text": "Date prisa."
+    },
+    {
+      "subtitle_index": 546,
+      "start_time": 4962.15,
+      "end_time": 4963.358,
+      "duration": 1.2080000000005384,
+      "dialogue_text": "¿Cuál es la situación?"
+    },
+    {
+      "subtitle_index": 547,
+      "start_time": 4965.198,
+      "end_time": 4968.955,
+      "duration": 3.756999999999607,
+      "dialogue_text": "Perdimos mil hombres en un ataque al aeródromo de Chidon."
+    },
+    {
+      "subtitle_index": 548,
+      "start_time": 4969.29,
+      "end_time": 4971.94,
+      "duration": 2.649999999999636,
+      "dialogue_text": "¿Por qué? Ordené que no se suicidaran."
+    },
+    {
+      "subtitle_index": 549,
+      "start_time": 4972.075,
+      "end_time": 4976.165,
+      "duration": 4.0900000000001455,
+      "dialogue_text": "-¿Y la orden de retirada? -No llego a todos los sectores."
+    },
+    {
+      "subtitle_index": 550,
+      "start_time": 4976.898,
+      "end_time": 4978.38,
+      "duration": 1.481999999999971,
+      "dialogue_text": "Hayashi."
+    },
+    {
+      "subtitle_index": 551,
+      "start_time": 4978.616,
+      "end_time": 4980.054,
+      "duration": 1.4380000000001019,
+      "dialogue_text": "¡Maldito seas!"
+    },
+    {
+      "subtitle_index": 552,
+      "start_time": 4981.138,
+      "end_time": 4982.503,
+      "duration": 1.3649999999997817,
+      "dialogue_text": "¿Avances americanos?"
+    },
+    {
+      "subtitle_index": 553,
+      "start_time": 4983.363,
+      "end_time": 4986.924,
+      "duration": 3.5609999999996944,
+      "dialogue_text": "Un batallón va hacia el Norte. y nosotros defenderemos el oeste."
+    },
+    {
+      "subtitle_index": 554,
+      "start_time": 4987.124,
+      "end_time": 4991.397,
+      "duration": 4.273000000000138,
+      "dialogue_text": "Bien, cuando crucen las colinas, estarán rodeados por tres lados."
+    },
+    {
+      "subtitle_index": 555,
+      "start_time": 4992.837,
+      "end_time": 4995.139,
+      "duration": 2.30199999999968,
+      "dialogue_text": "-Acaba de llegar esto... -Léalo."
+    },
+    {
+      "subtitle_index": 556,
+      "start_time": 5000.298,
+      "end_time": 5002.283,
+      "duration": 1.985000000000582,
+      "dialogue_text": "Del Cuartel General."
+    },
+    {
+      "subtitle_index": 557,
+      "start_time": 5004.098,
+      "end_time": 5008.916,
+      "duration": 4.818000000000211,
+      "dialogue_text": "Lamentamos no poder enviar refuerzos a Iwo Jima en este momento."
+    },
+    {
+      "subtitle_index": 558,
+      "start_time": 5010.108,
+      "end_time": 5017.618,
+      "duration": 7.510000000000218,
+      "dialogue_text": "Esperamos sinceramente que luchen con honor y que mueran por su Patria."
+    },
+    {
+      "subtitle_index": 559,
+      "start_time": 5118.6,
+      "end_time": 5137.183,
+      "duration": 18.58299999999963,
+      "dialogue_text": "Esta vivo... tráiganlo aquí."
+    },
+    {
+      "subtitle_index": 560,
+      "start_time": 5146.954,
+      "end_time": 5152.736,
+      "duration": 5.782000000000153,
+      "dialogue_text": "-¿Acabo con él? -No, cúrenlo."
+    },
+    {
+      "subtitle_index": 561,
+      "start_time": 5153.297,
+      "end_time": 5155.41,
+      "duration": 2.1130000000002838,
+      "dialogue_text": "Pero, señor... Endo, atiéndalo."
+    },
+    {
+      "subtitle_index": 562,
+      "start_time": 5154.71,
+      "end_time": 5157.236,
+      "duration": 2.52599999999984,
+      "dialogue_text": "Okubo, tú esperarías lo mismo, ¿no?"
+    },
+    {
+      "subtitle_index": 563,
+      "start_time": 5157.436,
+      "end_time": 5163.021,
+      "duration": 5.585000000000036,
+      "dialogue_text": "-Endo, cúralo. -Tenemos muy poca morfina."
+    },
+    {
+      "subtitle_index": 564,
+      "start_time": 5163.421,
+      "end_time": 5165.826,
+      "duration": 2.4049999999997453,
+      "dialogue_text": "Ellos no curarían a un soldado japonés herido."
+    },
+    {
+      "subtitle_index": 565,
+      "start_time": 5166.356,
+      "end_time": 5171.01,
+      "duration": 4.654000000000451,
+      "dialogue_text": "Hijo, ¿Conoces a algún americano?"
+    },
+    {
+      "subtitle_index": 566,
+      "start_time": 5171.21,
+      "end_time": 5171.997,
+      "duration": 0.7870000000002619,
+      "dialogue_text": "Cúrenlo."
+    },
+    {
+      "subtitle_index": 567,
+      "start_time": 5209.673,
+      "end_time": 5215.014,
+      "duration": 5.341000000000349,
+      "dialogue_text": "¿Donde están, tanques americanos? ¡Vengan por mi!"
+    },
+    {
+      "subtitle_index": 568,
+      "start_time": 5230.168,
+      "end_time": 5231.751,
+      "duration": 1.5830000000005384,
+      "dialogue_text": "¿Cómo está el prisionero?"
+    },
+    {
+      "subtitle_index": 569,
+      "start_time": 5232.277,
+      "end_time": 5233.649,
+      "duration": 1.3720000000002983,
+      "dialogue_text": "Esta despierto, señor."
+    },
+    {
+      "subtitle_index": 570,
+      "start_time": 5237.519,
+      "end_time": 5241.148,
+      "duration": 3.6289999999999054,
+      "dialogue_text": "Lo interrogare para sacarle información."
+    },
+    {
+      "subtitle_index": 571,
+      "start_time": 5247.312,
+      "end_time": 5250.565,
+      "duration": 3.2529999999997017,
+      "dialogue_text": "¿De dónde eres, soldado?"
+    },
+    {
+      "subtitle_index": 572,
+      "start_time": 5251.178,
+      "end_time": 5254.105,
+      "duration": 2.92699999999968,
+      "dialogue_text": "Soy de la Marina, compañía Alfa."
+    },
+    {
+      "subtitle_index": 573,
+      "start_time": 5254.229,
+      "end_time": 5258.855,
+      "duration": 4.625999999999294,
+      "dialogue_text": "Bueno, marino... Me refería a dónde naciste."
+    },
+    {
+      "subtitle_index": 574,
+      "start_time": 5263.9,
+      "end_time": 5267.183,
+      "duration": 3.2830000000003565,
+      "dialogue_text": "Viví algún tiempo en California."
+    },
+    {
+      "subtitle_index": 575,
+      "start_time": 5267.633,
+      "end_time": 5272.465,
+      "duration": 4.832000000000335,
+      "dialogue_text": "¿Conoces a Mary Pickford o a Douglas Fairbanks?"
+    },
+    {
+      "subtitle_index": 576,
+      "start_time": 5274.407,
+      "end_time": 5277.218,
+      "duration": 2.8109999999996944,
+      "dialogue_text": "Claro, todo el mundo los conoce."
+    },
+    {
+      "subtitle_index": 577,
+      "start_time": 5278.59,
+      "end_time": 5285.577,
+      "duration": 6.98700000000008,
+      "dialogue_text": "Son amigos míos... Estuvieron en mi casa en Tokio."
+    },
+    {
+      "subtitle_index": 578,
+      "start_time": 5287.669,
+      "end_time": 5292.009,
+      "duration": 4.3400000000001455,
+      "dialogue_text": "¿En verdad? ¿Es usted famoso?"
+    },
+    {
+      "subtitle_index": 579,
+      "start_time": 5294.177,
+      "end_time": 5300.148,
+      "duration": 5.971000000000458,
+      "dialogue_text": "Participe en las Olimpiadas de Los Ángeles, en 1932."
+    },
+    {
+      "subtitle_index": 580,
+      "start_time": 5302.619,
+      "end_time": 5304.437,
+      "duration": 1.818000000000211,
+      "dialogue_text": "¿Es verdad eso?"
+    },
+    {
+      "subtitle_index": 581,
+      "start_time": 5310.26,
+      "end_time": 5316.291,
+      "duration": 6.030999999999949,
+      "dialogue_text": "En esta fotografía estoy en el lomo de mi caballo, saltando."
+    },
+    {
+      "subtitle_index": 582,
+      "start_time": 5320.271,
+      "end_time": 5325.231,
+      "duration": 4.960000000000036,
+      "dialogue_text": "No bromee."
+    },
+    {
+      "subtitle_index": 583,
+      "start_time": 5325.843,
+      "end_time": 5330.804,
+      "duration": 4.96100000000024,
+      "dialogue_text": "Oklahoma. De ahí soy."
+    },
+    {
+      "subtitle_index": 584,
+      "start_time": 5331.183,
+      "end_time": 5335.545,
+      "duration": 4.36200000000008,
+      "dialogue_text": "-Takeichi. -Sam."
+    },
+    {
+      "subtitle_index": 585,
+      "start_time": 5347.209,
+      "end_time": 5348.469,
+      "duration": 1.2600000000002183,
+      "dialogue_text": "Maldición."
+    },
+    {
+      "subtitle_index": 586,
+      "start_time": 5350.866,
+      "end_time": 5354.486,
+      "duration": 3.619999999999891,
+      "dialogue_text": "Ya estoy harto de esto voy a rendirme."
+    },
+    {
+      "subtitle_index": 587,
+      "start_time": 5359.342,
+      "end_time": 5363.874,
+      "duration": 4.532000000000153,
+      "dialogue_text": "Vamos, arréstame. Ya no me importa."
+    },
+    {
+      "subtitle_index": 588,
+      "start_time": 5364.087,
+      "end_time": 5366.718,
+      "duration": 2.6309999999994034,
+      "dialogue_text": "Para eso te enviaron aquí, ¿no?"
+    },
+    {
+      "subtitle_index": 589,
+      "start_time": 5367.676,
+      "end_time": 5371.305,
+      "duration": 3.6289999999999054,
+      "dialogue_text": "Para informar de los pensamientos desleales."
+    },
+    {
+      "subtitle_index": 590,
+      "start_time": 5374.81,
+      "end_time": 5380.439,
+      "duration": 5.628999999999905,
+      "dialogue_text": "Me enviaron aquí porque me echaron de los Kempeitai."
+    },
+    {
+      "subtitle_index": 591,
+      "start_time": 5383.335,
+      "end_time": 5384.966,
+      "duration": 1.6310000000003129,
+      "dialogue_text": "¿Te echaron?"
+    },
+    {
+      "subtitle_index": 592,
+      "start_time": 5389.162,
+      "end_time": 5394.137,
+      "duration": 4.974999999999454,
+      "dialogue_text": "sólo llevaba cinco días de servicio."
+    },
+    {
+      "subtitle_index": 593,
+      "start_time": 5396.811,
+      "end_time": 5399.658,
+      "duration": 2.847000000000662,
+      "dialogue_text": "Shimizu, Debes ser firme siempre."
+    },
+    {
+      "subtitle_index": 594,
+      "start_time": 5400.556,
+      "end_time": 5405.324,
+      "duration": 4.768000000000029,
+      "dialogue_text": "Si muestras la menor piedad, la gente se aprovechara de ti."
+    },
+    {
+      "subtitle_index": 595,
+      "start_time": 5410.689,
+      "end_time": 5413.607,
+      "duration": 2.9179999999996653,
+      "dialogue_text": "Eso es antipatriótico. Resuélvelo, Shimizu."
+    },
+    {
+      "subtitle_index": 596,
+      "start_time": 5426.205,
+      "end_time": 5428.831,
+      "duration": 2.6260000000002037,
+      "dialogue_text": "No tiene puesta la Bandera Imperial."
+    },
+    {
+      "subtitle_index": 597,
+      "start_time": 5429.131,
+      "end_time": 5434.208,
+      "duration": 5.076999999999316,
+      "dialogue_text": "Lo siento, mi esposo se fue a la guerra y no pude colocarla yo sola."
+    },
+    {
+      "subtitle_index": 598,
+      "start_time": 5434.308,
+      "end_time": 5439.537,
+      "duration": 5.229000000000269,
+      "dialogue_text": "-Es desleal no poner la bandera. -Si me ayuda la pondré ahora mismo."
+    },
+    {
+      "subtitle_index": 599,
+      "start_time": 5460.031,
+      "end_time": 5462.667,
+      "duration": 2.636000000000422,
+      "dialogue_text": "Haga callar a ese perro."
+    },
+    {
+      "subtitle_index": 600,
+      "start_time": 5463.716,
+      "end_time": 5465.255,
+      "duration": 1.53899999999976,
+      "dialogue_text": "¿Qué dice señor?"
+    },
+    {
+      "subtitle_index": 601,
+      "start_time": 5465.878,
+      "end_time": 5469.992,
+      "duration": 4.1140000000004875,
+      "dialogue_text": "Ese perro es una molestia para las comunicaciones del ejército."
+    },
+    {
+      "subtitle_index": 602,
+      "start_time": 5470.709,
+      "end_time": 5478.76,
+      "duration": 8.051000000000386,
+      "dialogue_text": "Lo siento mucho, señor. ya cállate perro."
+    },
+    {
+      "subtitle_index": 603,
+      "start_time": 5479.985,
+      "end_time": 5481.885,
+      "duration": 1.9000000000005457,
+      "dialogue_text": "Shimizu, ocúpate del perro."
+    },
+    {
+      "subtitle_index": 604,
+      "start_time": 5482.533,
+      "end_time": 5486.247,
+      "duration": 3.713999999999942,
+      "dialogue_text": "No podemos permitir que interfiera con las órdenes militares."
+    },
+    {
+      "subtitle_index": 605,
+      "start_time": 5491.877,
+      "end_time": 5493.725,
+      "duration": 1.8479999999999563,
+      "dialogue_text": "Llévese el perro atrás."
+    },
+    {
+      "subtitle_index": 606,
+      "start_time": 5493.825,
+      "end_time": 5498.017,
+      "duration": 4.192000000000007,
+      "dialogue_text": "Es sólo un perro... No volverá a pasar."
+    },
+    {
+      "subtitle_index": 607,
+      "start_time": 5498.359,
+      "end_time": 5502.141,
+      "duration": 3.7819999999992433,
+      "dialogue_text": "Llévelo atrás... Que lo niños entre a la casa."
+    },
+    {
+      "subtitle_index": 608,
+      "start_time": 5503.215,
+      "end_time": 5504.629,
+      "duration": 1.41399999999976,
+      "dialogue_text": "Date prisa."
+    },
+    {
+      "subtitle_index": 609,
+      "start_time": 5552.904,
+      "end_time": 5555.131,
+      "duration": 2.2269999999998618,
+      "dialogue_text": "Métalo en la casa y que no haga ruido."
+    },
+    {
+      "subtitle_index": 610,
+      "start_time": 5555.605,
+      "end_time": 5557.071,
+      "duration": 1.4660000000003492,
+      "dialogue_text": "Y no lo saque nunca más."
+    },
+    {
+      "subtitle_index": 611,
+      "start_time": 5569.079,
+      "end_time": 5570.531,
+      "duration": 1.4520000000002256,
+      "dialogue_text": "-Ya esta, Señor. -Bien."
+    },
+    {
+      "subtitle_index": 612,
+      "start_time": 5608.913,
+      "end_time": 5615.791,
+      "duration": 6.878000000000611,
+      "dialogue_text": "¿Intentas burlarte de mi? Si no puedes ni matar un perro."
+    },
+    {
+      "subtitle_index": 613,
+      "start_time": 5616.663,
+      "end_time": 5621.017,
+      "duration": 4.354000000000269,
+      "dialogue_text": "Nunca podrás con los rojos, ¡Eres un traidor!"
+    },
+    {
+      "subtitle_index": 614,
+      "start_time": 5619.122,
+      "end_time": 5621.29,
+      "duration": 2.1679999999996653,
+      "dialogue_text": "Levántate."
+    },
+    {
+      "subtitle_index": 615,
+      "start_time": 5627.403,
+      "end_time": 5633.964,
+      "duration": 6.560999999999694,
+      "dialogue_text": "Me expulsaron por la insubordinación. Y me mandaron aquí."
+    },
+    {
+      "subtitle_index": 616,
+      "start_time": 5641.449,
+      "end_time": 5648.867,
+      "duration": 7.418000000000575,
+      "dialogue_text": "No estés tan triste, Shimizu. Al menos ahora sólo te odia el enemigo."
+    },
+    {
+      "subtitle_index": 617,
+      "start_time": 5652.507,
+      "end_time": 5655.826,
+      "duration": 3.3190000000004147,
+      "dialogue_text": "No culpo a aquel perro."
+    },
+    {
+      "subtitle_index": 618,
+      "start_time": 5680.116,
+      "end_time": 5684.332,
+      "duration": 4.216000000000349,
+      "dialogue_text": "Taro, hoy ha asistido a mi banquete de despedida."
+    },
+    {
+      "subtitle_index": 619,
+      "start_time": 5685.193,
+      "end_time": 5687.822,
+      "duration": 2.6289999999999054,
+      "dialogue_text": "También había esposas de modo que la obligación de..."
+    },
+    {
+      "subtitle_index": 620,
+      "start_time": 5688.022,
+      "end_time": 5694.789,
+      "duration": 6.766999999999825,
+      "dialogue_text": "…saludar a todas las mujeres, me ha impedido disfrutar de la comida."
+    },
+    {
+      "subtitle_index": 621,
+      "start_time": 5696.46,
+      "end_time": 5699.73,
+      "duration": 3.269999999999527,
+      "dialogue_text": "Damas y caballeros, su atención por favor."
+    },
+    {
+      "subtitle_index": 622,
+      "start_time": 5700.91,
+      "end_time": 5704.836,
+      "duration": 3.9260000000003856,
+      "dialogue_text": "Nuestro invitado de honor viene del Imperio del Japón..."
+    },
+    {
+      "subtitle_index": 623,
+      "start_time": 5705.071,
+      "end_time": 5707.505,
+      "duration": 2.4340000000001965,
+      "dialogue_text": "Capitán Kuribayashi..."
+    },
+    {
+      "subtitle_index": 624,
+      "start_time": 5707.561,
+      "end_time": 5710.507,
+      "duration": 2.9459999999999127,
+      "dialogue_text": "Acepte como muestra de amistad."
+    },
+    {
+      "subtitle_index": 625,
+      "start_time": 5710.642,
+      "end_time": 5713.939,
+      "duration": 3.29700000000048,
+      "dialogue_text": "Esta Colt 45 M1911."
+    },
+    {
+      "subtitle_index": 626,
+      "start_time": 5713.974,
+      "end_time": 5716.905,
+      "duration": 2.9309999999995853,
+      "dialogue_text": "Algo que debe tener todo oficial de la caballería."
+    },
+    {
+      "subtitle_index": 627,
+      "start_time": 5721.261,
+      "end_time": 5724.435,
+      "duration": 3.173999999999978,
+      "dialogue_text": "Gracias por este hermoso regalo, y por su amistad."
+    },
+    {
+      "subtitle_index": 628,
+      "start_time": 5724.436,
+      "end_time": 5726.272,
+      "duration": 1.83600000000024,
+      "dialogue_text": "-De nada. -Lo echare de menos."
+    },
+    {
+      "subtitle_index": 629,
+      "start_time": 5732.462,
+      "end_time": 5735.37,
+      "duration": 2.907999999999447,
+      "dialogue_text": "Tomen asiento y disfruten la cena."
+    },
+    {
+      "subtitle_index": 630,
+      "start_time": 5743.763,
+      "end_time": 5745.386,
+      "duration": 1.623000000000502,
+      "dialogue_text": "Es hermosa."
+    },
+    {
+      "subtitle_index": 631,
+      "start_time": 5749.758,
+      "end_time": 5752.258,
+      "duration": 2.5,
+      "dialogue_text": "¿Se lo preguntamos al Capitán Kuri?"
+    },
+    {
+      "subtitle_index": 632,
+      "start_time": 5752.293,
+      "end_time": 5755.758,
+      "duration": 3.4650000000001455,
+      "dialogue_text": "No le molesta que le llame \"Kuri\", ¿verdad, Capitán?"
+    },
+    {
+      "subtitle_index": 633,
+      "start_time": 5756.193,
+      "end_time": 5757.163,
+      "duration": 0.9699999999993452,
+      "dialogue_text": "¿Capitán?"
+    },
+    {
+      "subtitle_index": 634,
+      "start_time": 5758.935,
+      "end_time": 5763.177,
+      "duration": 4.24199999999928,
+      "dialogue_text": "¿Cómo se sentiría si América y Japón entraran en guerra?"
+    },
+    {
+      "subtitle_index": 635,
+      "start_time": 5764.307,
+      "end_time": 5767.764,
+      "duration": 3.4570000000003347,
+      "dialogue_text": "Creo que serian uno magníficos aliados."
+    },
+    {
+      "subtitle_index": 636,
+      "start_time": 5768.164,
+      "end_time": 5770.721,
+      "duration": 2.556999999999789,
+      "dialogue_text": "No, quiere decir un país contra el otro."
+    },
+    {
+      "subtitle_index": 637,
+      "start_time": 5772.048,
+      "end_time": 5776.091,
+      "duration": 4.043000000000575,
+      "dialogue_text": "Estados Unidos es el último país al que debería enfrentarse Japón."
+    },
+    {
+      "subtitle_index": 638,
+      "start_time": 5776.326,
+      "end_time": 5781.373,
+      "duration": 5.046999999999571,
+      "dialogue_text": "Pero si esto ocurriera... cumpliría mi deber con mi patria."
+    },
+    {
+      "subtitle_index": 639,
+      "start_time": 5782.965,
+      "end_time": 5787.088,
+      "duration": 4.1229999999995925,
+      "dialogue_text": "Es decir que si Bertie estuviera en el otro bando, le dispararía."
+    },
+    {
+      "subtitle_index": 640,
+      "start_time": 5790.375,
+      "end_time": 5794.908,
+      "duration": 4.5330000000003565,
+      "dialogue_text": "-Tendría que seguir mis convicciones. -¿Sus convicciones, o las de su país'"
+    },
+    {
+      "subtitle_index": 641,
+      "start_time": 5796.509,
+      "end_time": 5798.554,
+      "duration": 2.0450000000000728,
+      "dialogue_text": "¿No son las mismas?"
+    },
+    {
+      "subtitle_index": 642,
+      "start_time": 5799.55,
+      "end_time": 5804.363,
+      "duration": 4.813000000000102,
+      "dialogue_text": "-Habla como un auténtico soldado. -Eso es horrible."
+    },
+    {
+      "subtitle_index": 643,
+      "start_time": 5804.398,
+      "end_time": 5806.9,
+      "duration": 2.501999999999498,
+      "dialogue_text": "Bertie, estás muerto."
+    },
+    {
+      "subtitle_index": 644,
+      "start_time": 5806.935,
+      "end_time": 5810.094,
+      "duration": 3.1589999999996508,
+      "dialogue_text": "¡No! ¡No! ¡Jamás!"
+    },
+    {
+      "subtitle_index": 645,
+      "start_time": 5828.068,
+      "end_time": 5829.968,
+      "duration": 1.8999999999996362,
+      "dialogue_text": "Eh, ¿Sam?"
+    },
+    {
+      "subtitle_index": 646,
+      "start_time": 5859.263,
+      "end_time": 5861.568,
+      "duration": 2.305000000000291,
+      "dialogue_text": "Alguna información sobre el plan enemigo."
+    },
+    {
+      "subtitle_index": 647,
+      "start_time": 5862.016,
+      "end_time": 5864.308,
+      "duration": 2.292000000000371,
+      "dialogue_text": "No. Es sólo una carta."
+    },
+    {
+      "subtitle_index": 648,
+      "start_time": 5866.179,
+      "end_time": 5868.6,
+      "duration": 2.4210000000002765,
+      "dialogue_text": "De su madre."
+    },
+    {
+      "subtitle_index": 649,
+      "start_time": 5870.407,
+      "end_time": 5874.706,
+      "duration": 4.298999999999978,
+      "dialogue_text": "Sam, te envió por correo un par de libros."
+    },
+    {
+      "subtitle_index": 650,
+      "start_time": 5875.541,
+      "end_time": 5877.926,
+      "duration": 2.3850000000002183,
+      "dialogue_text": "Espero que te gusten."
+    },
+    {
+      "subtitle_index": 651,
+      "start_time": 5878.55,
+      "end_time": 5885.295,
+      "duration": 6.744999999999891,
+      "dialogue_text": "Ayer, los perros hicieron un hoyo bajo la reja del jardín."
+    },
+    {
+      "subtitle_index": 652,
+      "start_time": 5886.294,
+      "end_time": 5891.183,
+      "duration": 4.889000000000124,
+      "dialogue_text": "Y escaparon hacia el vecindario."
+    },
+    {
+      "subtitle_index": 653,
+      "start_time": 5891.583,
+      "end_time": 5900.027,
+      "duration": 8.444000000000415,
+      "dialogue_text": "Y cuando los encontramos, los gallos de los Harrison estaban aterrorizados."
+    },
+    {
+      "subtitle_index": 654,
+      "start_time": 5900.798,
+      "end_time": 5908.879,
+      "duration": 8.081000000000131,
+      "dialogue_text": "No te preocupes por nosotros. Cuídate y vuelve sano y salvo."
+    },
+    {
+      "subtitle_index": 655,
+      "start_time": 5909.388,
+      "end_time": 5914.332,
+      "duration": 4.944000000000415,
+      "dialogue_text": "Recuerda lo que te dije."
+    },
+    {
+      "subtitle_index": 656,
+      "start_time": 5916.146,
+      "end_time": 5922.448,
+      "duration": 6.302000000000589,
+      "dialogue_text": "Haz siempre lo correcto. Porque es lo correcto."
+    },
+    {
+      "subtitle_index": 657,
+      "start_time": 5922.87,
+      "end_time": 5926.75,
+      "duration": 3.880000000000109,
+      "dialogue_text": "Rezo por que la guerra termine pronto."
+    },
+    {
+      "subtitle_index": 658,
+      "start_time": 5926.85,
+      "end_time": 5932.741,
+      "duration": 5.890999999999622,
+      "dialogue_text": "Y regreses sano y salvo... con cariño, mama."
+    },
+    {
+      "subtitle_index": 659,
+      "start_time": 5965.73,
+      "end_time": 5968.109,
+      "duration": 2.379000000000815,
+      "dialogue_text": "Lo siento, Señor Ya no queda medicinas."
+    },
+    {
+      "subtitle_index": 660,
+      "start_time": 5968.309,
+      "end_time": 5971.524,
+      "duration": 3.2150000000001455,
+      "dialogue_text": "Da igual, Ahora estoy inutilizado. ¡Ayuda a los otros!"
+    },
+    {
+      "subtitle_index": 661,
+      "start_time": 6063.083,
+      "end_time": 6064.98,
+      "duration": 1.8969999999999345,
+      "dialogue_text": "Okubo, venga aquí."
+    },
+    {
+      "subtitle_index": 662,
+      "start_time": 6071.759,
+      "end_time": 6073.665,
+      "duration": 1.905999999999949,
+      "dialogue_text": "¿Cómo estamos de municiones?"
+    },
+    {
+      "subtitle_index": 663,
+      "start_time": 6075.508,
+      "end_time": 6078.585,
+      "duration": 3.0770000000002256,
+      "dialogue_text": "No demasiado bien, señor."
+    },
+    {
+      "subtitle_index": 664,
+      "start_time": 6079.627,
+      "end_time": 6084.104,
+      "duration": 4.476999999999862,
+      "dialogue_text": "Han destruido nuestros morteros y las ametralladoras no tienen munición."
+    },
+    {
+      "subtitle_index": 665,
+      "start_time": 6085.858,
+      "end_time": 6089.477,
+      "duration": 3.618999999999687,
+      "dialogue_text": "Solamente nos quedan los rifles."
+    },
+    {
+      "subtitle_index": 666,
+      "start_time": 6091.478,
+      "end_time": 6097.031,
+      "duration": 5.552999999999884,
+      "dialogue_text": "Okubo, Tte. Lo dejo a cargo de los hombres."
+    },
+    {
+      "subtitle_index": 667,
+      "start_time": 6101.02,
+      "end_time": 6103.035,
+      "duration": 2.014999999999418,
+      "dialogue_text": "Ya no podemos defender esto."
+    },
+    {
+      "subtitle_index": 668,
+      "start_time": 6103.432,
+      "end_time": 6106.596,
+      "duration": 3.16399999999976,
+      "dialogue_text": "Debe llevar a los hombres, hacia al Norte."
+    },
+    {
+      "subtitle_index": 669,
+      "start_time": 6109.479,
+      "end_time": 6112.929,
+      "duration": 3.449999999999818,
+      "dialogue_text": "Toma todas las provisiones y la munición que nos quede."
+    },
+    {
+      "subtitle_index": 670,
+      "start_time": 6114.309,
+      "end_time": 6116.794,
+      "duration": 2.4849999999996726,
+      "dialogue_text": "Pero... ¿y usted, Señor?"
+    },
+    {
+      "subtitle_index": 671,
+      "start_time": 6119.979,
+      "end_time": 6123.973,
+      "duration": 3.993999999999687,
+      "dialogue_text": "Ya me harte de compartir esta cueva con ustedes."
+    },
+    {
+      "subtitle_index": 672,
+      "start_time": 6124.292,
+      "end_time": 6126.807,
+      "duration": 2.514999999999418,
+      "dialogue_text": "Desde ahora actuaré en solitario."
+    },
+    {
+      "subtitle_index": 673,
+      "start_time": 6127.107,
+      "end_time": 6129.099,
+      "duration": 1.9920000000001892,
+      "dialogue_text": "¿Qué quiere decir, Señor?"
+    },
+    {
+      "subtitle_index": 674,
+      "start_time": 6130.309,
+      "end_time": 6138.028,
+      "duration": 7.719000000000051,
+      "dialogue_text": "Tu primer deber, es encontrar agua."
+    },
+    {
+      "subtitle_index": 675,
+      "start_time": 6163.437,
+      "end_time": 6167.883,
+      "duration": 4.445999999999913,
+      "dialogue_text": "Hombres... Haga todo lo que puedan."
+    },
+    {
+      "subtitle_index": 676,
+      "start_time": 6169.042,
+      "end_time": 6177.975,
+      "duration": 8.932999999999993,
+      "dialogue_text": "Hagan lo correcto... Porque esto es lo correcto..."
+    },
+    {
+      "subtitle_index": 677,
+      "start_time": 6180.42,
+      "end_time": 6185.344,
+      "duration": 4.923999999999978,
+      "dialogue_text": "-¿Entienden...? -Señor, si señor..."
+    },
+    {
+      "subtitle_index": 678,
+      "start_time": 6188.868,
+      "end_time": 6193.601,
+      "duration": 4.732999999999265,
+      "dialogue_text": "Me asegurare que le envíen medicinas y alimentos."
+    },
+    {
+      "subtitle_index": 679,
+      "start_time": 6196.124,
+      "end_time": 6203.347,
+      "duration": 7.222999999999956,
+      "dialogue_text": "Ha sido un gran honor servir... a sus órdenes."
+    },
+    {
+      "subtitle_index": 680,
+      "start_time": 6220.273,
+      "end_time": 6221.825,
+      "duration": 1.5519999999996799,
+      "dialogue_text": "En marcha."
+    },
+    {
+      "subtitle_index": 681,
+      "start_time": 6234.774,
+      "end_time": 6236.426,
+      "duration": 1.6520000000000437,
+      "dialogue_text": "Okubo."
+    },
+    {
+      "subtitle_index": 682,
+      "start_time": 6238.729,
+      "end_time": 6240.191,
+      "duration": 1.4619999999995343,
+      "dialogue_text": "Señor."
+    },
+    {
+      "subtitle_index": 683,
+      "start_time": 6242.03,
+      "end_time": 6244.491,
+      "duration": 2.46100000000024,
+      "dialogue_text": "Deme mi rifle."
+    },
+    {
+      "subtitle_index": 684,
+      "start_time": 6267.414,
+      "end_time": 6269.538,
+      "duration": 2.1239999999997963,
+      "dialogue_text": "Lo siento, Okubo."
+    },
+    {
+      "subtitle_index": 685,
+      "start_time": 6349.477,
+      "end_time": 6352.42,
+      "duration": 2.943000000000211,
+      "dialogue_text": "¿Porque no hay informes? ¿Se sabe algo del almirante Ichimaru?"
+    },
+    {
+      "subtitle_index": 686,
+      "start_time": 6352.52,
+      "end_time": 6353.32,
+      "duration": 0.7999999999992724,
+      "dialogue_text": "No, señor."
+    },
+    {
+      "subtitle_index": 687,
+      "start_time": 6353.52,
+      "end_time": 6355.61,
+      "duration": 2.089999999999236,
+      "dialogue_text": "¿Y de Nishi o de Hayashi?"
+    },
+    {
+      "subtitle_index": 688,
+      "start_time": 6357.604,
+      "end_time": 6360.066,
+      "duration": 2.4619999999995343,
+      "dialogue_text": "-¡Envíen mensajeros! -Han salido muchos."
+    },
+    {
+      "subtitle_index": 689,
+      "start_time": 6361.187,
+      "end_time": 6363.478,
+      "duration": 2.2910000000001673,
+      "dialogue_text": "Y ninguno ha vuelto."
+    },
+    {
+      "subtitle_index": 690,
+      "start_time": 6363.711,
+      "end_time": 6366.246,
+      "duration": 2.5349999999998545,
+      "dialogue_text": "¡Así no se puede hacer un plan!"
+    },
+    {
+      "subtitle_index": 691,
+      "start_time": 6376.242,
+      "end_time": 6379.992,
+      "duration": 3.75,
+      "dialogue_text": "He estado pensando en lo que dijo el teniente Coronel Nishi."
+    },
+    {
+      "subtitle_index": 692,
+      "start_time": 6380.601,
+      "end_time": 6382.214,
+      "duration": 1.6130000000002838,
+      "dialogue_text": "Tenía razón."
+    },
+    {
+      "subtitle_index": 693,
+      "start_time": 6387.262,
+      "end_time": 6390.286,
+      "duration": 3.024000000000342,
+      "dialogue_text": "Yo no sé nada del enemigo."
+    },
+    {
+      "subtitle_index": 694,
+      "start_time": 6390.929,
+      "end_time": 6394.907,
+      "duration": 3.9780000000000655,
+      "dialogue_text": "Creía que los americanos eran unos cobardes."
+    },
+    {
+      "subtitle_index": 695,
+      "start_time": 6400.677,
+      "end_time": 6402.978,
+      "duration": 2.3010000000003856,
+      "dialogue_text": "Pero no lo son."
+    },
+    {
+      "subtitle_index": 696,
+      "start_time": 6407.654,
+      "end_time": 6413.219,
+      "duration": 5.5649999999996,
+      "dialogue_text": "Me enseñaron... Que eran unos salvajes"
+    },
+    {
+      "subtitle_index": 697,
+      "start_time": 6415.182,
+      "end_time": 6417.588,
+      "duration": 2.405999999999949,
+      "dialogue_text": "Pero ese soldado americano…"
+    },
+    {
+      "subtitle_index": 698,
+      "start_time": 6424.537,
+      "end_time": 6427.566,
+      "duration": 3.0289999999995416,
+      "dialogue_text": "…lo que su madre escribió…"
+    },
+    {
+      "subtitle_index": 699,
+      "start_time": 6430.546,
+      "end_time": 6433.099,
+      "duration": 2.5529999999998836,
+      "dialogue_text": "…es lo mismo que diría la mía."
+    },
+    {
+      "subtitle_index": 700,
+      "start_time": 6434.019,
+      "end_time": 6440.946,
+      "duration": 6.92699999999968,
+      "dialogue_text": "Deseo cumplir mi deber para con el General... y nuestra Patria."
+    },
+    {
+      "subtitle_index": 701,
+      "start_time": 6442.701,
+      "end_time": 6446.214,
+      "duration": 3.51299999999992,
+      "dialogue_text": "Pero no quiero morir inútilmente"
+    },
+    {
+      "subtitle_index": 702,
+      "start_time": 6450.978,
+      "end_time": 6452.631,
+      "duration": 1.6530000000002474,
+      "dialogue_text": "¿Tú qué piensas?"
+    },
+    {
+      "subtitle_index": 703,
+      "start_time": 6464.481,
+      "end_time": 6465.966,
+      "duration": 1.485000000000582,
+      "dialogue_text": "Nada."
+    },
+    {
+      "subtitle_index": 704,
+      "start_time": 6466.844,
+      "end_time": 6471.592,
+      "duration": 4.7479999999995925,
+      "dialogue_text": "No has vivido lo suficiente para darte cuenta…"
+    },
+    {
+      "subtitle_index": 705,
+      "start_time": 6474.531,
+      "end_time": 6477.242,
+      "duration": 2.71100000000024,
+      "dialogue_text": "…de lo que estas sacrificando."
+    },
+    {
+      "subtitle_index": 706,
+      "start_time": 6485.361,
+      "end_time": 6487.753,
+      "duration": 2.3919999999998254,
+      "dialogue_text": "¿Te rendirás conmigo?"
+    },
+    {
+      "subtitle_index": 707,
+      "start_time": 6508.888,
+      "end_time": 6510.134,
+      "duration": 1.2460000000000946,
+      "dialogue_text": "Cuidado."
+    },
+    {
+      "subtitle_index": 708,
+      "start_time": 6513.928,
+      "end_time": 6516.16,
+      "duration": 2.231999999999971,
+      "dialogue_text": "Si nos vamos juntos lo notaran, márchate tú primero."
+    },
+    {
+      "subtitle_index": 709,
+      "start_time": 6518.607,
+      "end_time": 6522.981,
+      "duration": 4.373999999999796,
+      "dialogue_text": "Pondré alguna excusa por ti. Más tarde diré que voy a verte."
+    },
+    {
+      "subtitle_index": 710,
+      "start_time": 6523.442,
+      "end_time": 6530.985,
+      "duration": 7.542999999999665,
+      "dialogue_text": "-Nos iremos sin que lo noten. -Finge que tienes disentería."
+    },
+    {
+      "subtitle_index": 711,
+      "start_time": 6531.726,
+      "end_time": 6534.364,
+      "duration": 2.63799999999992,
+      "dialogue_text": "Pone cara de tener disentería."
+    },
+    {
+      "subtitle_index": 712,
+      "start_time": 6543.803,
+      "end_time": 6545.328,
+      "duration": 1.5250000000005457,
+      "dialogue_text": "Tendré que conformarme con eso."
+    },
+    {
+      "subtitle_index": 713,
+      "start_time": 6555.282,
+      "end_time": 6556.21,
+      "duration": 0.9279999999998836,
+      "dialogue_text": "¿A dónde vas?"
+    },
+    {
+      "subtitle_index": 714,
+      "start_time": 6556.41,
+      "end_time": 6560.116,
+      "duration": 3.706000000000131,
+      "dialogue_text": "Tengo disentería... vas a rendirte. ¿verdad?"
+    },
+    {
+      "subtitle_index": 715,
+      "start_time": 6560.616,
+      "end_time": 6562.57,
+      "duration": 1.9539999999997235,
+      "dialogue_text": "Si vas a hacerlo, llévame contigo..."
+    },
+    {
+      "subtitle_index": 716,
+      "start_time": 6563.289,
+      "end_time": 6566.385,
+      "duration": 3.0960000000004584,
+      "dialogue_text": "-Yo estoy harto de esta guerra -¡Calla!"
+    },
+    {
+      "subtitle_index": 717,
+      "start_time": 6573.467,
+      "end_time": 6576.894,
+      "duration": 3.4270000000005894,
+      "dialogue_text": "¿A dónde van ustedes?"
+    },
+    {
+      "subtitle_index": 718,
+      "start_time": 6577.388,
+      "end_time": 6582.434,
+      "duration": 5.0460000000002765,
+      "dialogue_text": "No se siente bien, tiene disentería... Los dos deténganse ahí..."
+    },
+    {
+      "subtitle_index": 719,
+      "start_time": 6605.423,
+      "end_time": 6612.116,
+      "duration": 6.693000000000211,
+      "dialogue_text": "Miura, te quedas de guardia. y evite que salgan mas desertores."
+    },
+    {
+      "subtitle_index": 720,
+      "start_time": 6621.304,
+      "end_time": 6627.315,
+      "duration": 6.0109999999995125,
+      "dialogue_text": "Señor, en la loma. Apúntenle, pero no disparen."
+    },
+    {
+      "subtitle_index": 721,
+      "start_time": 6622.207,
+      "end_time": 6626.059,
+      "duration": 3.8519999999998618,
+      "dialogue_text": "Cuidado."
+    },
+    {
+      "subtitle_index": 722,
+      "start_time": 6626.06,
+      "end_time": 6627.06,
+      "duration": 1.0,
+      "dialogue_text": "Túmbalo."
+    },
+    {
+      "subtitle_index": 723,
+      "start_time": 6655.22,
+      "end_time": 6658.589,
+      "duration": 3.368999999999687,
+      "dialogue_text": "¿Tiene más armas? Denle agua."
+    },
+    {
+      "subtitle_index": 724,
+      "start_time": 6666.935,
+      "end_time": 6668.352,
+      "duration": 1.4169999999994616,
+      "dialogue_text": "Llévenlo allá, vamos."
+    },
+    {
+      "subtitle_index": 725,
+      "start_time": 6682.362,
+      "end_time": 6686.493,
+      "duration": 4.131000000000313,
+      "dialogue_text": "Bien, nos marchamos... ¿Y los prisioneros, señor?"
+    },
+    {
+      "subtitle_index": 726,
+      "start_time": 6686.728,
+      "end_time": 6689.58,
+      "duration": 2.8519999999998618,
+      "dialogue_text": "Ustedes dos, quédense a vigilar."
+    },
+    {
+      "subtitle_index": 727,
+      "start_time": 6691.127,
+      "end_time": 6693.177,
+      "duration": 2.0499999999992724,
+      "dialogue_text": "Vamos marinos, en marcha."
+    },
+    {
+      "subtitle_index": 728,
+      "start_time": 6696.974,
+      "end_time": 6698.76,
+      "duration": 1.7860000000000582,
+      "dialogue_text": "¿En qué unidad estabas?"
+    },
+    {
+      "subtitle_index": 729,
+      "start_time": 6701.455,
+      "end_time": 6705.395,
+      "duration": 3.9400000000005093,
+      "dialogue_text": "En la 314 en el Higashiyama."
+    },
+    {
+      "subtitle_index": 730,
+      "start_time": 6706.753,
+      "end_time": 6708.25,
+      "duration": 1.4970000000002983,
+      "dialogue_text": "Mala suerte."
+    },
+    {
+      "subtitle_index": 731,
+      "start_time": 6711.146,
+      "end_time": 6713.72,
+      "duration": 2.574000000000524,
+      "dialogue_text": "No habrá que vigilarlos toda la noche, ¿no?"
+    },
+    {
+      "subtitle_index": 732,
+      "start_time": 6714.989,
+      "end_time": 6722.001,
+      "duration": 7.012000000000626,
+      "dialogue_text": "-¿Has oído? -Escuche que nos darían de comer."
+    },
+    {
+      "subtitle_index": 733,
+      "start_time": 6723.818,
+      "end_time": 6730.942,
+      "duration": 7.123999999999796,
+      "dialogue_text": "¿Comer? Qué bien suena eso."
+    },
+    {
+      "subtitle_index": 734,
+      "start_time": 6731.245,
+      "end_time": 6734.455,
+      "duration": 3.2100000000000364,
+      "dialogue_text": "-Podríamos llevarlos a la playa. -¿Bromeas?"
+    },
+    {
+      "subtitle_index": 735,
+      "start_time": 6735.755,
+      "end_time": 6738.288,
+      "duration": 2.532999999999447,
+      "dialogue_text": "Yo también soy de Yokohama."
+    },
+    {
+      "subtitle_index": 736,
+      "start_time": 6741.023,
+      "end_time": 6745.424,
+      "duration": 4.40099999999984,
+      "dialogue_text": "Cuando esto acabe, puedes venir a visitarme."
+    },
+    {
+      "subtitle_index": 737,
+      "start_time": 6745.986,
+      "end_time": 6748.443,
+      "duration": 2.4570000000003347,
+      "dialogue_text": "Seriamos blancos fáciles para ellos."
+    },
+    {
+      "subtitle_index": 738,
+      "start_time": 6757.077,
+      "end_time": 6759.25,
+      "duration": 2.1729999999997744,
+      "dialogue_text": "Tengo una idea mejor."
+    },
+    {
+      "subtitle_index": 739,
+      "start_time": 6820.48,
+      "end_time": 6821.568,
+      "duration": 1.0880000000006476,
+      "dialogue_text": "Teniente."
+    },
+    {
+      "subtitle_index": 740,
+      "start_time": 6863.495,
+      "end_time": 6869.922,
+      "duration": 6.42699999999968,
+      "dialogue_text": "Que esto sirva de lección. a los que quieran rendirse."
+    },
+    {
+      "subtitle_index": 741,
+      "start_time": 6941.934,
+      "end_time": 6945.596,
+      "duration": 3.6619999999993524,
+      "dialogue_text": "Debemos cruzar por el fuego cruzado para poder llegar al Norte."
+    },
+    {
+      "subtitle_index": 742,
+      "start_time": 6946.656,
+      "end_time": 6948.252,
+      "duration": 1.5960000000004584,
+      "dialogue_text": "Y unirnos al frente."
+    },
+    {
+      "subtitle_index": 743,
+      "start_time": 6954.284,
+      "end_time": 6955.425,
+      "duration": 1.1410000000005311,
+      "dialogue_text": "Escuchen."
+    },
+    {
+      "subtitle_index": 744,
+      "start_time": 6956.539,
+      "end_time": 6959.257,
+      "duration": 2.717999999999847,
+      "dialogue_text": "Iremos a esas cuevas y seguiremos desde allí."
+    },
+    {
+      "subtitle_index": 745,
+      "start_time": 6962.587,
+      "end_time": 6966.634,
+      "duration": 4.046999999999571,
+      "dialogue_text": "¡No malgasten balas!... Ni siquiera una."
+    },
+    {
+      "subtitle_index": 746,
+      "start_time": 6967.352,
+      "end_time": 6968.896,
+      "duration": 1.543999999999869,
+      "dialogue_text": "No disparen al azar..."
+    },
+    {
+      "subtitle_index": 747,
+      "start_time": 7029.506,
+      "end_time": 7033.541,
+      "duration": 4.0349999999998545,
+      "dialogue_text": "Los soldados de Nishi, y los sobrevivientes del Suribachi…"
+    },
+    {
+      "subtitle_index": 748,
+      "start_time": 7037.679,
+      "end_time": 7040.128,
+      "duration": 2.4489999999996144,
+      "dialogue_text": "¿No hay Oficiales?"
+    },
+    {
+      "subtitle_index": 749,
+      "start_time": 7043.54,
+      "end_time": 7045.989,
+      "duration": 2.4489999999996144,
+      "dialogue_text": "Han hecho un buen trabajo llegando hasta aquí."
+    },
+    {
+      "subtitle_index": 750,
+      "start_time": 7046.984,
+      "end_time": 7048.383,
+      "duration": 1.3989999999994325,
+      "dialogue_text": "Fujita deles agua."
+    },
+    {
+      "subtitle_index": 751,
+      "start_time": 7053.18,
+      "end_time": 7056.632,
+      "duration": 3.451999999999316,
+      "dialogue_text": "Lo siento señor, no queda agua."
+    },
+    {
+      "subtitle_index": 752,
+      "start_time": 7060.088,
+      "end_time": 7063.606,
+      "duration": 3.518000000000029,
+      "dialogue_text": "Lo siento. Al menos podrán descansar."
+    },
+    {
+      "subtitle_index": 753,
+      "start_time": 7079.084,
+      "end_time": 7081.053,
+      "duration": 1.969000000000051,
+      "dialogue_text": "Tu cara me parece conocida."
+    },
+    {
+      "subtitle_index": 754,
+      "start_time": 7085.791,
+      "end_time": 7087.288,
+      "duration": 1.4969999999993888,
+      "dialogue_text": "Tú casi pierdes la cabeza."
+    },
+    {
+      "subtitle_index": 755,
+      "start_time": 7090.423,
+      "end_time": 7094.616,
+      "duration": 4.193000000000211,
+      "dialogue_text": "Aquella fue la segunda vez que me salvo usted."
+    },
+    {
+      "subtitle_index": 756,
+      "start_time": 7097.327,
+      "end_time": 7102.987,
+      "duration": 5.6599999999998545,
+      "dialogue_text": "La primera vez fue el mismo día que llego a la isla."
+    },
+    {
+      "subtitle_index": 757,
+      "start_time": 7105.669,
+      "end_time": 7113.663,
+      "duration": 7.993999999999687,
+      "dialogue_text": "Claro, ya lo recuerdo... Bueno, no hay dos sin tres."
+    },
+    {
+      "subtitle_index": 758,
+      "start_time": 7128.76,
+      "end_time": 7133.439,
+      "duration": 4.679000000000087,
+      "dialogue_text": "Hanako, probablemente esta carta no te llegue nunca."
+    },
+    {
+      "subtitle_index": 759,
+      "start_time": 7134.131,
+      "end_time": 7138.399,
+      "duration": 4.268000000000029,
+      "dialogue_text": "Pero, escribirte es un consuelo."
+    },
+    {
+      "subtitle_index": 760,
+      "start_time": 7139.592,
+      "end_time": 7142.481,
+      "duration": 2.8890000000001237,
+      "dialogue_text": "Llevamos 5 días sin comida ni agua."
+    },
+    {
+      "subtitle_index": 761,
+      "start_time": 7143.587,
+      "end_time": 7145.643,
+      "duration": 2.0559999999995853,
+      "dialogue_text": "Para sobrevivir…"
+    },
+    {
+      "subtitle_index": 762,
+      "start_time": 7146.973,
+      "end_time": 7149.94,
+      "duration": 2.9669999999996435,
+      "dialogue_text": "…hacemos cosas indescriptibles."
+    },
+    {
+      "subtitle_index": 763,
+      "start_time": 7152.15,
+      "end_time": 7154.575,
+      "duration": 2.425000000000182,
+      "dialogue_text": "Ya no hay salida."
+    },
+    {
+      "subtitle_index": 764,
+      "start_time": 7154.875,
+      "end_time": 7160.212,
+      "duration": 5.337000000000444,
+      "dialogue_text": "Pero, mi única preocupación eres tú y el bebé."
+    },
+    {
+      "subtitle_index": 765,
+      "start_time": 7166.507,
+      "end_time": 7168.292,
+      "duration": 1.785000000000764,
+      "dialogue_text": "Busca lombrices."
+    },
+    {
+      "subtitle_index": 766,
+      "start_time": 7187.137,
+      "end_time": 7190.388,
+      "duration": 3.2510000000002037,
+      "dialogue_text": "La batalla se acerca a su fin."
+    },
+    {
+      "subtitle_index": 767,
+      "start_time": 7190.488,
+      "end_time": 7193.126,
+      "duration": 2.63799999999992,
+      "dialogue_text": "Y ya no nos quedan municiones ni agua."
+    },
+    {
+      "subtitle_index": 768,
+      "start_time": 7193.226,
+      "end_time": 7197.236,
+      "duration": 4.010000000000218,
+      "dialogue_text": "Todos los sobrevivientes realizaran un ataque general."
+    },
+    {
+      "subtitle_index": 769,
+      "start_time": 7198.136,
+      "end_time": 7201.825,
+      "duration": 3.688999999999396,
+      "dialogue_text": "Rezo por la victoria y la seguridad del Imperio."
+    },
+    {
+      "subtitle_index": 770,
+      "start_time": 7202.203,
+      "end_time": 7204.604,
+      "duration": 2.40099999999984,
+      "dialogue_text": "Me despido de ustedes."
+    },
+    {
+      "subtitle_index": 771,
+      "start_time": 7205.921,
+      "end_time": 7209.908,
+      "duration": 3.98700000000008,
+      "dialogue_text": "Por la patria, no he podido cumplir con todos mis deberes."
+    },
+    {
+      "subtitle_index": 772,
+      "start_time": 7210.208,
+      "end_time": 7214.941,
+      "duration": 4.733000000000175,
+      "dialogue_text": "Ahora que carecemos de munición, lamentamos tener que morir."
+    },
+    {
+      "subtitle_index": 773,
+      "start_time": 7220.879,
+      "end_time": 7224.586,
+      "duration": 3.7070000000003347,
+      "dialogue_text": "¿Has venido desde el Suribachi?"
+    },
+    {
+      "subtitle_index": 774,
+      "start_time": 7226.721,
+      "end_time": 7229.014,
+      "duration": 2.293000000000575,
+      "dialogue_text": "Habrá sido un viaje difícil."
+    },
+    {
+      "subtitle_index": 775,
+      "start_time": 7234.689,
+      "end_time": 7236.398,
+      "duration": 1.7089999999998327,
+      "dialogue_text": "Eres todo un soldado..."
+    },
+    {
+      "subtitle_index": 776,
+      "start_time": 7238.66,
+      "end_time": 7242.576,
+      "duration": 3.9160000000001673,
+      "dialogue_text": "No, Señor. Soy un humilde panadero."
+    },
+    {
+      "subtitle_index": 777,
+      "start_time": 7243.282,
+      "end_time": 7244.909,
+      "duration": 1.626999999999498,
+      "dialogue_text": "¿Eras panadero?"
+    },
+    {
+      "subtitle_index": 778,
+      "start_time": 7246.645,
+      "end_time": 7247.533,
+      "duration": 0.88799999999992,
+      "dialogue_text": "¿Tienes familia?"
+    },
+    {
+      "subtitle_index": 779,
+      "start_time": 7248.627,
+      "end_time": 7255.142,
+      "duration": 6.514999999999418,
+      "dialogue_text": "Esposa, y un hijita que nació el verano pasado en Ohmiya."
+    },
+    {
+      "subtitle_index": 780,
+      "start_time": 7258.721,
+      "end_time": 7261.47,
+      "duration": 2.7490000000007058,
+      "dialogue_text": "Aun no la conozco."
+    },
+    {
+      "subtitle_index": 781,
+      "start_time": 7266.481,
+      "end_time": 7268.219,
+      "duration": 1.7380000000002838,
+      "dialogue_text": "Es extraño."
+    },
+    {
+      "subtitle_index": 782,
+      "start_time": 7270.622,
+      "end_time": 7274.484,
+      "duration": 3.86200000000008,
+      "dialogue_text": "Yo me prometí luchar hasta la muerte por mi familia."
+    },
+    {
+      "subtitle_index": 783,
+      "start_time": 7276.001,
+      "end_time": 7280.453,
+      "duration": 4.4520000000002256,
+      "dialogue_text": "Pero pensar en ella, me hace difícil cumplir mi promesa."
+    },
+    {
+      "subtitle_index": 784,
+      "start_time": 7303.58,
+      "end_time": 7305.509,
+      "duration": 1.9290000000000873,
+      "dialogue_text": "Hemos recibido un mensaje de la patria por radio."
+    },
+    {
+      "subtitle_index": 785,
+      "start_time": 7319.25,
+      "end_time": 7320.704,
+      "duration": 1.4539999999997235,
+      "dialogue_text": "Para el General Kuribayashi"
+    },
+    {
+      "subtitle_index": 786,
+      "start_time": 7321.004,
+      "end_time": 7325.13,
+      "duration": 4.126000000000204,
+      "dialogue_text": "Y sus tropas, que luchan valientemente por nuestro país."
+    },
+    {
+      "subtitle_index": 787,
+      "start_time": 7325.53,
+      "end_time": 7330.533,
+      "duration": 5.003000000000611,
+      "dialogue_text": "Los niños de Nagano pueblo de Kuribayashi, cantaran en honor a él…"
+    },
+    {
+      "subtitle_index": 788,
+      "start_time": 7330.394,
+      "end_time": 7338.175,
+      "duration": 7.780999999999949,
+      "dialogue_text": "…sobre las olas del Océano Pacifico. Al sur de la ciudad Imperial."
+    },
+    {
+      "subtitle_index": 789,
+      "start_time": 7338.475,
+      "end_time": 7345.731,
+      "duration": 7.255999999999403,
+      "dialogue_text": "Flota una isla solitaria"
+    },
+    {
+      "subtitle_index": 790,
+      "start_time": 7346.605,
+      "end_time": 7357.67,
+      "duration": 11.06500000000051,
+      "dialogue_text": "El destino de nuestra Imperial nación yace en las manos de esta isla…"
+    },
+    {
+      "subtitle_index": 791,
+      "start_time": 7357.77,
+      "end_time": 7361.027,
+      "duration": 3.256999999999607,
+      "dialogue_text": "…Iwo Jima."
+    },
+    {
+      "subtitle_index": 792,
+      "start_time": 7363.913,
+      "end_time": 7367.727,
+      "duration": 3.8140000000003056,
+      "dialogue_text": "Mientras nos mantengamos firme."
+    },
+    {
+      "subtitle_index": 793,
+      "start_time": 7367.953,
+      "end_time": 7379.731,
+      "duration": 11.777999999999338,
+      "dialogue_text": "Nos sentiremos seguros, pues en la tierra imperial, siempre habrá paz."
+    },
+    {
+      "subtitle_index": 794,
+      "start_time": 7380.131,
+      "end_time": 7387.184,
+      "duration": 7.052999999999884,
+      "dialogue_text": "Lucharemos con orgullo y amor... hasta la muerte."
+    },
+    {
+      "subtitle_index": 795,
+      "start_time": 7387.284,
+      "end_time": 7395.036,
+      "duration": 7.7520000000004075,
+      "dialogue_text": "Nuestra orgullosa isla. Iwo Jima"
+    },
+    {
+      "subtitle_index": 796,
+      "start_time": 7416.439,
+      "end_time": 7418.096,
+      "duration": 1.6569999999992433,
+      "dialogue_text": "Hazme un favor."
+    },
+    {
+      "subtitle_index": 797,
+      "start_time": 7419.476,
+      "end_time": 7423.276,
+      "duration": 3.800000000000182,
+      "dialogue_text": "Quédate aquí y quema esos documentos y mi arcón militares."
+    },
+    {
+      "subtitle_index": 798,
+      "start_time": 7424.586,
+      "end_time": 7427.086,
+      "duration": 2.5,
+      "dialogue_text": "No hay dos sin tres."
+    },
+    {
+      "subtitle_index": 799,
+      "start_time": 7456.063,
+      "end_time": 7458.485,
+      "duration": 2.4219999999995707,
+      "dialogue_text": "Realizaremos un ataque general."
+    },
+    {
+      "subtitle_index": 800,
+      "start_time": 7459.119,
+      "end_time": 7461.538,
+      "duration": 2.418999999999869,
+      "dialogue_text": "Aunque Japón haya perdido."
+    },
+    {
+      "subtitle_index": 801,
+      "start_time": 7462.252,
+      "end_time": 7469.301,
+      "duration": 7.048999999999978,
+      "dialogue_text": "Algún día, nuestro pueblo nos glorificará y nos recordará..."
+    },
+    {
+      "subtitle_index": 802,
+      "start_time": 7475.06,
+      "end_time": 7477.16,
+      "duration": 2.0999999999994543,
+      "dialogue_text": "Debemos estar orgullosos de morir por nuestra patria."
+    },
+    {
+      "subtitle_index": 803,
+      "start_time": 7608.261,
+      "end_time": 7612.988,
+      "duration": 4.726999999999862,
+      "dialogue_text": "Sigue disparando... Apúntale."
+    },
+    {
+      "subtitle_index": 804,
+      "start_time": 7613.818,
+      "end_time": 7615.107,
+      "duration": 1.28899999999976,
+      "dialogue_text": "No dispares."
+    },
+    {
+      "subtitle_index": 805,
+      "start_time": 7662.154,
+      "end_time": 7664.059,
+      "duration": 1.9049999999997453,
+      "dialogue_text": "Gracias, Fujita."
+    },
+    {
+      "subtitle_index": 806,
+      "start_time": 7696.075,
+      "end_time": 7696.944,
+      "duration": 0.8690000000005966,
+      "dialogue_text": "Es una orden."
+    },
+    {
+      "subtitle_index": 807,
+      "start_time": 7765.686,
+      "end_time": 7766.916,
+      "duration": 1.230000000000473,
+      "dialogue_text": "¿Otra vez tú?"
+    },
+    {
+      "subtitle_index": 808,
+      "start_time": 7770.313,
+      "end_time": 7774.288,
+      "duration": 3.9749999999994543,
+      "dialogue_text": "Quiero pedirte un último favor."
+    },
+    {
+      "subtitle_index": 809,
+      "start_time": 7776.212,
+      "end_time": 7781.401,
+      "duration": 5.188999999999396,
+      "dialogue_text": "Entiérrame, donde nadie me encuentre."
+    },
+    {
+      "subtitle_index": 810,
+      "start_time": 7795.028,
+      "end_time": 7798.287,
+      "duration": 3.2590000000000146,
+      "dialogue_text": "Taro, Pronto llegare a casa."
+    },
+    {
+      "subtitle_index": 811,
+      "start_time": 7799.143,
+      "end_time": 7801.594,
+      "duration": 2.451000000000022,
+      "dialogue_text": "Me alegro de volver a Japón."
+    },
+    {
+      "subtitle_index": 812,
+      "start_time": 7802.115,
+      "end_time": 7805.416,
+      "duration": 3.3010000000003856,
+      "dialogue_text": "Aunque me entristece dejar a mis amigos…"
+    },
+    {
+      "subtitle_index": 813,
+      "start_time": 7809.019,
+      "end_time": 7811.538,
+      "duration": 2.5189999999993233,
+      "dialogue_text": "…estoy en mi auto yendo a casa..."
+    },
+    {
+      "subtitle_index": 814,
+      "start_time": 7811.539,
+      "end_time": 7816.404,
+      "duration": 4.865000000000691,
+      "dialogue_text": "…pero yendo sin compañía. Me siento muy solo."
+    },
+    {
+      "subtitle_index": 815,
+      "start_time": 7828.39,
+      "end_time": 7830.746,
+      "duration": 2.355999999999767,
+      "dialogue_text": "¿Sigue siendo suelo Japonés?"
+    },
+    {
+      "subtitle_index": 816,
+      "start_time": 7839.864,
+      "end_time": 7841.678,
+      "duration": 1.8140000000003056,
+      "dialogue_text": "Aun es Japón."
+    },
+    {
+      "subtitle_index": 817,
+      "start_time": 7914.647,
+      "end_time": 7916.21,
+      "duration": 1.5630000000001019,
+      "dialogue_text": "¡Cuidado, puede explotar!"
+    },
+    {
+      "subtitle_index": 818,
+      "start_time": 7918.451,
+      "end_time": 7919.647,
+      "duration": 1.1959999999999127,
+      "dialogue_text": "¡Cuidado!"
+    },
+    {
+      "subtitle_index": 819,
+      "start_time": 7925.358,
+      "end_time": 7926.818,
+      "duration": 1.4600000000000364,
+      "dialogue_text": "Es seguro..."
+    },
+    {
+      "subtitle_index": 820,
+      "start_time": 7928.929,
+      "end_time": 7930.462,
+      "duration": 1.5330000000003565,
+      "dialogue_text": "Miren lo que encontré."
+    },
+    {
+      "subtitle_index": 821,
+      "start_time": 7947.348,
+      "end_time": 7949.412,
+      "duration": 2.0640000000003056,
+      "dialogue_text": "Hay uno escondido... Tráelo."
+    },
+    {
+      "subtitle_index": 822,
+      "start_time": 7961.162,
+      "end_time": 7962.495,
+      "duration": 1.332999999999629,
+      "dialogue_text": "Suelta la pala."
+    },
+    {
+      "subtitle_index": 823,
+      "start_time": 7963.632,
+      "end_time": 7965.192,
+      "duration": 1.5600000000004002,
+      "dialogue_text": "¿Alguien habla japonés?"
+    },
+    {
+      "subtitle_index": 824,
+      "start_time": 7968.17,
+      "end_time": 7970.7,
+      "duration": 2.5299999999997453,
+      "dialogue_text": "Baja la pala... Tranquilo."
+    },
+    {
+      "subtitle_index": 825,
+      "start_time": 7972.575,
+      "end_time": 7975.266,
+      "duration": 2.6909999999998035,
+      "dialogue_text": "Eh, no te pasara nada."
+    },
+    {
+      "subtitle_index": 826,
+      "start_time": 7984.287,
+      "end_time": 7985.383,
+      "duration": 1.095999999999549,
+      "dialogue_text": "¡Déjeme dispararle!"
+    },
+    {
+      "subtitle_index": 827,
+      "start_time": 7987.524,
+      "end_time": 7990.171,
+      "duration": 2.6469999999999345,
+      "dialogue_text": "-Cálmate, nadie te hará daño... -¿Le disparo, Teniente?"
+    },
+    {
+      "subtitle_index": 828,
+      "start_time": 7990.172,
+      "end_time": 7991.672,
+      "duration": 1.5,
+      "dialogue_text": "No, no dispares."
+    },
+    {
+      "subtitle_index": 829,
+      "start_time": 7993.162,
+      "end_time": 7994.451,
+      "duration": 1.28899999999976,
+      "dialogue_text": "Ten cuidado."
+    },
+    {
+      "subtitle_index": 830,
+      "start_time": 7997.201,
+      "end_time": 7998.727,
+      "duration": 1.52599999999984,
+      "dialogue_text": "¡Está loco!"
+    },
+    {
+      "subtitle_index": 831,
+      "start_time": 8041.503,
+      "end_time": 8042.728,
+      "duration": 1.2250000000003638,
+      "dialogue_text": "Con cuidado."
+    },
+    {
+      "subtitle_index": 832,
+      "start_time": 8059.978,
+      "end_time": 8060.978,
+      "duration": 1.0,
+      "dialogue_text": "Tenemos algo..."
+    }
+  ]
+}

@@ -1,0 +1,6851 @@
+{
+  "metadata": {
+    "film_name": "The Cat Returns V2",
+    "film_slug": "the_cat_returns_es_v2",
+    "language_code": "es",
+    "total_subtitles": 977,
+    "total_duration": 4490.483,
+    "parse_timestamp": "2025-11-18T12:08:11.515946"
+  },
+  "subtitles": [
+    {
+      "subtitle_index": 1,
+      "start_time": 7.304,
+      "end_time": 9.067,
+      "duration": 1.763,
+      "dialogue_text": "Tokuma Shoten, Studio Ghibli, Nippon Television Network."
+    },
+    {
+      "subtitle_index": 2,
+      "start_time": 9.173,
+      "end_time": 10.97,
+      "duration": 1.7970000000000006,
+      "dialogue_text": "Buena Vista Home Entertainment, Hakuhodo, Mitsubishi y Toho Presentan"
+    },
+    {
+      "subtitle_index": 3,
+      "start_time": 27.057,
+      "end_time": 28.581,
+      "duration": 1.524000000000001,
+      "dialogue_text": "Si te encuentras preocupado"
+    },
+    {
+      "subtitle_index": 4,
+      "start_time": 28.726,
+      "end_time": 29.886,
+      "duration": 1.1600000000000001,
+      "dialogue_text": "por algo misterioso"
+    },
+    {
+      "subtitle_index": 5,
+      "start_time": 29.994,
+      "end_time": 32.053,
+      "duration": 2.0589999999999975,
+      "dialogue_text": "o tienes un problema de difícil solución"
+    },
+    {
+      "subtitle_index": 6,
+      "start_time": 32.162,
+      "end_time": 34.596,
+      "duration": 2.4339999999999975,
+      "dialogue_text": "existe un lugar donde puedes ir"
+    },
+    {
+      "subtitle_index": 7,
+      "start_time": 34.732,
+      "end_time": 36.723,
+      "duration": 1.9909999999999997,
+      "dialogue_text": "un lugar donde..."
+    },
+    {
+      "subtitle_index": 8,
+      "start_time": 56.754,
+      "end_time": 58.153,
+      "duration": 1.399000000000001,
+      "dialogue_text": "¡Oh, no"
+    },
+    {
+      "subtitle_index": 9,
+      "start_time": 59.089,
+      "end_time": 60.784,
+      "duration": 1.6950000000000003,
+      "dialogue_text": "Haru, ¿estás despierta?"
+    },
+    {
+      "subtitle_index": 10,
+      "start_time": 60.891,
+      "end_time": 61.88,
+      "duration": 0.9890000000000043,
+      "dialogue_text": "¡Me acabo de levantar!"
+    },
+    {
+      "subtitle_index": 11,
+      "start_time": 71.535,
+      "end_time": 72.126,
+      "duration": 0.5910000000000082,
+      "dialogue_text": "Bien"
+    },
+    {
+      "subtitle_index": 12,
+      "start_time": 75.439,
+      "end_time": 76.531,
+      "duration": 1.092000000000013,
+      "dialogue_text": "Buenos días"
+    },
+    {
+      "subtitle_index": 13,
+      "start_time": 76.707,
+      "end_time": 78.038,
+      "duration": 1.331000000000003,
+      "dialogue_text": "La verdad es que..."
+    },
+    {
+      "subtitle_index": 14,
+      "start_time": 78.142,
+      "end_time": 80.406,
+      "duration": 2.26400000000001,
+      "dialogue_text": "¿por qué te molestas en poner el despertador?"
+    },
+    {
+      "subtitle_index": 15,
+      "start_time": 80.778,
+      "end_time": 81.87,
+      "duration": 1.0919999999999987,
+      "dialogue_text": "Adiós"
+    },
+    {
+      "subtitle_index": 16,
+      "start_time": 81.979,
+      "end_time": 83.571,
+      "duration": 1.5919999999999987,
+      "dialogue_text": "¿No vas a desayunar? Está muy bueno"
+    },
+    {
+      "subtitle_index": 17,
+      "start_time": 87.451,
+      "end_time": 89.112,
+      "duration": 1.6610000000000014,
+      "dialogue_text": "Mmm, delicioso"
+    },
+    {
+      "subtitle_index": 18,
+      "start_time": 90.387,
+      "end_time": 91.649,
+      "duration": 1.2620000000000005,
+      "dialogue_text": "No es justo"
+    },
+    {
+      "subtitle_index": 19,
+      "start_time": 91.755,
+      "end_time": 93.313,
+      "duration": 1.558000000000007,
+      "dialogue_text": "Adiós"
+    },
+    {
+      "subtitle_index": 20,
+      "start_time": 116.313,
+      "end_time": 117.245,
+      "duration": 0.9320000000000022,
+      "dialogue_text": "¡Mi zapato!"
+    },
+    {
+      "subtitle_index": 21,
+      "start_time": 121.418,
+      "end_time": 122.112,
+      "duration": 0.6939999999999884,
+      "dialogue_text": "Perdón"
+    },
+    {
+      "subtitle_index": 22,
+      "start_time": 122.319,
+      "end_time": 123.752,
+      "duration": 1.4329999999999927,
+      "dialogue_text": "¡Oh no!"
+    },
+    {
+      "subtitle_index": 23,
+      "start_time": 128.993,
+      "end_time": 131.154,
+      "duration": 2.1610000000000014,
+      "dialogue_text": "El Reino ha desaparecido."
+    },
+    {
+      "subtitle_index": 24,
+      "start_time": 131.261,
+      "end_time": 133.593,
+      "duration": 2.3319999999999936,
+      "dialogue_text": "Las montañas y los ríos todavía permanecen."
+    },
+    {
+      "subtitle_index": 25,
+      "start_time": 133.697,
+      "end_time": 136.359,
+      "duration": 2.662000000000006,
+      "dialogue_text": "El castillo se vistió de un"
+    },
+    {
+      "subtitle_index": 26,
+      "start_time": 136.467,
+      "end_time": 139.334,
+      "duration": 2.8669999999999902,
+      "dialogue_text": "denso verde de primavera"
+    },
+    {
+      "subtitle_index": 27,
+      "start_time": 139.77,
+      "end_time": 140.862,
+      "duration": 1.0919999999999845,
+      "dialogue_text": "Srta. Yoshioka"
+    },
+    {
+      "subtitle_index": 28,
+      "start_time": 140.971,
+      "end_time": 143.337,
+      "duration": 2.3659999999999854,
+      "dialogue_text": "Entrando en clase a escondidas ¿eh? Vaya a su sitio."
+    },
+    {
+      "subtitle_index": 29,
+      "start_time": 143.507,
+      "end_time": 144.337,
+      "duration": 0.8299999999999841,
+      "dialogue_text": "Si señor"
+    },
+    {
+      "subtitle_index": 30,
+      "start_time": 146.677,
+      "end_time": 148.008,
+      "duration": 1.3310000000000173,
+      "dialogue_text": "Me han pillado otra vez"
+    },
+    {
+      "subtitle_index": 31,
+      "start_time": 167.464,
+      "end_time": 175.963,
+      "duration": 8.498999999999995,
+      "dialogue_text": "EL REGRESO DEL GATO"
+    },
+    {
+      "subtitle_index": 32,
+      "start_time": 182.479,
+      "end_time": 184.174,
+      "duration": 1.6949999999999932,
+      "dialogue_text": "Lo odio"
+    },
+    {
+      "subtitle_index": 33,
+      "start_time": 184.381,
+      "end_time": 187.373,
+      "duration": 2.9919999999999902,
+      "dialogue_text": "Otra vez tarde y haciendo el ridículo delante de toda la clase"
+    },
+    {
+      "subtitle_index": 34,
+      "start_time": 187.718,
+      "end_time": 189.549,
+      "duration": 1.8310000000000173,
+      "dialogue_text": "Machida también se rió de mi"
+    },
+    {
+      "subtitle_index": 35,
+      "start_time": 189.653,
+      "end_time": 191.12,
+      "duration": 1.467000000000013,
+      "dialogue_text": "Se estaba riendo"
+    },
+    {
+      "subtitle_index": 36,
+      "start_time": 191.722,
+      "end_time": 192.552,
+      "duration": 0.8299999999999841,
+      "dialogue_text": "¿Por qué?"
+    },
+    {
+      "subtitle_index": 37,
+      "start_time": 192.656,
+      "end_time": 194.749,
+      "duration": 2.0929999999999893,
+      "dialogue_text": "¿Qué me pasa?"
+    },
+    {
+      "subtitle_index": 38,
+      "start_time": 195.659,
+      "end_time": 199.06,
+      "duration": 3.4010000000000105,
+      "dialogue_text": "Bueno, puede ser una señal"
+    },
+    {
+      "subtitle_index": 39,
+      "start_time": 199.229,
+      "end_time": 202.323,
+      "duration": 3.093999999999994,
+      "dialogue_text": "Algo incluso peor puede estar a punto de pasar"
+    },
+    {
+      "subtitle_index": 40,
+      "start_time": 202.9,
+      "end_time": 204.697,
+      "duration": 1.796999999999997,
+      "dialogue_text": "Gracias por la \"ayuda\""
+    },
+    {
+      "subtitle_index": 41,
+      "start_time": 213.243,
+      "end_time": 214.87,
+      "duration": 1.6270000000000095,
+      "dialogue_text": "Ese gato es peculiar"
+    },
+    {
+      "subtitle_index": 42,
+      "start_time": 217.748,
+      "end_time": 219.875,
+      "duration": 2.1270000000000095,
+      "dialogue_text": "¿Qué tiene de especial Machida?"
+    },
+    {
+      "subtitle_index": 43,
+      "start_time": 220.25,
+      "end_time": 222.081,
+      "duration": 1.8309999999999889,
+      "dialogue_text": "¡Es tan guapo!"
+    },
+    {
+      "subtitle_index": 44,
+      "start_time": 222.186,
+      "end_time": 223.016,
+      "duration": 0.8299999999999841,
+      "dialogue_text": "¿Se lo has dicho a él?"
+    },
+    {
+      "subtitle_index": 45,
+      "start_time": 223.12,
+      "end_time": 224.815,
+      "duration": 1.6949999999999932,
+      "dialogue_text": "Parece que tiene novia"
+    },
+    {
+      "subtitle_index": 46,
+      "start_time": 224.922,
+      "end_time": 227.413,
+      "duration": 2.491000000000014,
+      "dialogue_text": "Es universitaria y muy guapa"
+    },
+    {
+      "subtitle_index": 47,
+      "start_time": 227.524,
+      "end_time": 228.582,
+      "duration": 1.0579999999999927,
+      "dialogue_text": "Bueno, ya sabes"
+    },
+    {
+      "subtitle_index": 48,
+      "start_time": 228.926,
+      "end_time": 231.918,
+      "duration": 2.9920000000000186,
+      "dialogue_text": "Si te rechaza, cuenta conmigo para consolarte"
+    },
+    {
+      "subtitle_index": 49,
+      "start_time": 232.029,
+      "end_time": 233.553,
+      "duration": 1.524000000000001,
+      "dialogue_text": "Muchas gracias"
+    },
+    {
+      "subtitle_index": 50,
+      "start_time": 233.831,
+      "end_time": 237.028,
+      "duration": 3.1970000000000027,
+      "dialogue_text": "Creo que Tsuge es guapo"
+    },
+    {
+      "subtitle_index": 51,
+      "start_time": 237.134,
+      "end_time": 238.567,
+      "duration": 1.4330000000000211,
+      "dialogue_text": "Bien, si te rechaza..."
+    },
+    {
+      "subtitle_index": 52,
+      "start_time": 245.943,
+      "end_time": 247.376,
+      "duration": 1.4329999999999927,
+      "dialogue_text": "Tiene algo en la boca"
+    },
+    {
+      "subtitle_index": 53,
+      "start_time": 247.478,
+      "end_time": 248.41,
+      "duration": 0.931999999999988,
+      "dialogue_text": "¿lo habrá robado?"
+    },
+    {
+      "subtitle_index": 54,
+      "start_time": 248.512,
+      "end_time": 249.308,
+      "duration": 0.7959999999999923,
+      "dialogue_text": "Mmmm..."
+    },
+    {
+      "subtitle_index": 55,
+      "start_time": 256.72,
+      "end_time": 258.119,
+      "duration": 1.399000000000001,
+      "dialogue_text": "¿Qué hace?"
+    },
+    {
+      "subtitle_index": 56,
+      "start_time": 258.288,
+      "end_time": 260.848,
+      "duration": 2.5600000000000023,
+      "dialogue_text": "¡Eh, gato! ¡Cuidado!"
+    },
+    {
+      "subtitle_index": 57,
+      "start_time": 265.729,
+      "end_time": 267.06,
+      "duration": 1.3310000000000173,
+      "dialogue_text": "Bah, es sólo un gato"
+    },
+    {
+      "subtitle_index": 58,
+      "start_time": 267.164,
+      "end_time": 268.597,
+      "duration": 1.4329999999999927,
+      "dialogue_text": "Eh, eso es peligroso"
+    },
+    {
+      "subtitle_index": 59,
+      "start_time": 276.807,
+      "end_time": 278.138,
+      "duration": 1.3309999999999604,
+      "dialogue_text": "Oh no, ¿qué hace?"
+    },
+    {
+      "subtitle_index": 60,
+      "start_time": 278.742,
+      "end_time": 280.073,
+      "duration": 1.3309999999999604,
+      "dialogue_text": "¡Espera, Haru!"
+    },
+    {
+      "subtitle_index": 61,
+      "start_time": 287.818,
+      "end_time": 288.978,
+      "duration": 1.160000000000025,
+      "dialogue_text": "¡Bien hecho, Haru!"
+    },
+    {
+      "subtitle_index": 62,
+      "start_time": 296.76,
+      "end_time": 299.024,
+      "duration": 2.26400000000001,
+      "dialogue_text": "¡Eh! ¡Paren ese camión!"
+    },
+    {
+      "subtitle_index": 63,
+      "start_time": 305.102,
+      "end_time": 306.296,
+      "duration": 1.1940000000000168,
+      "dialogue_text": "Gato..."
+    },
+    {
+      "subtitle_index": 64,
+      "start_time": 306.503,
+      "end_time": 307.367,
+      "duration": 0.8640000000000327,
+      "dialogue_text": "¿Estás bien?"
+    },
+    {
+      "subtitle_index": 65,
+      "start_time": 322.186,
+      "end_time": 326.782,
+      "duration": 4.596000000000004,
+      "dialogue_text": "Gracias por salvarme de una situación tan peligrosa"
+    },
+    {
+      "subtitle_index": 66,
+      "start_time": 327.524,
+      "end_time": 329.287,
+      "duration": 1.7629999999999768,
+      "dialogue_text": "Espero que no te hayas hecho daño"
+    },
+    {
+      "subtitle_index": 67,
+      "start_time": 332.629,
+      "end_time": 335.53,
+      "duration": 2.9009999999999536,
+      "dialogue_text": "Por favor, perdona, pero me tengo que ir"
+    },
+    {
+      "subtitle_index": 68,
+      "start_time": 335.699,
+      "end_time": 337.53,
+      "duration": 1.8309999999999604,
+      "dialogue_text": "Permíteme expresarte mi gratitud más tarde"
+    },
+    {
+      "subtitle_index": 69,
+      "start_time": 337.701,
+      "end_time": 339.464,
+      "duration": 1.7629999999999768,
+      "dialogue_text": "No tienes porqué"
+    },
+    {
+      "subtitle_index": 70,
+      "start_time": 343.207,
+      "end_time": 344.469,
+      "duration": 1.2620000000000005,
+      "dialogue_text": "¡Haru!"
+    },
+    {
+      "subtitle_index": 71,
+      "start_time": 351.048,
+      "end_time": 352.982,
+      "duration": 1.934000000000026,
+      "dialogue_text": "Ah, se te ha roto"
+    },
+    {
+      "subtitle_index": 72,
+      "start_time": 353.217,
+      "end_time": 356.152,
+      "duration": 2.9350000000000023,
+      "dialogue_text": "No importa, la vida de un gato es más importante"
+    },
+    {
+      "subtitle_index": 73,
+      "start_time": 356.253,
+      "end_time": 357.413,
+      "duration": 1.160000000000025,
+      "dialogue_text": "¿Has visto?"
+    },
+    {
+      "subtitle_index": 74,
+      "start_time": 357.521,
+      "end_time": 358.112,
+      "duration": 0.5910000000000082,
+      "dialogue_text": "¿Qué?"
+    },
+    {
+      "subtitle_index": 75,
+      "start_time": 358.655,
+      "end_time": 360.088,
+      "duration": 1.4330000000000496,
+      "dialogue_text": "El gato me ha hecho una reverencia"
+    },
+    {
+      "subtitle_index": 76,
+      "start_time": 362.059,
+      "end_time": 363.617,
+      "duration": 1.5579999999999927,
+      "dialogue_text": "Haru... ¿te has dado en la cabeza?"
+    },
+    {
+      "subtitle_index": 77,
+      "start_time": 371.902,
+      "end_time": 373.164,
+      "duration": 1.2620000000000005,
+      "dialogue_text": "Ya estoy en casa"
+    },
+    {
+      "subtitle_index": 78,
+      "start_time": 375.505,
+      "end_time": 376.494,
+      "duration": 0.9890000000000327,
+      "dialogue_text": "No pises eso"
+    },
+    {
+      "subtitle_index": 79,
+      "start_time": 377.841,
+      "end_time": 380.708,
+      "duration": 2.8670000000000186,
+      "dialogue_text": "Lo siento. No me decido por qué patrón usar."
+    },
+    {
+      "subtitle_index": 80,
+      "start_time": 381.245,
+      "end_time": 383.179,
+      "duration": 1.933999999999969,
+      "dialogue_text": "Cariño, ¿puedes hacer la cena?"
+    },
+    {
+      "subtitle_index": 81,
+      "start_time": 383.747,
+      "end_time": 385.078,
+      "duration": 1.3309999999999604,
+      "dialogue_text": "Mamá"
+    },
+    {
+      "subtitle_index": 82,
+      "start_time": 386.25,
+      "end_time": 388.081,
+      "duration": 1.8310000000000173,
+      "dialogue_text": "¿los gatos pueden hablar?"
+    },
+    {
+      "subtitle_index": 83,
+      "start_time": 390.42,
+      "end_time": 391.853,
+      "duration": 1.4329999999999927,
+      "dialogue_text": "Bueno... déjame pensar"
+    },
+    {
+      "subtitle_index": 84,
+      "start_time": 397.194,
+      "end_time": 398.058,
+      "duration": 0.8639999999999759,
+      "dialogue_text": "¿¡Qué!?"
+    },
+    {
+      "subtitle_index": 85,
+      "start_time": 399.162,
+      "end_time": 400.925,
+      "duration": 1.7630000000000337,
+      "dialogue_text": "Pensándolo un poco, no es la primera vez que dices algo así"
+    },
+    {
+      "subtitle_index": 86,
+      "start_time": 401.031,
+      "end_time": 401.861,
+      "duration": 0.8299999999999841,
+      "dialogue_text": "¿De verdad?"
+    },
+    {
+      "subtitle_index": 87,
+      "start_time": 401.965,
+      "end_time": 403.489,
+      "duration": 1.524000000000001,
+      "dialogue_text": "Cuando eras muy pequeña"
+    },
+    {
+      "subtitle_index": 88,
+      "start_time": 403.6,
+      "end_time": 406.899,
+      "duration": 3.298999999999978,
+      "dialogue_text": "solías decir \"puedo hablar con los gatos\""
+    },
+    {
+      "subtitle_index": 89,
+      "start_time": 407.17,
+      "end_time": 408.159,
+      "duration": 0.9889999999999759,
+      "dialogue_text": "¿de verdad?"
+    },
+    {
+      "subtitle_index": 90,
+      "start_time": 408.272,
+      "end_time": 410.263,
+      "duration": 1.9909999999999854,
+      "dialogue_text": "Si, ¿no te acuerdas?"
+    },
+    {
+      "subtitle_index": 91,
+      "start_time": 433.797,
+      "end_time": 435.059,
+      "duration": 1.2620000000000005,
+      "dialogue_text": "¿qué te pasa?"
+    },
+    {
+      "subtitle_index": 92,
+      "start_time": 437.634,
+      "end_time": 439.829,
+      "duration": 2.194999999999993,
+      "dialogue_text": "ya veo, tienes hambre"
+    },
+    {
+      "subtitle_index": 93,
+      "start_time": 440.304,
+      "end_time": 441.566,
+      "duration": 1.2620000000000005,
+      "dialogue_text": "¿te gusta el pescado?"
+    },
+    {
+      "subtitle_index": 94,
+      "start_time": 442.806,
+      "end_time": 445.24,
+      "duration": 2.434000000000026,
+      "dialogue_text": "Bien, toma"
+    },
+    {
+      "subtitle_index": 95,
+      "start_time": 446.81,
+      "end_time": 448.903,
+      "duration": 2.0930000000000177,
+      "dialogue_text": "Estás tan sucio..."
+    },
+    {
+      "subtitle_index": 96,
+      "start_time": 449.479,
+      "end_time": 450.571,
+      "duration": 1.0920000000000414,
+      "dialogue_text": "¿te gusta?"
+    },
+    {
+      "subtitle_index": 97,
+      "start_time": 453.65,
+      "end_time": 455.083,
+      "duration": 1.4330000000000496,
+      "dialogue_text": "Bien, bien"
+    },
+    {
+      "subtitle_index": 98,
+      "start_time": 456.653,
+      "end_time": 457.915,
+      "duration": 1.2620000000000005,
+      "dialogue_text": "¿más?"
+    },
+    {
+      "subtitle_index": 99,
+      "start_time": 458.622,
+      "end_time": 459.213,
+      "duration": 0.5910000000000082,
+      "dialogue_text": "Buen chico"
+    },
+    {
+      "subtitle_index": 100,
+      "start_time": 459.756,
+      "end_time": 461.223,
+      "duration": 1.4670000000000414,
+      "dialogue_text": "Cómetelos todos"
+    },
+    {
+      "subtitle_index": 101,
+      "start_time": 467.597,
+      "end_time": 469.861,
+      "duration": 2.26400000000001,
+      "dialogue_text": "No tienes porqué darme las gracias"
+    },
+    {
+      "subtitle_index": 102,
+      "start_time": 469.966,
+      "end_time": 470.955,
+      "duration": 0.9889999999999759,
+      "dialogue_text": "Haru"
+    },
+    {
+      "subtitle_index": 103,
+      "start_time": 471.668,
+      "end_time": 472.828,
+      "duration": 1.1599999999999682,
+      "dialogue_text": "!Oh, mamá!"
+    },
+    {
+      "subtitle_index": 104,
+      "start_time": 474.004,
+      "end_time": 475.494,
+      "duration": 1.490000000000009,
+      "dialogue_text": "¿Qué haces?"
+    },
+    {
+      "subtitle_index": 105,
+      "start_time": 475.605,
+      "end_time": 477.539,
+      "duration": 1.933999999999969,
+      "dialogue_text": "Hablando con un gato"
+    },
+    {
+      "subtitle_index": 106,
+      "start_time": 479.343,
+      "end_time": 483.006,
+      "duration": 3.662999999999954,
+      "dialogue_text": "¿Recuerdas que te pregunté de qué hablabas con el gato?"
+    },
+    {
+      "subtitle_index": 107,
+      "start_time": 484.281,
+      "end_time": 488.445,
+      "duration": 4.163999999999987,
+      "dialogue_text": "Me contestaste: \"me ha dicho que es duro sobrevivir en este mundo\""
+    },
+    {
+      "subtitle_index": 108,
+      "start_time": 488.552,
+      "end_time": 491.68,
+      "duration": 3.127999999999986,
+      "dialogue_text": "y pensé que era muy divertido"
+    },
+    {
+      "subtitle_index": 109,
+      "start_time": 497.627,
+      "end_time": 499.72,
+      "duration": 2.0930000000000177,
+      "dialogue_text": "Me pregunto si ocurrió de verdad"
+    },
+    {
+      "subtitle_index": 110,
+      "start_time": 501.198,
+      "end_time": 503.132,
+      "duration": 1.934000000000026,
+      "dialogue_text": "Bueno, mañana me levantaré pronto"
+    },
+    {
+      "subtitle_index": 111,
+      "start_time": 503.233,
+      "end_time": 504.666,
+      "duration": 1.4329999999999927,
+      "dialogue_text": "me dará tiempo a desayunar"
+    },
+    {
+      "subtitle_index": 112,
+      "start_time": 624.421,
+      "end_time": 626.252,
+      "duration": 1.8309999999999036,
+      "dialogue_text": "Mmm... ven aquí, por favor"
+    },
+    {
+      "subtitle_index": 113,
+      "start_time": 631.761,
+      "end_time": 633.126,
+      "duration": 1.365000000000009,
+      "dialogue_text": "un poco más cerca"
+    },
+    {
+      "subtitle_index": 114,
+      "start_time": 640.337,
+      "end_time": 641.929,
+      "duration": 1.5919999999999845,
+      "dialogue_text": "Permíteme presentarte"
+    },
+    {
+      "subtitle_index": 115,
+      "start_time": 642.038,
+      "end_time": 644.37,
+      "duration": 2.3319999999999936,
+      "dialogue_text": "al Rey del Reino de los Gatos"
+    },
+    {
+      "subtitle_index": 116,
+      "start_time": 644.474,
+      "end_time": 646.465,
+      "duration": 1.9909999999999854,
+      "dialogue_text": "Un rey de reyes"
+    },
+    {
+      "subtitle_index": 117,
+      "start_time": 646.676,
+      "end_time": 648.94,
+      "duration": 2.26400000000001,
+      "dialogue_text": "El Rey Gato"
+    },
+    {
+      "subtitle_index": 118,
+      "start_time": 653.183,
+      "end_time": 654.343,
+      "duration": 1.1599999999999682,
+      "dialogue_text": "Ese soy yo"
+    },
+    {
+      "subtitle_index": 119,
+      "start_time": 656.553,
+      "end_time": 659.147,
+      "duration": 2.594000000000051,
+      "dialogue_text": "El gato que salvaste hoy era"
+    },
+    {
+      "subtitle_index": 120,
+      "start_time": 659.256,
+      "end_time": 662.589,
+      "duration": 3.3330000000000837,
+      "dialogue_text": "el hijo del Rey. El príncipe Lune"
+    },
+    {
+      "subtitle_index": 121,
+      "start_time": 662.959,
+      "end_time": 665.291,
+      "duration": 2.3320000000001073,
+      "dialogue_text": "Dada la importancia de este asunto,"
+    },
+    {
+      "subtitle_index": 122,
+      "start_time": 665.395,
+      "end_time": 668.626,
+      "duration": 3.2309999999999945,
+      "dialogue_text": "el Rey en persona ha venido a mostrarte su gratitud"
+    },
+    {
+      "subtitle_index": 123,
+      "start_time": 672.202,
+      "end_time": 675.137,
+      "duration": 2.9349999999999454,
+      "dialogue_text": "Mmm..."
+    },
+    {
+      "subtitle_index": 124,
+      "start_time": 676.373,
+      "end_time": 677.806,
+      "duration": 1.4329999999999927,
+      "dialogue_text": "Gracias"
+    },
+    {
+      "subtitle_index": 125,
+      "start_time": 682.045,
+      "end_time": 683.569,
+      "duration": 1.524000000000001,
+      "dialogue_text": "Este es el programa"
+    },
+    {
+      "subtitle_index": 126,
+      "start_time": 689.452,
+      "end_time": 691.044,
+      "duration": 1.5919999999999845,
+      "dialogue_text": "desde mañana"
+    },
+    {
+      "subtitle_index": 127,
+      "start_time": 691.154,
+      "end_time": 694.92,
+      "duration": 3.7659999999999627,
+      "dialogue_text": "innumerables cosas alegres te sucederán"
+    },
+    {
+      "subtitle_index": 128,
+      "start_time": 697.861,
+      "end_time": 698.85,
+      "duration": 0.9890000000000327,
+      "dialogue_text": "Gracias"
+    },
+    {
+      "subtitle_index": 129,
+      "start_time": 701.364,
+      "end_time": 702.353,
+      "duration": 0.988999999999919,
+      "dialogue_text": "Hasta pronto"
+    },
+    {
+      "subtitle_index": 130,
+      "start_time": 737.267,
+      "end_time": 738.598,
+      "duration": 1.3309999999999036,
+      "dialogue_text": "¿Fue un sueño?"
+    },
+    {
+      "subtitle_index": 131,
+      "start_time": 742.939,
+      "end_time": 744.27,
+      "duration": 1.3310000000000173,
+      "dialogue_text": "Me estás diciendo..."
+    },
+    {
+      "subtitle_index": 132,
+      "start_time": 744.374,
+      "end_time": 746.239,
+      "duration": 1.865000000000009,
+      "dialogue_text": "¿que no fuiste tu quien hizo esto?"
+    },
+    {
+      "subtitle_index": 133,
+      "start_time": 748.445,
+      "end_time": 750.106,
+      "duration": 1.6609999999999445,
+      "dialogue_text": "Ni idea"
+    },
+    {
+      "subtitle_index": 134,
+      "start_time": 750.38,
+      "end_time": 752.371,
+      "duration": 1.9909999999999854,
+      "dialogue_text": "Entonces... ¿quien lo hizo?"
+    },
+    {
+      "subtitle_index": 135,
+      "start_time": 758.622,
+      "end_time": 759.452,
+      "duration": 0.8300000000000409,
+      "dialogue_text": "¡Haru!"
+    },
+    {
+      "subtitle_index": 136,
+      "start_time": 759.556,
+      "end_time": 761.251,
+      "duration": 1.6949999999999363,
+      "dialogue_text": "Haru, ¡date prisa!"
+    },
+    {
+      "subtitle_index": 137,
+      "start_time": 761.691,
+      "end_time": 764.353,
+      "duration": 2.661999999999921,
+      "dialogue_text": "¡Qué es esto!"
+    },
+    {
+      "subtitle_index": 138,
+      "start_time": 766.296,
+      "end_time": 767.957,
+      "duration": 1.6609999999999445,
+      "dialogue_text": "¡\"Colas de gato\"!"
+    },
+    {
+      "subtitle_index": 139,
+      "start_time": 768.064,
+      "end_time": 771.295,
+      "duration": 3.2309999999999945,
+      "dialogue_text": "Oh, trabajo demasiado. Me pasaré todo el día en la cama"
+    },
+    {
+      "subtitle_index": 140,
+      "start_time": 785.582,
+      "end_time": 786.514,
+      "duration": 0.9320000000000164,
+      "dialogue_text": "¡No!"
+    },
+    {
+      "subtitle_index": 141,
+      "start_time": 786.983,
+      "end_time": 788.109,
+      "duration": 1.12600000000009,
+      "dialogue_text": "¿Por qué?"
+    },
+    {
+      "subtitle_index": 142,
+      "start_time": 789.986,
+      "end_time": 792.75,
+      "duration": 2.76400000000001,
+      "dialogue_text": "Haru, es este, ¿ves?"
+    },
+    {
+      "subtitle_index": 143,
+      "start_time": 793.089,
+      "end_time": 794.681,
+      "duration": 1.5919999999999845,
+      "dialogue_text": "¡Buenos días! Lo siento, tengo prisa"
+    },
+    {
+      "subtitle_index": 144,
+      "start_time": 798.828,
+      "end_time": 800.09,
+      "duration": 1.2620000000000573,
+      "dialogue_text": "¿Qué le pasa?"
+    },
+    {
+      "subtitle_index": 145,
+      "start_time": 800.33,
+      "end_time": 801.991,
+      "duration": 1.6609999999999445,
+      "dialogue_text": "¿Crees que tendrá \"hierva de gatos\"?"
+    },
+    {
+      "subtitle_index": 146,
+      "start_time": 802.098,
+      "end_time": 803.861,
+      "duration": 1.7630000000000337,
+      "dialogue_text": "¿\"hierva de gato\"? ¿por qué?"
+    },
+    {
+      "subtitle_index": 147,
+      "start_time": 804.0,
+      "end_time": 804.932,
+      "duration": 0.9320000000000164,
+      "dialogue_text": "No se"
+    },
+    {
+      "subtitle_index": 148,
+      "start_time": 806.67,
+      "end_time": 809.161,
+      "duration": 2.4909999999999854,
+      "dialogue_text": "¡Eh, Yoshioka! Deja tus gatos en casa"
+    },
+    {
+      "subtitle_index": 149,
+      "start_time": 809.272,
+      "end_time": 811.433,
+      "duration": 2.1609999999999445,
+      "dialogue_text": "No son míos"
+    },
+    {
+      "subtitle_index": 150,
+      "start_time": 813.443,
+      "end_time": 815.434,
+      "duration": 1.9909999999999854,
+      "dialogue_text": "¿Qué es esto?"
+    },
+    {
+      "subtitle_index": 151,
+      "start_time": 842.372,
+      "end_time": 843.805,
+      "duration": 1.4329999999999927,
+      "dialogue_text": "No fue un sueño"
+    },
+    {
+      "subtitle_index": 152,
+      "start_time": 843.907,
+      "end_time": 845.841,
+      "duration": 1.933999999999969,
+      "dialogue_text": "Fueron esos gatos los que hicieron esto"
+    },
+    {
+      "subtitle_index": 153,
+      "start_time": 846.443,
+      "end_time": 848.775,
+      "duration": 2.3319999999999936,
+      "dialogue_text": "quizá fue un error salvar a ese gato"
+    },
+    {
+      "subtitle_index": 154,
+      "start_time": 859.556,
+      "end_time": 860.215,
+      "duration": 0.6589999999999918,
+      "dialogue_text": "Haru"
+    },
+    {
+      "subtitle_index": 155,
+      "start_time": 860.323,
+      "end_time": 861.756,
+      "duration": 1.4329999999999927,
+      "dialogue_text": "¿Qué...qué pasa?"
+    },
+    {
+      "subtitle_index": 156,
+      "start_time": 862.292,
+      "end_time": 863.953,
+      "duration": 1.6609999999999445,
+      "dialogue_text": "¿Te das cuenta de cómo huele a \"hierva de gato\"?"
+    },
+    {
+      "subtitle_index": 157,
+      "start_time": 864.627,
+      "end_time": 867.061,
+      "duration": 2.4340000000000828,
+      "dialogue_text": "Si, está bien"
+    },
+    {
+      "subtitle_index": 158,
+      "start_time": 867.163,
+      "end_time": 868.755,
+      "duration": 1.5919999999999845,
+      "dialogue_text": "y los gatos no me seguirán más"
+    },
+    {
+      "subtitle_index": 159,
+      "start_time": 868.965,
+      "end_time": 870.296,
+      "duration": 1.3310000000000173,
+      "dialogue_text": "Está bien"
+    },
+    {
+      "subtitle_index": 160,
+      "start_time": 870.4,
+      "end_time": 870.991,
+      "duration": 0.5910000000000082,
+      "dialogue_text": "Si"
+    },
+    {
+      "subtitle_index": 161,
+      "start_time": 872.902,
+      "end_time": 875.063,
+      "duration": 2.1609999999999445,
+      "dialogue_text": "Dime, ¿me puedes hacer un favor?"
+    },
+    {
+      "subtitle_index": 162,
+      "start_time": 875.472,
+      "end_time": 877.804,
+      "duration": 2.3319999999999936,
+      "dialogue_text": "¿Podrías hacer mi turno de limpieza?"
+    },
+    {
+      "subtitle_index": 163,
+      "start_time": 877.974,
+      "end_time": 879.066,
+      "duration": 1.0919999999999845,
+      "dialogue_text": "Tsuge tiene partido hoy"
+    },
+    {
+      "subtitle_index": 164,
+      "start_time": 879.175,
+      "end_time": 881.837,
+      "duration": 2.6620000000000346,
+      "dialogue_text": "y no podré verlo si no salgo ahora mismo"
+    },
+    {
+      "subtitle_index": 165,
+      "start_time": 882.112,
+      "end_time": 882.976,
+      "duration": 0.8640000000000327,
+      "dialogue_text": "¡Por favor!"
+    },
+    {
+      "subtitle_index": 166,
+      "start_time": 883.58,
+      "end_time": 885.741,
+      "duration": 2.1609999999999445,
+      "dialogue_text": "Oh... bien..."
+    },
+    {
+      "subtitle_index": 167,
+      "start_time": 886.649,
+      "end_time": 887.98,
+      "duration": 1.3310000000000173,
+      "dialogue_text": "Limpiar. ¿No?"
+    },
+    {
+      "subtitle_index": 168,
+      "start_time": 888.184,
+      "end_time": 889.845,
+      "duration": 1.6610000000000582,
+      "dialogue_text": "¡Gracias Haru!"
+    },
+    {
+      "subtitle_index": 169,
+      "start_time": 900.263,
+      "end_time": 901.696,
+      "duration": 1.4329999999999927,
+      "dialogue_text": "¡Tsuge! ¡tras ellos!"
+    },
+    {
+      "subtitle_index": 170,
+      "start_time": 905.435,
+      "end_time": 907.699,
+      "duration": 2.26400000000001,
+      "dialogue_text": "¡Muy bien Tsuge! ¡Eres el mejor!"
+    },
+    {
+      "subtitle_index": 171,
+      "start_time": 933.363,
+      "end_time": 934.591,
+      "duration": 1.2279999999999518,
+      "dialogue_text": "Ten cuidado con el escalón"
+    },
+    {
+      "subtitle_index": 172,
+      "start_time": 934.697,
+      "end_time": 936.46,
+      "duration": 1.7630000000000337,
+      "dialogue_text": "Gracias"
+    },
+    {
+      "subtitle_index": 173,
+      "start_time": 937.534,
+      "end_time": 939.593,
+      "duration": 2.058999999999969,
+      "dialogue_text": "Ay, ¡cómo duele!"
+    },
+    {
+      "subtitle_index": 174,
+      "start_time": 941.638,
+      "end_time": 942.969,
+      "duration": 1.3310000000000173,
+      "dialogue_text": "¡Oh no!"
+    },
+    {
+      "subtitle_index": 175,
+      "start_time": 943.072,
+      "end_time": 945.165,
+      "duration": 2.092999999999961,
+      "dialogue_text": "Qué lío"
+    },
+    {
+      "subtitle_index": 176,
+      "start_time": 945.308,
+      "end_time": 946.741,
+      "duration": 1.4329999999999927,
+      "dialogue_text": "Oh"
+    },
+    {
+      "subtitle_index": 177,
+      "start_time": 959.322,
+      "end_time": 961.916,
+      "duration": 2.594000000000051,
+      "dialogue_text": "¿Qué estoy haciendo aquí?"
+    },
+    {
+      "subtitle_index": 178,
+      "start_time": 962.025,
+      "end_time": 964.789,
+      "duration": 2.76400000000001,
+      "dialogue_text": "Ahí está, Srta. Haru Srta. Haru"
+    },
+    {
+      "subtitle_index": 179,
+      "start_time": 974.671,
+      "end_time": 977.663,
+      "duration": 2.991999999999962,
+      "dialogue_text": "¡Gatos! una cosa tras otra durante toda la mañana"
+    },
+    {
+      "subtitle_index": 180,
+      "start_time": 977.774,
+      "end_time": 980.038,
+      "duration": 2.26400000000001,
+      "dialogue_text": "Nos alegra que te guste"
+    },
+    {
+      "subtitle_index": 181,
+      "start_time": 980.343,
+      "end_time": 981.241,
+      "duration": 0.8980000000000246,
+      "dialogue_text": "¡NO!"
+    },
+    {
+      "subtitle_index": 182,
+      "start_time": 981.344,
+      "end_time": 983.505,
+      "duration": 2.1609999999999445,
+      "dialogue_text": "¿¡Por qué!?"
+    },
+    {
+      "subtitle_index": 183,
+      "start_time": 983.613,
+      "end_time": 985.604,
+      "duration": 1.9909999999999854,
+      "dialogue_text": "¡En este proyecto se ha involucrado todo el reino"
+    },
+    {
+      "subtitle_index": 184,
+      "start_time": 985.715,
+      "end_time": 988.309,
+      "duration": 2.5939999999999372,
+      "dialogue_text": "para expresarle nuestra más profunda gratitud!"
+    },
+    {
+      "subtitle_index": 185,
+      "start_time": 988.585,
+      "end_time": 990.075,
+      "duration": 1.490000000000009,
+      "dialogue_text": "¿Qué quieres decir?"
+    },
+    {
+      "subtitle_index": 186,
+      "start_time": 990.186,
+      "end_time": 992.177,
+      "duration": 1.9909999999999854,
+      "dialogue_text": "Yo no como ratones"
+    },
+    {
+      "subtitle_index": 187,
+      "start_time": 992.288,
+      "end_time": 994.95,
+      "duration": 2.6620000000000346,
+      "dialogue_text": "No me gustan las \"colas de gato\" ni la \"hierva de gato\""
+    },
+    {
+      "subtitle_index": 188,
+      "start_time": 995.091,
+      "end_time": 997.525,
+      "duration": 2.433999999999969,
+      "dialogue_text": "Oh. Es eso..."
+    },
+    {
+      "subtitle_index": 189,
+      "start_time": 997.861,
+      "end_time": 999.852,
+      "duration": 1.9909999999999854,
+      "dialogue_text": "Perdón por nuestra ignorancia"
+    },
+    {
+      "subtitle_index": 190,
+      "start_time": 999.996,
+      "end_time": 1002.658,
+      "duration": 2.6620000000000346,
+      "dialogue_text": "Esto es algo inesperado"
+    },
+    {
+      "subtitle_index": 191,
+      "start_time": 1002.765,
+      "end_time": 1005.427,
+      "duration": 2.6620000000000346,
+      "dialogue_text": "¿y cómo informo yo ahora al Rey?"
+    },
+    {
+      "subtitle_index": 192,
+      "start_time": 1005.768,
+      "end_time": 1008.259,
+      "duration": 2.4909999999999854,
+      "dialogue_text": "Lo siento, ¿te he hecho daño?"
+    },
+    {
+      "subtitle_index": 193,
+      "start_time": 1008.538,
+      "end_time": 1010.028,
+      "duration": 1.490000000000009,
+      "dialogue_text": "Quizás me he pasado un poco"
+    },
+    {
+      "subtitle_index": 194,
+      "start_time": 1011.774,
+      "end_time": 1015.437,
+      "duration": 3.663000000000011,
+      "dialogue_text": "Para serte sincera, me han pasado muchas cosas recientemente"
+    },
+    {
+      "subtitle_index": 195,
+      "start_time": 1015.879,
+      "end_time": 1017.938,
+      "duration": 2.058999999999969,
+      "dialogue_text": "¿Como cuales?"
+    },
+    {
+      "subtitle_index": 196,
+      "start_time": 1018.448,
+      "end_time": 1021.281,
+      "duration": 2.83299999999997,
+      "dialogue_text": "Pues muchas cosas"
+    },
+    {
+      "subtitle_index": 197,
+      "start_time": 1021.384,
+      "end_time": 1023.045,
+      "duration": 1.6609999999999445,
+      "dialogue_text": "Ya veo. ¿Eso es todo?"
+    },
+    {
+      "subtitle_index": 198,
+      "start_time": 1023.152,
+      "end_time": 1027.248,
+      "duration": 4.096000000000004,
+      "dialogue_text": "Incluso una muchacha hermosa como la Srta. Haru tiene problemas"
+    },
+    {
+      "subtitle_index": 199,
+      "start_time": 1029.125,
+      "end_time": 1030.956,
+      "duration": 1.8309999999999036,
+      "dialogue_text": "Repite...ya es suficiente"
+    },
+    {
+      "subtitle_index": 200,
+      "start_time": 1031.06,
+      "end_time": 1032.55,
+      "duration": 1.490000000000009,
+      "dialogue_text": "No, no es suficiente"
+    },
+    {
+      "subtitle_index": 201,
+      "start_time": 1032.662,
+      "end_time": 1034.425,
+      "duration": 1.76299999999992,
+      "dialogue_text": "No podemos parar ahora"
+    },
+    {
+      "subtitle_index": 202,
+      "start_time": 1034.53,
+      "end_time": 1037.192,
+      "duration": 2.6620000000000346,
+      "dialogue_text": "Daremos lo mejor de nosotros mismos para que quede satisfecha"
+    },
+    {
+      "subtitle_index": 203,
+      "start_time": 1037.3,
+      "end_time": 1038.733,
+      "duration": 1.4329999999999927,
+      "dialogue_text": "¿Más?"
+    },
+    {
+      "subtitle_index": 204,
+      "start_time": 1038.968,
+      "end_time": 1039.957,
+      "duration": 0.9890000000000327,
+      "dialogue_text": "Si"
+    },
+    {
+      "subtitle_index": 205,
+      "start_time": 1040.57,
+      "end_time": 1044.904,
+      "duration": 4.33400000000006,
+      "dialogue_text": "Por favor, venga a visitarnos al Reino de los Gatos"
+    },
+    {
+      "subtitle_index": 206,
+      "start_time": 1045.141,
+      "end_time": 1046.699,
+      "duration": 1.5579999999999927,
+      "dialogue_text": "¿El Reino de los Gatos?"
+    },
+    {
+      "subtitle_index": 207,
+      "start_time": 1047.143,
+      "end_time": 1049.134,
+      "duration": 1.9909999999999854,
+      "dialogue_text": "Es un sitio precioso"
+    },
+    {
+      "subtitle_index": 208,
+      "start_time": 1049.245,
+      "end_time": 1052.237,
+      "duration": 2.992000000000189,
+      "dialogue_text": "Mucha naturaleza y buena comida"
+    },
+    {
+      "subtitle_index": 209,
+      "start_time": 1052.348,
+      "end_time": 1056.182,
+      "duration": 3.83400000000006,
+      "dialogue_text": "Todo el reino le dará la bienvenida Srta. Haru"
+    },
+    {
+      "subtitle_index": 210,
+      "start_time": 1057.82,
+      "end_time": 1058.98,
+      "duration": 1.1600000000000819,
+      "dialogue_text": "y lo que es más"
+    },
+    {
+      "subtitle_index": 211,
+      "start_time": 1059.422,
+      "end_time": 1061.253,
+      "duration": 1.8309999999999036,
+      "dialogue_text": "El Rey espera que"
+    },
+    {
+      "subtitle_index": 212,
+      "start_time": 1061.357,
+      "end_time": 1064.793,
+      "duration": 3.435999999999922,
+      "dialogue_text": "El Príncipe Lune, a quien salvaste ayer,"
+    },
+    {
+      "subtitle_index": 213,
+      "start_time": 1064.894,
+      "end_time": 1068.386,
+      "duration": 3.491999999999962,
+      "dialogue_text": "acepte a la Srta. Haru como su prometida"
+    },
+    {
+      "subtitle_index": 214,
+      "start_time": 1071.401,
+      "end_time": 1074.734,
+      "duration": 3.3329999999998563,
+      "dialogue_text": "¡Ni hablar! ¡Eso es imposible!"
+    },
+    {
+      "subtitle_index": 215,
+      "start_time": 1074.837,
+      "end_time": 1076.634,
+      "duration": 1.7970000000000255,
+      "dialogue_text": "El Príncipe es un gato"
+    },
+    {
+      "subtitle_index": 216,
+      "start_time": 1076.94,
+      "end_time": 1078.43,
+      "duration": 1.490000000000009,
+      "dialogue_text": "¿Y qué problema hay?"
+    },
+    {
+      "subtitle_index": 217,
+      "start_time": 1078.541,
+      "end_time": 1081.567,
+      "duration": 3.0260000000000673,
+      "dialogue_text": "¡Es un gato pero es guapo!"
+    },
+    {
+      "subtitle_index": 218,
+      "start_time": 1084.013,
+      "end_time": 1085.173,
+      "duration": 1.1600000000000819,
+      "dialogue_text": "¿Guapo?"
+    },
+    {
+      "subtitle_index": 219,
+      "start_time": 1096.859,
+      "end_time": 1098.19,
+      "duration": 1.331000000000131,
+      "dialogue_text": "Bueno..."
+    },
+    {
+      "subtitle_index": 220,
+      "start_time": 1098.695,
+      "end_time": 1101.163,
+      "duration": 2.4680000000000746,
+      "dialogue_text": "Un Reino de Gatos puede estar bien"
+    },
+    {
+      "subtitle_index": 221,
+      "start_time": 1102.532,
+      "end_time": 1104.625,
+      "duration": 2.0930000000000746,
+      "dialogue_text": "Todo el día nada más que vagando por ahí"
+    },
+    {
+      "subtitle_index": 222,
+      "start_time": 1104.734,
+      "end_time": 1105.723,
+      "duration": 0.9890000000000327,
+      "dialogue_text": "¡Exacto!"
+    },
+    {
+      "subtitle_index": 223,
+      "start_time": 1105.835,
+      "end_time": 1107.53,
+      "duration": 1.6949999999999363,
+      "dialogue_text": "Puede ser el paraíso"
+    },
+    {
+      "subtitle_index": 224,
+      "start_time": 1107.971,
+      "end_time": 1110.667,
+      "duration": 2.6959999999999127,
+      "dialogue_text": "Comer cosas deliciosas y luego echarte una siesta"
+    },
+    {
+      "subtitle_index": 225,
+      "start_time": 1110.807,
+      "end_time": 1113.298,
+      "duration": 2.4909999999999854,
+      "dialogue_text": "olvidarte de los problemas..."
+    },
+    {
+      "subtitle_index": 226,
+      "start_time": 1113.409,
+      "end_time": 1115.843,
+      "duration": 2.433999999999969,
+      "dialogue_text": "Pero la prometida de un gato... eso es ir demasiado lejos"
+    },
+    {
+      "subtitle_index": 227,
+      "start_time": 1115.945,
+      "end_time": 1117.776,
+      "duration": 1.831000000000131,
+      "dialogue_text": "Incluso si es un príncipe. Eso es..."
+    },
+    {
+      "subtitle_index": 228,
+      "start_time": 1117.88,
+      "end_time": 1118.471,
+      "duration": 0.5909999999998945,
+      "dialogue_text": "¿Eh?"
+    },
+    {
+      "subtitle_index": 229,
+      "start_time": 1120.483,
+      "end_time": 1122.644,
+      "duration": 2.161000000000058,
+      "dialogue_text": "Bueno, entonces la recogeremos esta noche"
+    },
+    {
+      "subtitle_index": 230,
+      "start_time": 1123.987,
+      "end_time": 1125.477,
+      "duration": 1.490000000000009,
+      "dialogue_text": "¿Qué quieres decir?"
+    },
+    {
+      "subtitle_index": 231,
+      "start_time": 1125.588,
+      "end_time": 1126.384,
+      "duration": 0.7960000000000491,
+      "dialogue_text": "¡Eh! ¡espera!"
+    },
+    {
+      "subtitle_index": 232,
+      "start_time": 1128.224,
+      "end_time": 1130.317,
+      "duration": 2.0930000000000746,
+      "dialogue_text": "Ay"
+    },
+    {
+      "subtitle_index": 233,
+      "start_time": 1131.06,
+      "end_time": 1133.051,
+      "duration": 1.9909999999999854,
+      "dialogue_text": "Qué daño"
+    },
+    {
+      "subtitle_index": 234,
+      "start_time": 1133.997,
+      "end_time": 1135.76,
+      "duration": 1.76299999999992,
+      "dialogue_text": "Espera, déjame pensar"
+    },
+    {
+      "subtitle_index": 235,
+      "start_time": 1136.399,
+      "end_time": 1138.594,
+      "duration": 2.1950000000001637,
+      "dialogue_text": "Eso es lo que se dice... en pocas palabras..."
+    },
+    {
+      "subtitle_index": 236,
+      "start_time": 1138.835,
+      "end_time": 1141.326,
+      "duration": 2.4909999999999854,
+      "dialogue_text": "¿Qué puedo hacer? Estoy segura de que esos gatos lo harán"
+    },
+    {
+      "subtitle_index": 237,
+      "start_time": 1141.437,
+      "end_time": 1143.302,
+      "duration": 1.865000000000009,
+      "dialogue_text": "Vendrán para llevarme al Reino de los Gatos"
+    },
+    {
+      "subtitle_index": 238,
+      "start_time": 1143.406,
+      "end_time": 1145.567,
+      "duration": 2.161000000000058,
+      "dialogue_text": "Me convertirán en la prometida de un gato"
+    },
+    {
+      "subtitle_index": 239,
+      "start_time": 1151.581,
+      "end_time": 1155.073,
+      "duration": 3.492000000000189,
+      "dialogue_text": "¡No, no y no! ¡Nunca!"
+    },
+    {
+      "subtitle_index": 240,
+      "start_time": 1156.085,
+      "end_time": 1157.279,
+      "duration": 1.19399999999996,
+      "dialogue_text": "Haru"
+    },
+    {
+      "subtitle_index": 241,
+      "start_time": 1157.82,
+      "end_time": 1158.809,
+      "duration": 0.9890000000000327,
+      "dialogue_text": "Haru"
+    },
+    {
+      "subtitle_index": 242,
+      "start_time": 1159.756,
+      "end_time": 1160.745,
+      "duration": 0.9889999999998054,
+      "dialogue_text": "¿Quién eres?"
+    },
+    {
+      "subtitle_index": 243,
+      "start_time": 1161.224,
+      "end_time": 1163.749,
+      "duration": 2.525000000000091,
+      "dialogue_text": "Haru, la Oficina de Asuntos del Gato"
+    },
+    {
+      "subtitle_index": 244,
+      "start_time": 1163.86,
+      "end_time": 1165.691,
+      "duration": 1.831000000000131,
+      "dialogue_text": "Encuentra la Oficina de Asuntos del Gato"
+    },
+    {
+      "subtitle_index": 245,
+      "start_time": 1166.696,
+      "end_time": 1167.594,
+      "duration": 0.8980000000001382,
+      "dialogue_text": "Por aquí no"
+    },
+    {
+      "subtitle_index": 246,
+      "start_time": 1167.93,
+      "end_time": 1169.591,
+      "duration": 1.6609999999998308,
+      "dialogue_text": "¿Quién eres?"
+    },
+    {
+      "subtitle_index": 247,
+      "start_time": 1169.699,
+      "end_time": 1171.36,
+      "duration": 1.6609999999998308,
+      "dialogue_text": "¿Qué es la Oficina de Asuntos del Gato?"
+    },
+    {
+      "subtitle_index": 248,
+      "start_time": 1171.534,
+      "end_time": 1173.297,
+      "duration": 1.76299999999992,
+      "dialogue_text": "Estoy seguro que te ayudarán"
+    },
+    {
+      "subtitle_index": 249,
+      "start_time": 1173.536,
+      "end_time": 1177.302,
+      "duration": 3.765999999999849,
+      "dialogue_text": "En El Cruce, un gran gato blanco te dirá como llegar"
+    },
+    {
+      "subtitle_index": 250,
+      "start_time": 1177.94,
+      "end_time": 1179.931,
+      "duration": 1.9909999999999854,
+      "dialogue_text": "Un gran gato blanco..."
+    },
+    {
+      "subtitle_index": 251,
+      "start_time": 1180.943,
+      "end_time": 1183.605,
+      "duration": 2.6620000000000346,
+      "dialogue_text": "Haru, ve a El Cruce"
+    },
+    {
+      "subtitle_index": 252,
+      "start_time": 1183.713,
+      "end_time": 1185.704,
+      "duration": 1.9909999999999854,
+      "dialogue_text": "y busca la Oficina de Asuntos del Gato"
+    },
+    {
+      "subtitle_index": 253,
+      "start_time": 1203.399,
+      "end_time": 1205.89,
+      "duration": 2.491000000000213,
+      "dialogue_text": "Nunca había oído hablar de la Oficina de Asuntos del Gato"
+    },
+    {
+      "subtitle_index": 254,
+      "start_time": 1210.306,
+      "end_time": 1213.07,
+      "duration": 2.7639999999998963,
+      "dialogue_text": "Un gran gato blanco..."
+    },
+    {
+      "subtitle_index": 255,
+      "start_time": 1213.81,
+      "end_time": 1217.576,
+      "duration": 3.7660000000000764,
+      "dialogue_text": "Pero la voz era hermosa. Debe ser un agradable gato blanco"
+    },
+    {
+      "subtitle_index": 256,
+      "start_time": 1219.148,
+      "end_time": 1222.242,
+      "duration": 3.094000000000051,
+      "dialogue_text": "Oh. Qué cansada estoy"
+    },
+    {
+      "subtitle_index": 257,
+      "start_time": 1223.152,
+      "end_time": 1225.416,
+      "duration": 2.2639999999998963,
+      "dialogue_text": "Voy a descansar un poco"
+    },
+    {
+      "subtitle_index": 258,
+      "start_time": 1226.823,
+      "end_time": 1229.121,
+      "duration": 2.298000000000002,
+      "dialogue_text": "¿Qué? ¿Qué es esto?"
+    },
+    {
+      "subtitle_index": 259,
+      "start_time": 1231.327,
+      "end_time": 1232.658,
+      "duration": 1.3309999999999036,
+      "dialogue_text": "¿Quién es este gato grande y gordo?"
+    },
+    {
+      "subtitle_index": 260,
+      "start_time": 1232.762,
+      "end_time": 1235.094,
+      "duration": 2.3320000000001073,
+      "dialogue_text": "¿Qué haces ahí?"
+    },
+    {
+      "subtitle_index": 261,
+      "start_time": 1236.165,
+      "end_time": 1237.496,
+      "duration": 1.331000000000131,
+      "dialogue_text": "!Un gran gato blanco!"
+    },
+    {
+      "subtitle_index": 262,
+      "start_time": 1237.834,
+      "end_time": 1238.596,
+      "duration": 0.7619999999999436,
+      "dialogue_text": "¿Será él?"
+    },
+    {
+      "subtitle_index": 263,
+      "start_time": 1240.169,
+      "end_time": 1242.763,
+      "duration": 2.5939999999998236,
+      "dialogue_text": "Oye, ¿sabes donde está la Oficina de Asuntos del Gato?"
+    },
+    {
+      "subtitle_index": 264,
+      "start_time": 1246.843,
+      "end_time": 1248.504,
+      "duration": 1.6609999999998308,
+      "dialogue_text": "Necesito tu ayuda"
+    },
+    {
+      "subtitle_index": 265,
+      "start_time": 1255.017,
+      "end_time": 1258.18,
+      "duration": 3.163000000000011,
+      "dialogue_text": "Te he confundido con otra persona... uy, digo otro gato"
+    },
+    {
+      "subtitle_index": 266,
+      "start_time": 1258.454,
+      "end_time": 1260.115,
+      "duration": 1.6610000000000582,
+      "dialogue_text": "Siento haberme sentado sobre ti"
+    },
+    {
+      "subtitle_index": 267,
+      "start_time": 1262.291,
+      "end_time": 1263.223,
+      "duration": 0.9320000000000164,
+      "dialogue_text": "Sígueme"
+    },
+    {
+      "subtitle_index": 268,
+      "start_time": 1263.793,
+      "end_time": 1264.521,
+      "duration": 0.7280000000000655,
+      "dialogue_text": "Eres tú"
+    },
+    {
+      "subtitle_index": 269,
+      "start_time": 1267.196,
+      "end_time": 1269.289,
+      "duration": 2.0930000000000746,
+      "dialogue_text": "¡Eh, espérame!"
+    },
+    {
+      "subtitle_index": 270,
+      "start_time": 1294.323,
+      "end_time": 1297.417,
+      "duration": 3.0939999999998236,
+      "dialogue_text": "Eh, ¿no hay un camino más fácil?"
+    },
+    {
+      "subtitle_index": 271,
+      "start_time": 1297.894,
+      "end_time": 1299.657,
+      "duration": 1.76299999999992,
+      "dialogue_text": "¿Te estás vengando"
+    },
+    {
+      "subtitle_index": 272,
+      "start_time": 1300.062,
+      "end_time": 1301.723,
+      "duration": 1.6610000000000582,
+      "dialogue_text": "porque dije que estás gordo?"
+    },
+    {
+      "subtitle_index": 273,
+      "start_time": 1384.48,
+      "end_time": 1386.914,
+      "duration": 2.433999999999969,
+      "dialogue_text": "Qué sitio más raro"
+    },
+    {
+      "subtitle_index": 274,
+      "start_time": 1412.208,
+      "end_time": 1414.369,
+      "duration": 2.160999999999831,
+      "dialogue_text": "¿Dónde está la Oficina de Asuntos del Gato?"
+    },
+    {
+      "subtitle_index": 275,
+      "start_time": 1417.847,
+      "end_time": 1419.041,
+      "duration": 1.19399999999996,
+      "dialogue_text": "¿Me estás escuchando?"
+    },
+    {
+      "subtitle_index": 276,
+      "start_time": 1419.215,
+      "end_time": 1420.978,
+      "duration": 1.7630000000001473,
+      "dialogue_text": "Tengo un gran problema"
+    },
+    {
+      "subtitle_index": 277,
+      "start_time": 1421.083,
+      "end_time": 1423.95,
+      "duration": 2.866999999999962,
+      "dialogue_text": "¡Esos gatos me llevarán a su reino!"
+    },
+    {
+      "subtitle_index": 278,
+      "start_time": 1439.935,
+      "end_time": 1442.199,
+      "duration": 2.2640000000001237,
+      "dialogue_text": "Es...esto..."
+    },
+    {
+      "subtitle_index": 279,
+      "start_time": 1462.858,
+      "end_time": 1464.849,
+      "duration": 1.9909999999999854,
+      "dialogue_text": "¡Eh, Barón! ¡Tienes visita!"
+    },
+    {
+      "subtitle_index": 280,
+      "start_time": 1464.96,
+      "end_time": 1467.224,
+      "duration": 2.2639999999998963,
+      "dialogue_text": "¡Déjate de teatro y entra!"
+    },
+    {
+      "subtitle_index": 281,
+      "start_time": 1493.289,
+      "end_time": 1495.553,
+      "duration": 2.2640000000001237,
+      "dialogue_text": "¡Bienvenida a la Oficina de Asuntos del Gato!"
+    },
+    {
+      "subtitle_index": 282,
+      "start_time": 1498.961,
+      "end_time": 1500.451,
+      "duration": 1.490000000000009,
+      "dialogue_text": "Qué bonito..."
+    },
+    {
+      "subtitle_index": 283,
+      "start_time": 1501.564,
+      "end_time": 1505.398,
+      "duration": 3.8339999999998327,
+      "dialogue_text": "Este lugar está en una dimensión un poco diferente a la tuya."
+    },
+    {
+      "subtitle_index": 284,
+      "start_time": 1505.735,
+      "end_time": 1507.669,
+      "duration": 1.9340000000001965,
+      "dialogue_text": "un mundo para seres con alma"
+    },
+    {
+      "subtitle_index": 285,
+      "start_time": 1508.304,
+      "end_time": 1510.465,
+      "duration": 2.160999999999831,
+      "dialogue_text": "Cuando la gente crea algo"
+    },
+    {
+      "subtitle_index": 286,
+      "start_time": 1510.573,
+      "end_time": 1514.304,
+      "duration": 3.7309999999999945,
+      "dialogue_text": "de todo corazón y llenos de esperanza le dan alma a la creación,"
+    },
+    {
+      "subtitle_index": 287,
+      "start_time": 1514.643,
+      "end_time": 1516.736,
+      "duration": 2.0930000000000746,
+      "dialogue_text": "como a mi o a él"
+    },
+    {
+      "subtitle_index": 288,
+      "start_time": 1528.491,
+      "end_time": 1530.083,
+      "duration": 1.5920000000000982,
+      "dialogue_text": "¡Dios mío!"
+    },
+    {
+      "subtitle_index": 289,
+      "start_time": 1530.192,
+      "end_time": 1532.956,
+      "duration": 2.7639999999998963,
+      "dialogue_text": "Él es Toto, una gárgola con alma"
+    },
+    {
+      "subtitle_index": 290,
+      "start_time": 1533.496,
+      "end_time": 1536.397,
+      "duration": 2.90099999999984,
+      "dialogue_text": "Barón, es tan raro que tengas visita"
+    },
+    {
+      "subtitle_index": 291,
+      "start_time": 1536.665,
+      "end_time": 1538.997,
+      "duration": 2.3320000000001073,
+      "dialogue_text": "Si, y muy atractiva, ¿no crees?"
+    },
+    {
+      "subtitle_index": 292,
+      "start_time": 1539.335,
+      "end_time": 1540.666,
+      "duration": 1.3309999999999036,
+      "dialogue_text": "¿Barón...?"
+    },
+    {
+      "subtitle_index": 293,
+      "start_time": 1542.004,
+      "end_time": 1544.438,
+      "duration": 2.4340000000001965,
+      "dialogue_text": "Soy el Barón Humbert von Gikkingen"
+    },
+    {
+      "subtitle_index": 294,
+      "start_time": 1544.673,
+      "end_time": 1547.267,
+      "duration": 2.594000000000051,
+      "dialogue_text": "La persona que me creó me dio ese nombre"
+    },
+    {
+      "subtitle_index": 295,
+      "start_time": 1547.61,
+      "end_time": 1549.305,
+      "duration": 1.6950000000001637,
+      "dialogue_text": "así que por eso te llaman Barón"
+    },
+    {
+      "subtitle_index": 296,
+      "start_time": 1549.612,
+      "end_time": 1551.273,
+      "duration": 1.6609999999998308,
+      "dialogue_text": "He oído tu historia"
+    },
+    {
+      "subtitle_index": 297,
+      "start_time": 1551.514,
+      "end_time": 1554.278,
+      "duration": 2.7640000000001237,
+      "dialogue_text": "¿problemas con algunos gatos el Reino de los Gatos?"
+    },
+    {
+      "subtitle_index": 298,
+      "start_time": 1554.383,
+      "end_time": 1556.214,
+      "duration": 1.8309999999999036,
+      "dialogue_text": "Así es"
+    },
+    {
+      "subtitle_index": 299,
+      "start_time": 1556.318,
+      "end_time": 1558.98,
+      "duration": 2.6620000000000346,
+      "dialogue_text": "Salvé a un gato de ser atropellado"
+    },
+    {
+      "subtitle_index": 300,
+      "start_time": 1559.088,
+      "end_time": 1561.75,
+      "duration": 2.6620000000000346,
+      "dialogue_text": "Ahora dicen que, en agradecimiento, quieren llevarme a su reino"
+    },
+    {
+      "subtitle_index": 301,
+      "start_time": 1561.857,
+      "end_time": 1562.824,
+      "duration": 0.9670000000000982,
+      "dialogue_text": "¿En agradecimiento?"
+    },
+    {
+      "subtitle_index": 302,
+      "start_time": 1563.025,
+      "end_time": 1564.788,
+      "duration": 1.76299999999992,
+      "dialogue_text": "Eh, según parece,"
+    },
+    {
+      "subtitle_index": 303,
+      "start_time": 1565.294,
+      "end_time": 1566.818,
+      "duration": 1.5239999999998872,
+      "dialogue_text": "es muy amable de su parte"
+    },
+    {
+      "subtitle_index": 304,
+      "start_time": 1570.533,
+      "end_time": 1572.967,
+      "duration": 2.4340000000001965,
+      "dialogue_text": "no deberías estar molesta"
+    },
+    {
+      "subtitle_index": 305,
+      "start_time": 1573.135,
+      "end_time": 1575.296,
+      "duration": 2.161000000000058,
+      "dialogue_text": "Eres un mal pensado como siempre, Muta"
+    },
+    {
+      "subtitle_index": 306,
+      "start_time": 1575.404,
+      "end_time": 1578.931,
+      "duration": 3.5270000000000437,
+      "dialogue_text": "No puedes apreciar la bondad en quien salvó a un gato"
+    },
+    {
+      "subtitle_index": 307,
+      "start_time": 1579.942,
+      "end_time": 1582.536,
+      "duration": 2.594000000000051,
+      "dialogue_text": "Y tiene problemas por eso, ¿no?"
+    },
+    {
+      "subtitle_index": 308,
+      "start_time": 1582.645,
+      "end_time": 1584.636,
+      "duration": 1.9909999999999854,
+      "dialogue_text": "Nunca te mezcles en los asuntos de los demás"
+    },
+    {
+      "subtitle_index": 309,
+      "start_time": 1587.483,
+      "end_time": 1589.041,
+      "duration": 1.5579999999999927,
+      "dialogue_text": "¿Dónde conociste a esta chica?"
+    },
+    {
+      "subtitle_index": 310,
+      "start_time": 1589.218,
+      "end_time": 1590.378,
+      "duration": 1.1599999999998545,
+      "dialogue_text": "en El Cruce"
+    },
+    {
+      "subtitle_index": 311,
+      "start_time": 1590.486,
+      "end_time": 1592.818,
+      "duration": 2.33199999999988,
+      "dialogue_text": "Ella ya conocía este sitio"
+    },
+    {
+      "subtitle_index": 312,
+      "start_time": 1592.988,
+      "end_time": 1593.977,
+      "duration": 0.9890000000000327,
+      "dialogue_text": "Mmmm"
+    },
+    {
+      "subtitle_index": 313,
+      "start_time": 1595.224,
+      "end_time": 1597.658,
+      "duration": 2.433999999999969,
+      "dialogue_text": "Oh, oí una voz,"
+    },
+    {
+      "subtitle_index": 314,
+      "start_time": 1597.76,
+      "end_time": 1599.455,
+      "duration": 1.6949999999999363,
+      "dialogue_text": "aunque no se de quién era"
+    },
+    {
+      "subtitle_index": 315,
+      "start_time": 1599.562,
+      "end_time": 1600.221,
+      "duration": 0.6590000000001055,
+      "dialogue_text": "¿Una voz?"
+    },
+    {
+      "subtitle_index": 316,
+      "start_time": 1600.329,
+      "end_time": 1602.82,
+      "duration": 2.4909999999999854,
+      "dialogue_text": "¿¡Escuchaste una voz extraña!?"
+    },
+    {
+      "subtitle_index": 317,
+      "start_time": 1602.932,
+      "end_time": 1604.627,
+      "duration": 1.6949999999999363,
+      "dialogue_text": "¡Qué inocente puedes llegar a ser... hey!"
+    },
+    {
+      "subtitle_index": 318,
+      "start_time": 1605.568,
+      "end_time": 1606.262,
+      "duration": 0.69399999999996,
+      "dialogue_text": "¿Qué haces?"
+    },
+    {
+      "subtitle_index": 319,
+      "start_time": 1606.402,
+      "end_time": 1608.495,
+      "duration": 2.092999999999847,
+      "dialogue_text": "¡Por qué no contienes tu lengua!"
+    },
+    {
+      "subtitle_index": 320,
+      "start_time": 1608.871,
+      "end_time": 1610.304,
+      "duration": 1.4329999999999927,
+      "dialogue_text": "¡Mantente al margen de esto...!"
+    },
+    {
+      "subtitle_index": 321,
+      "start_time": 1610.506,
+      "end_time": 1613.27,
+      "duration": 2.7639999999998963,
+      "dialogue_text": "No se peleen por mi culpa..."
+    },
+    {
+      "subtitle_index": 322,
+      "start_time": 1614.577,
+      "end_time": 1615.942,
+      "duration": 1.365000000000009,
+      "dialogue_text": "dijiste que tu nombre era..."
+    },
+    {
+      "subtitle_index": 323,
+      "start_time": 1616.178,
+      "end_time": 1618.738,
+      "duration": 2.5599999999999454,
+      "dialogue_text": "Oh, es Haru. Me llamo Haru"
+    },
+    {
+      "subtitle_index": 324,
+      "start_time": 1619.014,
+      "end_time": 1621.175,
+      "duration": 2.161000000000058,
+      "dialogue_text": "Bien Haru Entra por favor."
+    },
+    {
+      "subtitle_index": 325,
+      "start_time": 1623.085,
+      "end_time": 1624.746,
+      "duration": 1.6610000000000582,
+      "dialogue_text": "No te preocupes por ellos"
+    },
+    {
+      "subtitle_index": 326,
+      "start_time": 1625.087,
+      "end_time": 1626.577,
+      "duration": 1.490000000000009,
+      "dialogue_text": "¡Sucio pájaro negro!"
+    },
+    {
+      "subtitle_index": 327,
+      "start_time": 1626.689,
+      "end_time": 1629.123,
+      "duration": 2.433999999999969,
+      "dialogue_text": "¿No sabes siquiera que soy un cuervo?"
+    },
+    {
+      "subtitle_index": 328,
+      "start_time": 1629.258,
+      "end_time": 1632.421,
+      "duration": 3.163000000000011,
+      "dialogue_text": "¡Sal de la oscuridad, tonto!"
+    },
+    {
+      "subtitle_index": 329,
+      "start_time": 1632.528,
+      "end_time": 1635.52,
+      "duration": 2.991999999999962,
+      "dialogue_text": "¡Nadie puede echar de menos a un algodón de caramelo gigante como tú!"
+    },
+    {
+      "subtitle_index": 330,
+      "start_time": 1635.631,
+      "end_time": 1636.62,
+      "duration": 0.9889999999998054,
+      "dialogue_text": "¡Gato cebado!"
+    },
+    {
+      "subtitle_index": 331,
+      "start_time": 1636.732,
+      "end_time": 1639.724,
+      "duration": 2.991999999999962,
+      "dialogue_text": "¡Que te frían, alitas de pollo!"
+    },
+    {
+      "subtitle_index": 332,
+      "start_time": 1639.835,
+      "end_time": 1640.995,
+      "duration": 1.1599999999998545,
+      "dialogue_text": "¡Cállate, muuu, fus fus, oink!"
+    },
+    {
+      "subtitle_index": 333,
+      "start_time": 1641.103,
+      "end_time": 1643.094,
+      "duration": 1.9909999999999854,
+      "dialogue_text": "Pollo loco"
+    },
+    {
+      "subtitle_index": 334,
+      "start_time": 1647.776,
+      "end_time": 1649.937,
+      "duration": 2.160999999999831,
+      "dialogue_text": "Estoy entrando"
+    },
+    {
+      "subtitle_index": 335,
+      "start_time": 1651.614,
+      "end_time": 1654.276,
+      "duration": 2.6620000000000346,
+      "dialogue_text": "Oh... Este sitio es magnífico"
+    },
+    {
+      "subtitle_index": 336,
+      "start_time": 1654.383,
+      "end_time": 1656.544,
+      "duration": 2.161000000000058,
+      "dialogue_text": "Ahora pasa y toma asiento"
+    },
+    {
+      "subtitle_index": 337,
+      "start_time": 1656.652,
+      "end_time": 1657.448,
+      "duration": 0.7960000000000491,
+      "dialogue_text": "Gracias"
+    },
+    {
+      "subtitle_index": 338,
+      "start_time": 1659.288,
+      "end_time": 1661.085,
+      "duration": 1.7970000000000255,
+      "dialogue_text": "¿Limón o leche con el té?"
+    },
+    {
+      "subtitle_index": 339,
+      "start_time": 1661.19,
+      "end_time": 1662.179,
+      "duration": 0.9890000000000327,
+      "dialogue_text": "Leche, por favor"
+    },
+    {
+      "subtitle_index": 340,
+      "start_time": 1671.3,
+      "end_time": 1673.564,
+      "duration": 2.2640000000001237,
+      "dialogue_text": "Qué oficina tan bonita."
+    },
+    {
+      "subtitle_index": 341,
+      "start_time": 1674.303,
+      "end_time": 1675.133,
+      "duration": 0.8299999999999272,
+      "dialogue_text": "Aquí tienes"
+    },
+    {
+      "subtitle_index": 342,
+      "start_time": 1675.471,
+      "end_time": 1676.301,
+      "duration": 0.8299999999999272,
+      "dialogue_text": "Gracias"
+    },
+    {
+      "subtitle_index": 343,
+      "start_time": 1679.241,
+      "end_time": 1680.503,
+      "duration": 1.2619999999999436,
+      "dialogue_text": "Muy bueno"
+    },
+    {
+      "subtitle_index": 344,
+      "start_time": 1681.477,
+      "end_time": 1683.104,
+      "duration": 1.6269999999999527,
+      "dialogue_text": "Es mi mezcla especial"
+    },
+    {
+      "subtitle_index": 345,
+      "start_time": 1683.412,
+      "end_time": 1686.506,
+      "duration": 3.094000000000051,
+      "dialogue_text": "Aunque no puedo garantizar el sabor, es diferente cada vez"
+    },
+    {
+      "subtitle_index": 346,
+      "start_time": 1689.818,
+      "end_time": 1690.682,
+      "duration": 0.8640000000000327,
+      "dialogue_text": "¡Está bueno!"
+    },
+    {
+      "subtitle_index": 347,
+      "start_time": 1690.819,
+      "end_time": 1692.15,
+      "duration": 1.331000000000131,
+      "dialogue_text": "Está realmente bueno"
+    },
+    {
+      "subtitle_index": 348,
+      "start_time": 1692.488,
+      "end_time": 1693.75,
+      "duration": 1.2619999999999436,
+      "dialogue_text": "Entonces. Has tenido suerte"
+    },
+    {
+      "subtitle_index": 349,
+      "start_time": 1693.989,
+      "end_time": 1696.753,
+      "duration": 2.7639999999998963,
+      "dialogue_text": "¿Cómo puedes beber hojas verdes?"
+    },
+    {
+      "subtitle_index": 350,
+      "start_time": 1698.827,
+      "end_time": 1700.988,
+      "duration": 2.161000000000058,
+      "dialogue_text": "Apuesto a que es demasiado refinado para tu paladar"
+    },
+    {
+      "subtitle_index": 351,
+      "start_time": 1701.096,
+      "end_time": 1702.859,
+      "duration": 1.76299999999992,
+      "dialogue_text": "Vete a freír espárragos"
+    },
+    {
+      "subtitle_index": 352,
+      "start_time": 1703.332,
+      "end_time": 1704.264,
+      "duration": 0.931999999999789,
+      "dialogue_text": "Muta..."
+    },
+    {
+      "subtitle_index": 353,
+      "start_time": 1704.667,
+      "end_time": 1708.763,
+      "duration": 4.096000000000004,
+      "dialogue_text": "Háblame otra vez del Reino de los Gatos"
+    },
+    {
+      "subtitle_index": 354,
+      "start_time": 1709.171,
+      "end_time": 1711.215,
+      "duration": 2.043999999999869,
+      "dialogue_text": "Todo el lugar es un engaño. un lugar para..."
+    },
+    {
+      "subtitle_index": 355,
+      "start_time": 1711.273,
+      "end_time": 1714.606,
+      "duration": 3.3330000000000837,
+      "dialogue_text": "...aquellos que no tienen personalidad propia."
+    },
+    {
+      "subtitle_index": 356,
+      "start_time": 1714.71,
+      "end_time": 1716.2,
+      "duration": 1.490000000000009,
+      "dialogue_text": "Personalidad propia..."
+    },
+    {
+      "subtitle_index": 357,
+      "start_time": 1716.478,
+      "end_time": 1718.742,
+      "duration": 2.2639999999998963,
+      "dialogue_text": "Uno de los hombres del Rey Gato dijo..."
+    },
+    {
+      "subtitle_index": 358,
+      "start_time": 1718.847,
+      "end_time": 1722.214,
+      "duration": 3.366999999999962,
+      "dialogue_text": "...que querían que me casase con su príncipe..."
+    },
+    {
+      "subtitle_index": 359,
+      "start_time": 1722.518,
+      "end_time": 1724.782,
+      "duration": 2.2639999999998963,
+      "dialogue_text": "¿Por qué no? ¿la prometida de un gato?"
+    },
+    {
+      "subtitle_index": 360,
+      "start_time": 1724.887,
+      "end_time": 1725.819,
+      "duration": 0.9320000000000164,
+      "dialogue_text": "¿¡Qué!?"
+    },
+    {
+      "subtitle_index": 361,
+      "start_time": 1725.921,
+      "end_time": 1727.582,
+      "duration": 1.6610000000000582,
+      "dialogue_text": "Quizá no sea tan malo"
+    },
+    {
+      "subtitle_index": 362,
+      "start_time": 1727.79,
+      "end_time": 1729.121,
+      "duration": 1.331000000000131,
+      "dialogue_text": "No estamos llegando a ninguna parte"
+    },
+    {
+      "subtitle_index": 363,
+      "start_time": 1729.625,
+      "end_time": 1731.115,
+      "duration": 1.490000000000009,
+      "dialogue_text": "Puede ser una experiencia interesante"
+    },
+    {
+      "subtitle_index": 364,
+      "start_time": 1731.46,
+      "end_time": 1732.449,
+      "duration": 0.9890000000000327,
+      "dialogue_text": "Ya veo"
+    },
+    {
+      "subtitle_index": 365,
+      "start_time": 1735.264,
+      "end_time": 1738.529,
+      "duration": 3.2650000000001,
+      "dialogue_text": "Quería visitar el Reino de los Gatos alguna vez"
+    },
+    {
+      "subtitle_index": 366,
+      "start_time": 1738.867,
+      "end_time": 1740.3,
+      "duration": 1.4329999999999927,
+      "dialogue_text": "Esta puede ser una buena oportunidad"
+    },
+    {
+      "subtitle_index": 367,
+      "start_time": 1740.469,
+      "end_time": 1743.529,
+      "duration": 3.0599999999999454,
+      "dialogue_text": "Muy valiente por tu parte, Barón, pero creo que yo paso"
+    },
+    {
+      "subtitle_index": 368,
+      "start_time": 1743.872,
+      "end_time": 1745.237,
+      "duration": 1.365000000000009,
+      "dialogue_text": "Tu te vienes conmigo"
+    },
+    {
+      "subtitle_index": 369,
+      "start_time": 1745.341,
+      "end_time": 1748.367,
+      "duration": 3.0260000000000673,
+      "dialogue_text": "No gracias. No es mi territorio"
+    },
+    {
+      "subtitle_index": 370,
+      "start_time": 1748.644,
+      "end_time": 1751.204,
+      "duration": 2.5599999999999454,
+      "dialogue_text": "Ella no irá contigo, ¿verdad?"
+    },
+    {
+      "subtitle_index": 371,
+      "start_time": 1751.413,
+      "end_time": 1753.506,
+      "duration": 2.0930000000000746,
+      "dialogue_text": "No sería prudente"
+    },
+    {
+      "subtitle_index": 372,
+      "start_time": 1753.616,
+      "end_time": 1756.38,
+      "duration": 2.7640000000001237,
+      "dialogue_text": "pero no puedo dejarle aquí completamente sola"
+    },
+    {
+      "subtitle_index": 373,
+      "start_time": 1757.92,
+      "end_time": 1761.856,
+      "duration": 3.935999999999922,
+      "dialogue_text": "Hacer de niñera no es mi oficio"
+    },
+    {
+      "subtitle_index": 374,
+      "start_time": 1761.957,
+      "end_time": 1762.787,
+      "duration": 0.8299999999999272,
+      "dialogue_text": "¿Estás ocupado?"
+    },
+    {
+      "subtitle_index": 375,
+      "start_time": 1762.891,
+      "end_time": 1764.153,
+      "duration": 1.2619999999999436,
+      "dialogue_text": "No mucho"
+    },
+    {
+      "subtitle_index": 376,
+      "start_time": 1764.326,
+      "end_time": 1766.419,
+      "duration": 2.0930000000000746,
+      "dialogue_text": "Oh, creo que me iré a casa"
+    },
+    {
+      "subtitle_index": 377,
+      "start_time": 1769.231,
+      "end_time": 1772.496,
+      "duration": 3.2650000000001,
+      "dialogue_text": "Creo que sólo les estoy causando problemas a todos"
+    },
+    {
+      "subtitle_index": 378,
+      "start_time": 1772.901,
+      "end_time": 1775.426,
+      "duration": 2.5249999999998636,
+      "dialogue_text": "Yo he empezado todo este lío"
+    },
+    {
+      "subtitle_index": 379,
+      "start_time": 1777.573,
+      "end_time": 1779.734,
+      "duration": 2.160999999999831,
+      "dialogue_text": "Lo tengo que solucionar por mi misma"
+    },
+    {
+      "subtitle_index": 380,
+      "start_time": 1780.909,
+      "end_time": 1782.001,
+      "duration": 1.0919999999998709,
+      "dialogue_text": "Ya veo"
+    },
+    {
+      "subtitle_index": 381,
+      "start_time": 1782.511,
+      "end_time": 1785.605,
+      "duration": 3.094000000000051,
+      "dialogue_text": "Lo siento. No he servido de ninguna ayuda"
+    },
+    {
+      "subtitle_index": 382,
+      "start_time": 1788.751,
+      "end_time": 1790.309,
+      "duration": 1.5579999999999927,
+      "dialogue_text": "Bueno, bueno, lo haré"
+    },
+    {
+      "subtitle_index": 383,
+      "start_time": 1791.92,
+      "end_time": 1793.683,
+      "duration": 1.76299999999992,
+      "dialogue_text": "Sólo los acompañaré un poco"
+    },
+    {
+      "subtitle_index": 384,
+      "start_time": 1793.922,
+      "end_time": 1795.184,
+      "duration": 1.2619999999999436,
+      "dialogue_text": "¡Eres un buen gato, Muta!"
+    },
+    {
+      "subtitle_index": 385,
+      "start_time": 1795.924,
+      "end_time": 1797.084,
+      "duration": 1.1600000000000819,
+      "dialogue_text": "Entonces, arreglado."
+    },
+    {
+      "subtitle_index": 386,
+      "start_time": 1797.192,
+      "end_time": 1798.955,
+      "duration": 1.76299999999992,
+      "dialogue_text": "Haru, ya puedes volver"
+    },
+    {
+      "subtitle_index": 387,
+      "start_time": 1799.161,
+      "end_time": 1800.253,
+      "duration": 1.0919999999998709,
+      "dialogue_text": "Pero..."
+    },
+    {
+      "subtitle_index": 388,
+      "start_time": 1800.429,
+      "end_time": 1803.023,
+      "duration": 2.5939999999998236,
+      "dialogue_text": "Muta se queja mucho"
+    },
+    {
+      "subtitle_index": 389,
+      "start_time": 1803.132,
+      "end_time": 1805.464,
+      "duration": 2.33199999999988,
+      "dialogue_text": "pero en realidad no es así"
+    },
+    {
+      "subtitle_index": 390,
+      "start_time": 1808.103,
+      "end_time": 1809.195,
+      "duration": 1.0919999999998709,
+      "dialogue_text": "Ya veo"
+    },
+    {
+      "subtitle_index": 391,
+      "start_time": 1809.938,
+      "end_time": 1811.701,
+      "duration": 1.76299999999992,
+      "dialogue_text": "En realidad es muy agradable"
+    },
+    {
+      "subtitle_index": 392,
+      "start_time": 1811.807,
+      "end_time": 1813.035,
+      "duration": 1.2280000000000655,
+      "dialogue_text": "Eso es"
+    },
+    {
+      "subtitle_index": 393,
+      "start_time": 1813.442,
+      "end_time": 1815.376,
+      "duration": 1.933999999999969,
+      "dialogue_text": "No estoy oyendo esto"
+    },
+    {
+      "subtitle_index": 394,
+      "start_time": 1816.111,
+      "end_time": 1817.544,
+      "duration": 1.4329999999999927,
+      "dialogue_text": "Gracias por tu ayuda"
+    },
+    {
+      "subtitle_index": 395,
+      "start_time": 1817.713,
+      "end_time": 1819.044,
+      "duration": 1.331000000000131,
+      "dialogue_text": "Moota"
+    },
+    {
+      "subtitle_index": 396,
+      "start_time": 1819.448,
+      "end_time": 1821.439,
+      "duration": 1.9909999999999854,
+      "dialogue_text": "¿Moota? ¿¡Has dicho Moo!?"
+    },
+    {
+      "subtitle_index": 397,
+      "start_time": 1821.717,
+      "end_time": 1823.048,
+      "duration": 1.3309999999999036,
+      "dialogue_text": "¡Insinúas que estoy como una vaca!"
+    },
+    {
+      "subtitle_index": 398,
+      "start_time": 1823.152,
+      "end_time": 1824.813,
+      "duration": 1.6610000000000582,
+      "dialogue_text": "No, sólo estás gordo... ¡ups!"
+    },
+    {
+      "subtitle_index": 399,
+      "start_time": 1824.92,
+      "end_time": 1826.854,
+      "duration": 1.933999999999969,
+      "dialogue_text": "Ja ja. Esta chica no está mal"
+    },
+    {
+      "subtitle_index": 400,
+      "start_time": 1827.122,
+      "end_time": 1828.453,
+      "duration": 1.3309999999999036,
+      "dialogue_text": "¡De ninguna manera voy a ayudar!"
+    },
+    {
+      "subtitle_index": 401,
+      "start_time": 1828.557,
+      "end_time": 1832.755,
+      "duration": 4.198000000000093,
+      "dialogue_text": "¿No tenemos un delicioso merengue en la despensa?"
+    },
+    {
+      "subtitle_index": 402,
+      "start_time": 1832.861,
+      "end_time": 1834.192,
+      "duration": 1.3309999999999036,
+      "dialogue_text": "¿Dónde?"
+    },
+    {
+      "subtitle_index": 403,
+      "start_time": 1834.73,
+      "end_time": 1835.89,
+      "duration": 1.1600000000000819,
+      "dialogue_text": "En el estante de arriba a la derecha"
+    },
+    {
+      "subtitle_index": 404,
+      "start_time": 1836.465,
+      "end_time": 1838.456,
+      "duration": 1.9909999999999854,
+      "dialogue_text": "Por qué no lo dijiste antes"
+    },
+    {
+      "subtitle_index": 405,
+      "start_time": 1838.567,
+      "end_time": 1840.728,
+      "duration": 2.161000000000058,
+      "dialogue_text": "Tomemos un trozo antes de empezar"
+    },
+    {
+      "subtitle_index": 406,
+      "start_time": 1842.571,
+      "end_time": 1845.506,
+      "duration": 2.935000000000173,
+      "dialogue_text": "¡Entonces, iré a recoger mis moras especiales!"
+    },
+    {
+      "subtitle_index": 407,
+      "start_time": 1848.143,
+      "end_time": 1850.907,
+      "duration": 2.7639999999998963,
+      "dialogue_text": "Parece que esto va a ser divertido"
+    },
+    {
+      "subtitle_index": 408,
+      "start_time": 1851.013,
+      "end_time": 1852.776,
+      "duration": 1.7630000000001473,
+      "dialogue_text": "Déjenme ayudar a mi también"
+    },
+    {
+      "subtitle_index": 409,
+      "start_time": 1854.149,
+      "end_time": 1855.81,
+      "duration": 1.6610000000000582,
+      "dialogue_text": "Haru, tienes que pensar sobre"
+    },
+    {
+      "subtitle_index": 410,
+      "start_time": 1856.652,
+      "end_time": 1860.486,
+      "duration": 3.83400000000006,
+      "dialogue_text": "cómo puedes aprender a ser tú misma"
+    },
+    {
+      "subtitle_index": 411,
+      "start_time": 1860.823,
+      "end_time": 1864.156,
+      "duration": 3.3329999999998563,
+      "dialogue_text": "Entonces, no tendrás nada que temer"
+    },
+    {
+      "subtitle_index": 412,
+      "start_time": 1864.66,
+      "end_time": 1865.49,
+      "duration": 0.8299999999999272,
+      "dialogue_text": "De acuerdo"
+    },
+    {
+      "subtitle_index": 413,
+      "start_time": 1865.994,
+      "end_time": 1869.259,
+      "duration": 3.2650000000001,
+      "dialogue_text": "¡Barón! Échame una mano. Estoy poniendo crema batida por encima"
+    },
+    {
+      "subtitle_index": 414,
+      "start_time": 1869.598,
+      "end_time": 1870.929,
+      "duration": 1.331000000000131,
+      "dialogue_text": "Vamos a comer tanto que creceremos de tamaño"
+    },
+    {
+      "subtitle_index": 415,
+      "start_time": 1871.033,
+      "end_time": 1872.466,
+      "duration": 1.4329999999999927,
+      "dialogue_text": "Por supuesto"
+    },
+    {
+      "subtitle_index": 416,
+      "start_time": 1875.17,
+      "end_time": 1878.162,
+      "duration": 2.991999999999962,
+      "dialogue_text": "A lo mejor encuentro algo aquí"
+    },
+    {
+      "subtitle_index": 417,
+      "start_time": 1879.608,
+      "end_time": 1880.336,
+      "duration": 0.7280000000000655,
+      "dialogue_text": "Si"
+    },
+    {
+      "subtitle_index": 418,
+      "start_time": 1880.609,
+      "end_time": 1881.803,
+      "duration": 1.1940000000001874,
+      "dialogue_text": "¿Será Toto?"
+    },
+    {
+      "subtitle_index": 419,
+      "start_time": 1886.615,
+      "end_time": 1889.345,
+      "duration": 2.730000000000018,
+      "dialogue_text": "Srta. Haru. Hemos venido a buscarla"
+    },
+    {
+      "subtitle_index": 420,
+      "start_time": 1890.586,
+      "end_time": 1891.177,
+      "duration": 0.5909999999998945,
+      "dialogue_text": "¡No!"
+    },
+    {
+      "subtitle_index": 421,
+      "start_time": 1891.687,
+      "end_time": 1893.951,
+      "duration": 2.2640000000001237,
+      "dialogue_text": "¿Qué es esto?"
+    },
+    {
+      "subtitle_index": 422,
+      "start_time": 1898.861,
+      "end_time": 1899.953,
+      "duration": 1.0919999999998709,
+      "dialogue_text": "Esto no es bueno"
+    },
+    {
+      "subtitle_index": 423,
+      "start_time": 1902.965,
+      "end_time": 1905.9,
+      "duration": 2.935000000000173,
+      "dialogue_text": "¡Prometieron ayudarme!"
+    },
+    {
+      "subtitle_index": 424,
+      "start_time": 1906.368,
+      "end_time": 1909.895,
+      "duration": 3.5270000000000437,
+      "dialogue_text": "¡Barón, se acerca una horda de gatos!"
+    },
+    {
+      "subtitle_index": 425,
+      "start_time": 1910.405,
+      "end_time": 1911.394,
+      "duration": 0.9890000000000327,
+      "dialogue_text": "¡Estás tan ciego como un murciélago!"
+    },
+    {
+      "subtitle_index": 426,
+      "start_time": 1911.507,
+      "end_time": 1912.439,
+      "duration": 0.9320000000000164,
+      "dialogue_text": "¡Tras ellos!"
+    },
+    {
+      "subtitle_index": 427,
+      "start_time": 1918.647,
+      "end_time": 1920.41,
+      "duration": 1.7630000000001473,
+      "dialogue_text": "Ooooooooh..."
+    },
+    {
+      "subtitle_index": 428,
+      "start_time": 1920.516,
+      "end_time": 1922.347,
+      "duration": 1.8309999999999036,
+      "dialogue_text": "Srta. Haru, ¡la hemos buscado por todas partes!"
+    },
+    {
+      "subtitle_index": 429,
+      "start_time": 1922.451,
+      "end_time": 1923.042,
+      "duration": 0.5909999999998945,
+      "dialogue_text": "Me voy a casa"
+    },
+    {
+      "subtitle_index": 430,
+      "start_time": 1925.888,
+      "end_time": 1927.321,
+      "duration": 1.4329999999999927,
+      "dialogue_text": "¡Con cuidado!"
+    },
+    {
+      "subtitle_index": 431,
+      "start_time": 1927.489,
+      "end_time": 1928.82,
+      "duration": 1.3309999999999036,
+      "dialogue_text": "¡Déjenme bajar! ¡Quiero volver!"
+    },
+    {
+      "subtitle_index": 432,
+      "start_time": 1928.924,
+      "end_time": 1930.152,
+      "duration": 1.2280000000000655,
+      "dialogue_text": "Quiero volver, ¡en este instante!"
+    },
+    {
+      "subtitle_index": 433,
+      "start_time": 1930.259,
+      "end_time": 1934.355,
+      "duration": 4.096000000000004,
+      "dialogue_text": "Deberías llevar puesto un vestido azul prenupcial"
+    },
+    {
+      "subtitle_index": 434,
+      "start_time": 1934.463,
+      "end_time": 1935.862,
+      "duration": 1.3990000000001146,
+      "dialogue_text": "¡Ni hablar!"
+    },
+    {
+      "subtitle_index": 435,
+      "start_time": 1940.335,
+      "end_time": 1942.326,
+      "duration": 1.9909999999999854,
+      "dialogue_text": "Las cosas se nos han ido un poco de las manos"
+    },
+    {
+      "subtitle_index": 436,
+      "start_time": 1943.739,
+      "end_time": 1944.671,
+      "duration": 0.9320000000000164,
+      "dialogue_text": "Ouuuuuu"
+    },
+    {
+      "subtitle_index": 437,
+      "start_time": 1944.773,
+      "end_time": 1947.264,
+      "duration": 2.4909999999999854,
+      "dialogue_text": "Eh, tu, espera. Ay, ¡vamos!"
+    },
+    {
+      "subtitle_index": 438,
+      "start_time": 1948.143,
+      "end_time": 1949.667,
+      "duration": 1.5239999999998872,
+      "dialogue_text": "Muta, ¡y el Barón!"
+    },
+    {
+      "subtitle_index": 439,
+      "start_time": 1949.778,
+      "end_time": 1951.541,
+      "duration": 1.76299999999992,
+      "dialogue_text": "Déjame, ¡te lo advierto!"
+    },
+    {
+      "subtitle_index": 440,
+      "start_time": 1951.647,
+      "end_time": 1953.137,
+      "duration": 1.490000000000009,
+      "dialogue_text": "Toto, ¡ahora!"
+    },
+    {
+      "subtitle_index": 441,
+      "start_time": 1953.582,
+      "end_time": 1955.345,
+      "duration": 1.76299999999992,
+      "dialogue_text": "¡No me dejes!"
+    },
+    {
+      "subtitle_index": 442,
+      "start_time": 1958.587,
+      "end_time": 1959.918,
+      "duration": 1.3309999999999036,
+      "dialogue_text": "¡Por qué nos apartamos!"
+    },
+    {
+      "subtitle_index": 443,
+      "start_time": 1960.022,
+      "end_time": 1961.353,
+      "duration": 1.331000000000131,
+      "dialogue_text": "No había elección"
+    },
+    {
+      "subtitle_index": 444,
+      "start_time": 1961.456,
+      "end_time": 1963.424,
+      "duration": 1.9680000000000746,
+      "dialogue_text": "¡Ahora si que estoy enojado!"
+    },
+    {
+      "subtitle_index": 445,
+      "start_time": 1964.092,
+      "end_time": 1965.024,
+      "duration": 0.931999999999789,
+      "dialogue_text": "Aaaaaaaaah"
+    },
+    {
+      "subtitle_index": 446,
+      "start_time": 1965.694,
+      "end_time": 1967.787,
+      "duration": 2.0930000000000746,
+      "dialogue_text": "¡Tenemos sobrecarga!"
+    },
+    {
+      "subtitle_index": 447,
+      "start_time": 1970.933,
+      "end_time": 1971.592,
+      "duration": 0.6590000000001055,
+      "dialogue_text": "¡Toto!"
+    },
+    {
+      "subtitle_index": 448,
+      "start_time": 1971.7,
+      "end_time": 1972.792,
+      "duration": 1.0919999999998709,
+      "dialogue_text": "Ya lo veo"
+    },
+    {
+      "subtitle_index": 449,
+      "start_time": 1991.086,
+      "end_time": 1993.35,
+      "duration": 2.2639999999998963,
+      "dialogue_text": "¿¡A donde vais!?"
+    },
+    {
+      "subtitle_index": 450,
+      "start_time": 1999.294,
+      "end_time": 2000.283,
+      "duration": 0.9889999999998054,
+      "dialogue_text": "Sin maniobrabilidad"
+    },
+    {
+      "subtitle_index": 451,
+      "start_time": 2003.298,
+      "end_time": 2003.992,
+      "duration": 0.69399999999996,
+      "dialogue_text": "Arriba"
+    },
+    {
+      "subtitle_index": 452,
+      "start_time": 2004.099,
+      "end_time": 2004.963,
+      "duration": 0.8640000000000327,
+      "dialogue_text": "Bien"
+    },
+    {
+      "subtitle_index": 453,
+      "start_time": 2015.644,
+      "end_time": 2016.338,
+      "duration": 0.69399999999996,
+      "dialogue_text": "¿Y ahora que?"
+    },
+    {
+      "subtitle_index": 454,
+      "start_time": 2022.317,
+      "end_time": 2024.581,
+      "duration": 2.2639999999998963,
+      "dialogue_text": "El viento. Sigue las luces"
+    },
+    {
+      "subtitle_index": 455,
+      "start_time": 2024.686,
+      "end_time": 2025.778,
+      "duration": 1.0920000000000982,
+      "dialogue_text": "¡Si!"
+    },
+    {
+      "subtitle_index": 456,
+      "start_time": 2036.498,
+      "end_time": 2039.262,
+      "duration": 2.7639999999998963,
+      "dialogue_text": "Ooooh..."
+    },
+    {
+      "subtitle_index": 457,
+      "start_time": 2039.501,
+      "end_time": 2041.435,
+      "duration": 1.933999999999969,
+      "dialogue_text": "He aterrizado de espaldas..."
+    },
+    {
+      "subtitle_index": 458,
+      "start_time": 2041.77,
+      "end_time": 2043.601,
+      "duration": 1.831000000000131,
+      "dialogue_text": "¿Por qué?"
+    },
+    {
+      "subtitle_index": 459,
+      "start_time": 2043.705,
+      "end_time": 2045.366,
+      "duration": 1.6610000000000582,
+      "dialogue_text": "¿Dónde estoy?"
+    },
+    {
+      "subtitle_index": 460,
+      "start_time": 2054.182,
+      "end_time": 2056.81,
+      "duration": 2.6280000000001564,
+      "dialogue_text": "¿Muta? ¿has crecido?"
+    },
+    {
+      "subtitle_index": 461,
+      "start_time": 2057.853,
+      "end_time": 2059.718,
+      "duration": 1.8649999999997817,
+      "dialogue_text": "No. Tú has encogido"
+    },
+    {
+      "subtitle_index": 462,
+      "start_time": 2062.357,
+      "end_time": 2063.119,
+      "duration": 0.762000000000171,
+      "dialogue_text": "¿Por qué?"
+    },
+    {
+      "subtitle_index": 463,
+      "start_time": 2064.192,
+      "end_time": 2066.524,
+      "duration": 2.33199999999988,
+      "dialogue_text": "Porque estamos aquí"
+    },
+    {
+      "subtitle_index": 464,
+      "start_time": 2077.539,
+      "end_time": 2079.37,
+      "duration": 1.8309999999996762,
+      "dialogue_text": "¿Esto es el Reino de los Gatos?"
+    },
+    {
+      "subtitle_index": 465,
+      "start_time": 2097.893,
+      "end_time": 2098.985,
+      "duration": 1.0920000000000982,
+      "dialogue_text": "Esto es"
+    },
+    {
+      "subtitle_index": 466,
+      "start_time": 2122.918,
+      "end_time": 2125.216,
+      "duration": 2.2979999999997744,
+      "dialogue_text": "Guau, los gatos viven aquí"
+    },
+    {
+      "subtitle_index": 467,
+      "start_time": 2125.687,
+      "end_time": 2128.349,
+      "duration": 2.662000000000262,
+      "dialogue_text": "Bueno, este es su reino, ya sabes"
+    },
+    {
+      "subtitle_index": 468,
+      "start_time": 2128.757,
+      "end_time": 2129.689,
+      "duration": 0.931999999999789,
+      "dialogue_text": "Ey, vamos"
+    },
+    {
+      "subtitle_index": 469,
+      "start_time": 2138.7,
+      "end_time": 2141.464,
+      "duration": 2.7640000000001237,
+      "dialogue_text": "Ahh. Es tan agradable y tan relajante"
+    },
+    {
+      "subtitle_index": 470,
+      "start_time": 2141.77,
+      "end_time": 2144.261,
+      "duration": 2.4909999999999854,
+      "dialogue_text": "Debemos encontrar una manera de salir y volver"
+    },
+    {
+      "subtitle_index": 471,
+      "start_time": 2144.373,
+      "end_time": 2145.203,
+      "duration": 0.8299999999999272,
+      "dialogue_text": "Sólo un poquito más"
+    },
+    {
+      "subtitle_index": 472,
+      "start_time": 2145.307,
+      "end_time": 2146.501,
+      "duration": 1.1940000000004147,
+      "dialogue_text": "Vamos"
+    },
+    {
+      "subtitle_index": 473,
+      "start_time": 2146.942,
+      "end_time": 2149.274,
+      "duration": 2.33199999999988,
+      "dialogue_text": "Pero... se está tan bien"
+    },
+    {
+      "subtitle_index": 474,
+      "start_time": 2149.611,
+      "end_time": 2151.875,
+      "duration": 2.2640000000001237,
+      "dialogue_text": "¡No! Debes volver de una vez"
+    },
+    {
+      "subtitle_index": 475,
+      "start_time": 2155.384,
+      "end_time": 2157.318,
+      "duration": 1.9340000000001965,
+      "dialogue_text": "Deprisa. ¡Escapa!"
+    },
+    {
+      "subtitle_index": 476,
+      "start_time": 2158.453,
+      "end_time": 2160.785,
+      "duration": 2.33199999999988,
+      "dialogue_text": "Ey. Qué gata tan bonita"
+    },
+    {
+      "subtitle_index": 477,
+      "start_time": 2160.889,
+      "end_time": 2162.948,
+      "duration": 2.0589999999997417,
+      "dialogue_text": "Los gatos son incluso más bonitos aquí"
+    },
+    {
+      "subtitle_index": 478,
+      "start_time": 2163.458,
+      "end_time": 2165.289,
+      "duration": 1.831000000000131,
+      "dialogue_text": "Por favor, ¡no tienes tiempo que perder!"
+    },
+    {
+      "subtitle_index": 479,
+      "start_time": 2165.46,
+      "end_time": 2167.621,
+      "duration": 2.161000000000058,
+      "dialogue_text": "Haru, no tiene sentido que estés aquí"
+    },
+    {
+      "subtitle_index": 480,
+      "start_time": 2168.63,
+      "end_time": 2170.962,
+      "duration": 2.33199999999988,
+      "dialogue_text": "¿Cómo es que sabes mi nombre?"
+    },
+    {
+      "subtitle_index": 481,
+      "start_time": 2171.133,
+      "end_time": 2173.397,
+      "duration": 2.2640000000001237,
+      "dialogue_text": "¡Srta. Haru!"
+    },
+    {
+      "subtitle_index": 482,
+      "start_time": 2174.503,
+      "end_time": 2176.266,
+      "duration": 1.76299999999992,
+      "dialogue_text": "Es ese gato otra vez"
+    },
+    {
+      "subtitle_index": 483,
+      "start_time": 2177.305,
+      "end_time": 2179.569,
+      "duration": 2.2640000000001237,
+      "dialogue_text": "Menos mal que la encuentro"
+    },
+    {
+      "subtitle_index": 484,
+      "start_time": 2181.309,
+      "end_time": 2184.472,
+      "duration": 3.163000000000011,
+      "dialogue_text": "Parece que la dejamos caer cuando llegamos"
+    },
+    {
+      "subtitle_index": 485,
+      "start_time": 2184.646,
+      "end_time": 2187.41,
+      "duration": 2.763999999999669,
+      "dialogue_text": "Su sirviente excedía nuestro límite de carga"
+    },
+    {
+      "subtitle_index": 486,
+      "start_time": 2187.649,
+      "end_time": 2189.81,
+      "duration": 2.161000000000058,
+      "dialogue_text": "¿!Sirviente!?"
+    },
+    {
+      "subtitle_index": 487,
+      "start_time": 2189.918,
+      "end_time": 2192.352,
+      "duration": 2.4339999999997417,
+      "dialogue_text": "No, no, este es Muta"
+    },
+    {
+      "subtitle_index": 488,
+      "start_time": 2192.754,
+      "end_time": 2196.986,
+      "duration": 4.231999999999971,
+      "dialogue_text": "Por favor... se está preparando un banquete en su honor"
+    },
+    {
+      "subtitle_index": 489,
+      "start_time": 2197.092,
+      "end_time": 2198.081,
+      "duration": 0.9890000000000327,
+      "dialogue_text": "Será un placer que nos acompañe, Moota"
+    },
+    {
+      "subtitle_index": 490,
+      "start_time": 2198.493,
+      "end_time": 2200.085,
+      "duration": 1.5920000000000982,
+      "dialogue_text": "¿Moota? ¿Moo?"
+    },
+    {
+      "subtitle_index": 491,
+      "start_time": 2200.662,
+      "end_time": 2201.651,
+      "duration": 0.9890000000000327,
+      "dialogue_text": "pero yo..."
+    },
+    {
+      "subtitle_index": 492,
+      "start_time": 2201.763,
+      "end_time": 2204.197,
+      "duration": 2.4340000000001965,
+      "dialogue_text": "Su Majestad la está esperando en palacio"
+    },
+    {
+      "subtitle_index": 493,
+      "start_time": 2204.299,
+      "end_time": 2205.129,
+      "duration": 0.8299999999999272,
+      "dialogue_text": "¿Palacio?"
+    },
+    {
+      "subtitle_index": 494,
+      "start_time": 2205.233,
+      "end_time": 2207.167,
+      "duration": 1.9339999999997417,
+      "dialogue_text": "El palacio está justo allí"
+    },
+    {
+      "subtitle_index": 495,
+      "start_time": 2208.17,
+      "end_time": 2209.501,
+      "duration": 1.331000000000131,
+      "dialogue_text": "Oh. Es verdad"
+    },
+    {
+      "subtitle_index": 496,
+      "start_time": 2209.604,
+      "end_time": 2210.764,
+      "duration": 1.1600000000003092,
+      "dialogue_text": "Si, ciertamente"
+    },
+    {
+      "subtitle_index": 497,
+      "start_time": 2212.774,
+      "end_time": 2215.038,
+      "duration": 2.2640000000001237,
+      "dialogue_text": "Eh, no estarás pensando en..."
+    },
+    {
+      "subtitle_index": 498,
+      "start_time": 2215.143,
+      "end_time": 2218.738,
+      "duration": 3.5949999999998,
+      "dialogue_text": "Quizá sea de mala educación no saludar al Rey antes"
+    },
+    {
+      "subtitle_index": 499,
+      "start_time": 2218.847,
+      "end_time": 2221.111,
+      "duration": 2.263999999999669,
+      "dialogue_text": "¿Estás loca? ¡Vamos!"
+    },
+    {
+      "subtitle_index": 500,
+      "start_time": 2221.216,
+      "end_time": 2221.807,
+      "duration": 0.5909999999998945,
+      "dialogue_text": "Por favor, por aquí"
+    },
+    {
+      "subtitle_index": 501,
+      "start_time": 2221.917,
+      "end_time": 2223.077,
+      "duration": 1.1600000000003092,
+      "dialogue_text": "Espera"
+    },
+    {
+      "subtitle_index": 502,
+      "start_time": 2223.685,
+      "end_time": 2225.346,
+      "duration": 1.6610000000000582,
+      "dialogue_text": "¿Puede venir ella con nosotros?"
+    },
+    {
+      "subtitle_index": 503,
+      "start_time": 2227.756,
+      "end_time": 2228.347,
+      "duration": 0.5910000000003492,
+      "dialogue_text": "¿Cómo te llamas?"
+    },
+    {
+      "subtitle_index": 504,
+      "start_time": 2228.857,
+      "end_time": 2231.291,
+      "duration": 2.4340000000001965,
+      "dialogue_text": "Yuki, señor. Soy sirvienta de la mesa real"
+    },
+    {
+      "subtitle_index": 505,
+      "start_time": 2231.46,
+      "end_time": 2234.19,
+      "duration": 2.730000000000018,
+      "dialogue_text": "Así que trabajas en palacio"
+    },
+    {
+      "subtitle_index": 506,
+      "start_time": 2234.296,
+      "end_time": 2236.787,
+      "duration": 2.4909999999999854,
+      "dialogue_text": "Srta. Haru, la verá más tarde"
+    },
+    {
+      "subtitle_index": 507,
+      "start_time": 2237.032,
+      "end_time": 2239.193,
+      "duration": 2.161000000000058,
+      "dialogue_text": "Bien, nos veremos"
+    },
+    {
+      "subtitle_index": 508,
+      "start_time": 2248.31,
+      "end_time": 2249.47,
+      "duration": 1.1599999999998545,
+      "dialogue_text": "Haru"
+    },
+    {
+      "subtitle_index": 509,
+      "start_time": 2275.904,
+      "end_time": 2278.031,
+      "duration": 2.1269999999999527,
+      "dialogue_text": "¿Qué es eso? ¡Qué asco!"
+    },
+    {
+      "subtitle_index": 510,
+      "start_time": 2283.745,
+      "end_time": 2287.841,
+      "duration": 4.096000000000004,
+      "dialogue_text": "Aquí está mi futura nuera"
+    },
+    {
+      "subtitle_index": 511,
+      "start_time": 2293.922,
+      "end_time": 2297.085,
+      "duration": 3.163000000000011,
+      "dialogue_text": "Bueno, ¡debo ir a verla en persona!"
+    },
+    {
+      "subtitle_index": 512,
+      "start_time": 2302.264,
+      "end_time": 2305.756,
+      "duration": 3.4919999999997344,
+      "dialogue_text": "Él me es extrañamente familiar"
+    },
+    {
+      "subtitle_index": 513,
+      "start_time": 2316.811,
+      "end_time": 2319.939,
+      "duration": 3.1279999999997017,
+      "dialogue_text": "Por favor, cámbiese antes del encuentro con el Rey"
+    },
+    {
+      "subtitle_index": 514,
+      "start_time": 2320.215,
+      "end_time": 2321.477,
+      "duration": 1.2619999999997162,
+      "dialogue_text": "¿Necesito cambiarme de ropa?"
+    },
+    {
+      "subtitle_index": 515,
+      "start_time": 2321.883,
+      "end_time": 2323.043,
+      "duration": 1.1600000000003092,
+      "dialogue_text": "Por favor, espere en esta habitación"
+    },
+    {
+      "subtitle_index": 516,
+      "start_time": 2323.151,
+      "end_time": 2324.584,
+      "duration": 1.4329999999999927,
+      "dialogue_text": "¿Porqué no puedo ir con ella?"
+    },
+    {
+      "subtitle_index": 517,
+      "start_time": 2324.686,
+      "end_time": 2325.618,
+      "duration": 0.931999999999789,
+      "dialogue_text": "No sea maleducado"
+    },
+    {
+      "subtitle_index": 518,
+      "start_time": 2325.72,
+      "end_time": 2327.051,
+      "duration": 1.331000000000131,
+      "dialogue_text": "¿Maleducado?"
+    },
+    {
+      "subtitle_index": 519,
+      "start_time": 2327.289,
+      "end_time": 2330.122,
+      "duration": 2.832999999999629,
+      "dialogue_text": "Les prepararemos un aperitivo"
+    },
+    {
+      "subtitle_index": 520,
+      "start_time": 2330.325,
+      "end_time": 2331.417,
+      "duration": 1.0920000000000982,
+      "dialogue_text": "De acuerdo, esperaré"
+    },
+    {
+      "subtitle_index": 521,
+      "start_time": 2339.968,
+      "end_time": 2342.232,
+      "duration": 2.2640000000001237,
+      "dialogue_text": "No está mal"
+    },
+    {
+      "subtitle_index": 522,
+      "start_time": 2344.306,
+      "end_time": 2346.968,
+      "duration": 2.661999999999807,
+      "dialogue_text": "El vestido te queda muy bien"
+    },
+    {
+      "subtitle_index": 523,
+      "start_time": 2347.075,
+      "end_time": 2349.839,
+      "duration": 2.7640000000001237,
+      "dialogue_text": "El Príncipe Lune es el ídolo de todas las gatas del reino"
+    },
+    {
+      "subtitle_index": 524,
+      "start_time": 2349.945,
+      "end_time": 2352.607,
+      "duration": 2.661999999999807,
+      "dialogue_text": "Serás muy feliz con él"
+    },
+    {
+      "subtitle_index": 525,
+      "start_time": 2352.714,
+      "end_time": 2353.544,
+      "duration": 0.8299999999999272,
+      "dialogue_text": "¿De verdad?"
+    },
+    {
+      "subtitle_index": 526,
+      "start_time": 2353.648,
+      "end_time": 2356.981,
+      "duration": 3.3330000000000837,
+      "dialogue_text": "Quiero decir, no, no estoy aquí por eso"
+    },
+    {
+      "subtitle_index": 527,
+      "start_time": 2357.319,
+      "end_time": 2360.152,
+      "duration": 2.8330000000000837,
+      "dialogue_text": "Estás preciosa"
+    },
+    {
+      "subtitle_index": 528,
+      "start_time": 2360.989,
+      "end_time": 2364.982,
+      "duration": 3.992999999999938,
+      "dialogue_text": "Eres la esposa perfecta para Lune"
+    },
+    {
+      "subtitle_index": 529,
+      "start_time": 2385.513,
+      "end_time": 2387.344,
+      "duration": 1.831000000000131,
+      "dialogue_text": "Natoru, ¿quién es ese gato?"
+    },
+    {
+      "subtitle_index": 530,
+      "start_time": 2387.449,
+      "end_time": 2389.44,
+      "duration": 1.9909999999999854,
+      "dialogue_text": "Un sirviente llamado Moota, creo"
+    },
+    {
+      "subtitle_index": 531,
+      "start_time": 2389.684,
+      "end_time": 2390.673,
+      "duration": 0.988999999999578,
+      "dialogue_text": "¿Moota?"
+    },
+    {
+      "subtitle_index": 532,
+      "start_time": 2392.454,
+      "end_time": 2394.046,
+      "duration": 1.5919999999996435,
+      "dialogue_text": "Nunca he oído hablar de él"
+    },
+    {
+      "subtitle_index": 533,
+      "start_time": 2397.359,
+      "end_time": 2399.418,
+      "duration": 2.0590000000001965,
+      "dialogue_text": "No es mucho para mi estómago"
+    },
+    {
+      "subtitle_index": 534,
+      "start_time": 2405.367,
+      "end_time": 2407.358,
+      "duration": 1.9909999999999854,
+      "dialogue_text": "Oh, lo siento pero"
+    },
+    {
+      "subtitle_index": 535,
+      "start_time": 2407.469,
+      "end_time": 2410.063,
+      "duration": 2.594000000000051,
+      "dialogue_text": "de verdad que no puedo aceptar casarme con..."
+    },
+    {
+      "subtitle_index": 536,
+      "start_time": 2410.438,
+      "end_time": 2413.874,
+      "duration": 3.4359999999996944,
+      "dialogue_text": "¿Pensaba que ya habías dicho que sí?"
+    },
+    {
+      "subtitle_index": 537,
+      "start_time": 2414.542,
+      "end_time": 2416.635,
+      "duration": 2.093000000000302,
+      "dialogue_text": "Eso es lo que me habían dicho"
+    },
+    {
+      "subtitle_index": 538,
+      "start_time": 2417.479,
+      "end_time": 2419.037,
+      "duration": 1.5579999999999927,
+      "dialogue_text": "¿Dónde está el Príncipe?"
+    },
+    {
+      "subtitle_index": 539,
+      "start_time": 2419.547,
+      "end_time": 2422.38,
+      "duration": 2.8330000000000837,
+      "dialogue_text": "Ha salido en viaje oficial"
+    },
+    {
+      "subtitle_index": 540,
+      "start_time": 2424.386,
+      "end_time": 2427.321,
+      "duration": 2.9349999999999454,
+      "dialogue_text": "De todas formas, es que no le conozco"
+    },
+    {
+      "subtitle_index": 541,
+      "start_time": 2427.422,
+      "end_time": 2429.617,
+      "duration": 2.1950000000001637,
+      "dialogue_text": "Y el Príncipe, es un gato, ¿no?"
+    },
+    {
+      "subtitle_index": 542,
+      "start_time": 2429.724,
+      "end_time": 2432.215,
+      "duration": 2.4909999999999854,
+      "dialogue_text": "Yo no soy un gato, así que no me puedo casar con él"
+    },
+    {
+      "subtitle_index": 543,
+      "start_time": 2437.399,
+      "end_time": 2439.833,
+      "duration": 2.4340000000001965,
+      "dialogue_text": "No debes preocuparte por eso"
+    },
+    {
+      "subtitle_index": 544,
+      "start_time": 2440.402,
+      "end_time": 2441.664,
+      "duration": 1.262000000000171,
+      "dialogue_text": "Tu ya eres un gato"
+    },
+    {
+      "subtitle_index": 545,
+      "start_time": 2454.683,
+      "end_time": 2457.516,
+      "duration": 2.8330000000000837,
+      "dialogue_text": "Guau, orejas de gato de verdad"
+    },
+    {
+      "subtitle_index": 546,
+      "start_time": 2461.923,
+      "end_time": 2464.118,
+      "duration": 2.1950000000001637,
+      "dialogue_text": "¡soy un GATO!"
+    },
+    {
+      "subtitle_index": 547,
+      "start_time": 2465.927,
+      "end_time": 2467.588,
+      "duration": 1.6610000000000582,
+      "dialogue_text": "Muta. ¿dónde estás?"
+    },
+    {
+      "subtitle_index": 548,
+      "start_time": 2471.433,
+      "end_time": 2473.765,
+      "duration": 2.33199999999988,
+      "dialogue_text": "¿Qué le ha pasado?"
+    },
+    {
+      "subtitle_index": 549,
+      "start_time": 2475.103,
+      "end_time": 2477.936,
+      "duration": 2.8330000000000837,
+      "dialogue_text": "Insistió en comer un cuenco lleno y"
+    },
+    {
+      "subtitle_index": 550,
+      "start_time": 2478.039,
+      "end_time": 2479.7,
+      "duration": 1.6609999999996035,
+      "dialogue_text": "se ha hundido en gelatina de Hierva de Gato"
+    },
+    {
+      "subtitle_index": 551,
+      "start_time": 2479.808,
+      "end_time": 2483.801,
+      "duration": 3.992999999999938,
+      "dialogue_text": "¡No tenía que haber muerto así!"
+    },
+    {
+      "subtitle_index": 552,
+      "start_time": 2484.646,
+      "end_time": 2487.638,
+      "duration": 2.9919999999997344,
+      "dialogue_text": "Muta, ¿cómo me has podido hacer esto?"
+    },
+    {
+      "subtitle_index": 553,
+      "start_time": 2488.116,
+      "end_time": 2490.277,
+      "duration": 2.161000000000058,
+      "dialogue_text": "... el banquete está a punto"
+    },
+    {
+      "subtitle_index": 554,
+      "start_time": 2490.385,
+      "end_time": 2492.319,
+      "duration": 1.9339999999997417,
+      "dialogue_text": "¡No! No quiero abandonarle"
+    },
+    {
+      "subtitle_index": 555,
+      "start_time": 2492.62,
+      "end_time": 2494.554,
+      "duration": 1.9340000000001965,
+      "dialogue_text": "Entonces, vendrá con nosotros"
+    },
+    {
+      "subtitle_index": 556,
+      "start_time": 2507.168,
+      "end_time": 2508.76,
+      "duration": 1.5920000000000982,
+      "dialogue_text": "¿Esta es la Srta. Haru?"
+    },
+    {
+      "subtitle_index": 557,
+      "start_time": 2508.87,
+      "end_time": 2510.804,
+      "duration": 1.9340000000001965,
+      "dialogue_text": "¡Tiene unas orejas perfectas!"
+    },
+    {
+      "subtitle_index": 558,
+      "start_time": 2510.905,
+      "end_time": 2512.964,
+      "duration": 2.0589999999997417,
+      "dialogue_text": "¡Qué garras más perfectas y atractivas!"
+    },
+    {
+      "subtitle_index": 559,
+      "start_time": 2517.145,
+      "end_time": 2519.909,
+      "duration": 2.7640000000001237,
+      "dialogue_text": "Me han dicho que no te gustan los ratones,"
+    },
+    {
+      "subtitle_index": 560,
+      "start_time": 2520.014,
+      "end_time": 2523.506,
+      "duration": 3.4919999999997344,
+      "dialogue_text": "por lo que he preparado pescado fresco para ti"
+    },
+    {
+      "subtitle_index": 561,
+      "start_time": 2524.152,
+      "end_time": 2526.814,
+      "duration": 2.661999999999807,
+      "dialogue_text": "La Srta. Haru no parece muy contenta"
+    },
+    {
+      "subtitle_index": 562,
+      "start_time": 2527.322,
+      "end_time": 2528.812,
+      "duration": 1.4899999999997817,
+      "dialogue_text": "¿Qué tendremos como entretenimiento?"
+    },
+    {
+      "subtitle_index": 563,
+      "start_time": 2528.923,
+      "end_time": 2530.288,
+      "duration": 1.3650000000002365,
+      "dialogue_text": "Los haré pasar"
+    },
+    {
+      "subtitle_index": 564,
+      "start_time": 2559.521,
+      "end_time": 2561.682,
+      "duration": 2.1609999999996035,
+      "dialogue_text": "Quiero algo más entretenido"
+    },
+    {
+      "subtitle_index": 565,
+      "start_time": 2597.392,
+      "end_time": 2598.484,
+      "duration": 1.0920000000000982,
+      "dialogue_text": "¡Siguientes!"
+    },
+    {
+      "subtitle_index": 566,
+      "start_time": 2626.254,
+      "end_time": 2629.348,
+      "duration": 3.094000000000051,
+      "dialogue_text": "¿¡No pueden hacer nada mejor!?"
+    },
+    {
+      "subtitle_index": 567,
+      "start_time": 2648.543,
+      "end_time": 2651.637,
+      "duration": 3.094000000000051,
+      "dialogue_text": "Yo entretendré a la Srta. Haru"
+    },
+    {
+      "subtitle_index": 568,
+      "start_time": 2653.615,
+      "end_time": 2654.946,
+      "duration": 1.331000000000131,
+      "dialogue_text": "¿Qué hacemos?"
+    },
+    {
+      "subtitle_index": 569,
+      "start_time": 2655.283,
+      "end_time": 2657.114,
+      "duration": 1.831000000000131,
+      "dialogue_text": "¿Por qué no?"
+    },
+    {
+      "subtitle_index": 570,
+      "start_time": 2662.624,
+      "end_time": 2665.457,
+      "duration": 2.8330000000000837,
+      "dialogue_text": "¿Bailamos?"
+    },
+    {
+      "subtitle_index": 571,
+      "start_time": 2666.127,
+      "end_time": 2668.22,
+      "duration": 2.092999999999847,
+      "dialogue_text": "No se bailar miau"
+    },
+    {
+      "subtitle_index": 572,
+      "start_time": 2668.329,
+      "end_time": 2671.821,
+      "duration": 3.4919999999997344,
+      "dialogue_text": "Oh no, ¡incluso sueno como un gato!"
+    },
+    {
+      "subtitle_index": 573,
+      "start_time": 2674.135,
+      "end_time": 2675.124,
+      "duration": 0.988999999999578,
+      "dialogue_text": "...confía en mi"
+    },
+    {
+      "subtitle_index": 574,
+      "start_time": 2720.348,
+      "end_time": 2722.111,
+      "duration": 1.76299999999992,
+      "dialogue_text": "Bailan bien juntos"
+    },
+    {
+      "subtitle_index": 575,
+      "start_time": 2735.063,
+      "end_time": 2736.724,
+      "duration": 1.6610000000000582,
+      "dialogue_text": "Qué es esto..."
+    },
+    {
+      "subtitle_index": 576,
+      "start_time": 2737.966,
+      "end_time": 2740.23,
+      "duration": 2.2640000000001237,
+      "dialogue_text": "Nunca me había sentido así antes"
+    },
+    {
+      "subtitle_index": 577,
+      "start_time": 2741.035,
+      "end_time": 2743.526,
+      "duration": 2.4909999999999854,
+      "dialogue_text": "Ser un gato no tiene por qué ser tan malo"
+    },
+    {
+      "subtitle_index": 578,
+      "start_time": 2746.708,
+      "end_time": 2749.472,
+      "duration": 2.7640000000001237,
+      "dialogue_text": "No, Haru. No te pierdas"
+    },
+    {
+      "subtitle_index": 579,
+      "start_time": 2751.379,
+      "end_time": 2753.87,
+      "duration": 2.4909999999999854,
+      "dialogue_text": "Debes aprender a ser tú misma"
+    },
+    {
+      "subtitle_index": 580,
+      "start_time": 2760.655,
+      "end_time": 2762.646,
+      "duration": 1.9909999999999854,
+      "dialogue_text": "Ya te lo había dicho antes, ¿verdad?"
+    },
+    {
+      "subtitle_index": 581,
+      "start_time": 2764.726,
+      "end_time": 2765.715,
+      "duration": 0.9890000000000327,
+      "dialogue_text": "Tu eres..."
+    },
+    {
+      "subtitle_index": 582,
+      "start_time": 2769.897,
+      "end_time": 2772.331,
+      "duration": 2.4340000000001965,
+      "dialogue_text": "¡Qué paren la música!"
+    },
+    {
+      "subtitle_index": 583,
+      "start_time": 2781.576,
+      "end_time": 2783.908,
+      "duration": 2.33199999999988,
+      "dialogue_text": "Eres un gato muy sospechoso"
+    },
+    {
+      "subtitle_index": 584,
+      "start_time": 2784.178,
+      "end_time": 2786.51,
+      "duration": 2.3320000000003347,
+      "dialogue_text": "¿Quién eres exactamente?"
+    },
+    {
+      "subtitle_index": 585,
+      "start_time": 2787.915,
+      "end_time": 2790.008,
+      "duration": 2.092999999999847,
+      "dialogue_text": "Mis disculpas por mi tardía presentación"
+    },
+    {
+      "subtitle_index": 586,
+      "start_time": 2793.755,
+      "end_time": 2796.087,
+      "duration": 2.33199999999988,
+      "dialogue_text": "No hay nada que temer"
+    },
+    {
+      "subtitle_index": 587,
+      "start_time": 2803.197,
+      "end_time": 2805.358,
+      "duration": 2.161000000000058,
+      "dialogue_text": "Soy Humbert von Gikkingen"
+    },
+    {
+      "subtitle_index": 588,
+      "start_time": 2805.466,
+      "end_time": 2806.899,
+      "duration": 1.4329999999999927,
+      "dialogue_text": "He venido por Haru"
+    },
+    {
+      "subtitle_index": 589,
+      "start_time": 2807.001,
+      "end_time": 2808.093,
+      "duration": 1.0919999999996435,
+      "dialogue_text": "¡Barón!"
+    },
+    {
+      "subtitle_index": 590,
+      "start_time": 2808.436,
+      "end_time": 2809.903,
+      "duration": 1.4669999999996435,
+      "dialogue_text": "¿Cómo es posible?"
+    },
+    {
+      "subtitle_index": 591,
+      "start_time": 2810.104,
+      "end_time": 2811.435,
+      "duration": 1.331000000000131,
+      "dialogue_text": "¿Qué?"
+    },
+    {
+      "subtitle_index": 592,
+      "start_time": 2811.773,
+      "end_time": 2812.933,
+      "duration": 1.1599999999998545,
+      "dialogue_text": "De ninguna manera"
+    },
+    {
+      "subtitle_index": 593,
+      "start_time": 2813.041,
+      "end_time": 2813.769,
+      "duration": 0.7279999999996107,
+      "dialogue_text": "Guardias, ¡captúrenlo!"
+    },
+    {
+      "subtitle_index": 594,
+      "start_time": 2828.623,
+      "end_time": 2829.885,
+      "duration": 1.262000000000171,
+      "dialogue_text": "No puedo comer más"
+    },
+    {
+      "subtitle_index": 595,
+      "start_time": 2830.124,
+      "end_time": 2831.887,
+      "duration": 1.7630000000003747,
+      "dialogue_text": "¡Está vivo!"
+    },
+    {
+      "subtitle_index": 596,
+      "start_time": 2831.993,
+      "end_time": 2834.018,
+      "duration": 2.025000000000091,
+      "dialogue_text": "Ey, Muta, estás vivo"
+    },
+    {
+      "subtitle_index": 597,
+      "start_time": 2835.596,
+      "end_time": 2836.255,
+      "duration": 0.6590000000001055,
+      "dialogue_text": "Oh oh"
+    },
+    {
+      "subtitle_index": 598,
+      "start_time": 2836.631,
+      "end_time": 2839.896,
+      "duration": 3.2650000000003274,
+      "dialogue_text": "Detente, ¡villano!"
+    },
+    {
+      "subtitle_index": 599,
+      "start_time": 2840.001,
+      "end_time": 2842.128,
+      "duration": 2.1269999999999527,
+      "dialogue_text": "¡Lleven a Su Majestad a un lugar seguro!"
+    },
+    {
+      "subtitle_index": 600,
+      "start_time": 2842.804,
+      "end_time": 2844.396,
+      "duration": 1.5920000000000982,
+      "dialogue_text": "No lo dejen escapar"
+    },
+    {
+      "subtitle_index": 601,
+      "start_time": 2846.474,
+      "end_time": 2850.308,
+      "duration": 3.8339999999998327,
+      "dialogue_text": "Salida de emergencia para invitados por aquí"
+    },
+    {
+      "subtitle_index": 602,
+      "start_time": 2857.418,
+      "end_time": 2858.646,
+      "duration": 1.2280000000000655,
+      "dialogue_text": "¡Fuera de mi camino!"
+    },
+    {
+      "subtitle_index": 603,
+      "start_time": 2859.153,
+      "end_time": 2860.415,
+      "duration": 1.262000000000171,
+      "dialogue_text": "Muta. ¡Qué fuerte eres!"
+    },
+    {
+      "subtitle_index": 604,
+      "start_time": 2861.155,
+      "end_time": 2863.316,
+      "duration": 2.1609999999996035,
+      "dialogue_text": "Yo no empecé"
+    },
+    {
+      "subtitle_index": 605,
+      "start_time": 2865.159,
+      "end_time": 2866.319,
+      "duration": 1.1599999999998545,
+      "dialogue_text": "Por aquí"
+    },
+    {
+      "subtitle_index": 606,
+      "start_time": 2868.83,
+      "end_time": 2870.32,
+      "duration": 1.4900000000002365,
+      "dialogue_text": "Tu eres la gata..."
+    },
+    {
+      "subtitle_index": 607,
+      "start_time": 2870.832,
+      "end_time": 2873.995,
+      "duration": 3.163000000000011,
+      "dialogue_text": "Barón, sabía que vendrías"
+    },
+    {
+      "subtitle_index": 608,
+      "start_time": 2874.102,
+      "end_time": 2875.433,
+      "duration": 1.331000000000131,
+      "dialogue_text": "¿Cómo es que me conoces?"
+    },
+    {
+      "subtitle_index": 609,
+      "start_time": 2876.003,
+      "end_time": 2878.198,
+      "duration": 2.194999999999709,
+      "dialogue_text": "He oído hablar de ti y de tu oficina"
+    },
+    {
+      "subtitle_index": 610,
+      "start_time": 2878.439,
+      "end_time": 2879.77,
+      "duration": 1.331000000000131,
+      "dialogue_text": "Si te hubiera escuchado,"
+    },
+    {
+      "subtitle_index": 611,
+      "start_time": 2879.874,
+      "end_time": 2882.843,
+      "duration": 2.969000000000051,
+      "dialogue_text": "esto no habría ocurrido"
+    },
+    {
+      "subtitle_index": 612,
+      "start_time": 2883.177,
+      "end_time": 2887.17,
+      "duration": 3.992999999999938,
+      "dialogue_text": "Si te marchas antes del amanecer todavía puedes convertirte en humana"
+    },
+    {
+      "subtitle_index": 613,
+      "start_time": 2887.281,
+      "end_time": 2888.441,
+      "duration": 1.1599999999998545,
+      "dialogue_text": "¿De verdad?"
+    },
+    {
+      "subtitle_index": 614,
+      "start_time": 2889.117,
+      "end_time": 2890.948,
+      "duration": 1.8309999999996762,
+      "dialogue_text": "Un pasaje secreto hacia el exterior"
+    },
+    {
+      "subtitle_index": 615,
+      "start_time": 2891.052,
+      "end_time": 2891.984,
+      "duration": 0.931999999999789,
+      "dialogue_text": "Nos viene muy bien"
+    },
+    {
+      "subtitle_index": 616,
+      "start_time": 2892.186,
+      "end_time": 2893.676,
+      "duration": 1.4899999999997817,
+      "dialogue_text": "¿Qué pasa con Muta?"
+    },
+    {
+      "subtitle_index": 617,
+      "start_time": 2903.464,
+      "end_time": 2905.398,
+      "duration": 1.9340000000001965,
+      "dialogue_text": "Estará bien. Haru. Deprisa"
+    },
+    {
+      "subtitle_index": 618,
+      "start_time": 2905.5,
+      "end_time": 2906.33,
+      "duration": 0.8299999999999272,
+      "dialogue_text": "Si"
+    },
+    {
+      "subtitle_index": 619,
+      "start_time": 2916.844,
+      "end_time": 2917.833,
+      "duration": 0.9890000000000327,
+      "dialogue_text": "Esta es la parte de atrás del castillo"
+    },
+    {
+      "subtitle_index": 620,
+      "start_time": 2917.979,
+      "end_time": 2920.88,
+      "duration": 2.9010000000002947,
+      "dialogue_text": "La cima de esa torre conduce a la salida"
+    },
+    {
+      "subtitle_index": 621,
+      "start_time": 2921.315,
+      "end_time": 2923.749,
+      "duration": 2.4339999999997417,
+      "dialogue_text": "¡Está muy alto!"
+    },
+    {
+      "subtitle_index": 622,
+      "start_time": 2924.152,
+      "end_time": 2927.644,
+      "duration": 3.4919999999997344,
+      "dialogue_text": "Deben ir a través de las ruinas hasta la torre y después escalarla"
+    },
+    {
+      "subtitle_index": 623,
+      "start_time": 2927.889,
+      "end_time": 2929.55,
+      "duration": 1.6610000000000582,
+      "dialogue_text": "Lo conseguiremos"
+    },
+    {
+      "subtitle_index": 624,
+      "start_time": 2929.891,
+      "end_time": 2933.054,
+      "duration": 3.163000000000011,
+      "dialogue_text": "Bien. Por favor, cuida de Haru"
+    },
+    {
+      "subtitle_index": 625,
+      "start_time": 2933.327,
+      "end_time": 2934.817,
+      "duration": 1.4899999999997817,
+      "dialogue_text": "Espera"
+    },
+    {
+      "subtitle_index": 626,
+      "start_time": 2935.563,
+      "end_time": 2938.828,
+      "duration": 3.2649999999998727,
+      "dialogue_text": "Se ha ido. Ni siquiera le he dado las gracias"
+    },
+    {
+      "subtitle_index": 627,
+      "start_time": 2939.066,
+      "end_time": 2941.728,
+      "duration": 2.662000000000262,
+      "dialogue_text": "Haru, esto es sólo una suposición..."
+    },
+    {
+      "subtitle_index": 628,
+      "start_time": 2941.836,
+      "end_time": 2945.499,
+      "duration": 3.663000000000011,
+      "dialogue_text": "...pero ¿no fue ella quién te condujo hasta mi?"
+    },
+    {
+      "subtitle_index": 629,
+      "start_time": 2947.241,
+      "end_time": 2949.903,
+      "duration": 2.661999999999807,
+      "dialogue_text": "Haru, la Oficina de Asuntos del Gato"
+    },
+    {
+      "subtitle_index": 630,
+      "start_time": 2950.845,
+      "end_time": 2953.507,
+      "duration": 2.662000000000262,
+      "dialogue_text": "Si, la hermosa voz era ella"
+    },
+    {
+      "subtitle_index": 631,
+      "start_time": 2953.614,
+      "end_time": 2954.945,
+      "duration": 1.331000000000131,
+      "dialogue_text": "¿Pero por qué?"
+    },
+    {
+      "subtitle_index": 632,
+      "start_time": 2967.094,
+      "end_time": 2970.586,
+      "duration": 3.4919999999997344,
+      "dialogue_text": "Por tu culpa. Casi me mato"
+    },
+    {
+      "subtitle_index": 633,
+      "start_time": 2970.932,
+      "end_time": 2972.49,
+      "duration": 1.5579999999999927,
+      "dialogue_text": "Debemos darnos prisa"
+    },
+    {
+      "subtitle_index": 634,
+      "start_time": 2972.6,
+      "end_time": 2973.259,
+      "duration": 0.6590000000001055,
+      "dialogue_text": "Si"
+    },
+    {
+      "subtitle_index": 635,
+      "start_time": 2975.603,
+      "end_time": 2977.366,
+      "duration": 1.76299999999992,
+      "dialogue_text": "Ustedes, escúchenme"
+    },
+    {
+      "subtitle_index": 636,
+      "start_time": 2982.443,
+      "end_time": 2983.876,
+      "duration": 1.4329999999999927,
+      "dialogue_text": "¿Han entrado?"
+    },
+    {
+      "subtitle_index": 637,
+      "start_time": 2983.978,
+      "end_time": 2985.912,
+      "duration": 1.9339999999997417,
+      "dialogue_text": "Si, Su Majestad"
+    },
+    {
+      "subtitle_index": 638,
+      "start_time": 2986.013,
+      "end_time": 2987.275,
+      "duration": 1.262000000000171,
+      "dialogue_text": "Perfecto"
+    },
+    {
+      "subtitle_index": 639,
+      "start_time": 2987.615,
+      "end_time": 2990.209,
+      "duration": 2.594000000000051,
+      "dialogue_text": "Este laberinto ha sido construido con nuestra tecnología más avanzada"
+    },
+    {
+      "subtitle_index": 640,
+      "start_time": 2990.318,
+      "end_time": 2992.252,
+      "duration": 1.9339999999997417,
+      "dialogue_text": "Disfrutaremos de la vista desde aquí"
+    },
+    {
+      "subtitle_index": 641,
+      "start_time": 2996.557,
+      "end_time": 2998.388,
+      "duration": 1.831000000000131,
+      "dialogue_text": "Con cuidado"
+    },
+    {
+      "subtitle_index": 642,
+      "start_time": 2998.659,
+      "end_time": 2999.819,
+      "duration": 1.1599999999998545,
+      "dialogue_text": "Por lo menos el sol todavía está alto"
+    },
+    {
+      "subtitle_index": 643,
+      "start_time": 2999.927,
+      "end_time": 3001.861,
+      "duration": 1.9339999999997417,
+      "dialogue_text": "Aquí siempre es de día"
+    },
+    {
+      "subtitle_index": 644,
+      "start_time": 3002.296,
+      "end_time": 3003.285,
+      "duration": 0.9890000000000327,
+      "dialogue_text": "¿Qué? ¿de verdad?"
+    },
+    {
+      "subtitle_index": 645,
+      "start_time": 3004.165,
+      "end_time": 3006.429,
+      "duration": 2.2640000000001237,
+      "dialogue_text": "Probablemente, fuera sea más de medianoche"
+    },
+    {
+      "subtitle_index": 646,
+      "start_time": 3006.534,
+      "end_time": 3008.126,
+      "duration": 1.5920000000000982,
+      "dialogue_text": "Entonces, ¡nos tenemos que dar prisa!"
+    },
+    {
+      "subtitle_index": 647,
+      "start_time": 3008.236,
+      "end_time": 3010.898,
+      "duration": 2.662000000000262,
+      "dialogue_text": "¿Por aquí? ¿Por allí?"
+    },
+    {
+      "subtitle_index": 648,
+      "start_time": 3011.505,
+      "end_time": 3012.733,
+      "duration": 1.2280000000000655,
+      "dialogue_text": "¿Por dónde vamos?"
+    },
+    {
+      "subtitle_index": 649,
+      "start_time": 3015.409,
+      "end_time": 3016.842,
+      "duration": 1.4329999999999927,
+      "dialogue_text": "Se han perdido"
+    },
+    {
+      "subtitle_index": 650,
+      "start_time": 3017.545,
+      "end_time": 3020.07,
+      "duration": 2.525000000000091,
+      "dialogue_text": "No será fácil salir de ahí"
+    },
+    {
+      "subtitle_index": 651,
+      "start_time": 3020.348,
+      "end_time": 3021.246,
+      "duration": 0.8980000000001382,
+      "dialogue_text": "Perfecto. ¿Majestad?"
+    },
+    {
+      "subtitle_index": 652,
+      "start_time": 3022.65,
+      "end_time": 3024.311,
+      "duration": 1.6610000000000582,
+      "dialogue_text": "Si... no tenemos por qué preocuparnos"
+    },
+    {
+      "subtitle_index": 653,
+      "start_time": 3024.752,
+      "end_time": 3025.844,
+      "duration": 1.0920000000000982,
+      "dialogue_text": "¿Dónde están los soldados?"
+    },
+    {
+      "subtitle_index": 654,
+      "start_time": 3025.953,
+      "end_time": 3026.942,
+      "duration": 0.9890000000000327,
+      "dialogue_text": "Allí"
+    },
+    {
+      "subtitle_index": 655,
+      "start_time": 3030.424,
+      "end_time": 3031.413,
+      "duration": 0.9890000000000327,
+      "dialogue_text": "Vayamos por aquí"
+    },
+    {
+      "subtitle_index": 656,
+      "start_time": 3031.525,
+      "end_time": 3033.891,
+      "duration": 2.3659999999999854,
+      "dialogue_text": "Debemos seguir intentándolo, una por una"
+    },
+    {
+      "subtitle_index": 657,
+      "start_time": 3034.428,
+      "end_time": 3035.918,
+      "duration": 1.4900000000002365,
+      "dialogue_text": "Fíjate en la torre"
+    },
+    {
+      "subtitle_index": 658,
+      "start_time": 3036.03,
+      "end_time": 3037.52,
+      "duration": 1.4899999999997817,
+      "dialogue_text": "Así no perderás la orientación"
+    },
+    {
+      "subtitle_index": 659,
+      "start_time": 3037.765,
+      "end_time": 3038.925,
+      "duration": 1.1600000000003092,
+      "dialogue_text": "Qué listo"
+    },
+    {
+      "subtitle_index": 660,
+      "start_time": 3039.433,
+      "end_time": 3041.025,
+      "duration": 1.5920000000000982,
+      "dialogue_text": "Muta, estás escapando"
+    },
+    {
+      "subtitle_index": 661,
+      "start_time": 3041.769,
+      "end_time": 3044.033,
+      "duration": 2.2640000000001237,
+      "dialogue_text": "Por qué perderse sólo porque es una fortaleza"
+    },
+    {
+      "subtitle_index": 662,
+      "start_time": 3045.373,
+      "end_time": 3046.362,
+      "duration": 0.9890000000000327,
+      "dialogue_text": "¡Aquí está!"
+    },
+    {
+      "subtitle_index": 663,
+      "start_time": 3047.541,
+      "end_time": 3049.304,
+      "duration": 1.76299999999992,
+      "dialogue_text": "¿Por qué siempre me toca a mi?"
+    },
+    {
+      "subtitle_index": 664,
+      "start_time": 3052.48,
+      "end_time": 3054.641,
+      "duration": 2.161000000000058,
+      "dialogue_text": "Démonos prisa mientras los mantiene ocupados"
+    },
+    {
+      "subtitle_index": 665,
+      "start_time": 3054.749,
+      "end_time": 3055.34,
+      "duration": 0.5910000000003492,
+      "dialogue_text": "De acuerdo"
+    },
+    {
+      "subtitle_index": 666,
+      "start_time": 3055.783,
+      "end_time": 3057.774,
+      "duration": 1.9909999999999854,
+      "dialogue_text": "¡Por qué tengo que ser el cebo!"
+    },
+    {
+      "subtitle_index": 667,
+      "start_time": 3072.3,
+      "end_time": 3073.562,
+      "duration": 1.2619999999997162,
+      "dialogue_text": "Atrás. ¡Haru!"
+    },
+    {
+      "subtitle_index": 668,
+      "start_time": 3089.817,
+      "end_time": 3090.647,
+      "duration": 0.8299999999999272,
+      "dialogue_text": "¡Qué fuerte!"
+    },
+    {
+      "subtitle_index": 669,
+      "start_time": 3091.819,
+      "end_time": 3092.979,
+      "duration": 1.1599999999998545,
+      "dialogue_text": "¿Se te ha doblado el bastón?"
+    },
+    {
+      "subtitle_index": 670,
+      "start_time": 3093.087,
+      "end_time": 3095.92,
+      "duration": 2.8330000000000837,
+      "dialogue_text": "De todas formas me tenía que comprar uno nuevo"
+    },
+    {
+      "subtitle_index": 671,
+      "start_time": 3096.49,
+      "end_time": 3097.98,
+      "duration": 1.4900000000002365,
+      "dialogue_text": "¡Usado es mejor!"
+    },
+    {
+      "subtitle_index": 672,
+      "start_time": 3106.0,
+      "end_time": 3106.796,
+      "duration": 0.7959999999998217,
+      "dialogue_text": "¡Buen golpe!"
+    },
+    {
+      "subtitle_index": 673,
+      "start_time": 3112.84,
+      "end_time": 3114.171,
+      "duration": 1.3309999999996762,
+      "dialogue_text": "¡Ha pegado en uno de los nuestros!"
+    },
+    {
+      "subtitle_index": 674,
+      "start_time": 3114.275,
+      "end_time": 3115.207,
+      "duration": 0.931999999999789,
+      "dialogue_text": "¿Qué?"
+    },
+    {
+      "subtitle_index": 675,
+      "start_time": 3115.509,
+      "end_time": 3117.704,
+      "duration": 2.1950000000001637,
+      "dialogue_text": "Majestad, ¿cómo ha podido?"
+    },
+    {
+      "subtitle_index": 676,
+      "start_time": 3117.812,
+      "end_time": 3119.746,
+      "duration": 1.9340000000001965,
+      "dialogue_text": "No me lo recuerdes, ¿bien?"
+    },
+    {
+      "subtitle_index": 677,
+      "start_time": 3119.847,
+      "end_time": 3122.008,
+      "duration": 2.1609999999996035,
+      "dialogue_text": "Disculpe, señor"
+    },
+    {
+      "subtitle_index": 678,
+      "start_time": 3123.117,
+      "end_time": 3124.778,
+      "duration": 1.6609999999996035,
+      "dialogue_text": "Todos sus hombres están dispersos"
+    },
+    {
+      "subtitle_index": 679,
+      "start_time": 3124.885,
+      "end_time": 3127.046,
+      "duration": 2.1609999999996035,
+      "dialogue_text": "Se han perdido todos"
+    },
+    {
+      "subtitle_index": 680,
+      "start_time": 3127.154,
+      "end_time": 3128.246,
+      "duration": 1.0920000000000982,
+      "dialogue_text": "¿Dónde está Haru?"
+    },
+    {
+      "subtitle_index": 681,
+      "start_time": 3129.957,
+      "end_time": 3132.084,
+      "duration": 2.1269999999999527,
+      "dialogue_text": "¡Todavía están muy lejos!"
+    },
+    {
+      "subtitle_index": 682,
+      "start_time": 3134.195,
+      "end_time": 3135.025,
+      "duration": 0.8299999999999272,
+      "dialogue_text": "¡Hola!"
+    },
+    {
+      "subtitle_index": 683,
+      "start_time": 3135.129,
+      "end_time": 3136.221,
+      "duration": 1.0920000000000982,
+      "dialogue_text": "Bienvenido de nuevo"
+    },
+    {
+      "subtitle_index": 684,
+      "start_time": 3136.33,
+      "end_time": 3137.194,
+      "duration": 0.8640000000000327,
+      "dialogue_text": "¿Qué tal por ahí?"
+    },
+    {
+      "subtitle_index": 685,
+      "start_time": 3137.365,
+      "end_time": 3138.525,
+      "duration": 1.1600000000003092,
+      "dialogue_text": "Es un callejón sin salida"
+    },
+    {
+      "subtitle_index": 686,
+      "start_time": 3155.883,
+      "end_time": 3158.078,
+      "duration": 2.1950000000001637,
+      "dialogue_text": "Todo va según lo planeado"
+    },
+    {
+      "subtitle_index": 687,
+      "start_time": 3160.554,
+      "end_time": 3161.885,
+      "duration": 1.331000000000131,
+      "dialogue_text": "¿Otro callejón sin salida?"
+    },
+    {
+      "subtitle_index": 688,
+      "start_time": 3162.39,
+      "end_time": 3163.721,
+      "duration": 1.331000000000131,
+      "dialogue_text": "Se está poniendo muy difícil"
+    },
+    {
+      "subtitle_index": 689,
+      "start_time": 3167.328,
+      "end_time": 3169.99,
+      "duration": 2.661999999999807,
+      "dialogue_text": "¡Aquí hay algo raro! Aquí no había pared hace un rato"
+    },
+    {
+      "subtitle_index": 690,
+      "start_time": 3170.331,
+      "end_time": 3171.821,
+      "duration": 1.4899999999997817,
+      "dialogue_text": "Imaginaciones tuyas"
+    },
+    {
+      "subtitle_index": 691,
+      "start_time": 3171.932,
+      "end_time": 3174.492,
+      "duration": 2.5600000000004,
+      "dialogue_text": "No, ya hemos pasado por aquí"
+    },
+    {
+      "subtitle_index": 692,
+      "start_time": 3174.602,
+      "end_time": 3176.797,
+      "duration": 2.1950000000001637,
+      "dialogue_text": "Estás diciendo que estas paredes tienen pies?"
+    },
+    {
+      "subtitle_index": 693,
+      "start_time": 3181.575,
+      "end_time": 3182.735,
+      "duration": 1.1600000000003092,
+      "dialogue_text": "Esto no es un muro"
+    },
+    {
+      "subtitle_index": 694,
+      "start_time": 3182.843,
+      "end_time": 3184.003,
+      "duration": 1.1600000000003092,
+      "dialogue_text": "Es de mentira"
+    },
+    {
+      "subtitle_index": 695,
+      "start_time": 3195.856,
+      "end_time": 3196.686,
+      "duration": 0.8299999999999272,
+      "dialogue_text": "¿Ven?"
+    },
+    {
+      "subtitle_index": 696,
+      "start_time": 3196.791,
+      "end_time": 3198.224,
+      "duration": 1.4329999999999927,
+      "dialogue_text": "¡Bien hecho, Haru!"
+    },
+    {
+      "subtitle_index": 697,
+      "start_time": 3198.325,
+      "end_time": 3199.656,
+      "duration": 1.331000000000131,
+      "dialogue_text": "¿Qué es todo esto?"
+    },
+    {
+      "subtitle_index": 698,
+      "start_time": 3201.195,
+      "end_time": 3205.291,
+      "duration": 4.096000000000004,
+      "dialogue_text": "¡Les dije que no se pusieran en fila!"
+    },
+    {
+      "subtitle_index": 699,
+      "start_time": 3209.203,
+      "end_time": 3210.465,
+      "duration": 1.262000000000171,
+      "dialogue_text": "¡Se están escapando!"
+    },
+    {
+      "subtitle_index": 700,
+      "start_time": 3210.571,
+      "end_time": 3212.334,
+      "duration": 1.76299999999992,
+      "dialogue_text": "Majestad, ¡espere!"
+    },
+    {
+      "subtitle_index": 701,
+      "start_time": 3220.948,
+      "end_time": 3223.212,
+      "duration": 2.2640000000001237,
+      "dialogue_text": "Sigan, ya los alcanzaré"
+    },
+    {
+      "subtitle_index": 702,
+      "start_time": 3228.289,
+      "end_time": 3229.449,
+      "duration": 1.1599999999998545,
+      "dialogue_text": "¡Qué sujeto!"
+    },
+    {
+      "subtitle_index": 703,
+      "start_time": 3230.958,
+      "end_time": 3232.22,
+      "duration": 1.2619999999997162,
+      "dialogue_text": "No. Barón..."
+    },
+    {
+      "subtitle_index": 704,
+      "start_time": 3232.326,
+      "end_time": 3232.951,
+      "duration": 0.625,
+      "dialogue_text": "¡No te preocupes!"
+    },
+    {
+      "subtitle_index": 705,
+      "start_time": 3252.313,
+      "end_time": 3254.645,
+      "duration": 2.33199999999988,
+      "dialogue_text": "Su Majestad, por favor, es peligroso"
+    },
+    {
+      "subtitle_index": 706,
+      "start_time": 3254.748,
+      "end_time": 3256.147,
+      "duration": 1.3989999999998872,
+      "dialogue_text": "¡No puedo dejar que esto ocurra!"
+    },
+    {
+      "subtitle_index": 707,
+      "start_time": 3256.65,
+      "end_time": 3260.484,
+      "duration": 3.8339999999998327,
+      "dialogue_text": "Tengo soldados esperando en la torre, por si acaso"
+    },
+    {
+      "subtitle_index": 708,
+      "start_time": 3263.757,
+      "end_time": 3265.19,
+      "duration": 1.4329999999999927,
+      "dialogue_text": "¡Brillante movimiento!"
+    },
+    {
+      "subtitle_index": 709,
+      "start_time": 3272.433,
+      "end_time": 3274.594,
+      "duration": 2.161000000000058,
+      "dialogue_text": "Bien, bien"
+    },
+    {
+      "subtitle_index": 710,
+      "start_time": 3286.68,
+      "end_time": 3288.841,
+      "duration": 2.161000000000058,
+      "dialogue_text": "Me temo que la torre ya tiene ciertos años..."
+    },
+    {
+      "subtitle_index": 711,
+      "start_time": 3289.183,
+      "end_time": 3290.844,
+      "duration": 1.6610000000000582,
+      "dialogue_text": "¡Esto no me gusta nada!"
+    },
+    {
+      "subtitle_index": 712,
+      "start_time": 3291.819,
+      "end_time": 3294.913,
+      "duration": 3.094000000000051,
+      "dialogue_text": "No tenemos más remedio que usar ESO"
+    },
+    {
+      "subtitle_index": 713,
+      "start_time": 3295.022,
+      "end_time": 3297.286,
+      "duration": 2.2640000000001237,
+      "dialogue_text": "¿Qué? No, eso no"
+    },
+    {
+      "subtitle_index": 714,
+      "start_time": 3297.391,
+      "end_time": 3300.326,
+      "duration": 2.9349999999999454,
+      "dialogue_text": "Si hace eso, Su Majestad arruinará su imagen"
+    },
+    {
+      "subtitle_index": 715,
+      "start_time": 3300.427,
+      "end_time": 3301.519,
+      "duration": 1.0919999999996435,
+      "dialogue_text": "¡Denme el botón!"
+    },
+    {
+      "subtitle_index": 716,
+      "start_time": 3301.629,
+      "end_time": 3303.62,
+      "duration": 1.9909999999999854,
+      "dialogue_text": "Aquí no lo tenemos"
+    },
+    {
+      "subtitle_index": 717,
+      "start_time": 3303.731,
+      "end_time": 3305.062,
+      "duration": 1.3309999999996762,
+      "dialogue_text": "Aquí tiene el mando a distancia"
+    },
+    {
+      "subtitle_index": 718,
+      "start_time": 3308.869,
+      "end_time": 3311.463,
+      "duration": 2.594000000000051,
+      "dialogue_text": "Sí, hemos llegado a una salida"
+    },
+    {
+      "subtitle_index": 719,
+      "start_time": 3311.805,
+      "end_time": 3312.794,
+      "duration": 0.9890000000000327,
+      "dialogue_text": "Sólo un poco más"
+    },
+    {
+      "subtitle_index": 720,
+      "start_time": 3316.377,
+      "end_time": 3317.366,
+      "duration": 0.9890000000000327,
+      "dialogue_text": "¡Ahora!"
+    },
+    {
+      "subtitle_index": 721,
+      "start_time": 3323.15,
+      "end_time": 3323.809,
+      "duration": 0.6590000000001055,
+      "dialogue_text": "¿Qué?"
+    },
+    {
+      "subtitle_index": 722,
+      "start_time": 3323.918,
+      "end_time": 3324.68,
+      "duration": 0.7619999999997162,
+      "dialogue_text": "¡Agárrense!"
+    },
+    {
+      "subtitle_index": 723,
+      "start_time": 3341.335,
+      "end_time": 3343.599,
+      "duration": 2.2640000000001237,
+      "dialogue_text": "¡Ha sido un gran espectáculo!"
+    },
+    {
+      "subtitle_index": 724,
+      "start_time": 3344.405,
+      "end_time": 3345.599,
+      "duration": 1.19399999999996,
+      "dialogue_text": "¡Vamos!"
+    },
+    {
+      "subtitle_index": 725,
+      "start_time": 3350.578,
+      "end_time": 3352.239,
+      "duration": 1.6610000000000582,
+      "dialogue_text": "Estamos otra vez en el suelo"
+    },
+    {
+      "subtitle_index": 726,
+      "start_time": 3353.414,
+      "end_time": 3355.245,
+      "duration": 1.8309999999996762,
+      "dialogue_text": "Veamos como van las cosas ahora"
+    },
+    {
+      "subtitle_index": 727,
+      "start_time": 3355.749,
+      "end_time": 3356.943,
+      "duration": 1.1940000000004147,
+      "dialogue_text": "No tenemos elección"
+    },
+    {
+      "subtitle_index": 728,
+      "start_time": 3359.587,
+      "end_time": 3361.68,
+      "duration": 2.092999999999847,
+      "dialogue_text": "Vamos, vamos"
+    },
+    {
+      "subtitle_index": 729,
+      "start_time": 3364.692,
+      "end_time": 3367.627,
+      "duration": 2.9349999999999454,
+      "dialogue_text": "Gikkingen. Encantado de verte otra vez"
+    },
+    {
+      "subtitle_index": 730,
+      "start_time": 3367.728,
+      "end_time": 3371.323,
+      "duration": 3.5949999999998,
+      "dialogue_text": "¡Haru! Volveremos al castillo ahora mismo"
+    },
+    {
+      "subtitle_index": 731,
+      "start_time": 3372.266,
+      "end_time": 3374.2,
+      "duration": 1.9339999999997417,
+      "dialogue_text": "Ser un gato no es tan malo"
+    },
+    {
+      "subtitle_index": 732,
+      "start_time": 3374.435,
+      "end_time": 3376.926,
+      "duration": 2.4909999999999854,
+      "dialogue_text": "¿Tendré que aprender a que me gusten los ratones?"
+    },
+    {
+      "subtitle_index": 733,
+      "start_time": 3377.371,
+      "end_time": 3380.204,
+      "duration": 2.8330000000000837,
+      "dialogue_text": "Es demasiado pronto para rendirse"
+    },
+    {
+      "subtitle_index": 734,
+      "start_time": 3396.39,
+      "end_time": 3399.052,
+      "duration": 2.662000000000262,
+      "dialogue_text": "¿Qué es todo esto?"
+    },
+    {
+      "subtitle_index": 735,
+      "start_time": 3399.793,
+      "end_time": 3401.124,
+      "duration": 1.3309999999996762,
+      "dialogue_text": "¡Padre!"
+    },
+    {
+      "subtitle_index": 736,
+      "start_time": 3403.063,
+      "end_time": 3406.055,
+      "duration": 2.9919999999997344,
+      "dialogue_text": "Lune, ¿ya has vuelto?"
+    },
+    {
+      "subtitle_index": 737,
+      "start_time": 3406.4,
+      "end_time": 3408.561,
+      "duration": 2.161000000000058,
+      "dialogue_text": "¡Su Alteza el Príncipe! ¡A sus órdenes!"
+    },
+    {
+      "subtitle_index": 738,
+      "start_time": 3408.969,
+      "end_time": 3410.3,
+      "duration": 1.331000000000131,
+      "dialogue_text": "¿Príncipe?"
+    },
+    {
+      "subtitle_index": 739,
+      "start_time": 3416.143,
+      "end_time": 3418.976,
+      "duration": 2.8330000000000837,
+      "dialogue_text": "He vuelto a toda prisa gracias a Yuki"
+    },
+    {
+      "subtitle_index": 740,
+      "start_time": 3419.079,
+      "end_time": 3420.512,
+      "duration": 1.4329999999999927,
+      "dialogue_text": "¿Qué es todo esto?"
+    },
+    {
+      "subtitle_index": 741,
+      "start_time": 3422.149,
+      "end_time": 3422.979,
+      "duration": 0.8299999999999272,
+      "dialogue_text": "Haru"
+    },
+    {
+      "subtitle_index": 742,
+      "start_time": 3424.485,
+      "end_time": 3425.577,
+      "duration": 1.0920000000000982,
+      "dialogue_text": "Oh, Yuki"
+    },
+    {
+      "subtitle_index": 743,
+      "start_time": 3425.686,
+      "end_time": 3427.347,
+      "duration": 1.6610000000000582,
+      "dialogue_text": "Me alegro de que lo hiciéramos"
+    },
+    {
+      "subtitle_index": 744,
+      "start_time": 3427.454,
+      "end_time": 3429.979,
+      "duration": 2.524999999999636,
+      "dialogue_text": "Esto. Sólo quería darle las gracias"
+    },
+    {
+      "subtitle_index": 745,
+      "start_time": 3430.658,
+      "end_time": 3433.991,
+      "duration": 3.3330000000000837,
+      "dialogue_text": "Pensé que te gustaría"
+    },
+    {
+      "subtitle_index": 746,
+      "start_time": 3434.094,
+      "end_time": 3436.619,
+      "duration": 2.525000000000091,
+      "dialogue_text": "tomar a Haru por esposa"
+    },
+    {
+      "subtitle_index": 747,
+      "start_time": 3436.83,
+      "end_time": 3438.661,
+      "duration": 1.831000000000131,
+      "dialogue_text": "No tienes por qué preocuparte por mi"
+    },
+    {
+      "subtitle_index": 748,
+      "start_time": 3438.932,
+      "end_time": 3440.923,
+      "duration": 1.9909999999999854,
+      "dialogue_text": "Me quiero casar con Yuki"
+    },
+    {
+      "subtitle_index": 749,
+      "start_time": 3443.837,
+      "end_time": 3445.236,
+      "duration": 1.3989999999998872,
+      "dialogue_text": "¿¡Qué!?"
+    },
+    {
+      "subtitle_index": 750,
+      "start_time": 3445.506,
+      "end_time": 3446.939,
+      "duration": 1.4329999999999927,
+      "dialogue_text": "Parece que los toma por sorpresa"
+    },
+    {
+      "subtitle_index": 751,
+      "start_time": 3447.041,
+      "end_time": 3448.474,
+      "duration": 1.4329999999999927,
+      "dialogue_text": "Este Príncipe no está mal"
+    },
+    {
+      "subtitle_index": 752,
+      "start_time": 3453.681,
+      "end_time": 3455.114,
+      "duration": 1.4329999999999927,
+      "dialogue_text": "Yuki, mira"
+    },
+    {
+      "subtitle_index": 753,
+      "start_time": 3455.683,
+      "end_time": 3457.674,
+      "duration": 1.9909999999999854,
+      "dialogue_text": "Fui a tu antiguo hogar para traerte esto"
+    },
+    {
+      "subtitle_index": 754,
+      "start_time": 3463.691,
+      "end_time": 3467.024,
+      "duration": 3.3330000000000837,
+      "dialogue_text": "Oh, ¿no será lo creo que es?"
+    },
+    {
+      "subtitle_index": 755,
+      "start_time": 3467.294,
+      "end_time": 3470.73,
+      "duration": 3.436000000000149,
+      "dialogue_text": "Esas galletas... me encantaban."
+    },
+    {
+      "subtitle_index": 756,
+      "start_time": 3470.831,
+      "end_time": 3471.525,
+      "duration": 0.69399999999996,
+      "dialogue_text": "Exacto"
+    },
+    {
+      "subtitle_index": 757,
+      "start_time": 3472.032,
+      "end_time": 3476.628,
+      "duration": 4.596000000000004,
+      "dialogue_text": "Estas son las galletas de pescado que me diste cuando era un gatito huérfano"
+    },
+    {
+      "subtitle_index": 758,
+      "start_time": 3476.737,
+      "end_time": 3479.205,
+      "duration": 2.467999999999847,
+      "dialogue_text": "Ese gatito, ¡Eras tú!"
+    },
+    {
+      "subtitle_index": 759,
+      "start_time": 3479.473,
+      "end_time": 3482.909,
+      "duration": 3.436000000000149,
+      "dialogue_text": "Ahora eres tan bonita que no te había reconocido"
+    },
+    {
+      "subtitle_index": 760,
+      "start_time": 3483.21,
+      "end_time": 3484.336,
+      "duration": 1.125999999999749,
+      "dialogue_text": "Yuki"
+    },
+    {
+      "subtitle_index": 761,
+      "start_time": 3484.878,
+      "end_time": 3487.711,
+      "duration": 2.832999999999629,
+      "dialogue_text": "Aceptas esto como un símbolo"
+    },
+    {
+      "subtitle_index": 762,
+      "start_time": 3487.881,
+      "end_time": 3489.508,
+      "duration": 1.6269999999999527,
+      "dialogue_text": "de nuestra vida juntos de ahora en adelante"
+    },
+    {
+      "subtitle_index": 763,
+      "start_time": 3491.552,
+      "end_time": 3493.952,
+      "duration": 2.400000000000091,
+      "dialogue_text": "¿Eso significa"
+    },
+    {
+      "subtitle_index": 764,
+      "start_time": 3494.555,
+      "end_time": 3496.682,
+      "duration": 2.1269999999999527,
+      "dialogue_text": "que se están casando?"
+    },
+    {
+      "subtitle_index": 765,
+      "start_time": 3498.726,
+      "end_time": 3501.661,
+      "duration": 2.9349999999999454,
+      "dialogue_text": "Oh, ¡me alegro muchísimo por ti Yuki!"
+    },
+    {
+      "subtitle_index": 766,
+      "start_time": 3501.762,
+      "end_time": 3502.956,
+      "duration": 1.19399999999996,
+      "dialogue_text": "¡Gracias, Haru!"
+    },
+    {
+      "subtitle_index": 767,
+      "start_time": 3503.897,
+      "end_time": 3506.331,
+      "duration": 2.4340000000001965,
+      "dialogue_text": "Si no te hubiera encontrado,"
+    },
+    {
+      "subtitle_index": 768,
+      "start_time": 3506.433,
+      "end_time": 3508.958,
+      "duration": 2.525000000000091,
+      "dialogue_text": "podría haber muerto de hambre en la calle"
+    },
+    {
+      "subtitle_index": 769,
+      "start_time": 3509.069,
+      "end_time": 3512.163,
+      "duration": 3.094000000000051,
+      "dialogue_text": "También me salvaste a mi"
+    },
+    {
+      "subtitle_index": 770,
+      "start_time": 3512.272,
+      "end_time": 3515.935,
+      "duration": 3.663000000000011,
+      "dialogue_text": "No sabía que fueras la persona de la que Yuki me había hablado tanto"
+    },
+    {
+      "subtitle_index": 771,
+      "start_time": 3516.243,
+      "end_time": 3518.336,
+      "duration": 2.092999999999847,
+      "dialogue_text": "Nos salvaste la vida a ambos"
+    },
+    {
+      "subtitle_index": 772,
+      "start_time": 3518.679,
+      "end_time": 3520.203,
+      "duration": 1.5239999999998872,
+      "dialogue_text": "¿Cómo podríamos agradecértelo?"
+    },
+    {
+      "subtitle_index": 773,
+      "start_time": 3520.581,
+      "end_time": 3522.071,
+      "duration": 1.4899999999997817,
+      "dialogue_text": "No quiero nada"
+    },
+    {
+      "subtitle_index": 774,
+      "start_time": 3522.182,
+      "end_time": 3524.343,
+      "duration": 2.161000000000058,
+      "dialogue_text": "Ustedes dos ya me han hecho muy feliz"
+    },
+    {
+      "subtitle_index": 775,
+      "start_time": 3524.585,
+      "end_time": 3527.247,
+      "duration": 2.661999999999807,
+      "dialogue_text": "Salvar a un gato fue algo muy bueno"
+    },
+    {
+      "subtitle_index": 776,
+      "start_time": 3531.525,
+      "end_time": 3534.016,
+      "duration": 2.4909999999999854,
+      "dialogue_text": "Es una escena muy conmovedora"
+    },
+    {
+      "subtitle_index": 777,
+      "start_time": 3534.128,
+      "end_time": 3537.291,
+      "duration": 3.163000000000011,
+      "dialogue_text": "Así pues ya tienes prometida"
+    },
+    {
+      "subtitle_index": 778,
+      "start_time": 3537.398,
+      "end_time": 3539.923,
+      "duration": 2.524999999999636,
+      "dialogue_text": "Yo no lo sabía, pero es perfecto"
+    },
+    {
+      "subtitle_index": 779,
+      "start_time": 3540.033,
+      "end_time": 3543.298,
+      "duration": 3.2649999999998727,
+      "dialogue_text": "Haru, debes estar desilusionada"
+    },
+    {
+      "subtitle_index": 780,
+      "start_time": 3543.404,
+      "end_time": 3544.029,
+      "duration": 0.625,
+      "dialogue_text": "No, de verdad"
+    },
+    {
+      "subtitle_index": 781,
+      "start_time": 3544.605,
+      "end_time": 3547.096,
+      "duration": 2.4909999999999854,
+      "dialogue_text": "No tienes porque ser tan considerada. Si no puedes casarte con mi hijo..."
+    },
+    {
+      "subtitle_index": 782,
+      "start_time": 3547.207,
+      "end_time": 3549.141,
+      "duration": 1.9340000000001965,
+      "dialogue_text": "¿por qué no te casas conmigo?"
+    },
+    {
+      "subtitle_index": 783,
+      "start_time": 3550.377,
+      "end_time": 3552.14,
+      "duration": 1.76299999999992,
+      "dialogue_text": "Puedes comer todas las galletas"
+    },
+    {
+      "subtitle_index": 784,
+      "start_time": 3552.246,
+      "end_time": 3555.443,
+      "duration": 3.1970000000001164,
+      "dialogue_text": "y todo el pescado que quieras"
+    },
+    {
+      "subtitle_index": 785,
+      "start_time": 3556.25,
+      "end_time": 3556.841,
+      "duration": 0.5909999999998945,
+      "dialogue_text": "¿Qué te parece?"
+    },
+    {
+      "subtitle_index": 786,
+      "start_time": 3557.217,
+      "end_time": 3560.277,
+      "duration": 3.0599999999999454,
+      "dialogue_text": "Solamente devuélvanme a donde pertenezco"
+    },
+    {
+      "subtitle_index": 787,
+      "start_time": 3560.721,
+      "end_time": 3563.281,
+      "duration": 2.5599999999999454,
+      "dialogue_text": "Eso depende de tu respuesta"
+    },
+    {
+      "subtitle_index": 788,
+      "start_time": 3564.892,
+      "end_time": 3566.883,
+      "duration": 1.9909999999999854,
+      "dialogue_text": "¿¡Está loco!?"
+    },
+    {
+      "subtitle_index": 789,
+      "start_time": 3569.229,
+      "end_time": 3572.323,
+      "duration": 3.094000000000051,
+      "dialogue_text": "Por supuesto que no quiero casarme con usted"
+    },
+    {
+      "subtitle_index": 790,
+      "start_time": 3572.433,
+      "end_time": 3574.025,
+      "duration": 1.5920000000000982,
+      "dialogue_text": "¡pervertido!"
+    },
+    {
+      "subtitle_index": 791,
+      "start_time": 3577.137,
+      "end_time": 3578.434,
+      "duration": 1.2970000000000255,
+      "dialogue_text": "¿Por qué no...?"
+    },
+    {
+      "subtitle_index": 792,
+      "start_time": 3581.642,
+      "end_time": 3583.906,
+      "duration": 2.2640000000001237,
+      "dialogue_text": "¡Esto es desternillante!"
+    },
+    {
+      "subtitle_index": 793,
+      "start_time": 3585.746,
+      "end_time": 3586.678,
+      "duration": 0.931999999999789,
+      "dialogue_text": "¡No habría ni que preguntarlo!"
+    },
+    {
+      "subtitle_index": 794,
+      "start_time": 3586.78,
+      "end_time": 3589.442,
+      "duration": 2.661999999999807,
+      "dialogue_text": "Admiro a una mujer con personalidad propia"
+    },
+    {
+      "subtitle_index": 795,
+      "start_time": 3590.484,
+      "end_time": 3593.419,
+      "duration": 2.9349999999999454,
+      "dialogue_text": "Has encontrado un aliado por ser así"
+    },
+    {
+      "subtitle_index": 796,
+      "start_time": 3593.654,
+      "end_time": 3596.145,
+      "duration": 2.4909999999999854,
+      "dialogue_text": "Yo, Renaldo Moonl ¡te ayudaré!"
+    },
+    {
+      "subtitle_index": 797,
+      "start_time": 3596.423,
+      "end_time": 3597.412,
+      "duration": 0.9890000000000327,
+      "dialogue_text": "¿Renaldo?"
+    },
+    {
+      "subtitle_index": 798,
+      "start_time": 3597.524,
+      "end_time": 3598.684,
+      "duration": 1.1600000000003092,
+      "dialogue_text": "¿Renaldo Moon?"
+    },
+    {
+      "subtitle_index": 799,
+      "start_time": 3598.826,
+      "end_time": 3600.487,
+      "duration": 1.6610000000000582,
+      "dialogue_text": "¿Ese Renaldo Moon?"
+    },
+    {
+      "subtitle_index": 800,
+      "start_time": 3600.594,
+      "end_time": 3602.084,
+      "duration": 1.4899999999997817,
+      "dialogue_text": "¡El mismo!"
+    },
+    {
+      "subtitle_index": 801,
+      "start_time": 3602.196,
+      "end_time": 3602.855,
+      "duration": 0.6590000000001055,
+      "dialogue_text": "¿Quién?"
+    },
+    {
+      "subtitle_index": 802,
+      "start_time": 3602.963,
+      "end_time": 3604.555,
+      "duration": 1.5919999999996435,
+      "dialogue_text": "¿Lo ha olvidado, Majestad?"
+    },
+    {
+      "subtitle_index": 803,
+      "start_time": 3605.098,
+      "end_time": 3608.261,
+      "duration": 3.163000000000011,
+      "dialogue_text": "¡El peor, el más famoso criminal en la historia de este Reino!"
+    },
+    {
+      "subtitle_index": 804,
+      "start_time": 3608.669,
+      "end_time": 3610.364,
+      "duration": 1.6950000000001637,
+      "dialogue_text": "Un gato salió repentinamente de la nada"
+    },
+    {
+      "subtitle_index": 805,
+      "start_time": 3610.471,
+      "end_time": 3613.133,
+      "duration": 2.661999999999807,
+      "dialogue_text": "y devoró todo el pescado del lago y escapó"
+    },
+    {
+      "subtitle_index": 806,
+      "start_time": 3613.24,
+      "end_time": 3616.403,
+      "duration": 3.163000000000011,
+      "dialogue_text": "El criminal del siglo, ¡Renaldo Moon!"
+    },
+    {
+      "subtitle_index": 807,
+      "start_time": 3616.51,
+      "end_time": 3617.499,
+      "duration": 0.988999999999578,
+      "dialogue_text": "Increíble..."
+    },
+    {
+      "subtitle_index": 808,
+      "start_time": 3617.611,
+      "end_time": 3618.873,
+      "duration": 1.262000000000171,
+      "dialogue_text": "Es un monstruo"
+    },
+    {
+      "subtitle_index": 809,
+      "start_time": 3619.179,
+      "end_time": 3621.943,
+      "duration": 2.7640000000001237,
+      "dialogue_text": "Muta, ¿hiciste eso? Desgraciado"
+    },
+    {
+      "subtitle_index": 810,
+      "start_time": 3622.683,
+      "end_time": 3625.277,
+      "duration": 2.594000000000051,
+      "dialogue_text": "¡Esta vez me comeré el castillo entero!"
+    },
+    {
+      "subtitle_index": 811,
+      "start_time": 3626.52,
+      "end_time": 3628.954,
+      "duration": 2.4340000000001965,
+      "dialogue_text": "¡Lleven a Su Majestad a un lugar seguro!"
+    },
+    {
+      "subtitle_index": 812,
+      "start_time": 3632.292,
+      "end_time": 3633.953,
+      "duration": 1.6610000000000582,
+      "dialogue_text": "¡No!"
+    },
+    {
+      "subtitle_index": 813,
+      "start_time": 3635.362,
+      "end_time": 3636.522,
+      "duration": 1.1599999999998545,
+      "dialogue_text": "Soldados. Protejan a Haru"
+    },
+    {
+      "subtitle_index": 814,
+      "start_time": 3636.63,
+      "end_time": 3637.688,
+      "duration": 1.0579999999999927,
+      "dialogue_text": "Si, señor"
+    },
+    {
+      "subtitle_index": 815,
+      "start_time": 3637.798,
+      "end_time": 3639.39,
+      "duration": 1.5920000000000982,
+      "dialogue_text": "¡Adelante!"
+    },
+    {
+      "subtitle_index": 816,
+      "start_time": 3643.136,
+      "end_time": 3644.296,
+      "duration": 1.1599999999998545,
+      "dialogue_text": "¡Detengan al culpable!"
+    },
+    {
+      "subtitle_index": 817,
+      "start_time": 3644.404,
+      "end_time": 3645.393,
+      "duration": 0.9890000000000327,
+      "dialogue_text": "¡Majestad!"
+    },
+    {
+      "subtitle_index": 818,
+      "start_time": 3646.807,
+      "end_time": 3648.399,
+      "duration": 1.5920000000000982,
+      "dialogue_text": "Déjenme a mi padre a mi"
+    },
+    {
+      "subtitle_index": 819,
+      "start_time": 3648.642,
+      "end_time": 3650.405,
+      "duration": 1.7630000000003747,
+      "dialogue_text": "Todo el mundo, por favor corred"
+    },
+    {
+      "subtitle_index": 820,
+      "start_time": 3650.511,
+      "end_time": 3652.172,
+      "duration": 1.6610000000000582,
+      "dialogue_text": "Pero la torre ha caído"
+    },
+    {
+      "subtitle_index": 821,
+      "start_time": 3652.279,
+      "end_time": 3654.611,
+      "duration": 2.33199999999988,
+      "dialogue_text": "Todavía está conectada al otro lado"
+    },
+    {
+      "subtitle_index": 822,
+      "start_time": 3661.221,
+      "end_time": 3662.313,
+      "duration": 1.0920000000000982,
+      "dialogue_text": "Qué extraño..."
+    },
+    {
+      "subtitle_index": 823,
+      "start_time": 3662.422,
+      "end_time": 3664.014,
+      "duration": 1.5920000000000982,
+      "dialogue_text": "Oh no, está amaneciendo"
+    },
+    {
+      "subtitle_index": 824,
+      "start_time": 3664.124,
+      "end_time": 3664.783,
+      "duration": 0.6590000000001055,
+      "dialogue_text": "¡Déjenmelo a mi!"
+    },
+    {
+      "subtitle_index": 825,
+      "start_time": 3664.892,
+      "end_time": 3666.484,
+      "duration": 1.5920000000000982,
+      "dialogue_text": "¿¡Qué... estás haciendo!?"
+    },
+    {
+      "subtitle_index": 826,
+      "start_time": 3667.561,
+      "end_time": 3669.153,
+      "duration": 1.5919999999996435,
+      "dialogue_text": "¡No!"
+    },
+    {
+      "subtitle_index": 827,
+      "start_time": 3672.065,
+      "end_time": 3673.726,
+      "duration": 1.6610000000000582,
+      "dialogue_text": "¡Haru, corre! ¡Iremos justo después de ti!"
+    },
+    {
+      "subtitle_index": 828,
+      "start_time": 3673.834,
+      "end_time": 3674.994,
+      "duration": 1.1600000000003092,
+      "dialogue_text": "¡Ten cuidado!"
+    },
+    {
+      "subtitle_index": 829,
+      "start_time": 3675.736,
+      "end_time": 3676.668,
+      "duration": 0.9320000000002437,
+      "dialogue_text": "Ustedes también"
+    },
+    {
+      "subtitle_index": 830,
+      "start_time": 3681.742,
+      "end_time": 3683.505,
+      "duration": 1.76299999999992,
+      "dialogue_text": "Gracias, Yuki"
+    },
+    {
+      "subtitle_index": 831,
+      "start_time": 3684.578,
+      "end_time": 3686.603,
+      "duration": 2.025000000000091,
+      "dialogue_text": "No estaba equivocada"
+    },
+    {
+      "subtitle_index": 832,
+      "start_time": 3687.08,
+      "end_time": 3688.513,
+      "duration": 1.4329999999999927,
+      "dialogue_text": "Salvar a un gato,"
+    },
+    {
+      "subtitle_index": 833,
+      "start_time": 3688.615,
+      "end_time": 3690.606,
+      "duration": 1.9910000000004402,
+      "dialogue_text": "sentirse perdida y abatida"
+    },
+    {
+      "subtitle_index": 834,
+      "start_time": 3691.151,
+      "end_time": 3694.245,
+      "duration": 3.094000000000051,
+      "dialogue_text": "fue todo parte de descubrir quién soy"
+    },
+    {
+      "subtitle_index": 835,
+      "start_time": 3698.859,
+      "end_time": 3699.689,
+      "duration": 0.8299999999999272,
+      "dialogue_text": "¡Sigue adelante!"
+    },
+    {
+      "subtitle_index": 836,
+      "start_time": 3699.793,
+      "end_time": 3700.725,
+      "duration": 0.931999999999789,
+      "dialogue_text": "Gracias"
+    },
+    {
+      "subtitle_index": 837,
+      "start_time": 3701.762,
+      "end_time": 3702.751,
+      "duration": 0.9890000000000327,
+      "dialogue_text": "¿Donde está Padre?"
+    },
+    {
+      "subtitle_index": 838,
+      "start_time": 3703.096,
+      "end_time": 3704.028,
+      "duration": 0.931999999999789,
+      "dialogue_text": "Allí arriba"
+    },
+    {
+      "subtitle_index": 839,
+      "start_time": 3705.365,
+      "end_time": 3707.526,
+      "duration": 2.161000000000058,
+      "dialogue_text": "Padre, te harás daño. Por favor, baja"
+    },
+    {
+      "subtitle_index": 840,
+      "start_time": 3707.935,
+      "end_time": 3709.527,
+      "duration": 1.5920000000000982,
+      "dialogue_text": "No sabe lo que hace"
+    },
+    {
+      "subtitle_index": 841,
+      "start_time": 3709.636,
+      "end_time": 3711.228,
+      "duration": 1.5920000000000982,
+      "dialogue_text": "Yo bajaré a Su Majestad"
+    },
+    {
+      "subtitle_index": 842,
+      "start_time": 3725.786,
+      "end_time": 3728.277,
+      "duration": 2.4909999999999854,
+      "dialogue_text": "¡Solucionaremos esto con un duelo!"
+    },
+    {
+      "subtitle_index": 843,
+      "start_time": 3728.722,
+      "end_time": 3730.053,
+      "duration": 1.3309999999996762,
+      "dialogue_text": "¡Será un placer!"
+    },
+    {
+      "subtitle_index": 844,
+      "start_time": 3730.457,
+      "end_time": 3731.048,
+      "duration": 0.5909999999998945,
+      "dialogue_text": "¡Barón!"
+    },
+    {
+      "subtitle_index": 845,
+      "start_time": 3731.725,
+      "end_time": 3732.419,
+      "duration": 0.69399999999996,
+      "dialogue_text": "¡Cuida de Haru!"
+    },
+    {
+      "subtitle_index": 846,
+      "start_time": 3732.526,
+      "end_time": 3733.288,
+      "duration": 0.762000000000171,
+      "dialogue_text": "Bien"
+    },
+    {
+      "subtitle_index": 847,
+      "start_time": 3780.774,
+      "end_time": 3782.708,
+      "duration": 1.9340000000001965,
+      "dialogue_text": "Ganaré, Rey"
+    },
+    {
+      "subtitle_index": 848,
+      "start_time": 3783.51,
+      "end_time": 3785.501,
+      "duration": 1.9909999999999854,
+      "dialogue_text": "Oooh"
+    },
+    {
+      "subtitle_index": 849,
+      "start_time": 3796.023,
+      "end_time": 3799.288,
+      "duration": 3.2649999999998727,
+      "dialogue_text": "He oído hablar de una estatua de un gato que no se preocupa de sus propios asuntos"
+    },
+    {
+      "subtitle_index": 850,
+      "start_time": 3799.393,
+      "end_time": 3801.623,
+      "duration": 2.230000000000018,
+      "dialogue_text": "No tenía ni idea de que fueses tan bueno"
+    },
+    {
+      "subtitle_index": 851,
+      "start_time": 3801.962,
+      "end_time": 3805.864,
+      "duration": 3.9020000000000437,
+      "dialogue_text": "He oído que no eras más que un adorno de ventana en un oscuro callejón"
+    },
+    {
+      "subtitle_index": 852,
+      "start_time": 3806.633,
+      "end_time": 3810.865,
+      "duration": 4.231999999999971,
+      "dialogue_text": "Deberías haber venido a mi Reino y unirte a mi"
+    },
+    {
+      "subtitle_index": 853,
+      "start_time": 3813.707,
+      "end_time": 3816.801,
+      "duration": 3.094000000000051,
+      "dialogue_text": "Desgraciadamente, soy bastante feliz con mi actual forma de vida"
+    },
+    {
+      "subtitle_index": 854,
+      "start_time": 3819.212,
+      "end_time": 3823.546,
+      "duration": 4.333999999999833,
+      "dialogue_text": "¿¡Dónde estoy!?"
+    },
+    {
+      "subtitle_index": 855,
+      "start_time": 3825.152,
+      "end_time": 3826.084,
+      "duration": 0.931999999999789,
+      "dialogue_text": "¿Qué has hecho?"
+    },
+    {
+      "subtitle_index": 856,
+      "start_time": 3829.222,
+      "end_time": 3830.883,
+      "duration": 1.6609999999996035,
+      "dialogue_text": "Yo no he hecho nada"
+    },
+    {
+      "subtitle_index": 857,
+      "start_time": 3831.658,
+      "end_time": 3834.149,
+      "duration": 2.4909999999999854,
+      "dialogue_text": "Con la torre tan derruida,"
+    },
+    {
+      "subtitle_index": 858,
+      "start_time": 3834.261,
+      "end_time": 3837.662,
+      "duration": 3.40099999999984,
+      "dialogue_text": "no me sorprendería si la salida se hubiera movido a otro sitio"
+    },
+    {
+      "subtitle_index": 859,
+      "start_time": 3837.898,
+      "end_time": 3838.887,
+      "duration": 0.9890000000000327,
+      "dialogue_text": "¡Debo irme!"
+    },
+    {
+      "subtitle_index": 860,
+      "start_time": 3844.805,
+      "end_time": 3846.033,
+      "duration": 1.2280000000000655,
+      "dialogue_text": "¡Srta. Haru!"
+    },
+    {
+      "subtitle_index": 861,
+      "start_time": 3846.573,
+      "end_time": 3847.835,
+      "duration": 1.262000000000171,
+      "dialogue_text": "Debería haber previsto esto"
+    },
+    {
+      "subtitle_index": 862,
+      "start_time": 3847.941,
+      "end_time": 3850.705,
+      "duration": 2.7640000000001237,
+      "dialogue_text": "¡Pero mira! ¡Haru es humana otra vez!"
+    },
+    {
+      "subtitle_index": 863,
+      "start_time": 3859.519,
+      "end_time": 3860.611,
+      "duration": 1.0920000000000982,
+      "dialogue_text": "Creo que me voy a caer"
+    },
+    {
+      "subtitle_index": 864,
+      "start_time": 3861.254,
+      "end_time": 3863.188,
+      "duration": 1.9340000000001965,
+      "dialogue_text": "oh no, me caigo"
+    },
+    {
+      "subtitle_index": 865,
+      "start_time": 3864.524,
+      "end_time": 3867.459,
+      "duration": 2.9349999999999454,
+      "dialogue_text": "¡Me caigo!"
+    },
+    {
+      "subtitle_index": 866,
+      "start_time": 3867.928,
+      "end_time": 3869.395,
+      "duration": 1.4670000000000982,
+      "dialogue_text": "¡Haru!"
+    },
+    {
+      "subtitle_index": 867,
+      "start_time": 3877.871,
+      "end_time": 3880.704,
+      "duration": 2.8330000000000837,
+      "dialogue_text": "Muta, por favor no digas que peso mucho"
+    },
+    {
+      "subtitle_index": 868,
+      "start_time": 3881.308,
+      "end_time": 3884.8,
+      "duration": 3.492000000000189,
+      "dialogue_text": "Déjalo... pero la próxima vez..."
+    },
+    {
+      "subtitle_index": 869,
+      "start_time": 3885.278,
+      "end_time": 3888.714,
+      "duration": 3.436000000000149,
+      "dialogue_text": "¡Adelgaza!"
+    },
+    {
+      "subtitle_index": 870,
+      "start_time": 3900.36,
+      "end_time": 3902.794,
+      "duration": 2.4339999999997417,
+      "dialogue_text": "¡No puedo resistir!"
+    },
+    {
+      "subtitle_index": 871,
+      "start_time": 3905.198,
+      "end_time": 3907.132,
+      "duration": 1.9340000000001965,
+      "dialogue_text": "¡Haru!"
+    },
+    {
+      "subtitle_index": 872,
+      "start_time": 3911.605,
+      "end_time": 3914.165,
+      "duration": 2.5599999999999454,
+      "dialogue_text": "¡Voy a morir!"
+    },
+    {
+      "subtitle_index": 873,
+      "start_time": 3914.508,
+      "end_time": 3916.601,
+      "duration": 2.093000000000302,
+      "dialogue_text": "¡No estás muerta todavía! ¡Abre los ojos!"
+    },
+    {
+      "subtitle_index": 874,
+      "start_time": 3916.71,
+      "end_time": 3917.369,
+      "duration": 0.6590000000001055,
+      "dialogue_text": "¿Barón?"
+    },
+    {
+      "subtitle_index": 875,
+      "start_time": 3917.644,
+      "end_time": 3918.804,
+      "duration": 1.1600000000003092,
+      "dialogue_text": "¡Concéntrate..."
+    },
+    {
+      "subtitle_index": 876,
+      "start_time": 3918.945,
+      "end_time": 3920.276,
+      "duration": 1.3309999999996762,
+      "dialogue_text": "...y mira hacia abajo!"
+    },
+    {
+      "subtitle_index": 877,
+      "start_time": 3920.38,
+      "end_time": 3923.076,
+      "duration": 2.6959999999999127,
+      "dialogue_text": "¡No puedo!"
+    },
+    {
+      "subtitle_index": 878,
+      "start_time": 3923.283,
+      "end_time": 3925.274,
+      "duration": 1.9909999999999854,
+      "dialogue_text": "¡Confía en mi!"
+    },
+    {
+      "subtitle_index": 879,
+      "start_time": 3936.463,
+      "end_time": 3938.363,
+      "duration": 1.8999999999996362,
+      "dialogue_text": "¿Todavía Estamos... vivos?"
+    },
+    {
+      "subtitle_index": 880,
+      "start_time": 3938.465,
+      "end_time": 3939.056,
+      "duration": 0.5909999999998945,
+      "dialogue_text": "¡Si!"
+    },
+    {
+      "subtitle_index": 881,
+      "start_time": 3939.166,
+      "end_time": 3940.428,
+      "duration": 1.2619999999997162,
+      "dialogue_text": "¡Creo!"
+    },
+    {
+      "subtitle_index": 882,
+      "start_time": 3952.212,
+      "end_time": 3954.043,
+      "duration": 1.831000000000131,
+      "dialogue_text": "¿Sabes qué?"
+    },
+    {
+      "subtitle_index": 883,
+      "start_time": 3954.147,
+      "end_time": 3956.479,
+      "duration": 2.33199999999988,
+      "dialogue_text": "¡Estamos de maravilla!"
+    },
+    {
+      "subtitle_index": 884,
+      "start_time": 3968.094,
+      "end_time": 3969.686,
+      "duration": 1.5920000000000982,
+      "dialogue_text": "¿Qué es esto?"
+    },
+    {
+      "subtitle_index": 885,
+      "start_time": 3971.998,
+      "end_time": 3973.09,
+      "duration": 1.0920000000000982,
+      "dialogue_text": "Hay muchos"
+    },
+    {
+      "subtitle_index": 886,
+      "start_time": 3973.2,
+      "end_time": 3974.292,
+      "duration": 1.0920000000000982,
+      "dialogue_text": "Estamos salvados"
+    },
+    {
+      "subtitle_index": 887,
+      "start_time": 3981.675,
+      "end_time": 3983.006,
+      "duration": 1.3309999999996762,
+      "dialogue_text": "¡Ey, Muta!"
+    },
+    {
+      "subtitle_index": 888,
+      "start_time": 3983.109,
+      "end_time": 3985.669,
+      "duration": 2.5599999999999454,
+      "dialogue_text": "¿Como te sientes, siendo salvado por los pájaros?"
+    },
+    {
+      "subtitle_index": 889,
+      "start_time": 3985.779,
+      "end_time": 3986.609,
+      "duration": 0.8299999999999272,
+      "dialogue_text": "¡Toto!"
+    },
+    {
+      "subtitle_index": 890,
+      "start_time": 3986.713,
+      "end_time": 3988.704,
+      "duration": 1.9909999999999854,
+      "dialogue_text": "Oh, es el sucio pájaro negro"
+    },
+    {
+      "subtitle_index": 891,
+      "start_time": 3988.815,
+      "end_time": 3990.339,
+      "duration": 1.5239999999998872,
+      "dialogue_text": "Gracias por salvarnos, Toto"
+    },
+    {
+      "subtitle_index": 892,
+      "start_time": 3990.784,
+      "end_time": 3993.947,
+      "duration": 3.163000000000011,
+      "dialogue_text": "Dad gracias a que tenía a mis amigos esperando aquí arriba"
+    },
+    {
+      "subtitle_index": 893,
+      "start_time": 3994.354,
+      "end_time": 3996.515,
+      "duration": 2.161000000000058,
+      "dialogue_text": "¿No les hace daño andar sobre ellos?"
+    },
+    {
+      "subtitle_index": 894,
+      "start_time": 3997.123,
+      "end_time": 3998.784,
+      "duration": 1.6610000000000582,
+      "dialogue_text": "Eres ligera como una pluma, Haru"
+    },
+    {
+      "subtitle_index": 895,
+      "start_time": 3998.892,
+      "end_time": 3999.654,
+      "duration": 0.762000000000171,
+      "dialogue_text": "¿De verdad?"
+    },
+    {
+      "subtitle_index": 896,
+      "start_time": 3999.759,
+      "end_time": 4001.42,
+      "duration": 1.6610000000000582,
+      "dialogue_text": "No estoy de acuerdo"
+    },
+    {
+      "subtitle_index": 897,
+      "start_time": 4001.528,
+      "end_time": 4002.79,
+      "duration": 1.262000000000171,
+      "dialogue_text": "Mira. !Haru!"
+    },
+    {
+      "subtitle_index": 898,
+      "start_time": 4004.197,
+      "end_time": 4005.789,
+      "duration": 1.5920000000000982,
+      "dialogue_text": "¡Es mi colegio!"
+    },
+    {
+      "subtitle_index": 899,
+      "start_time": 4006.533,
+      "end_time": 4009.195,
+      "duration": 2.662000000000262,
+      "dialogue_text": "Estoy en casa. ¡Hemos podido volver!"
+    },
+    {
+      "subtitle_index": 900,
+      "start_time": 4009.469,
+      "end_time": 4011.562,
+      "duration": 2.092999999999847,
+      "dialogue_text": "¡Muchísimas gracias, a todos!"
+    },
+    {
+      "subtitle_index": 901,
+      "start_time": 4017.21,
+      "end_time": 4018.541,
+      "duration": 1.331000000000131,
+      "dialogue_text": "¡Si! ¡Lo han conseguido!"
+    },
+    {
+      "subtitle_index": 902,
+      "start_time": 4018.645,
+      "end_time": 4020.078,
+      "duration": 1.4329999999999927,
+      "dialogue_text": "Hurra. ¡Srta. Haru!"
+    },
+    {
+      "subtitle_index": 903,
+      "start_time": 4020.213,
+      "end_time": 4021.305,
+      "duration": 1.0919999999996435,
+      "dialogue_text": "Qué alivio"
+    },
+    {
+      "subtitle_index": 904,
+      "start_time": 4022.482,
+      "end_time": 4024.211,
+      "duration": 1.7289999999998145,
+      "dialogue_text": "¡Cuídate, Haru!"
+    },
+    {
+      "subtitle_index": 905,
+      "start_time": 4025.552,
+      "end_time": 4026.985,
+      "duration": 1.4329999999999927,
+      "dialogue_text": "¡Su Majestad!"
+    },
+    {
+      "subtitle_index": 906,
+      "start_time": 4033.159,
+      "end_time": 4034.421,
+      "duration": 1.2619999999997162,
+      "dialogue_text": "Natori"
+    },
+    {
+      "subtitle_index": 907,
+      "start_time": 4034.527,
+      "end_time": 4037.519,
+      "duration": 2.9919999999997344,
+      "dialogue_text": "Mi tiempo en el trono ha pasado"
+    },
+    {
+      "subtitle_index": 908,
+      "start_time": 4037.764,
+      "end_time": 4040.358,
+      "duration": 2.594000000000051,
+      "dialogue_text": "Entonces debo renunciar con usted"
+    },
+    {
+      "subtitle_index": 909,
+      "start_time": 4050.076,
+      "end_time": 4051.737,
+      "duration": 1.6610000000000582,
+      "dialogue_text": "Toto, gracias"
+    },
+    {
+      "subtitle_index": 910,
+      "start_time": 4053.246,
+      "end_time": 4056.909,
+      "duration": 3.663000000000011,
+      "dialogue_text": "Mi corazón todavía late muy fuerte"
+    },
+    {
+      "subtitle_index": 911,
+      "start_time": 4057.017,
+      "end_time": 4058.006,
+      "duration": 0.9890000000000327,
+      "dialogue_text": "Naturalmente"
+    },
+    {
+      "subtitle_index": 912,
+      "start_time": 4058.184,
+      "end_time": 4060.175,
+      "duration": 1.9909999999999854,
+      "dialogue_text": "Pero también fue un poco divertido"
+    },
+    {
+      "subtitle_index": 913,
+      "start_time": 4060.42,
+      "end_time": 4061.751,
+      "duration": 1.331000000000131,
+      "dialogue_text": "Si, cierto"
+    },
+    {
+      "subtitle_index": 914,
+      "start_time": 4062.289,
+      "end_time": 4065.452,
+      "duration": 3.163000000000011,
+      "dialogue_text": "Haru tiene que ir al colegio,"
+    },
+    {
+      "subtitle_index": 915,
+      "start_time": 4066.026,
+      "end_time": 4069.018,
+      "duration": 2.992000000000189,
+      "dialogue_text": "así que será mejor que se vaya a casa y descanse"
+    },
+    {
+      "subtitle_index": 916,
+      "start_time": 4069.362,
+      "end_time": 4070.761,
+      "duration": 1.3989999999998872,
+      "dialogue_text": "Si"
+    },
+    {
+      "subtitle_index": 917,
+      "start_time": 4071.097,
+      "end_time": 4073.19,
+      "duration": 2.092999999999847,
+      "dialogue_text": "¿Esto va a ser el adiós?"
+    },
+    {
+      "subtitle_index": 918,
+      "start_time": 4073.533,
+      "end_time": 4075.524,
+      "duration": 1.9909999999999854,
+      "dialogue_text": "Debemos hacer una última cosa"
+    },
+    {
+      "subtitle_index": 919,
+      "start_time": 4088.782,
+      "end_time": 4092.775,
+      "duration": 3.992999999999938,
+      "dialogue_text": "Barón, siento una tonta atracción hacia ti"
+    },
+    {
+      "subtitle_index": 920,
+      "start_time": 4094.287,
+      "end_time": 4097.62,
+      "duration": 3.3330000000000837,
+      "dialogue_text": "Admiro tu sinceridad, Haru"
+    },
+    {
+      "subtitle_index": 921,
+      "start_time": 4101.861,
+      "end_time": 4105.729,
+      "duration": 3.868000000000393,
+      "dialogue_text": "Haru. Cuando realmente nos necesites,"
+    },
+    {
+      "subtitle_index": 922,
+      "start_time": 4105.966,
+      "end_time": 4109.561,
+      "duration": 3.594999999999345,
+      "dialogue_text": "tendrás abierta nuestra puerta otra vez"
+    },
+    {
+      "subtitle_index": 923,
+      "start_time": 4110.57,
+      "end_time": 4113.403,
+      "duration": 2.8330000000005384,
+      "dialogue_text": "Hasta entonces, ¡adiós!"
+    },
+    {
+      "subtitle_index": 924,
+      "start_time": 4118.979,
+      "end_time": 4120.412,
+      "duration": 1.4329999999999927,
+      "dialogue_text": "Adiós"
+    },
+    {
+      "subtitle_index": 925,
+      "start_time": 4127.988,
+      "end_time": 4130.923,
+      "duration": 2.9349999999994907,
+      "dialogue_text": "¡Gracias!"
+    },
+    {
+      "subtitle_index": 926,
+      "start_time": 4131.257,
+      "end_time": 4135.353,
+      "duration": 4.096000000000458,
+      "dialogue_text": "¡Barón! ¡Toto! ¡A ti también, Muta!"
+    },
+    {
+      "subtitle_index": 927,
+      "start_time": 4138.765,
+      "end_time": 4141.029,
+      "duration": 2.2640000000001237,
+      "dialogue_text": "¿Qué quieres decir con Metoo?"
+    },
+    {
+      "subtitle_index": 928,
+      "start_time": 4141.334,
+      "end_time": 4143.666,
+      "duration": 2.3320000000003347,
+      "dialogue_text": "¿Metoo?"
+    },
+    {
+      "subtitle_index": 929,
+      "start_time": 4176.202,
+      "end_time": 4178.033,
+      "duration": 1.831000000000131,
+      "dialogue_text": "Oh no, mejor me levanto"
+    },
+    {
+      "subtitle_index": 930,
+      "start_time": 4186.379,
+      "end_time": 4187.573,
+      "duration": 1.1940000000004147,
+      "dialogue_text": "Buenos días"
+    },
+    {
+      "subtitle_index": 931,
+      "start_time": 4187.814,
+      "end_time": 4190.146,
+      "duration": 2.331999999999425,
+      "dialogue_text": "¿Por qué estás despierta tan temprano?"
+    },
+    {
+      "subtitle_index": 932,
+      "start_time": 4190.884,
+      "end_time": 4192.545,
+      "duration": 1.6610000000000582,
+      "dialogue_text": "Hoy es Domingo"
+    },
+    {
+      "subtitle_index": 933,
+      "start_time": 4192.652,
+      "end_time": 4193.914,
+      "duration": 1.2619999999997162,
+      "dialogue_text": "Voy a ir al cine con Hiromi"
+    },
+    {
+      "subtitle_index": 934,
+      "start_time": 4194.02,
+      "end_time": 4195.681,
+      "duration": 1.6609999999991487,
+      "dialogue_text": "Iremos temprano antes de que se llene se gente"
+    },
+    {
+      "subtitle_index": 935,
+      "start_time": 4197.223,
+      "end_time": 4198.212,
+      "duration": 0.9890000000004875,
+      "dialogue_text": "Mejor voy para allá."
+    },
+    {
+      "subtitle_index": 936,
+      "start_time": 4199.993,
+      "end_time": 4201.824,
+      "duration": 1.8309999999992215,
+      "dialogue_text": "He hecho huevos y una ensalada para ti"
+    },
+    {
+      "subtitle_index": 937,
+      "start_time": 4201.928,
+      "end_time": 4202.519,
+      "duration": 0.5910000000003492,
+      "dialogue_text": "¿Qué?"
+    },
+    {
+      "subtitle_index": 938,
+      "start_time": 4202.629,
+      "end_time": 4204.119,
+      "duration": 1.4899999999997817,
+      "dialogue_text": "Yo ya he comido, así que por favor sírvete tú misma"
+    },
+    {
+      "subtitle_index": 939,
+      "start_time": 4204.23,
+      "end_time": 4205.891,
+      "duration": 1.6610000000000582,
+      "dialogue_text": "También hay te inglés en la tetera"
+    },
+    {
+      "subtitle_index": 940,
+      "start_time": 4208.334,
+      "end_time": 4209.426,
+      "duration": 1.092000000000553,
+      "dialogue_text": "Y sobre el te..."
+    },
+    {
+      "subtitle_index": 941,
+      "start_time": 4210.136,
+      "end_time": 4212.229,
+      "duration": 2.092999999999847,
+      "dialogue_text": "Es la mezcla especial de Haru"
+    },
+    {
+      "subtitle_index": 942,
+      "start_time": 4212.405,
+      "end_time": 4216.398,
+      "duration": 3.993000000000393,
+      "dialogue_text": "Es diferente cada vez, así que no te garantizo cómo sabrá"
+    },
+    {
+      "subtitle_index": 943,
+      "start_time": 4218.411,
+      "end_time": 4220.003,
+      "duration": 1.5919999999996435,
+      "dialogue_text": "Ya veo..."
+    },
+    {
+      "subtitle_index": 944,
+      "start_time": 4224.35,
+      "end_time": 4226.341,
+      "duration": 1.9909999999999854,
+      "dialogue_text": "Hey. Huele bien"
+    },
+    {
+      "subtitle_index": 945,
+      "start_time": 4229.355,
+      "end_time": 4232.119,
+      "duration": 2.7640000000001237,
+      "dialogue_text": "¡Haru! ¡Noticias de una fuente fiable!"
+    },
+    {
+      "subtitle_index": 946,
+      "start_time": 4232.225,
+      "end_time": 4233.886,
+      "duration": 1.6610000000000582,
+      "dialogue_text": "¿Por qué tanto alboroto?"
+    },
+    {
+      "subtitle_index": 947,
+      "start_time": 4234.928,
+      "end_time": 4236.623,
+      "duration": 1.694999999999709,
+      "dialogue_text": "Machida, ¡la ha dejado!"
+    },
+    {
+      "subtitle_index": 948,
+      "start_time": 4241.768,
+      "end_time": 4243.531,
+      "duration": 1.76299999999992,
+      "dialogue_text": "Oh, lo ha hecho, ¿eh?"
+    },
+    {
+      "subtitle_index": 949,
+      "start_time": 4243.636,
+      "end_time": 4245.831,
+      "duration": 2.194999999999709,
+      "dialogue_text": "¿Qué tipo de reacción es esa?"
+    },
+    {
+      "subtitle_index": 950,
+      "start_time": 4245.939,
+      "end_time": 4246.871,
+      "duration": 0.931999999999789,
+      "dialogue_text": "¿Qué?"
+    },
+    {
+      "subtitle_index": 951,
+      "start_time": 4246.973,
+      "end_time": 4248.964,
+      "duration": 1.9909999999999854,
+      "dialogue_text": "¿No tienes nada más que decir?"
+    },
+    {
+      "subtitle_index": 952,
+      "start_time": 4249.075,
+      "end_time": 4250.269,
+      "duration": 1.1940000000004147,
+      "dialogue_text": "No"
+    },
+    {
+      "subtitle_index": 953,
+      "start_time": 4250.944,
+      "end_time": 4252.536,
+      "duration": 1.5919999999996435,
+      "dialogue_text": "Ya no me importa"
+    },
+    {
+      "subtitle_index": 954,
+      "start_time": 4263.89,
+      "end_time": 4265.653,
+      "duration": 1.76299999999992,
+      "dialogue_text": "¿Ha pasado algo, Haru?"
+    },
+    {
+      "subtitle_index": 955,
+      "start_time": 4265.758,
+      "end_time": 4266.417,
+      "duration": 0.6590000000005602,
+      "dialogue_text": "No"
+    },
+    {
+      "subtitle_index": 956,
+      "start_time": 4266.526,
+      "end_time": 4267.288,
+      "duration": 0.7619999999997162,
+      "dialogue_text": "Estás mintiendo"
+    },
+    {
+      "subtitle_index": 957,
+      "start_time": 4267.393,
+      "end_time": 4268.985,
+      "duration": 1.5919999999996435,
+      "dialogue_text": "No. De verdad"
+    },
+    {
+      "subtitle_index": 958,
+      "start_time": 4270.53,
+      "end_time": 4271.861,
+      "duration": 1.331000000000131,
+      "dialogue_text": "¿Qué tal tú, Hiromi?"
+    },
+    {
+      "subtitle_index": 959,
+      "start_time": 4271.965,
+      "end_time": 4272.954,
+      "duration": 0.988999999999578,
+      "dialogue_text": "¿Qué?"
+    },
+    {
+      "subtitle_index": 960,
+      "start_time": 4273.066,
+      "end_time": 4274.556,
+      "duration": 1.4899999999997817,
+      "dialogue_text": "¿Qué tal te va con Tsuge?"
+    },
+    {
+      "subtitle_index": 961,
+      "start_time": 4274.667,
+      "end_time": 4277.329,
+      "duration": 2.6619999999993524,
+      "dialogue_text": "Esto, nada, nada de nada"
+    },
+    {
+      "subtitle_index": 962,
+      "start_time": 4294.087,
+      "end_time": 4297.079,
+      "duration": 2.9919999999992797,
+      "dialogue_text": "Voces Chizuru IKEWAKI"
+    },
+    {
+      "subtitle_index": 963,
+      "start_time": 4297.19,
+      "end_time": 4300.182,
+      "duration": 2.992000000000189,
+      "dialogue_text": "Yoshihiko HAKAMADA"
+    },
+    {
+      "subtitle_index": 964,
+      "start_time": 4300.293,
+      "end_time": 4303.285,
+      "duration": 2.992000000000189,
+      "dialogue_text": "Aki MAEDA"
+    },
+    {
+      "subtitle_index": 965,
+      "start_time": 4303.396,
+      "end_time": 4306.388,
+      "duration": 2.992000000000189,
+      "dialogue_text": "Takayuki YAMADA"
+    },
+    {
+      "subtitle_index": 966,
+      "start_time": 4306.499,
+      "end_time": 4309.491,
+      "duration": 2.992000000000189,
+      "dialogue_text": "Hitomi SATO"
+    },
+    {
+      "subtitle_index": 967,
+      "start_time": 4309.602,
+      "end_time": 4312.594,
+      "duration": 2.992000000000189,
+      "dialogue_text": "Kumiko OKAE"
+    },
+    {
+      "subtitle_index": 968,
+      "start_time": 4312.705,
+      "end_time": 4315.697,
+      "duration": 2.992000000000189,
+      "dialogue_text": "Tetsuro TANBA"
+    },
+    {
+      "subtitle_index": 969,
+      "start_time": 4320.613,
+      "end_time": 4325.107,
+      "duration": 4.493999999999687,
+      "dialogue_text": "Proyecto original de Hayao MlYAZAKl"
+    },
+    {
+      "subtitle_index": 970,
+      "start_time": 4325.218,
+      "end_time": 4329.712,
+      "duration": 4.494000000000597,
+      "dialogue_text": "Manga original de Aoi HIIRAGI"
+    },
+    {
+      "subtitle_index": 971,
+      "start_time": 4329.822,
+      "end_time": 4334.316,
+      "duration": 4.493999999999687,
+      "dialogue_text": "Guión escrito por Reiko YOSHIDA"
+    },
+    {
+      "subtitle_index": 972,
+      "start_time": 4334.427,
+      "end_time": 4338.921,
+      "duration": 4.494000000000597,
+      "dialogue_text": "Música compuesta por Yuji NOMl"
+    },
+    {
+      "subtitle_index": 973,
+      "start_time": 4339.032,
+      "end_time": 4343.526,
+      "duration": 4.493999999999687,
+      "dialogue_text": "Tema principal interpretado por Ayano TSUJI"
+    },
+    {
+      "subtitle_index": 974,
+      "start_time": 4348.241,
+      "end_time": 4352.735,
+      "duration": 4.493999999999687,
+      "dialogue_text": "Nao AMISAKI y Steve ALPERT"
+    },
+    {
+      "subtitle_index": 975,
+      "start_time": 4477.337,
+      "end_time": 4481.501,
+      "duration": 4.16399999999976,
+      "dialogue_text": "Producción Studio Ghibli"
+    },
+    {
+      "subtitle_index": 976,
+      "start_time": 4481.607,
+      "end_time": 4485.941,
+      "duration": 4.333999999999833,
+      "dialogue_text": "Productor Ejecutivo Toshio SUZUKI"
+    },
+    {
+      "subtitle_index": 977,
+      "start_time": 4492.952,
+      "end_time": 4497.787,
+      "duration": 4.835000000000036,
+      "dialogue_text": "Director Hiroyuki MORITA"
+    }
+  ]
+}
